@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="">
-    <img src="docs/images/logo.png" alt="Logo" width="500" height="300">
+    <img src="game/gui/logo/large.png" alt="Logo" width="500" height="300">
   </a>
 </h1>
 
