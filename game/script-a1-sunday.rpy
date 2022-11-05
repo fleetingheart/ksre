@@ -174,6 +174,9 @@ label a1_sunday:
 
     if force_route == FR_EMI:
         label .is_carnival:
+            scene bg school_dormhallway at bgright
+            show kenji happy at center
+
             hi "I wonder… I'm kinda hungry, but I made this deal that I try to take better care of myself. Be healthier, you know."
 
             hi "Dunno if I should steer clear of the takoyaki, or head straight in."
@@ -1025,6 +1028,9 @@ label a1_sunday:
 
     if force_route == FR_RIN:
         label .clouds_in_my_head:
+            scene bg school_dormhallway at bgright
+            show kenji happy at center
+
             hi "Well, I joined the art club so I guess I'll go with them."
 
             show kenji rage
@@ -3767,6 +3773,9 @@ label a1_sunday:
 
     if force_route == FR_SHIZU:
         label .throwing_balls:
+            scene bg school_dormhallway at bgright
+            show kenji happy at center
+
             hi "I'm going to have to hang out with the Student Council, since I lost a bet."
 
             "I realize that we didn't agree on when and where. I'll just wait for them rather than risk us missing each other in the chaos outside. They must be busy running around and organizing things, anyway."
@@ -5804,6 +5813,9 @@ label a1_sunday:
     return
 
 label stranger_lilly_and_hanako:
+    scene bg school_dormhallway at bgright
+    show kenji happy at center
+
     hi "I don't know. I'm pretty hungry so I thought I'd get some food first and then check out the attractions."
 
     hi "Your class project seemed pretty cool, and I gave a hand with it so I want to see at least that one and chat with Lilly I guess."
