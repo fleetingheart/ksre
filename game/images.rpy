@@ -1437,9 +1437,9 @@ image shizuepiccomp_sil = im.Composite(
 image shizu epictransition:
     zoom 1.0 xalign 0.5 yalign 0.0
     parallel:
-        shizuepiccomp
+        "shizuepiccomp"
         pause 0.2
-        shizuepiccomp_sil with Dissolve(1.8)
+        "shizuepiccomp_sil" with Dissolve(1.8)
     parallel:
         ease 2.0 zoom 0.1 ypos 0.565
 
