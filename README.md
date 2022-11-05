@@ -42,7 +42,7 @@ Katawa Shoujo: Re-Engineered is a fan-made modern port of the classic visual nov
 ## License
 
 This project is not associated with Four Leaf Studios, and is strictly for non-commercial use.
-All code is licensed under [Mozilla Public License 2.0](https://mozilla.org/MPL/2.0/), while all assets are under their original [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) license.
+All code is licensed under [Mozilla Public License 2.0](https://mozilla.org/MPL/2.0/), while all assets are under their original [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/3.0/) license.
 
 ## Feedback and questions
 
