@@ -112,7 +112,10 @@ screen confirm(message, yes_action, no_action=None, yes_text=None, no_text=None)
 
         has vbox
 
-        text message
+        hbox:
+            null width 20
+            text message
+            null width 20
 
         null height 24
 
@@ -120,8 +123,8 @@ screen confirm(message, yes_action, no_action=None, yes_text=None, no_text=None)
             spacing 40
             xalign 0.5
 
-            textbutton (yes_text or _("Yes")) action yes_action
-            textbutton (no_text or _("No")) action (no_action or Hide("confirm", transition=config.intra_transition))
+            textbutton (yes_text or _("Yes")) action [yes_action, Hide("confirm", transition=config.intra_transition)]
+            textbutton (no_text or _("No")) action [(no_action or NullAction()), Hide("confirm", transition=config.intra_transition)]
 
         frame:
             ysize 1
@@ -429,7 +432,7 @@ screen file_slots():
                         button:
                             hovered Function(local_dels_items.add, i)
                             unhovered Function(local_dels_items.remove, i)
-                            action Function(renpy.unlink_save, save[0])
+                            action Show("confirm", config.intra_transition, _("Are you sure you want to\ndelete this save?"), Function(renpy.unlink_save, save[0]))
 
                             if i in local_dels_items:
                                 image "gui/button/del.png"
