@@ -228,7 +228,7 @@ label a1_wednesday:
                 call a1c6o3
 
     if not talk_with_hanako:
-        label .short_shape_shock:
+        label .short_sharp_shock:
             scene bg school_hallway3
             with locationchange
 

@@ -90,6 +90,10 @@ translate ru strings:
     old "Hardware cursor"
     new "Аппаратный курсор"
 
+    # game/screens.rpy:264
+    old "Blinking arrow"
+    new "Мигающая стрелка"
+
     # game/screens.rpy:202
     old "Text speed"
     new "Скор. текста"

@@ -1210,6 +1210,7 @@ label a4_emi:
 
         emi "It worked pretty well! Until I met you and saw that you were trying to adjust to stuff here, so I thought I'd help and then you were so nice and I couldn't help it, I just…"
 
+        scene black
         show ev emi_cry_down at slow_out
         with whiteout
 

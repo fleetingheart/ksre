@@ -6,15 +6,16 @@ python early:
     import asyncio
     import copy
     import math
-    import threading
     import random
     import re
     import time
+    import threading
     from functools import partial
     from pypresence import Presence, InvalidID
 
     renpy.music.register_channel("ambient", "sfx", True, tight=True)
     renpy.music.register_channel("ambient2", "sfx", True, tight=True)
+    renpy.music.register_channel("tts", "sfx", True, tight=True)
 
     def format_time(t):
         t = int(t)
@@ -27,6 +28,13 @@ python early:
             return str(hours) + ":" + str(minutes % 60).zfill(2) + ":" + str(t % 60).zfill(2)
         else:
             return str(minutes) + ":" + str(t % 60).zfill(2)
+
+    high_contrast = im.matrix.colorize("#ccc", "#fff")
+
+    def contrast_checker(image, mrx=im.matrix.identity()):
+        return ConditionSwitch(
+            "preferences.high_contrast", im.MatrixColor(image, high_contrast),
+            "True", im.MatrixColor(image, mrx))
 
     def opacity(image, op=0.4, **options):
         return im.MatrixColor(image, im.matrix.opacity(op), **options)
@@ -64,12 +72,11 @@ python early:
 
     def acdc_generic(x, n):
         if x < (1.0 / n):
-            res = (((2.0 / n) * (0.5 - math.cos(math.pi * (x * (n / 2.0))) / 2.0)) / 2.0) * (n / (n - 1.0))
+            return (((2.0 / n) * (0.5 - math.cos(math.pi * (x * (n / 2.0))) / 2.0)) / 2.0) * (n / (n - 1.0))
         elif x > (1.0 - (1.0 / n)):
-            res = (((2.0 / n) * (0.5 - math.cos(math.pi * (1.0 - (((x - 1.0) * n) / 2.0))) / 2.0) / 2.0) + (1.0 - (2.0 / n))) * (n / (n - 1.0))
+            return (((2.0 / n) * (0.5 - math.cos(math.pi * (1.0 - (((x - 1.0) * n) / 2.0))) / 2.0) / 2.0) + (1.0 - (2.0 / n))) * (n / (n - 1.0))
         else:
-            res = (x - (0.5 / n)) * (n / (n - 1.0))
-        return res
+            return (x - (0.5 / n)) * (n / (n - 1.0))
 
     @renpy.atl_warper
     def acdc_warp(x):
@@ -191,6 +198,16 @@ python early:
                         pass
 
     rpc = RPCThread(store)
+
+    # class TTSCharacter(ADVCharacter):
+    #     def do_display(self, who, what, **display_args):
+    #         global audio, renpy
+    #         if preferences.self_voicing:
+    #             bits = BytesIO()
+    #             # some code to write in bits
+    #             AudioData(bits.getvalue(), "tts.mp3")
+    #             renpy.music.play("tts.mp3", "tts")
+    #         ADVCharacter.do_display(self, who, what, **display_args)
 
 init 1000 python:
     rpc.start()

@@ -9,12 +9,15 @@ screen skip_indicator():
 screen ctc(arg=None):
     if not renpy.is_skipping():
         frame:
-            pos 1850, 35
+            pos 0.9635, 0.0325
             xysize 42, 42
 
             image Frame("gui/icons/circle.png")
 
-            image "gui/icons/ctc.png" at ctc_trans:
+            image "gui/icons/ctc.png":
+                if persistent.blinking_arrow:
+                    at ctc_trans
+
                 align 0.5, 0.5
 
 transform ctc_trans():
@@ -257,6 +260,8 @@ screen prefs():
                             mouse if not persistent.hardware_cursor and not renpy.android and not renpy.ios else None
                         ))
                     ]
+
+                textbutton _("Blinking arrow") action ToggleVariable("persistent.blinking_arrow", True, False)
 
             vbox:
                 style_prefix "slider"
@@ -984,13 +989,13 @@ screen accessibility():
             vbox:
                 style_prefix "check"
 
-                textbutton (_("Default")) action Preference("font transform", "none")
+                textbutton _("Default") action Preference("font transform", "none")
 
-                textbutton ("Deja Vu Sans") action Preference("font transform", "dejavusans")
+                textbutton "Deja Vu Sans" action Preference("font transform", "dejavusans")
 
-                textbutton ("OpenDyslexic") action Preference("font transform", "opendyslexic")
+                textbutton "OpenDyslexic" action Preference("font transform", "opendyslexic")
 
-                textbutton (_("High contrast")) action Preference("high contrast text", "toggle")
+                textbutton _("High contrast") action Preference("high contrast text", "toggle")
 
             text _("Self-voicing"):
                 bold True

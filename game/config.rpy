@@ -58,6 +58,7 @@ default persistent.hdisabled = False
 default persistent.parallax = False
 default persistent.discord = False
 default persistent.hardware_cursor = False
+default persistent.blinking_arrow = False
 
 define mouse = MouseDisplayable("gui/icons/cursor.png", 0, 0)
 

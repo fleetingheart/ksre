@@ -1669,3 +1669,24 @@ image steam2:
     "vfx/steam3.png" with Dissolve(0.5)
     0.75
     repeat
+
+image check_fg_op = contrast_checker("gui/button/check_foreground.png", im.matrix.opacity(0.4))
+image check_fg = contrast_checker("gui/button/check_foreground.png")
+
+image check_sl_fg_op = contrast_checker("gui/button/check_selected_foreground.png", im.matrix.opacity(0.4))
+image check_sl_fg = contrast_checker("gui/button/check_selected_foreground.png")
+
+image return_op = contrast_checker("gui/button/return.png", im.matrix.opacity(0.4))
+image return_ = contrast_checker("gui/button/return.png")
+
+image music_play_op = contrast_checker("gui/button/music-play.png", im.matrix.opacity(0.4))
+image music_play = contrast_checker("gui/button/music-play.png")
+
+image language_op = contrast_checker("gui/button/language.png", im.matrix.opacity(0.4))
+image language = contrast_checker("gui/button/language.png")
+
+image star_op = contrast_checker("gui/icons/star.png", im.matrix.opacity(0.4))
+image star = contrast_checker("gui/icons/star.png")
+
+image music_stop_op = contrast_checker("gui/button/music-stop.png", im.matrix.opacity(0.4))
+image music_stop = contrast_checker("gui/button/music-stop.png")

@@ -21,11 +21,10 @@ style gui_button_text is gui_text:
     insensitive_color "#00000019"
 
 style check_button is gui_button:
-    foreground opacity("gui/button/check_foreground.png")
-    hover_foreground "gui/button/check_foreground.png"
-    selected_foreground opacity("gui/button/check_selected_foreground.png")
-    selected_hover_foreground "gui/button/check_selected_foreground.png"
-    insensitive_foreground opacity("gui/button/check_foreground.png", 0.1)
+    foreground "check_fg_op"
+    hover_foreground "check_fg"
+    selected_foreground "check_sl_fg_op"
+    selected_hover_foreground "check_sl_fg"
 
 style check_button_text is gui_button_text:
     first_indent 40
@@ -116,8 +115,8 @@ style b_nvl_window:
 style return_button is gui_button:
     yalign 0.5
     xalign 1.0
-    foreground opacity("gui/button/return.png")
-    hover_foreground "gui/button/return.png"
+    foreground "return_op"
+    hover_foreground "return_"
 
 style return_button_text is gui_button_text:
     first_indent 53
@@ -182,8 +181,8 @@ style prefs_button is gui_button
 style prefs_button_text is gui_button_text
 
 style test_button is gui_button:
-    foreground opacity("gui/button/music-play.png")
-    hover_foreground "gui/button/music-play.png"
+    foreground "music_play_op"
+    hover_foreground "music_play"
     top_margin 6
 
 style test_button_text is gui_button_text:
@@ -192,8 +191,8 @@ style test_button_text is gui_button_text:
 
 style lang_button is gui_button:
     yalign 0.5
-    foreground opacity("gui/button/language.png")
-    hover_foreground "gui/button/language.png"
+    foreground "language_op"
+    hover_foreground "language"
 
 style lang_button_text is gui_button_text:
     first_indent 54
@@ -216,8 +215,8 @@ style file_slots_button is gui_button
 style file_slots_button_text is gui_button_text
 
 style save_button is gui_button:
-    foreground opacity("gui/icons/star.png")
-    hover_foreground "gui/icons/star.png"
+    foreground "star_op"
+    hover_foreground "star"
 
 style save_button_text is gui_button_text:
     first_indent 60
@@ -239,8 +238,8 @@ style jukebox_button is gui_button
 style jukebox_button_text is gui_button_text
 
 style stop_button is gui_button:
-    foreground opacity("gui/button/music-stop.png")
-    hover_foreground "gui/button/music-stop.png"
+    foreground "music_stop_op"
+    hover_foreground "music_stop"
     top_margin 5
 
 style stop_button_text is gui_button_text:
