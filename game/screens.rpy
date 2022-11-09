@@ -30,48 +30,39 @@ transform ctc_trans():
 screen say(who, what):
     style_prefix "say"
 
-    frame at center:
-        has vbox
-
-        if who and who.strip():
-            frame:
-                style_suffix "namebox"
-                text who id "who":
-                    size 40
-                    bold True
-
+    if who and who.strip():
         frame:
-            style_suffix "window"
-            text what id "what"
+            style_suffix "namebox"
+            text who id "who":
+                size 40
+                bold True
+
+    frame:
+        style_suffix "window"
+        text what id "what"
 
 screen doublespeak(c1, t1, c2, t2):
     style_prefix "doublespeak"
 
-    vbox:
-        style_suffix "vbox1"
+    frame:
+        style_suffix "namebox1"
+        text ("{color=" + c1.who_args["color"] + "}" + c1.name + "{/color}") id "who1":
+            size 40
+            bold True
 
-        frame:
-            style_suffix "namebox"
-            text ("{color=" + c1.who_args["color"] + "}" + c1.name + "{/color}") id "who1":
-                size 40
-                bold True
+    frame:
+        style_suffix "window1"
+        text t1 id "what1"
 
-        frame:
-            style_suffix "window"
-            text t1 id "what1"
+    frame:
+        style_suffix "namebox2"
+        text ("{color=" + c2.who_args["color"] + "}" + c2.name + "{/color}") id "who2":
+            size 40
+            bold True
 
-    vbox:
-        style_suffix "vbox2"
-
-        frame:
-            style_suffix "namebox"
-            text ("{color=" + c2.who_args["color"] + "}" + c2.name + "{/color}") id "who2":
-                size 40
-                bold True
-
-        frame:
-            style_suffix "window"
-            text t2 id "what2"
+    frame:
+        style_suffix "window2"
+        text t2 id "what2"
 
     use ctc
 
@@ -927,7 +918,13 @@ screen history():
                         if h.who:
                             null width 40
 
-                        text h.what:
+                        # fixing issue with "NameError: *dialogue text* not found" by ssh character
+                        python:
+                            entry = str(h.what)
+                            if entry.startswith("[") and not entry.startswith("[["):
+                                entry = "[" + entry
+
+                        text entry:
                             style_suffix "say"
 
                 null height 10
@@ -946,11 +943,11 @@ screen written_note(text, quiet=False, custom_background=None):
     modal True
     style_prefix "note"
 
-    frame:
+    frame at note_tf:
         if custom_background:
             background custom_background
 
-        text _(text)
+        text text
 
     key "dismiss" action [Hide("written_note"), Return()]
 

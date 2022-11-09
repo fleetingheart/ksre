@@ -259,4 +259,4 @@ label credits:
 
     $ config.allow_skipping = True
 
-    jump main_menu
+    return

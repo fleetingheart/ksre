@@ -57,8 +57,8 @@ style vslider:
     hover_thumb "gui/bar/vertical_thumb.png"
 
 style say_namebox is frame:
-    xpos -0.025
-    ypos 0.55
+    xpos 0.033
+    ypos 0.745
     xsize 0.33
     ysize 0.135
     xpadding 20
@@ -66,8 +66,11 @@ style say_namebox is frame:
     background Frame("gui/bg/namebox.png")
 
 style say_window is frame:
+    xalign 0.5
+    yanchor 1.0
+    ypos 0.99
     xsize 0.9
-    ysize 0.175
+    ysize 0.185
     xpadding 40
     top_padding 10
     background Frame("gui/bg/saybox.png")
@@ -75,16 +78,19 @@ style say_window is frame:
 style say_dialogue is default:
     size 42 + (mobile_ts_add - 6) * (renpy.android or renpy.ios)
 
-style doublespeak_vbox1 is say_vbox:
+style doublespeak_namebox1 is say_namebox:
+    xpos 0.008
+
+style doublespeak_namebox2 is say_namebox:
+    xpos 0.508
+
+style doublespeak_window1 is say_window:
+    xsize 0.46875
     xalign 0.05
 
-style doublespeak_vbox2 is say_vbox:
-    xalign 0.995
-
-style doublespeak_namebox is say_namebox
-
-style doublespeak_window is say_window:
+style doublespeak_window2 is say_window:
     xsize 0.46875
+    xalign 0.995
 
 style choice_vbox is vbox:
     align (0.5, 0.4)

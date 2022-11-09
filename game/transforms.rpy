@@ -306,6 +306,13 @@ transform crowdgen(img1, img2, img3):
 transform offscreenbottom:
     xalign 0.5 ypos 1.0
 
+transform note_tf:
+    xalign 0.5 yalign 1.0 alpha 0.0
+    easein 0.5 yalign 0.5 alpha 1.0
+
+    on hide:
+        easeout 0.5 yalign 1.0 alpha 0.0
+
 define dotwipe_down = ImageDissolve(im.Tile("gui/trans/dots_col.png"), 0.5, 32, ramptype="mcube")
 define dotwipe_up = ImageDissolve(im.Tile("gui/trans/dots_col.png"), 0.5, 32, ramptype="mcube", reverse=True)
 

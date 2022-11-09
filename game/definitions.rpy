@@ -60,13 +60,19 @@ python early:
 
         _args = [
             (1920, 1080),
-            (0, 0), "gui/bg/main.png",
-            (1700, 1007), Text(config.name + "\n" + renpy.version() + "\nMade by Fleeting Heartbeat Studios", color="#00000080", size=15, alt="Menu")
+            (0, 0), "gui/bg/main.png"
         ]
 
         for trigger, offset, widget in _widgets:
             if renpy.seen_label(trigger) or config.developer:
                 _args.extend((offset, widget))
+
+        _args.extend((
+            (1650, 1010), Text(
+                config.name + " v" + config.version +
+                "\nRen'Py " + ".".join(str(el) for el in renpy.version(True)[:3]) +
+                "\nMade by Fleeting Heartbeat Studios", color="#00000080", size=15, alt="Menu")
+        ))
 
         return Composite(*_args), None
 
@@ -145,7 +151,7 @@ python early:
             __ = self.store.__
 
             asyncio.set_event_loop(asyncio.new_event_loop())
-            self.rpc = Presence("1020592115153113088")
+            self.rpc = Presence("1039954053079236628")
             self.rpc.connect()
 
             while True:
@@ -186,7 +192,7 @@ python early:
 
                     self.rpc.update(
                         start=self.start_time,
-                        large_image="main_icon",
+                        large_image="logo",
                         **params
                     )
                 except InvalidID:
@@ -198,16 +204,6 @@ python early:
                         pass
 
     rpc = RPCThread(store)
-
-    # class TTSCharacter(ADVCharacter):
-    #     def do_display(self, who, what, **display_args):
-    #         global audio, renpy
-    #         if preferences.self_voicing:
-    #             bits = BytesIO()
-    #             # some code to write in bits
-    #             AudioData(bits.getvalue(), "tts.mp3")
-    #             renpy.music.play("tts.mp3", "tts")
-    #         ADVCharacter.do_display(self, who, what, **display_args)
 
 init 1000 python:
     rpc.start()
