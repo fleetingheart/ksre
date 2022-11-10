@@ -697,7 +697,7 @@ default not_much_talking = None
 
 default interested_in_art = None
 
-python:
+init python:
     def go_through_lilly():
         return talk_with_hanako and side_lilly
 
