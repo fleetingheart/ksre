@@ -1434,14 +1434,14 @@ image shizuepiccomp_sil = im.Composite(
     (0 ,0), silhouette("sprites/shizu/close/shizu_out_serious_close.png"),
     (3, 1080), silhouette("vfx/shizu_out_serious_legs.png"))
 
+transform epictransform:
+    xalign 0.5 yalign 0.0
+    ease 2.0 zoom 0.1 ypos 1.235
+
 image shizu epictransition:
-    zoom 1.0 xalign 0.5 yalign 0.0
-    parallel:
-        "shizuepiccomp"
-        pause 0.2
-        "shizuepiccomp_sil" with Dissolve(1.8)
-    parallel:
-        ease 2.0 zoom 0.1 ypos 0.565
+    "shizuepiccomp"
+    pause 0.2
+    "shizuepiccomp_sil" with Dissolve(1.8)
 
 image bg school_roof_ni_crop = im.Crop("bgs/school_roof_ni.jpg", 200, 0, 1920, 1080)
 image n_vignette = "vfx/narrowvignette.png"

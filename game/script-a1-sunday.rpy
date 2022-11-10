@@ -5042,7 +5042,7 @@ label a1_sunday:
 
             "It's as if she's telling me to look at everything in front of me:"
 
-            show shizu epictransition
+            show shizu epictransition at epictransform
             show cityscape zoom behind shizu
             show hill enter behind shizu
 
