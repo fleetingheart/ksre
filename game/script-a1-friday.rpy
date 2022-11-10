@@ -125,12 +125,13 @@ label a1_friday:
             "This is where I gave out yesterday."
 
             menu:
-                "Will I be able to do more?"
+                set choices
                 with menueffect
+
+                "Will I be able to do more?"
 
                 "Go for it.":
                     $ go_for_it = True
-                    $ favor_emi = True
 
                     call a1c9o1
                 "Take it easy.":
@@ -141,7 +142,7 @@ label a1_friday:
             if _in_replay:
                 return
 
-    if not promised or not go_for_it:
+    if not get_tired() or not go_through_shizu():
         label .invisible_hat:
             if not promised or _in_replay:
                 scene black
@@ -290,7 +291,7 @@ label a1_friday:
 
             hi "Thanks but no thanks."
 
-            if not side_lilly and wait_for_shizu or _in_replay:
+            if not get_tired() and not go_through_shizu() or _in_replay:
                 show kenji tsun_close
                 with charachange
 
@@ -306,18 +307,16 @@ label a1_friday:
             if _in_replay:
                 return
 
-    if (not promised or not go_for_it) and wait_for_shizu:
+    if not get_tired() and go_through_shizu():
         label .home_field_advantage:
             scene bg school_dormhallway
-            if side_lilly:
-                show kenji happy_close at center
+            show kenji happy_close at center
 
             stop music fadeout 0.3
 
             play sound sfx_doorslam
 
-            if side_lilly:
-                show kenji tsun_close
+            show kenji tsun_close
             with vpunch
 
             "The door down the hall opens with a crack as it swings forward from being pushed opened too strongly and crashing against the wall. The sound is followed by a peal of bubbly laughter, and I instantly know who it is."
@@ -328,18 +327,16 @@ label a1_friday:
             show shizu basic_normal2 behind kenji at center
             with zoomin
 
-            if side_lilly:
-                show kenji:
-                    0.25
-                    easeout 0.5 alpha 0.0 offscreenleft
-                with None
+            show kenji:
+                0.25
+                easeout 0.5 alpha 0.0 offscreenleft
+            with None
 
             show shizu at tworight
             show misha at twoleft
             with charamovefaster
 
-            if side_lilly:
-                hide kenji
+            hide kenji
 
             play sound sfx_impact2
 
@@ -442,43 +439,25 @@ label a1_friday:
             "She points at my collection of medications on the night table."
 
             menu:
+                set choices
                 with menueffect
 
                 "I don't really want to talk about it with these two."
 
-                "Try to dodge the subject." if True:
+                "Try to dodge the subject.":
                     $ kick_shizu = False
-                    $ force_route = FR_SHIZU
 
                     call a1c10o1
 
-                "Kick them out of my room." if True:
+                "Kick them out of my room.":
                     $ kick_shizu = True
-                    $ get_kenji = True
 
                     call a1c10o2
 
             if _in_replay:
                 return
 
-    if not force_route and (not promised or not go_for_it):
-        label .no_recovery:
-            scene bg school_scienceroom
-            with locationskip
-
-            "For a change, I'm not among the first ones to come to morning class."
-
-            "Instead, almost everyone else seems to be here already. I recognize most of my class by their faces by now, though the names escape me still."
-
-            if wait_for_shizu and not kick_shizu or _in_replay:
-                call class_goes_lazily
-            else:
-                call mas_doesnt_bother
-
-            if _in_replay:
-                return
-
-    if promised and go_for_it:
+    if get_tired() and go_through_shizu():
         label .slow_recovery:
             scene bg school_hallway3
             with shorttimeskip
@@ -572,379 +551,43 @@ label a1_friday:
             with charamove
 
             menu:
+                set choices
                 with menueffect
 
                 mi "As a member of the Student Council, it's your duty to tell us why you are skipping class! Especially if it's something fun fun fun~!"
 
                 "Yeah, I sure was having fun fun fun at the nurse's office…" if True:
-                    $ get_kenji = True
+                    $ fun_fun_at_office = True
 
                     call a1c11o1
                     call mas_doesnt_bother
 
                 "I don't want to talk about it, okay?" if True:
+                    $ fun_fun_at_office = False
+
                     call a1c11o2
 
             if _in_replay:
                 return
 
-    if force_route == FR_SHIZU:
-        label .no_free_lunch:
-            scene bg school_council
-            with locationchange
-
-            show misha perky_smile at twoleft
-            show shizu behind_smile at tworight
-            with charaenter
-
-            "Once inside the office, I look around and see that it's deserted."
-
-            hi "I guess this means there isn't a lot of work left, huh? Since there's no one here, and all."
-
-            show misha sign_smile
-            with charachange
-
-            mi "It's always like this, Hicchan~!"
-
-            "This confirms what I have thought before but have never actually been able to confirm definitively: Shizune and Misha are the Student Council. The whole Student Council."
-
-            hi "Damn. So it's true. The Student Council is really only you two."
-
-            play music music_ease fadein 4.0
-
-            show misha hips_grin
-            show shizu cross_wut
-            with charachange
-
-            "Shizune looks as if she's stuck wondering whether to be ashamed or explode with anger, and Misha is equally divided between laughing and trying to stop her."
-
-            show shizu behind_frustrated
-            with charachange
-
-            shi "…"
-
-            show misha sign_smile
-            with charachange
-
-            mi "Well, then, Hicchan, you'll be happy to know that since it's just us three, we have a lot to do! A lot~! A lot~ lot~ lot~…"
-
-            hi "That does not make me happy."
-
-            show shizu adjust_happy
-            with charachange
-
-            "But it seems to make Shizune very happy."
-
-            show misha cross_laugh
-            with charachange
-
-            mi "Wahaha~!"
-
-            show misha hips_grin
-            with charachange
-
-            mi "Just kidding!"
-
-            if promised and go_for_it or _in_replay:
-                scene bg school_council
-                with shorttimeskip
-
-                "The work turns out to be sorting and double-checking the considerable amount of paperwork necessary for an event such as the school festival to get done."
-
-                "Bureaucracy is a mindboggling thing."
-
-                play sound sfx_normalbell
-
-                "But we manage to finish it just when the lunch bells ring."
-
-                show misha hips_grin at twoleft
-                show shizu adjust_happy at tworight
-                with charaenter
-
-                mi "Okay~, now that we are done, we can relax a little! But not too much, we have lots more to do in the afternoon~!"
-
-            $ renpy.music.play(music_ease, fadein=4.0, if_changed=True)
-
-            show shizu behind_smile
-            with charachange
-
-            shi "…"
-
-            show misha sign_smile
-            with charachange
-
-            mi "It's actually not that much work, Hicchan~. So~, we can afford to enjoy a little lunch first."
-
-            show misha cross_laugh
-            with charachange
-
-            mi "Hahaha~!"
-
-            "The two of them produce a small array of plastic containers seemingly out of thin air."
-
-            show misha hips_grin
-            with charachange
-
-            mi "Hm~ hm~… It's chicken cutlet with tomatoes and soybean sprouts~! Doesn't it sound delicious, Hicchan?"
-
-            mi "It was just made this morning, and it's still warm, so eat eat eat~!"
-
-            "I take one of the containers and open it. It looks nice, and certainly smells good. The fact that I'm really hungry adds to that even more."
-
-            hi "Wow, this looks great. Where did you get this?"
-
-            show shizu basic_normal
-            with charachange
-
-            shi "…"
-
-            show misha hips_smile
-            with charachange
-
-            mi "That isn't important, Hicchan!"
-
-            show misha sign_smile
-            with charachange
-
-            mi "There was supposed to be a stall selling lunchboxes, but the girl who was to run it suddenly said she couldn't do it. Shicchan said, 'What a waste, it was a lot of work to trick Hicchan into making this~'—"
-
-            hi "Hey, what the hell…"
-
-            show misha hips_grin
-            with charachange
-
-            mi "…So~! Shicchan wanted to see if she could do it, but then decided not to, right, Shicchan~?"
-
-            show shizu basic_angry
-            with charachange
-
-            "Shizune sulks angrily, shooting Misha a displeased look. I don't think I was supposed to hear that story."
-
-            hi "This is your test food?"
-
-            show shizu behind_frown
-            with charachange
-
-            shi "…"
-
-            show misha sign_smile
-            with charachange
-
-            mi "I'm eating it too, Hicchan~!"
-
-            show misha hips_grin
-            with charachange
-
-            mi "And Shicchan is, too~!"
-
-            "That doesn't answer the question!"
-
-            "Nevertheless, I split a pair of chopsticks Shizune offers me, pick up a piece of cutlet, and pop it into my mouth."
-
-            hi "It's surprisingly good. I didn't expect Shizune to be such a good cook."
-
-            show shizu basic_frown
-            with charachange
-
-            "Shizune puts her chopsticks down to sign curtly towards Misha, who gulps down her cutlet with noticeable difficulty in order to speak for her."
-
-            show misha sign_smile
-            with charachange
-
-            mi "Hicchan~! Don't talk with food in your mouth~!"
-
-            hi "It's not like I enjoy doing it. Anyway, how motherly to show that kind of concern…"
-
-            show shizu behind_frown
-            with charachange
-
-            shi "…"
-
-            show misha hips_frown
-            with charachange
-
-            mi "You can't even eat right, Hicchan~! That's all it is~!"
-
-            show misha perky_sad
-            with charachange
-
-            "It's a stalemate. I can't eat in order to talk to Shizune, who can't eat in order to chastise me for eating the wrong way. Misha, caught in between, is in the same situation, and looks the most disheartened by how this is going."
-
-            show shizu behind_blank
-            show misha perky_smile
-            with charachange
-
-            "Either way, our food is getting colder by the second, and it wasn't piping hot to start with. Wherever this was going, it dies down pretty fast once we all realize that, and we eat."
-
-            play sound sfx_warningbell
-
-            "After a while the bell rings, but Misha makes no attempt to tell Shizune, so I'm sure they're planning to skip classes and spend the rest of the day in here again."
-
-            show shizu adjust_smug
-            with charachange
-
-            shi "…"
-
-            show misha sign_smile
-            with charachange
-
-            mi "Hicchan, do you have any plans for the festival?"
-
-            hi "No, not really. After all, I've only been here a week, what could I set up in that time?"
-
-            show misha cross_laugh
-            with charachange
-
-            mi "Wahaha~! Hicchan, you helped us out so much, don't sell yourself short!"
-
-            hi "Okay."
-
-            show shizu basic_angry
-            with charachange
-
-            shi "…"
-
-            show misha hips_frown
-            with charachange
-
-            mi "We're serious~!"
-
-            hi "Okay!"
-
-            "The two of them seem to get indignant over the strangest things."
-
-            show shizu adjust_happy
-            with charachange
-
-            shi "…"
-
-            show misha hips_smile
-            with charachange
-
-            mi "You're going though, right, Hicchan? You should at least see what we've ac—complished…? Everyone should be able to look at what they have done so they can fully understand their work, that's my belief~! You're no exception!"
-
-            show misha perky_smile
-            with charachange
-
-            mi "Hicchan, you should definitely go~! If you don't have anything planned, then maybe we can even go together~!"
-
-            show shizu adjust_blush
-            with charachange
-
-            hi "Do you need a hand? If there's anything you need help with, I'm fine with sticking around."
-
-            "I feel much more at ease than I did earlier; my previous concerns and fears long gone. I'd forgotten about this morning's trouble entirely until now, having fun with Shizune like this."
-
-            "Having fun with Shizune… It seems like an unfamiliar concept to think of, but, looking back on it, I've really enjoyed the moments I've spent with Shizune and Misha these past few days, in spite of everything else."
-
-            "If we might be going together, then maybe I can afford to stick around a little longer. And I guess it beats class."
-
-            show shizu behind_blank
-            with charachange
-
-            shi "…"
-
-            show misha hips_smile
-            with charachange
-
-            mi "Really, Hicchan? Okay~! We can consider this you repaying us for the free lunch~!"
-
-            show misha cross_laugh
-            with charachange
-
-            mi "Great, this is great, really~ really~ great~! Shicchan was hoping to bring this up again later anyway! Ahahaha~! Wahahahahaha~!"
-
-            "That's not a free lunch at all. Normally I would be angry, or at least slightly unsettled, but my mood has improved from earlier on, so I'll let it slide."
-
-            "Helping them out turns out to consist mostly of stamping forms and making what seems like ten thousand copies apiece of fifty different budget reports."
-
-            "It's not hard, but very boring, and according to Misha, the simplest of the tasks they deal with."
-
-            "I feel myself getting more and more tired, and with that, less eager to return to class. This is especially bad because the more time I spend out of class, the harder it seems to just get up and go back."
-
-            "These two, they're a terrible influence. Terrible role models. Not that it bothers me all that much, and I'm sure no one looks up to them, but it's the principle of the thing…"
-
-            show shizu adjust_happy
-            with charachange
-
-            shi "…"
-
-            show misha hips_grin
-            with charachange
-
-            mi "Done~!"
-
-            hi "Ah, that was fast. I'll be finished before this period's over, I think."
-
-            show misha sign_smile
-            with charachange
-
-            mi "No, no, Hicchan, everything is done. So, you're done, too~!"
-
-            hi "That doesn't make any sense, are you telling me this is all arbitrary and you've been keeping me here for the hell of it?"
-
-            show misha hips_grin
-            with charachange
-
-            mi "No~…"
-
-            show shizu basic_normal
-            with charachange
-
-            shi "…"
-
-            show misha perky_smile
-            with charachange
-
-            mi "But we have kept you long enough~! You should go back to class, Hicchan~! You can still make it for most of this period!"
-
-            hi "What about you?"
-
-            show shizu behind_blank
-            with charachange
-
-            shi "…"
-
-            show misha hips_smile
-            with charachange
-
-            mi "Of course we're coming too, of course; we'll be right behind you!"
-
-            stop music fadeout 6.0
-
-            scene bg school_hallway3
-            with locationchange
-
-            "Reassured, I start heading back to class, but the period is almost halfway over, so I start thinking it would be pointless halfway there and pass the difference between this class and the next drinking juice in the hallway."
-
-            "I keep an eye on the door to the student council room, but it doesn't open. What's taking them so long? Are they busy wrapping up my share of the work? Well, it shouldn't take so long, unless there's more, and they just wanted me to leave."
-
-            "The more I think about it, the likelier it seems."
-
-            "Shizune is… well, not an idiot, but clearly, she's unable to just come out with things."
-
-            "Maybe it's because she can't talk, so it's harder for her. She has Misha, but all in all, as easy as they make it look, there's still a difference between casual speech and sign language."
-
-            play sound sfx_normalbell
-
-            "I contemplate going back there to check on them, but the bell rings, and I have to go to class."
-
+    if not go_through_shizu() or got_kenji():
+        label .no_recovery:
             scene bg school_scienceroom
-            with locationchange
+            with locationskip
 
-            "They join me a few minutes later, and the thoughts I had in my mind before slip away in the routine of school life."
+            if not promised or kick_shizu:
+                "For a change, I'm not among the first ones to come to morning class."
 
-            with shorttimeskip
-
-            "By the time I remember, school is over for the day and I'm too tired to do anything but go home, do my homework, and then go to sleep."
-
-            scene black
-            with Dissolve(3.0)
+                "Instead, almost everyone else seems to be here already. I recognize most of my class by their faces by now, though the names escape me still."
+            elif not kick_shizu or _in_replay:
+                call class_goes_lazily
+            else:
+                call mas_doesnt_bother
 
             if _in_replay:
                 return
 
-    if not force_route:
+    if not go_through_shizu() or got_kenji() or not are_student_council:
         label .foot_and_mouth:
             scene bg school_hallway3
             show crowd
@@ -1068,7 +711,7 @@ label a1_friday:
 
                 "Huh."
 
-                if wait_for_shizu and kick_shizu or _in_replay:
+                if go_through_shizu() and not got_kenji() or _in_replay:
                     "Her expression is so funny that I almost laugh out loud."
 
                     "Emi giggles, to herself or to something or other, or maybe for no reason at all. I like the sound of it."
@@ -1630,7 +1273,7 @@ label a1_friday:
 
             "By the time I leave the main building, sunset isn't too far away. A small trickle of students remain, but the majority have left; presumably to their homes and dorms."
 
-            if promised and go_for_it or _in_replay:
+            if get_tired() or _in_replay:
                 scene bg school_dormhisao_ss
                 with locationskip
 
@@ -1665,7 +1308,7 @@ label a1_friday:
             if _in_replay:
                 return
 
-    if not force_route and not (promised and go_for_it):
+    if not go_through_shizu() and not get_tired() or go_through_shizu() and kick_shizu:
         label .mind_your_step:
             scene bg school_courtyard_ss
 
@@ -2275,7 +1918,9 @@ label a1_friday:
             "Now that she brings it up, I notice that my breathing is strangely heavy. The uphill walk has really done a job on me."
 
             menu:
+                set choices
                 with menueffect
+
                 "Lilly noticed it all too quickly…"
 
                 "Sorry, I'm not in very good condition.":
@@ -2285,9 +1930,364 @@ label a1_friday:
 
                 "I don't really want to talk about it.":
                     $ no_much_talking = True
-                    $ get_kenji = True
 
                     call a1c13o2
+
+            if _in_replay:
+                return
+
+    if go_through_shizu() and not got_kenji() and are_student_council:
+        label .no_free_lunch:
+            scene bg school_council
+            with locationchange
+
+            show misha perky_smile at twoleft
+            show shizu behind_smile at tworight
+            with charaenter
+
+            "Once inside the office, I look around and see that it's deserted."
+
+            hi "I guess this means there isn't a lot of work left, huh? Since there's no one here, and all."
+
+            show misha sign_smile
+            with charachange
+
+            mi "It's always like this, Hicchan~!"
+
+            "This confirms what I have thought before but have never actually been able to confirm definitively: Shizune and Misha are the Student Council. The whole Student Council."
+
+            hi "Damn. So it's true. The Student Council is really only you two."
+
+            play music music_ease fadein 4.0
+
+            show misha hips_grin
+            show shizu cross_wut
+            with charachange
+
+            "Shizune looks as if she's stuck wondering whether to be ashamed or explode with anger, and Misha is equally divided between laughing and trying to stop her."
+
+            show shizu behind_frustrated
+            with charachange
+
+            shi "…"
+
+            show misha sign_smile
+            with charachange
+
+            mi "Well, then, Hicchan, you'll be happy to know that since it's just us three, we have a lot to do! A lot~! A lot~ lot~ lot~…"
+
+            hi "That does not make me happy."
+
+            show shizu adjust_happy
+            with charachange
+
+            "But it seems to make Shizune very happy."
+
+            show misha cross_laugh
+            with charachange
+
+            mi "Wahaha~!"
+
+            show misha hips_grin
+            with charachange
+
+            mi "Just kidding!"
+
+            if get_tired() or _in_replay:
+                scene bg school_council
+                with shorttimeskip
+
+                "The work turns out to be sorting and double-checking the considerable amount of paperwork necessary for an event such as the school festival to get done."
+
+                "Bureaucracy is a mindboggling thing."
+
+                play sound sfx_normalbell
+
+                "But we manage to finish it just when the lunch bells ring."
+
+                show misha hips_grin at twoleft
+                show shizu adjust_happy at tworight
+                with charaenter
+
+                mi "Okay~, now that we are done, we can relax a little! But not too much, we have lots more to do in the afternoon~!"
+
+            $ renpy.music.play(music_ease, fadein=4.0, if_changed=True)
+
+            show shizu behind_smile
+            with charachange
+
+            shi "…"
+
+            show misha sign_smile
+            with charachange
+
+            mi "It's actually not that much work, Hicchan~. So~, we can afford to enjoy a little lunch first."
+
+            show misha cross_laugh
+            with charachange
+
+            mi "Hahaha~!"
+
+            "The two of them produce a small array of plastic containers seemingly out of thin air."
+
+            show misha hips_grin
+            with charachange
+
+            mi "Hm~ hm~… It's chicken cutlet with tomatoes and soybean sprouts~! Doesn't it sound delicious, Hicchan?"
+
+            mi "It was just made this morning, and it's still warm, so eat eat eat~!"
+
+            "I take one of the containers and open it. It looks nice, and certainly smells good. The fact that I'm really hungry adds to that even more."
+
+            hi "Wow, this looks great. Where did you get this?"
+
+            show shizu basic_normal
+            with charachange
+
+            shi "…"
+
+            show misha hips_smile
+            with charachange
+
+            mi "That isn't important, Hicchan!"
+
+            show misha sign_smile
+            with charachange
+
+            mi "There was supposed to be a stall selling lunchboxes, but the girl who was to run it suddenly said she couldn't do it. Shicchan said, 'What a waste, it was a lot of work to trick Hicchan into making this~'—"
+
+            hi "Hey, what the hell…"
+
+            show misha hips_grin
+            with charachange
+
+            mi "…So~! Shicchan wanted to see if she could do it, but then decided not to, right, Shicchan~?"
+
+            show shizu basic_angry
+            with charachange
+
+            "Shizune sulks angrily, shooting Misha a displeased look. I don't think I was supposed to hear that story."
+
+            hi "This is your test food?"
+
+            show shizu behind_frown
+            with charachange
+
+            shi "…"
+
+            show misha sign_smile
+            with charachange
+
+            mi "I'm eating it too, Hicchan~!"
+
+            show misha hips_grin
+            with charachange
+
+            mi "And Shicchan is, too~!"
+
+            "That doesn't answer the question!"
+
+            "Nevertheless, I split a pair of chopsticks Shizune offers me, pick up a piece of cutlet, and pop it into my mouth."
+
+            hi "It's surprisingly good. I didn't expect Shizune to be such a good cook."
+
+            show shizu basic_frown
+            with charachange
+
+            "Shizune puts her chopsticks down to sign curtly towards Misha, who gulps down her cutlet with noticeable difficulty in order to speak for her."
+
+            show misha sign_smile
+            with charachange
+
+            mi "Hicchan~! Don't talk with food in your mouth~!"
+
+            hi "It's not like I enjoy doing it. Anyway, how motherly to show that kind of concern…"
+
+            show shizu behind_frown
+            with charachange
+
+            shi "…"
+
+            show misha hips_frown
+            with charachange
+
+            mi "You can't even eat right, Hicchan~! That's all it is~!"
+
+            show misha perky_sad
+            with charachange
+
+            "It's a stalemate. I can't eat in order to talk to Shizune, who can't eat in order to chastise me for eating the wrong way. Misha, caught in between, is in the same situation, and looks the most disheartened by how this is going."
+
+            show shizu behind_blank
+            show misha perky_smile
+            with charachange
+
+            "Either way, our food is getting colder by the second, and it wasn't piping hot to start with. Wherever this was going, it dies down pretty fast once we all realize that, and we eat."
+
+            play sound sfx_warningbell
+
+            "After a while the bell rings, but Misha makes no attempt to tell Shizune, so I'm sure they're planning to skip classes and spend the rest of the day in here again."
+
+            show shizu adjust_smug
+            with charachange
+
+            shi "…"
+
+            show misha sign_smile
+            with charachange
+
+            mi "Hicchan, do you have any plans for the festival?"
+
+            hi "No, not really. After all, I've only been here a week, what could I set up in that time?"
+
+            show misha cross_laugh
+            with charachange
+
+            mi "Wahaha~! Hicchan, you helped us out so much, don't sell yourself short!"
+
+            hi "Okay."
+
+            show shizu basic_angry
+            with charachange
+
+            shi "…"
+
+            show misha hips_frown
+            with charachange
+
+            mi "We're serious~!"
+
+            hi "Okay!"
+
+            "The two of them seem to get indignant over the strangest things."
+
+            show shizu adjust_happy
+            with charachange
+
+            shi "…"
+
+            show misha hips_smile
+            with charachange
+
+            mi "You're going though, right, Hicchan? You should at least see what we've ac—complished…? Everyone should be able to look at what they have done so they can fully understand their work, that's my belief~! You're no exception!"
+
+            show misha perky_smile
+            with charachange
+
+            mi "Hicchan, you should definitely go~! If you don't have anything planned, then maybe we can even go together~!"
+
+            show shizu adjust_blush
+            with charachange
+
+            hi "Do you need a hand? If there's anything you need help with, I'm fine with sticking around."
+
+            "I feel much more at ease than I did earlier; my previous concerns and fears long gone. I'd forgotten about this morning's trouble entirely until now, having fun with Shizune like this."
+
+            "Having fun with Shizune… It seems like an unfamiliar concept to think of, but, looking back on it, I've really enjoyed the moments I've spent with Shizune and Misha these past few days, in spite of everything else."
+
+            "If we might be going together, then maybe I can afford to stick around a little longer. And I guess it beats class."
+
+            show shizu behind_blank
+            with charachange
+
+            shi "…"
+
+            show misha hips_smile
+            with charachange
+
+            mi "Really, Hicchan? Okay~! We can consider this you repaying us for the free lunch~!"
+
+            show misha cross_laugh
+            with charachange
+
+            mi "Great, this is great, really~ really~ great~! Shicchan was hoping to bring this up again later anyway! Ahahaha~! Wahahahahaha~!"
+
+            "That's not a free lunch at all. Normally I would be angry, or at least slightly unsettled, but my mood has improved from earlier on, so I'll let it slide."
+
+            "Helping them out turns out to consist mostly of stamping forms and making what seems like ten thousand copies apiece of fifty different budget reports."
+
+            "It's not hard, but very boring, and according to Misha, the simplest of the tasks they deal with."
+
+            "I feel myself getting more and more tired, and with that, less eager to return to class. This is especially bad because the more time I spend out of class, the harder it seems to just get up and go back."
+
+            "These two, they're a terrible influence. Terrible role models. Not that it bothers me all that much, and I'm sure no one looks up to them, but it's the principle of the thing…"
+
+            show shizu adjust_happy
+            with charachange
+
+            shi "…"
+
+            show misha hips_grin
+            with charachange
+
+            mi "Done~!"
+
+            hi "Ah, that was fast. I'll be finished before this period's over, I think."
+
+            show misha sign_smile
+            with charachange
+
+            mi "No, no, Hicchan, everything is done. So, you're done, too~!"
+
+            hi "That doesn't make any sense, are you telling me this is all arbitrary and you've been keeping me here for the hell of it?"
+
+            show misha hips_grin
+            with charachange
+
+            mi "No~…"
+
+            show shizu basic_normal
+            with charachange
+
+            shi "…"
+
+            show misha perky_smile
+            with charachange
+
+            mi "But we have kept you long enough~! You should go back to class, Hicchan~! You can still make it for most of this period!"
+
+            hi "What about you?"
+
+            show shizu behind_blank
+            with charachange
+
+            shi "…"
+
+            show misha hips_smile
+            with charachange
+
+            mi "Of course we're coming too, of course; we'll be right behind you!"
+
+            stop music fadeout 6.0
+
+            scene bg school_hallway3
+            with locationchange
+
+            "Reassured, I start heading back to class, but the period is almost halfway over, so I start thinking it would be pointless halfway there and pass the difference between this class and the next drinking juice in the hallway."
+
+            "I keep an eye on the door to the student council room, but it doesn't open. What's taking them so long? Are they busy wrapping up my share of the work? Well, it shouldn't take so long, unless there's more, and they just wanted me to leave."
+
+            "The more I think about it, the likelier it seems."
+
+            "Shizune is… well, not an idiot, but clearly, she's unable to just come out with things."
+
+            "Maybe it's because she can't talk, so it's harder for her. She has Misha, but all in all, as easy as they make it look, there's still a difference between casual speech and sign language."
+
+            play sound sfx_normalbell
+
+            "I contemplate going back there to check on them, but the bell rings, and I have to go to class."
+
+            scene bg school_scienceroom
+            with locationchange
+
+            "They join me a few minutes later, and the thoughts I had in my mind before slip away in the routine of school life."
+
+            with shorttimeskip
+
+            "By the time I remember, school is over for the day and I'm too tired to do anything but go home, do my homework, and then go to sleep."
+
+            scene black
+            with Dissolve(3.0)
 
             if _in_replay:
                 return
@@ -3394,16 +3394,18 @@ label a1c11o2:
     "I can't really win this one, can I?"
 
     menu:
+        set choices
         with menueffect
 
         "I promised to eat with Emi too, but I can't be in two places at the same time."
 
         "I'll go to the lunch with Emi and her friend.":
+            $ are_student_council = False
+
             call a1c12o1
-            call class_goes_lazily
 
         "I'll go with Shizune, after all I'm in the Student Council now.":
-            $ force_route = FR_SHIZU
+            $ are_student_council = True
 
             call a1c12o2
 

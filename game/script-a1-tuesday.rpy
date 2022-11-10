@@ -996,7 +996,9 @@ label a1_tuesday:
         with charachange
 
         menu:
+            set choices
             with menueffect
+
             mi "She says you have no chance if you keep playing like this, no you won't~!"
 
             "She has a point. Attack aggressively!":
@@ -1005,7 +1007,6 @@ label a1_tuesday:
                 call a1c3o1
 
             "It's a trap, it's smarter to play defensively here.":
-
                 call a1c3o2
 
         "I take a glance at the clock on the wall and realize I've spent far longer playing Risk than I expected."
@@ -1661,16 +1662,15 @@ label a1_tuesday:
         "For a second, I am shocked, and divert my eyes to the book in her hands, before I realize that looking away probably only makes it worse."
 
         menu:
+            set choices
             with menueffect
+
             "It takes too many seconds to collect myself and remember what I walked up to her for."
 
             "Hi! I'm new here. Hisao Nakai. We're in the same class.":
-                $ introduced_hanako = True
-
                 call a1c4o1
 
-            "I'm sorry, I didn't mean to startle you." if True:
-                $ introduced_hanako = False
+            "I'm sorry, I didn't mean to startle you.":
                 $ attraction_hanako += 1
 
                 call a1c4o2
@@ -1759,7 +1759,7 @@ label a1_tuesday:
 
         yu "What did you do?"
 
-        if introduced_hanako:
+        if "Hi! I'm new here. Hisao Nakai. We're in the same class." in choices:
             hi "Nothing! I just… talked to her. Tried to get to know her. Didn't even manage to get started."
 
             show yuuko worried_up_ss
@@ -1999,7 +1999,9 @@ label a1_tuesday:
         "Cute? That's a hard question. She had a nice body and really beautiful hair… but the face…"
 
         menu:
+            set choices
             with menueffect
+
             "I guess it could go either way."
 
             "She was cute.":

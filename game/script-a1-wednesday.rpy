@@ -210,6 +210,7 @@ label a1_wednesday:
         "I guess she's waiting for someone."
 
         menu:
+            set choices
             with menueffect
 
             "What to do…"
@@ -2759,7 +2760,9 @@ label a1_wednesday:
         nk "The more you slip and postpone, the harder it'll be. It's the same with everything, like dieting."
 
         menu:
+            set choices
             with menueffect
+
             nk "Can you promise me to be more serious about this from now on?"
 
             "Yes.":

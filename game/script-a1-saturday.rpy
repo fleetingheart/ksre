@@ -5,7 +5,7 @@
 label a1_saturday:
     call timeskip
 
-    if not force_route:
+    if got_kenji() or not go_through_shizu():
         label .support:
             scene black
 
@@ -72,7 +72,7 @@ label a1_saturday:
 
             "Mutou stands in the hallway, scratching his head as he works out what he is trying to say. Not knowing what's going on, I wait silently."
 
-            if promised and go_for_it and not _in_replay:
+            if get_tired() and not _in_replay:
                 mu "I heard from the school's head nurse that you had an incident the other day."
 
                 "Ah. So it's about that."
@@ -320,9 +320,7 @@ label a1_saturday:
 
             "Come to think of it, that isn't the one I saw her reading at the library. She must be quite a fast reader to get through them at this rate."
 
-            if get_kenji or _in_replay:
-                $ force_route = FR_KENJI
-
+            if got_kenji() or _in_replay:
                 hide hanako
                 with charaexit
 
@@ -340,10 +338,31 @@ label a1_saturday:
                 scene black
                 with Dissolve(3.0)
 
+                $ force_route = FR_KENJI
+
             if _in_replay:
                 return
 
-    if not force_route and (not side_lilly or not talk_with_hanako):
+    if force_route:
+        return
+
+    python:
+        if go_through_lilly() and not get_tired():
+            if get_tired():
+                force_route = FR_EMI
+            else:
+                force_route = FR_LILLY
+        elif go_through_shizu():
+            if not are_student_council:
+                force_route = FR_EMI
+            else:
+                force_route = FR_SHIZU
+        elif get_tired():
+            force_route = FR_EMI
+        else:
+            force_route = FR_RIN
+
+    if force_route in (FR_EMI, FR_RIN):
         label .an_asethetics:
             scene bg school_scienceroom at bgleft
             show hanako emb_downtimid at right
@@ -832,7 +851,7 @@ label a1_saturday:
             if _in_replay:
                 return
 
-    if not force_route and (not side_lilly or not talk_with_hanako) and not (promised and go_for_it):
+    if force_route == FR_RIN:
         label .creative_pain:
             scene bg school_dormext_half at bgright
             show rin basic_deadpan at tworight
@@ -1053,24 +1072,24 @@ label a1_saturday:
             no "How did you come to end up assisting my protégée?"
 
             menu:
+                set choices
                 with menueffect
+
                 "I wish I knew…"
 
                 "I just kinda stuck with her, I think.":
+                    $ force_route = FR_KENJI
+
                     call a1c14o1
 
                 "I'm interested in the art club.":
-                    $ force_route = FR_RIN
-
                     call a1c14o2
 
             if _in_replay:
                 return
 
-    if not force_route and (not side_lilly or not talk_with_hanako) and promised and go_for_it:
+    if force_route == FR_EMI:
         label .proper_exercise:
-            $ force_route = FR_EMI
-
             scene bg school_dormext_half at bgright
             show rin basic_deadpan at tworight
             show emi basic_annoyed at twoleft
@@ -1424,7 +1443,7 @@ label a1_saturday:
             if _in_replay:
                 return
 
-    if not force_route and (side_lilly and talk_with_hanako or not promised or not go_for_it):
+    if force_route == FR_LILLY:
         label .sip_p2:
             scene bg school_scienceroom at bgleft
             show hanako emb_downtimid at right
@@ -1460,12 +1479,12 @@ label a1_saturday:
             "Changing tacks, I briefly entertain the idea of talking with Hanako, but by the time I look at her seat, it's vacant. She must've left for the library."
 
             menu:
+                set choices
                 with menueffect
+
                 "There's got to be something to do that can kill the time…"
 
                 "Go for a walk into town.":
-                    $ force_route = FR_LILLY
-
                     "Following Hanako to the library seems a bit intrusive. There was a reason she left the classroom, after all."
 
                     "And that aside, I do want to catch up with Lilly. At the very least, I'd like to thank her for looking out for me despite her other, obviously taxing, duties."

@@ -568,6 +568,7 @@ label a1_monday:
         "Thinking of this, I almost miss what the teacher is saying."
 
         menu:
+            set choices
             with menueffect
 
             mu "Do you want to introduce yourself to the class?"
@@ -1116,7 +1117,9 @@ label a1_monday:
         mi "About anything! We're your guides so you should ask if there is something~!"
 
         menu:
+            set choices
             with menueffect
+
             hi "Hmm, I wonder…"
             "Ask about the library.":
                 $ attraction_hanako += 1

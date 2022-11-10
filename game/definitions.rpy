@@ -671,14 +671,12 @@ define FR_KENJI  = 6
 
 default force_route = None
 
+default choices = list()
+
 default attraction_sc = 0
 default attraction_hanako = 0
 
-default get_kenji = False
-
 default wanted_introduce = None
-
-default introduced_hanako = None
 
 default talk_with_hanako = False
 default wait_for_shizu   = False
@@ -688,6 +686,29 @@ default promised = None
 default side_lilly = None
 
 default go_for_it = None
+
+default kick_shizu = None
+
+default fun_fun_at_office = None
+
+default are_student_council = None
+
+default not_much_talking = None
+
+default interested_in_art = None
+
+python:
+    def go_through_lilly():
+        return talk_with_hanako and side_lilly
+
+    def go_through_shizu():
+        return wait_for_shizu and not side_lilly
+
+    def get_tired():
+        return promised and go_for_it
+
+    def got_kenji():
+        return kick_shizu or fun_fun_at_office or not_much_talking
 
 # Emi
 

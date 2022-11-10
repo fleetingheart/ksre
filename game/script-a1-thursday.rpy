@@ -1111,7 +1111,9 @@ label a1_thursday:
         mi "Aren't you taking part in the festival, Hicchan? You are, aren't you? Then~! I hope you're going to do a lot more to make sure it goes smoothly than this person~!"
 
         menu:
+            set choices
             with menueffect
+
             "I don't understand why Shizune is suddenly getting mad at me."
 
             "Don't drag me into this! I've done my part!":
