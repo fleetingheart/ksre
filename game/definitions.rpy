@@ -214,7 +214,7 @@ init 1000 python:
 
 define null = Null()
 
-define _watched_videos = set()
+default persistent._watched_videos = set()
 
 define _videos = (
     "video/op_1.webm", "video/tc_act2_emi.webm", "video/tc_act2_hanako.webm",
@@ -645,14 +645,13 @@ define hx_  = Character(_("Huge man"), kind=hx)
 define hh_  = Character(_("Slim girl"), kind=hh)
 define emm_ = Character(_("Woman with braid"), kind=emm)
 
-define n = Character(kind=nvl, ctc=config.nvl_page_ctc, ctc_position="fixed")
-
-define nb = Character(ctc=None, what_color="#666666", what_line_spacing=8, what_prefix="", what_suffix="", window_style="b_nvl_window")
+define n = Character(kind=nvl, ctc=config.nvl_page_ctc, ctc_position="fixed", window_background="gui/bg/nvl.png", window_top_padding=60, window_left_padding=55, window_right_padding=70)
 
 define rinbabble = Character(kind=n, what_prefix="{color=#FF8D7C}{b}" + _("Rin") + "{/b}{/color}\n" + _("“"), what_suffix=_("”"))
 
-define centered_b = Character(kind=centered, what_color="#666666", what_drop_shadow=None)
-define centered_alive = Character(kind=centered_b, window_xpos=130, window_xanchor=0, window_xpadding=0)
+define nb = Character(kind=nvl, what_color="#666666", window_top_padding=210, window_xpadding=100)
+define centered_b = nb
+define centered_alive = nb
 
 define _current_replay = None
 

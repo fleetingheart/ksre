@@ -158,6 +158,10 @@ translate ru strings:
     old "Scene"
     new "Сцена"
 
+    # game/screens.rpy:426
+    old "Are you sure you want to\ndelete this save?"
+    new "Вы точно хотите\nудалить данное сохранение?"
+
     # game/screens.rpy:436
     old "Save"
     new "Сохранить"

@@ -343,421 +343,421 @@ translate fr a1_wednesday_lunch_evolution_theory_ecf632ad:
     "J'imagine qu'elle attend quelqu'un."
 
 # game/script-a1-wednesday.rpy:233
-translate fr a1_wednesday_short_shape_shock_057094bc:
+translate fr a1_wednesday_short_sharp_shock_057094bc:
 
     # "Just around the corner of the hallway something hits me in the chest with the force of a runaway train."
     "Juste au coin du couloir, quelque chose me frappe dans la poitrine avec la force d'un train à pleine vitesse."
 
 # game/script-a1-wednesday.rpy:237
-translate fr a1_wednesday_short_shape_shock_d9278221:
+translate fr a1_wednesday_short_sharp_shock_d9278221:
 
     # "I feel a hand on my shoulder at the same time the girl's eyes widen in horror and whatever she was saying gets interrupted by a very horrified—{w=.9}{nw}"
     "Je sens une main sur mon épaule, et au même moment les yeux de la jeune fille s'élargissent en signe d'horreur et elle s'interrompt dans une expression horrifiée—{w=1.5}{nw}"
 
 # game/script-a1-wednesday.rpy:242
-translate fr a1_wednesday_short_shape_shock_1cf4c928:
+translate fr a1_wednesday_short_sharp_shock_1cf4c928:
 
     # emi_ "Eep!"
     emi_ "Eep!"
 
 # game/script-a1-wednesday.rpy:255
-translate fr a1_wednesday_short_shape_shock_e69faa59:
+translate fr a1_wednesday_short_sharp_shock_e69faa59:
 
     # "I don't have time to look behind me because Shizune is already shoving me aside and stomping over to the girl, signing furiously at her."
     "Je n'ai pas le temps de regarder derrière moi parce que Shizune est déjà en train de me bousculer et de marcher lourdement vers la fille, visiblement furieuse envers elle."
 
 # game/script-a1-wednesday.rpy:260
-translate fr a1_wednesday_short_shape_shock_03f87c33:
+translate fr a1_wednesday_short_sharp_shock_03f87c33:
 
     # mi "Miss Ibarazaki, I saw that. Running in the halls is strictly forbidden."
     mi "Mademoiselle Ibarazaki, j'ai tout vu. Courir dans les couloirs est strictement interdit."
 
 # game/script-a1-wednesday.rpy:262
-translate fr a1_wednesday_short_shape_shock_7b554c6b:
+translate fr a1_wednesday_short_sharp_shock_7b554c6b:
 
     # "Misha translates, right on Shizune's tail, but her voice is girlishly playful, not full of the divine fury Shizune's arm movements would seem to call for."
     "Misha traduit, à la droite de Shizune, mais sa voix est celle d'une enfant qui s'amuse et n'est pas remplie de fureur comme les mouvements de bras de Shizune pourraient le laisser croire."
 
 # game/script-a1-wednesday.rpy:267
-translate fr a1_wednesday_short_shape_shock_33add43e:
+translate fr a1_wednesday_short_sharp_shock_33add43e:
 
     # emi_ "Er, sorry, I was just going to get some stuff, and I was in a kind of a hurry."
     emi_ "Euh, désolée, j'allais juste chercher quelque chose et j'étais plutôt pressée."
 
 # game/script-a1-wednesday.rpy:272
-translate fr a1_wednesday_short_shape_shock_ef2b123c:
+translate fr a1_wednesday_short_sharp_shock_ef2b123c:
 
     # shi "…"
     shi "..."
 
 # game/script-a1-wednesday.rpy:277
-translate fr a1_wednesday_short_shape_shock_dbfa7060:
+translate fr a1_wednesday_short_sharp_shock_dbfa7060:
 
     # mi "You've been told this a thousand times before. Your reckless behavior endangers other students, and even worse, it's explicitly against the school regulations."
     mi "On te l'a déjà dit un millier de fois avant. Ton comportement irresponsable met en danger les autres élèves et, pire encore, il est explicitement contre le règlement de l'école."
 
 # game/script-a1-wednesday.rpy:282
-translate fr a1_wednesday_short_shape_shock_34fd86d3:
+translate fr a1_wednesday_short_sharp_shock_34fd86d3:
 
     # "The girl blushes and starts to fidget nervously like a little child caught misbehaving."
     "La fille rougit et commence à s'agiter nerveusement comme une enfant prise sur le fait."
 
 # game/script-a1-wednesday.rpy:284
-translate fr a1_wednesday_short_shape_shock_d239149d:
+translate fr a1_wednesday_short_sharp_shock_d239149d:
 
     # "It's so cute I find myself smiling."
     "C'est tellement mignon que je me surprends à sourire."
 
 # game/script-a1-wednesday.rpy:286
-translate fr a1_wednesday_short_shape_shock_f129dcfe:
+translate fr a1_wednesday_short_sharp_shock_f129dcfe:
 
     # emi_ "I know that! I— I, um, I was just…"
     emi_ "Je le sais ça! Je—je, hum, j'étais juste..."
 
 # game/script-a1-wednesday.rpy:291
-translate fr a1_wednesday_short_shape_shock_ef2b123c_1:
+translate fr a1_wednesday_short_sharp_shock_ef2b123c_1:
 
     # shi "…"
     shi "..."
 
 # game/script-a1-wednesday.rpy:296
-translate fr a1_wednesday_short_shape_shock_5a69d56b:
+translate fr a1_wednesday_short_sharp_shock_5a69d56b:
 
     # mi "Make sure that this will not happen again… although I'm sure telling you this is futile, and only causes me further headache when you choose to ignore the regulations."
     mi "Assure-toi que ça ne se reproduise plus... même si je suis sûre que te le dire ne sert pas à grand-chose, et que cela ne fait que me provoquer des maux de tête supplémentaires quand tu choisis d'ignorer le règlement."
 
 # game/script-a1-wednesday.rpy:301
-translate fr a1_wednesday_short_shape_shock_96514d19:
+translate fr a1_wednesday_short_sharp_shock_96514d19:
 
     # mi "Got that, Emi?"
     mi "Compris, Emi?"
 
 # game/script-a1-wednesday.rpy:306
-translate fr a1_wednesday_short_shape_shock_81d71d5a:
+translate fr a1_wednesday_short_sharp_shock_81d71d5a:
 
     # "The small girl sticks her tongue out in response."
     "La fille de petite taille tire la langue en réponse."
 
 # game/script-a1-wednesday.rpy:311
-translate fr a1_wednesday_short_shape_shock_1b0742fe:
+translate fr a1_wednesday_short_sharp_shock_1b0742fe:
 
     # emi "Aaah!"
     emi "Aaah!"
 
 # game/script-a1-wednesday.rpy:313
-translate fr a1_wednesday_short_shape_shock_0f089bfb:
+translate fr a1_wednesday_short_sharp_shock_0f089bfb:
 
     # emi "I gotta go!"
     emi "Je dois y aller!"
 
 # game/script-a1-wednesday.rpy:315
-translate fr a1_wednesday_short_shape_shock_52380910:
+translate fr a1_wednesday_short_sharp_shock_52380910:
 
     # emi "Teacher'll have my head! I promised to help with printouts, but I went running instead! Sorry, but I've gotta change and everything!"
     emi "Le professeur va me tuer, j'ai promis de l'aider avec les photocopies, mais je suis allée courir à la place! Désolée, mais je dois me changer et tout!"
 
 # game/script-a1-wednesday.rpy:327
-translate fr a1_wednesday_short_shape_shock_8763d6db:
+translate fr a1_wednesday_short_sharp_shock_8763d6db:
 
     # "Before Misha or Shizune or I can say anything, she's already bolted from where she was a second ago, almost halfway towards the stairwell."
     "Avant que nous ne puissions dire quoi que ce soit, elle s'est déjà enfuie de l'endroit où elle était il y a une seconde, presque à mi-chemin vers la cage d'escalier."
 
 # game/script-a1-wednesday.rpy:336
-translate fr a1_wednesday_short_shape_shock_b8ebf8a9:
+translate fr a1_wednesday_short_sharp_shock_b8ebf8a9:
 
     # "Shizune looks like she's about to go nuclear on the spot, so I smile at her in a vain attempt to calm her down."
     "Shizune a l'air d'être sur le point d'exploser, alors je lui souris dans une vaine tentative de la calmer."
 
 # game/script-a1-wednesday.rpy:341
-translate fr a1_wednesday_short_shape_shock_ef2b123c_2:
+translate fr a1_wednesday_short_sharp_shock_ef2b123c_2:
 
     # shi "…"
     shi "..."
 
 # game/script-a1-wednesday.rpy:346
-translate fr a1_wednesday_short_shape_shock_766e5f4f:
+translate fr a1_wednesday_short_sharp_shock_766e5f4f:
 
     # mi "Are you okay, Hicchan? That Ibarazaki girl is always like that, causing trouble to others."
     mi "Est-ce que ça va, Hicchan? Ibarazaki est toujours comme ça, elle cause des ennuis aux autres."
 
 # game/script-a1-wednesday.rpy:348
-translate fr a1_wednesday_short_shape_shock_793e7c1d:
+translate fr a1_wednesday_short_sharp_shock_793e7c1d:
 
     # hi "You know, I'm pretty certain Shizune wouldn't call me 'Hicchan.'"
     hi "Tu sais, je suis presque certain que Shizune ne m'appellerait pas 'Hicchan'."
 
 # game/script-a1-wednesday.rpy:353
-translate fr a1_wednesday_short_shape_shock_0aaef24d:
+translate fr a1_wednesday_short_sharp_shock_0aaef24d:
 
     # mi "Never mind, never mind!"
     mi "Pas grave, pas grave."
 
 # game/script-a1-wednesday.rpy:355
-translate fr a1_wednesday_short_shape_shock_ce617998:
+translate fr a1_wednesday_short_sharp_shock_ce617998:
 
     # "…"
     "..."
 
 # game/script-a1-wednesday.rpy:357
-translate fr a1_wednesday_short_shape_shock_7e81d498:
+translate fr a1_wednesday_short_sharp_shock_7e81d498:
 
     # hi "Yeah, anyway, I'm okay. Just got the wind knocked out of me."
     hi "Ouais, de toute façon, je vais bien. J'ai juste eu le souffle coupé."
 
 # game/script-a1-wednesday.rpy:362
-translate fr a1_wednesday_short_shape_shock_ef2b123c_3:
+translate fr a1_wednesday_short_sharp_shock_ef2b123c_3:
 
     # shi "…"
     shi "..."
 
 # game/script-a1-wednesday.rpy:367
-translate fr a1_wednesday_short_shape_shock_03cc93ab:
+translate fr a1_wednesday_short_sharp_shock_03cc93ab:
 
     # mi "That's great, Hicchan!"
     mi "C'est super, Hicchan!"
 
 # game/script-a1-wednesday.rpy:369
-translate fr a1_wednesday_short_shape_shock_b1238c83:
+translate fr a1_wednesday_short_sharp_shock_b1238c83:
 
     # "I wouldn't call that great, but I let it slide this one time."
     "Je ne dirais pas que c'est super, mais je préfère ne rien dire pour cette fois."
 
 # game/script-a1-wednesday.rpy:377
-translate fr a1_wednesday_short_shape_shock_ef2b123c_4:
+translate fr a1_wednesday_short_sharp_shock_ef2b123c_4:
 
     # shi "…"
     shi "..."
 
 # game/script-a1-wednesday.rpy:382
-translate fr a1_wednesday_short_shape_shock_6c5310a3:
+translate fr a1_wednesday_short_sharp_shock_6c5310a3:
 
     # mi "So, let's hurry, Hicchan~! To have lunch!"
     mi "Bon, dépêchons-nous, Hicchan~! Allons manger!"
 
 # game/script-a1-wednesday.rpy:387
-translate fr a1_wednesday_short_shape_shock_db645945:
+translate fr a1_wednesday_short_sharp_shock_db645945:
 
     # mi "We promise it'll be great!"
     mi "On te promet que ça sera génial!"
 
 # game/script-a1-wednesday.rpy:389
-translate fr a1_wednesday_short_shape_shock_092c417c:
+translate fr a1_wednesday_short_sharp_shock_092c417c:
 
     # hi "I'll take your word for it. What kind of a place is it?"
     hi "Je vous crois sur parole. C'est quel genre d'endroit?"
 
 # game/script-a1-wednesday.rpy:391
-translate fr a1_wednesday_short_shape_shock_626a1f4b:
+translate fr a1_wednesday_short_sharp_shock_626a1f4b:
 
     # hi "A restaurant, or something?"
     hi "Un restaurant, ou quelque chose?"
 
 # game/script-a1-wednesday.rpy:396
-translate fr a1_wednesday_short_shape_shock_ef2b123c_5:
+translate fr a1_wednesday_short_sharp_shock_ef2b123c_5:
 
     # shi "…"
     shi "..."
 
 # game/script-a1-wednesday.rpy:401
-translate fr a1_wednesday_short_shape_shock_5f152479:
+translate fr a1_wednesday_short_sharp_shock_5f152479:
 
     # mi "It's a teahouse, Hicchan~!"
     mi "C'est un salon de thé, Hicchan~!"
 
 # game/script-a1-wednesday.rpy:403
-translate fr a1_wednesday_short_shape_shock_4724bf34:
+translate fr a1_wednesday_short_sharp_shock_4724bf34:
 
     # "A teahouse… that sounds kind of fancy."
     "Un salon de thé... ça a l'air assez fantaisiste."
 
 # game/script-a1-wednesday.rpy:408
-translate fr a1_wednesday_short_shape_shock_ef2b123c_6:
+translate fr a1_wednesday_short_sharp_shock_ef2b123c_6:
 
     # shi "…"
     shi "..."
 
 # game/script-a1-wednesday.rpy:413
-translate fr a1_wednesday_short_shape_shock_61da97be:
+translate fr a1_wednesday_short_sharp_shock_61da97be:
 
     # mi "Why are you looking at your wallet, Hicchan? It's okay, if you don't have any money we'll cover for you~!"
     mi "Pourquoi cherches-tu ton portefeuille, Hicchan? C'est bon, si tu n'as pas d'argent, on paiera pour toi~!"
 
 # game/script-a1-wednesday.rpy:415
-translate fr a1_wednesday_short_shape_shock_611476d5:
+translate fr a1_wednesday_short_sharp_shock_611476d5:
 
     # hi "That's really nice of you. Thanks."
     hi "C'est vraiment gentil à vous. Merci."
 
 # game/script-a1-wednesday.rpy:420
-translate fr a1_wednesday_short_shape_shock_5d7d1415:
+translate fr a1_wednesday_short_sharp_shock_5d7d1415:
 
     # mi "It's okay, Hicchan! After all, we're friends, right, Hicchan?"
     mi "C'est bon, Hicchan! Après tout, on est amis, hein, Hicchan?"
 
 # game/script-a1-wednesday.rpy:422
-translate fr a1_wednesday_short_shape_shock_9944c5a7:
+translate fr a1_wednesday_short_sharp_shock_9944c5a7:
 
     # "It's only been three days. Are we really friends that quickly?"
     "Ça fait seulement trois jours que l'on se connaît. On peut vraiment devenir amis aussi rapidement?"
 
 # game/script-a1-wednesday.rpy:424
-translate fr a1_wednesday_short_shape_shock_992d4b53:
+translate fr a1_wednesday_short_sharp_shock_992d4b53:
 
     # "Heh. But, hearing that makes me happy."
     "Hu. Cependant, entendre ça me fait plaisir."
 
 # game/script-a1-wednesday.rpy:429
-translate fr a1_wednesday_short_shape_shock_ef2b123c_7:
+translate fr a1_wednesday_short_sharp_shock_ef2b123c_7:
 
     # shi "…"
     shi "..."
 
 # game/script-a1-wednesday.rpy:434
-translate fr a1_wednesday_short_shape_shock_31cc015d:
+translate fr a1_wednesday_short_sharp_shock_31cc015d:
 
     # mi "Ah, it's only for today, though, and only if you accept right now! Do you want to go, Hicchan?"
     mi "Cependant, c'est seulement pour aujourd'hui, et uniquement si tu acceptes maintenant! Tu veux y aller, Hicchan?"
 
 # game/script-a1-wednesday.rpy:436
-translate fr a1_wednesday_short_shape_shock_45664ad5:
+translate fr a1_wednesday_short_sharp_shock_45664ad5:
 
     # "I start wondering if this is some kind of trap. Is this Misha's suggestion or Shizune's? This is important. I'm still a little apprehensive about the possible motives of a girl whose favorite pastime is the game of world domination."
     "Je commence à me demander si ce n'est pas un piège. C'est une suggestion de Misha ou de Shizune? C'est important. J'ai du mal avec les motivations possibles d'une fille dont le passe-temps favori est le jeu de la domination du monde."
 
 # game/script-a1-wednesday.rpy:438
-translate fr a1_wednesday_short_shape_shock_52a8ee85:
+translate fr a1_wednesday_short_sharp_shock_52a8ee85:
 
     # "No, I'm just being paranoid. Actually, they have grown on me already, and I do have to go to town sometime. So why not now, with them?"
     "Non, je deviens juste paranoïaque. En fait, elles m'ont déjà coincé, et je vais parfois devoir aller en ville de toute façon. Alors pourquoi pas maintenant, avec elles?"
 
 # game/script-a1-wednesday.rpy:440
-translate fr a1_wednesday_short_shape_shock_f3300080:
+translate fr a1_wednesday_short_sharp_shock_f3300080:
 
     # "I've never actually been to a teahouse before. All my expectations are from what I've seen about them on TV. But those are period dramas, and these are modern times. It might just be a regular café, and they're just calling it a teahouse."
     "Je ne suis jamais allé dans un salon de thé auparavant. Tout ce que j'en sais est ce que j'en ai vu à la télévision. Mais c'était dans des dramas historiques, et là, on est dans les temps modernes. C'est peut-être simplement un café normal."
 
 # game/script-a1-wednesday.rpy:442
-translate fr a1_wednesday_short_shape_shock_acdf0948:
+translate fr a1_wednesday_short_sharp_shock_acdf0948:
 
     # "Either way, I'm curious about that, too, so there's another reason for me to join them."
     "De toute manière, je suis aussi curieux à ce sujet, donc c'est une autre raison de me joindre à elles."
 
 # game/script-a1-wednesday.rpy:444
-translate fr a1_wednesday_short_shape_shock_21ce94c5:
+translate fr a1_wednesday_short_sharp_shock_21ce94c5:
 
     # hi "Sure."
     hi "Bien sûr."
 
 # game/script-a1-wednesday.rpy:450
-translate fr a1_wednesday_short_shape_shock_33848275:
+translate fr a1_wednesday_short_sharp_shock_33848275:
 
     # mi "That's great, Hicchan~! That's great, that's great! Yay~!"
     mi "C'est super, Hicchan~! C'est super, c'est super! Yay~!"
 
 # game/script-a1-wednesday.rpy:452
-translate fr a1_wednesday_short_shape_shock_62d7f70e:
+translate fr a1_wednesday_short_sharp_shock_62d7f70e:
 
     # "Misha hops up and down briefly to show how happy she is, which causes a few heads to turn towards us. Shizune opts for a polite, tiny clap that lasts for all of two seconds before she goes back to looking stoic as usual."
     "Misha sautille pour montrer à quel point elle est contente, ce qui attire l'attention des gens. Shizune opte pour un petit applaudissement qui ne dure pas plus de deux secondes avant qu'elle ne revienne à son expression stoïque habituelle."
 
 # game/script-a1-wednesday.rpy:457
-translate fr a1_wednesday_short_shape_shock_d5eb5922:
+translate fr a1_wednesday_short_sharp_shock_d5eb5922:
 
     # hi "Would it kill you to be a little happier, Shizune?"
     hi "Ça te tuerait d'être un peu plus joyeuse, Shizune?"
 
 # game/script-a1-wednesday.rpy:462
-translate fr a1_wednesday_short_shape_shock_ef2b123c_8:
+translate fr a1_wednesday_short_sharp_shock_ef2b123c_8:
 
     # shi "…"
     shi "..."
 
 # game/script-a1-wednesday.rpy:467
-translate fr a1_wednesday_short_shape_shock_3385bd6c:
+translate fr a1_wednesday_short_sharp_shock_3385bd6c:
 
     # mi "Oh? I wasn't aware that Hicchan was a king. Hahahaha~!"
     mi "Oh? Je ne savais pas que Hicchan était un roi. Hahahaha~!"
 
 # game/script-a1-wednesday.rpy:472
-translate fr a1_wednesday_short_shape_shock_f0aca90f:
+translate fr a1_wednesday_short_sharp_shock_f0aca90f:
 
     # "Shizune pushes her glasses up as Misha delivers her message totally without sarcasm. I guess it would sting more if she could say it with the intent Shizune meant behind it, so for once I'm happy to have Misha as a barrier between us."
     "Shizune remonte ses lunettes pendant que Misha délivre son message sans aucun sarcasme. Ça aurait plus d'impact si Misha pouvait le dire avec l'intention de Shizune, alors pour une fois, je suis heureux d'avoir Misha comme barrière entre nous."
 
 # game/script-a1-wednesday.rpy:474
-translate fr a1_wednesday_short_shape_shock_3d426558:
+translate fr a1_wednesday_short_sharp_shock_3d426558:
 
     # hi "I'm not telling you to jump for joy just because I'm having lunch with you. I'm not that arrogant."
     hi "Je ne te dis pas de sauter de joie parce que je déjeune avec vous. Je ne suis pas aussi arrogant."
 
 # game/script-a1-wednesday.rpy:482
-translate fr a1_wednesday_short_shape_shock_ff5eb9da:
+translate fr a1_wednesday_short_sharp_shock_ff5eb9da:
 
     # "She seems to accept this, and we head for town with Shizune leading the way."
     "Elle semble accepter ma réponse, et nous nous dirigeons vers la ville, avec Shizune en tête."
 
 # game/script-a1-wednesday.rpy:487
-translate fr a1_wednesday_short_shape_shock_ef2b123c_9:
+translate fr a1_wednesday_short_sharp_shock_ef2b123c_9:
 
     # shi "…"
     shi "..."
 
 # game/script-a1-wednesday.rpy:492
-translate fr a1_wednesday_short_shape_shock_3a915296:
+translate fr a1_wednesday_short_sharp_shock_3a915296:
 
     # mi "We have to run now, there is an important student council meeting regarding the festival. And we finally decided where to eat~!"
     mi "Il faut qu'on se dépêche, il y a une importante réunion du conseil des étudiants au sujet du festival. Et nous avons finalement décidé où manger~!"
 
 # game/script-a1-wednesday.rpy:497
-translate fr a1_wednesday_short_shape_shock_ef2b123c_10:
+translate fr a1_wednesday_short_sharp_shock_ef2b123c_10:
 
     # shi "…"
     shi "..."
 
 # game/script-a1-wednesday.rpy:502
-translate fr a1_wednesday_short_shape_shock_7d693841:
+translate fr a1_wednesday_short_sharp_shock_7d693841:
 
     # mi "Too bad you can't join, but this lunch meeting is only for council members."
     mi "Dommage que tu ne puisses pas nous rejoindre, mais ce déjeuner-réunion est uniquement pour les membres du conseil."
 
 # game/script-a1-wednesday.rpy:507
-translate fr a1_wednesday_short_shape_shock_d3cd3543:
+translate fr a1_wednesday_short_sharp_shock_d3cd3543:
 
     # mi "We can take you there some other time! Oh, but that'd be like a date, wouldn't it?"
     mi "Nous pourrons t'y conduire une autre fois! Oh, mais ça serait comme un rendez-vous, hein?"
 
 # game/script-a1-wednesday.rpy:512
-translate fr a1_wednesday_short_shape_shock_e39fcd2d:
+translate fr a1_wednesday_short_sharp_shock_e39fcd2d:
 
     # mi "Wahaha~!"
     mi "Wahaha~!"
 
 # game/script-a1-wednesday.rpy:520
-translate fr a1_wednesday_short_shape_shock_2e4d3d47:
+translate fr a1_wednesday_short_sharp_shock_2e4d3d47:
 
     # "The girls leave for downstairs."
     "Les filles partent par les escaliers."
 
 # game/script-a1-wednesday.rpy:522
-translate fr a1_wednesday_short_shape_shock_69d29304:
+translate fr a1_wednesday_short_sharp_shock_69d29304:
 
     # "I didn't manage to get far from the third floor hallway before all this commotion struck, literally. I should get going as well."
     "Je n'ai pas réussi à avancer de beaucoup dans le couloir du troisième étage avant que toute cette agitation ne me frappe, littéralement. Je dois y aller aussi."
 
 # game/script-a1-wednesday.rpy:527
-translate fr a1_wednesday_short_shape_shock_1d77aa46:
+translate fr a1_wednesday_short_sharp_shock_1d77aa46:
 
     # "The lunch and the afternoon class pass uneventfully."
     "Le déjeuner et les cours de l'après-midi se passent sans incident."
 
 # game/script-a1-wednesday.rpy:529
-translate fr a1_wednesday_short_shape_shock_a5aa1387:
+translate fr a1_wednesday_short_sharp_shock_a5aa1387:
 
     # "I read most of the book I had started yesterday, and eat some of the mostly inedible offerings of the cafeteria."
     "J'ai lu une bonne partie du livre que j'avais commencé hier et mangé un des repas les plus immangeables de la cafétéria."
 
 # game/script-a1-wednesday.rpy:531
-translate fr a1_wednesday_short_shape_shock_dc25fb5b:
+translate fr a1_wednesday_short_sharp_shock_dc25fb5b:
 
     # "The class is tiresome."
     "Les cours sont ennuyeux."

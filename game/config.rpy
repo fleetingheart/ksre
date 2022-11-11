@@ -8,7 +8,7 @@ init -501 python:
 define config.developer = "auto"
 
 define config.name = "Katawa Shoujo: Re-Engineered"
-define config.version = "1.2.1"
+define config.version = "1.2.2"
 
 define config.save_directory = config.name
 

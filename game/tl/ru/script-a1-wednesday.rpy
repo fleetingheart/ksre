@@ -343,421 +343,421 @@ translate ru a1_wednesday_lunch_evolution_theory_ecf632ad:
     "Думаю, она ждёт кого-то."
 
 # game/script-a1-wednesday.rpy:232
-translate ru a1_wednesday_short_shape_shock_057094bc:
+translate ru a1_wednesday_short_sharp_shock_057094bc:
 
     # "Just around the corner of the hallway something hits me in the chest with the force of a runaway train."
     "Сразу за углом коридора удар в грудь с силой несущегося на полной скорости поезда чуть не сбивает меня с ног."
 
 # game/script-a1-wednesday.rpy:236
-translate ru a1_wednesday_short_shape_shock_d9278221:
+translate ru a1_wednesday_short_sharp_shock_d9278221:
 
     # "I feel a hand on my shoulder at the same time the girl's eyes widen in horror and whatever she was saying gets interrupted by a very horrified—{w=.9}{nw}"
     "Чья-то рука ложится мне на плечо; в тот же момент глаза девочки округляются от ужаса, а её реплика прерывается испуганным—{w=.9}{nw}"
 
 # game/script-a1-wednesday.rpy:241
-translate ru a1_wednesday_short_shape_shock_1cf4c928:
+translate ru a1_wednesday_short_sharp_shock_1cf4c928:
 
     # emi_ "Eep!"
     emi_ "И-и!"
 
 # game/script-a1-wednesday.rpy:252
-translate ru a1_wednesday_short_shape_shock_e69faa59:
+translate ru a1_wednesday_short_sharp_shock_e69faa59:
 
     # "I don't have time to look behind me because Shizune is already shoving me aside and stomping over to the girl, signing furiously at her."
     "Не успеваю я обернуться, как Сидзунэ отталкивает меня в сторону и нависает над девочкой, яростно жестикулируя."
 
 # game/script-a1-wednesday.rpy:257
-translate ru a1_wednesday_short_shape_shock_03f87c33:
+translate ru a1_wednesday_short_sharp_shock_03f87c33:
 
     # mi "Miss Ibarazaki, I saw that. Running in the halls is strictly forbidden."
     mi "Мисс Ибарадзаки, я всё видела. Бегать по коридорам строго запрещено."
 
 # game/script-a1-wednesday.rpy:259
-translate ru a1_wednesday_short_shape_shock_7b554c6b:
+translate ru a1_wednesday_short_sharp_shock_7b554c6b:
 
     # "Misha translates, right on Shizune's tail, but her voice is girlishly playful, not full of the divine fury Shizune's arm movements would seem to call for."
     "Миша переводит стоя позади Сидзунэ, но её голос по-девчачьи игрив и совсем не выражает священного гнева, читающегося в жестах Сидзунэ."
 
 # game/script-a1-wednesday.rpy:264
-translate ru a1_wednesday_short_shape_shock_33add43e:
+translate ru a1_wednesday_short_sharp_shock_33add43e:
 
     # emi_ "Er, sorry, I was just going to get some stuff, and I was in a kind of a hurry."
     emi_ "Э… извините, мне просто надо было забрать кое-что и я немного торопилась…"
 
 # game/script-a1-wednesday.rpy:269
-translate ru a1_wednesday_short_shape_shock_ef2b123c:
+translate ru a1_wednesday_short_sharp_shock_ef2b123c:
 
     # shi "…"
     shi "…"
 
 # game/script-a1-wednesday.rpy:274
-translate ru a1_wednesday_short_shape_shock_dbfa7060:
+translate ru a1_wednesday_short_sharp_shock_dbfa7060:
 
     # mi "You've been told this a thousand times before. Your reckless behavior endangers other students, and even worse, it's explicitly against the school regulations."
     mi "Вам уже говорили об этом тысячу раз. Ваше неосмотрительное поведение подвергает опасности других учеников и, что ещё хуже, прямо противоречит школьным правилам."
 
 # game/script-a1-wednesday.rpy:279
-translate ru a1_wednesday_short_shape_shock_34fd86d3:
+translate ru a1_wednesday_short_sharp_shock_34fd86d3:
 
     # "The girl blushes and starts to fidget nervously like a little child caught misbehaving."
     "Девочка краснеет от стыда и начинает мяться на месте, как ребёнок, которого отчитывают за плохое поведение."
 
 # game/script-a1-wednesday.rpy:281
-translate ru a1_wednesday_short_shape_shock_d239149d:
+translate ru a1_wednesday_short_sharp_shock_d239149d:
 
     # "It's so cute I find myself smiling."
     "Это выглядит так мило, что я не могу сдержать улыбку."
 
 # game/script-a1-wednesday.rpy:283
-translate ru a1_wednesday_short_shape_shock_f129dcfe:
+translate ru a1_wednesday_short_sharp_shock_f129dcfe:
 
     # emi_ "I know that! I— I, um, I was just…"
     emi_ "Я знаю! Я-я… эм… я просто…"
 
 # game/script-a1-wednesday.rpy:288
-translate ru a1_wednesday_short_shape_shock_ef2b123c_1:
+translate ru a1_wednesday_short_sharp_shock_ef2b123c_1:
 
     # shi "…"
     shi "…"
 
 # game/script-a1-wednesday.rpy:293
-translate ru a1_wednesday_short_shape_shock_5a69d56b:
+translate ru a1_wednesday_short_sharp_shock_5a69d56b:
 
     # mi "Make sure that this will not happen again… although I'm sure telling you this is futile, and only causes me further headache when you choose to ignore the regulations."
     mi "Вы уж постарайтесь, чтобы подобное не повторилось… Хотя я уверена, что вы презираете правила и делать вам замечания – совершенно бессмысленная трата моих нервов."
 
 # game/script-a1-wednesday.rpy:298
-translate ru a1_wednesday_short_shape_shock_96514d19:
+translate ru a1_wednesday_short_sharp_shock_96514d19:
 
     # mi "Got that, Emi?"
     mi "Поняла, Эми?"
 
 # game/script-a1-wednesday.rpy:303
-translate ru a1_wednesday_short_shape_shock_81d71d5a:
+translate ru a1_wednesday_short_sharp_shock_81d71d5a:
 
     # "The small girl sticks her tongue out in response."
     "В ответ маленькая девочка показывает язык."
 
 # game/script-a1-wednesday.rpy:308
-translate ru a1_wednesday_short_shape_shock_1b0742fe:
+translate ru a1_wednesday_short_sharp_shock_1b0742fe:
 
     # emi "Aaah!"
     emi "А-а-а!"
 
 # game/script-a1-wednesday.rpy:310
-translate ru a1_wednesday_short_shape_shock_0f089bfb:
+translate ru a1_wednesday_short_sharp_shock_0f089bfb:
 
     # emi "I gotta go!"
     emi "Мне надо спешить!"
 
 # game/script-a1-wednesday.rpy:312
-translate ru a1_wednesday_short_shape_shock_52380910:
+translate ru a1_wednesday_short_sharp_shock_52380910:
 
     # emi "Teacher'll have my head! I promised to help with printouts, but I went running instead! Sorry, but I've gotta change and everything!"
     emi "Учитель мне голову оторвёт! Я обещала помочь с распечатками, а вместо этого пошла бегать! Извините, но мне надо переодеться и всё такое!"
 
 # game/script-a1-wednesday.rpy:322
-translate ru a1_wednesday_short_shape_shock_8763d6db:
+translate ru a1_wednesday_short_sharp_shock_8763d6db:
 
     # "Before Misha or Shizune or I can say anything, she's already bolted from where she was a second ago, almost halfway towards the stairwell."
     "Прежде чем Миша, Сидзунэ или я успеваем что-либо сказать, она срывается с места и в одно мгновение оказывается на полпути к лестнице."
 
 # game/script-a1-wednesday.rpy:331
-translate ru a1_wednesday_short_shape_shock_b8ebf8a9:
+translate ru a1_wednesday_short_sharp_shock_b8ebf8a9:
 
     # "Shizune looks like she's about to go nuclear on the spot, so I smile at her in a vain attempt to calm her down."
     "Сидзунэ выглядит так, будто готова взорваться от злости; я улыбаюсь в тщетной попытке успокоить её."
 
 # game/script-a1-wednesday.rpy:336
-translate ru a1_wednesday_short_shape_shock_ef2b123c_2:
+translate ru a1_wednesday_short_sharp_shock_ef2b123c_2:
 
     # shi "…"
     shi "…"
 
 # game/script-a1-wednesday.rpy:341
-translate ru a1_wednesday_short_shape_shock_766e5f4f:
+translate ru a1_wednesday_short_sharp_shock_766e5f4f:
 
     # mi "Are you okay, Hicchan? That Ibarazaki girl is always like that, causing trouble to others."
     mi "Ты в порядке, Хиттян? От этой Ибарадзаки вечно одни неприятности."
 
 # game/script-a1-wednesday.rpy:343
-translate ru a1_wednesday_short_shape_shock_793e7c1d:
+translate ru a1_wednesday_short_sharp_shock_793e7c1d:
 
     # hi "You know, I'm pretty certain Shizune wouldn't call me 'Hicchan.'"
     hi "Знаешь, я твёрдо уверен, что Сидзунэ не назвала бы меня «Хиттян»."
 
 # game/script-a1-wednesday.rpy:348
-translate ru a1_wednesday_short_shape_shock_0aaef24d:
+translate ru a1_wednesday_short_sharp_shock_0aaef24d:
 
     # mi "Never mind, never mind!"
     mi "Да ладно тебе!"
 
 # game/script-a1-wednesday.rpy:350
-translate ru a1_wednesday_short_shape_shock_ce617998:
+translate ru a1_wednesday_short_sharp_shock_ce617998:
 
     # "…"
     "…"
 
 # game/script-a1-wednesday.rpy:352
-translate ru a1_wednesday_short_shape_shock_7e81d498:
+translate ru a1_wednesday_short_sharp_shock_7e81d498:
 
     # hi "Yeah, anyway, I'm okay. Just got the wind knocked out of me."
     hi "Ну, в общем, я в порядке. Меня просто слегка ушибли."
 
 # game/script-a1-wednesday.rpy:357
-translate ru a1_wednesday_short_shape_shock_ef2b123c_3:
+translate ru a1_wednesday_short_sharp_shock_ef2b123c_3:
 
     # shi "…"
     shi "…"
 
 # game/script-a1-wednesday.rpy:362
-translate ru a1_wednesday_short_shape_shock_03cc93ab:
+translate ru a1_wednesday_short_sharp_shock_03cc93ab:
 
     # mi "That's great, Hicchan!"
     mi "Это здорово, Хиттян!"
 
 # game/script-a1-wednesday.rpy:364
-translate ru a1_wednesday_short_shape_shock_b1238c83:
+translate ru a1_wednesday_short_sharp_shock_b1238c83:
 
     # "I wouldn't call that great, but I let it slide this one time."
     "Я бы не сказал, что это «здорово», но на этот раз воздерживаюсь от комментариев."
 
 # game/script-a1-wednesday.rpy:372
-translate ru a1_wednesday_short_shape_shock_ef2b123c_4:
+translate ru a1_wednesday_short_sharp_shock_ef2b123c_4:
 
     # shi "…"
     shi "…"
 
 # game/script-a1-wednesday.rpy:377
-translate ru a1_wednesday_short_shape_shock_6c5310a3:
+translate ru a1_wednesday_short_sharp_shock_6c5310a3:
 
     # mi "So, let's hurry, Hicchan~! To have lunch!"
     mi "Ну что, давай скорей, Хиттян~! На ланч!"
 
 # game/script-a1-wednesday.rpy:382
-translate ru a1_wednesday_short_shape_shock_db645945:
+translate ru a1_wednesday_short_sharp_shock_db645945:
 
     # mi "We promise it'll be great!"
     mi "Обещаем, будет здорово!"
 
 # game/script-a1-wednesday.rpy:384
-translate ru a1_wednesday_short_shape_shock_092c417c:
+translate ru a1_wednesday_short_sharp_shock_092c417c:
 
     # hi "I'll take your word for it. What kind of a place is it?"
     hi "Ловлю тебя на слове. Что это за место?"
 
 # game/script-a1-wednesday.rpy:386
-translate ru a1_wednesday_short_shape_shock_626a1f4b:
+translate ru a1_wednesday_short_sharp_shock_626a1f4b:
 
     # hi "A restaurant, or something?"
     hi "Что-то вроде ресторана?"
 
 # game/script-a1-wednesday.rpy:391
-translate ru a1_wednesday_short_shape_shock_ef2b123c_5:
+translate ru a1_wednesday_short_sharp_shock_ef2b123c_5:
 
     # shi "…"
     shi "…"
 
 # game/script-a1-wednesday.rpy:396
-translate ru a1_wednesday_short_shape_shock_5f152479:
+translate ru a1_wednesday_short_sharp_shock_5f152479:
 
     # mi "It's a teahouse, Hicchan~!"
     mi "Это чайный дом, Хиттян~!"
 
 # game/script-a1-wednesday.rpy:398
-translate ru a1_wednesday_short_shape_shock_4724bf34:
+translate ru a1_wednesday_short_sharp_shock_4724bf34:
 
     # "A teahouse… that sounds kind of fancy."
     "Чайный дом… может оказаться дороговато."
 
 # game/script-a1-wednesday.rpy:403
-translate ru a1_wednesday_short_shape_shock_ef2b123c_6:
+translate ru a1_wednesday_short_sharp_shock_ef2b123c_6:
 
     # shi "…"
     shi "…"
 
 # game/script-a1-wednesday.rpy:408
-translate ru a1_wednesday_short_shape_shock_61da97be:
+translate ru a1_wednesday_short_sharp_shock_61da97be:
 
     # mi "Why are you looking at your wallet, Hicchan? It's okay, if you don't have any money we'll cover for you~!"
     mi "Почему ты смотришь в свой бумажник, Хиттян? Ничего страшного, если у тебя нет денег, мы за тебя заплатим~!"
 
 # game/script-a1-wednesday.rpy:410
-translate ru a1_wednesday_short_shape_shock_611476d5:
+translate ru a1_wednesday_short_sharp_shock_611476d5:
 
     # hi "That's really nice of you. Thanks."
     hi "Очень мило с вашей стороны. Спасибо."
 
 # game/script-a1-wednesday.rpy:415
-translate ru a1_wednesday_short_shape_shock_5d7d1415:
+translate ru a1_wednesday_short_sharp_shock_5d7d1415:
 
     # mi "It's okay, Hicchan! After all, we're friends, right, Hicchan?"
     mi "Всё в порядке, Хиттян! Мы же всё-таки друзья, да, Хиттян?"
 
 # game/script-a1-wednesday.rpy:417
-translate ru a1_wednesday_short_shape_shock_9944c5a7:
+translate ru a1_wednesday_short_sharp_shock_9944c5a7:
 
     # "It's only been three days. Are we really friends that quickly?"
     "Мы знакомы всего три дня. Неужели мы так быстро сумели сдружиться?"
 
 # game/script-a1-wednesday.rpy:419
-translate ru a1_wednesday_short_shape_shock_992d4b53:
+translate ru a1_wednesday_short_sharp_shock_992d4b53:
 
     # "Heh. But, hearing that makes me happy."
     "Хе-хе. Но мне приятно это слышать."
 
 # game/script-a1-wednesday.rpy:424
-translate ru a1_wednesday_short_shape_shock_ef2b123c_7:
+translate ru a1_wednesday_short_sharp_shock_ef2b123c_7:
 
     # shi "…"
     shi "…"
 
 # game/script-a1-wednesday.rpy:429
-translate ru a1_wednesday_short_shape_shock_31cc015d:
+translate ru a1_wednesday_short_sharp_shock_31cc015d:
 
     # mi "Ah, it's only for today, though, and only if you accept right now! Do you want to go, Hicchan?"
     mi "А, но это только на сегодня и только если ты согласишься прямо сейчас! Ты точно хочешь пойти, Хиттян?"
 
 # game/script-a1-wednesday.rpy:431
-translate ru a1_wednesday_short_shape_shock_45664ad5:
+translate ru a1_wednesday_short_sharp_shock_45664ad5:
 
     # "I start wondering if this is some kind of trap. Is this Misha's suggestion or Shizune's? This is important. I'm still a little apprehensive about the possible motives of a girl whose favorite pastime is the game of world domination."
     "Я начинаю задумываться, не ловушка ли это. Этот поход предложила мне Миша или Сидзунэ? Это важно. Меня несколько тревожат возможные мотивы девочки, чья любимая забава – игра в мировое господство."
 
 # game/script-a1-wednesday.rpy:433
-translate ru a1_wednesday_short_shape_shock_52a8ee85:
+translate ru a1_wednesday_short_sharp_shock_52a8ee85:
 
     # "No, I'm just being paranoid. Actually, they have grown on me already, and I do have to go to town sometime. So why not now, with them?"
     "…Нет, наверное я просто поддался паранойе. В конце концов, я не имею ничего против их компании. Иногда необходимо выбираться в город, так почему бы и не вместе с ними?"
 
 # game/script-a1-wednesday.rpy:435
-translate ru a1_wednesday_short_shape_shock_f3300080:
+translate ru a1_wednesday_short_sharp_shock_f3300080:
 
     # "I've never actually been to a teahouse before. All my expectations are from what I've seen about them on TV. But those are period dramas, and these are modern times. It might just be a regular café, and they're just calling it a teahouse."
     "Я никогда раньше не был в чайном доме, только видел их по телевизору в исторических фильмах. Возможно, сейчас это всего лишь обычные кафе, в которых от тех «чайных домов» осталось одно название."
 
 # game/script-a1-wednesday.rpy:437
-translate ru a1_wednesday_short_shape_shock_acdf0948:
+translate ru a1_wednesday_short_sharp_shock_acdf0948:
 
     # "Either way, I'm curious about that, too, so there's another reason for me to join them."
     "Моё любопытство – лишь ещё одна причина, по которой я хочу пойти с ними."
 
 # game/script-a1-wednesday.rpy:439
-translate ru a1_wednesday_short_shape_shock_21ce94c5:
+translate ru a1_wednesday_short_sharp_shock_21ce94c5:
 
     # hi "Sure."
     hi "Конечно."
 
 # game/script-a1-wednesday.rpy:445
-translate ru a1_wednesday_short_shape_shock_33848275:
+translate ru a1_wednesday_short_sharp_shock_33848275:
 
     # mi "That's great, Hicchan~! That's great, that's great! Yay~!"
     mi "Это здорово, Хиттян~! Здорово, здорово! Ура~!"
 
 # game/script-a1-wednesday.rpy:447
-translate ru a1_wednesday_short_shape_shock_62d7f70e:
+translate ru a1_wednesday_short_sharp_shock_62d7f70e:
 
     # "Misha hops up and down briefly to show how happy she is, which causes a few heads to turn towards us. Shizune opts for a polite, tiny clap that lasts for all of two seconds before she goes back to looking stoic as usual."
     "Миша несколько раз радостно подпрыгивает на месте, в очередной раз привлекая своим поведением посторонние взгляды. Сидзунэ лаконично, едва слышно аплодирует, прежде чем выражение её лица снова становится невозмутимым."
 
 # game/script-a1-wednesday.rpy:452
-translate ru a1_wednesday_short_shape_shock_d5eb5922:
+translate ru a1_wednesday_short_sharp_shock_d5eb5922:
 
     # hi "Would it kill you to be a little happier, Shizune?"
     hi "Тебе не помешало бы быть немного радостней, Сидзунэ."
 
 # game/script-a1-wednesday.rpy:457
-translate ru a1_wednesday_short_shape_shock_ef2b123c_8:
+translate ru a1_wednesday_short_sharp_shock_ef2b123c_8:
 
     # shi "…"
     shi "…"
 
 # game/script-a1-wednesday.rpy:462
-translate ru a1_wednesday_short_shape_shock_3385bd6c:
+translate ru a1_wednesday_short_sharp_shock_3385bd6c:
 
     # mi "Oh? I wasn't aware that Hicchan was a king. Hahahaha~!"
     mi "О-о! А я не знала, что Хиттян у нас король. Ха-ха-ха-ха~!"
 
 # game/script-a1-wednesday.rpy:467
-translate ru a1_wednesday_short_shape_shock_f0aca90f:
+translate ru a1_wednesday_short_sharp_shock_f0aca90f:
 
     # "Shizune pushes her glasses up as Misha delivers her message totally without sarcasm. I guess it would sting more if she could say it with the intent Shizune meant behind it, so for once I'm happy to have Misha as a barrier between us."
     "Сидзунэ поправляет очки, пока Миша переводит её слова, причём без единой нотки сарказма. Полагаю, если бы она смогла передать интонацию Сидзунэ, эта насмешка могла бы меня задеть. В такие моменты я рад, что между нами существует подобный барьер."
 
 # game/script-a1-wednesday.rpy:469
-translate ru a1_wednesday_short_shape_shock_3d426558:
+translate ru a1_wednesday_short_sharp_shock_3d426558:
 
     # hi "I'm not telling you to jump for joy just because I'm having lunch with you. I'm not that arrogant."
     hi "Я и не прошу тебя прыгать от радости из-за того, что решил к вам присоединиться. Я не столь высокомерен."
 
 # game/script-a1-wednesday.rpy:477
-translate ru a1_wednesday_short_shape_shock_ff5eb9da:
+translate ru a1_wednesday_short_sharp_shock_ff5eb9da:
 
     # "She seems to accept this, and we head for town with Shizune leading the way."
     "Думаю, Сидзунэ и так это понимает. Под её предводительством мы втроём направляемся в город."
 
 # game/script-a1-wednesday.rpy:482
-translate ru a1_wednesday_short_shape_shock_ef2b123c_9:
+translate ru a1_wednesday_short_sharp_shock_ef2b123c_9:
 
     # shi "…"
     shi "…"
 
 # game/script-a1-wednesday.rpy:487
-translate ru a1_wednesday_short_shape_shock_3a915296:
+translate ru a1_wednesday_short_sharp_shock_3a915296:
 
     # mi "We have to run now, there is an important student council meeting regarding the festival. And we finally decided where to eat~!"
     mi "А теперь нам пора бежать: в Школьном совете важное собрание по поводу фестиваля. И мы наконец решили, где будем есть~!"
 
 # game/script-a1-wednesday.rpy:492
-translate ru a1_wednesday_short_shape_shock_ef2b123c_10:
+translate ru a1_wednesday_short_sharp_shock_ef2b123c_10:
 
     # shi "…"
     shi "…"
 
 # game/script-a1-wednesday.rpy:497
-translate ru a1_wednesday_short_shape_shock_7d693841:
+translate ru a1_wednesday_short_sharp_shock_7d693841:
 
     # mi "Too bad you can't join, but this lunch meeting is only for council members."
     mi "Жаль, но тебе нельзя с нами: это бизнес-ланч только для членов Совета."
 
 # game/script-a1-wednesday.rpy:502
-translate ru a1_wednesday_short_shape_shock_d3cd3543:
+translate ru a1_wednesday_short_sharp_shock_d3cd3543:
 
     # mi "We can take you there some other time! Oh, but that'd be like a date, wouldn't it?"
     mi "Мы обязательно позовём тебя в другой раз! О, но это было бы слишком похоже на свидание, не правда ли?"
 
 # game/script-a1-wednesday.rpy:507
-translate ru a1_wednesday_short_shape_shock_e39fcd2d:
+translate ru a1_wednesday_short_sharp_shock_e39fcd2d:
 
     # mi "Wahaha~!"
     mi "Ва-ха-ха!~"
 
 # game/script-a1-wednesday.rpy:515
-translate ru a1_wednesday_short_shape_shock_2e4d3d47:
+translate ru a1_wednesday_short_sharp_shock_2e4d3d47:
 
     # "The girls leave for downstairs."
     "Девочки спускаются вниз по лестнице."
 
 # game/script-a1-wednesday.rpy:517
-translate ru a1_wednesday_short_shape_shock_69d29304:
+translate ru a1_wednesday_short_sharp_shock_69d29304:
 
     # "I didn't manage to get far from the third floor hallway before all this commotion struck, literally. I should get going as well."
     "Не успеваю я сделать и пары шагов по коридору, как меня буквально захлёстывает волна шума и суеты перемены. Мне тоже пора идти."
 
 # game/script-a1-wednesday.rpy:522
-translate ru a1_wednesday_short_shape_shock_1d77aa46:
+translate ru a1_wednesday_short_sharp_shock_1d77aa46:
 
     # "The lunch and the afternoon class pass uneventfully."
     "Больше за весь учебный день не происходит ничего интересного."
 
 # game/script-a1-wednesday.rpy:524
-translate ru a1_wednesday_short_shape_shock_a5aa1387:
+translate ru a1_wednesday_short_sharp_shock_a5aa1387:
 
     # "I read most of the book I had started yesterday, and eat some of the mostly inedible offerings of the cafeteria."
     "Я успеваю прочесть большую часть книги, начатой вчера, и перекусить в столовой, с трудом что-то выбрав из совершенно непривлекательного меню."
 
 # game/script-a1-wednesday.rpy:526
-translate ru a1_wednesday_short_shape_shock_dc25fb5b:
+translate ru a1_wednesday_short_sharp_shock_dc25fb5b:
 
     # "The class is tiresome."
     "Уроки ужасно скучны."

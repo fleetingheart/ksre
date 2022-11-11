@@ -5337,9 +5337,11 @@ label a3_hanako:
         with None
         show bg at bgleft
         show lilly:
-            center xpos 0.21
+            center
+            xpos 0.21
         show akira:
-            center xpos 0.39
+            center
+            xpos 0.39
         with charamovefaster
 
         show hanako at tworight

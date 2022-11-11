@@ -10510,52 +10510,56 @@ translate ru a4_rin_proof_of_existence_c55baf0d:
     # centered_b "Present{fast}" with Dissolve(4.0)
     centered_b "Настоящее{fast}" with Dissolve(4.0)
 
-# game/script-a4-rin.rpy:5534
-translate ru a4_rin_proof_of_existence_a9a20749:
+# game/script-a4-rin.rpy:5487
+translate ru a4_rin_proof_of_existence_dae2c000:
 
-    # nb "'Present' is a fleeting and vague concept at best.{vspace=30}"
-    nb "Понятие «настоящее», в лучшем случае, мимолётно и расплывчато.{vspace=90}"
+    # nvl clear
+    # nb "'Present' is a fleeting and vague concept at best."
+    nvl clear
+    nb "Понятие «настоящее», в лучшем случае, мимолётно и расплывчато."
 
-# game/script-a4-rin.rpy:5536
-translate ru a4_rin_proof_of_existence_68e3b187:
+# game/script-a4-rin.rpy:5491
+translate ru a4_rin_proof_of_existence_00f851bb:
 
-    # extend "The moment between the past and the future?{vspace=90}"
-    extend "Миг между прошлым и будущим?{vspace=90}"
+    # nb "The moment between the past and the future?"
+    nb "Миг между прошлым и будущим?"
 
-# game/script-a4-rin.rpy:5538
-translate ru a4_rin_proof_of_existence_1f45bb8d:
+# game/script-a4-rin.rpy:5493
+translate ru a4_rin_proof_of_existence_8c328169:
 
-    # extend "That doesn't really mean anything.{vspace=90}"
-    extend "На самом деле это ничего не означает.{vspace=90}"
+    # nb "That doesn't really mean anything."
+    nb "На самом деле это ничего не означает."
 
-# game/script-a4-rin.rpy:5540
-translate ru a4_rin_proof_of_existence_7deb5515:
+# game/script-a4-rin.rpy:5495
+translate ru a4_rin_proof_of_existence_261964ab:
 
-    # extend "Thinking too much about things that don't make sense is a waste of time.{vspace=90}"
-    extend "Думать о бессмысленных вещах – пустая трата времени.{vspace=90}"
+    # nb "Thinking too much about things that don't make sense is a waste of time."
+    nb "Думать о бессмысленных вещах – пустая трата времени."
 
-# game/script-a4-rin.rpy:5542
-translate ru a4_rin_proof_of_existence_4d906a0a:
+# game/script-a4-rin.rpy:5497
+translate ru a4_rin_proof_of_existence_7f3c8d99:
 
-    # extend "That's why living through the present is always the best option.{vspace=90}"
-    extend "Вот почему жить настоящим всегда лучше.{vspace=90}"
+    # nb "That's why living through the present is always the best option."
+    nb "Вот почему жить настоящим всегда лучше."
 
-# game/script-a4-rin.rpy:5544
-translate ru a4_rin_proof_of_existence_b3c76923:
+# game/script-a4-rin.rpy:5499
+translate ru a4_rin_proof_of_existence_9eca2067:
 
-    # extend "Besides, for us who can't foresee the future and who forget the past too easily, present is really the only proof of our existence.{vspace=90}"
-    extend "К тому же для нас, неспособных предвидеть будущее и легко забывающих прошлое, настоящее – единственное доказательство нашего существования.{vspace=90}"
+    # nb "Besides, for us who can't foresee the future and who forget the past too easily, present is really the only proof of our existence."
+    nb "К тому же для нас, неспособных предвидеть будущее и легко забывающих прошлое, настоящее – единственное доказательство нашего существования."
 
-# game/script-a4-rin.rpy:5546
-translate ru a4_rin_proof_of_existence_24c1e46a:
+# game/script-a4-rin.rpy:5501
+translate ru a4_rin_proof_of_existence_a1f16ab2:
 
-    # extend "Even though existence will go on even if you forget about it for a while, it's good to seize the day at least every once in a while.{vspace=90}"
-    extend "Хотя жизнь продолжается, даже если мы об этом ненадолго забываем, всё равно ловить момент порой оказывается неплохо.{vspace=90}"
+    # nb "Even though existence will go on even if you forget about it for a while, it's good to seize the day at least every once in a while."
+    nb "Хотя жизнь продолжается, даже если мы об этом ненадолго забываем, всё равно ловить момент порой оказывается неплохо."
 
-# game/script-a4-rin.rpy:5549
-translate ru a4_rin_proof_of_existence_dfa6a6b0:
+# game/script-a4-rin.rpy:5503
+translate ru a4_rin_proof_of_existence_0799c3cd:
 
+    # nvl clear
     # centered_alive "That way… you can confirm that you are, in fact…"
+    nvl clear
     centered_alive "Ведь так… ты можешь доказать, что ты по-настоящему…"
 
 # game/script-a4-rin.rpy:5569

@@ -5484,23 +5484,30 @@ label a4_rin:
 
             centered_b "Present{fast}" with Dissolve(4.0)
 
-            nb "'Present' is a fleeting and vague concept at best.{vspace=30}"
+            nvl clear
 
-            extend "The moment between the past and the future?{vspace=90}"
+            nb "'Present' is a fleeting and vague concept at best."
 
-            extend "That doesn't really mean anything.{vspace=90}"
+            nb "The moment between the past and the future?"
 
-            extend "Thinking too much about things that don't make sense is a waste of time.{vspace=90}"
+            nb "That doesn't really mean anything."
 
-            extend "That's why living through the present is always the best option.{vspace=90}"
+            nb "Thinking too much about things that don't make sense is a waste of time."
 
-            extend "Besides, for us who can't foresee the future and who forget the past too easily, present is really the only proof of our existence.{vspace=90}"
+            nb "That's why living through the present is always the best option."
 
-            extend "Even though existence will go on even if you forget about it for a while, it's good to seize the day at least every once in a while.{vspace=90}"
+            nb "Besides, for us who can't foresee the future and who forget the past too easily, present is really the only proof of our existence."
+
+            nb "Even though existence will go on even if you forget about it for a while, it's good to seize the day at least every once in a while."
+
+            nvl clear
 
             centered_alive "That way… you can confirm that you are, in fact…"
 
             show alivetext _("That way… you can confirm that you are, in fact…")
+            with Dissolve(3.0)
+
+            pause
 
             show alivetext _("That way… you can confirm that you are, in fact… alive.")
             with Dissolve(3.0)

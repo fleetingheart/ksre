@@ -106,18 +106,6 @@ style choice_button_text is gui_button_text:
     xsize 13
     layout "nobreak"
 
-style nvl_window:
-    background "gui/bg/nvl.png"
-    top_padding 59
-    left_padding 55
-    right_padding 70
-
-style b_nvl_window:
-    background None
-    top_padding 140
-    left_padding 100
-    right_padding 100
-
 style return_button is gui_button:
     yalign 0.5
     xalign 1.0

@@ -10510,53 +10510,57 @@ translate fr a4_rin_proof_of_existence_c55baf0d:
     # centered_b "Present{fast}" with Dissolve(4.0)
     centered_b "Present{fast}" with Dissolve(4.0)
 
-# game/script-a4-rin.rpy:5498
-translate fr a4_rin_proof_of_existence_a9a20749:
+# game/script-a4-rin.rpy:5487
+translate fr a4_rin_proof_of_existence_dae2c000:
 
-    # nb "'Present' is a fleeting and vague concept at best.{vspace=30}"
-    nb "'Présent' est un concept vague et fugace au mieux.{vspace=30}"
+    # nvl clear
+    # nb "'Present' is a fleeting and vague concept at best."
+    nvl clear
+    nb "'Présent' est un concept vague et fugace au mieux."
 
-# game/script-a4-rin.rpy:5500
-translate fr a4_rin_proof_of_existence_68e3b187:
+# game/script-a4-rin.rpy:5491
+translate fr a4_rin_proof_of_existence_00f851bb:
 
-    # extend "The moment between the past and the future?{vspace=90}"
-    extend "Le moment entre le passé et le futur?{vspace=90}"
+    # nb "The moment between the past and the future?"
+    nb "Le moment entre le passé et le futur?"
 
-# game/script-a4-rin.rpy:5502
-translate fr a4_rin_proof_of_existence_1f45bb8d:
+# game/script-a4-rin.rpy:5493
+translate fr a4_rin_proof_of_existence_8c328169:
 
-    # extend "That doesn't really mean anything.{vspace=90}"
-    extend "Ça ne veut pas dire grand-chose.{vspace=90}"
+    # nb "That doesn't really mean anything."
+    nb "Ça ne veut pas dire grand-chose."
 
-# game/script-a4-rin.rpy:5504
-translate fr a4_rin_proof_of_existence_7deb5515:
+# game/script-a4-rin.rpy:5495
+translate fr a4_rin_proof_of_existence_261964ab:
 
-    # extend "Thinking too much about things that don't make sense is a waste of time.{vspace=90}"
-    extend "Trop penser à des choses qui ne veulent pas dire grand-chose est une perte de temps.{vspace=90}"
+    # nb "Thinking too much about things that don't make sense is a waste of time."
+    nb "Trop penser à des choses qui ne veulent pas dire grand-chose est une perte de temps."
 
-# game/script-a4-rin.rpy:5506
-translate fr a4_rin_proof_of_existence_4d906a0a:
+# game/script-a4-rin.rpy:5497
+translate fr a4_rin_proof_of_existence_7f3c8d99:
 
-    # extend "That's why living through the present is always the best option.{vspace=90}"
-    extend "C'est pour ça que vivre dans le présent est toujours la meilleure option.{vspace=90}"
+    # nb "That's why living through the present is always the best option."
+    nb "C'est pour ça que vivre dans le présent est toujours la meilleure option."
 
-# game/script-a4-rin.rpy:5508
-translate fr a4_rin_proof_of_existence_b3c76923:
+# game/script-a4-rin.rpy:5499
+translate fr a4_rin_proof_of_existence_9eca2067:
 
-    # extend "Besides, for us who can't foresee the future and who forget the past too easily, present is really the only proof of our existence.{vspace=90}"
-    extend "En plus, pour nous qui ne pouvons pas voir le futur et qui oublions le passé trop facilement, le présent est vraiment la seule preuve de notre existence.{vspace=90}"
+    # nb "Besides, for us who can't foresee the future and who forget the past too easily, present is really the only proof of our existence."
+    nb "En plus, pour nous qui ne pouvons pas voir le futur et qui oublions le passé trop facilement, le présent est vraiment la seule preuve de notre existence."
 
-# game/script-a4-rin.rpy:5510
-translate fr a4_rin_proof_of_existence_24c1e46a:
+# game/script-a4-rin.rpy:5501
+translate fr a4_rin_proof_of_existence_a1f16ab2:
 
-    # extend "Even though existence will go on even if you forget about it for a while, it's good to seize the day at least every once in a while.{vspace=90}"
-    extend "Même si cette existence continuera même si on l'oublie pendant un moment, il est bon de vivre le jour au moins une fois de temps en temps.{vspace=90}"
+    # nb "Even though existence will go on even if you forget about it for a while, it's good to seize the day at least every once in a while."
+    nb "Même si cette existence continuera même si on l'oublie pendant un moment, il est bon de vivre le jour au moins une fois de temps en temps."
 
-# game/script-a4-rin.rpy:5512
-translate fr a4_rin_proof_of_existence_dfa6a6b0:
+# game/script-a4-rin.rpy:5503
+translate fr a4_rin_proof_of_existence_0799c3cd:
 
+    # nvl clear
     # centered_alive "That way… you can confirm that you are, in fact…"
-    centered_alive "That way… you can confirm that you are, in fact…"
+    nvl clear
+    centered_alive "De cette façon... tu peux confirmer que tu es, vraiment..."
 
 # game/script-a4-rin.rpy:5529
 translate fr a4_rin_proof_of_existence_7460cbe0:

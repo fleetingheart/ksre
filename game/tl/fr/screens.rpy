@@ -54,6 +54,10 @@ translate fr strings:
     old "Current track"
     new "Musique actuelle"
 
+    # game/screens.rpy:157
+    old "Accessibility"
+    new "Accessibilité"
+
     # game/screens.rpy:161
     old "Start"
     new "Démarrer"
@@ -85,6 +89,14 @@ translate fr strings:
     # game/screens.rpy:203
     old "Discord activity"
     new "Activité sur Discord"
+
+    # game/screens.rpy:243
+    old "Hardware cursor"
+    new "Curseur matériel"
+
+    # game/screens.rpy:250
+    old "Blinking arrow"
+    new "Flèche clignotante"
 
     # game/screens.rpy:215
     old "Text speed"
@@ -146,6 +158,10 @@ translate fr strings:
     old "Scene"
     new "Scène"
 
+    # game/screens.rpy:426
+    old "Are you sure you want to\ndelete this save?"
+    new "Êtes-vous sûr de vouloir\nsupprimer cette sauvegarde?"
+
     # game/screens.rpy:388
     old "Save"
     new "Sauvegarder"
@@ -197,4 +213,28 @@ translate fr strings:
     # game/screens.rpy:795
     old "Extras > Cinema"
     new "Suppléments > Cinéma"
+
+    # game/screens.rpy:977
+    old "Fonts"
+    new "Polices"
+
+    # game/screens.rpy:984
+    old "Default"
+    new "Défaut"
+
+    # game/screens.rpy:990
+    old "High contrast"
+    new "Contraste élevé"
+
+    # game/screens.rpy:992
+    old "Self-voicing"
+    new "Auto-voix"
+
+    # game/screens.rpy:999
+    old "Enable"
+    new "Activer"
+
+    # game/screens.rpy:1009
+    old "Volume drop"
+    new "Chute de volume"
 

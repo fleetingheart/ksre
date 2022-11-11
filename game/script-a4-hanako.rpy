@@ -3033,7 +3033,7 @@ label a4_hanako:
         with charachange
 
         show hanako:
-            ease xpos 0.9 alpha 0.0
+            ease 1.0 xpos 0.9 alpha 0.0
         with Pause(1.0)
 
         hide hanako

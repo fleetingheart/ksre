@@ -159,16 +159,16 @@ init python:
         return 0
 
 transform twoleft:
-    xpos 0.3 xanchor 0.5 ypos 1.0 yanchor 1.0
+    xpos 0.3 xanchor 0.5 ypos 1.0 yanchor 1.0 alpha 1.0
 
 transform tworight:
-    xpos 0.7 xanchor 0.5 ypos 1.0 yanchor 1.0
+    xpos 0.7 xanchor 0.5 ypos 1.0 yanchor 1.0 alpha 1.0
 
 transform closeleft:
-    xpos 0.25 xanchor 0.5 ypos 1.0 yanchor 1.0
+    xpos 0.25 xanchor 0.5 ypos 1.0 yanchor 1.0 alpha 1.0
 
 transform closeright:
-    xpos 0.75 xanchor 0.5 ypos 1.0 yanchor 1.0
+    xpos 0.75 xanchor 0.5 ypos 1.0 yanchor 1.0 alpha 1.0
 
 transform bgleft:
     xpos 0.45 xanchor 0.5 ypos 1.0 yanchor 1.0

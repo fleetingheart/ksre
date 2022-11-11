@@ -76,18 +76,13 @@ screen choice(items):
             textbutton i.caption action i.action
 
 screen nvl(dialogue, items=None):
-    window:
-        style "nvl_window"
-
-        has vbox:
-            style "nvl_vbox"
+    window id "window":
+        has vbox
+        spacing 20
 
         for d in dialogue:
-            window:
-                id d.window_id
-
-                has hbox:
-                    spacing 10
+            frame:
+                has hbox
 
                 if d.who is not None:
                     text d.who id d.who_id
@@ -851,7 +846,7 @@ screen cinema():
                     hovered Function(local_items.add, i)
                     unhovered Function(local_items.remove, i)
 
-                    if video in _watched_videos or config.developer:
+                    if video in persistent._watched_videos or config.developer:
                         action Call("watch_video", video)
 
                         if i in local_items:

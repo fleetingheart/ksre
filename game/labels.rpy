@@ -12,16 +12,16 @@ label main_menu:
     show screen main_menu
     with dotwipe_up
     call screen main_menu
+
     return
 
 label act_op(svideo):
     python:
         video = "video/" + svideo
 
-        if video not in _watched_videos:
+        if video not in persistent._watched_videos:
             config.skipping = False
-            config.allow_skipping = False
-            _watched_videos.add(video)
+            persistent._watched_videos.add(video)
 
     if svideo != "op_1.webm":
         scene white
@@ -30,9 +30,6 @@ label act_op(svideo):
     pause 1.0
     $ renpy.movie_cutscene(video)
     pause 0.1
-
-    if not config.allow_skipping:
-        $ config.allow_skipping = True
 
     return
 
@@ -73,6 +70,7 @@ label watch_video(video):
     pause 0.1
 
     $ renpy.music.set_volume(volume=1.0, delay=1.0)
+
     jump main_menu
 
 label timeskip:
@@ -217,7 +215,7 @@ label replay_start:
 
     call expression _current_replay
 
-    jump main_menu
+    return
 
 label credits:
     stop music
@@ -245,7 +243,7 @@ label credits:
 
     pause 60.0
 
-    show expression Text("©MMXV Four Leaf Studios, Naga", text_align=0.5, size=29) zorder 999 at Transform(xalign=0.5, ypos=1261)
+    show expression Text("©MMXV Four Leaf Studios, Fleeting Heartbeat Studios", text_align=0.5, size=29) zorder 999 at Transform(xalign=0.5, ypos=1261)
     with Dissolve(2.0)
 
     pause 5.0
