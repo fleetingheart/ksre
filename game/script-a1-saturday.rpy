@@ -350,7 +350,7 @@ label a1_saturday:
         if go_through_lilly() and not get_tired():
             force_route = FR_LILLY
         elif go_through_shizu():
-            if promised and not are_student_council:
+            if get_tired() and not are_student_council:
                 force_route = FR_EMI
             else:
                 force_route = FR_SHIZU
