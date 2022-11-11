@@ -5702,7 +5702,6 @@ label a2_rin:
         "Her voice sounds different from usual; more gentle, now, and soft. I wonder if it's only because of the rain, or because of the mood the rain brought upon the quiet artist girl."
 
         show ev rin_rain_away_close behind rain at top
-        show ovl rin_rain_hisaotowards_close behind rain at right
         with charachangealways
 
         "I feel that mood in myself too, enhanced by her words."
