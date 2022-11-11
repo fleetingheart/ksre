@@ -3190,7 +3190,8 @@ label a3_lilly:
 
         show lilly:
             ease 1.0 ypos 1.2 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide lilly
         with vpunch
@@ -3794,7 +3795,8 @@ label a3_lilly:
             center
             xpos 0.4 alpha 0.0
             easein 1.0 center alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show lilly at center
 

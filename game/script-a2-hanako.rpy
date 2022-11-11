@@ -963,7 +963,8 @@ label a2_hanako:
 
         show hanako:
             ease 1.0 xpos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide hanako
 
@@ -1009,7 +1010,8 @@ label a2_hanako:
         show misha perky_smile_close:
             offscreenleft alpha 0.0
             ease 1.0 xanchor 0.5 xpos 0.16 alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show misha:
             center
@@ -1077,7 +1079,8 @@ label a2_hanako:
 
         show misha:
             ease 1.0 offscreenleft alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide misha
 
@@ -2565,7 +2568,8 @@ label a2_hanako:
 
         show teaset:
             easeout 0.5 ypos 0.6 alpha 0.0
-        with Pause(0.5)
+
+        pause 0.5
 
         hide teaset
 
@@ -2856,7 +2860,8 @@ label a2_hanako:
 
         show hanagown:
             easeout 0.5 tworight alpha 0.0
-        with Pause(0.5)
+
+        pause 0.5
 
         hide hanako
 
@@ -2895,7 +2900,8 @@ label a2_hanako:
         show kenji neutral_close:
             twoleft alpha 0.0
             easein 0.5 center alpha 1.0
-        with Pause(0.5)
+
+        pause 0.5
 
         show kenji at center
 
@@ -3015,7 +3021,8 @@ label a2_hanako:
 
         show kenji:
             easeout 0.5 twoleft alpha 0.0
-        with Pause(0.5)
+
+        pause 0.5
 
         hide kenji
 

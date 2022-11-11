@@ -29,12 +29,15 @@ label a4_lilly:
         nvl clear
 
         show misha perky_confused_close:
-            xanchor 0.5 xpos -0.1 alpha 0.0
+            xpos -0.1 xanchor 0.5 alpha 0.0
             ease 1.0 xpos 0.1 alpha 1.0
         with None
 
         show bg at bgright
         with charamovefaster
+
+        show misha:
+            xpos 0.1 xanchor 0.5 alpha 1.0
 
         "Glancing around the class, even the bubbly, ever-energetic Misha seems oddly deflated. She sits at her desk, nervously chewing a pen while Mutou lectures from the front of the class."
 
@@ -52,20 +55,23 @@ label a4_lilly:
         "Tearing my eyes from the sorry spectacle, I turn my attention elsewhere."
 
         show hanako defarms_strain:
-            xanchor 0.5 xpos 1.1 alpha 0.0
+            xpos 1.1 xanchor 0.5 alpha 0.0
             ease 1.0 xpos 0.94 alpha 1.0
         with None
 
         show bg at bgleft
         with charamovefaster
 
+        show hanako:
+            xpos 0.94 xanchor 0.5 alpha 1.0
+
         "Hanako sits frantically scribbling in her notebook, her face mere inches away from the page, seemingly trying to record every word that leaves Mutou's mouth."
 
         show shizu basic_normal:
-            xanchor 0.5 xpos 0.0 alpha 0.0
+            xpos 0.0 xanchor 0.5 alpha 0.0
             ease 1.0 xpos 0.3 alpha 1.0
         show misha perky_confused_close:
-            xanchor 0.5 xpos -0.1 alpha 0.0
+            xpos -0.1 xanchor 0.5 alpha 0.0
             ease 1.0 xpos 0.1 alpha 1.0
         show hanako:
             ease 1.0 xpos 1.1 alpha 0.0
@@ -75,6 +81,10 @@ label a4_lilly:
         with charamovefaster
 
         hide hanako
+        show shizu:
+            xpos 0.3 xanchor 0.5 alpha 1.0
+        show misha:
+            xpos 0.1 xanchor 0.5 alpha 1.0
 
         "Shizune's, well… Shizune. Cool as a cucumber, she sits diligently taking notes with her attention wholly focused on the front of the class."
 
@@ -92,12 +102,14 @@ label a4_lilly:
         mi "Hicchan~…"
 
         show misha perky_sad_close:
-            xanchor 0.5 xpos 0.1 alpha 0.0
-            ease 1.0 twoleft alpha 1.0
+            xpos 0.1 xanchor 0.5 alpha 0.0
+            ease 1.0 twoleft
         with None
 
         show bg at bgright
         with charamovefaster
+
+        show misha at twoleft
 
         mi "Help me~…"
 
@@ -331,7 +343,12 @@ label a4_lilly:
 
         show lilly:
             ease 1.0 center alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
+
+        show lilly:
+            center
+            alpha 0.0
 
         "Her reverie comes to an end as she takes one hand from mine, placing it over them as she leans her body forwards and stands out of her chair."
 
@@ -339,7 +356,12 @@ label a4_lilly:
 
         show lilly behind_cheerful_close:
             ease 1.0 ypos 1.1 alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
+
+        show lilly:
+            center
+            ypos 1.1 alpha 1.0
 
         "My mind feels as if it briefly stopped at that moment, barely registering Lilly sitting back in her chair and smiling back at me with ever so slightly reddened cheeks."
 
@@ -501,7 +523,8 @@ label a4_lilly:
         show akira basic_smile:
             xanchor 0.5 xpos 1.0 alpha 0.0
             ease 1.0 xpos 0.9 alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         aki "Hey, Hisao."
 
@@ -574,7 +597,8 @@ label a4_lilly:
         show lilly basic_smileclosed_paj:
             left alpha 0.0
             ease 1.0 ypos 1.17 alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "Warned by the sound of crockery against the table as Lilly gently places my drink in front on me, I thank her and take a long sip. Hanako and Lilly are attending to their own, and Akira is quaffing a mug of strong-smelling black coffee."
 
@@ -875,7 +899,8 @@ label a4_lilly:
         show akira basic_lost:
             xanchor 0.5 xpos 1.0 alpha 0.0
             ease 1.0 xpos 0.9 alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         aki "Oh yeah, I almost forgot to tell you."
 
@@ -898,7 +923,8 @@ label a4_lilly:
 
         show akira:
             ease 1.0 xanchor 0.5 xpos 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide akira
 
@@ -1518,7 +1544,8 @@ label a4_lilly:
             truecenter
             ypos 0.7 alpha 0.0
             easein 1.0 truecenter alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "An old photo of… what looks to be a younger Lilly and Shizune operating a noodle stall, with some other girl in the background. She looks vaguely familiar, but I can't quite pinpoint why."
 
@@ -1528,7 +1555,8 @@ label a4_lilly:
 
         show stallphoto_insert:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide stallphoto_insert
 
@@ -1560,7 +1588,8 @@ label a4_lilly:
             truecenter
             ypos 0.7 alpha 0.0
             easein 1.0 truecenter alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "I look back down to the photo in my hand."
 
@@ -1595,7 +1624,8 @@ label a4_lilly:
 
         show stallphoto_insert:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide stallphoto_insert
 
@@ -2444,7 +2474,8 @@ label a4_lilly:
             truecenter
             ypos 0.7 alpha 0.0
             easein 1.0 truecenter alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "Sometimes I wonder what these things are even good for, given all the troubles I've had since the initial accident. I can't even say that it doesn't hurt to take them, considering the side effects so far."
 
@@ -2452,7 +2483,8 @@ label a4_lilly:
 
         show pills:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide pills
 
@@ -2731,7 +2763,8 @@ label a4_lilly:
 
         show kenji:
             ease 1.0 xpos 0.6 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide kenji
 
@@ -2744,7 +2777,8 @@ label a4_lilly:
 
         show lilly cane_surprised_close:
             easeout 0.3 ypos 1.2 alpha 0.0
-        with Pause(0.5)
+
+        pause 0.5
 
         play sound sfx_pillow
         hide lilly
@@ -2760,7 +2794,8 @@ label a4_lilly:
             center
             ypos 1.2 alpha 0.0
             ease 1.0 center alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "Kenji quickly rises back up, seemingly unfazed by the accident."
 
@@ -2799,7 +2834,8 @@ label a4_lilly:
             twoleft
             ypos 1.2 alpha 0.0
             ease 1.0 twoleft alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "Seemingly only now remembering that there are people around her, Lilly slowly climbs to her feet. Her face as she does so makes me retreat a little."
 
@@ -3836,7 +3872,8 @@ label a4_lilly:
         show lilly superclose_shock:
             xalign 0.5 yanchor 0.5 ypos 0.15 rotate 180 alpha 0.0
             easein 1.0 ypos 0.3 alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show bg misc_ceiling_blur as bg2 at center
         show lilly:
@@ -5061,7 +5098,8 @@ label a4_lilly:
             truecenter
             ypos 0.7 alpha 0.0
             easein 1.0 truecenter alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "Papers and folders are strewn across every table in the room, only a solitary little black laptop atop a single desk sticking out from the mess."
 
@@ -5069,7 +5107,8 @@ label a4_lilly:
 
         show sc_comp:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide sc_comp
 
@@ -5432,7 +5471,8 @@ label a4_lilly:
             truecenter
             ypos 0.7 alpha 0.0
             easein 1.0 truecenter alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "At first glance it seems to be an old metallic blue typewriter, but it doesn't take me long to realize it's far from ordinary."
 
@@ -5445,7 +5485,8 @@ label a4_lilly:
 
         show brailler:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide brailler
 
@@ -5745,7 +5786,8 @@ label a4_lilly:
         show lilly basic_weaksmile_cas:
             twoleft alpha 0.0
             ease 1.0 alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show hanako:
             tworight
@@ -5778,7 +5820,8 @@ label a4_lilly:
         show akira basic_lost:
             right ypos 1.15 alpha 0.0
             ease 1.0 right alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show akira at right
 
@@ -7149,7 +7192,8 @@ label a4_lilly:
             truecenter
             ypos 0.7 alpha 0.0
             easein 1.0 truecenter alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "My mouth opens just slightly while I silently watch the tiny yellow metal drum slowly rotate inside, the little bumps on its surface gradually moving in and out of sight."
 
@@ -7157,7 +7201,8 @@ label a4_lilly:
 
         show musicbox:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide musicbox
 

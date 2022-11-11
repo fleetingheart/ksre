@@ -601,7 +601,8 @@ label a1_monday:
 
         show muto:
             easeout 0.5 xpos 0.4 alpha 0.0
-        with Pause(0.5)
+
+        pause 0.5
 
         hide muto
 
@@ -1535,6 +1536,8 @@ label a1_monday:
             easein 0.5 center
         with charaenter
 
+        show kenji at center
+
         play music music_kenji fadein 0.5
 
         "A bespectacled boy is standing in the doorway. He is looking at me very intently through his extremely thick eyeglasses."
@@ -1543,7 +1546,7 @@ label a1_monday:
 
         "Blind? No, at least not completely, why would he have eyeglasses if he was?"
 
-        show kenji tsun_close at center
+        show kenji tsun_close
         with characlose
 
         "He leans closer to me until our noses are almost touching. His breath stinks of garlic."
@@ -1675,9 +1678,14 @@ label a1_monday:
         "But for now…"
 
         show pills:
-            xalign 0.5 yanchor 0.5 ypos 0.7 alpha 0.0
-            easein 1.0 ypos 0.5 alpha 1.0
-        with Pause(1.0)
+            truecenter
+            ypos 0.7 alpha 0.0
+            easein 1.0 truecenter alpha 1.0
+
+        pause 1.0
+
+        show pills:
+            truecenter alpha 1.0
 
         "The bottles of medications neatly arranged on my night table catch my eye."
 
@@ -1685,7 +1693,8 @@ label a1_monday:
 
         show pills:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide pills
 

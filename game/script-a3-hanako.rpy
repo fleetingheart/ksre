@@ -454,7 +454,8 @@ label a3_hanako:
 
         show lilly:
             ease 1.0 ypos 1.0 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide lilly
 
@@ -1997,7 +1998,8 @@ label a3_hanako:
 
         show hanako:
             ease 1.0 ypos 1.1 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide hanako
 
@@ -2018,7 +2020,8 @@ label a3_hanako:
 
         show muto:
             ease 1.0 ypos 1.1 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide muto
 
@@ -2030,7 +2033,8 @@ label a3_hanako:
         show misha hips_smile_close:
             twoleft xpos 0.2 alpha 0.0
             ease 1.0 twoleft alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show shizu at tworight
         show misha at twoleft
@@ -3842,7 +3846,8 @@ label a3_hanako:
 
         show wine:
             easeout 1.0 right yalign 0.5 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide wine
 
@@ -3881,7 +3886,8 @@ label a3_hanako:
 
         show hanagown:
             ease 1.0 tworight alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide hanagown
 
@@ -3907,7 +3913,8 @@ label a3_hanako:
         show akira basic_smile:
             right alpha 0.0
             ease 1.0 right xpos 0.95 alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show hanagown:
             center
@@ -4516,7 +4523,8 @@ label a3_hanako:
         show hanagown drunkworry_close:
             ease 0.1 ypos 1.03
             ease 0.1 ypos 1.05
-        with Pause(0.2)
+
+        pause 0.2
 
         show hanagown:
             center
@@ -4530,7 +4538,8 @@ label a3_hanako:
 
         show hanagown:
             ease 1.0 ypos 1.1 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide hanagown
 
@@ -4641,13 +4650,15 @@ label a3_hanako:
 
         show akira:
             ease 1.0 xpos 0.8 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "She levers herself up with a grunt and heads past me towards the door. Just before she leaves, she turns back towards us."
 
         show akira basic_lost:
             ease 1.0 tworight ypos 1.18 alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show akira:
             tworight
@@ -4667,7 +4678,8 @@ label a3_hanako:
 
         show akira:
             ease 1.0 xpos 0.8 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide akira
 
@@ -5060,7 +5072,8 @@ label a3_hanako:
 
         show letter_insert:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide letter_insert
 
@@ -5143,7 +5156,8 @@ label a3_hanako:
 
         show letter_open_insert_2:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide letter_open_insert_2
 

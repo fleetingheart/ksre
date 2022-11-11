@@ -1848,7 +1848,8 @@ label a4_hanako:
 
         show yuukoshang:
             ease 1.0 center alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "I reach forward and get my book back as Yuuko gets up, takes my mug, and slowly walks to the counter to make another brew."
 
@@ -1866,7 +1867,8 @@ label a4_hanako:
 
         show yuukoshang neutral_down:
             ease 1.0 ypos 1.15 alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show yuukoshang:
             center
@@ -2670,7 +2672,8 @@ label a4_hanako:
 
         show hanaphone:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide hanaphone
 
@@ -2868,7 +2871,8 @@ label a4_hanako:
 
         show phonestrap:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide phonestrap
 
@@ -2904,7 +2908,8 @@ label a4_hanako:
             truecenter
             ypos 0.7
             easein 1.0 truecenter
-        with Pause(1.0)
+
+        pause 1.0
 
         show hanaphonestrap at truecenter
 
@@ -2916,7 +2921,8 @@ label a4_hanako:
 
         show hanaphonestrap:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide hanaphonestrap
 
@@ -2933,7 +2939,8 @@ label a4_hanako:
 
         show hanako:
             ease 1.0 center alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide hanako
 
@@ -3007,7 +3014,8 @@ label a4_hanako:
 
         show miki:
             ease 1.0 xpos 0.9 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide miki
 
@@ -3034,7 +3042,8 @@ label a4_hanako:
 
         show hanako:
             ease 1.0 xpos 0.9 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide hanako
 
@@ -3787,7 +3796,8 @@ label a4_hanako:
             xpos 0.75 alpha 0.0
             1.0
             ease 1.0 tworight alpha 1.0
-        with Pause(2.0)
+
+        pause 2.0
 
         show shizu:
             center
@@ -3798,7 +3808,8 @@ label a4_hanako:
 
         show shizu:
             ease 1.0 xpos -0.1 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide shizu
 
@@ -3855,7 +3866,8 @@ label a4_hanako:
 
         show hanako defarms_strain:
             easeout 0.5 left alpha 0.0
-        with Pause(0.5)
+
+        pause 0.5
 
         hide hanako
 

@@ -1019,7 +1019,8 @@ label a2_shizune:
             truecenter
             ypos 0.7 alpha 0.0
             easein 1.0 truecenter alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show kenjibox at truecenter
 
@@ -1031,7 +1032,8 @@ label a2_shizune:
 
         show kenjibox:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide kenjibox
 
@@ -3544,7 +3546,8 @@ label a2_shizune:
             truecenter
             ypos 0.7 alpha 0.0
             easein 1.0 truecenter alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show kenjibox at truecenter
 
@@ -3552,7 +3555,8 @@ label a2_shizune:
 
         show kenjibox:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide kenjibox
 

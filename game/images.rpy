@@ -444,17 +444,9 @@ image ev emi_knockeddown_legs:
     xpos 4700 ypos 2020 xanchor 4800 yanchor 3600
     ease 8.0 xpos 3800 ypos 1800
 
-image ev emi_run_face_zoomin:
-    "event/emi_run_face.jpg"
-    size (1920, 1080) crop (0, 0, 1920, 1080)
-    ease 10.0 crop (40 * 2.4, 30 * 1.7, 1720, 970)
-
 image ev emi_run_face = "event/emi_run_face.jpg"
 
-image ev emi_run_face_zoomout_ss:
-    sunset("event/emi_run_face.jpg")
-    size (1920, 1080) crop (40 * 2.4, 30 * 1.7, 1720, 970)
-    ease 10.0 crop (0, 0, 1920, 1080)
+image ev emi_run_face_ss = sunset("event/emi_run_face.jpg")
 
 image ev emi_firstkiss = "event/emi_firstkiss.jpg"
 

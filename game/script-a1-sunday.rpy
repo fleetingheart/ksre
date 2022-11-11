@@ -4589,7 +4589,8 @@ label a1_sunday:
 
             show stuffedcat:
                 easeout 1.0 xpos 0.4 alpha 0.0
-            with Pause(1.0)
+
+            pause 1.0
 
             hide stuffedcat
 
@@ -4707,7 +4708,8 @@ label a1_sunday:
                 easeout 1.0 xpos 0.8 alpha 0.0
             show misha:
                 easeout 1.0 xpos 0.2 alpha 0.0
-            with Pause(1.0)
+
+            pause 1.0
 
             hide shizu
             hide misha
@@ -5656,11 +5658,13 @@ label a1_sunday:
 
             show kenji:
                 easeout 0.7 ypos 0.9 yanchor 0.5
-            with Pause(0.8)
+
+            pause 0.8
 
             show kenji:
                 easeout 0.7 rotate 90 ypos 1.0 yanchor 0.3
-            with Pause(0.7)
+
+            pause 0.7
 
             play sound sfx_impact
             with vpunch
@@ -5678,7 +5682,8 @@ label a1_sunday:
             show kenji neutral_ni:
                 xpos 0.7 ypos 1.0 xanchor 0.5 yanchor 0.0
                 easein 0.5 ypos 1.0 yanchor 0.7
-            with Pause(0.5)
+
+            pause 0.5
 
             "Suddenly, Kenji sits up, clumsily pats himself clean, and puts his hand out towards me to reach for the bottle. I put it in his hand."
 
@@ -5776,7 +5781,8 @@ label a1_sunday:
             show n_vignette:
                 xalign 0.5 yalign 0.5 zoom 4.0
                 linear 0.2 zoom 1.2
-            with Pause(0.2)
+
+            pause 0.2
 
             show n_vignette:
                 zoom 1.2

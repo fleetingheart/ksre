@@ -543,7 +543,8 @@ label a4_shizune:
 
         show shizu adjust_frown:
             ease 0.5 ypos 1.2
-        with Pause(0.5)
+
+        pause 0.5
 
         play sound sfx_pillow
 
@@ -659,7 +660,8 @@ label a4_shizune:
             ease 1.0 center
         show shizu behind mishashort:
             ease 0.5 tworight xpos 0.725
-        with Pause(0.5)
+
+        pause 0.5
 
         show shizu behind_blank behind mishashort:
             ease 0.5 xpos 0.75
@@ -1412,7 +1414,8 @@ label a4_shizune:
         show mishashort perky_confused_close:
             center xpos 0.15 alpha 0.0
             ease 1.0 twoleft alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show shizu at tworight
         show mishashort at twoleft
@@ -1659,7 +1662,8 @@ label a4_shizune:
 
         show mishashort hips_grin:
             easeout 0.7 xpos 1.0 alpha 0.0
-        with Pause(0.7)
+
+        pause 0.7
 
         hide mishashort
 
@@ -1716,7 +1720,8 @@ label a4_shizune:
         show mishashort perky_confused:
             ease 0.1 ypos 1.0
             ease 0.2 ypos 1.02
-        with Pause(0.3)
+
+        pause 0.3
 
         show mishashort:
             center
@@ -2789,7 +2794,8 @@ label a4_shizune:
 
             show shizu:
                 ease 1.0 center alpha 0.0
-            with Pause(1.0)
+
+            pause 1.0
 
             hide shizu
 
@@ -3725,7 +3731,8 @@ label a4_shizune:
 
             show shizu:
                 ease 1.0 tworight alpha 0.0
-            with Pause(1.0)
+
+            pause 1.0
 
             hide shizu
 
@@ -4157,7 +4164,8 @@ label a4_shizune:
 
             show kenji:
                 ease 1.0 right alpha 0.0
-            with Pause(1.0)
+
+            pause 1.0
 
             play sound sfx_doorslam
 
@@ -4467,7 +4475,8 @@ label a4_shizune:
 
             show yuuko:
                 ease 1.0 right alpha 0.0
-            with Pause(1.0)
+
+            pause 1.0
 
             show yuuko:
                 right
@@ -4479,7 +4488,8 @@ label a4_shizune:
 
             show yuuko worried_up:
                 ease 1.0 tworight alpha 1.0
-            with Pause(1.0)
+
+            pause 1.0
 
             show yuuko at tworight
 
@@ -4696,7 +4706,8 @@ label a4_shizune:
 
             show mishashort:
                 ease 1.0 xpos 0.0 alpha 0.0
-            with Pause(1.0)
+
+            pause 1.0
 
             "She's already gone, and returns dragging Yuuko behind her."
 
@@ -5051,7 +5062,8 @@ label a4_shizune:
 
             show lilly:
                 ease 1.0 center alpha 0.0
-            with Pause(1.0)
+
+            pause 1.0
 
             hide lilly
 

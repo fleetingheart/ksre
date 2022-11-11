@@ -1688,7 +1688,8 @@ label a1_tuesday:
 
         show hanako:
             easeout 0.5 offscreenleft alpha 0.0
-        with Pause(0.5)
+
+        pause 0.5
 
         hide hanako
 
@@ -2153,7 +2154,8 @@ label a1_tuesday:
 
         show kenji tsun:
             easeout 0.5 xpos 0.4 alpha 0.0
-        with Pause(0.5)
+
+        pause 0.5
 
         hide kenji
 

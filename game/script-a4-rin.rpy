@@ -347,7 +347,8 @@ label a4_rin:
             center
             alpha 0.0
             ease 0.5 ypos 1.15 alpha 1.0
-        with Pause(0.5)
+
+        pause 0.5
 
         show rin:
             parallel:
@@ -1078,7 +1079,8 @@ label a4_rin:
                 easeout 0.5 ypos 1.2
             parallel:
                 "rin basic_lucid" with Dissolve(0.3)
-        with Pause(1.5)
+
+        pause 1.5
 
         stop ambient fadeout 7.0
 
@@ -1587,7 +1589,8 @@ label a4_rin:
                 truecenter
                 ypos 0.7 alpha 1.0
                 easein 1.0 truecenter alpha 1.0
-            with Pause(1.0)
+
+            pause 1.0
 
             show pills at truecenter
 
@@ -1597,7 +1600,8 @@ label a4_rin:
 
             show pills:
                 easeout 1.0 ypos 0.7 alpha 0.0
-            with Pause(1.0)
+
+            pause 1.0
 
             hide pills
 
@@ -1710,7 +1714,8 @@ label a4_rin:
             show emicas happy:
                 center xpos 0.3 alpha 0.0
                 ease 1.0 center alpha 1.0
-            with Pause(1.0)
+
+            pause 1.0
 
             show emicas at center
 
@@ -1745,7 +1750,7 @@ label a4_rin:
 
             "They are like sisters, even though they seem to have nothing in common."
 
-            if not what_about_emi:
+            if what_about_emi:
                 "I wonder which one is the elder sister? Probably Emi, against all odds."
 
                 "She is really diligent, even though she gives the feeling of someone who would be a total airhead."
@@ -3790,7 +3795,8 @@ label a4_rin:
 
             show rin:
                 ease 1.0 tworight alpha 0.0
-            with Pause(1.0)
+
+            pause 1.0
 
             hide rin
 
@@ -3923,7 +3929,8 @@ label a4_rin:
                     linear 0.4 alpha 1.0
                     0.2
                     linear 0.4 alpha 0.0
-            with Pause(1.0)
+
+            pause 1.0
 
             hide nomiya
 

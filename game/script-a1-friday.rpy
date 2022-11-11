@@ -2856,7 +2856,8 @@ label a1c9o1:
     show nurse neutral as dizzy_fg:
         xalign 0.5 yalign 0.5 rotate 0 zoom 1.0 alpha 0.0
         ease 0.4 rotate -4 zoom 1.05 alpha 0.5
-    with Pause(0.4)
+
+    pause 0.4
 
     show bg school_nurseoffice as dizzy_bg behind nurse:
         ease 1.0 rotate 0 zoom 1.0 alpha 0.0

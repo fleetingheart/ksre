@@ -1028,7 +1028,8 @@ label a3_emi:
 
         show emicas:
             ease 1.0 xpos 0.6 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide emicas
 
@@ -3780,7 +3781,8 @@ label a3_emi:
 
         show rin relaxed_nonchalant:
             easeout 1.0 offscreenright
-        with Pause(1.0)
+
+        pause 1.0
 
         play sound sfx_doorclose
 
@@ -5098,7 +5100,8 @@ label a3_emi:
 
         show kenji happy_close:
             easeout 0.5 xpos 0.7 alpha 0.0
-        with Pause(0.5)
+
+        pause 0.5
 
         hide kenji
 
@@ -9106,7 +9109,8 @@ label a3ec5o1:
 
     show emi:
         easeout 0.5 xpos 0.3 alpha 0.0
-    with Pause(0.5)
+
+    pause 0.5
 
     hide emi
 
@@ -9240,7 +9244,8 @@ label a3ec5o1:
 
     show emi basic_grin_gym_close:
         easeout 0.5 xpos 0.3 alpha 0.0
-    with Pause(0.5)
+
+    pause 0.5
 
     hide emi
 
@@ -9433,7 +9438,8 @@ label a3ec5o2:
 
     show emi basic_grin_gym:
         easeout 0.5 xpos 0.3 alpha 0.0
-    with Pause(0.5)
+
+    pause 0.5
 
     hide emi
 
@@ -9633,7 +9639,8 @@ label a3ec5o2:
 
     show emi basic_grin_gym:
         easeout 0.5 xpos 0.3 alpha 0.0
-    with Pause(0.5)
+
+    pause 0.5
 
     hide emi
 

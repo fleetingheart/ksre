@@ -378,8 +378,9 @@ label a2_emi:
 
         "It's not just because she's on prosthetics, though that is interesting."
 
-        show ev emi_run_face_zoomin
-        show ev emi_run_face as unlockstub behind ev
+        show ev emi_run_face:
+            zoom 1.0 xalign 0.5 yalign 0.5
+            ease 10.0 zoom 1.055
         with dissolve
 
         "The really interesting thing is the way her face changes."
@@ -1496,7 +1497,9 @@ label a2_emi:
 
         "As she rounds the track, I catch a glimpse of her face."
 
-        scene ev emi_run_face_zoomout_ss
+        scene ev emi_run_face_ss:
+            zoom 1.05
+            ease 10.0 zoom 1.0
         with locationchange
 
         "It's much the same as it was this morning, but her eyes seem to have taken on a harder edge."
@@ -2170,7 +2173,9 @@ label a2_emi:
 
         "Once again, as I walk around the track, I can't help watching Emi sprint."
 
-        scene ev emi_run_face_zoomin
+        scene ev emi_run_face:
+            zoom 1.0 xalign 0.5 yalign 0.5
+            ease 10.0 zoom 1.055
         with locationchange
 
         "It's weird, but she's like a different person when she's pushing herself."
@@ -3297,7 +3302,9 @@ label a2_emi:
         play sound sfx_startpistol
         play ambient sfx_emisprinting
 
-        scene ev emi_run_face_zoomin
+        scene ev emi_run_face:
+            zoom 1.0 xalign 0.5 yalign 0.5
+            ease 10.0 zoom 1.055
         with locationskip
 
         "When the pistol goes off, it's as if she's been unleashed from a cage, like she was always moving at this blinding speed, but we couldn't see it happening until the starter's pistol dispelled the illusion of motionlessness."
@@ -7331,7 +7338,8 @@ label a2_emi:
 
         show comic:
             easeout 0.5 yanchor 0.3 alpha 0.0
-        with Pause(0.5)
+
+        pause 0.5
 
         hide comic
 
@@ -8305,7 +8313,8 @@ label a2_emi:
         show emi basic_grin_gym:
             center
             easeout 0.5 xpos 0.4 alpha 0.0
-        with Pause(0.5)
+
+        pause 0.5
 
         hide emi
 

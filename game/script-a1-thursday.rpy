@@ -1035,12 +1035,14 @@ label a1_thursday:
         play sound sfx_draw
         show showdown_lilly_slice:
             easein 0.2 xalign 0.0 yalign 0.0
-        with Pause(0.2)
+
+        pause 0.2
 
         play sound sfx_draw
         show showdown_shizu_slice:
             easein 0.2 xalign 1.0 yalign 1.0
-        with Pause(0.2)
+
+        pause 0.2
 
         play sound sfx_thunder
         scene ev showdown

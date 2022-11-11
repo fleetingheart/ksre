@@ -1757,7 +1757,8 @@ label a3_shizune:
             truecenter
             ypos 0.7 alpha 0.0
             easein 1.0 truecenter alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show jigorocard at truecenter
 
@@ -1767,7 +1768,8 @@ label a3_shizune:
 
         show jigorocard:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide jigorocard
 
@@ -3415,7 +3417,8 @@ label a3_shizune:
 
         show jigoro:
             ease 1.0 center alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "Picking up his sword and using it to pull himself to his feet, he turns and casually saunters out of the room. I want to throw my book after him, but I'm happy to finally be alone, even if I'm not in the mood to read any longer."
 
@@ -3484,7 +3487,8 @@ label a3_shizune:
             truecenter
             ypos 0.7 alpha 0.0
             easein 1.0 truecenter alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show letter_insert at truecenter
 
@@ -3501,7 +3505,8 @@ label a3_shizune:
 
         show letter_insert:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide letter_insert
 
@@ -4288,7 +4293,8 @@ label a3_shizune:
 
         show mishashort:
             ease 1.0 tworight alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide mishashort
 
@@ -5319,7 +5325,8 @@ label a3_shizune:
         show kenji tsun:
             center xpos 0.4 alpha 0.0
             ease 1.0 center alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show kenji at center
 
@@ -5437,11 +5444,13 @@ label a3_shizune:
 
         show kenji:
             ease 1.0 xpos 0.4 alpha 0.0
-        with Pause(1.5)
+
+        pause 1.5
 
         show kenji:
             ease 1.0 center alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "He does come almost right back, so quickly that I suspect he knows about my secret vending machine."
 
@@ -5534,7 +5543,8 @@ label a3_shizune:
 
         show kenji:
             ease 0.5 center alpha 0.0
-        with Pause(0.5)
+
+        pause 0.5
 
         hide kenji
 
@@ -6155,7 +6165,8 @@ label a3_shizune:
         show mishashort perky_smile_ss:
             center alpha 0.0
             ease 1.0 ypos 1.13 alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show mishashort:
             center
@@ -6750,7 +6761,8 @@ label aside_and_ahead_2:
 
     show shizu:
         ease 1.0 center alpha 0.0
-    with Pause(1.0)
+
+    pause 1.0
 
     hide shizu
 

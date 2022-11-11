@@ -312,7 +312,8 @@ label a2_lilly:
             ease 0.5 ypos 1.3
             "lilly basic_cheerful" with charachangealways
             ease 0.5 ypos 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide lilly
         hide hanako
@@ -330,7 +331,8 @@ label a2_lilly:
             truecenter
             ypos 0.7
             easein 1.0 ypos 0.5
-        with Pause(1.0)
+
+        pause 1.0
 
         show chessboard at truecenter
 
@@ -342,7 +344,8 @@ label a2_lilly:
 
         show chessboard:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide chessboard
 
@@ -1391,7 +1394,8 @@ label a2_lilly:
             tworight
             xpos 0.78 ypos 1.13 alpha 0.0
             ease 1.0 tworight xpos 0.78 alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show akira basic_smile as akira2:
             tworight
@@ -1817,7 +1821,8 @@ label a2_lilly:
 
         show musicbox closed:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide musicbox
 
@@ -2675,7 +2680,8 @@ label a2_lilly:
 
         show wine:
             easeout 1.0 offscreenright yalign 0.5
-        with Pause(1.0)
+
+        pause 1.0
 
         hide wine
 
@@ -3014,7 +3020,8 @@ label a2_lilly:
 
         show lilly basic_concerned_paj:
             ease 1.0 ypos 1.2
-        with Pause(0.5)
+
+        pause 0.5
 
         li "My head…"
 
@@ -3030,7 +3037,8 @@ label a2_lilly:
 
         show lilly basic_concerned_paj:
             ease 1.0 center
-        with Pause(0.5)
+
+        pause 0.5
 
         "I offer a hand to her, and help her back onto her feet. Glancing behind her, I find that Hanako's still fast asleep."
 
@@ -3221,7 +3229,8 @@ label a2_lilly:
         show boxstrip behind lilly:
             alpha 0.0 zoom 0.5 xanchor 1.0 xpos 0.5 yanchor 0.5 ypos 0.7
             easein 1.0 ypos 0.6 alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "I'm amused by her look of curiosity when I place the music box into her open palms, her typically delicate way of handling it making it seem as if it were fragile enough to break if breathed on."
 
@@ -3253,7 +3262,8 @@ label a2_lilly:
             ease 1.0 ypos 0.7 alpha 0.0
         show boxstrip:
             ease 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide musicbox
         hide boxstrip
@@ -3369,7 +3379,8 @@ label a2_lilly:
 
         show lilly:
             easeout 1.0 xpos 0.3 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide lilly
 
@@ -3533,7 +3544,8 @@ label a2_lilly:
 
         show blanknote:
             easeout 0.5 ypos 0.8 alpha 0.0
-        with Pause(0.5)
+
+        pause 0.5
 
         hide blanknote
 
@@ -3608,7 +3620,8 @@ label a2_lilly:
         show letter_insert:
             truecenter ypos 0.7 alpha 0.0
             easein 1.0 truecenter alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show letter_insert at truecenter
 
@@ -3618,7 +3631,8 @@ label a2_lilly:
 
         show letter_insert:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide letter_insert
 
@@ -4227,7 +4241,8 @@ label a2_lilly:
         show lilly cane_smileclosed:
             right xpos 0.95 alpha 0.0
             ease 1.0 right alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show lilly at right
 
@@ -4249,7 +4264,8 @@ label a2_lilly:
 
         show lilly:
             ease 1.0 right xpos 1.05 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide lilly
 
@@ -4352,7 +4368,8 @@ label a2_lilly:
         show letter_insert:
             truecenter ypos 0.7 alpha 0.0
             easein 1.0 truecenter alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show letter_insert at truecenter
 
@@ -5789,7 +5806,8 @@ label a2_lilly:
 
         show hideaki:
             ease 1.0 xpos 1.0 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide hideaki
 

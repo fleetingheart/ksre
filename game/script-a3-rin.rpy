@@ -220,7 +220,8 @@ label a3_rin:
 
         show nomiya:
             ease 1.0 xpos 0.2 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "He pulls out a folder full of photos out of a desk drawer, then charges towards the back where there's a small storage room and extra cabinets for all the materials and tools the art classes and club use."
 
@@ -228,7 +229,8 @@ label a3_rin:
 
         show nomiya smile:
             ease 1.0 twoleft alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         no "Nakai, would you carry these to my car?"
 
@@ -861,7 +863,8 @@ label a3_rin:
 
         show ev rin_nap_close_nohand:
             ease 2.0 yalign 1.0
-        with Pause(0.5)
+
+        pause 0.5
 
         "She looks so vulnerable, like any sleeping person. It's impossible not to feel fondness towards her."
 
@@ -964,7 +967,8 @@ label a3_rin:
             center
             ypos 1.3 alpha 0.0
             easein 1.0 ypos 1.17 alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show rin:
             center
@@ -2992,7 +2996,8 @@ label a3_rin:
             ease 1.0 ypos 1.2 alpha 0.0
         show prop:
             ease 1.0 ypos 1.2 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide rin
         hide prop
@@ -3863,7 +3868,8 @@ label a3_rin:
             truecenter
             xpos 0.6 alpha 0.0
             easein 1.0 truecenter alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show invite at truecenter
 
@@ -3874,7 +3880,8 @@ label a3_rin:
         show nomiya veryhappy
         show invite:
             easeout 1.0 xpos 0.4 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide invite
 
@@ -4492,7 +4499,8 @@ label a3_rin:
 
         show rinpan:
             ease 2.0 ypos 1.2 alpha 0.0
-        with Pause(2.0)
+
+        pause 2.0
 
         hide rinpan
 

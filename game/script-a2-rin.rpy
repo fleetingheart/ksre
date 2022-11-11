@@ -503,7 +503,8 @@ label a2_rin:
             parallel:
                 "emi basic_annoyed" with Dissolve(0.5)
             ease 0.5 ypos 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show emi basic_annoyed at center
 
@@ -638,7 +639,8 @@ label a2_rin:
 
         show misha:
             ease 1.0 offscreenleft alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide misha
 
@@ -1086,7 +1088,8 @@ label a2_rin:
             center
             ypos 1.5 alpha 0.0
             easein 1.0 center alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show ovl at center
 
@@ -1100,7 +1103,8 @@ label a2_rin:
 
         show ovl rinbyhisao:
             easeout 1.0 ypos 1.5 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide ovl
 
@@ -1126,7 +1130,8 @@ label a2_rin:
             center
             ypos 1.5 alpha 0.0
             easein 1.0 center alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show ovl at center
 
@@ -1170,7 +1175,8 @@ label a2_rin:
 
         show ovl hisaobyrin:
             easeout 1.0 ypos 1.5 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide ovl
 
@@ -1289,13 +1295,15 @@ label a2_rin:
 
         show kenji:
             ease 1.0 xpos 0.2 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "Instead of letting me in, he retreats from the door, closing it again."
 
         show kenji:
             ease 1.0 xpos 0.3 alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         "After a few seconds he returns with a stack of three thick books and hands them over to me."
 
@@ -1319,7 +1327,8 @@ label a2_rin:
 
         show kenji:
             ease 1.0 xpos 0.2 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide kenji
 
@@ -1514,7 +1523,8 @@ label a2_rin:
             center
             ypos 1.5 alpha 0.0
             easein 0.5 center alpha 1.0
-        with Pause(0.5)
+
+        pause 0.5
 
         show ev at center
 
@@ -1538,7 +1548,8 @@ label a2_rin:
         show bg:
             yalign 0.0
             ease 20.0 zoom 1.1
-        with Pause(0.5)
+
+        pause 0.5
 
         hide ev
 
@@ -1552,7 +1563,8 @@ label a2_rin:
             center
             ypos 1.5 alpha 0.0
             easein 0.5 center alpha 1.0
-        with Pause(0.5)
+
+        pause 0.5
 
         show ev hisaobird_2 at center
         with charachangeev
@@ -1607,7 +1619,8 @@ label a2_rin:
         show ev hisaobird_9:
             center
             easeout 0.5 alpha 0.0 ypos 1.5
-        with Pause(0.5)
+
+        pause 0.5
 
         hide ev
 
@@ -2726,7 +2739,9 @@ label a2_rin:
         play sound sfx_startpistol
         play ambient sfx_emisprinting
 
-        scene ev emi_run_face_zoomin
+        scene ev emi_run_face:
+            zoom 1.0 xalign 0.5 yalign 0.5
+            ease 10.0 zoom 1.055
         with locationskip
 
         "When the pistol goes off, it's as if she's been unleashed from a cage, like she was always moving at this blinding speed, but we couldn't see it happening until the starter's pistol dispelled the illusion of motionlessness."
@@ -3817,7 +3832,8 @@ label a2_rin:
 
         show rin:
             ease 0.5 ypos 1.2 alpha 0.0
-        with Pause(0.5)
+
+        pause 0.5
 
         hide rin
 
@@ -5494,7 +5510,8 @@ label a2_rin:
             truecenter
             ypos 0.7 alpha 0.0
             easein 1.0 truecenter alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show shangpai at truecenter
 
@@ -5508,7 +5525,8 @@ label a2_rin:
 
         show shangpai:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide shangpai
 
@@ -6641,7 +6659,8 @@ label a2_rin:
 
         show rinpan basic_deadpan:
             easeout 0.5 alpha 0.0 xpos 1.05
-        with Pause(0.5)
+
+        pause 0.5
 
         hide rinpan
 
@@ -6726,7 +6745,8 @@ label a2_rin:
             truecenter
             ypos 0.7 alpha 0.0
             easein 1.0 truecenter alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show pills at truecenter
 
@@ -6736,7 +6756,8 @@ label a2_rin:
 
         show pills:
             easeout 1.0 ypos 0.7 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide pills
 
@@ -6957,7 +6978,8 @@ label a2_rin:
 
         show rinpan:
             ease 1.0 ypos 1.1 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         play sound sfx_pillow
 
@@ -7024,7 +7046,8 @@ label a2_rin:
         show rinpan basic_deadpandelight:
             twoleft ypos 1.1 alpha 0.0
             ease 1.0 twoleft alpha 1.0
-        with Pause(1.0)
+
+        pause 1.0
 
         show rinpan at twoleft
 
@@ -7078,7 +7101,8 @@ label a2_rin:
 
         show rinpan:
             ease 1.0 ypos 1.1 alpha 0.0
-        with Pause(1.0)
+
+        pause 1.0
 
         hide rinpan
 
