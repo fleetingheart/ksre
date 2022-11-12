@@ -14,8 +14,6 @@ python early:
     from pypresence import Presence, InvalidID
 
     renpy.music.register_channel("ambient", "sfx", True, tight=True)
-    renpy.music.register_channel("ambient2", "sfx", True, tight=True)
-    renpy.music.register_channel("tts", "sfx", True, tight=True)
 
     def format_time(t):
         t = int(t)

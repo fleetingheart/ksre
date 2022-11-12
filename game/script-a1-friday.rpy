@@ -587,7 +587,7 @@ label a1_friday:
             if _in_replay:
                 return
 
-    if not go_through_shizu() or got_kenji() or not are_student_council:
+    if not go_through_shizu() or got_kenji() or (go_for_it and not are_student_council):
         label .foot_and_mouth:
             scene bg school_hallway3
             show crowd
@@ -1936,7 +1936,7 @@ label a1_friday:
             if _in_replay:
                 return
 
-    if go_through_shizu() and not got_kenji() and are_student_council:
+    if go_through_shizu() and not got_kenji() and (not go_for_it or are_student_council):
         label .no_free_lunch:
             scene bg school_council
             with locationchange
