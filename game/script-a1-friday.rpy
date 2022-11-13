@@ -1924,12 +1924,12 @@ label a1_friday:
                 "Lilly noticed it all too quickly…"
 
                 "Sorry, I'm not in very good condition.":
-                    $ no_much_talking = False
+                    $ not_much_talking = False
 
                     call a1c13o1
 
                 "I don't really want to talk about it.":
-                    $ no_much_talking = True
+                    $ not_much_talking = True
 
                     call a1c13o2
 
