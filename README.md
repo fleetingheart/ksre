@@ -11,9 +11,11 @@
   ·
   <a href="#features">Features</a>
   ·
-  <a href="#downloads">Downloads</a>
+  <a href="https://fhs.sh">Site</a>
   ·
   <a href="#license">License</a>
+  ·
+  <a href="#feedback-and-questions">Feedback</a>
 </div>
 
 ## About
