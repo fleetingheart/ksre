@@ -16,24 +16,26 @@
   <a href="#license">License</a>
 </div>
 
-## About ##
+## About
 
 Katawa Shoujo: Re-Engineered is a fan-made modern port of the classic visual novel Katawa Shoujo, with a focus on accessibility and ease of use.
 
-# Languages available:
+### Languages available:
 * English
 * Russian
 * French
 
-# Languages currently being ported:
+### Languages currently being ported:
 * German
+* Portuguese
 * Spanish
 * Japanese
-* Portuguese
+* Polish
 
-## Downloads
+### Languages taken for manual translation:
+* Italy
 
-## Features ##
+## Features
 
 * A complete open-source refactor of Katawa Shoujo utilizing Ren'Py 8
 * Multiple new accessibility options including self-voicing and specialized fonts
@@ -47,4 +49,3 @@ All code is licensed under [Mozilla Public License 2.0](https://mozilla.org/MPL/
 ## Feedback and questions
 
 You can contact us via our public [Discord server](https://discord.gg/RA3ZeFvNZ4), our team [email](mailto:fleetingheartbeatstudios@gmail.com), or through Git.
-
