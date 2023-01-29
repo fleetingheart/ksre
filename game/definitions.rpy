@@ -260,7 +260,7 @@ define _replays = [
             (_("Foot and Mouth"), "a1_friday.foot_and_mouth", _("Emi drags Hisao to the roof to have lunch with Rin.")),
             (_("Mind Your Step"), "a1_friday.mind_your_step", _("Hisao and Lilly go shopping, meeting a very confused Rin on the way back.")),
             (_("Support"), "a1_saturday.support", _("Hisao has his first Saturday lesson, complete with a talking to from Mutou.")),
-            (_("An Aesthetics"), "a1_saturday.support", _("Emi finds Hisao slacking around after class and recruits him to help Rin once again.")),
+            (_("An Aesthetics"), "a1_saturday.an_asethetics", _("Emi finds Hisao slacking around after class and recruits him to help Rin once again.")),
             (_("Creative Pain"), "a1_saturday.creative_pain", _("Hisao meets the art teacher, Nomiya, as Rin paints her mural.")),
             (_("Proper Exercise"), "a1_saturday.proper_exercise", _("Emi and Hisao discuss the importance of being in shape.")),
             (_("Sip (Part 2)"), "a1_saturday.sip_p2", _("In an attempt to kill time, Hisao goes for a walk around the school.")),
