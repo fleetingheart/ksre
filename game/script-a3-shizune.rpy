@@ -2582,7 +2582,7 @@ label a3_shizune:
 
         "Shizune's hands wrap around my eyes from behind, something I'm so used to Misha doing that for the first time I find myself confused by it, since Misha is in front of me."
 
-        show shizu adjust_happy_cas_close
+        show shizu adjust_happy_cas
         show hideaki bored
         with None
 
@@ -2591,19 +2591,19 @@ label a3_shizune:
 
         "She lets go and holds a finger up to her lips."
 
-        show shizu behind_smile_cas_close
+        show shizu behind_smile_cas
         with charachange
 
         ssh "What a perfect distraction! Now's our opportunity. Let's sneak off."
 
         his "Why do we have to sneak off? Why not just walk off?"
 
-        show shizu adjust_smug_cas_close
+        show shizu adjust_smug_cas
         with charachange
 
         ssh "It wouldn't be as fun."
 
-        show shizu basic_happy_cas_close
+        show shizu basic_happy_cas
         with charachange
 
         ssh "It's decided: it's a secret mission. Escape without being detected. Extract Hideaki for bonus points."
@@ -6163,8 +6163,8 @@ label a3_shizune:
         with locationchange
 
         show mishashort perky_smile_ss:
-            center alpha 0.0
-            ease 1.0 ypos 1.13 alpha 1.0
+            center
+            ease 1.0 ypos 1.13
 
         pause 1.0
 
