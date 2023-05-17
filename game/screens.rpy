@@ -395,7 +395,10 @@ screen file_slots():
                             top_padding 6
                             hovered Function(local_saves_items.add, i)
                             unhovered Function(local_saves_items.remove, i)
-                            action Function(renpy.load, save[0])
+                            if main_menu:
+                                action Function(renpy.load, save[0])
+                            else:
+                                action Show("confirm", config.intra_transition, _("Are you sure you want to\nload this save?"), Function(renpy.load, save[0]))
 
                             if i in local_saves_items:
                                 background "gui/button/scribble.png"
