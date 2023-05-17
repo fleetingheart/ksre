@@ -101,13 +101,13 @@ python early:
         else:
             return renpy.seen_image(img)
 
-    def get_scene_name(name=None, _thread_replays=None):
+    def get_scene_name(name=None):
         global _replays
 
         if not name:
             name = current_scene
 
-        for replay_pack in (_thread_replays or _replays):
+        for replay_pack in _replays:
             for replay_stack in replay_pack[1]:
                 for replay in replay_stack[1]:
                     if replay[1] == name:
@@ -127,9 +127,6 @@ python early:
 
         if not jumped and name.startswith("a") and "." in name:
             store.current_scene = name
-            rpc.data["current_scene"] = name
-        else:
-            rpc.data["current_scene"] = "0"
 
     config.label_callback = set_current_scene
 
@@ -163,10 +160,7 @@ python early:
                     self.rpc.clear()
                     continue
 
-                scene_name = self.store.get_scene_name(
-                    self.data.get("current_scene", "0"),
-                    self.store._replays
-                )
+                scene_name = self.store.get_scene_name()
 
                 try:
                     params = {}
@@ -653,7 +647,7 @@ define centered_alive = nb
 
 define _current_replay = None
 
-default current_scene = ""
+define current_scene = ""
 
 default credits_vid = None
 
