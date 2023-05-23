@@ -3885,7 +3885,7 @@ label a3_hanako:
         "Lilly lets out a resigned sigh before motioning for Hanako to open the door."
 
         show hanagown:
-            ease 1.0 tworight alpha 0.0
+            ease 1.0 ypos 1.0 alpha 0.0
 
         pause 1.0
 
@@ -3916,12 +3916,8 @@ label a3_hanako:
 
         pause 1.0
 
-        show hanagown:
-            center
-            ypos 1.17
-        show akira:
-            right
-            xpos 0.95
+        show hanagown
+        show akira
 
         "Akira follows Hanako to the table after shutting the door behind her, giving me plenty of time to have a good look at her."
 
@@ -4660,9 +4656,7 @@ label a3_hanako:
 
         pause 1.0
 
-        show akira:
-            tworight
-            ypos 1.18
+        show akira
 
         aki "You haven't forgotten about the time for the flight and all the rest?"
 
