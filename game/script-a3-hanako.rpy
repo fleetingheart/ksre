@@ -3466,6 +3466,9 @@ label a3_hanako:
             ease 1.0 xpos 0.2 alpha 1.0
         with None
 
+        show shizu
+        show misha
+
         show bg at bgright
         with charamovefaster
 
