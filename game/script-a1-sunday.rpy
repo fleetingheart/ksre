@@ -3587,8 +3587,7 @@ label a1_sunday:
                 easein 1.0 ypos 1.17
             with charaenter
 
-            show hanako:
-                yanchor 1.0 xanchor 0.5 ypos 1.17 xpos 0.8
+            show hanako
 
             "We return to the booth and our light meal."
 
