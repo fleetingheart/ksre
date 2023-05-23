@@ -948,16 +948,12 @@ label a2_hanako:
         with charaexit
 
         show hanako emb_downsad_close:
-            offscreenright alpha 0.0
-            ease 1.0 xpos 0.8 alpha 1.0
-        with None
+            offscreenright
+            ease 1.0 xpos 0.8
+        with charaenter
 
         show bg school_scienceroom at bgleft
         with charamovefaster
-
-        show hanako:
-            center
-            xpos 0.8
 
         "I step through the door, and realize that Hanako is firmly pressed against my back, hiding herself from the class."
 
