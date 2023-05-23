@@ -5268,6 +5268,7 @@ label a4_lilly:
             xpos -0.2 alpha 0.0
             ease 1.0 left alpha 1.0
         with None
+        show lilly
         show bg at bgright
         show misha at center
         with charamovefaster
