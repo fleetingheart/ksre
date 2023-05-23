@@ -376,7 +376,7 @@ define _replays = [
             (_("Pajamas and Suits"), "a4_lilly.pajamas_and_suits", _("Settling back into daily life. Akira joins the trio during one of their tea parties.")),
             (_("Correct Procedure"), "a4_lilly.correct_procedure", _("Hisao and Lilly arrange a date, before Akira swings by.")),
             (_("Out and About"), "a4_lilly.out_and_about", _("Hisao and Lilly go on their first date, finding out about each other's pasts.")),
-            (_("A Morning's Reverie"), "a4_lilly.a_mornings_reverie", _("Hisao and Lilly discuss their ambitions for the future.")),
+            (_("A Morning's Reverie"), "a4_lilly.a_mornings_reverse", _("Hisao and Lilly discuss their ambitions for the future.")),
             (_("Blackout"), "a4_lilly.blackout", _("The trio muse on the upcoming holidays, before Hisao experiences sight as Lilly does.")),
             (_("Context"), "a4_lilly.context", _("Hisao gets called out by Akira and the two talk about her sibling.")),
             (_("A Faraway Future"), "a4_lilly.a_faraway_future", _("Lilly reveals her family's offer to join them in Scotland.")),
