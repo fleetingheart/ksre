@@ -2859,7 +2859,7 @@ label a2_hanako:
         ha "G-good night Hisao…"
 
         show hanagown:
-            easeout 0.5 tworight alpha 0.0
+            easeout 0.5 xpos 0.7 alpha 0.0
 
         pause 0.5
 
