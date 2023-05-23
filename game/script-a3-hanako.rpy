@@ -2155,6 +2155,8 @@ label a3_hanako:
             ease 1.0 ypos 1.09 alpha 1.0
         with None
 
+        show hanako
+
         show shizu behind_blank_close:
             xpos 0.85
         show misha perky_smile_close:
@@ -2573,13 +2575,12 @@ label a3_hanako:
             ease 1.0 tworight xpos 0.85 ypos 1.0
         with None
 
+        show shizu
+
         show misha perky_confused_close
         with charamovechangefaster
 
         hide muto
-        show shizu:
-            tworight
-            xpos 0.85
 
         "Nodding, Shizune and I stand and move to either side of Hanako. Mutou steps back to allow us some room, and talks to the table behind us as some people there have begun to mutter between themselves about what's going on."
 
