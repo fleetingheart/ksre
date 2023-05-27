@@ -2068,9 +2068,7 @@ label a3_emi:
             easein 0.5 ypos 1.2
         with charaenter
 
-        show rin:
-            tworight
-            ypos 1.0
+        show rin
 
         "Rin manages to sit herself upright quite expertly, throwing her upper body forward and using her momentum to right herself."
 
