@@ -7967,6 +7967,8 @@ label a3_emi:
             if _in_replay:
                 return
 
+    return
+
 label a3ec1o1:
     hi "Are you absolutely sure?"
 
