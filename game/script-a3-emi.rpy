@@ -524,9 +524,7 @@ label a3_emi:
             easein 1.0 ypos 1.13
         with charaenter
 
-        show emicas:
-            center
-            ypos 1.13
+        show emicas
 
         "We find a spot beneath a tree and sit down. I lean back against the trunk, Emi sits across from me."
 
