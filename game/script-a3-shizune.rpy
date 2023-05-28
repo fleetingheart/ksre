@@ -6163,8 +6163,10 @@ label a3_shizune:
         with locationchange
 
         show mishashort perky_smile_ss:
-            center
-            ease 1.0 ypos 1.13
+            center alpha 0.0
+            ease 1.0 ypos 1.13 alpha 1.0
+
+        show mishashort
 
         pause 1.0
 
