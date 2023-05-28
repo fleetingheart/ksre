@@ -508,7 +508,7 @@ define _gallery_images = (
     ("thumb/emi_ending.jpg", "ev emi_ending_smile", "ev emi_ending_serious", "ev emi_ending_glad"),
     ("thumb/hana_library.jpg", "ev hana_library", "ev hana_library_read", "ev hana_library_gasp"),
     ("thumb/hanako_shanghaiwindow.jpg", "ev hanako_shanghaiwindow"),
-    ("event/hanako_presents1.jpg", "ev hanako_presents1", "ev hanako_presents2"),
+    ("thumb/hanako_presents1.jpg", "ev hanako_presents1", "ev hanako_presents2"),
     ("thumb/hanako_crayon.jpg", "ev hanako_crayon1", "ev hanako_crayon2"),
     ("thumb/hanako_breakdown.jpg", Trigger("evbg hanako_breakdown", "evul hanako_breakdown_down"), Trigger("evfg hanako_breakdown_up", "evul hanako_breakdown_up"), Trigger("evfg hanako_breakdown_closed", "evul hanako_breakdown_closed")),
     ("thumb/hanako_cry.jpg", "ev hanako_cry_closed", "ev hanako_cry_closed", "ev hanako_cry_open", "ev hanako_cry_away"),
