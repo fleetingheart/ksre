@@ -1902,6 +1902,7 @@ label a4_rin:
             "Those poor souls who are forced into the downpour try to make as much haste as they possibly can, pitying each other for their shared misery."
 
             scene bg gallery_ext_rn
+            show rain normal
             with locationchange
 
             "I turn the final corner, the twenty-second corner so to say, and immediately feel stupid for being amused by my own pun."
