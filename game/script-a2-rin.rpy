@@ -534,6 +534,8 @@ label a2_rin:
             ease 1.0 ypos 1.07 xpos 0.9 alpha 1.0
         with None
 
+        show rin
+
         show emi:
             xpos 0.3
         show bg at bgleft
