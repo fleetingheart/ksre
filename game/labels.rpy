@@ -15,6 +15,19 @@ label main_menu:
 
     return
 
+label gallery:
+    show screen gallery(0)
+    call screen gallery(0)
+    
+    return
+
+
+label cinema:
+    show screen cinema
+    call screen cinema
+
+    return
+
 label act_op(svideo):
     python:
         video = "video/" + svideo
@@ -53,8 +66,8 @@ label watch_gallery(images):
             $ processing = i < len(images)
 
     scene black
-
-    jump main_menu
+    
+    jump gallery
 
 label watch_video(video):
     $ renpy.music.set_volume(volume=0.0, delay=1.0)
@@ -71,7 +84,7 @@ label watch_video(video):
 
     $ renpy.music.set_volume(volume=1.0, delay=1.0)
 
-    jump main_menu
+    jump cinema
 
 label timeskip:
     stop sound fadeout 2.0
