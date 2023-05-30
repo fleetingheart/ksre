@@ -3459,7 +3459,7 @@ label a2_rin:
         show rin
 
         show nomiya:
-            ease 1.0 twoleft alpha 0.0
+            ease 1.0 xpos 0.3 xanchor 0.5 alpha 0.0
         show bg at bgleft
         with charamovefast
 
