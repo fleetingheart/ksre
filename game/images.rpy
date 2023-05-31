@@ -330,9 +330,15 @@ replicated
 
 {image=gui/icons/flourish_left.png} {b}Re-Engineered Team{/b} {image=gui/icons/flourish_right.png}
 Ikariya Biorante
-Cyrillica
 LocalManLLC
-LocalManPTY
+Tovarish1
+Tibix
+XPND.Dev
+
+{image=gui/icons/flourish_left.png} {b}Community Contributors{/b} {image=gui/icons/flourish_right.png}
+Dracoctix
+LuK1337
+Niomesan
 """), color="#ffffff", text_align=0.5, size=47, xalign=0.5)
 image credits_final = VBox("logo_credo", "credits_text", "logo_4ls")
 
