@@ -27,16 +27,6 @@ Katawa Shoujo: Re-Engineered is a fan-made modern port of the classic visual nov
 * Russian
 * French
 
-### Languages currently being ported:
-* German
-* Portuguese
-* Spanish
-* Japanese
-* Polish
-
-### Languages taken for manual translation:
-* Italy
-
 ## Features
 
 * A complete open-source refactor of Katawa Shoujo utilizing Ren'Py 8
