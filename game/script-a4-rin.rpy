@@ -824,6 +824,9 @@ label a4_rin:
         show emicas happy:
             center xpos 0.15 alpha 0.0
             ease 1.0 center alpha 1.0
+
+        show emicas
+
         show sae:
             ease 1.0 xpos 0.75 alpha 0.0
         with None
@@ -906,6 +909,10 @@ label a4_rin:
         show emicas neutral_close:
             ease 1.0 xpos 0.15
         with None
+
+        show nomiya
+        show rin
+        show emicas
 
         show bg at center
         show crowd at center
@@ -1003,6 +1010,8 @@ label a4_rin:
         show emicas:
             ease 1.0 xpos -0.35 alpha 0.0
         with None
+
+        show sae
 
         show bg at right
         show crowd at right
@@ -6678,6 +6687,8 @@ label a4rc1o2:
         center xpos -0.35 alpha 0.0
         ease 1.0 xpos 0.15 alpha 1.0
     with None
+
+    show emicas
 
     show bg gallery_int at left
     show crowd at left
