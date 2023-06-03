@@ -1302,13 +1302,11 @@ label a4_rin:
                 ease 1.0 xpos 0.15 alpha 1.0
             with None
 
+            show misha
+
             show bg at bgright
             show muto at tworight
             with charamovefaster
-
-            show misha:
-                center
-                xpos 0.15 ypos 1.13
 
             "Misha's despair is almost tangible."
 
