@@ -1901,6 +1901,8 @@ label a2_shizune:
             ease 1.0 xanchor 0.7 xpos 1.0 alpha 1.0
         with None
 
+        show hanako
+
         show misha at left
         show shizu at center
         show bg at bgleft
