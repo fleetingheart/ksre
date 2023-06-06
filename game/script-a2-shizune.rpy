@@ -4859,7 +4859,7 @@ label a2_shizune:
         "The dedication Yuuko has towards her waitressing duties is sort of admirable. So is the speed at which she whisks slices of cake and our drinks to our table when we order."
 
         hide yuukoshang
-        with charachange
+        with charaexit
 
         show shizu behind_smile_close:
             closeright
