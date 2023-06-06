@@ -5642,7 +5642,7 @@ label a2_shizune:
         with charamove
 
         show shizuyu cross_happy_close behind nightwash at closeright
-        with charachange
+        with charaenter
 
         ssh "They look delicious, I want one too. We'll play rock-paper-scissors to see who can pay for them all."
 
