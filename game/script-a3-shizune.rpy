@@ -804,19 +804,24 @@ label a3_shizune:
         "The river is larger than I'd imagined, although very scenic and peaceful. Other than a small pier apparently built just to fish off of, this place looks untouched by civilization, and it makes me realize how much greenery I've seen lately."
 
         show shizu basic_happy_cas:
-            offscreenright alpha 0.0
-            ease 1.5 center xpos 0.37 alpha 1.0
-        show akira:
-            center xpos 1.5 alpha 0.0
-            ease 1.5 center xpos 0.8 alpha 1.0
+            center alpha 0.0
+            ease 1.5 xpos 0.37 alpha 1.0
+        show akira basic_smile:
+            center xpos 0.8 alpha 0.0
+            ease 1.5 xpos 0.8 alpha 1.0
         show misha perky_confused_cas:
             left alpha 0.0
             ease 1.5 alpha 1.0
         show lilly:
-            ease 1.5 xpos -0.6 alpha 0.0
+            left alpha 0.0
+            ease 1.5 xpos -0.6 alpha 1.0
         show hideaki:
             ease 1.5 offscreenleft alpha 0.0
         with None
+
+        show misha
+        show shizu
+        show akira
 
         show bg at right
         with charamove
@@ -896,9 +901,11 @@ label a3_shizune:
         show misha perky_confused_cas:
             ease 0.5 left alpha 1.0
         show shizu basic_angry_cas:
-            ease 0.5 center xpos 0.37 alpha 1.0
+            center
+            ease 0.5 xpos 0.37 alpha 1.0
         show akira basic_ending:
-            ease 0.5 center xpos 0.8 alpha 1.0
+            center
+            ease 0.5 xpos 0.8 alpha 1.0
 
         show bg at right
         with charamovefastest
