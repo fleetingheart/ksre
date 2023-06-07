@@ -1657,6 +1657,8 @@ label a3_shizune:
             ease 1.0 center alpha 1.0
         with None
 
+        show shizu
+
         show bg at left
         show misha:
             twoleft
