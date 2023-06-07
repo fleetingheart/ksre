@@ -381,7 +381,7 @@ screen file_slots():
 
                 spacing 4
 
-                for i, save in enumerate(renpy.list_saved_games()):
+                for i, save in enumerate(renpy.list_saved_games(r'\d+')):
                     python:
                         if ";" in save[1]:
                             playtime, save_scene = save[1].split(";", 1)
