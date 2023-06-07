@@ -4303,7 +4303,7 @@ label a3_shizune:
         mi "Yeah~ yeah~! I'm really hungry today, Hicchan! Thanks!"
 
         show mishashort:
-            ease 1.0 tworight alpha 0.0
+            ease 1.0 xpos 0.7 alpha 0.0
 
         pause 1.0
 
