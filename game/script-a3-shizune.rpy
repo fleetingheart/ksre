@@ -3187,6 +3187,8 @@ label a3_shizune:
             ease 2.0 tworight alpha 1.0
         with None
 
+        show mishashort
+
         show bg at right
         with charamove
 
