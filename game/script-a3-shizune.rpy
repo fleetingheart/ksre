@@ -6641,7 +6641,7 @@ label aside_and_ahead_2:
 
     "I spend the next couple periods in the library, not in the mood to sit in classes for the rest of the day, but unwilling to walk back to the dorms."
 
-    show shizu:
+    show shizu behind_frown:
         center
         ease 1.0 ypos 1.14
     with Dissolve(1.0)
