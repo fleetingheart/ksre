@@ -3731,7 +3731,7 @@ label a4_shizune:
             stop music fadeout 3.0
 
             show shizu:
-                ease 1.0 tworight alpha 0.0
+                ease 1.0 xpos 0.7 alpha 0.0
 
             pause 1.0
 
