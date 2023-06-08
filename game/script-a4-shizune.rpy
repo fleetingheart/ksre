@@ -2909,7 +2909,8 @@ label a4_shizune:
             show shizu:
                 xpos 1.6 alpha 0.0
             show bg at left
-            show aoi_keiko at center
+            show aoi_keiko:
+                center alpha 1.0
             with charamovefastest
 
             "Shizune twists her hands like a maestro for emphasis, visibly intimidating the two girls standing at attention in front of us. To think this all started because one of them asked if she wasn't taking her job too seriously."
