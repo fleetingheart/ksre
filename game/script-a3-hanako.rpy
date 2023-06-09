@@ -3637,7 +3637,7 @@ label a3_hanako:
         play sound sfx_dooropen
 
         show hanako_door_door:
-            xpos -0.05
+            xpos -0.02
         with charamove
 
         "The door opens a sliver, an eye appearing in the gap only just large enough for it to peer through. I'm sure this girl would install a peephole in her dormitory door, if only such a thing was allowed."
