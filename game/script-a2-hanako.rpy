@@ -1334,7 +1334,8 @@ label a2_hanako:
             hide shizu
             with charaexit
 
-            show misha at center
+            show misha:
+                xalign 0.5
             show bg at center
             with charamove
 
