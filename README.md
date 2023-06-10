@@ -1,43 +1,33 @@
-<h1 align="center">
-  <a href="">
-    <img src="game/gui/logo/large.png" alt="Logo" width="500" height="300">
-  </a>
-</h1>
+# Katawa Shoujo: Re-Engineered
 
-<div align="center">
-  Katawa Shoujo: Re-Engineered
-  <br />
-  <a href="#about">About</a>
-  ·
-  <a href="#features">Features</a>
-  ·
-  <a href="https://fhs.sh">Site</a>
-  ·
-  <a href="#license">License</a>
-  ·
-  <a href="#feedback-and-questions">Feedback</a>
-</div>
+[![Logo](game/gui/logo/large.png)](#)
+
+## Table of Contents
+- [About](#about)
+- [Features](#features)
+- [License](#license)
+- [Feedback and Questions](#feedback-and-questions)
 
 ## About
+Katawa Shoujo: Re-Engineered is an open-source project that aims to provide a revamped version of the beloved visual novel Katawa Shoujo. It has been developed with a strong emphasis on accessibility and user-friendly experience.
 
-Katawa Shoujo: Re-Engineered is a fan-made modern port of the classic visual novel Katawa Shoujo, with a focus on accessibility and ease of use.
-
-### Languages available:
+### Languages Available
+The game currently supports the following languages:
 * English
 * Russian
 * French
 
 ## Features
-
-* A complete open-source refactor of Katawa Shoujo utilizing Ren'Py 8
-* Multiple new accessibility options including self-voicing and specialized fonts
-* Clean, unambiguous code aimed towards fan translators
+The project offers several notable features:
+* Complete refactor of Katawa Shoujo using Ren'Py 8.
+* Introduction of multiple new accessibility options, including self-voicing and specialized fonts.
+* Implementation of clean and unambiguous code, catering to fan translators.
 
 ## License
+This project is not affiliated with Four Leaf Studios. The code is licensed under the [Mozilla Public License 2.0](https://mozilla.org/MPL/2.0/), while the assets are under by their original [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/3.0/) license.
 
-This project is not associated with Four Leaf Studios.
-All code is licensed under [Mozilla Public License 2.0](https://mozilla.org/MPL/2.0/), while all assets are under their original [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/3.0/) license.
-
-## Feedback and questions
-
-You can contact us via our public [Discord server](https://discord.gg/RA3ZeFvNZ4), our team [email](mailto:fleetingheartbeatstudios@gmail.com), or through Git.
+## Feedback and Questions
+We value your feedback and are available to address any questions you may have. You can reach us through the following channels:
+- [Discord Server](https://discord.gg/RA3ZeFvNZ4)
+- [Email](mailto:fleetingheartbeatstudios@gmail.com)
+- [Codeberg](https://codeberg.org/fhs)
