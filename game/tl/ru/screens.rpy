@@ -238,3 +238,11 @@ translate ru strings:
     old "Volume drop"
     new "Снижение громкости"
 
+# TODO: Translation updated at 2023-06-10 11:20
+
+translate ru strings:
+
+    # game/screens.rpy:401
+    old "Are you sure you want to\nload this save?"
+    new "Вы уверены, что хотите\nзагрузить это сохранение?"
+

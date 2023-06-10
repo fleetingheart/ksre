@@ -238,3 +238,11 @@ translate fr strings:
     old "Volume drop"
     new "Chute de volume"
 
+# TODO: Translation updated at 2023-06-10 11:19
+
+translate fr strings:
+
+    # game/screens.rpy:401
+    old "Are you sure you want to\nload this save?"
+    new "Êtes-vous sûr(e) de vouloir\ncharger cette sauvegarde?"
+
