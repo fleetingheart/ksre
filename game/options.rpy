@@ -30,6 +30,7 @@ init python:
     build.classify("/game/10", None)
     build.classify("/game/cache/*.*", None)
     build.classify("**/.DS_Store", None)
+    build.classify("**/*.keystore", None)
     build.classify("/game/.vscode/*.*", None)
 
     build.classify("game/**.wav", "audio android")
