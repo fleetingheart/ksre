@@ -5341,7 +5341,8 @@ label a3_shizune:
 
         pause 1.0
 
-        show kenji at center
+        show kenji at center:
+            alpha 1.0
 
         play music music_kenji fadein 0.5
 
