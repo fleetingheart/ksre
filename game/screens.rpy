@@ -46,7 +46,7 @@ screen doublespeak(c1, t1, c2, t2):
 
     frame:
         style_suffix "namebox1"
-        text ("{color=" + c1.who_args["color"] + "}" + c1.name + "{/color}") id "who1":
+        text ("{color=" + c1.who_args["color"] + "}" + renpy.translate_string(c1.name) + "{/color}") id "who1":
             size 40
             bold True
 
@@ -56,7 +56,7 @@ screen doublespeak(c1, t1, c2, t2):
 
     frame:
         style_suffix "namebox2"
-        text ("{color=" + c2.who_args["color"] + "}" + c2.name + "{/color}") id "who2":
+        text ("{color=" + c2.who_args["color"] + "}" + renpy.translate_string(c2.name) + "{/color}") id "who2":
             size 40
             bold True
 
