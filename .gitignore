@@ -8,3 +8,5 @@ errors.txt
 traceback.txt
 .tmp
 .vscode
+android.keystore
+bundle.keystore
