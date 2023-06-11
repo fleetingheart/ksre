@@ -51,10 +51,9 @@ init python:
 
     def bounce_general(time, amplitude, num, d, st, at):
         n = scaled_runtime(time, st)
-        m = -math.fabs(math.sin(n * math.pi * num))
+        m = math.fabs(math.sin(n * math.pi * num))
 
-        d.yanchor = 0.0
-        d.ypos = m*amplitude
+        d.yoffset = m * amplitude * 1000
 
         return 0
 
