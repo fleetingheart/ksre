@@ -714,7 +714,7 @@ label a1_wednesday:
             with charamove
 
             show shizu behind_smile:
-                xalign 1.2
+                xalign 1.03
             show misha hips_grin at tworight
             with charaenter
 
