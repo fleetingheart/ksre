@@ -53,7 +53,8 @@ init python:
         n = scaled_runtime(time, st)
         m = math.fabs(math.sin(n * math.pi * num))
 
-        d.yoffset = m * amplitude * 1000
+        max = amplitude * 1000
+        d.yoffset = max - (m * max)
 
         return 0
 
