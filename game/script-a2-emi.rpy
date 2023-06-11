@@ -114,8 +114,8 @@ label a2_emi:
 
         emi "Ha! That's because you're out of shape. You've got to get some flexibility in you, like this."
 
-        show emi at offscreenbottom
-        with charamovefaster
+        hide emi
+        with charamoveoutbottom
 
         "To demonstrate, Emi reaches down and puts her head through her legs."
 
@@ -124,7 +124,7 @@ label a2_emi:
         hi "I see. Is that the sort of thing I should strive for?"
 
         show emi basic_closedgrin_gym at center
-        with charamovefaster
+        with charamoveinbottom
 
         emi "Of course! Flexibility is important for any runner. You'll be able to go faster the more you stretch out."
 
@@ -730,10 +730,8 @@ label a2_emi:
 
         rin "You may have a point. Maybe sideways."
 
-        show rin at offscreenbottom
-        with charamove
-
         hide rin
+        with charamoveoutbottom
 
         "As Rin lays down on the bench to look at the sky, I give up."
 
@@ -768,12 +766,8 @@ label a2_emi:
 
         emi "Sometimes, yeah. I'd have Rin buy my lunch for me in return, but I'm not sure how she'd carry it."
 
-        show rin basic_deadpan:
-            tworight
-            yanchor 0.0
-
-        show rin at tworight
-        with charamovefaster
+        show rin basic_deadpan at tworight
+        with charamoveinbottom
 
         rin "Plus I'd never buy her lunch."
 
