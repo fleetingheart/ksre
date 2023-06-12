@@ -158,6 +158,8 @@ init python:
             tf.zoom = 1.0
         return 0
 
+    define.move_transitions("charamove", 1.0, _ease_time_warp, _ease_in_time_warp, _ease_out_time_warp)
+
 transform twoleft:
     xpos 0.3 xanchor 0.5 ypos 1.0 yanchor 1.0 alpha 1.0
 
@@ -388,11 +390,6 @@ define charachangealways = dissolve
 define charachangeev = dissolve
 define charachange = None # charachangealways (must be customizable)
 define charachangefast = None # Dissolve(0.2) (must be customizable)
-
-define charamove = MoveTransition(2.0,
-    time_warp=_ease_time_warp,
-    enter_time_warp=_ease_in_time_warp,
-    leave_time_warp=_ease_out_time_warp)
 
 define charamovechange = Dissolvemove(2.0)
 
