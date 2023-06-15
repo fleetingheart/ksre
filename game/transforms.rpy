@@ -160,6 +160,10 @@ init python:
 
     define.move_transitions("charamove", 1.0, _ease_time_warp, _ease_in_time_warp, _ease_out_time_warp)
 
+    # HACK: Enable subpixel tranform property by default
+    #       https://www.renpy.org/doc/html/atl.html#transform-property-subpixel
+    setattr(renpy.display.transform.TransformState, "subpixel", True)
+
 transform twoleft:
     xpos 0.3 xanchor 0.5 ypos 1.0 yanchor 1.0 alpha 1.0
 
