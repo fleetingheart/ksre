@@ -992,24 +992,25 @@ screen accessibility():
 
                 textbutton _("High contrast") action Preference("high contrast text", "toggle")
 
-            text _("Self-voicing"):
-                bold True
-                size bold_size
+            if not renpy.android and not renpy.ios:
+                text _("Self-voicing"):
+                    bold True
+                    size bold_size
 
-            vbox:
-                style_prefix "check"
+                vbox:
+                    style_prefix "check"
 
-                textbutton (_("Enable")) action Preference("self voicing", "toggle")
+                    textbutton (_("Enable")) action Preference("self voicing", "toggle")
 
-            vbox:
-                style_prefix "slider"
+                vbox:
+                    style_prefix "slider"
 
-                hbox:
-                    bar value Preference("self voicing volume drop")
+                    hbox:
+                        bar value Preference("self voicing volume drop")
 
-                    null width 15
+                        null width 15
 
-                    text _("Volume drop")
+                        text _("Volume drop")
 
             textbutton _("Return"):
                 style "return_button"
