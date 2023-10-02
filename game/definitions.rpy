@@ -12,6 +12,8 @@ python early:
     import threading
     from functools import partial
     from pypresence import Presence, InvalidID
+    
+    mods = {}
 
     renpy.music.register_channel("ambient", "sfx", True, tight=True)
 
