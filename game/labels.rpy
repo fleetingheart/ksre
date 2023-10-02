@@ -28,6 +28,12 @@ label cinema:
 
     return
 
+label mods:
+    show screen mods
+    call screen mods
+
+    return
+
 label act_op(svideo):
     python:
         video = "video/" + svideo

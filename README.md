@@ -22,6 +22,7 @@ The project offers several notable features:
 * Complete refactor of Katawa Shoujo using Ren'Py 8.
 * Introduction of multiple new accessibility options, including self-voicing and specialized fonts.
 * Implementation of clean and unambiguous code, catering to fan translators.
+* Modding framework for mod developers.
 
 ## License
 This project is not affiliated with Four Leaf Studios. The code is licensed under the [Mozilla Public License 2.0](https://mozilla.org/MPL/2.0/), while the assets are under by their original [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/3.0/) license.

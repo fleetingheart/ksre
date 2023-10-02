@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+python early:
+    mods = {}
+
 screen skip_indicator():
     image "gui/icons/skip.png":
         pos 1850, 35
@@ -158,6 +161,8 @@ screen game_menu():
 
         textbutton _("Saves") action ShowMenu("file_slots")
 
+        textbutton _("Mods") action ShowMenu("mods")
+
         textbutton _("Main menu") action MainMenu(True, False)
 
         if not renpy.android and not renpy.ios:
@@ -192,6 +197,8 @@ screen main_menu():
         textbutton _("Options") action ShowMenu("prefs")
 
         textbutton _("Accessibility") action ShowMenu("accessibility")
+
+        textbutton _("Mods") action ShowMenu("mods")
 
         if not renpy.android and not renpy.ios:
             textbutton _("Quit") action Quit(False)
@@ -1015,5 +1022,53 @@ screen accessibility():
             textbutton _("Return"):
                 style "return_button"
                 action If(main_menu, true=Return(), false=ShowMenu("game_menu"))
+
+    key "game_menu" action If(main_menu, true=Return(), false=ShowMenu("game_menu"))
+
+screen mods():
+    tag menu
+    style_prefix "mods"
+
+    if main_menu:
+        add "main_menu_bg"
+    add "blind"
+
+    frame:
+        style_suffix "interface"
+
+        has vbox
+
+        spacing 6
+
+        text _("Mods"):
+            bold True
+            size bold_size
+
+        frame:
+            size_group "mods"
+
+            has hbox
+
+            viewport id "mods_vp":
+                mousewheel True
+                draggable True
+                xysize 675, 500
+
+                has vbox
+
+                spacing 4
+
+                grid 1 len(mods)
+                for lbl, name in sorted(mods.iteritems()):
+                    textbutton name action Start(lbl)
+
+            null width 60
+
+            vbar value YScrollValue("mods_vp") style "vslider"
+
+        textbutton _("Return"):
+            yoffset 5
+            style "return_button"
+            action If(main_menu, true=Return(), false=ShowMenu("game_menu"))
 
     key "game_menu" action If(main_menu, true=Return(), false=ShowMenu("game_menu"))

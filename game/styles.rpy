@@ -264,6 +264,14 @@ style cinema_button is gui_button
 
 style cinema_button_text is gui_button_text
 
+style mods_interface is interface_frame
+
+style mods_text is gui_text
+
+style mods_button is gui_button
+
+style mods_button_text is gui_button_text
+
 style history_interface is interface_frame
 
 style history_text is gui_text
