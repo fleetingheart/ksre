@@ -123,7 +123,7 @@ python early:
         return (_thread_tracks or _tracks).get(track or store.renpy.music.get_playing()) or __("Nothing")
 
     def set_current_scene(name, jumped):
-    if renpy.emscripten:
+        if renpy.emscripten:
             store.current_scene = name
             return
 
