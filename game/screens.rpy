@@ -158,11 +158,12 @@ screen game_menu():
 
         textbutton _("Saves") action ShowMenu("file_slots")
 
-        textbutton _("Mods") action ShowMenu("mods")
+        if not renpy.emscripten:
+            textbutton _("Mods") action ShowMenu("mods")
 
         textbutton _("Main menu") action MainMenu(True, False)
 
-        if not renpy.android and not renpy.ios:
+        if not renpy.android and not renpy.ios and not renpy.emscripten:
             textbutton _("Quit") action Quit(True)
 
     text (__("Playtime") + ": " + play_time):
@@ -195,9 +196,10 @@ screen main_menu():
 
         textbutton _("Accessibility") action ShowMenu("accessibility")
 
-        textbutton _("Mods") action ShowMenu("mods")
+        if not renpy.emscripten:
+            textbutton _("Mods") action ShowMenu("mods")
 
-        if not renpy.android and not renpy.ios:
+        if not renpy.android and not renpy.ios and not renpy.emscripten:
             textbutton _("Quit") action Quit(False)
 
 screen prefs():
@@ -241,9 +243,10 @@ screen prefs():
 
                 textbutton _("Parallax") action ToggleVariable("persistent.parallax", True, False)
 
-                if not renpy.android and not renpy.ios:
+                if not renpy.android and not renpy.ios and not renpy.emscripten:
                     textbutton _("Discord activity") action ToggleVariable("persistent.discord", True, False)
 
+                if not renpy.android and not renpy.ios:
                     textbutton _("Hardware cursor") action [
                         ToggleVariable("persistent.hardware_cursor", True, False),
                         Function(lambda: setattr(config, "mouse_displayable",
