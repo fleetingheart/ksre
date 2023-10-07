@@ -57,8 +57,12 @@ default preferences.text_cps = 40
 default persistent.hdisabled = False
 default persistent.parallax = False
 default persistent.discord = False
-default persistent.hardware_cursor = False
 default persistent.blinking_arrow = False
+
+if renpy.emscripten:
+    default persistent.hardware_cursor = True
+else:
+    default persistent.hardware_cursor = False
 
 define mouse = MouseDisplayable("gui/icons/cursor.png", 0, 0)
 

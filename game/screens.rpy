@@ -241,7 +241,8 @@ screen prefs():
 
                 textbutton _("Skip after choices") action Preference("after choices", "toggle")
 
-                textbutton _("Parallax") action ToggleVariable("persistent.parallax", True, False)
+                if not renpy.emscripten:
+                    textbutton _("Parallax") action ToggleVariable("persistent.parallax", True, False)
 
                 if not renpy.android and not renpy.ios and not renpy.emscripten:
                     textbutton _("Discord activity") action ToggleVariable("persistent.discord", True, False)
@@ -999,7 +1000,7 @@ screen accessibility():
 
                 textbutton _("High contrast") action Preference("high contrast text", "toggle")
 
-            if not renpy.android and not renpy.ios:
+            if not renpy.android and not renpy.ios and not renpy.emscripten:
                 text _("Self-voicing"):
                     bold True
                     size bold_size
