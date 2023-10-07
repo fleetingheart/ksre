@@ -232,7 +232,13 @@ screen prefs():
             vbox:
                 style_prefix "check"
 
-                textbutton _("Disable adult content") action ToggleVariable("persistent.hdisabled", True, False)
+                if renpy.emscripten:
+                    if persistent.hdisabled:
+                        text _("Adult content is disabled.")
+                    else:
+                        text _("Adult content is enabled.")
+                else:
+                    textbutton _("Disable adult content") action ToggleVariable("persistent.hdisabled", True, False)
 
                 if not renpy.android and not renpy.ios:
                     textbutton _("Fullscreen mode") action Preference("display", "toggle")
@@ -1073,3 +1079,32 @@ screen mods():
             action If(main_menu, true=Return(), false=ShowMenu("game_menu"))
 
     key "game_menu" action If(main_menu, true=Return(), false=ShowMenu("game_menu"))
+
+screen adult_warning():
+    style_prefix "adult_warning"
+    add "adult_warning_bg"
+
+    vbox:
+        text _("You must be 18+ to see adult content within this game.\nDo you meet these requirements?")
+        text _("Note: answering \"No\" does NOT prevent you from playing the game.")
+        text _("This question will not be shown again after you start playing.")
+
+        hbox:
+            spacing 40
+            xalign 0.5
+
+            textbutton _("Yes"):
+                action [
+                    SetVariable("persistent.hdisabled", False), 
+                    Hide("adult_warning"),
+                    Call("splashscreen_intro")
+                ]
+            textbutton _("No"):
+                action [
+                    SetVariable("persistent.hdisabled", True), 
+                    Hide("adult_warning"),
+                    Call("splashscreen_intro")
+                ]
+
+    on "show" action If(persistent.adult_warning_shown, true=Call("splashscreen_intro"), false=None)
+    on "hide" action SetVariable("persistent.adult_warning_shown", True), 

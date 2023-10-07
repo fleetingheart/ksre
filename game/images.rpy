@@ -101,52 +101,54 @@ init python:
     make_sprites("yuukoshang")
 
     class Drugs(renpy.Displayable):
-        drugs_wordlist = [ "Disopyramide",
-                           "Warfarin",
-                           "Diltiazem",
-                           "Felodipine",
-                           "Propanolol",
-                           "Penbutolol",
-                           "Carteolol",
-                           "Procainamide",
-                           "Heparin",
-                           "Phenytoin",
-                           "Verapamil",
-                           "Quinidine",
-                           "Flecainide",
-                           "5mg/day",
-                           "400mg/day",
-                           "15ml/day",
-                           "100mg/day",
-                           "10ml/48hrs",
-                           "10ml/day",
-                           "200mg/12hrs",
-                           "50mg/12hrs",
-                           "500mg/48hrs",
-                           "125mg/12hrs",
-                           "25ml/day",
-                           "nightmares",
-                           "decreased concentration",
-                           "bradycardia",
-                           "clinical depression",
-                           "insomnia",
-                           "erectile dysfunction",
-                           "abnormal vision",
-                           "heart failure",
-                           "nausea",
-                           "dizziness",
-                           "hallucinations",
-                           "bronchospasm",
-                           "dyspnea",
-                           "fatigue",
-                           "hypotension",
-                           "heart block",
-                           "cold extremities",
-                           "diarrhea",
-                           "cardiac arrest",
-                           "ventricular fibrillation",
-                           "ataxia",
-                           "asthma" ]
+        drugs_wordlist = [
+            "Disopyramide",
+            "Warfarin",
+            "Diltiazem",
+            "Felodipine",
+            "Propanolol",
+            "Penbutolol",
+            "Carteolol",
+            "Procainamide",
+            "Heparin",
+            "Phenytoin",
+            "Verapamil",
+            "Quinidine",
+            "Flecainide",
+            "5mg/day",
+            "400mg/day",
+            "15ml/day",
+            "100mg/day",
+            "10ml/48hrs",
+            "10ml/day",
+            "200mg/12hrs",
+            "50mg/12hrs",
+            "500mg/48hrs",
+            "125mg/12hrs",
+            "25ml/day",
+            "nightmares",
+            "decreased concentration",
+            "bradycardia",
+            "clinical depression",
+            "insomnia",
+            "erectile dysfunction",
+            "abnormal vision",
+            "heart failure",
+            "nausea",
+            "dizziness",
+            "hallucinations",
+            "bronchospasm",
+            "dyspnea",
+            "fatigue",
+            "hypotension",
+            "heart block",
+            "cold extremities",
+            "diarrhea",
+            "cardiac arrest",
+            "ventricular fibrillation",
+            "ataxia",
+            "asthma"
+        ]
 
         def __init__(self, width, height):
             renpy.Displayable.__init__(self)
@@ -240,6 +242,7 @@ init python:
     def rainAnim(my_offset=0.0, zoom=1.0, alpha=1.0):
         return rainAnim_tf(my_offset, zoom, alpha)
 
+image adult_warning_bg = Composite((1920, 1080), (0, 0), "gui/bg/main.png")
 image main_menu_bg = DynamicDisplayable(main_menu_composer)
 image config_bg = Frame("gui/bg/config.png")
 
@@ -334,6 +337,7 @@ LocalManLLC
 Tovarish1
 Tibix
 XPND.Dev
+hdkv
 
 {image=gui/icons/flourish_left.png} {b}Community Contributors{/b} {image=gui/icons/flourish_right.png}
 Dracoctix

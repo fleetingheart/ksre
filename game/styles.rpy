@@ -30,6 +30,8 @@ style check_button_text is gui_button_text:
     first_indent 40
     yoffset 5
 
+style check_text is gui_text
+
 style slider:
     xmaximum 400
     ymaximum 60
@@ -173,6 +175,17 @@ style prefs_text is gui_text
 style prefs_button is gui_button
 
 style prefs_button_text is gui_button_text
+
+style adult_warning_vbox is vbox:
+    xalign 0.5
+    yalign 0.5
+    spacing 12
+
+style adult_warning_text is gui_text
+
+style adult_warning_button is gui_button
+
+style adult_warning_button_text is gui_button_text
 
 style test_button is gui_button:
     foreground "music_play_op"

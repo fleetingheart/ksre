@@ -3,9 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 label splashscreen:
+    if renpy.emscripten:
+            show screen adult_warning
+            call screen adult_warning
+    else:
+        call splashscreen_intro
+
+    return
+
+label splashscreen_intro:
     camera:
         function tf_parallax
     $ renpy.movie_cutscene("video/4ls.webm")
+
     return
 
 label main_menu:

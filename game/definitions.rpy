@@ -40,23 +40,25 @@ python early:
         return im.MatrixColor(image, im.matrix.opacity(op), **options)
 
     def main_menu_composer(st, at):
-        _widgets = [ ("a4_shizune", (1491, 479), "gui/icons/16_tc4-shizune.png"),
-                     ("a3_shizune", (1508, 645), "gui/icons/15_tc3-shizune.png"),
-                     ("a2_shizune", (1393, 832), "gui/icons/14_tc2-shizune.png"),
-                     ("a4_rin", (1183, 248), "gui/icons/13_tc4-rin.png"),
-                     ("a3_rin", (1304, 338), "gui/icons/12_tc3-rin-rin.png"),
-                     ("a3_rin", (1409, 454), "gui/icons/11_tc3-rin-hisao.png"),
-                     ("a2_rin", (1409, 681), "gui/icons/10_tc2-rin.png"),
-                     ("a4_lilly", (1053, 283), "gui/icons/09_tc4-lilly.png"),
-                     ("a3_lilly", (1183, 439), "gui/icons/08_tc3-lilly.png"),
-                     ("a2_lilly", (1302, 630), "gui/icons/07_tc2-lilly.png"),
-                     ("a4_hanako", (888, 439), "gui/icons/06_tc4-hanako.png"),
-                     ("a4_emi", (881, 621), "gui/icons/05_tc4-emi.png"),
-                     ("a3_emi", (993, 786), "gui/icons/04_tc3-emi.png"),
-                     ("a2_emi", (1069, 876), "gui/icons/03_tc2-emi.png"),
-                     ("a3_hanako", (1058, 500), "gui/icons/02_tc3-hanako.png"),
-                     ("a2_hanako", (1124, 645), "gui/icons/01_tc2-hanako.png"),
-                     ("a1_monday.bundle_of_hisao", (1260, 826), "gui/icons/00_tc1-hisao.png") ]
+        _widgets = [
+            ("a4_shizune", (1491, 479), "gui/icons/16_tc4-shizune.png"),
+            ("a3_shizune", (1508, 645), "gui/icons/15_tc3-shizune.png"),
+            ("a2_shizune", (1393, 832), "gui/icons/14_tc2-shizune.png"),
+            ("a4_rin", (1183, 248), "gui/icons/13_tc4-rin.png"),
+            ("a3_rin", (1304, 338), "gui/icons/12_tc3-rin-rin.png"),
+            ("a3_rin", (1409, 454), "gui/icons/11_tc3-rin-hisao.png"),
+            ("a2_rin", (1409, 681), "gui/icons/10_tc2-rin.png"),
+            ("a4_lilly", (1053, 283), "gui/icons/09_tc4-lilly.png"),
+            ("a3_lilly", (1183, 439), "gui/icons/08_tc3-lilly.png"),
+            ("a2_lilly", (1302, 630), "gui/icons/07_tc2-lilly.png"),
+            ("a4_hanako", (888, 439), "gui/icons/06_tc4-hanako.png"),
+            ("a4_emi", (881, 621), "gui/icons/05_tc4-emi.png"),
+            ("a3_emi", (993, 786), "gui/icons/04_tc3-emi.png"),
+            ("a2_emi", (1069, 876), "gui/icons/03_tc2-emi.png"),
+            ("a3_hanako", (1058, 500), "gui/icons/02_tc3-hanako.png"),
+            ("a2_hanako", (1124, 645), "gui/icons/01_tc2-hanako.png"),
+            ("a1_monday.bundle_of_hisao", (1260, 826), "gui/icons/00_tc1-hisao.png")
+        ]
 
         _args = [
             (1920, 1080),

@@ -58,6 +58,7 @@ default persistent.hdisabled = False
 default persistent.parallax = False
 default persistent.discord = False
 default persistent.blinking_arrow = False
+default persistent.adult_warning_shown = False
 
 if renpy.emscripten:
     default persistent.hardware_cursor = True
