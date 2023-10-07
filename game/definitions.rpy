@@ -123,6 +123,10 @@ python early:
         return (_thread_tracks or _tracks).get(track or store.renpy.music.get_playing()) or __("Nothing")
 
     def set_current_scene(name, jumped):
+    if renpy.emscripten:
+            store.current_scene = name
+            return
+
         global rpc
 
         rpc.data["is_watching"] = name == "act_op"
@@ -197,10 +201,13 @@ python early:
                     except:
                         pass
 
-    rpc = RPCThread(store)
+    
+    if not renpy.emscripten:
+        rpc = RPCThread(store)
 
 init 1000 python:
-    rpc.start()
+    if not renpy.emscripten:
+        rpc.start()
 
     config.keymap["rollback"] = ["mousedown_5"]
     config.keymap["rollforward"] = ["mousedown_4"]
