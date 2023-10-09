@@ -109,7 +109,7 @@ python early:
         global _replays
 
         if not name:
-            name = current_scene
+            name = store.current_scene
 
         for replay_pack in _replays:
             for replay_stack in replay_pack[1]:
@@ -125,16 +125,13 @@ python early:
         return (_thread_tracks or _tracks).get(track or store.renpy.music.get_playing()) or __("Nothing")
 
     def set_current_scene(name, jumped):
-        if renpy.emscripten:
-            store.current_scene = name
-            return
-
-        global rpc
-
-        rpc.data["is_watching"] = name == "act_op"
-
         if not jumped and name.startswith("a") and "." in name:
             store.current_scene = name
+
+        if not renpy.emscripten:
+            global rpc
+
+            rpc.data["is_watching"] = name == "act_op"
 
     config.label_callback = set_current_scene
 
