@@ -10,3 +10,9 @@ translate ru strings:
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
     new "Вы точно хотите\nвыйти в главное меню?"
 
+# TODO: Translation updated at 2023-10-10 01:06
+
+translate ru strings:
+    # renpy/common/00preferences.rpy:661
+    old "Self-voicing enabled. Press 'v' to disable."
+    new "Озвучка роботом включена. Нажмите 'v' для отключения."

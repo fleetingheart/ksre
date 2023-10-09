@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-12 21:54
+﻿# TODO: Translation updated at 2023-10-10 00:36
 
 translate ru strings:
 
@@ -9,6 +9,10 @@ translate ru strings:
     # game/definitions.rpy
     old "Nothing"
     new "Ничего"
+
+    # game/definitions.rpy
+    old " (replay)"
+    new " (повтор)"
 
     # game/definitions.rpy:82
     old "Act 1"

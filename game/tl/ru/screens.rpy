@@ -246,3 +246,31 @@ translate ru strings:
     old "Are you sure you want to\nload this save?"
     new "Вы уверены, что хотите\nзагрузить это сохранение?"
 
+# TODO: Translation updated at 2023-10-10 00:44
+
+translate ru strings:
+
+    # game/screens.rpy:162
+    old "Mods"
+    new "Модификации"
+
+    # game/screens.rpy:237
+    old "Adult content is disabled."
+    new "Контент «для взрослых» отключён."
+
+    # game/screens.rpy:239
+    old "Adult content is enabled."
+    new "Контент «для взрослых» включён."
+
+    # game/screens.rpy:1089
+    old "You must be 18+ to see adult content within this game.\nDo you meet these requirements?"
+    new "В игре присутствует эротический контент.\nВам должно быть 18 или больше, чтобы вы могли его просматривать.\nВы соответствуете этому критерию?"
+
+    # game/screens.rpy:1090
+    old "Note: answering \"No\" does NOT prevent you from playing the game."
+    new "Внимание: ответ «Нет» не означает, что вы не сможете играть."
+
+    # game/screens.rpy:1091
+    old "This question will not be shown again after you start playing."
+    new "Этот вопрос не будет задаваться после того, как вы начнёте игру."
+
