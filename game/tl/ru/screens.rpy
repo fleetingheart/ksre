@@ -176,7 +176,7 @@ translate ru strings:
 
     # game/screens.rpy:546
     old "Library"
-    new "Библ."
+    new "Библиотека"
 
     # game/screens.rpy:567
     old "Cinema"

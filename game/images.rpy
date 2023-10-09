@@ -371,7 +371,7 @@ image fireshine = LiveComposite(
 
 image drugs = Drugs(config.screen_width * 2, config.screen_height)
 
-image completionbonus = "event/completionbonus.jpg"
+image completionbonus = Transform("event/completionbonus.jpg", size=(1920, 1080), fit="contain")
 
 image heartattack alpha = im.Alpha("vfx/heart_attack.png", 0.3)
 image heartattack residual = im.Alpha("vfx/heart_attack.png", 0.17)
