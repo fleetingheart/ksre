@@ -805,6 +805,7 @@ screen library(page=0):
                                     left_margin 30
                                     action [
                                         SetVariable("_current_replay", replay[1]),
+                                        SetVariable("current_scene", replay[1]),
                                         Start("replay_start") ]
                                     hovered SetScreenVariable("current_desc", replay[2])
                                     unhovered SetScreenVariable("current_desc", None)

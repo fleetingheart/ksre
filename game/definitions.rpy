@@ -109,13 +109,13 @@ python early:
         global _replays
 
         if not name:
-            name = store.current_scene
+            name = current_scene
 
         for replay_pack in _replays:
             for replay_stack in replay_pack[1]:
                 for replay in replay_stack[1]:
                     if replay[1] == name:
-                        return __(replay[0])
+                        return __(replay[0]) + _(" (replay)")
 
         return __("No scene")
 
