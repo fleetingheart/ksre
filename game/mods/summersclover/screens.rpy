@@ -24,7 +24,7 @@ screen summersclover():
             has vbox
 
             vbox:
-                textbutton _("Start")
+                textbutton _("Start") action Start("summersclover_start")
 
                 textbutton _("Library")
 

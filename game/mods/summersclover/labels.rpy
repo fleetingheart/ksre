@@ -7,3 +7,15 @@ label summersclover:
     call screen summersclover
 
     return
+
+label summersclover_start:
+    stop music fadeout 1.0
+
+    scene black
+    with config.game_main_transition
+    pause 2.0
+
+    call summersclover_intro
+    call summersclover_ch1
+
+    return
