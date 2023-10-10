@@ -14,6 +14,7 @@ python early:
     from pypresence import Presence, InvalidID
     
     mods = {}
+    mods_with_menus = {}
 
     renpy.music.register_channel("ambient", "sfx", True, tight=True)
 
