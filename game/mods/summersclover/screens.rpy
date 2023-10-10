@@ -15,12 +15,23 @@ screen summersclover():
 
         has vbox
 
+        spacing 6
+
         text _("Mods > Summer's Clover"):
             bold True
             size bold_size
 
-        frame:    
-            textbutton _("About") action ShowMenu("summersclover_about")
+        frame:
+            has vbox
+
+            vbox:
+                textbutton _("Start")
+
+                textbutton _("Library")
+
+                textbutton _("Gallery")
+
+                textbutton _("About") action ShowMenu("summersclover_about")
 
         textbutton _("Return"):
             yoffset 5
@@ -29,7 +40,7 @@ screen summersclover():
 
 screen summersclover_about():
     tag menu
-    style_prefix "summersclover"
+    style_prefix "summersclover_about"
 
     add "blind"
     if main_menu:
@@ -40,12 +51,23 @@ screen summersclover_about():
 
         has vbox
 
+        spacing 6
+
         text _("Mods > Summer's Clover > About"):
             bold True
             size bold_size
 
         frame:
-            text _("About Summer's Clover")
+            has vbox
+
+            vbox:
+                text _("Summer's Clover is a game modification to Katawa Shoujo, aimed to tell the story of Miki Miura, written by Suriko, in visual novel format.\n")
+
+                text _("It was created before 4LS changed policy on game mods and is known as the oldest mod of the game.\n")
+
+                text _("The code of the port to Katawa Shoujo: Re-Engineered is licensed under MPL 2.0.\nz`")
+
+                text _("Version: ") + str(summersclover.version)
 
         textbutton _("Return"):
             yoffset 5

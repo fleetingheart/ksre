@@ -9,3 +9,11 @@ style summersclover_text is gui_text
 style summersclover_button is gui_button
 
 style summersclover_button_text is gui_button_text
+
+style summersclover_about_interface is interface_frame
+
+style summersclover_about_text is gui_text
+
+style summersclover_button is gui_button
+
+style summersclover_button_text is gui_button_text
