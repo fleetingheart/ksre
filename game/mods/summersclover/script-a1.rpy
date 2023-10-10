@@ -339,18 +339,8 @@ label summersclover_ch1:
 
     window hide
 
-    scene black
-    with dissolve
+    scene black with dissolve
 
-    scene black with fadeslow
-    $stop_music()
-    $renpy.pause(1.0)
-    $start_music(music_timeskip)
-    $ persistent.song5 = True
-    show kslogoheart at Position(xpos=158, ypos=150, xanchor=0, yanchor=0) with passingoftime
-    show kslogowords at Position(xpos=158, ypos=150, xanchor=0, yanchor=0) with passingoftime
-    $renpy.pause(2.0)
-    $renpy.music.stop(fadeout=2.0)
-    show solid_black with passingoftime
+    call summersclover_timeskip
 
     return

@@ -19,3 +19,31 @@ label summersclover_start:
     call summersclover_ch1
 
     return
+
+label summersclover_timeskip:
+    scene black with fadeslow
+
+    stop sound fadeout 2.0
+    stop music fadeout 2.0
+    stop ambient fadeout 2.0
+    pause 2.0
+
+    play music music_timeskip
+
+    show kslogoheart at Transform(xalign=0.5, yalign=0.5, zoom=2.0)
+    with clockwipe
+
+    scene black
+    show kslogowords at Transform(xalign=0.5, yalign=0.5, zoom=2.0)
+    with clockwipe
+
+    pause 2.0
+
+    stop music fadeout 2.0
+
+    scene black
+    with clockwipe
+
+    pause 2.0
+
+    return
