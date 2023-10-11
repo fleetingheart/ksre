@@ -1071,7 +1071,6 @@ screen mods():
                     textbutton name:
                         action If(lbl in mods_with_menus, true=ShowMenu(lbl), false=Start(lbl))
 
-
             null width 60
 
             vbar value YScrollValue("mods_vp") style "vslider"
