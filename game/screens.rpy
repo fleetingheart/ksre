@@ -1068,7 +1068,8 @@ screen mods():
 
                 grid 1 len(mods)
                 for lbl, name in sorted(mods.iteritems()):
-                    textbutton name action Start(lbl)
+                    textbutton name:
+	                        action If(lbl in mods_with_menus, true=ShowMenu(lbl), false=Start(lbl))
 
             null width 60
 
