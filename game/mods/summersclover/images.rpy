@@ -10,7 +10,7 @@ transform show_lowres_fullscreen:
     xysize (1920, 1080)
     fit "contain"
 
-image bg splash = show_lowres_fullscreen(image_fullpath("ui/splash.jpg"))
+image bg splash = image_fullpath("ui/splash.png")
 
 image act1card = show_lowres_fullscreen(image_fullpath("ui/act1card.png"))
 image act1 = show_lowres_fullscreen(image_fullpath("ui/act1.png"))
