@@ -975,7 +975,7 @@ screen written_note(text, quiet=False, custom_background=None):
     modal True
     style_prefix "note"
 
-    frame at note_tf, colorblind:
+    frame at note_tf, colorblind(persistent.colorblind):
         if custom_background:
             background custom_background
 
