@@ -183,7 +183,9 @@ screen main_menu():
     tag menu
     style_prefix "main_menu"
 
-    add "main_menu_bg"
+    
+    add "main_menu_bg" at transform:
+        matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
 
     vbox:
         textbutton _("Start") action Start()
@@ -206,12 +208,15 @@ screen prefs():
     tag menu
     style_prefix "prefs"
 
-    if main_menu:
-        add "main_menu_bg"
+    if main_menu:    
+        add "main_menu_bg" at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
     add "blind"
 
     frame:
         style_suffix "interface"
+        at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
 
         has vbox
 
@@ -322,13 +327,16 @@ screen language():
     tag menu
     style_prefix "language"
 
-    if main_menu:
-        add "main_menu_bg"
+    if main_menu:    
+        add "main_menu_bg" at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
     add "blind"
 
     frame:
         style_suffix "interface"
-
+        at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        
         has vbox
 
         spacing 6
@@ -366,12 +374,15 @@ screen file_slots():
     default local_saves_items = set()
     default local_dels_items = set()
 
-    if main_menu:
-        add "main_menu_bg"
+    if main_menu:    
+        add "main_menu_bg" at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
     add "blind"
 
     frame:
         style_suffix "interface"
+        at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
 
         has vbox
 
@@ -474,11 +485,14 @@ screen extra():
     default library_hovered = False
     default cinema_hovered = False
 
-    add "main_menu_bg"
+    add "main_menu_bg"  at transform:
+        matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
     add "blind"
 
     frame:
         style_suffix "interface"
+        at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
 
         has vbox
 
@@ -608,12 +622,15 @@ screen jukebox():
     tag menu
     style_prefix "jukebox"
 
-    add "main_menu_bg"
+    add "main_menu_bg" at transform:
+        matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
     add "blind"
 
     frame:
         style_suffix "interface"
-
+        at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        
         has vbox
 
         spacing 6
@@ -675,11 +692,14 @@ screen gallery(page=0):
     default return_hovered = False
     default local_items = set()
 
-    add "main_menu_bg"
+    add "main_menu_bg" at transform:
+        matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
     add "blind"
 
     frame:
         style_suffix "interface"
+        at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
 
         has vbox
 
@@ -758,12 +778,14 @@ screen library(page=0):
 
     default current_desc = None
 
-    add "main_menu_bg"
+    add "main_menu_bg" at transform:
+        matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
     add "blind"
 
     frame:
         style_suffix "interface"
-
+        at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
         has vbox
 
         text _("Extras > Library"):
@@ -841,12 +863,14 @@ screen cinema():
 
     default local_items = set()
 
-    add "main_menu_bg"
+    add "main_menu_bg" at transform:
+        matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
     add "blind"
 
     frame:
         style_suffix "interface"
-
+        at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
         has vbox
 
         spacing 32
@@ -895,6 +919,8 @@ screen history():
 
     frame:
         style_suffix "interface"
+        at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
 
         has vbox
 
@@ -957,6 +983,8 @@ screen written_note(text, quiet=False, custom_background=None):
     style_prefix "note"
 
     frame at note_tf:
+        at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
         if custom_background:
             background custom_background
 
@@ -970,11 +998,16 @@ screen accessibility():
     tag menu
     style_prefix "prefs"
 
-    if main_menu:
-        add "main_menu_bg"
+    if main_menu:    
+        add "main_menu_bg" at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
     add "blind"
 
     frame:
+        if persistent.colorblind:
+            at transform:
+                matrixcolor Matrix(persistent.colorblind)
+            
         style "interface_frame"
 
         has vbox
@@ -1027,6 +1060,17 @@ screen accessibility():
 
                         text _("Volume drop")
 
+            text _("Colorblind Filter"):
+                bold True
+                size bold_size
+            
+            vbox:
+                style_prefix "check"
+
+                textbutton "deuteranopia" action ToggleVariable("persistent.colorblind", [0.43, 0.72, -0.15, 0.0, 0.34, 0.57, 0.09, 0.0, -0.02, 0.03, 1.00, 0.0, 0.0, 0.0, 0.0, 1.0], None)
+                textbutton "protanopia" action ToggleVariable("persistent.colorblind", [0.20, 0.99, -0.19, 0.0, 0.16, 0.79, 0.04, 0.0, 0.01, -0.01, 1.00, 0.0, 0.0, 0.0, 0.0, 1.0], None)
+                textbutton "tritanopia" action ToggleVariable("persistent.colorblind", [0.97, 0.11, -0.08, 0.0, 0.02, 0.82, 0.16, 0.0, -0.06, 0.88, 0.18, 0.0, 0.0, 0.0, 0.0, 1.0], None)
+
             textbutton _("Return"):
                 style "return_button"
                 action If(main_menu, true=Return(), false=ShowMenu("game_menu"))
@@ -1037,13 +1081,15 @@ screen mods():
     tag menu
     style_prefix "mods"
 
-    if main_menu:
-        add "main_menu_bg"
+    if main_menu:    
+        add "main_menu_bg" at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
     add "blind"
 
     frame:
         style_suffix "interface"
-
+        at transform:
+            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
         has vbox
 
         spacing 6
