@@ -9,6 +9,7 @@ screen skip_indicator():
 screen ctc(arg=None):
     if not renpy.is_skipping():
         frame:
+            at colorblind
             pos 0.9635, 0.0325
             xysize 42, 42
 
@@ -32,6 +33,7 @@ screen say(who, what):
 
     if who and who.strip():
         frame:
+            at colorblind
             style_suffix "namebox"
             text who id "who":
                 size 40
@@ -45,22 +47,26 @@ screen doublespeak(c1, t1, c2, t2):
     style_prefix "doublespeak"
 
     frame:
+        at colorblind
         style_suffix "namebox1"
         text ("{color=" + c1.who_args["color"] + "}" + renpy.translate_string(c1.name) + "{/color}") id "who1":
             size 40
             bold True
 
     frame:
+        at colorblind
         style_suffix "window1"
         text t1 id "what1"
 
     frame:
+        at colorblind
         style_suffix "namebox2"
         text ("{color=" + c2.who_args["color"] + "}" + renpy.translate_string(c2.name) + "{/color}") id "who2":
             size 40
             bold True
 
     frame:
+        at colorblind
         style_suffix "window2"
         text t2 id "what2"
 
@@ -72,6 +78,7 @@ screen choice(items):
     style_prefix "choice"
 
     vbox:
+        at colorblind
         for i in items:
             textbutton i.caption action i.action
 
@@ -79,6 +86,7 @@ screen nvl(dialogue, items=None):
     window id "window":
         has vbox
         spacing 20
+        at colorblind
 
         for d in dialogue:
             frame:
@@ -98,6 +106,7 @@ screen confirm(message, yes_action, no_action=None, yes_text=None, no_text=None)
 
     frame:
         style_suffix "interface"
+        at colorblind
 
         has vbox
 
@@ -134,6 +143,7 @@ screen game_menu():
 
     frame:
         style_suffix "interface"
+        at colorblind
 
         has vbox
 
@@ -184,10 +194,10 @@ screen main_menu():
     style_prefix "main_menu"
 
     
-    add "main_menu_bg" at transform:
-        matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+    add "main_menu_bg" at colorblind
 
     vbox:
+        at colorblind
         textbutton _("Start") action Start()
 
         textbutton _("Saves") action ShowMenu("file_slots")
@@ -209,14 +219,12 @@ screen prefs():
     style_prefix "prefs"
 
     if main_menu:    
-        add "main_menu_bg" at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        add "main_menu_bg" at colorblind
     add "blind"
 
     frame:
         style_suffix "interface"
-        at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        at colorblind
 
         has vbox
 
@@ -328,14 +336,12 @@ screen language():
     style_prefix "language"
 
     if main_menu:    
-        add "main_menu_bg" at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        add "main_menu_bg" at colorblind
     add "blind"
 
     frame:
         style_suffix "interface"
-        at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        at colorblind
         
         has vbox
 
@@ -375,14 +381,12 @@ screen file_slots():
     default local_dels_items = set()
 
     if main_menu:    
-        add "main_menu_bg" at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        add "main_menu_bg" at colorblind
     add "blind"
 
     frame:
         style_suffix "interface"
-        at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        at colorblind
 
         has vbox
 
@@ -485,14 +489,12 @@ screen extra():
     default library_hovered = False
     default cinema_hovered = False
 
-    add "main_menu_bg"  at transform:
-        matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+    add "main_menu_bg" at colorblind
     add "blind"
 
     frame:
         style_suffix "interface"
-        at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        at colorblind
 
         has vbox
 
@@ -622,14 +624,12 @@ screen jukebox():
     tag menu
     style_prefix "jukebox"
 
-    add "main_menu_bg" at transform:
-        matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+    add "main_menu_bg" at colorblind
     add "blind"
 
     frame:
         style_suffix "interface"
-        at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        at colorblind
         
         has vbox
 
@@ -692,14 +692,12 @@ screen gallery(page=0):
     default return_hovered = False
     default local_items = set()
 
-    add "main_menu_bg" at transform:
-        matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+    add "main_menu_bg" at colorblind
     add "blind"
 
     frame:
         style_suffix "interface"
-        at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        at colorblind
 
         has vbox
 
@@ -778,14 +776,12 @@ screen library(page=0):
 
     default current_desc = None
 
-    add "main_menu_bg" at transform:
-        matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+    add "main_menu_bg" at colorblind
     add "blind"
 
     frame:
         style_suffix "interface"
-        at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        at colorblind
         has vbox
 
         text _("Extras > Library"):
@@ -863,14 +859,12 @@ screen cinema():
 
     default local_items = set()
 
-    add "main_menu_bg" at transform:
-        matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+    add "main_menu_bg" at colorblind
     add "blind"
 
     frame:
         style_suffix "interface"
-        at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        at colorblind
         has vbox
 
         spacing 32
@@ -919,8 +913,7 @@ screen history():
 
     frame:
         style_suffix "interface"
-        at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        at colorblind
 
         has vbox
 
@@ -982,9 +975,7 @@ screen written_note(text, quiet=False, custom_background=None):
     modal True
     style_prefix "note"
 
-    frame at note_tf:
-        at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+    frame at note_tf, colorblind:
         if custom_background:
             background custom_background
 
@@ -999,15 +990,11 @@ screen accessibility():
     style_prefix "prefs"
 
     if main_menu:    
-        add "main_menu_bg" at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        add "main_menu_bg" at colorblind
     add "blind"
 
     frame:
-        if persistent.colorblind:
-            at transform:
-                matrixcolor Matrix(persistent.colorblind)
-            
+        at colorblind
         style "interface_frame"
 
         has vbox
@@ -1082,15 +1069,14 @@ screen mods():
     style_prefix "mods"
 
     if main_menu:    
-        add "main_menu_bg" at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+        add "main_menu_bg" at colorblind
     add "blind"
 
     frame:
+        at colorblind
         style_suffix "interface"
-        at transform:
-            matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
         has vbox
+        at colorblind
 
         spacing 6
 
@@ -1130,9 +1116,11 @@ screen mods():
 
 screen adult_warning():
     style_prefix "adult_warning"
-    add "adult_warning_bg"
+    add "adult_warning_bg" at colorblind
 
     vbox:
+        at colorblind
+        
         text _("You must be 18+ to see adult content within this game.\nDo you meet these requirements?")
         text _("Note: answering \"No\" does NOT prevent you from playing the game.")
         text _("This question will not be shown again after you start playing.")

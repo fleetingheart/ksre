@@ -12,7 +12,7 @@ label splashscreen:
     return
 
 label splashscreen_intro:
-    camera:
+    camera at colorblind:
         function tf_parallax
     $ renpy.movie_cutscene("video/4ls.webm")
 

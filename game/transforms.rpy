@@ -319,6 +319,9 @@ transform note_tf:
     on hide:
         easeout 0.5 yalign 1.0 alpha 0.0
 
+transform colorblind:
+    matrixcolor Matrix(persistent.colorblind or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
+
 define dotwipe_down = ImageDissolve(im.Tile("gui/trans/dots_col.png"), 0.5, 32, ramptype="mcube")
 define dotwipe_up = ImageDissolve(im.Tile("gui/trans/dots_col.png"), 0.5, 32, ramptype="mcube", reverse=True)
 
