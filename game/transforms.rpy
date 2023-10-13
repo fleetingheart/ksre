@@ -326,6 +326,10 @@ transform defaultColorblind:
 transform colorblind(matrix):
     matrixcolor Matrix(matrix or [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1])
 
+transform rotateBy(rotation=0):
+    delay 0.15
+    ease(0.15) rotate rotation
+
 define dotwipe_down = ImageDissolve(im.Tile("gui/trans/dots_col.png"), 0.5, 32, ramptype="mcube")
 define dotwipe_up = ImageDissolve(im.Tile("gui/trans/dots_col.png"), 0.5, 32, ramptype="mcube", reverse=True)
 

@@ -1050,17 +1050,37 @@ screen accessibility():
             text _("Colorblind Filter"):
                 bold True
                 size bold_size
-            
-            vbox:
-                style_prefix "check"
 
-                textbutton "deuteranopia" action [ToggleVariable("persistent.colorblind", [0.43, 0.72, -0.15, 0.0, 0.34, 0.57, 0.09, 0.0, -0.02, 0.03, 1.00, 0.0, 0.0, 0.0, 0.0, 1.0], None), Function(print, ["test"])]
-                textbutton "protanopia" action [ToggleVariable("persistent.colorblind", [0.20, 0.99, -0.19, 0.0, 0.16, 0.79, 0.04, 0.0, 0.01, -0.01, 1.00, 0.0, 0.0, 0.0, 0.0, 1.0], None), Function(renpy.restart_interaction)]
-                textbutton "tritanopia" action [ToggleVariable("persistent.colorblind", [0.97, 0.11, -0.08, 0.0, 0.02, 0.82, 0.16, 0.0, -0.06, 0.88, 0.18, 0.0, 0.0, 0.0, 0.0, 1.0], None), Function(renpy.restart_interaction)]
+            $ filterLookup = {
+                "None": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                "Deuteranopia": [0.43, 0.72, -0.15, 0.0, 0.34, 0.57, 0.09, 0.0, -0.02, 0.03, 1.00, 0.0, 0.0, 0.0, 0.0, 1.0],
+                "Protanopia": [0.20, 0.99, -0.19, 0.0, 0.16, 0.79, 0.04, 0.0, 0.01, -0.01, 1.00, 0.0, 0.0, 0.0, 0.0, 1.0],
+                "Tritanopia": [0.97, 0.11, -0.08, 0.0, 0.02, 0.82, 0.16, 0.0, -0.06, 0.88, 0.18, 0.0, 0.0, 0.0, 0.0, 1.0]
+            }
+
+            frame:
+                xysize (100, 36)
+                vbox:
+                    hbox:
+                        text ">" at rotateBy(90 if expanded else 0)
+                        textbutton selected action ToggleVariable("expanded", True, False) at left
+
+
+                    if expanded:
+                            frame:
+                                background "config_bg" at colorblind(persistent.colorblind)
+                                xpadding 13
+                                ypadding 13
+                                yoffset -13
+
+                                vbox:
+                                    spacing 6
+                                    for item in filterLookup.keys():
+                                        textbutton item action [ToggleVariable("persistent.colorblind", filterLookup[item], None), SetVariable("expanded", False), SetVariable("selected", item if item != "None" else "Options")]
 
             textbutton _("Return"):
                 style "return_button"
-                action If(main_menu, true=Return(), false=ShowMenu("game_menu"))
+                action [SetVariable("expanded", False), If(main_menu, true=Return(), false=ShowMenu("game_menu"))]
 
     key "game_menu" action If(main_menu, true=Return(), false=ShowMenu("game_menu"))
 
