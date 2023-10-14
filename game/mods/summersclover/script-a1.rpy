@@ -28,13 +28,13 @@ label summersclover_intro:
 
     n "{cps=60}I've always believed that there are many kinds of people.{/cps}"
 
-    n "{cps=60}Those who calmly stroll through their uneventful lives, the ones who meander from this interest to another, they who walk in the shadow of others more notable than themselves, and so on.{/cps}"
+    n "{vspace=100}{cps=60}Those who calmly stroll through their uneventful lives, the ones who meander from this interest to another, they who walk in the shadow of others more notable than themselves, and so on.{/cps}"
 
-    n "{cps=60}As for me... I was the type who ran. The people I wanted to be with, what I wanted to do with my life, where I wanted to be, I knew the answers to all those questions.{/cps}"
+    n "{vspace=100}{cps=60}As for me... I was the type who ran. The people I wanted to be with, what I wanted to do with my life, where I wanted to be, I knew the answers to all those questions.{/cps}"
 
-    n "{cps=60}I had my worries and concerns, of course, but those meant nothing when living with such purpose. My ambition was what set me free. For those fleeting years of my childhood, I was unstoppable.{/cps}"
+    n "{vspace=100}{cps=60}I had my worries and concerns, of course, but those meant nothing when living with such purpose. My ambition was what set me free. For those fleeting years of my childhood, I was unstoppable.{/cps}"
 
-    n "{cps=60}Three years ago, that world ended.{/cps}"
+    n "{vspace=100}{cps=60}Three years ago, that world ended.{/cps}"
 
 
     nvl hide dissolve
@@ -341,6 +341,256 @@ label summersclover_ch1:
 
     scene black with dissolve
 
+
+label summersclover_ch2:
     call summersclover_timeskip
+
+
+    scene bg school_gardens3
+    with dissolve
+    $ renpy.music.set_volume(0.5, 1.5, channel="music")
+    play music music_soothing fadein 0.25 # [str]
+    $ persistent.song6 = True
+
+
+    window show
+
+    "I find myself lazily sitting at the base of a particularly tree in the school gardens, making the most of its shade while watching the goings on ahead."
+
+    "With the events over and medals dispensed, the people gathered for the track meet have now fanned out over the grounds."
+    
+    "Runners excitedly talk with their friends and parents, with the handful who have romantic interests in the other participating school using the opportunity to catch up on more affectionate matters."
+
+    "It's nice. In fact, I prefer this atmosphere to the competitive nature of the track meet itself. People just catching up with others, having a nice time as the importance of who won or lost whichever race fades away."
+
+    "Without much else to do, I idly toy with the medal on my chest. First place was a lost cause; Emi's in another league when it comes to sprinting, after all. Silver still ain't bad, especially given that I'm hardly the competitive type to begin with."
+
+    "I wonder what metal this thing is actually made of. Tin, maybe. I flick it a couple of times to try and gauge the sound, but it's no use."
+
+    show rin relaxed_sleepy with moveinleft
+    hide rin relaxed_sleepy with moveoutright
+
+    "A shadow crossing my vision grabs my attention, but I needn't have bothered looking. The owner just keeps on walking towards the main building, her empty sleeves swaying in the breeze."
+
+    "Looking back to where she came from, I see a familiar face slowly strolling around the grounds. Given that he isn't in gym uniform, he's probably only here because of Emi."
+
+    "I feel a little bad for him. Sure, he's around the student council and Emi a lot, but that feels more like he's being bossed around than actually choosing to hang out with friends. Not that I'm innocent, I guess."
+
+    "The thought of something some of the guys in the club had hastily arranged comes to mind as I mull over the situation."
+
+    "I come to my feet after making my decision, striding past a gaggle of gossiping girls and calling out to him."
+
+    show hisao_talk_small_u with charachange
+
+    hi "Oh, Miura. Hey."
+
+    mk "Got dragged here by the shortie, eh?"
+
+    show hisao_disappoint_u with charachange
+
+    "Hisao just hangs his head as I saunter up to him. He's pretty transparent."
+
+    "It's always struck me how out of place Hisao seems around the track club and other sports stuff. He said he liked soccer when he introduced himself in class, but it's kinda hard to imagine such a passive and subdued lad running around a field and being boisterous."
+
+    "It makes me wonder what he'd be doing with himself if Emi weren't dragging him around by the scruff of the neck."
+
+    mk "Least she put on a show for you."
+
+    show hisao_erm_u with charachange
+
+    hi "Has she always been that good at sprinting?"
+
+    mk "Yep. She puts in the hours on the track, so it ain't no surprise that it pays off. Fastest thing on no legs, and all that."
+
+    hi "Still, it looks like you did fine yourself."
+
+    mk "It's something. You hang around the club and look decently built; I'm surprised you didn't run in some race or another."
+
+    show hisao_frown_u with charachange
+
+    hi "You saw me the other day on the track, didn't you?"
+
+    "The face he pulls makes me feel bad for bringing it up. This being Yamaku, it isn't hard to think up reasons why he might have problems in that area."
+
+    mk "Forget I asked. There is another reason I wanted to talk with you, actually."
+
+    mk "Most of the track club's going to a karaoke place this evening to hang out. There's space for you, if you wanna come."
+
+    show hisao_wtf_u with charachange
+
+    "Hisao looks genuinely startled, but I think it's in a good way."
+
+    hi "I was going to study..."
+
+    mk "C'mon, it'll be fun. Some of the other guys want to know who you really are too, y'know."
+
+    show hisao_disappoint_u with charachange
+
+    hi "I somehow doubt I'm that interesting."
+
+    mk "Mysterious transfer student who keeps hanging around the track with Emi? What's there not to be curious about?"
+
+    "He wavers a little, but eventually throws his arms up in surrender."
+
+    show hisao_heh_u with charachange
+
+    hi "Alright, you got me. I'll come."
+
+    stop music fadeout 1.5
+
+    scene bg city_karaokeint
+    with shorttimeskip
+    play music music_best_shot fadein 1.0
+    $ persistent.song7 = True
+    $ renpy.music.set_volume(0.5, .5, channel="ambient")
+    play ambient sfx_crowd_indoors fadein 1.0
+
+    "The moment we all entered the dimly-lit room, we started acting as if it were home. People laid on the couches, draped themselves over the arms and backs to talk to friends, threw snacks and drink bottles to each other, and generally made a din from all the arguing over the day's events."
+
+    "Now that some time has passed, with the excitement and adrenaline of the track meet ebbing, things have finally settled down a little."
+    
+    "The dozen people around make-do with gossiping while lounging around on the garishly coloured seats, occasionally cheer or jeer at whoever's up front belting out some crappy song or another, and busily chat the night away."
+
+    "Not that I'm excluded, with Hisao seated to my right and speaking up to be heard over the atrocious number being sung to a chorus of laughs and teasing."
+
+    show hisao_talk_big_u at centersit with dissolve
+
+    hi "If you don't mind me asking, where are the girls from club? I'm sure I saw a couple besides Emi at the track meet, but only the guys are here."
+
+    mk "What, you lookin' to pick up?"
+
+    hi "I just transferred in, I don't move that quickly."
+
+    mk "Come on, you could do worse than the girls in the track club. Fitness does wonders for you-know-what, after all..."
+
+    show hisao_blush_u at centersit with charachange
+    hide hisao_talk_big_u at centersit
+
+    "He gives me a flat face, but I detect a hint of embarrassment in it. Guess he's a bit of a prude."
+
+    mk "They're just busy. Supposedly. Maybe it was too much of a sausage fest for them."
+
+    stop music fadeout 4.0
+
+    "He moves to say something, but as the guy singing ends his round, the next beckons for Hisao to join him as he walks up to the mic."
+
+    "Yukio Hasegawa, nothing less than perhaps the most popular guy in track club. He's always cut graceful figure for a man, bearing slim, refined eyes, impeccably groomed hair, and a gentle face. "
+    "Far from my type, but other girls seem to gush over him."
+
+    "The others in the room, whether out of curiosity, friendliness, or teasing, quickly join in to try and make Hisao perform. The guy himself doesn't look enthused, but I suspect that's as much due to the pressure as the actual act."
+
+    mk "You should do it. What've you got to lose?"
+
+    show hisao_hmpf_u at centersit with charachange
+    hide hisao_blush_u at centersit
+
+    hi "My dignity. I can't sing, you know."
+
+    mk "What, you think any of us can? Stop being lame and just have some fun."
+
+    #show hisao_frown at centersit with charachange
+    #hide hisao_hmpf
+    with vpunch
+    show hisao_hmpf_u at left with charamovefast
+
+    "I put my hand on his back and give him a sharp push off his ass, jolting him into the center of the room."
+
+    show hisao_wtf_u at left with charachange
+    hide hisao_hmpf_u at left
+    pause (0.5)
+    show hisao_frown_u at left with charachange
+    hide hisao_wtf_u at left
+
+    "It's only momentary, but as he recovers, he throws an odd glance back to me afterwards. His anxious, almost scared, face leaves me speechless."
+
+    hide hisao_frown_u with dissolve
+
+    "Everything returns to normality in a flash, the boy taking a breath before marching around the table and up to the mic with back hunched and feet dragging, waving down the cheers of those around him as he does. Whatever was going on in his head, it was far beyond just being shy."
+
+    "With nobody else seemingly having noticed, all I can do is sit back puzzled in my seat and take a swig from the soft drink in front of me."
+
+    play music music_grease fadein 1.0
+    $ persistent.song8 = True
+
+    "As the music starts up and the vocals kick in, it becomes obvious that the two are far from practiced at this. Their voices might not be bad, but they're horrendously out of key."
+
+    "Hisao's shyness is getting the better of him too, which only looks worse next to Yukio's confident demeanor."
+
+    "From the corner of my eye, I notice the guy to my left leaning forward, his face turning to mine."
+
+    show haru_basic at centersit with dissolve
+
+    "Named Haruhiko, though everyone calls him Haru, he's a follow classmate who also had the misfortune of being stuck on the first row of tables. While he may be quite gifted physically, being decently tall and strong, he's far from the sharpest tool in the shed."
+
+    "It matters little, though, as his endearing cheerful nature and eternal optimism cover for whatever shortcomings he may have."
+
+    show haru_smile at centersit with charamove
+    hide haru_basic at centersit
+
+    har "So, what's the over/under on the new guy?"
+
+    "I set the drink back on the table, my hand rubbing my neck as I lean back. I don't know what answers he's expecting, but I doubt I'll be able to give him any."
+
+    mk "You're asking me?"
+
+    show haru_serious at centersit with charamove
+    hide haru_smile at centersit
+
+    har "You're the one who invited him, you know."
+
+    mk "He paid for my lunch, so I felt like I owed him. That's all there is to it."
+
+    show haru_basic at centersit with charamove
+    hide haru_serious at centersit
+
+    "The corner of his mouth tugs upwards. Just a little."
+
+    har "You being honorable. There's a first."
+
+    mk "Prick."
+
+    mk "So do you know anything about him? All I know is that he's a nerd who gets bossed around by the shortie and the student council."
+
+    har "Heard he used to play soccer. Not half bad at it, either."
+
+    mk "Used to?"
+
+    show haru_serious at centersit with charamove
+    hide haru_basic at centersit
+
+    har "Somethin' wrong with this."
+
+    "Haru glances to the two at the front of the room, both of them being far too distracted with their attempts to make something resembling a decent song to pay us much heed. Satisfied that we're communicating in private, he jabs at his chest with his thumb a couple of times."
+
+    har "He had a heart attack. Real bad, too. Emi'd probably know more. Or the guy himself."
+
+    "He adds the last suggestion as an afterthought, though understandably so. Plenty in Yamaku have their bugbears about what's happened to them in the past, though I'd be damn hypocritical to complain about it."
+
+    mk "Come on, a heart attack? At that age?"
+
+    har "It happens."
+
+    "I expect him to admit that what he heard was some vague rumour or something, but he just shrugs and looks at me matter-of-factly."
+
+    "What would Hisao be, 17? 18? That's the kind of thing you hear taking out frail old folks. Natural causes, and all that. Now that I think of it, maybe that explains why he got puffed so easily back when I saw him at the track."
+
+    mk "Shit..."
+
+    show haru_sad at centersit with charamove
+    hide haru_serious at centersit
+
+    "It's kind of pathetic, but that's all the response I can muster as I lean back in my seat. Haru just lets out a dissatisfied sigh, equally put off by the idea."
+
+    hide haru_sad at centersit with dissolve
+
+    "Looking back at the duo finishing up their song at the front of the room, I can't help but see him in a new light."
+
+    stop music fadeout 2.0
+    stop ambient fadeout 2.0
+
+    window hide
+
+    scene black
+    with dissolve
 
     return

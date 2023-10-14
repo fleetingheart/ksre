@@ -9,6 +9,9 @@ transform show_lowres_fullscreen:
 
 image bg splash = image_fullpath("ui/splash.png")
 
+image bg city_karaokeint = image_fullpath("backgrounds/city_karaokeint.png")
+image bg school_gardens3 = image_fullpath("backgrounds/school_gardens3.png")
+
 image act1card = show_lowres_fullscreen(image_fullpath("ui/act1card.png"))
 image act1 = show_lowres_fullscreen(image_fullpath("ui/act1.png"))
 image neutral = show_lowres_fullscreen(image_fullpath("ui/neutral.png"))
@@ -22,6 +25,15 @@ define passingacthisao = ImageDissolve(show_lowres_fullscreen(image_fullpath("ui
 image kslogowords = image_fullpath("ui/kslogowords.png")
 image kslogoheart = image_fullpath("ui/kslogoheart.png")
 image solid_black = Solid("#000000")
+
+# sprites: Haru
+image haru_annoyed = show_lowres_fullscreen(image_fullpath("sprites/haru_annoyed.png"))
+image haru_basic = show_lowres_fullscreen(image_fullpath("sprites/haru_basic.png"))
+image haru_conehead = show_lowres_fullscreen(image_fullpath("sprites/haru_conehead.png"))
+image haru_sad = show_lowres_fullscreen(image_fullpath("sprites/haru_sad.png"))
+image haru_serious = show_lowres_fullscreen(image_fullpath("sprites/haru_serious.png"))
+image haru_smile = show_lowres_fullscreen(image_fullpath("sprites/haru_smile.png"))
+image haru_yo = show_lowres_fullscreen(image_fullpath("sprites/haru_yo.png"))
 
 # sprites: Hisao
 image hisao_blank = show_lowres_fullscreen(image_fullpath("sprites/hisao_blank.png"))

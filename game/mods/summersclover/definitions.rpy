@@ -80,3 +80,5 @@ init python:
     # images
     def image_fullpath(name):
         return "mods/summersclover/images/" + name
+
+define har = Character(_("Haru"), who_color="#f9eaa0")
