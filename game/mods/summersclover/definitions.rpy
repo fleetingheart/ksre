@@ -63,6 +63,9 @@ init python:
     tworighttsu = Position(xanchor=0.5, xpos=0.7, yanchor=0.45, ypos=0.5)
     leftoffmiyu = Position(xanchor=0.5, xpos=0.01, yanchor=0.17, ypos=0.5)
 
+    # animations
+    charachange = dissolve
+
     # music
     def audio_fullpath(name):
         return "mods/summersclover/audio/" + name
@@ -81,4 +84,11 @@ init python:
     def image_fullpath(name):
         return "mods/summersclover/images/" + name
 
-define har = Character(_("Haru"), who_color="#f9eaa0")
+define har = Character(_("Haru"),       who_color="#f9eaa0")
+define suz = Character(_("Suzu"),       who_color="#72adee")
+define yuk = Character(_("Yukio"),      who_color="#897cbf")
+define jun = Character(_("Dad"),        who_color="#eb243b")
+define mot = Character(_("Mrs Suzuki"), who_color="#ddddd3")
+define dad = Character(_("Mr Suzuki"),  who_color="#f1f1f1") 
+define tsu = Character(_("Tsubasa"),    who_color="#e94e77")
+define yam = Character(_("Yamada"),     who_color="#ff8d7c") 

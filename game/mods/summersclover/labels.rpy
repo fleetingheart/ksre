@@ -18,6 +18,7 @@ label summersclover_start:
     call summersclover_intro
     call summersclover_ch1
     call summersclover_ch2
+    call summersclover_ch3
 
     return
 

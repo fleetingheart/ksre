@@ -345,7 +345,6 @@ label summersclover_ch1:
 label summersclover_ch2:
     call summersclover_timeskip
 
-
     scene bg school_gardens3
     with dissolve
     $ renpy.music.set_volume(0.5, 1.5, channel="music")
@@ -588,6 +587,291 @@ label summersclover_ch2:
     stop music fadeout 2.0
     stop ambient fadeout 2.0
 
+    window hide
+
+    scene black
+    with dissolve
+
+
+label summersclover_ch3:
+    call summersclover_timeskip
+
+    scene bg school_library
+    with dissolve
+    $ renpy.music.set_volume(0.5, 1.5, channel="music")
+    play music music_happiness fadein 1.0
+    $ persistent.song9 = True
+
+    window show
+
+    "If I had to choose which room embodied the feeling of this school the most, it'd have to be the library."
+
+    "It looks normal, at a glance. Large, sure, but otherwise normal."
+
+    "It's only when you start walking through the aisles that you realise the odd little allowances for the students. Audiobooks, braille books, wider passages, and the like. Then there's the cane or two propped against the desks of reading students."
+
+    "There's also the old-fashioned stuffiness, too. Doesn't help that the literature club students are all quiet as mice, but it's something more than that. The furniture, staff, and general mustiness of the older books are all stifling."
+
+    show suzu_neutral at centersit
+    with dissolve
+
+    "My eyes eventually fall on the girl across the table from me. 'Unremarkable' would perhaps be the best description of how she appears, save for the bags under her eyes and brace on her knee. For Yamaku, though, that's doing pretty well."
+
+    "If I had to choose which pose embodied the personality of Suzu the most, it'd have to be her chin resting on her hand as her eyes lazily scan the manga magazine in front of her."
+
+    "The girl looks up, her eyes meeting my own. Her reaction, or lack thereof, is about what I'd expect."
+
+    show suzu_speak at centersit with charamove
+    hide suzu_neutral at centersit
+
+    suz "Staring is rude."
+
+    mk "I dunno how you put up with this place. Don't you have anything more exciting to do with yourself?"
+
+    show suzu_neutral at centersit with charamove
+    hide suzu_speak at centersit
+
+    "She sighs as I start to rock back and forth on my chair to occupy myself. With nobody else willing to brave the heat, the track club's been largely abandoned for the day. I can think of better things to do than throw myself around an empty track."
+
+    "Then again, the literature club sure makes a dull sight. The closest thing I can see to an actual club activity is half a dozen students sitting around a table quiet discussing some book or another."
+
+    mk "Why don't you join them?"
+
+    "Following my nod, she glances to her side and back with a minimum of effort, not even bothering to lift her head from her hand."
+
+    show suzu_surprised at centersit with charamove
+    hide suzu_neutral at centersit
+
+    suz "Because I'm busy reading this."
+
+    mk "Isn't literature club for discussing literature?"
+
+    show suzu_concerned at centersit with charamove
+    hide suzu_surprised at centersit
+
+    suz "Most of us just read whatever. As long as we're quiet and in the library, nobody really cares."
+
+    mk "So that's all you're gonna do? Read manga?"
+
+    "I was sincerely hoping she'd suggest something for us to do, or maybe even socialise, but she simply shrugs and goes back to reading. It's hard to say whether it's out of apathy or being too tired to do much more than this."
+
+    "Then again, I'd be more surprised if I could gauge her feelings. The kind way to describe her would be 'ambivalent', but after a year of being around her, I've settled on a diagnosis of 'possible lobotomy'. That air of quiet disapproval never seems to leave her."
+
+    "As she slowly turns the page and continues her reading, a familiar voice draws my attention to the end of the library."
+
+    "The tense voice of Ikezawa, hunched over on a beanbag in her usual little corner, isn't difficult to distinguish. Hisao sits on the floor beside her, a disarming smile on his face as he softly tries to chat."
+
+    "I can't quite pick out their conversation, but the fact that they're having one at all is pretty impressive."
+
+    "Suzu turns back around as I stop my gawking, her own interest apparently having been piqued."
+
+    show suzu_surprised at centersit with charamove
+    hide suzu_concerned at centersit
+
+    suz "She seems to like him."
+
+    mk "Yeah, they get on well."
+
+    "I might say that, but I have my misgivings. There's more than one story of when girls have tried getting close to her, only for things to go bad for all involved. How much of that is actually true or just gossip, I have no idea, but it's plainly obvious she has a lot of baggage."
+
+    "It might be rather hypocritical, but I don't have much want to get involved. With the way I am, it could only go badly."
+
+    #show hisao _invis at rightedge
+    #with None
+
+    "Hisao comes to his feet as their conversation apparently ends, returning from their sanctuary at the end of the library. As he walks by us, a couple of thick novels held to his side, I give a short whistle and motion for him to come over."
+
+    show suzu_surprised at twoleftsit with charamove
+    #hide suzu_concerned at twoleftsit
+    show suzu_concerned at twoleftsit with charamove
+    hide suzu_surprised at twoleftsit
+
+    show hisao_talk_small_u at right with moveinright
+
+    hi "Odd to see you here."
+
+    mk "Well aren't you quick on the uptake?"
+
+    mk "C'mon, take a seat. I need someone for company who has still some life left in them."
+
+    show hisao_talk_small_u at tworightsit with charachange
+
+    "Hisao obediently does so, taking a seat and plopping his books down in front of him. A couple of sci-fi novels, by the looks of them. Not terrible taste. An improvement over Suzu's girly stuff, anyway."
+
+    show suzu_surprised at twoleftsit with charamove
+    hide suzu_concerned at twoleftsit
+
+    "Suzu briefly takes her head from her chin to see the new face. I decide to seize the chance."
+
+    mk "Hisao, this is Suzu Suzuki."
+
+    show hisao_smile_u at tworightsit with charachange
+    hide hisao_talk_small_u at tworightsit
+
+    "He gives a warm greeting, to which Suzu simply gives a quiet nod, having reverted to her more shy self. He seems a little more sedate than the other friends from track club, so hopefully she'll open up to him a little more than them. Given time."
+
+    show hisao_talk_small_u at tworightsit with charachange
+    hide hisao_smile_u at tworightsit
+
+    hi "So you're into manga?"
+
+    show suzu_speak at twoleftsit with charamove
+    hide suzu_surprised at twoleftsit
+
+    suz "Are you?"
+
+    hi "A little. To be honest, I don't really follow any of the serialised stuff anymore."
+
+    suz "I see."
+
+    show hisao_disappoint_u at tworightsit with charachange
+    hide hisao_talk_small_u at tworightsit
+    show suzu_concerned at twoleftsit with charachange
+    hide suzu_speak at twoleftsit
+
+    "With Suzu leaving no opening for the conversation to continue, Hisao leans back from the table in disappointment and reaches for one of his books. It's a little sad to see things end this way, and I have told her not to be so antisocial."
+
+    show suzu_speak_close at twoleftsit with charamove
+    hide suzu_concerned at twoleftsit
+
+    "Frustrated, I lean over the table, close my fist, and begin rubbing my knuckles into the top of her head."
+
+    #show suzu_speak_close at twoleftsit with charamove
+    with vpunch
+    #hide suzu_concerned at twoleftsit
+
+    suz "Ow. Ow. Ow."
+
+    show hisao_wtf_u at tworightsit with charachange
+    hide hisao_disappoint_u at tworightsit
+
+    hi "Uh, Miki..."
+
+    mk "What have I told you about being like that?"
+
+    "I'm not using much force at all, but her reaction's enough to make me back off rather quickly. The point's been made in any case."
+
+    show suzu_angry at twoleftsit with charamove
+    hide suzu_speak_close at twoleftsit
+    show hisao_talk_small_u at tworightsit with charachange
+    hide hisao_wtf_u at tworightsit
+
+    hi "So you're into shoujo, then?"
+
+    show suzu_embarrassed at twoleftsit with charachange
+    hide suzu_angry at twoleftsit
+
+    suz "Is that bad?"
+
+    hi "It's normal enough. Watch the shows?"
+
+    show suzu_normal at twoleftsit with charachange
+    hide suzu_embarrassed at twoleftsit
+
+    suz "Yeah. This one's getting an adaptation soon which I'll have to catch."
+
+    hi "Doesn't that stuff air pretty late?"
+
+    suz "My sleep schedule's all over the place anyway."
+
+    show hisao_heh_u at tworightsit with charachange
+    hide hisao_talk_small_u at tworightsit
+
+    "He's clearly resisting snark given how tired she visibly looks, but wisely thinks better of it."
+
+    mk "Didn't get much of that stuff on TV back where I came from."
+
+    mk "So you used to read it, Hisao?"
+
+    show hisao_erm_u at tworightsit with charachange
+    hide hisao_heh_u at tworightsit
+
+    hi "It was good for killing time while wandering town. Didn't spend much time at home."
+
+    show suzu_concerned at twoleftsit with charachange #why is this not showing up?
+    hide suzu_normal at twoleftsit
+
+    suz "Your parents didn't mind?"
+
+    hi "Both of them worked long hours, so not really."
+
+    "There's a gulf between their concepts of what parents would allow, but it's understandable. For someone as pampered as Suzu, being let to wander so much must be a pretty strange idea. I suppose Hisao's a bit like me in that regard."
+
+    mk "Well, at least someone's familiar with the scene. Had practically none of that stuff back home, so it's largely foreign to me."
+
+    mk "Speaking of people's homes... I see you were visiting Hanako's little corner. Tryin' to make inroads with her?"
+
+    show hisao_frown_u at tworightsit with charachange
+    hide hisao_erm_u at tworightsit
+
+    hi "'Trying' is the key word, there."
+
+    mk "Don't look so beaten. You can hold a conversation with her, right? That's more than anyone else in the class has managed so far."
+
+    hi "That's more to her friend's credit than mine."
+
+    mk "You really need to learn how to accept praise."
+
+    "My reply is a bit crabby, and admittedly not only because it's a bad habit. 'Hanako's friend' could only be referring to one person; the pretty blonde that she often meets after class. I'm a little jealous of him for getting so close to her so easily."
+
+    mk "You know, you say it's weird to see me here, but what about you?"
+
+    show hisao_smile_teeth_u at tworightsit with charachange
+    hide hisao_frown_u at tworightsit
+
+    hi "Reading's my main hobby."
+
+    mk "And running?"
+
+    show hisao_hmpf_u at tworightsit with charachange
+    hide hisao_smile_teeth_u at tworightsit
+
+    hi "That's... more like a sentence."
+
+    show suzu_grin at twoleftsit with charachange
+    hide suzu_concerned at twoleftsit
+
+    "It's only because we're in the library that I stifle a laugh. Suzu might try to hide it, but the flicker of a smirk flashes on her face as well. True bonding, though the misery of others."
+
+    show suzu_concerned at twoleftsit with charachange
+    hide suzu_grin at twoleftsit
+
+    mk "I guess you're all set for exams, then."
+
+    show hisao_talk_small_u at tworightsit with charachange
+    hide hisao_hmpf_u at tworightsit
+
+    hi "Why do you say that?"
+
+    mk "You're with Mutou all the time, you know. Guy's got high hopes. You get ridiculous marks for most of your subjects, too."
+
+    show hisao_biggrin_u at tworightsit with charachange
+    hide hisao_talk_small_u at tworightsit
+
+    hi "That's because I work for them."
+
+    "This guy catches on way, way too quickly. I might not pay attention in class, but he doesn't have to burn me like that. Suzu's attention is finally wrested from her reading material, looking genuinely impressed. As much as her stony face can, anyway."
+
+    mk "That's harsh, man."
+
+    suz "You're strongest in math and science, correct?"
+
+    show hisao_talk_small_u at tworightsit with charachange
+    hide hisao_biggrin_u at tworightsit
+
+    hi "Yeah."
+
+    suz "Could you look at something I couldn't get when we go back to class?"
+
+    show hisao_smile_u at tworightsit with charachange
+
+    hi "Sure, no problem. Doesn't hurt to work it all out before exams come up."
+
+    "Exams. I hate that word. The mood of the class has already begun to sour thanks to the anxiety and stress they cause, and it's only going to get worse in the weeks ahead."
+
+    "At least they're useful for something. If studying's going to be how she expands her social circle, then all the better. Given how hard she works for her rather average marks, maybe he can help turn things around."
+
+    stop music fadeout 2.0
     window hide
 
     scene black
