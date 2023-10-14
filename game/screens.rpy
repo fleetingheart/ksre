@@ -638,12 +638,13 @@ screen jukebox():
                 has vbox
 
                 for file, name in _tracks.items():
-                    if renpy.seen_audio(file) or config.developer:
-                        textbutton name action Play("music", file)
-                    else:
-                        null height 1
-                        image opacity("gui/button/locked-track.png")
-                        null height 1
+                    if not file.startswith("mods"):
+                        if renpy.seen_audio(file) or config.developer:
+                            textbutton name action Play("music", file)
+                        else:
+                            null height 1
+                            image opacity("gui/button/locked-track.png")
+                            null height 1
 
             null width 4
 

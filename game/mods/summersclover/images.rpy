@@ -2,10 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-init python:
-    def image_fullpath(name):
-        return "mods/summersclover/images/" + name
-
+# the less we use this, the better
 transform show_lowres_fullscreen:
     xysize (1920, 1080)
     fit "contain"
@@ -25,8 +22,8 @@ define passingacthisao = ImageDissolve(show_lowres_fullscreen(image_fullpath("ui
 image kslogowords = image_fullpath("ui/kslogowords.png")
 image kslogoheart = image_fullpath("ui/kslogoheart.png")
 image solid_black = Solid("#000000")
-define passingoftime = ImageDissolve(Composite((1920, 1080), (0, 0), image_fullpath("ui/tr-clockwipe.png")), 2.0)
 
+# sprites: Hisao
 image hisao_blank = show_lowres_fullscreen(image_fullpath("sprites/hisao_blank.png"))
 image hisao_erm = show_lowres_fullscreen(image_fullpath("sprites/hisao_erm.png"))
 image hisao_erm_u = show_lowres_fullscreen(image_fullpath("sprites/hisao_erm_uniform.png"))

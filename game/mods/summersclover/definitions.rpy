@@ -62,3 +62,21 @@ init python:
     rightedgetsu = Position(xanchor=0.5, xpos=0.92, yanchor=0.45, ypos=0.5)
     tworighttsu = Position(xanchor=0.5, xpos=0.7, yanchor=0.45, ypos=0.5)
     leftoffmiyu = Position(xanchor=0.5, xpos=0.01, yanchor=0.17, ypos=0.5)
+
+    # music
+    def audio_fullpath(name):
+        return "mods/summersclover/audio/" + name
+
+    def sc_music(filename, alias):
+        fullpath = audio_fullpath("ost/" + filename + ".ogg")
+        setattr(store, "music_" + alias, fullpath)
+        store._tracks[fullpath] = filename.replace("_", " ")
+
+    sc_music("Autumn", "suzu")
+    sc_music("Carefree_Days", "miki")
+    sc_music("Hit_Me_With_Your_Best_Shot", "best_shot")
+    sc_music("Summer_Nights", "grease")
+
+    # images
+    def image_fullpath(name):
+        return "mods/summersclover/images/" + name
