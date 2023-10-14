@@ -64,6 +64,21 @@ init python:
     leftoffmiyu = Position(xanchor=0.5, xpos=0.01, yanchor=0.17, ypos=0.5)
 
     # animations
+    define.move_transitions("charamove", 1.0, _ease_time_warp, _ease_in_time_warp, _ease_out_time_warp)
+    define.move_transitions("charamovefast", 0.5, _ease_time_warp, _ease_in_time_warp, _ease_out_time_warp)
+    define.move_transitions('charamoveslow', 2.0, _ease_time_warp, _ease_in_time_warp, _ease_out_time_warp)
+    def Dissolvemove(time, time_warp=_ease_time_warp):
+        top = Dissolve(time)
+        before = MoveTransition(time, factory=MoveFactory(time_warp=time_warp), old=True)
+        after = MoveTransition(time, factory=MoveFactory(time_warp=time_warp))
+        return ComposeTransition(top, before=before, after=after)
+
+    dissolvecharamoveslowish = Dissolvemove(2.0)
+    dissolvecharamove = Dissolvemove(1.0)
+    dissolvecharamoveslow = Dissolvemove(3.0)
+    dissolvecharamovefast = Dissolvemove(0.75)
+    dissolvecharamovereallyfast = Dissolvemove(0.15)
+
     charachange = dissolve
 
     # music

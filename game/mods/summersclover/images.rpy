@@ -11,6 +11,7 @@ image bg splash = image_fullpath("ui/splash.png")
 
 image bg cake = image_fullpath("backgrounds/kurisumasu_keiki.png")
 image bg city_karaokeint = image_fullpath("backgrounds/city_karaokeint.png")
+image bg dormsuzu = image_fullpath("backgrounds/dormsuzu.png")
 image bg school_gardens3 = image_fullpath("backgrounds/school_gardens3.png")
 image bg suburb_shanghaiext_ss = image_fullpath("backgrounds/suburb_shanghaiext_ss.png")
 
@@ -27,6 +28,9 @@ define passingacthisao = ImageDissolve(show_lowres_fullscreen(image_fullpath("ui
 image kslogowords = image_fullpath("ui/kslogowords.png")
 image kslogoheart = image_fullpath("ui/kslogoheart.png")
 image solid_black = Solid("#000000")
+
+# CGs
+image hatsune = image_fullpath("cgs/hatsune.png")
 
 # sprites: Aoi
 image aoi_smile = show_lowres_fullscreen(image_fullpath("sprites/aoi_smile.png"))

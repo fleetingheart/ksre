@@ -1318,4 +1318,810 @@ label summersclover_ch4:
     scene black
     with dissolve
 
+
+label summersclover_ch5:
+    call summersclover_timeskip
+
+    scene bg school_scienceroom
+    #with shorttimeskip
+    play music music_normal fadein 1.0
+    $ persistent.song12 = True
+
+    window show
+
+    "Walking into class, my gaze immediately falls to Suzu's desk. Each and every morning she enters class long before I do, and though I might have hoped to catch her out, today is no different than any other."
+
+    "It's one of life's small wonders; I never did understand how someone in a perpetual state of sleep deficiency manages to get here on time every day. Well, it's not that I don't understand how, so much as why."
+
+    "I suppose it's a lie to say that nothing at all is different, though. Her head may be resting in her hand as it always is, but rather than looking out the window, her eyes are on the guy casually speaking with her in front of her desk."
+
+    "Suzu and Hisao took to each other surprisingly quickly. She doesn't seem particularly interested in actually conversing, but just giving him the time of day is more than she gives the other guys in the track and field club. 'Boorish', she calls them."
+
+    "Which isn't wrong, really."
+
+    mk "Yo."
+
+    show hisao_talk_big_u at twoleft #make a surprised face for Hisao
+    show suzu_surprised at tworight
+    with charaenter
+
+    "The two of them react in unison to the sound of my voice, Hisao turning his body towards me as Suzu moves little more than her eyes. Their normal morning greetings come to a halt almost as soon as they begin."
+
+    hide suzu_surprised
+
+    show hisao_erm_u at twoleft
+    hide hisao_talk_big_u at twoleft
+    show suzu_neutral at tworight
+    hide suzu_surprised at tworight
+    with charachange
+
+    "Suzu just sighs as Hisao's face, as it so often does, turns to mild concern."
+
+    hi "Are you... okay?"
+
+    mk "Huh?"
+
+    "He motions to his left cheek, my own fingers mirroring his out of reflex. It takes me a second to realize what he's referring to. I haven't looked in the mirror, but there'd no doubt be a nice big bruise there right about now."
+
+    mk "Haha, this? I kinda got a bit rough with another club guy. We're cool, don't worry."
+
+    show suzu_surprised at tworight with charachange
+    hide suzu_neutral at tworight
+
+    suz "Again?"
+
+    hi "...This happens often?"
+
+    show suzu_speak at tworight with charamove
+    hide suzu_surprised
+
+    suz "You have no idea."
+
+    show suzu_concerned at tworight with charachange
+    hide suzu_speak at tworight
+
+    "I disarm him with a stupid grin as I scratch the back on my neck."
+
+    hi "Both of you seem rather accident-prone."
+
+    hi "Then again, maybe accident isn't the right term to use for you."
+
+    play sound sfx_clap
+
+    "The loud clapping of hands behind me would make me jump if it were less obvious who said hands belonged to. As Mutou clears his throat and tries to shepherd the gossiping class into their seats, Hisao obediently takes his leave of us and I turn to take my seat."
+
+    hide suzu_concerned
+    hide hisao_erm_u
+    with charaexit
+
+    "The fact he's addressing the class rather than me is cause for a mental sigh of relief. He wouldn't take kindly to casual talk of a scrap between students, and his classroom lectures are boring enough without being subjected to another on the subject."
+
+    show muto irritated with charaenter
+
+    mu "Oh, and Miura? I'll see you after class."
+
+    "Damn it."
+
+    stop music fadeout 2.0
+
+    scene bg school_gate
+    #with shorttimeskip
+    show suzu_neutral at twoleft
+    show hisao_erm_u at tworight
+    with shorttimeskip
+    play music music_tranquil fadein 1.0
+
+    "Jogging past the school gates, Suzu and Hisao can be seen patiently waiting for me. By now the main throng of leaving students has passed, reduced to little more than the occasional person or two."
+
+    show suzu_speak at twoleft with charamove
+    hide suzu_neutral at twoleft
+
+    suz "Have fun?"
+
+    mk "Detention on Monday. What a pain in the ass."
+
+    show hisao_talk_small_u at tworight with charachange
+    hide hisao_erm_u at tworight
+
+    hi "At least it's Saturday, right? You've got a stay of execution for a couple of days."
+
+    mk "Whatever. Let's just get lunch."
+
+    suz "Shanghai?"
+
+    mk "Yeah. You okay with that, Hisao?"
+
+    hi "Sounds good."
+
+    "The decision made, we set off down the hill for the local town."
+
+    scene bg school_road
+    with locationchange
+    show suzu_concerned at twoleft with charaenter
+    hide suzu_speak at twoleft
+    show hisao_erm_u at tworight with charaenter
+    hide hisao_talk_small_u at tworight
+
+    "I like this time of year. The weather, hot with decent but not overbearing humidity, reminds me of home. It also means being able to wear summer outfits, which are far more comfortable than winter clothing."
+
+    "It's hard to tell if Suzu's fidgeting is because she's uncomfortable around Hisao, or just because she hates the heat. She's a winter kind of person after all, in every way."
+
+    "Even Hisao, the rookie, looks more casual than she does. That said, he has the undeniable air of a tourist about him; eyes flitting about, pace just slightly slower than what looks natural, head turning this way and that."
+
+    mk "Where you come from, anyway? You aren't a local, that's for sure."
+
+    show hisao_talk_small_u at tworight with charachange
+    hide hisao_erm_u at tworight
+
+    hi "The city. The quiet of places like this is a big difference."
+
+    mk "Hah, a city boy. Should've known."
+
+    hi "I take it you're from somewhere else, then?"
+
+    show suzu_speak at twoleft with charachange
+    hide suzu_concerned at twoleft
+
+    suz "She's a hick from up North."
+
+    mk "Hey."
+
+    show suzu_grin at twoleft with charachange
+    hide suzu_speak at twoleft
+
+    suz "Well, aren't you?"
+
+    show hisao_heh_u at tworight with charachange
+    hide hisao_talk_small_u at tworight
+
+    "I don't want to let her get away with it, but from the interested face Hisao's making, she's already won this."
+
+    mk "We can't all be dainty spoiled princesses..."
+
+    show hisao_disappoint_u at tworight with charachange
+    hide hisao_heh_u at tworight
+
+    hi "You make it sound like you're from out in the sticks or something."
+
+    mk "I am, dude. Tell you what, the first time wandering around the city near here was a big culture shock."
+
+    show hisao_wtf_u at tworight with charachange
+    hide hisao_disappoint_u at tworight
+    show suzu_surprised at twoleft with charamove
+    hide suzu_grin at twoleft
+
+    "His reaction is kind of charming. He has no idea at all what a country life is like, no doubt desperately mining his brain for any images that he can muster."
+
+    "Not that Suzu's any different. I don't really care to explain it to either of them; it's not something I take particular pride in, and bringing her there to visit would only cause problems."
+
+    mk "Oh yeah, I noticed you chatting with the guys in the track club yesterday. You ever going to actually join, or what?"
+
+    show hisao_erm_u at tworight with charachange
+    hide hisao_wtf_u at tworight
+
+    hi "Do I have to? I don't remember it being compulsory."
+
+    mk "That's not what I'm asking! Urgh."
+
+    show hisao_smile_teeth_u at tworight with charachange
+    hide hisao_erm_u at tworight
+
+    hi "Maybe I should just join the literature club and wash my hands of the whole thing."
+
+    show suzu_grin at twoleft with charamove
+    hide suzu_surprised at twoleft
+
+    suz "Yes, do that. The school hardly needs another jock running about."
+
+    mk "Oi, doesn't that make me a jock?"
+
+    show hisao_biggrin_u at tworight with charachange
+    hide hisao_smile_teeth_u at tworight
+
+    hi "To be fair..."
+
+    with vpunch
+    show hisao_talk_big_u at tworight with charachange
+    hide hisao_biggrin_u at tworight
+
+    "I clap the boy over the head, drawing protests from him. The last thing I need is another Suzu on my case."
+
+    show suzu_normal at twoleft with charachange
+    hide suzu_grin at twoleft
+
+    suz "So violent."
+
+    show hisao_smile_teeth_u at tworight with charachange
+    hide hisao_talk_big_u at tworight
+
+    hi "Very violent."
+
+    "I'm beginning to think I've created a monster by bringing these two together."
+
+    stop music fadeout 2.0
+
+    scene bg suburb_shanghaiext
+    with locationchange
+
+    "By the time we reach the Shanghai, I feel like I've run through a gauntlet with the both of them pecking away. Suzu throws the odd snark while alone, but she and Hisao egg each other on."
+
+    "I don't really hate it, though. It's maybe even a little cute."
+
+    play sound sfx_storebell
+
+    scene bg suburb_shanghaiint
+    with locationchange
+
+    "The bell above the door gives its trademark rattle as we file in, the waitress's hurried shuffling towards us no less familiar. Look like the place is mostly empty, save for a handful of other patrons."
+
+    "Maybe it's a good thing; if such a place can stay open for this many years and not shut down from the lack of customers, at least the staff aren't going to be too stressed. They keep their jobs, and the town keeps its little odd cafe."
+
+    show yuukoshang happy_down at center with dissolve
+    show yuukoshang happy_down at centersitlow with charamovefast
+    show yuukoshang happy_down at center with charamovefast
+
+    "When she reaches us, the waitress throws her upper body down in a sharp bow. Hisao flinches from how close she comes to head butting him."
+
+    yu "Welcome to the Shanghai! Please take a seat."
+
+    hide yuukoshang with dissolve
+    show suzu_neutral at twoleft
+    show hisao_erm_u at tworight
+    with dissolve
+    show suzu_neutral at twoleftsit with charamove
+    show hisao_erm_u at tworightsit with charamove
+    #looks better if they don't sit at the same time -Niji
+    play music music_daily fadein 1.0
+    $ persistent.song21 = True
+
+    "I give a weak smile as we go, picking an empty window-side table from amongst the many. Suzu shuffles into her seat and I slide in next to her, Hisao being relegated to the other side."
+
+    mk "You've been here a few times now, right? You like it?"
+
+    hi "The fact that Yuuko's here still weirds me out a bit..."
+
+    mk "Haha, yeah. Lots of people say that. She's pretty at least, right?"
+
+    hi "Guess so."
+
+    mk "You gotta loosen up, man. You're a teenage guy, nobody's gonna believe that you don't have an eye for the ladies."
+
+    hi "How should I answer, then?"
+
+    mk "I dunno. 'I like her tits', 'she's got nice thighs'. Whatever."
+
+    show hisao_wtf_u at tworightsit with charachange
+    hide hisao_erm_u at tworightsit
+
+    hi "...Is Yuuko looking at us?"
+
+    show suzu_veryembarrassed at twoleftsit with charamove
+    hide suzu_neutral at twoleftsit
+
+    suz "No, thank God."
+
+    "I just smile at them. Looks like he's going to be just as easy to tease as Suzu is. Such prim and proper people, they are."
+
+    show hisao_erm_u at tworightsit with charachange
+    hide hisao_wtf_u at tworightsit
+    show suzu_concerned at twoleftsit with charachange
+    hide suzu_veryembarrassed at twoleftsit
+
+    "As they both recover from their fit of modesty, a more important matter comes to mind. I want to help him back on his feet, but if he's going to be around me for any length of time, he'll have to get used to Suzu as well. And vice-versa."
+
+    "I stare to my companion beside me, making her tilt her head."
+
+    mk "Wanna show him your party trick?"
+
+    show suzu_unhappy at twoleftsit with charachange
+    hide suzu_concerned at twoleftsit
+
+    "She pauses for a moment to work out what I'm referring to. By her increasingly hesitant face, she's got the right idea."
+
+    "After thinking on it for a good while, with Hisao's face curiously looking on, she comes to the conclusion I'd been hoping for."
+
+    show suzu_speak at twoleftsit with charachange
+    hide suzu_unhappy at twoleftsit
+
+    suz "If he's going to be hanging around, I guess we have to."
+
+    hi "Show me what?"
+
+    "I give him a disarming smile for a moment, before suddenly turning beside me."
+
+    stop music
+
+    mk "BOO!"
+
+    show suzu_surprised at twoleftsit with charamove
+    hide suzu_speak at twoleftsit
+
+    "All she does is raise an eyebrow. I have to admit I'm holding back a little; my mental block against possibly hurting her isn't that easy to get around."
+
+    suz "That isn't going to work if-"
+
+    #shake the screen here maybe? -Niji
+    show hisao_talk_big_u at tworightsit with charachange #and make hisao's and then Suzu's character jump up or something
+    hide hisao_erm_u at tworightsit
+    show hisao_talk_big_u at tworight with charamovefast
+    show hisao_talk_big_u at tworightsit with charamovefast
+    with vpunch
+    play sound sfx_doorslam
+
+    show suzu_speak at twoleftsit with charachange
+    hide suzu_surprised at twoleftsit
+    show suzu_speak at twoleft with charamovefast
+    show suzu_speak at twoleftsit with charamovefast
+
+
+    hi "ARGH!"
+
+    "Hisao leaping out of his seat and hitting his fists to the table as he shouts, albeit in a careful way given we're in public, has the intended effect. Suzu immediately jumps in fright, my own heart skipping a beat in sheer startlement."
+
+    show suzu_asleep at twoleftsitlow with charamove
+    hide suzu_speak at twoleftsit
+    play sound sfx_impact #with bang soundeffect
+
+    "With barely a second's delay, the life seemingly goes out of her. A sigh as the air from her lungs lazily passes her lips is all to be heard as her small body goes limp in her seat. Her head jerks downward as all control goes out of her neck, before her entire upper body falls forwards."
+
+    play music music_suzu
+    $ persistent.song13 = True
+
+    "With an audible thud, her forehead lands on the table without the slightest resistance. Her arms follow soon after, flopping haphazardly onto the surface. With the show over, the girl beside me now lies seemingly dead, save for the movement of her breathing."
+
+    show hisao_wtf_u at tworightsit with charachange
+    hide hisao_talk_big_u at tworightsit
+
+    "Hisao looks mortified, as if he himself had fired a bullet into her. Shock from the sudden nature of what happened, and extreme discomfort from a human moving and remaining limp in such an unnatural way, are written on his face."
+
+    "I have to admit, for all I may be trying to play it cool, it still puts me off a little. I've never truly gotten used to this."
+
+    hi "Is she... okay...?"
+
+    mk "She's fine. Welcome to cataplexy."
+
+    mk "Her muscles stop working when she gets shocked or has big emotions. It's like, bang, you end up a lifeless doll."
+
+    show hisao_talk_small_u at tworightsit with charachange
+    hide hisao_talk_big_u at tworightsit
+
+    hi "Part of her narcolepsy?"
+
+    mk "Yep. It ain't always just sleeping, unfortunately."
+
+    show hisao_disappoint_u at tworightsit with charachange
+    hide hisao_talk_big_u at tworightsit
+
+    hi "Cataplexy..."
+
+    stop music fadeout 3.0
+
+    "He says the word slowly and carefully, making sure he engraves it onto his mind. He gives the word a lot of weight in the way he says it, which is good to see."
+
+    play music music_dreamy fadein 3.0
+    $ persistent.song14 = True
+
+    show hisao_erm_u at tworightsit with charachange
+    hide hisao_disappoint_u at tworightsit
+
+    hi "Is it always like this?"
+
+    mk "Well, Suzu's case is.... not light, to put it one way. Usually it's just like, weak knees, or not being able to keep your head up."
+
+    "I feel bad for saying it so plainly, even if Suzu would've done just the same if she were able to right now. She got dealt a really shitty hand, and saying so just makes it feel all the more real."
+
+    show hisao_frown_u at tworightsit with charachange
+    hide hisao_erm_u at tworightsit
+
+    "He looks back to her for a moment, but doesn't last long before covering his face with his hands to try and recollect himself. I can't say I blame him."
+
+    hi "Sorry, this is just..."
+
+    mk "It's cool; I had the same reaction as you when I first saw it happen. Hell of a trick, eh?"
+
+    hi "Does she need to be snapped out of it somehow?"
+
+    mk "Give her a minute or two and she'll be right as ."
+
+    show suzu_sleepy at twoleftsitlow with charachange
+    hide suzu_asleep at twoleftsitlow
+    show suzu_concerned at twoleftsit with charamoveslow
+    hide suzu_sleepy at twoleftsitlow
+
+    "No sooner do I say this, than Suzu begins to stir. Groaning slightly, she manages to move her arms to more comfortable positions before ever so slowly levering herself off the table."
+
+    "With a bit of time to reorient herself and rub her eyes, she eventually comes back to the land of the living."
+
+    suz "Don't be sorry about how you reacted. I'm used to it."
+
+    hi "You heard everything?"
+
+    suz "My muscles give out, not my senses. Which can be a pain all on it's own."
+
+    show hisao_erm_u at tworightsit with charachange
+    hide hisao_frown_u at tworightsit
+
+    hi "How do you mean?"
+
+    suz "When I get an attack, people often think I've had a seizure, fallen asleep, or fainted. It's not fun to be aware of what people are doing to your body while trying to wake you up, but unable to say anything."
+
+    mk "And that's why it's handy to have someone around who knows all this when you get an attack."
+
+    hi "Makes sense. To be honest, I had no idea narcolepsy included something like that."
+
+    hi "How often does it happen, if you don't mind me asking?"
+
+    "She just shrugs."
+
+    show suzu_speak at twoleftsit with charachange
+    hide suzu_concerned at twoleftsit
+
+    suz "It varies."
+
+    "Something's off about her answer. Whenever I've asked her questions about anything, but especially her narcolepsy, she always gives the most specific response she can. Partly because I pressured her into it so I could keep track."
+
+    "Given she has no reason to be vague for his sake, it makes me concerned that her attacks are getting worse and she's trying not to tell me. It's the kind of terrible attempt at secrecy she'd try."
+
+    hi "I'm guessing this is how you got the knee brace?"
+
+    "A nod is her answer. Hisao's simpleminded curiosity is endearing, and Suzu dutifully doles out answers in her usual dull and encyclopedic manner. Talking about it in a generic way doesn't seem to bother her, at least as far as I can tell."
+
+    show suzu_normal at twoleftsit with charachange
+    hide suzu_speak at twoleftsit
+
+    "With this, Hisao's line of questioning appears to be at an end. His sits back and thinks for a little, the footsteps of Yuuko approaching our table eventually reaching our ears."
+
+    #move hisoa & suzu to right
+    #show hisao_erm at right with charamove
+    #show suzu_normal at centersit with charamove
+    show yuukoshang happy_down at left with moveinleft
+    #play music music_everyday_fantasy fadein 1.0
+
+    yu "What would you like today?"
+
+    show hisao_smile_u at tworightsit with charachange
+    hide hisao_erm_u at tworightsit
+
+    hi "Coffee and a slice of pie, thanks."
+
+    mk "Same as him."
+
+    suz "Just tea, please."
+
+    yu "No problem, coming right up!"
+
+    show yuukoshang happy_down at leftsit with charamovefast
+    show yuukoshang happy_down at left with charamovefast
+    hide yuukoshang with moveoutleft
+    #move suzu back left
+
+    "With her usual sharp bow, she scuttles off behind the counter. I still can't decide if the uniforms here are dorky or nice, but it suits her somehow. Not only because it shows off her nice legs, either. Her unusually chipper mood today makes her extra cute."
+
+    show hisao_disappoint_u at tworightsit with charachange
+    hide hisao_smile_u at tworightsit
+    show suzu_neutral at twoleftsit with charamove
+    hide suzu_normal at twoleftsit
+
+    "The three of us end up waiting in silence for our drinks. Suzu takes out her phone and begins tapping away at it, the screen held in front of her as she browses whatever site she's on now. Hisao just looks out the window, his expression showing him to be deep in thought."
+
+    "I kind of want to bug him so I can have a conversation partner, but I decide to leave him be. The boy has a lot to think about right now, after all."
+
+    "Looking around the cafe proves about as boring as expected. A few old people who came to this town to live out a quiet retirement sit at a few of the tables, and a handful students from Yamaku populate the others."
+    
+    "I think I recognise the back of the class rep's head over the other side of the cafe, but I can't be sure."
+
+    #move hisao and suzu right
+    show yuukoshang happy_up at left with moveinleft
+
+    "After what feels like forever, Yuuko emerges with three drinks and two pie slices on a platter. Suzu may live in her own world sometimes, but at least she's polite, putting down her phone as they're set down on the table in order to thank her."
+
+    show yuukoshang happy_down at left with charachange
+    play sound sfx_storebell
+    pause
+    hide yuukoshang with moveoutleft
+    #move suzu and hisao back
+
+    "The bell above the door rings out, with Yuuko giving the briefest of nods before quickly scooting off to the entering customers."
+
+    mk "The town's pretty nice, isn't it?"
+
+    show hisao_erm_u at tworightsit with charachange
+    hide hisao_disappoint_u at tworightsit
+
+    hi "Hmm? Oh, yeah, it is."
+
+    show suzu_normal at twoleftsit with charamove
+    hide suzu_neutral at twoleftsit
+
+    stop music fadeout 1.0
+
+    "Hisao's absentminded reply annoys me a little, but the tinkle of silverware on her teacup draws the attention of both Hisao and I. Suzu ladles teaspoon after teaspoon of sugar into her tea, only stopping after it becomes more a sweet dessert than a drink." #originally said tinker of silverware. Replaced with what I assume Suriko intended -Niji [str]
+
+    show hisao_declare_u at tworightsit with charachange
+    hide hisao_erm_u at tworightsit
+    play music music_rain fadein 1.0
+    $ persistent.song15 = True
+
+    "After staring at his coffee for a bit afterwards, Hisao lets out a long breath before speaking up."
+
+    hi "I wasn't going to mention this, but I probably should."
+
+    "He already has the attention of Suzu and I after speaking, but the both of us become a lot more curious after he moves his tie to the side and begins unbuttoning the top of his shirt."
+
+    "I briefly wonder how much of his chest I'm going to get to see, but he stops after undoing several of the topmost buttons. A shame; he looks like he'd have a nice chest on him."
+
+    "Pulling his collar aside, what he intends to show us becomes clear. The top of a vertical line chasing up the very center of his chest, depressed just slightly into his flesh and shaded a little darker than the surrounding skin."
+
+    show suzu_surprised at twoleftsit with charamove
+    hide suzu_normal at twoleftsit
+
+    suz "An operation?"
+
+    show hisao_disappoint_u at tworightsit with charachange
+    hide hisao_declare_u at tworightsit
+
+    hi "For my heart. A few months ago I had a heart attack caused by arrhythmia. The scar's from when they cracked my chest open for surgery."
+
+    "So what Haru said was true. I do my best to feign mild surprise, as the fact that I learned it before he was ready to do his show and tell makes me feel a little sheepish."
+
+    "Then again, the fact that there's such a visual indication of what he's been through is a real surprise. I always thought of heart attacks as something you don't really see, but his large scar is impossible to miss. It's jarring."
+
+    mk "That's... damn."
+
+    show hisao_heh_u at tworightsit with charachange
+    hide hisao_disappoint_u at tworightsit
+
+    "I feel a bit bad for opening my mouth but failing to find something to say. He gives a weak smile to excuse me for it, but I'd have honestly preferred him to be annoyed with me than make a face like that."
+
+    hi "There you have it. The reason I transferred to Yamaku, that is."
+
+    "Hisao buttons up his shirt and blows on his coffee before beginning to drink it, the fact that none of us really have anything more to say about his revelation becoming obvious. Suzu and I briefly look to each other before doing the same."
+
+    "The more I think about it, the more it makes sense. His inability to keep up with Emi at all on the track, constant resting, weirdness around joining in sports... Given his build, he was no couch potato before it happened."
+
+    "I have to admit that it was a smooth move to show us that right now; I can see the gears turning in Suzu's head. Opening himself up to us like that, especially just after Suzu showed her condition to him so vividly, will go a long way in earning her trust."
+
+    "He probably doesn't know it yet, but it looks like he'll be able to handle her just fine. Not many people can."
+
+    stop music fadeout 2.0
+
+    scene bg suburb_shanghaiint
+    show suzu_sleepy at twoleftsit
+    show hisao_erm_u at tworightsit
+    with shorttimeskip
+
+    "As I chow down the last of my pie, I notice a subtle movement from the corner of my eye. Turning to where it came from, I see Suzu's head beginning to slowly nod, her eyelids also having trouble staying up. She might be working to hide it, but the harder she tries, the more obvious it is."
+
+    "If she's already this bad, she's probably been fighting to stay lucid for a while. Silly girl."
+
+    mk "It's fine."
+
+    suz "Sorry."
+
+    "She looks annoyed, but only in the most routine of ways. It's far from the first time this has happened, after all."
+
+    show suzu_asleep at twoleftsitlow with charamoveslow
+    hide suzu_sleepy at twoleftsit
+
+    "The world drops from her consciousness as she lowers herself down to the table, this time in a much more careful way than the last. I dutifully take her empty cup of tea and place it a few inches away as her arms come to rest around her head."
+
+    "Hisao silently looks on, doing his best to appear nonplussed as he defers to my experience in dealing with her."
+
+    "And just like that, Suzu's gone."
+
+    mk "Whelp, she's out for the count."
+
+    hi "This is just sleep, right?"
+
+    mk "Yeah, just a nap. She's gonna be out for a while, most likely."
+
+    hi "Do we wait for her, or...?"
+
+    mk "Nah, I'll just carry her back."
+
+    show hisao_talk_small_u at tworightsit with charachange
+    hide hisao_erm_u at tworightsit
+
+    hi "You sure? I can do it if you want."
+
+    mk "Your chivalry is cute, but it's fine. There is something else you can do, though."
+
+    hi "Yeah?"
+
+    mk "Spot me the meal? Pretty please?"
+
+    hi "And why should I do that?"
+
+    mk "'Cause I'm cute."
+
+    show hisao_hmpf_u at tworightsit with charachange
+    hide hisao_talk_small_u at tworightsit
+
+    "He just grimaces. I knew I should've gone with 'hot' or 'sexy'."
+
+    show hisao_declare_u at tworightsit with charachange
+    hide hisao_hmpf_u at tworightwit
+
+    hi "Alright, I'll do it. That will work exactly once, understand?"
+
+    "Excellent. I wonder how many times I can get him to do that with various excuses."
+
+    "Acting fast before he can retract his offer, I smile and call Yuuko over. With the bill paid over Suzu's peacefully sleeping body, our little outing comes to an end."
+
+    scene bg school_road_ss
+    show hisao_erm_u
+    with shorttimeskip
+    play music music_tranquil fadein 1.0
+
+    "The trudge up the hill back up to Yamaku from town is a journey I've made countless times by now. I'm pretty sure I've lost count of the number of times I've made it while carrying a slumbering girl on my back, too."
+
+    "It's not much of a bother, to be honest. She's a light little thing, worryingly so at times, and it's good exercise for my upper body in any case."
+
+    "Hisao tries his best to look like this is a routine thing, but it's in vain. A one-handed girl walking up a hill with her sleeping friend on her back is just too odd a sight to ignore, at least in the beginning."
+
+    show hisao_talk_small_u with charachange
+    hide hisao_erm_u
+
+    hi "I've got no idea how you manage that."
+
+    mk "It ain't so bad. I've been working out since forever anyway."
+
+    "The thought of a girl being stronger than he is clearly dents his pride a little. That he's already breathing heavily while I'm not having much trouble at all just makes it worse."
+
+    "At least he has a fair excuse, given what he said back there."
+
+    hi "It's nice, though. You two must be really close."
+
+    mk "Why do you say that?"
+
+    hi "Suzu trusts you enough to be okay with you manhandling her, and you put yourself out to carry her around. You both seem to have a good handle on each other, too."
+
+    "I think to myself a bit about his words. I suppose it's reasonable for an observer to think that, but I wouldn't really way we're close at all. I struggle for a bit to put our relationship into words, as much for me as for him."
+
+    mk "It's... practical. Yeah, I think that's the best way to describe our relationship."
+
+    show hisao_erm_u with charachange
+    hide hisao_talk_small_u
+
+    hi "You fell into each other's orbit."
+
+    mk "Yeah, exactly. You're good with those word things."
+
+    "I'm happy with that description, and I think Suzu would be too, if she could hear it. Hisao, on the other hand, looks quite put off even if he did suggest it. He probably made the assumption just because we were both girls."
+
+    "It's not worth getting too attached at this point, anyway. She's going to get into some good university, just like Hisao is given his constant praise from Mutou. That path is closed for me. Things got a lot better when I stopped caring about that fact."
+
+    stop music fadeout 1.0
+
+    "But even now, as I carry her still body up the hill like this, I still feel the slightest bit comforted by her warmth."
+
+    scene bg school_girlsdormhall
+    with shorttimeskip
+
+    "Having parted and gone our separate ways, Hisao to the male dormitory building - after telling me his room number, in case I decide to visit - and the two of us to the female one, I find myself shuffling up the hallway to Suzu's room."
+
+    "It's the floor below my own, unfortunately; if we were neighbors, it'd be a lot more convenient."
+
+    "With my left arm holding up Suzu, I manage to retrieve the key to her room from my pocket after some fiddling. Her convincing the staff to let me get a copy of her dorm room key cut for situations like this was one of her better moves."
+
+    play sound sfx_dooropen
+
+    "A quick flick of the hand, and the lock opens with a satisfying click. Manoeuvring around the door as I open it, the familiar smell of her room hits me before the view does."
+
+    scene bg dormsuzu
+    with locationchange
+
+    "It's 'girly', for lack of a better word. I don't know exactly what makes up the scent, beyond probably nail polish remover and light perfume, but it's unmistakable and foreign nevertheless."
+
+    "Closing the door behind us and turning to the room ahead, I slowly navigate the way to her bed, taking care to manoeuvre around the multitude of papers, books, clothes, manga, magazines, and toys scattered around the floor."
+
+    "She has a desk, but that's largely dedicated to her big laptop, plus a few other toys around it."
+
+    "My room might be far from spotless, but at least you can see the floor. Then again, maybe that's just because I don't have the money to constantly buy things."
+
+    "Grunting a little, I turn around at the side of her bed and bend down at the knees, slowly lowering Suzu onto her bed. With the weight lifted from my shoulders, I turn back and set about organising the disheveled heap, moving her legs and arms around to whatever looks reasonably comfortable."
+
+    show suzu_asleep with dissolve
+    play music music_suzu
+
+    "My work done, I stand back up and admire my work. I can't help but smile at the absurdity of it all, even after all this time. A perfect little spoiled princess, neatly arranged with her plush toys all around her on the bed to keep her company."
+
+    "I reach down and brush a stray hair away from her closed eyes, my gaze lingering a little on her motionless face. It's almost painful how delicate she looks, like a china doll that could crumble any second."
+
+    "She really is a real life Sleeping Beauty."
+
+    "I shouldn't get so sentimental about it. Maybe it's because I've only ever hung around with guys that a girl who actually acts like one feels so strange. It could just be yearning for a side of me I've never had a chance to explore. Who knows."
+
+    hide suzu_asleep with dissolve
+
+    "Well, whatever. I turn and scratch the back of my head as I make to leave, trying to brush the thoughts from my head. It doesn't really matter what Hisao thinks about our relationship; I'm not the kind of person a girl like her should be around."
+
+    scene hatsune with dissolve
+
+    "I stop for a moment as I'm distracted by an actual doll on Suzu's shelf. An energetic-looking girl in bright clothes from some show she watched a while ago."
+
+    "She has a lot more at home, but only brought a handful to her dorm. She might call them figures rather than dolls, but I don't really get the difference."
+
+    "I poke at its head for something to do as I mull things over."
+
+    "We really are from two different worlds. For all I try, I can't think of a damn thing we have in common. I'm envious of so many things about her, from her innocence, to her family, to her wealth, but I've never bothered mentioning it."
+
+    "Some people pop out of the right set of legs, and others don't. Some people mess everything up, and others don't. That's life."
+
+    suz "Don't..."
+
+    scene bg dormsuzu
+    show suzu_sleepy
+    with dissolve
+
+    "Suzu's voice, little more than a faint and mumbled whisper, draws my attention to her as I obediently stop tweaking at her doll. It looks like she's awake, albeit only by the most generous definition."
+
+    "She rubs her eyes, but does little beyond stare at the ceiling. I've always thought it must be hard to constantly be waking up in different places than where you went to sleep, but she's never once complained about it."
+
+    mk "You okay?"
+
+    suz "I'm fine."
+
+    "No, she's not. Her voice has a slightly miffed edge to it, which she's too groggy to try and cover for."
+
+    "She's never worried about being a bother to me before. Not that I mind; being useful to at least one other person in the world is something I need. She's a total idiot socially, but I think even she managed to work that out for herself."
+
+    "That leaves the only other person that was with us."
+
+    "It's kind of cute, really, getting all rattled about her narcolepsy in front of a boy. I shouldn't smile, but it's hard to suppress. Having just transferred, it's unlikely Hisao would have a girlfriend right now, so she's in with a good chance."
+
+    mk "Don't feel bad about it. Hisao's pretty understanding."
+
+    show suzu_concerned with charachange
+    hide suzu_sleepy
+
+    suz "He's a total babe in the woods is what he is."
+
+    mk "Haha, you got that right. He's totally helpless right now."
+
+    mk "What do you think of the guy?"
+
+    show suzu_surprised with charamove
+    hide suzu_concerned
+
+    "She looks at me a moment trying to ascertain my intentions. That was an amazingly direct way to try and gauge her feelings towards him, after all."
+
+    show suzu_speak with charamove
+    hide suzu_surprised
+
+    suz "He's sensible. I don't mind him."
+
+    "Well done, Hisao. That's one of the highest compliments someone could ever hope for from her."
+
+    "She's not wrong, though. He might be a nerd, but he's comfortable dealing with the other club guys as friends. His sensitive side is enough to make Suzu lower her guard around him as well, which is someone none of those guys could ever do."
+
+    "Looks like I'm stuck with him, then. There aren't many that can overcome Suzu's distrust of others, and as far as friends go, I could do a lot worse than Hisao. Having someone around who doesn't know about my past means a lot less baggage to deal with, too."
+
+    suz "What are you smiling about?"
+
+    mk "Nothin'. Just take it easy for today, alright? And eat a snack or something; don't think I missed you skipping lunch."
+
+    show suzu_normal with charachange
+    hide suzu_speak
+
+    suz "Only if you promise to do your homework for once."
+
+    mk "Alright, alright, I will. See you tomorrow."
+
+    suz "See you."
+
+    "With that, I give her a parting wave before leaving the room and its girly smell."
+
+    scene bg school_girlsdormhall
+    with locationchange
+    stop music fadeout 1.0
+    play sound sfx_doorclose
+
+    "Entering the hallway and carefully closing her door behind me, all I can do is rest my back against it as I close my eyes and sigh. Looks like the last few months of my time here won't be as simple as I expected."
+
+    window hide
+
+    scene black
+    with dissolve
+
     return
