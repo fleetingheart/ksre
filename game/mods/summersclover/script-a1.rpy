@@ -877,4 +877,445 @@ label summersclover_ch3:
     scene black
     with dissolve
 
+
+label summersclover_ch4:
+    call summersclover_timeskip
+
+    scene bg school_cafeteria
+    #with shorttimeskip
+    $ renpy.music.set_volume(0.5, 1.5, channel="music")
+    play music music_ease fadein 1.0
+    $ persistent.song10 = True
+    $ renpy.music.set_volume(0.5, .5, channel="ambient")
+    play ambient sfx_crowd_indoors fadein 0.5
+
+    window show
+
+    "I've always found the cafeteria to be a fun place to watch people."
+
+    "Deftly manoeuvring through the rapidly filling room after being among the first to have their tray filled by the old ladies behind the counter, I can't help but glance around at the other students on my way to a free table."
+
+    "By rights, the cafeteria should be a melting pot. Students from every club, class, condition, and year level are here, and with everyone in their uniforms, the differences between rich and poor, country and city, fashionable and unfashionable, fades to nothing."
+
+    "But, people being people, they still find a way to stick to their cliques. The track club members form a clump as they playfully jostle one another, as do a bunch of the deaf students, huddling together in their impenetrable little social circle while signing in their silent second language."
+
+    "There are the gaggles of popular girls with their posses, and the odd trio of less popular girls who stick to their few friends. The rowdy class clowns who loudly joke and act out, and the softly-spoke academics who keep to themselves while shuffling along."
+
+    "Everyone has their niche, even if that niche consists of only one."
+
+    "Setting down my tray at an empty table, I separate the disposable chopsticks using the tips of my fingers as always. Strength comes in surprisingly useful when you largely rely on one hand for manipulation, with the two conjoined sticks easily splitting apart."
+
+    "While I'd hesitate to say it's great, the food here is still pretty good. Filling, and by far satisfying enough to live on for quite a while. Can't complain about the price, either."
+
+    show suzu_neutral at centersit with dissolve
+
+    "It doesn't take long for company to arrive after I've started eating, a familiar figure silently seating herself across the table from me."
+
+    "Suzu simply begins to eat without a word. Such things aren't unusual with her, so I simply look down and continue with my own lunch."
+
+    "As I shovel rice into my mouth, I find myself especially pleased with how they've cooked it today. Not too dry, not too sticky. Ditching the chopsticks and gulping down some soup, it turns out that they've done a good job on that too."
+
+    "Whether Suzu's enjoying her lunch as much as I is, as always, a mystery."
+
+    "Looking past her, two of the three stooges come into sight. With my hand taken, I end up waving my stump around in the air to get their attention. It does the job, with the duo changing course and heading our way."
+
+    #show suzu_concerned at leftoffsit with charamove
+    show haru_yo at right
+    with moveinright
+
+    har "'Afternoon Miki, Suzuki."
+
+    show haru_yo at leftoff with charamove
+    show haru_basic at leftoff with charamove
+    show hisao_smile_u at rightedge with moveinright
+    show hisao_smile_u at rightedgesit with charamove
+
+    "Suzu pauses her eating to nod to the both of them, as do I. Hisao moves around to take a seat beside me with his juice and a packet of bread, while Haru manoeuvres himself to the end of the table holding a suspicious plain cardboard box with equally suspicious care."
+
+    mk "What's with that?"
+
+    show hisao_heh_u at rightedgesit with charachange
+    hide hisao_smile_u at rightedgesit
+    show haru_smile at leftoff with charamove
+    hide haru_basic at leftoff
+
+    "Hisao just shrugs as I lean over and ask him. Haru just gleams a smile in response, setting down the mystery box and lifting the top off with practiced ease."
+
+    scene bg cake with dissolve
+
+    "As the sides fall away, a gorgeous looking red and white sponge cake is revealed. A thick layer of cream separates the two layers of sponge, and another sits atop the cake. Big, succulent strawberries circle the outer rim, each sitting on its own further blob of cream. "
+    "Finally, a light dusting of frosting covers the cake, like a thin shower of snow."
+
+    "It's... beautiful. As expected of Haru."
+
+    scene bg school_cafeteria with dissolve
+
+    show hisao_smile_teeth_u at rightedgesit
+    show suzu_grin at centersit
+    show haru_smile at leftoff
+    with dissolve
+
+    hi "You're drooling."
+
+    mk "Don't care, gimme that thing."
+
+    "He might be criticizing me, but Suzu's attention is just as focused. Her sweet tooth is getting the better of her as the cafeteria food before her languishes."
+
+    show haru_serious at leftoff with charamove
+    hide haru_smile at leftoff
+
+    har "Right, right, just hold on a moment."
+
+    "He takes the plastic knife cunningly carried inside the box, and sets about cutting a few slices. Looks like the cake's already had a good third eaten."
+
+    mk "So what's the story?"
+
+    show hisao_talk_small_u at rightedgesit with charachange
+    hide hisao_smile_teeth_u at rightedgesit
+
+    hi "Who's?"
+
+    mk "Let's start with the cake."
+
+    show haru_basic at leftoff with charamove
+    hide haru_serious at leftoff
+
+    har "Made too much during home ec class. The teacher doesn't mind me baking my own stuff there as long as she gets some."
+
+    hi "So you're into baking?"
+
+    har "Sure am. Might not have many talents, but I'm good at the ones I have."
+
+    "As he gets back to cutting it up, I look around for an answer to the second question on my mind; where the third stooge has gotten himself to."
+
+    "As my eyes fall on him, I can't help but give a weak grin. Suzu notices my staring and twists her head around to see, but turns back to the cake in short measure."
+
+    show suzu_concerned at centersit with charachange
+    hide suzu_grin at centersit
+
+    scene black with dissolve
+    scene bg school_cafeteria
+
+    #put in some girl sprites for Yukioto talk to
+    show yukio_smile
+    show aoi_smile at twoleft
+    show saki at tworight
+
+    "Sure enough, he's standing around chatting up a couple of girls. I might not see the appeal in his appearance, but I can admit that he pulls off an air of confidence well, even without hearing what he's saying."
+    "Going by the bashful smile of the long-haired girl as she toys with her hair, and the other's excited chatting, he's making good progress with both."
+
+    scene black with dissolve
+    scene bg school_cafeteria
+
+    #some kind of fade again
+    #hide yukio_smile
+    show hisao_talk_small_u at rightedgesit
+    show suzu_neutral at centersit
+    show haru_basic at leftoff
+    with dissolve
+
+    hi "Is he always like that? I swear he was with a couple of other girls last week."
+
+    mk "Believe me, you have no idea."
+
+    "Some people bake, some run, some study, and some pick up women."
+
+    scene black with dissolve
+    scene bg school_cafeteria
+
+    #fade again and add girls
+    #hide hisao_talk_small
+    show yukio_huh
+    show aoi_smile at twoleft
+    show saki at tworight
+
+    "As if he'd heard me, Yukio looks up from his companions to see Hisao and I staring. Sensing an escape, he nods to us and seemingly explains that he wants to come our way."
+
+    #make a sad/worried saki maybe in previous shots flip eyes to look at yukio, and in this keep eyes like they were but flip mouth to make frown
+    show aoi_surprised at twoleft with charachange
+    hide aoi_smile at twoleft
+    show saki_frown at tworight with charachange
+    hide saki at tworight
+
+    "The girl with longer hair is about to follow him over before her friend stops her, gesturing at me while frowning. It's hard to be hurt by something you deserve, and as they both quickly decide to walk off, I can take solace in that at least my reputation's helped Yukio."
+
+    hide aoi_surprised with easeoutright
+    hide saki_frown with easeoutright
+
+
+    scene black with dissolve
+    scene bg school_cafeteria
+
+
+    #fade again and also find out of to move everyone a bit so 4 people can be onscreen
+    show suzu_concerned at onerightsit
+    show haru_basic at oneleftsit
+    show hisao_erm_u at rightedgesit
+    with dissolve
+    show yukio_smile at leftoff
+    with moveinleft
+
+    yuk "And how are we today, ladies and gents?"
+
+    hi "Good."
+
+    har "Good."
+
+    mk "Good."
+
+    suz "Good."
+
+    show yukio_notimpressed at leftoff with charachange
+
+    yuk "Don't be too enthusiastic, now."
+
+    show haru_basic at leftoffsit with charamove
+    hide yukio_notimpressed at leftoff
+    show yukio_smile at oneleftsit with charamove
+    show suzu_unhappy at onerightsit with charachange
+    hide suzu_concerned at onerightsit
+
+    "He takes a seat beside Suzu, giving her a brief disarming smile as he does. She visibly wilts, despite doing her best to avoid doing so."
+
+    show haru_serious at leftoffsit with charamove
+
+    "Haru looks back to the cake, but frowns as he begins to cut another slice."
+
+    har "Hmm. We'll have one more slice than we have people. Should've worked that out first."
+
+    mk "Dibs on the double portion."
+
+    show haru_annoyed at leftoffsit with charamove
+    hide haru_serious at leftoffsit
+
+    har "Piss off. Suzuki gets double."
+
+    show suzu_embarrassed at onerightsit with charachange
+    hide suzu_unhappy at onerightsit
+
+    suz "Uh... thank you."
+
+    mk "Hold on, what's the criteria here? Is it because she's a girl?"
+
+    show haru_basic at leftoffsit with charamove
+    hide haru_annoyed at leftoffsit
+
+    har "A polite young girl, yes."
+
+    mk "What about me? I'm a girl too."
+
+    stop music fadeout 0.5
+    play music music_tension fadein 0.5
+    $ persistent.song11 = True
+
+    show yukio_notimpressed at oneleftsit with charachange
+    hide yukio_smile at oneleftsit
+
+    yuk "Only when it suits you."
+
+    "I get up out of my chair to get some height over him, which he responds to in kind."
+
+    #get yukio closer/bigger somehow?
+    hide yukio_notimpressed at oneleftsit
+    show yukio_huh at oneleft with charachange
+
+    mk "Oh yeah? How about you try having periods?"
+
+    show yukio_angry at oneleft with charachange
+    hide yukio_huh at oneleft
+
+    yuk "Piss off, we have to-{w=.5}{nw}"
+
+    mk "Look at me, I'm a man, oh no I have to shave my face, I have dreams that give me orgasms, how terrible~!"
+
+    yuk "Well maybe you'd be treated like a girl if you actually acted like one!"
+
+    mk "Huh? What's that? I can't hear you over bleeding from my genitals and feeling like I've been sucker-punched in the gut once a month!"
+
+    yuk "You're making my point for me! If you didn't go on about your bloody periods while we're eating, we'd-!{w=.95}{nw}"
+
+    mk "Maybe I'd act more like a girl once I got free crap for being one!"
+
+    show hisao_frown_u at rightedgesit with charachange
+    hide hisao_erm_u at rightedgesit
+    show suzu_concerned at onerightsit with charachange
+    hide suzu_embarrassed at onerightsit
+    show haru_sad at leftoffsit with charamove
+    hide haru_basic at leftoffsit
+
+    hi "Miki, Yukio, please..."
+
+    "Hisao looks to Suzu for help as we snarl at each other, but all she's doing is burying her face in her palm and trying not to exist."
+
+    stop music fadeout 0.5
+    stop ambient fadeout 0.5
+
+    #shrink yukio back down
+
+    "I want to thump Yukio for being an ass, but in contrast to the busy hum of students of before, the sudden silence around us reminds me that we're in the cafeteria."
+
+    #hide yukio_angry at oneleft
+    show yukio_angry at oneleftsit with charachange
+
+    "Submitting to Hisao's begging, we both fall back into our seats, neither of us admitting that the argument is over."
+
+    show haru_basic at leftoffsit with charamove
+    hide haru_sad at leftoffsit
+    show suzu_embarrassed at onerightsit with charachange
+    hide suzu_concerned at onerightsit
+
+    play ambient sfx_crowd_indoors fadein 1.0
+
+    "As if the altercation had never happened, Haru passes the extra slice to Suzu, earning a shy nod of thanks. It only serves to make Yukio all the more pissed for some reason, but before I can step in to defuse the situation, Hisao does the job for me."
+
+    show hisao_talk_small_u at rightedgesit with charachange
+    hide hisao_frown_u at rightedgesit
+
+    hi "What brings you here anyway, Yukio?"
+
+    show yukio_notimpressed at oneleftsit with charachange
+    hide yukio_angry ay oneleftsit
+    play music music_ease fadein 1.5
+
+    yuk "Oh, it's a woeful tale. A terrible curse has struck me yet again. Day after day this happens, and only so rarely can I find refuge from its grip."
+
+    "He's totally making an ordeal out of it, clutching at his chest and emoting as hard as he can. Even if it's for an audience of one, he still likes to play the orator. It's a shame he stopped acting, really."
+
+    yuk "I'm just... too popular."
+
+    show hisao_erm_u at rightedgesit with charachange
+    hide hisao_talk_small_u at rightedgesit
+
+    hi "What."
+
+    yuk "Girls just fall over themselves for me. It's been like this ever since high school started, and if anything it's only become worse."
+
+    show yukio_blush at oneleftsit with charachange
+    hide yukio_notimpressed at oneleftsit
+
+    yuk "Oh, what I would do to get those women off me! I tell them I'm not interested, but it only makes them try all the harder."
+
+    hi "You can't be serious."
+
+    "Haru begins to come around each of our seats, setting down a slice before each of us before sitting beside Hisao. I quickly tuck into mine as soon as I can, the wonderful taste of cream and strawberries filling my mouth. Befriending this guy was one of the best decisions ever."
+
+    show haru_smile at leftoffsit with charamove
+    hide haru_basic at leftoffsit
+
+    har "It's true. He ended up quitting drama and switching to the track club just to lower his profile." #changed this Mor to Har cause it makes sense -Niji [str]
+
+    show hisao_smile_teeth_u at rightedgesit with charachange
+    hide hisao_erm_u at rightedgesit
+    play audio sfx_snap
+
+    "Hisao suddenly clicks his fingers in a flash of insight."
+
+    hi "Ah, that explains it! I knew that face on the posters was yours. You must still work for them sometimes, right?"
+
+    show yukio_smile at oneleftsit with charachange
+    hide yukio_blush at oneleftsit
+
+    yuk "Yeah, though it's mostly organizing new recruits and helping with behind the scenes stuff. They probably just use my face to draw in a bigger crowd..."
+
+    show yukio_eeh at oneleftsit with charachange
+    hide yukio_smile at oneleftsit
+
+    "His smile fails him as he looks down at his dessert, a cloud of despair hanging overhead. I wonder how many girls he'd get if he let this side of himself show through more often."
+
+    yuk "Man, it really is a pain. Those girls are so loud and obnoxious, I can't stand any of them."
+
+    mk "I might not the best judge, but I don't really understand your appeal. Physically, at least."
+
+    show haru_basic at leftoffsit with charamove
+    hide haru_smile at leftoffsit
+
+    har "You don't?"
+
+    mk "You do?"
+
+    "I see an opportunity to both tease him and stroke my own ego, and so take it without hesitation."
+
+    mk "Hmm... who do you think is hotter? Me, or Yukio?"
+
+    show yukio_huh at oneleftsit with charachange
+    hide yukio_eeh at oneleftsit
+
+    "I lean around Hisao and stare intently at Haru, with Yukio reluctantly doing the same."
+
+    show haru_serious at leftoffsit with charamove
+    hide haru_smile at leftoffsit
+    show hisao_erm_u at rightedgesit with charachange
+    hide hisao_smile_teeth_u at rightedgesit
+    show suzu_concerned at onerightsit with charachange
+    hide suzu_embarrassed at onerightsit
+
+    "Haru's taking this surprisingly seriously, his head moving between our faces with a look of total concentration as he brings his fingers to his stubbled chin. Seconds pass, with Hisao and Suzu's interest obviously piqued as they stare and eat at the same time."
+
+    "Everybody's on tenterhooks as we await his judgment, with Yukio's face slowly moving further and further back."
+
+    show yukio_eeh at oneleftsit with charachange
+    hide yukio_huh at oneleftsit
+
+    har "I'd have to say Yukio."
+
+    "I'm a little disappointed in the answer, but the look on Yukio's face more than makes up for it."
+
+    yuk "That's a joke... right?"
+
+    show haru_basic at leftoffsit with charamove
+    hide haru_serious at leftoffsit
+
+    har "Not at all. I can definitely see why girls like you."
+
+    show yukio_angry at oneleftsit with charachange
+    hide yukio_eeh at oneleftsit
+
+    yuk "You're the last person I wanted that kind of praise from."
+
+    show hisao_smile_u at rightedgesit with charachange
+    hide hisao_erm_u at rightedgesit
+
+    "Smiling at his discomfort, Hisao finishes his cake and gives due compliments to Haru, which I hurriedly second."
+
+    mk "Come to think of it, haven't you got lots of female friends, Hisao? Maybe you could give the stud here some tips on how to friendzone like a pro."
+
+    show hisao_hmpf_u at rightedgesit with charachange
+    hide hisao_smile_u at rightedgesit
+
+    hi "Thanks..."
+
+    yuk "I'm not interested in keeping them as friends, I just want them to piss off."
+
+    show yukio_smile at oneleftsit with charachange
+    hide yukio_angry at oneleftsit
+
+    yuk "Here."
+
+    "He plucks the strawberry off his dessert and plops it on top of Suzu's uneaten slice. She doesn't even notice, given her attention being focused on trying to get through the first without dropping crumbs everywhere."
+
+    show yukio_huh at oneleftsit with charachange
+    hide yukio_smile at oneleftsit
+
+    "He waits for a reaction to his act of kindness before giving up and hanging his head in defeat. I don't think Yukio is having a good day."
+
+    mk "Well, there you have it, Hisao. These are the losers I hang out with."
+
+    show hisao_smile_u at rightedgesit with charachange
+    hide hisao_hmpf_u at rightedgesit
+
+    hi "They're not so bad."
+
+    show haru_smile at leftoffsit with charamove
+    hide haru_basic at leftoffsit
+
+    "Haru clamps onto Hisao's shoulder and gives him a playful shake. It's nice to see Hisao loosening up, even if it is just a little."
+
+    stop ambient fadeout 1.0
+    stop music fadeout 1.0
+
+    window hide
+
+    scene black
+    with dissolve
+
     return

@@ -9,6 +9,7 @@ transform show_lowres_fullscreen:
 
 image bg splash = image_fullpath("ui/splash.png")
 
+image bg cake = image_fullpath("backgrounds/kurisumasu_keiki.png")
 image bg city_karaokeint = image_fullpath("backgrounds/city_karaokeint.png")
 image bg school_gardens3 = image_fullpath("backgrounds/school_gardens3.png")
 image bg suburb_shanghaiext_ss = image_fullpath("backgrounds/suburb_shanghaiext_ss.png")
@@ -26,6 +27,10 @@ define passingacthisao = ImageDissolve(show_lowres_fullscreen(image_fullpath("ui
 image kslogowords = image_fullpath("ui/kslogowords.png")
 image kslogoheart = image_fullpath("ui/kslogoheart.png")
 image solid_black = Solid("#000000")
+
+# sprites: Aoi
+image aoi_smile = show_lowres_fullscreen(image_fullpath("sprites/aoi_smile.png"))
+image aoi_surprised = show_lowres_fullscreen(image_fullpath("sprites/aoi_surprised.png"))
 
 # sprites: Haru
 image haru_annoyed = show_lowres_fullscreen(image_fullpath("sprites/haru_annoyed.png"))
@@ -84,6 +89,10 @@ image hisao_smile_close = show_lowres_fullscreen(image_fullpath("sprites/hisao_s
 image hisao_smile_close_u = show_lowres_fullscreen(image_fullpath("sprites/hisao_smile_close_uniform.png"))
 image hisao_topless_smile = show_lowres_fullscreen(image_fullpath("sprites/hisao_topless_smile.png"))
 
+# sprites: Saki
+image saki = show_lowres_fullscreen(image_fullpath("sprites/saki.png"))
+image saki_frown = show_lowres_fullscreen(image_fullpath("sprites/saki_frown.png"))
+
 # sprites: Snoozu
 image suzu_angry = show_lowres_fullscreen(image_fullpath("sprites/suzu_angry.png"))
 image suzu_angry_d = show_lowres_fullscreen(image_fullpath("sprites/suzu_angry_dress.png"))
@@ -140,3 +149,14 @@ image suzu_father_happy = show_lowres_fullscreen(image_fullpath("sprites/suzu_fa
 image suzu_father_unhappy = show_lowres_fullscreen(image_fullpath("sprites/suzu_father_unhappy.png"))
 image suzu_father_normal = show_lowres_fullscreen(image_fullpath("sprites/suzu_father_normal.png"))
 image suzu_father_shock = show_lowres_fullscreen(image_fullpath("sprites/suzu_father_shock.png"))
+
+# sprites: Yukio
+image yukio_angry = show_lowres_fullscreen(image_fullpath("sprites/yukio_angry.png"))
+image yukio_blush = show_lowres_fullscreen(image_fullpath("sprites/yukio_blush.png"))
+image yukio_eeh = show_lowres_fullscreen(image_fullpath("sprites/yukio_eeh.png"))
+image yukio_huh = show_lowres_fullscreen(image_fullpath("sprites/yukio_huh.png"))
+image yukio_notimpressed = show_lowres_fullscreen(image_fullpath("sprites/yukio_notimpressed.png"))
+image yukio_smile = show_lowres_fullscreen(image_fullpath("sprites/yukio_smile.png"))
+image yukio_punched = show_lowres_fullscreen(image_fullpath("sprites/yukio_punched.png"))
+image yukio_punched_defiant = show_lowres_fullscreen(image_fullpath("sprites/yukio_punched_defiant.png"))
+image yukio_punched_angry = show_lowres_fullscreen(image_fullpath("sprites/yukio_punched_angry.png"))
