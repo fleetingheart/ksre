@@ -12,7 +12,7 @@ label splashscreen:
     return
 
 label splashscreen_intro:
-    camera:
+    camera at defaultColorblind:
         function tf_parallax
     $ renpy.movie_cutscene("video/4ls.webm")
 
@@ -142,6 +142,7 @@ label start:
     call a1_friday
     call a1_saturday
     call a1_sunday
+
 
     if force_route == FR_EMI:
         call act_op("tc_act2_emi.webm")

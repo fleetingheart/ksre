@@ -766,3 +766,7 @@ default is_true = None
 # Shizune
 
 default refuse_misha = None
+
+# Accessibility Dropdown
+default expanded = False
+default selected = "Options"
