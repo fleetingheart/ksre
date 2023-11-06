@@ -8,7 +8,7 @@ init -501 python:
 define config.developer = "auto"
 
 define config.name = "Katawa Shoujo: Re-Engineered"
-define config.version = "1.3.0"
+define config.version = "1.4.0-beta"
 
 define config.save_directory = config.name
 
@@ -59,6 +59,7 @@ default persistent.parallax = False
 default persistent.discord = False
 default persistent.blinking_arrow = False
 default persistent.adult_warning_shown = False
+default persistent.colorblind = None
 
 if renpy.emscripten:
     default persistent.hardware_cursor = True

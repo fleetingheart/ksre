@@ -9,6 +9,7 @@ screen skip_indicator():
 screen ctc(arg=None):
     if not renpy.is_skipping():
         frame:
+            at colorblind(persistent.colorblind)
             pos 0.9635, 0.0325
             xysize 42, 42
 
@@ -32,6 +33,7 @@ screen say(who, what):
 
     if who and who.strip():
         frame:
+            at colorblind(persistent.colorblind)
             style_suffix "namebox"
             text who id "who":
                 size 40
@@ -45,22 +47,26 @@ screen doublespeak(c1, t1, c2, t2):
     style_prefix "doublespeak"
 
     frame:
+        at colorblind(persistent.colorblind)
         style_suffix "namebox1"
         text ("{color=" + c1.who_args["color"] + "}" + renpy.translate_string(c1.name) + "{/color}") id "who1":
             size 40
             bold True
 
     frame:
+        at colorblind(persistent.colorblind)
         style_suffix "window1"
         text t1 id "what1"
 
     frame:
+        at colorblind(persistent.colorblind)
         style_suffix "namebox2"
         text ("{color=" + c2.who_args["color"] + "}" + renpy.translate_string(c2.name) + "{/color}") id "who2":
             size 40
             bold True
 
     frame:
+        at colorblind(persistent.colorblind)
         style_suffix "window2"
         text t2 id "what2"
 
@@ -72,6 +78,7 @@ screen choice(items):
     style_prefix "choice"
 
     vbox:
+        at colorblind(persistent.colorblind)
         for i in items:
             textbutton i.caption action i.action
 
@@ -79,6 +86,7 @@ screen nvl(dialogue, items=None):
     window id "window":
         has vbox
         spacing 20
+        at colorblind(persistent.colorblind)
 
         for d in dialogue:
             frame:
@@ -98,6 +106,7 @@ screen confirm(message, yes_action, no_action=None, yes_text=None, no_text=None)
 
     frame:
         style_suffix "interface"
+        at colorblind(persistent.colorblind)
 
         has vbox
 
@@ -134,6 +143,7 @@ screen game_menu():
 
     frame:
         style_suffix "interface"
+        at colorblind(persistent.colorblind)
 
         has vbox
 
@@ -183,9 +193,11 @@ screen main_menu():
     tag menu
     style_prefix "main_menu"
 
-    add "main_menu_bg"
+    
+    add "main_menu_bg" at colorblind(persistent.colorblind)
 
     vbox:
+        at colorblind(persistent.colorblind)
         textbutton _("Start") action Start()
 
         textbutton _("Saves") action ShowMenu("file_slots")
@@ -206,12 +218,13 @@ screen prefs():
     tag menu
     style_prefix "prefs"
 
-    if main_menu:
-        add "main_menu_bg"
+    if main_menu:    
+        add "main_menu_bg" at colorblind(persistent.colorblind)
     add "blind"
 
     frame:
         style_suffix "interface"
+        at colorblind(persistent.colorblind)
 
         has vbox
 
@@ -322,13 +335,14 @@ screen language():
     tag menu
     style_prefix "language"
 
-    if main_menu:
-        add "main_menu_bg"
+    if main_menu:    
+        add "main_menu_bg" at colorblind(persistent.colorblind)
     add "blind"
 
     frame:
         style_suffix "interface"
-
+        at colorblind(persistent.colorblind)
+        
         has vbox
 
         spacing 6
@@ -347,7 +361,7 @@ screen language():
             textbutton _("English") action Language(None)
             textbutton _("Russian") action Language("ru")
             textbutton _("French") action Language("fr")
-            textbutton _("Spanish") # action Language("es")
+            textbutton _("Spanish") action Language("es")
             textbutton _("Deutsch") # action Language("de")
             textbutton _("Portuguese") # action Language("pr")
             textbutton _("Japanese") # action Language("jp")
@@ -366,12 +380,13 @@ screen file_slots():
     default local_saves_items = set()
     default local_dels_items = set()
 
-    if main_menu:
-        add "main_menu_bg"
+    if main_menu:    
+        add "main_menu_bg" at colorblind(persistent.colorblind)
     add "blind"
 
     frame:
         style_suffix "interface"
+        at colorblind(persistent.colorblind)
 
         has vbox
 
@@ -474,11 +489,12 @@ screen extra():
     default library_hovered = False
     default cinema_hovered = False
 
-    add "main_menu_bg"
+    add "main_menu_bg" at colorblind(persistent.colorblind)
     add "blind"
 
     frame:
         style_suffix "interface"
+        at colorblind(persistent.colorblind)
 
         has vbox
 
@@ -608,12 +624,13 @@ screen jukebox():
     tag menu
     style_prefix "jukebox"
 
-    add "main_menu_bg"
+    add "main_menu_bg" at colorblind(persistent.colorblind)
     add "blind"
 
     frame:
         style_suffix "interface"
-
+        at colorblind(persistent.colorblind)
+        
         has vbox
 
         spacing 6
@@ -676,11 +693,12 @@ screen gallery(page=0):
     default return_hovered = False
     default local_items = set()
 
-    add "main_menu_bg"
+    add "main_menu_bg" at colorblind(persistent.colorblind)
     add "blind"
 
     frame:
         style_suffix "interface"
+        at colorblind(persistent.colorblind)
 
         has vbox
 
@@ -759,12 +777,12 @@ screen library(page=0):
 
     default current_desc = None
 
-    add "main_menu_bg"
+    add "main_menu_bg" at colorblind(persistent.colorblind)
     add "blind"
 
     frame:
         style_suffix "interface"
-
+        at colorblind(persistent.colorblind)
         has vbox
 
         text _("Extras > Library"):
@@ -842,12 +860,12 @@ screen cinema():
 
     default local_items = set()
 
-    add "main_menu_bg"
+    add "main_menu_bg" at colorblind(persistent.colorblind)
     add "blind"
 
     frame:
         style_suffix "interface"
-
+        at colorblind(persistent.colorblind)
         has vbox
 
         spacing 32
@@ -896,6 +914,7 @@ screen history():
 
     frame:
         style_suffix "interface"
+        at colorblind(persistent.colorblind)
 
         has vbox
 
@@ -957,7 +976,7 @@ screen written_note(text, quiet=False, custom_background=None):
     modal True
     style_prefix "note"
 
-    frame at note_tf:
+    frame at note_tf, colorblind(persistent.colorblind):
         if custom_background:
             background custom_background
 
@@ -971,11 +990,12 @@ screen accessibility():
     tag menu
     style_prefix "prefs"
 
-    if main_menu:
-        add "main_menu_bg"
+    if main_menu:    
+        add "main_menu_bg" at colorblind(persistent.colorblind)
     add "blind"
 
     frame:
+        at colorblind(persistent.colorblind)
         style "interface_frame"
 
         has vbox
@@ -1028,9 +1048,40 @@ screen accessibility():
 
                         text _("Volume drop")
 
+            text _("Colorblind Filter"):
+                bold True
+                size bold_size
+
+            $ filterLookup = {
+                "None": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                "Deuteranopia": [0.43, 0.72, -0.15, 0.0, 0.34, 0.57, 0.09, 0.0, -0.02, 0.03, 1.00, 0.0, 0.0, 0.0, 0.0, 1.0],
+                "Protanopia": [0.20, 0.99, -0.19, 0.0, 0.16, 0.79, 0.04, 0.0, 0.01, -0.01, 1.00, 0.0, 0.0, 0.0, 0.0, 1.0],
+                "Tritanopia": [0.97, 0.11, -0.08, 0.0, 0.02, 0.82, 0.16, 0.0, -0.06, 0.88, 0.18, 0.0, 0.0, 0.0, 0.0, 1.0]
+            }
+
+            frame:
+                xysize (100, 36)
+                vbox:
+                    hbox:
+                        text ">" at rotateBy(90 if expanded else 0)
+                        textbutton selected action ToggleVariable("expanded", True, False) at left
+
+
+                    if expanded:
+                            frame:
+                                background "config_bg" at colorblind(persistent.colorblind)
+                                xpadding 13
+                                ypadding 13
+                                yoffset -13
+
+                                vbox:
+                                    spacing 6
+                                    for item in filterLookup.keys():
+                                        textbutton item action [ToggleVariable("persistent.colorblind", filterLookup[item], None), SetVariable("expanded", False), SetVariable("selected", item if item != "None" else "Options")]
+
             textbutton _("Return"):
                 style "return_button"
-                action If(main_menu, true=Return(), false=ShowMenu("game_menu"))
+                action [SetVariable("expanded", False), If(main_menu, true=Return(), false=ShowMenu("game_menu"))]
 
     key "game_menu" action If(main_menu, true=Return(), false=ShowMenu("game_menu"))
 
@@ -1038,14 +1089,15 @@ screen mods():
     tag menu
     style_prefix "mods"
 
-    if main_menu:
-        add "main_menu_bg"
+    if main_menu:    
+        add "main_menu_bg" at colorblind(persistent.colorblind)
     add "blind"
 
     frame:
+        at colorblind(persistent.colorblind)
         style_suffix "interface"
-
         has vbox
+        at colorblind(persistent.colorblind)
 
         spacing 6
 
@@ -1085,9 +1137,11 @@ screen mods():
 
 screen adult_warning():
     style_prefix "adult_warning"
-    add "adult_warning_bg"
+    add "adult_warning_bg" at colorblind(persistent.colorblind)
 
     vbox:
+        at colorblind(persistent.colorblind)
+        
         text _("You must be 18+ to see adult content within this game.\nDo you meet these requirements?")
         text _("Note: answering \"No\" does NOT prevent you from playing the game.")
         text _("This question will not be shown again after you start playing.")
