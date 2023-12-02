@@ -71,3 +71,5 @@ define mouse = MouseDisplayable("gui/icons/cursor.png", 0, 0)
 define config.mouse_displayable = mouse if not persistent.hardware_cursor and not renpy.android and not renpy.ios else None
 
 define _game_menu_screen = "game_menu"
+
+define config.controller_blocklist = []
