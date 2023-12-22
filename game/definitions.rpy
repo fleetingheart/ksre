@@ -152,7 +152,7 @@ python early:
             __ = self.store.__
 
             asyncio.set_event_loop(asyncio.new_event_loop())
-            self.rpc = Presence("1039954053079236628")
+            self.rpc = Presence("1176920560253554699")
             self.rpc.connect()
 
             while True:
