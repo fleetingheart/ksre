@@ -2004,5 +2004,5 @@ translate fr strings:
 
     # game/definitions.rpy:119
     old " (replay)"
-    new ""
+    new " (replay)"
 

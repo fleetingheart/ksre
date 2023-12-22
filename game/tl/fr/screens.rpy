@@ -252,29 +252,29 @@ translate fr strings:
 
     # game/screens.rpy:172
     old "Mods"
-    new ""
+    new "Mods"
 
     # game/screens.rpy:250
     old "Adult content is disabled."
-    new ""
+    new "Adult content is disabled."
 
     # game/screens.rpy:252
     old "Adult content is enabled."
-    new ""
+    new "Adult content is enabled."
 
     # game/screens.rpy:1050
     old "Colorblind Filter"
-    new ""
+    new "Colorblind Filter"
 
     # game/screens.rpy:1144
     old "You must be 18+ to see adult content within this game.\nDo you meet these requirements?"
-    new ""
+    new "You must be 18+ to see adult content within this game.\nDo you meet these requirements?"
 
     # game/screens.rpy:1145
     old "Note: answering \"No\" does NOT prevent you from playing the game."
-    new ""
+    new "Note: answering \"No\" does NOT prevent you from playing the game."
 
     # game/screens.rpy:1146
     old "This question will not be shown again after you start playing."
-    new ""
+    new "This question will not be shown again after you start playing."
 
