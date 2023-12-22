@@ -246,3 +246,35 @@ translate fr strings:
     old "Are you sure you want to\nload this save?"
     new "Êtes-vous sûr(e) de vouloir\ncharger cette sauvegarde?"
 
+# TODO: Translation updated at 2023-12-22 20:14
+
+translate fr strings:
+
+    # game/screens.rpy:172
+    old "Mods"
+    new ""
+
+    # game/screens.rpy:250
+    old "Adult content is disabled."
+    new ""
+
+    # game/screens.rpy:252
+    old "Adult content is enabled."
+    new ""
+
+    # game/screens.rpy:1050
+    old "Colorblind Filter"
+    new ""
+
+    # game/screens.rpy:1144
+    old "You must be 18+ to see adult content within this game.\nDo you meet these requirements?"
+    new ""
+
+    # game/screens.rpy:1145
+    old "Note: answering \"No\" does NOT prevent you from playing the game."
+    new ""
+
+    # game/screens.rpy:1146
+    old "This question will not be shown again after you start playing."
+    new ""
+

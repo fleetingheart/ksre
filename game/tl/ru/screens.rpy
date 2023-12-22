@@ -274,3 +274,11 @@ translate ru strings:
     old "This question will not be shown again after you start playing."
     new "Этот вопрос не будет задаваться после того, как вы начнёте игру."
 
+# TODO: Translation updated at 2023-12-22 20:15
+
+translate ru strings:
+
+    # game/screens.rpy:1050
+    old "Colorblind Filter"
+    new "Цветовой фильтр"
+

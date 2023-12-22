@@ -1997,3 +1997,11 @@ translate es strings:
     # game/definitions.rpy:644
     old "Woman with braid"
     new "Mujer con trenza"
+# TODO: Translation updated at 2023-12-22 20:14
+
+translate es strings:
+
+    # game/definitions.rpy:119
+    old " (replay)"
+    new " (repetición)"
+

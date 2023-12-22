@@ -1998,3 +1998,11 @@ translate fr strings:
     old "Woman with braid"
     new "Femme avec tresses"
 
+# TODO: Translation updated at 2023-12-22 20:14
+
+translate fr strings:
+
+    # game/definitions.rpy:119
+    old " (replay)"
+    new ""
+
