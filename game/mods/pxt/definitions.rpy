@@ -10,7 +10,7 @@ init python:
     th = Character("Thisbe", who_color="#c7966d")
     wa = Character("Wall", who_color="#a7935e")
     mo = Character("Moon", who_color="#ff8a66")
-    li = Character("Lion", who_color="#d17079")
+    lio = Character("Lion", who_color="#d17079")
 
     pr = Character(kind=n)
 

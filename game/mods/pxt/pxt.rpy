@@ -393,22 +393,22 @@ with easeinbottom
 
 play music "mods/pxt/music/tam-n06.ogg" fadein 1.0
 
-li "You, ladies, you, whose gentle hearts do fear"
-li "The smallest monstrous mouse that creeps on floor,"
-li "May now, perchance, both quake and tremble here,"
-li "When lion rough in wildest rage doth roar."
+lio "You, ladies, you, whose gentle hearts do fear"
+lio "The smallest monstrous mouse that creeps on floor,"
+lio "May now, perchance, both quake and tremble here,"
+lio "When lion rough in wildest rage doth roar."
 
 show lion embarrassed onlayer master
 with dissolve
 
-li "Then know that I, one Snug the joiner, am"
-li "A lion fell, nor else no lion's dam:"
+lio "Then know that I, one Snug the joiner, am"
+lio "A lion fell, nor else no lion's dam:"
 
 show lion smile onlayer master
 with dissolve
 
-li "For, if I should as lion come in strife"
-li "Into this place, 'twere pity on my life."
+lio "For, if I should as lion come in strife"
+lio "Into this place, 'twere pity on my life."
 
 if commentary == True:
     the "A very gentle beast, and of a good conscience."
@@ -482,7 +482,7 @@ th "This is old Ninny's tomb. Where is my love?"
 show lion shock onlayer master at left
 with dissolve
 
-li "Oh!"
+lio "Oh!"
 
 
 
