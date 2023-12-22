@@ -5,7 +5,20 @@
 label a1_saturday:
     call timeskip
 
-    if got_kenji() or not go_through_shizu():
+    python:
+        if go_through_lilly() and not get_tired():
+            force_route = FR_LILLY
+        elif go_through_shizu():
+            if get_tired() and not are_student_council:
+                force_route = FR_EMI
+            else:
+                force_route = FR_SHIZU
+        elif get_tired():
+            force_route = FR_EMI
+        else:
+            force_route = FR_RIN
+
+    if force_route != FR_SHIZU:
         label .support:
             scene black
 
@@ -338,26 +351,13 @@ label a1_saturday:
                 scene black
                 with Dissolve(3.0)
 
-                $ force_route = FR_KENJI
+                #$ force_route = FR_KENJI
 
             if _in_replay:
                 return
 
-    if force_route:
+    if force_route == FR_KENJI:
         return
-
-    python:
-        if go_through_lilly() and not get_tired():
-            force_route = FR_LILLY
-        elif go_through_shizu():
-            if get_tired() and not are_student_council:
-                force_route = FR_EMI
-            else:
-                force_route = FR_SHIZU
-        elif get_tired():
-            force_route = FR_EMI
-        else:
-            force_route = FR_RIN
 
     if force_route in (FR_EMI, FR_RIN):
         label .an_asethetics:
