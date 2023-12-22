@@ -21,13 +21,13 @@ screen pxt():
 
             vbox:
                 textbutton _("Start") action Start("pxt_start")
+            
+            vbox:
+                style_prefix "check"
 
                 textbutton _("Commentary") action ToggleVariable("commentary", True, False)
 
-                textbutton _("Library")
-
-                textbutton _("Gallery")
-
+            vbox:
                 textbutton _("About") action ShowMenu("pxt_about")
 
         textbutton _("Return"):
