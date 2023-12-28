@@ -218,8 +218,8 @@ define null = Null()
 default persistent._watched_videos = set()
 
 define _videos = (
-    "video/op_1.mkv", "video/tc_act2_emi.mkv", "video/tc_act2_hanako.mkv",
-    "video/tc_act2_lilly.mkv", "video/tc_act2_rin.mkv", "video/tc_act2_shizune.mkv")
+    "video/op_1_opus.webm", "video/tc_act2_emi_opus.webm", "video/tc_act2_hanako_opus.webm",
+    "video/tc_act2_lilly_opus.webm", "video/tc_act2_rin_opus.webm", "video/tc_act2_shizune_opus.webm")
 
 define _replays = [
     (_("Act 1"), [
