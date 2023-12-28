@@ -888,12 +888,12 @@ screen cinema():
                         if i in local_items:
                             image "gui/button/cg-locked.png"
 
-                            image video.replace(".mkv", "_tn.jpg"):
+                            image video.replace(".webm", "_tn.jpg"):
                                 align 0.5, 0.5
                         else:
                             image opacity("gui/button/cg-locked.png")
 
-                            image im.MatrixColor(video.replace(".mkv", "_tn.jpg"), im.matrix.desaturate()):
+                            image im.MatrixColor(video.replace(".webm", "_tn.jpg"), im.matrix.desaturate()):
                                 align 0.5, 0.5
                     else:
                         image opacity("gui/button/cg-locked.png")

@@ -42,4 +42,4 @@ init python:
     build.classify("game/**.png", "images android")
     build.classify("game/**.rpyc", "scripts android")
     build.classify("game/**.rpymc", "scripts android")
-    build.classify("game/**.mkv", "videos android")
+    build.classify("game/**.webm", "videos android")
