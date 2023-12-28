@@ -215,7 +215,7 @@ label a1_monday:
         if _in_replay:
             return
 
-    call act_op("op_1_opus.webm")
+    call act_op("op_1.webm")
     pause 1.0
 
     label .bundle_of_hisao:
@@ -465,7 +465,7 @@ label a1_monday:
         if _in_replay:
             return
 
-    call act_op("tc_act1_opus.webm")
+    call act_op("tc_act1.webm")
 
     label .gateway_effect:
         scene bg school_gate

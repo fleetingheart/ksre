@@ -14,7 +14,7 @@ label splashscreen:
 label splashscreen_intro:
     camera at defaultColorblind:
         function tf_parallax
-    $ renpy.movie_cutscene("video/4ls_opus.webm")
+    $ renpy.movie_cutscene("video/4ls.webm")
 
     return
 
@@ -52,7 +52,7 @@ label act_op(svideo):
             config.skipping = False
             persistent._watched_videos.add(video)
 
-    if svideo != "op_1_opus.webm":
+    if svideo != "op_1.webm":
         scene white
         with Dissolve(2.0)
 
@@ -88,7 +88,7 @@ label watch_gallery(images):
 label watch_video(video):
     $ renpy.music.set_volume(volume=0.0, delay=1.0)
 
-    if video == "video/op_1_opus.webm":
+    if video == "video/op_1.webm":
         scene black
     else:
         scene white
@@ -145,33 +145,33 @@ label start:
 
 
     if force_route == FR_EMI:
-        call act_op("tc_act2_emi_opus.webm")
+        call act_op("tc_act2_emi.webm")
         call a2_emi
 
-        call act_op("tc_act3_emi_opus.webm")
+        call act_op("tc_act3_emi.webm")
         call a3_emi
 
         if have_a_minute and talk_to_her_mom or let_misha_know:
-            call act_op("tc_act4_emi_opus.webm")
+            call act_op("tc_act4_emi.webm")
             call a4_emi
-            $ credits_vid = "video/credits_emi_opus.webm"
+            $ credits_vid = "video/credits_emi.webm"
             # good ending
         else:
             # bad ending
             pass
     elif force_route == FR_HANAKO:
-        call act_op("tc_act2_hanako_opus.webm")
+        call act_op("tc_act2_hanako.webm")
         call a2_hanako
 
-        call act_op("tc_act3_hanako_opus.webm")
+        call act_op("tc_act3_hanako.webm")
         call a3_hanako
 
-        call act_op("tc_act4_hanako_opus.webm")
+        call act_op("tc_act4_hanako.webm")
         call a4_hanako
 
         if go_to_the_city and agree_with_lilly:
             # good ending
-            $ credits_vid = "video/credits_hanako_opus.webm"
+            $ credits_vid = "video/credits_hanako.webm"
         elif go_to_the_city:
             # sad ending
             pass
@@ -179,30 +179,30 @@ label start:
             # rage ending
             pass
     elif force_route == FR_LILLY:
-        call act_op("tc_act2_lilly_opus.webm")
+        call act_op("tc_act2_lilly.webm")
         call a2_lilly
 
-        call act_op("tc_act3_lilly_opus.webm")
+        call act_op("tc_act3_lilly.webm")
         call a3_lilly
 
-        call act_op("tc_act4_lilly_opus.webm")
+        call act_op("tc_act4_lilly.webm")
         call a4_lilly
 
         if want_true and address_it and mention_the_letter:
             # good ending
-            $ credits_vid = "video/credits_lilly_opus.webm"
+            $ credits_vid = "video/credits_lilly.webm"
         else:
             # bad ending
             pass
     elif force_route == FR_RIN:
-        call act_op("tc_act2_rin_opus.webm")
+        call act_op("tc_act2_rin.webm")
         call a2_rin
 
-        call act_op("tc_act3_rin_opus.webm")
+        call act_op("tc_act3_rin.webm")
         call a3_rin
 
         if not explain:
-            call act_op("tc_act4_rin_opus.webm")
+            call act_op("tc_act4_rin.webm")
             call a4_rin
 
             if is_true:
@@ -210,24 +210,24 @@ label start:
                 pass
             else:
                 # good ending
-                $ credits_vid = "video/credits_rin_opus.webm"
+                $ credits_vid = "video/credits_rin.webm"
         else:
             # bad ending
             pass
     elif force_route == FR_SHIZU:
 
-        call act_op("tc_act2_shizune_out_av1_opus.webm")
+        call act_op("tc_act2_shizune_out_av1.webm")
         call a2_shizune
 
-        call act_op("tc_act3_shizune_opus.webm")
+        call act_op("tc_act3_shizune.webm")
         call a3_shizune
 
-        call act_op("tc_act4_shizune_opus.webm")
+        call act_op("tc_act4_shizune.webm")
         call a4_shizune
 
         if refuse_misha:
             # good ending
-            $ credits_vid = "video/credits_shizune_opus.webm"
+            $ credits_vid = "video/credits_shizune.webm"
         else:
             # bad ending
             pass
