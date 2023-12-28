@@ -1,7 +1,7 @@
 **.pyc
 game/saves
 game/cache
-**.rpyc
+**.rpyc*
 **.rpymc
 log.txt
 errors.txt

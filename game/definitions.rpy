@@ -116,7 +116,10 @@ python early:
             for replay_stack in replay_pack[1]:
                 for replay in replay_stack[1]:
                     if replay[1] == name:
-                        return __(replay[0]) + __(" (replay)")
+                        if _in_replay:
+                            return __(replay[0]) + __(" (replay)")
+                        else:
+                            return __(replay[0])
 
         return __("No scene")
 
