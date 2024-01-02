@@ -1665,7 +1665,7 @@ label a3_rin:
             show nomiya frown
             with charachange
 
-            "Nomiya turns looks up from my sketch, adjusting his glasses. He rubs his chin, looking contemplative."
+            "Nomiya turns and looks up from my sketch, adjusting his glasses. He rubs his chin, looking contemplative."
 
             no "Why not? It's not like she's going to be an overnight smash hit or anything, but getting the word out there is very important."
 
@@ -3780,7 +3780,7 @@ label a3_rin:
         scene bg gallery_ext
         with locationskip
 
-        "After a five minute walk, I'm standing in front of the gallery."
+        "After a five-minute walk, I'm standing in front of the gallery."
 
         $ renpy.music.set_volume(0.6, 1.0, channel="ambient")
 
