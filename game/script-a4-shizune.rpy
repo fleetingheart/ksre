@@ -564,7 +564,7 @@ label a4_shizune:
         show shizu behind_smile
         with charachange
 
-        ssh " When we tried to order in last time, Misha barely got anything, and used it as an excuse to leave early. I won't let her get off so easily this time. The food is already here. She'll have to sit down and eat with us."
+        ssh "When we tried to order in last time, Misha barely got anything, and used it as an excuse to leave early. I won't let her get off so easily this time. The food is already here. She'll have to sit down and eat with us."
 
         show shizu basic_happy
         with charachange
@@ -4017,7 +4017,7 @@ label a4_shizune:
 
             "I think everyone wants a purpose. Looking back, it makes sense that Shizune doesn't have one. All that energy would otherwise have been directed at something."
 
-            "Since she had nothing to channel it towards, Shizune lashed out in all directions. Reminds me of a downed power line flailing in a storm: Furious and incandescent, but aimless and dangerous. Just like Shizune."
+            "Since she had nothing to channel it towards, Shizune lashed out in all directions. Reminds me of a downed power line flailing in a storm: furious and incandescent, but aimless and dangerous. Just like Shizune."
 
             "I want to say that this is why she feels the need to turn everything into a competition, but… that's probably just how she is. Having a goal to put that energy towards is just the next level."
 
