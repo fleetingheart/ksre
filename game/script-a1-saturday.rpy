@@ -2745,7 +2745,7 @@ label a1_saturday:
             show misha hips_smile_close
             with charachange
 
-            mi "Hm… Ah, how about this, Hicchan: If you lose, you have to go to school one day without any pants on."
+            mi "Hm… Ah, how about this, Hicchan: if you lose, you have to go to school one day without any pants on."
 
             hi "Are you insane?"
 
