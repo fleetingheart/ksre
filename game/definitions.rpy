@@ -374,7 +374,7 @@ define _replays = [
             (_("Minor Discord"), "a3_lilly.minor_discord", _("Hisao has lunch with Kenji, then gives some handouts to an alarmingly silent Hanako.")),
             (_("Dissonance"), "a3_lilly.dissonance", _("With Hanako withdrawing into herself completely, Hisao offers what little help he can before calling Lilly.")),
             (_("A World Away"), "a3_lilly.a_world_away", _("Hisao's reassured mind begins to wonder about the relationship between he and Lilly.")),
-            (_("Renewal"), "a3_lilly.renewal", _("Hisao and Hanako welcome Akira and Lilly after their return from Scotland.")),
+            (_("Renewal"), "a3_lilly.renewal", _("Hisao, Hanako, and Hideaki welcome Akira and Lilly after their return from Scotland.")),
             (_("Northern Sojourn"), "a3_lilly.northern_sojourn", _("The trio begins their holiday in Hokkaido.")),
             (_("Prelude"), "a3_lilly.prelude", _("A morning walk begins a chain of events.")),
             (_("Crescendo"), "a3_lilly.crescendo", _("Lilly's true feelings are told in the endless gold of the wheat fields.")),
