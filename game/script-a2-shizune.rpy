@@ -224,7 +224,7 @@ label a2_shizune:
 
         n "The only person who I can think to ask, at the moment, is Misha."
 
-        n "How badly do I want to know this? There's two options: Wait until after class, or go look for her now."
+        n "How badly do I want to know this? There's two options: wait until after class, or go look for her now."
 
         n "I guess I'll go now, but I'm not certain where she is. My best bet would be to start searching for her in the girls' dorm, though. After all, if she wasn't with Shizune, that's probably the only place where she would be."
 
