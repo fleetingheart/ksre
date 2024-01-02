@@ -2935,7 +2935,7 @@ label a1_wednesday:
         show rin basic_deadpanamused
         with charachange
 
-        rin "It's ok, you can say it. I probably won't get mad."
+        rin "It's OK, you can say it. I probably won't get mad."
 
         "I blush really hard. I don't really know what would be the right thing to say, if any. It feels that I'm way more sensitive than Rin is, though."
 
