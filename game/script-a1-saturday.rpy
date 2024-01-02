@@ -2465,7 +2465,7 @@ label a1_saturday:
 
             hi "No, never mind. I'll have coffee."
 
-            hi "If this is a very high class establishment, then they should have very high class coffee, right? … No one died for it, right?"
+            hi "If this is a very high class establishment, then they should have very high class coffee, right? …No one died for it, right?"
 
             scene ev shizu_shanghai
             with charachangeev
