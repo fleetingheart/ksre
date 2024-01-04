@@ -835,7 +835,7 @@ translate ru a4_shizune_off_by_one_873cf749:
 # game/script-a4-shizune.rpy:567
 translate ru a4_shizune_off_by_one_fcf8b494:
 
-    # ssh " When we tried to order in last time, Misha barely got anything, and used it as an excuse to leave early. I won't let her get off so easily this time. The food is already here. She'll have to sit down and eat with us."
+    # ssh "When we tried to order in last time, Misha barely got anything, and used it as an excuse to leave early. I won't let her get off so easily this time. The food is already here. She'll have to sit down and eat with us."
     ssh "Когда мы последний раз попытались сделать заказ, Миша ничего себе не заказала и под этим предлогом ушла пораньше. В этот раз она так просто не отвертится. Еда уже имеется. Ей придётся сесть и поесть с нами."
 
 # game/script-a4-shizune.rpy:572
@@ -6101,7 +6101,7 @@ translate ru a4_shizune_sneaking_mission_7913a723:
 # game/script-a4-shizune.rpy:4029
 translate ru a4_shizune_sneaking_mission_633eba3b:
 
-    # "Since she had nothing to channel it towards, Shizune lashed out in all directions. Reminds me of a downed power line flailing in a storm: Furious and incandescent, but aimless and dangerous. Just like Shizune."
+    # "Since she had nothing to channel it towards, Shizune lashed out in all directions. Reminds me of a downed power line flailing in a storm: furious and incandescent, but aimless and dangerous. Just like Shizune."
     "Но, поскольку направить её было некуда, Сидзунэ рванула сразу во всех направлениях, словно оборванные и трепещущие при буре линии электропередач: яростные и искрящие, непредсказуемые и крайне опасные. Прямо как Сидзунэ."
 
 # game/script-a4-shizune.rpy:4031

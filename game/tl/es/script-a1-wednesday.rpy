@@ -4701,7 +4701,7 @@ translate es a1_wednesday_the_other_green_69ab365a:
 # game/script-a1-wednesday.rpy:2938
 translate es a1_wednesday_the_other_green_5b05bfd9:
 
-    # rin "It's ok, you can say it. I probably won't get mad."
+    # rin "It's OK, you can say it. I probably won't get mad."
     rin "Está bien, puedes decirlo. Probablemente no me enfadaré."
 
 # game/script-a1-wednesday.rpy:2940
