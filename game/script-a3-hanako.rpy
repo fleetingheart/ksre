@@ -1712,7 +1712,7 @@ label a3_hanako:
         show shopkeep neutral at center
         with charaenter
 
-        "The shopkeeper gives us an almost bored look though his particularly small eyes. His face looks weary and tired, and his dress style is distinctly anachronistic. He gives us a polite nod of welcome before going back to his book."
+        "The shopkeeper gives us an almost bored look through his particularly small eyes. His face looks weary and tired, and his dress style is distinctly anachronistic. He gives us a polite nod of welcome before going back to his book."
 
         hide shopkeep
         with charaexit

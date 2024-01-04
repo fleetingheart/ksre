@@ -2559,7 +2559,7 @@ translate fr a3_rin_rosetinted_glasses_56cdc2b4:
 # game/script-a3-rin.rpy:1660
 translate fr a3_rin_rosetinted_glasses_9e01f4da:
 
-    # "Nomiya turns looks up from my sketch, adjusting his glasses. He rubs his chin, looking contemplative."
+    # "Nomiya turns and looks up from my sketch, adjusting his glasses. He rubs his chin, looking contemplative."
     "Nomiya me regarde, ajustant ses lunettes. Il se frotte le menton, semblant réfléchir."
 
 # game/script-a3-rin.rpy:1662
@@ -6261,7 +6261,7 @@ translate fr a3_rin_boundless_d5449ac3:
 # game/script-a3-rin.rpy:3774
 translate fr a3_rin_boundless_ceeac96e:
 
-    # "After a five minute walk, I'm standing in front of the gallery."
+    # "After a five-minute walk, I'm standing in front of the gallery."
     "Après cinq minutes de marche, je me retrouve devant la galerie."
 
 # game/script-a3-rin.rpy:3781

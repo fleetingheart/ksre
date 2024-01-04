@@ -835,7 +835,7 @@ translate fr a4_shizune_off_by_one_873cf749:
 # game/script-a4-shizune.rpy:565
 translate fr a4_shizune_off_by_one_fcf8b494:
 
-    # ssh " When we tried to order in last time, Misha barely got anything, and used it as an excuse to leave early. I won't let her get off so easily this time. The food is already here. She'll have to sit down and eat with us."
+    # ssh "When we tried to order in last time, Misha barely got anything, and used it as an excuse to leave early. I won't let her get off so easily this time. The food is already here. She'll have to sit down and eat with us."
     ssh "Quand on a essayé de commander la dernière fois, Misha n'a presque rien pris et a trouvé une excuse pour partir plus tôt. Je ne vais pas la laisser s’échapper aussi facilement cette fois. Le repas est déjà là, elle aura juste à s’asseoir et à manger."
 
 # game/script-a4-shizune.rpy:570
@@ -6101,7 +6101,7 @@ translate fr a4_shizune_sneaking_mission_7913a723:
 # game/script-a4-shizune.rpy:4014
 translate fr a4_shizune_sneaking_mission_633eba3b:
 
-    # "Since she had nothing to channel it towards, Shizune lashed out in all directions. Reminds me of a downed power line flailing in a storm: Furious and incandescent, but aimless and dangerous. Just like Shizune."
+    # "Since she had nothing to channel it towards, Shizune lashed out in all directions. Reminds me of a downed power line flailing in a storm: furious and incandescent, but aimless and dangerous. Just like Shizune."
     "Vu qu'elle n'a rien vers quoi la canaliser, Shizune la laisse partir dans tous les sens. Ça me rappelle une ligne électrique tombée durant un orage. Sauvage et incandescente, mais sans but et dangereuse. Tout comme Shizune."
 
 # game/script-a4-shizune.rpy:4016

@@ -345,7 +345,7 @@ translate fr a2_shizune_message_passing_278daf1f:
 # game/script-a2-shizune.rpy:223
 translate fr a2_shizune_message_passing_d337f2a5:
 
-    # n "How badly do I want to know this? There's two options: Wait until after class, or go look for her now."
+    # n "How badly do I want to know this? There's two options: wait until after class, or go look for her now."
     n "J'ai deux options : Attendre après les cours pour lui parler, ou partir à sa recherche dès maintenant."
 
 # game/script-a2-shizune.rpy:225

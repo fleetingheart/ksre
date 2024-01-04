@@ -315,7 +315,7 @@ translate es a3_emi_eet_ees_scienca_8444312d:
 # game/script-a3-emi.rpy:169
 translate es a3_emi_eet_ees_scienca_d314a1b8:
 
-    # "He smiles at me enthusiastically, as if waiting for me to confirm that yes, here is were we are."
+    # "He smiles at me enthusiastically, as if waiting for me to confirm that yes, here is where we are."
     "Él me sonríe con entusiasmo, como si esperara que yo confirme ese sí, que aquí es donde estamos."
 
 # game/script-a3-emi.rpy:171

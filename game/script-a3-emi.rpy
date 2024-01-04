@@ -166,7 +166,7 @@ label a3_emi:
         show muto smile
         with charachange
 
-        "He smiles at me enthusiastically, as if waiting for me to confirm that yes, here is were we are."
+        "He smiles at me enthusiastically, as if waiting for me to confirm that yes, here is where we are."
 
         "Somehow I get the feeling that Mutou had a plan for this conversation, but I'll be damned if I can figure it out."
 

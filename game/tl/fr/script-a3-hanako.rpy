@@ -2595,7 +2595,7 @@ translate fr a3_hanako_antiques_and_pie_0b2264a8:
 # game/script-a3-hanako.rpy:1710
 translate fr a3_hanako_antiques_and_pie_39ac1c52:
 
-    # "The shopkeeper gives us an almost bored look though his particularly small eyes. His face looks weary and tired, and his dress style is distinctly anachronistic. He gives us a polite nod of welcome before going back to his book."
+    # "The shopkeeper gives us an almost bored look through his particularly small eyes. His face looks weary and tired, and his dress style is distinctly anachronistic. He gives us a polite nod of welcome before going back to his book."
     "Le gérant nous adresse un regard ennuyé de ses yeux particulièrement petits. Son visage semble las et fatigué et son style vestimentaire est vraiment anachronique. Il nous adresse un hochement poli de bienvenue avant de retourner à son livre."
 
 # game/script-a3-hanako.rpy:1715

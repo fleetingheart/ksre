@@ -315,7 +315,7 @@ translate fr a3_emi_eet_ees_scienca_8444312d:
 # game/script-a3-emi.rpy:165
 translate fr a3_emi_eet_ees_scienca_d314a1b8:
 
-    # "He smiles at me enthusiastically, as if waiting for me to confirm that yes, here is were we are."
+    # "He smiles at me enthusiastically, as if waiting for me to confirm that yes, here is where we are."
     "Il me sourit avec enthousiasme, comme s'il voulait que je confirme que oui, nous y voilà."
 
 # game/script-a3-emi.rpy:167

@@ -4017,7 +4017,7 @@ translate ru a1_saturday_shanghaied_515d6aa9:
 # game/script-a1-saturday.rpy:2434
 translate ru a1_saturday_shanghaied_1aa279ae:
 
-    # hi "If this is a very high class establishment, then they should have very high class coffee, right? … No one died for it, right?"
+    # hi "If this is a very high class establishment, then they should have very high class coffee, right? …No one died for it, right?"
     hi "Если это первоклассное заведение, у них должен быть первоклассный кофе, верно? … За который никому не пришлось погибнуть, да?"
 
 # game/script-a1-saturday.rpy:2439
@@ -4449,7 +4449,7 @@ translate ru a1_saturday_shanghaied_b33ba1f7:
 # game/script-a1-saturday.rpy:2707
 translate ru a1_saturday_shanghaied_0a3952d6:
 
-    # mi "Hm… Ah, how about this, Hicchan: If you lose, you have to go to school one day without any pants on."
+    # mi "Hm… Ah, how about this, Hicchan: if you lose, you have to go to school one day without any pants on."
     mi "Хм… Тогда как насчёт этого, Хиттян: если ты проиграешь, тебе придётся однажды прийти в школу без штанов."
 
 # game/script-a1-saturday.rpy:2709

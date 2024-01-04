@@ -2469,7 +2469,7 @@ label a4_hanako:
 
         hi "That works out well; I'm just wandering around there now. Where are you?"
 
-        "Hanako manages to stammer out the street name, address, and some basic directions to where she is. Luckily It's not too far, so I agree to see her soon before hanging up."
+        "Hanako manages to stammer out the street name, address, and some basic directions to where she is. Luckily it's not too far, so I agree to see her soon before hanging up."
 
         $ renpy.music.set_volume(1.0, 0.0, channel="sound")
         $ renpy.music.set_volume(1.0, 1.0, channel="music")

@@ -1089,7 +1089,7 @@ translate es a3_lilly_minor_discord_40be391a:
 # game/script-a3-lilly.rpy:734
 translate es a3_lilly_minor_discord_24d788da:
 
-    # "Walking up the hallway of the girl's dormitory, several ideas of why Hanako's been absent float around my head. The most obvious of them is just a simple cold."
+    # "Walking up the hallway of the girls' dormitory, several ideas of why Hanako's been absent float around my head. The most obvious of them is just a simple cold."
     "Caminando al pasillo de los dormitorios de chicas, pasan por mi mente varias ideas de por qué Hanako ha estado ausente. La más obvia de ellas es que es solo un simple resfriado."
 
 # game/script-a3-lilly.rpy:736
@@ -2433,7 +2433,7 @@ translate es a3_lilly_renewal_e9fdb019:
 # game/script-a3-lilly.rpy:1470
 translate es a3_lilly_renewal_4b3ef1f8:
 
-    # "While I frantically try to silently catch Misha's attention, Mutou confidently strides though the gap between the desks from the front of the class, his intent gaze focused directly on her."
+    # "While I frantically try to silently catch Misha's attention, Mutou confidently strides through the gap between the desks from the front of the class, his intent gaze focused directly on her."
     "Mientras intento desesperadamente llamar la atención de Misha en silencio, Mutou confiadamente avanza por los espacios que separan los pupitres del frente de la clase, su mirada decidida enfocada directamente en ella."
 
 # game/script-a3-lilly.rpy:1478

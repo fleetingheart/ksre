@@ -731,7 +731,7 @@ label a3_lilly:
 
         play music music_night fadein 1.0
 
-        "Walking up the hallway of the girl's dormitory, several ideas of why Hanako's been absent float around my head. The most obvious of them is just a simple cold."
+        "Walking up the hallway of the girls' dormitory, several ideas of why Hanako's been absent float around my head. The most obvious of them is just a simple cold."
 
         "That said, she may not even be sick at all. It's been almost a week since Lilly left, and despite her at least appearing to be normal, I've suspected she's somewhat more insecure about it than she's letting on."
 
@@ -1467,7 +1467,7 @@ label a3_lilly:
 
         pause 0.5
 
-        "While I frantically try to silently catch Misha's attention, Mutou confidently strides though the gap between the desks from the front of the class, his intent gaze focused directly on her."
+        "While I frantically try to silently catch Misha's attention, Mutou confidently strides through the gap between the desks from the front of the class, his intent gaze focused directly on her."
 
         show muto:
             xpos 0.6 xanchor 0.5 yalign 1.0
