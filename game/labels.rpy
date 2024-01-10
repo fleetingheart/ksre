@@ -215,8 +215,7 @@ label start:
             # bad ending
             pass
     elif force_route == FR_SHIZU:
-
-        call act_op("tc_act2_shizune_out_av1.webm")
+        call act_op("tc_act2_shizune.webm")
         call a2_shizune
 
         call act_op("tc_act3_shizune.webm")
