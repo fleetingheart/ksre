@@ -663,6 +663,8 @@ define current_scene = ""
 
 default credits_vid = None
 
+define config.hw_video = False
+
 # Act 1
 
 define FR_EMI    = 1
