@@ -1,4 +1,4 @@
-﻿#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
+#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
 
 # game/script-a3-rin.rpy:11
 translate es a3_rin_tt_corner_57aecb1c:
@@ -2557,7 +2557,7 @@ translate es a3_rin_rosetinted_glasses_56cdc2b4:
     hi "¿En serio piensa que ella tiene oportunidad de tener un gran éxito con su exhibición?"
 
 # game/script-a3-rin.rpy:1668
-translate es a3_rin_rosetinted_glasses_9e01f4da:
+translate es a3_rin_rosetinted_glasses_9a8dc528:
 
     # "Nomiya turns and looks up from my sketch, adjusting his glasses. He rubs his chin, looking contemplative."
     "Nomiya se voltea y mira por encima de mi dibujo, ajustándose los anteojos. Se frota la barbilla, viéndose contemplativo."
@@ -6259,7 +6259,7 @@ translate es a3_rin_boundless_d5449ac3:
     "Una tarde, me subo al autobús que se dirige a la ciudad. Trato de evitar explicarme a mí mismo exactamente por qué estoy haciendo esto, y sigo pensando en otras cosas durante todo el viaje."
 
 # game/script-a3-rin.rpy:3783
-translate es a3_rin_boundless_ceeac96e:
+translate es a3_rin_boundless_31095c9f:
 
     # "After a five-minute walk, I'm standing in front of the gallery."
     "Después de una caminata de cinco minutos, estoy parado enfrente de la galería."

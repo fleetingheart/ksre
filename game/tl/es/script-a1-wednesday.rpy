@@ -1,4 +1,4 @@
-﻿#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
+#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
 
 # game/script-a1-wednesday.rpy:14
 translate es a1_wednesday_lunch_evolution_theory_9e88b65e:
@@ -4699,7 +4699,7 @@ translate es a1_wednesday_the_other_green_69ab365a:
     "Tropiezo con mis palabras, de pronto sintiéndome como si hubiese caminado directo al campo minado de la incorrección política."
 
 # game/script-a1-wednesday.rpy:2938
-translate es a1_wednesday_the_other_green_5b05bfd9:
+translate es a1_wednesday_the_other_green_c339bb9e:
 
     # rin "It's OK, you can say it. I probably won't get mad."
     rin "Está bien, puedes decirlo. Probablemente no me enfadaré."

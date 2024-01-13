@@ -1,4 +1,4 @@
-﻿#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
+#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
 
 # game/script-a2-shizune.rpy:12
 translate es a2_shizune_message_passing_76b2fe88:
@@ -343,7 +343,7 @@ translate es a2_shizune_message_passing_278daf1f:
     n "La única persona en quien puedo pensar para preguntarle, en este momento, es Misha."
 
 # game/script-a2-shizune.rpy:227
-translate es a2_shizune_message_passing_d337f2a5:
+translate es a2_shizune_message_passing_e1f004ef:
 
     # n "How badly do I want to know this? There's two options: wait until after class, or go look for her now."
     n "¿Qué tanto quiero saber esto? Hay dos opciones: esperar hasta después de clase, o ir a buscarla ahora."

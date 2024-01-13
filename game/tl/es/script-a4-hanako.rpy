@@ -1,4 +1,4 @@
-﻿#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
+#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
 
 # game/script-a4-hanako.rpy:12
 translate es a4_hanako_truancy_bf506199:
@@ -4225,7 +4225,7 @@ translate es a4_hanako_city_rendezvous_2e3a8435:
     hi "Eso va de maravilla; justo ahora estoy vagando por ahí. ¿Dónde estás?"
 
 # game/script-a4-hanako.rpy:2472
-translate es a4_hanako_city_rendezvous_a29187d5:
+translate es a4_hanako_city_rendezvous_4e903374:
 
     # "Hanako manages to stammer out the street name, address, and some basic directions to where she is. Luckily it's not too far, so I agree to see her soon before hanging up."
     "Hanako se las arregla para balbucear el nombre de la calle, dirección, y algunas indicaciones de donde está. Por suerte no está tan lejos, así que acuerdo verla pronto antes de colgar."

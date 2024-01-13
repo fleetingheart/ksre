@@ -1,4 +1,4 @@
-﻿#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
+#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
 
 # game/script-a3-lilly.rpy:18
 translate es a3_lilly_day_by_day_64fcbbfa:
@@ -1087,7 +1087,7 @@ translate es a3_lilly_minor_discord_40be391a:
     hi "Claro, no hay problema."
 
 # game/script-a3-lilly.rpy:734
-translate es a3_lilly_minor_discord_24d788da:
+translate es a3_lilly_minor_discord_390093ad:
 
     # "Walking up the hallway of the girls' dormitory, several ideas of why Hanako's been absent float around my head. The most obvious of them is just a simple cold."
     "Caminando al pasillo de los dormitorios de chicas, pasan por mi mente varias ideas de por qué Hanako ha estado ausente. La más obvia de ellas es que es solo un simple resfriado."
@@ -2431,7 +2431,7 @@ translate es a3_lilly_renewal_e9fdb019:
     "Cuando recibe la nota y comienza a escribir, alzo la mirada para ver una imagen poco grata."
 
 # game/script-a3-lilly.rpy:1470
-translate es a3_lilly_renewal_4b3ef1f8:
+translate es a3_lilly_renewal_ce9b3501:
 
     # "While I frantically try to silently catch Misha's attention, Mutou confidently strides through the gap between the desks from the front of the class, his intent gaze focused directly on her."
     "Mientras intento desesperadamente llamar la atención de Misha en silencio, Mutou confiadamente avanza por los espacios que separan los pupitres del frente de la clase, su mirada decidida enfocada directamente en ella."

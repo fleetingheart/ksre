@@ -1,4 +1,4 @@
-﻿#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
+#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
 
 # game/script-a3-hanako.rpy:11
 translate es a3_hanako_invitation_5996be1f:
@@ -2593,7 +2593,7 @@ translate es a3_hanako_antiques_and_pie_0b2264a8:
     "La tienda tiene un extraño y almizclado aroma. La disposición es más como un garage que como una tienda; las cosas están esparcidas por todo el piso sin ninguna apariencia inmediata de orden."
 
 # game/script-a3-hanako.rpy:1715
-translate es a3_hanako_antiques_and_pie_39ac1c52:
+translate es a3_hanako_antiques_and_pie_fe75bb4f:
 
     # "The shopkeeper gives us an almost bored look through his particularly small eyes. His face looks weary and tired, and his dress style is distinctly anachronistic. He gives us a polite nod of welcome before going back to his book."
     "El encargado nos da una mirada casi aburrida a través de sus particularmente pequeños ojos. Su rostro luce fastidiado y cansado, y su forma de vestir es distintivamente anacrónica. Nos da un cortés asentimiento de bienvenida antes de volver a su libro."

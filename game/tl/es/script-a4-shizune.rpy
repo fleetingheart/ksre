@@ -1,4 +1,4 @@
-﻿#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
+#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
 
 # game/script-a4-shizune.rpy:12
 translate es a4_shizune_grand_strategy_b15bdb6b:
@@ -833,7 +833,7 @@ translate es a4_shizune_off_by_one_873cf749:
     ssh "Todo es parte de mi plan llamado “hacer que Misha deje de estar tan deprimida”. Estuve despierta toda la noche trabajando en él."
 
 # game/script-a4-shizune.rpy:567
-translate es a4_shizune_off_by_one_fcf8b494:
+translate es a4_shizune_off_by_one_4dc89cf0:
 
     # ssh "When we tried to order in last time, Misha barely got anything, and used it as an excuse to leave early. I won't let her get off so easily this time. The food is already here. She'll have to sit down and eat with us."
     ssh "Cuando intentamos ordenar la última vez, Misha escasamente comió algo, y lo usó como excusa para irse temprano. No dejaré que se escape tan fácilmente esta vez. La comida ya está aquí. Ella tendrá que sentarse y comer con nosotros."
@@ -6099,7 +6099,7 @@ translate es a4_shizune_sneaking_mission_7913a723:
     "Creo que todos quieren un propósito. Rememorando, tiene sentido que Shizune no tenga uno. De lo contrario toda esa energía habría sido dirigida a algo."
 
 # game/script-a4-shizune.rpy:4019
-translate es a4_shizune_sneaking_mission_633eba3b:
+translate es a4_shizune_sneaking_mission_e48146db:
 
     # "Since she had nothing to channel it towards, Shizune lashed out in all directions. Reminds me of a downed power line flailing in a storm: furious and incandescent, but aimless and dangerous. Just like Shizune."
     "Ya que Shizune no tenía hacia dónde canalizarla, la lanzó en todas las direcciones. Me recuerda a un cable eléctrico caído sacudiéndose en una tormenta: furioso e incandescente, pero sin rumbo y peligroso. Tal como Shizune."

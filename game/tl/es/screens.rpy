@@ -1,4 +1,4 @@
-﻿#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
+#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
 
 translate es strings:
 
@@ -251,25 +251,29 @@ translate es strings:
 
     # game/screens.rpy:250
     old "Adult content is disabled."
-    new "Adult content is disabled."
+    new "Contenido para adultos desactivado."
 
     # game/screens.rpy:252
     old "Adult content is enabled."
-    new "Adult content is enabled."
+    new "Contenido para adultos activado."
 
     # game/screens.rpy:1050
     old "Colorblind Filter"
-    new "Filtro daltónico"
+    new "Filtro Daltónico"
+
+    # game/screens.rpy:1054
+    old "None"
+    new "Nada"
 
     # game/screens.rpy:1144
     old "You must be 18+ to see adult content within this game.\nDo you meet these requirements?"
-    new "You must be 18+ to see adult content within this game.\nDo you meet these requirements?"
+    new "Debe tener 18 años o más para visualizar contenido para adultos en este juego. ¿Confirma cumplir con estos requisitos?"
 
     # game/screens.rpy:1145
     old "Note: answering \"No\" does NOT prevent you from playing the game."
-    new "Note: answering \"No\" does NOT prevent you from playing the game."
+    new "Nota: responder \"No\" NO impide que juegue el juego."
 
     # game/screens.rpy:1146
     old "This question will not be shown again after you start playing."
-    new "This question will not be shown again after you start playing."
+    new "Esta pregunta no se mostrará nuevamente después de que comience a jugar."
 

@@ -1,4 +1,4 @@
-﻿#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
+#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
 
 # game/script-a3-emi.rpy:10
 translate es a3_emi_eet_ees_scienca_76b2fe88:
@@ -313,7 +313,7 @@ translate es a3_emi_eet_ees_scienca_8444312d:
     mu "Así que regresé a química, y aquí estamos. ¿Sí?"
 
 # game/script-a3-emi.rpy:169
-translate es a3_emi_eet_ees_scienca_d314a1b8:
+translate es a3_emi_eet_ees_scienca_cdf74e18:
 
     # "He smiles at me enthusiastically, as if waiting for me to confirm that yes, here is where we are."
     "Él me sonríe con entusiasmo, como si esperara que yo confirme ese sí, que aquí es donde estamos."
