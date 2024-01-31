@@ -1,0 +1,3 @@
+[submodule "fastlane"]
+	path = fastlane
+	url = https://codeberg.org/fhs/fastlane
