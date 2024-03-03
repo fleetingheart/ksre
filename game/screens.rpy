@@ -72,7 +72,9 @@ screen doublespeak(c1, t1, c2, t2):
 
     use ctc
 
-    key "dismiss" action [Hide("doublespeak"), Return()]
+    key ["dismiss", "skip"] action Return()
+
+    on "show" action If(renpy.is_skipping(), Return())
 
 screen choice(items):
     style_prefix "choice"
@@ -80,7 +82,15 @@ screen choice(items):
     vbox:
         at colorblind(persistent.colorblind)
         for i in items:
-            textbutton i.caption action i.action
+            textbutton i.caption:
+                if i.caption in persistent._seen_choices:
+                    foreground "check_sl_fg_op_cb"
+                    hover_foreground "check_sl_fg_cb"
+                    action i.action
+                else:
+                    foreground "check_fg_op_cb"
+                    hover_foreground "check_fg_cb"
+                    action [AddToSet(persistent._seen_choices, i.caption), i.action]
 
 screen nvl(dialogue, items=None):
     window id "window":
@@ -193,7 +203,6 @@ screen main_menu():
     tag menu
     style_prefix "main_menu"
 
-    
     add "main_menu_bg" at colorblind(persistent.colorblind)
 
     vbox:
@@ -981,9 +990,9 @@ screen written_note(text, quiet=False, custom_background=None):
 
         text text
 
-    key "dismiss" action [Hide("written_note"), Return()]
+    key ["dismiss", "skip"] action Return()
 
-    on "show" action If(not quiet, Play("sound", sfx_paper))
+    on "show" action [If(not quiet, Play("sound", sfx_paper)), If(renpy.is_skipping(), Return())]
 
 screen accessibility():
     tag menu

@@ -242,6 +242,8 @@ init python:
     def rainAnim(my_offset=0.0, zoom=1.0, alpha=1.0):
         return rainAnim_tf(my_offset, zoom, alpha)
 
+image null = Null()
+
 image adult_warning_bg = Composite((1920, 1080), (0, 0), "gui/bg/main.png")
 image main_menu_bg = DynamicDisplayable(main_menu_composer)
 image config_bg = Frame("gui/bg/config.png")
@@ -1614,18 +1616,18 @@ image letterbox = LiveComposite(
     (0, 0), Solid("#000", ymaximum=75),
     (0, 525), Solid("#000", ymaximum=75))
 
-image snowfg = SnowBlossom("vfx/snowflake.png", start=3.0, count=20, border=50, xspeed=(20, 50), yspeed=(120, 180), fast=True)
-image snowbg = SnowBlossom(im.Scale("vfx/snowflake.png", 5, 5), count=30, yspeed=(80, 120), start=3.0, border=50, xspeed=(20, 50), fast=True)
+image snowfg = SnowBlossom("vfx/snowflake.png", start=3.0, count=20, border=50, xspeed=(20, 50), yspeed=(216, 324), fast=True)
+image snowbg = SnowBlossom(im.Scale("vfx/snowflake.png", 5, 5), count=30, yspeed=(144, 216), start=3.0, border=50, xspeed=(20, 50), fast=True)
 image snow = LiveComposite(
     (1920, 1080),
     (0, 0), "snowbg",
     (0, 0), "snowfg")
 
-image sakura = SnowBlossom(anim.Filmstrip("vfx/sakura.png", (20, 20), (2, 1), .25), xspeed=(150, 100), yspeed=(75, 150), count=80, fast=True)
+image sakura = SnowBlossom(anim.Filmstrip("vfx/sakura.png", (20, 20), (2, 1), .25), xspeed=(150, 100), yspeed=(135, 270), count=80, fast=True)
 image hospitalmask = "vfx/hospitalroommask_new.png"
 
-image dandeliontbg = SnowBlossom(im.Scale("vfx/dandelion.png",13,16), count=20, border=25, xspeed=(50, 100), yspeed=(-30, -10), start=8.0, fast=False, horizontal=True)
-image dandeliontfg = SnowBlossom("vfx/dandelion.png", count=10, border=25, xspeed=(100, 200), yspeed=(-40, -15), start=8.0, fast=False, horizontal=True)
+image dandeliontbg = SnowBlossom(im.Scale("vfx/dandelion.png",13,16), count=20, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=False, horizontal=True)
+image dandeliontfg = SnowBlossom("vfx/dandelion.png", count=10, border=25, xspeed=(100, 200), yspeed=(-72, -27), start=8.0, fast=False, horizontal=True)
 image dandelions thin = LiveComposite(
     (1920, 1080),
     (0, 0), "dandeliontbg",
@@ -1639,8 +1641,8 @@ image kslogo words = "gui/logo/large.png"
 
 image credits mask = "gui/bg/roll_mask.png"
 
-image dandeliondbg = SnowBlossom(im.Scale("vfx/dandelion.png",13,16), count=40, border=25, xspeed=(50, 100), yspeed=(-30, -10), start=8.0, fast=True, horizontal=True)
-image dandeliondfg = SnowBlossom("vfx/dandelion.png", count=20, border=25, xspeed=(100, 200), yspeed=(-40, -15), start=8.0, fast=True, horizontal=True)
+image dandeliondbg = SnowBlossom(im.Scale("vfx/dandelion.png",13,16), count=40, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=True, horizontal=True)
+image dandeliondfg = SnowBlossom("vfx/dandelion.png", count=20, border=25, xspeed=(100, 200), yspeed=(-72, -27), start=8.0, fast=True, horizontal=True)
 image dandelions dense = LiveComposite(
     (1920, 1080),
     (0, 0), "dandeliondbg",
@@ -1649,8 +1651,8 @@ image dandelions dense = LiveComposite(
 image dandelionsbg dense = "dandeliondbg"
 image dandelionsfg dense = "dandeliondfg"
 
-image dandelions_blurbg = SnowBlossom(im.Scale("vfx/dandelion_blur.png",13,16), count=40, border=25, xspeed=(50, 100), yspeed=(-30, -10), start=8.0, fast=True, horizontal=True)
-image dandelions_blurfg = SnowBlossom("vfx/dandelion_blur.png", count=20, border=25, xspeed=(100, 200), yspeed=(-40, -15), start=8.0, fast=True, horizontal=True)
+image dandelions_blurbg = SnowBlossom(im.Scale("vfx/dandelion_blur.png",13,16), count=40, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=True, horizontal=True)
+image dandelions_blurfg = SnowBlossom("vfx/dandelion_blur.png", count=20, border=25, xspeed=(100, 200), yspeed=(-72, -27), start=8.0, fast=True, horizontal=True)
 
 image steam:
     "vfx/steam1.png"
@@ -1678,6 +1680,12 @@ image check_fg = contrast_checker("gui/button/check_foreground.png")
 
 image check_sl_fg_op = contrast_checker("gui/button/check_selected_foreground.png", im.matrix.opacity(0.4))
 image check_sl_fg = contrast_checker("gui/button/check_selected_foreground.png")
+
+image check_fg_op_cb = VBox(Null(height=6), HBox(Null(width=1060), "check_fg_op"))
+image check_fg_cb = VBox(Null(height=6), HBox(Null(width=1060), "check_fg"))
+
+image check_sl_fg_op_cb = VBox(Null(height=6), HBox(Null(width=1060), "check_sl_fg_op"))
+image check_sl_fg_cb = VBox(Null(height=6), HBox(Null(width=1060), "check_sl_fg"))
 
 image return_op = contrast_checker("gui/button/return.png", im.matrix.opacity(0.4))
 image return_ = contrast_checker("gui/button/return.png")

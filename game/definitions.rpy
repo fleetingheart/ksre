@@ -219,6 +219,7 @@ init 1000 python:
 define null = Null()
 
 default persistent._watched_videos = set()
+default persistent._seen_choices = set()
 
 define _videos = (
     "video/op_1.webm", "video/tc_act2_emi.webm", "video/tc_act2_hanako.webm",

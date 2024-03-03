@@ -6,9 +6,10 @@ init -501 python:
     gui.init(1920, 1080)
 
 define config.developer = "auto"
+define config.window = "auto"
 
 define config.name = "Katawa Shoujo: Re-Engineered"
-define config.version = "1.4.2"
+define config.version = "1.4.3"
 
 define config.save_directory = config.name
 

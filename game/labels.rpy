@@ -243,6 +243,7 @@ label replay_start:
 
     stop music fadeout 1.0
 
+    $ renpy.transition(dissolve)
     call expression _current_replay
 
     return
@@ -259,8 +260,10 @@ label credits:
     with Dissolve(2.0)
 
     if credits_vid:
-        $ renpy.music.play(music_credits, loop=False)
+        play music music_credits noloop
         $ renpy.movie_cutscene(credits_vid, stop_music=False)
+    else:
+        play music music_musicbox volume 0.25 noloop
 
     show credits_final behind credits at Transform(xalign=0.5, yalign=0.0)
     with Dissolve(2.0)
@@ -273,13 +276,12 @@ label credits:
 
     pause 60.0
 
-    show expression Text("©MMXV Four Leaf Studios, Fleeting Heartbeat Studios", text_align=0.5, size=29) zorder 999 at Transform(xalign=0.5, ypos=1261)
+    show expression Text("©MMXV Four Leaf Studios, Fleeting Heartbeat Studios", text_align=0.5, size=29) zorder 999 at Transform(xalign=0.5, yalign=0.605)
     with Dissolve(2.0)
 
     pause 5.0
 
-    stop music fadeout 1.0
-
+    stop music fadeout 2.0
     scene black
     with Dissolve(2.0)
 
