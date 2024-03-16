@@ -74,3 +74,6 @@ define config.mouse_displayable = mouse if not persistent.hardware_cursor and no
 define _game_menu_screen = "game_menu"
 
 define config.controller_blocklist = []
+
+default preferences.afm_time = 15
+default preferences.text_cps = 0

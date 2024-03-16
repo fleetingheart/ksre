@@ -518,7 +518,7 @@ if commentary == True:
 show pyramus neutral behind audience at offscreenleft onlayer master
 with None
 
-play music "mods/pxt/music/tamhe01.mp3" fadein 1.0
+play music "mods/pxt/music/tamhe01.ogg" fadein 1.0
 
 show pyramus neutral onlayer master at left
 show moon smile onlayer master at right

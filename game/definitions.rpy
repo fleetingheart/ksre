@@ -222,8 +222,8 @@ default persistent._watched_videos = set()
 default persistent._seen_choices = set()
 
 define _videos = (
-    "video/op_1.webm", "video/tc_act2_emi.webm", "video/tc_act2_hanako.webm",
-    "video/tc_act2_lilly.webm", "video/tc_act2_rin.webm", "video/tc_act2_shizune.webm")
+    "video/op_1.mkv", "video/tc_act2_emi.mkv", "video/tc_act2_hanako.mkv",
+    "video/tc_act2_lilly.mkv", "video/tc_act2_rin.mkv", "video/tc_act2_shizune.mkv")
 
 define _replays = [
     (_("Act 1"), [
