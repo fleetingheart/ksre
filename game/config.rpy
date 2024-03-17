@@ -53,6 +53,7 @@ define config.gestures = {
 
 define config.history_length = 250
 
+default preferences.afm_time = 15
 default preferences.text_cps = 40
 
 default persistent.hdisabled = False
@@ -62,10 +63,7 @@ default persistent.blinking_arrow = False
 default persistent.adult_warning_shown = False
 default persistent.colorblind = None
 
-if renpy.emscripten:
-    default persistent.hardware_cursor = True
-else:
-    default persistent.hardware_cursor = False
+default persistent.hardware_cursor = True if renpy.emscripten else False
 
 define mouse = MouseDisplayable("gui/icons/cursor.png", 0, 0)
 
@@ -74,6 +72,3 @@ define config.mouse_displayable = mouse if not persistent.hardware_cursor and no
 define _game_menu_screen = "game_menu"
 
 define config.controller_blocklist = []
-
-default preferences.afm_time = 15
-default preferences.text_cps = 0

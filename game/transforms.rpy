@@ -269,7 +269,7 @@ transform hanako_fw_constructor(in_r, in_g, in_b):
         parallel:
             "fw_flash" with fw_dis_fast
             0.05
-            im.MatrixColor("event/hanako_fw_flash.jpg", im.matrix.tint(in_r, in_g, in_b)) with fw_dis_medium
+            Transform("event/hanako_fw_flash.jpg", matrixcolor=TintMatrix((in_r, in_g, in_b))) with fw_dis_medium
             8.0
     repeat
 
@@ -330,8 +330,8 @@ transform rotateBy(rotation=0):
     delay 0.15
     ease(0.15) rotate rotation
 
-define dotwipe_down = ImageDissolve(im.Tile("gui/trans/dots_col.png"), 0.5, 32, ramptype="mcube")
-define dotwipe_up = ImageDissolve(im.Tile("gui/trans/dots_col.png"), 0.5, 32, ramptype="mcube", reverse=True)
+define dotwipe_down = ImageDissolve(Tile("gui/trans/dots_col.png"), 0.5, 32, ramptype="mcube")
+define dotwipe_up = ImageDissolve(Tile("gui/trans/dots_col.png"), 0.5, 32, ramptype="mcube", reverse=True)
 
 define openeye = ImageDissolve("gui/trans/eyes.png", 2.0, 64, ramptype="cube")
 define shuteye = ImageDissolve("gui/trans/eyes.png", 2.0, 64, ramptype="mcube", reverse=True)
@@ -341,27 +341,27 @@ define shuteyefast = ImageDissolve("gui/trans/eyes.png", 0.2, 64, ramptype="mcub
 
 define openeye_shock = ImageDissolve("gui/trans/openshock.png", 0.8, 64, ramptype="cube")
 
-define whip_right = ImageDissolve(im.Tile("gui/trans/softwipe.png"), 0.3, 256, ramptype="mcube")
-define whip_left = ImageDissolve(im.Tile("gui/trans/softwipe.png"), 0.3, 256, ramptype="mcube", reverse=True)
+define whip_right = ImageDissolve(Tile("gui/trans/softwipe.png"), 0.3, 256, ramptype="mcube")
+define whip_left = ImageDissolve(Tile("gui/trans/softwipe.png"), 0.3, 256, ramptype="mcube", reverse=True)
 
-define flashback = ImageDissolve(im.Tile("gui/trans/flashback.png"), 2.0, 32)
-define clockwipe = ImageDissolve(im.Tile("gui/trans/clockwipe.png"), 2.0, 8)
+define flashback = ImageDissolve(Tile("gui/trans/flashback.png"), 2.0, 32)
+define clockwipe = ImageDissolve(Tile("gui/trans/clockwipe.png"), 2.0, 8)
 
 define delayblinds = ImageDissolve("gui/trans/delayblinds.png", 1.0)
 
 define fw_dis_fast = Dissolve(0.04)
 define fw_dis_medium = Dissolve(0.2)
 define fw_dis_slow = Dissolve(3.0)
-define fw_sparkle_out = ImageDissolve(im.Tile("gui/trans/pronoise.png"), 3.0, 32)
+define fw_sparkle_out = ImageDissolve(Tile("gui/trans/pronoise.png"), 3.0, 32)
 
-define letter_in = ImageDissolve(im.Tile("gui/trans/letter.png"), 1.0, 8, reverse=True)
-define letter_out = ImageDissolve(im.Tile("gui/trans/letter.png"), 1.0, 8)
+define letter_in = ImageDissolve(Tile("gui/trans/letter.png"), 1.0, 8, reverse=True)
+define letter_out = ImageDissolve(Tile("gui/trans/letter.png"), 1.0, 8)
 
 define hands_in = ImageDissolve("gui/trans/handsdissolve.png", 0.2, ramplen=256, reverse=True)
 define hands_out = ImageDissolve("gui/trans/handsdissolve.png", 0.2, ramplen=256)
 
-define softwipedown = ImageDissolve(im.Tile("gui/trans/wipeh.png"), 1.5, 16)
-define softwipeup = ImageDissolve(im.Tile("gui/trans/wipeh.png"), 1.5, 16, reverse=True)
+define softwipedown = ImageDissolve(Tile("gui/trans/wipeh.png"), 1.5, 16)
+define softwipeup = ImageDissolve(Tile("gui/trans/wipeh.png"), 1.5, 16, reverse=True)
 
 define silentflash = Fade(0.25, 0, 0.75, color="#FFF")
 define flash = MultipleTransition([

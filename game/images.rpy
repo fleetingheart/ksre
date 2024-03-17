@@ -14,29 +14,29 @@ image fw_flash = "#FFFFFF66"
 image fw_screen = "#000000CC"
 
 init python:
-    def night(img_in):
-        return im.MatrixColor(img_in, im.matrix.tint(0.6, 0.6, 0.7) * im.matrix.saturation(0.6))
+    def night(image):
+        return Transform(image, matrixcolor=TintMatrix((0.6, 0.6, 0.7)) * SaturationMatrix(0.6))
 
-    def sunset(img_in):
-        return im.MatrixColor(img_in, im.matrix.tint(1.1, 0.95, 0.85) * im.matrix.brightness(0.1) * im.matrix.saturation(1.2))
+    def sunset(image):
+        return Transform(image, matrixcolor=TintMatrix((1.1, 0.95, 0.85)) * SaturationMatrix(1.2) * BrightnessMatrix(0.1))
 
-    def rain(img_in):
-        return im.MatrixColor(img_in, im.matrix.saturation(0.4) * im.matrix.tint(0.95, 0.95, 1.0) * im.matrix.brightness(-0.1))
+    def rain(image):
+        return Transform(image, matrixcolor=TintMatrix((0.95, 0.95, 1.0)) * SaturationMatrix(0.4) * BrightnessMatrix(-0.1))
 
-    def sp_night(img_in):
-        return im.MatrixColor(img_in, im.matrix.tint(0.9, 0.92, 1.0) * im.matrix.brightness(-0.05))
+    def sp_night(image):
+        return Transform(image, matrixcolor=TintMatrix((0.9, 0.92, 1.0)) * BrightnessMatrix(-0.05))
 
-    def sp_sunset(img_in):
-        return im.MatrixColor(img_in, im.matrix.tint(1.02, 0.95, 0.9) * im.matrix.brightness(0.05) * im.matrix.saturation(1.1))
+    def sp_sunset(image):
+        return Transform(image, matrixcolor=TintMatrix((1.02, 0.95, 0.9)) * SaturationMatrix(1.1) * BrightnessMatrix(0.05))
 
-    def sp_rain(img_in):
-        return im.MatrixColor(img_in, im.matrix.saturation(0.6) * im.matrix.tint(0.96, 0.96, 1.0) * im.matrix.brightness(-0.05))
+    def sp_rain(image):
+        return Transform(image, matrixcolor=TintMatrix((0.96, 0.96, 1.0)) * SaturationMatrix(0.6) * BrightnessMatrix(-0.05))
 
-    def past(img_in):
-        return im.MatrixColor(img_in, im.matrix.saturation(0.15) * im.matrix.tint(1.0, .94, .76))
+    def past(image):
+        return Transform(image, matrixcolor=TintMatrix((1.0, 0.94, 0.76)) * SaturationMatrix(0.15))
 
-    def past_night(img_in):
-        return im.MatrixColor(img_in, im.matrix.tint(0.6, 0.6, 0.7) * im.matrix.saturation(0.6) * im.matrix.saturation(0.15) * im.matrix.tint(1.0, .94, .76))
+    def past_night(image):
+        return Transform(image, matrixcolor=TintMatrix((0.6, 0.6, 0.7)) * TintMatrix((1.0, 0.94, 0.76)) * SaturationMatrix(0.6) * SaturationMatrix(0.15))
 
     def adult(image, use_null=False):
         if use_null:
@@ -349,9 +349,54 @@ Niomesan
 """), color="#ffffff", text_align=0.5, size=47, xalign=0.5)
 image credits_final = VBox("logo_credo", "credits_text", "logo_4ls")
 
+image button_scribble = "gui/button/scribble.png"
+image button_scribble_op:
+    "button_scribble"
+    matrixcolor OpacityMatrix(0.4)
+
+image button_del = "gui/button/del.png"
+image button_del_op:
+    "button_del"
+    matrixcolor OpacityMatrix(0.4)
+
+image button_return = "gui/button/return.png"
+image button_return_op:
+    "button_return"
+    matrixcolor OpacityMatrix(0.4)
+
+image button_locked_track = "gui/button/locked-track.png"
+image button_locked_track_op:
+    "button_locked_track"
+    matrixcolor OpacityMatrix(0.4)
+
+image button_cg_locked = "gui/button/cg-locked.png"
+image button_cg_locked_op:
+    "button_cg_locked"
+    matrixcolor OpacityMatrix(0.4)
+image button_cg_locked_lop:
+    "button_cg_locked"
+    matrixcolor OpacityMatrix(0.1)
+
+image icon_skip = "gui/icons/skip.png"
+image icon_circle = "gui/icons/circle.png"
+image icon_ctc = "gui/icons/ctc.png"
+
+image icon_emi = "gui/icons/emi.png"
+image icon_emi_colored = "gui/icons/emi-c.png"
+image icon_rin = "gui/icons/rin.png"
+image icon_rin_colored = "gui/icons/rin-c.png"
+image icon_hanako = "gui/icons/hanako.png"
+image icon_hanako_colored = "gui/icons/hanako-c.png"
+image icon_lilly = "gui/icons/lilly.png"
+image icon_lilly_colored = "gui/icons/lilly-c.png"
+image icon_shizune = "gui/icons/shizune.png"
+image icon_shizune_colored = "gui/icons/shizune-c.png"
+
+image logo_large = "gui/logo/large.png"
+
 image gallery_locked = "gui/bg/gallery-locked.png"
 
-image fireworks = LiveComposite(
+image fireworks = Composite(
     (1920, 1080),
     (0, 0), fw_constructor("vfx/fw1.png"),
     (0, 0), fw_constructor("vfx/fw2.png"),
@@ -363,7 +408,7 @@ image fireworks = LiveComposite(
     (0, 0), fw_constructor("vfx/fw8.png"),
     (0, 0), fw_constructor("vfx/fw9.png"))
 
-image fireshine = LiveComposite(
+image fireshine = Composite(
     (1920, 1080),
     (0, 0), fw_constructor_nosparkle(Solid("#FF000009")),
     (0, 0), fw_constructor_nosparkle(Solid("#00FF0009")),
@@ -376,31 +421,31 @@ image drugs = Drugs(config.screen_width * 2, config.screen_height)
 
 image completionbonus = Transform("event/completionbonus.jpg", size=(1920, 1080), fit="contain")
 
-image heartattack alpha = im.Alpha("vfx/heart_attack.png", 0.3)
-image heartattack residual = im.Alpha("vfx/heart_attack.png", 0.17)
 image heartattack = "vfx/heart_attack.png"
+image heartattack alpha = Transform("heartattack", alpha=0.3)
+image heartattack residual = Transform("heartattack", alpha=0.17)
 
-image emigymbouncecomp = im.Composite(
+image emigymbouncecomp = Composite(
     (531, 1134),
     (0, 0), "sprites/emi/emi_basic_grin_gym.png",
     (0, 1080), "vfx/emi_gym_30pxlegs.png")
 
-image emigymclosedbouncecomp = im.Composite(
+image emigymclosedbouncecomp = Composite(
     (531, 1134),
     (0, 0), "sprites/emi/emi_basic_closedgrin_gym.png",
     (0, 1080), "vfx/emi_gym_30pxlegs.png")
 
-image emigymconcentratebouncecomp = im.Composite(
+image emigymconcentratebouncecomp = Composite(
     (531, 1134),
     (0, 0), "sprites/emi/emi_basic_concentrate_gym.png",
     (0, 1080), "vfx/emi_gym_30pxlegs.png")
 
-image emiannoyedbouncecomp = im.Composite(
+image emiannoyedbouncecomp = Composite(
     (531, 1188),
     (0, 0), "sprites/emi/emi_basic_annoyed.png",
     (0, 1080), "vfx/emi_uni_60pxlegs.png")
 
-image emihappybouncecomp = im.Composite(
+image emihappybouncecomp = Composite(
     (531, 1134),
     (0, 0), "sprites/emi/emi_basic_closedhappy.png",
     (0, 1080), "vfx/emi_uni_60pxlegs.png")
@@ -428,14 +473,14 @@ image ev other_iwanako_start:
 image ev other_iwanako = "event/other_iwanako_nosnow.jpg"
 image evul other_iwanako = "event/other_iwanako.jpg"
 
-image ev hisao_class_start = im.Crop("event/hisao_class.jpg", 0, 0, 1920, 1080)
+image ev hisao_class_start = Transform("event/hisao_class.jpg", crop=(0, 0, 1920, 1080))
 
 image ev hisao_class_move:
     "event/hisao_class.jpg"
     xalign 0.0
     acdc_warp 40.0 xalign 1.0
 
-image ev hisao_class_end = im.Crop("event/hisao_class.jpg", 960, 0, 1920, 1080)
+image ev hisao_class_end = Transform("event/hisao_class.jpg", crop=(960, 0, 1920, 1080))
 
 image ev emi_knockeddown = "event/emi_knockeddown.jpg"
 
@@ -449,7 +494,7 @@ image ev emi_knockeddown_largepullout:
     size (1920, 1080) crop (96, 54, 1728, 972)
     easein 10.0 crop (0, 0, 1920, 1080)
 
-image ev emi_knockeddown_face = im.Crop("event/emi_knockeddown_large.jpg", 2016, 90, 1920, 1080)
+image ev emi_knockeddown_face = Transform("event/emi_knockeddown_large.jpg", crop=(2016, 90, 1920, 1080))
 
 image ev emi_knockeddown_legs:
     size None crop None
@@ -649,8 +694,8 @@ image ev rin_rain_towards = "event/rin_rain_towards.jpg"
 image ev rin_rain_away_close = "event/rin_rain_away_close.jpg"
 image ev rin_rain_towards_close = "event/rin_rain_towards_close.jpg"
 
-image ovl rin_rain_hisaotowards_close = im.Crop("event/rin_rain_towards_close.jpg", 960, 0, 960, 2880)
-image ovl rin_rain_hisaotowards = im.Crop("event/rin_rain_towards.jpg", 960, 0, 960, 1080)
+image ovl rin_rain_hisaotowards_close = Transform("event/rin_rain_towards_close.jpg", crop=(960, 0, 960, 2880))
+image ovl rin_rain_hisaotowards = Transform("event/rin_rain_towards.jpg", crop=(960, 0, 960, 1080))
 
 image rin basic_deadpan_superclose = "sprites/rin/superclose/rin_basic_deadpan_superclose.png"
 image rin basic_deadpannormal_superclose = "sprites/rin/superclose/rin_basic_deadpannormal_superclose.png"
@@ -708,12 +753,12 @@ image ev rin_nap_close_awind:
         "ev rin_nap_close" with Dissolve(0.4)
         repeat
 
-image ev rin_nap_total_awind_tears = LiveComposite(
+image ev rin_nap_total_awind_tears = Composite(
     (1920,1080),
     (0, 0), "ev rin_nap_total_awind",
     (0, 0), "ev rin_nap_total_tears")
 
-image ev rin_nap_close_awind_tears = LiveComposite(
+image ev rin_nap_close_awind_tears = Composite(
     (1920, 1080),
     (0, 0), "ev rin_nap_close_awind",
     (0, 0), "ev rin_nap_close_tears")
@@ -738,7 +783,7 @@ image ev rin_gallery:
     truecenter
     "event/rin_gallery.jpg"
 
-image doodlewhite = im.MatrixColor("vfx/rin_doodle.png", im.matrix.brightness(1))
+image doodlewhite = Transform("vfx/rin_doodle.png", matrixcolor=BrightnessMatrix(1))
 
 image ev rin_doodle:
     "doodlewhite"
@@ -790,43 +835,43 @@ image rp_rin frown = "event/rin_pair/rin_pair_rin_frown.png"
 image rp_rin smile = "event/rin_pair/rin_pair_rin_smile.png"
 image rp_rin talk = "event/rin_pair/rin_pair_rin_talk.png"
 
-image evh rin_h2_pan_surprise_base = im.Composite(
+image evh rin_h2_pan_surprise_base = Composite(
     (1920, 2160),
     (0, 0), "event/rin_h2/rin_h2_u_surprise.jpg",
     (0, 720), "event/rin_h2/rin_h2_l_pan.jpg")
 image evh rin_h2_pan_surprise = adult("evh rin_h2_pan_surprise_base")
 
-image evh rin_h2_pan_away_base = im.Composite(
+image evh rin_h2_pan_away_base = Composite(
     (1920, 2160),
     (0, 0), "event/rin_h2/rin_h2_u_away.jpg",
     (0, 720), "event/rin_h2/rin_h2_l_pan.jpg")
 image evh rin_h2_pan_away = adult("evh rin_h2_pan_away_base")
 
-image evh rin_h2_pan_closed_base = im.Composite(
+image evh rin_h2_pan_closed_base = Composite(
     (1920, 2160),
     (0, 0), "event/rin_h2/rin_h2_u_closed.jpg",
     (0, 720), "event/rin_h2/rin_h2_l_pan.jpg")
 image evh rin_h2_pan_closed = adult("evh rin_h2_pan_closed_base")
 
-image evh rin_h2_nopan_closed_base = im.Composite(
+image evh rin_h2_nopan_closed_base = Composite(
     (1920, 2160),
     (0, 0), "event/rin_h2/rin_h2_u_closed.jpg",
     (0, 720), "event/rin_h2/rin_h2_l_nopan.jpg")
 image evh rin_h2_nopan_closed = adult("evh rin_h2_nopan_closed_base")
 
-image evh rin_h2_hisao_surprise_base = im.Composite(
+image evh rin_h2_hisao_surprise_base = Composite(
     (1920, 2160),
     (0, 0), "event/rin_h2/rin_h2_u_surprise.jpg",
     (0, 720), "event/rin_h2/rin_h2_l_hisao.jpg")
 image evh rin_h2_hisao_surprise = adult("evh rin_h2_hisao_surprise_base")
 
-image evh rin_h2_hisao_away_base = im.Composite(
+image evh rin_h2_hisao_away_base = Composite(
     (1920, 2160),
     (0, 0), "event/rin_h2/rin_h2_u_away.jpg",
     (0, 720), "event/rin_h2/rin_h2_l_hisao.jpg")
 image evh rin_h2_hisao_away = adult("evh rin_h2_hisao_away_base")
 
-image evh rin_h2_hisao_closed_base = im.Composite(
+image evh rin_h2_hisao_closed_base = Composite(
     (1920, 2160),
     (0, 0), "event/rin_h2/rin_h2_u_closed.jpg",
     (0, 720), "event/rin_h2/rin_h2_l_hisao.jpg")
@@ -844,15 +889,15 @@ image evh rin_h_normal_close = adult(rin_h_comp("normal", True))
 image evh rin_h_right_close = adult(rin_h_comp("right", True))
 image evh rin_h_strain_close = adult(rin_h_comp("strain", True))
 
-image ev rin_goodend_1 = im.Composite(
+image ev rin_goodend_1 = Composite(
     (1920, 1080),
     (-240, 0), "event/rin_goodend/rin_goodend_base.jpg",
     (-240, 0), "event/rin_goodend/rin_goodend_1.png")
-image ev rin_goodend_1b = im.Composite(
+image ev rin_goodend_1b = Composite(
     (1920, 1080),
     (-240, 0), "event/rin_goodend/rin_goodend_base.jpg",
     (-240, 0), "event/rin_goodend/rin_goodend_1b.png")
-image ev rin_goodend_2 = im.Composite(
+image ev rin_goodend_2 = Composite(
     (1920, 1080),
     (-240, 0), "event/rin_goodend/rin_goodend_base.jpg",
     (-240, 0), "event/rin_goodend/rin_goodend_2.png")
@@ -942,7 +987,7 @@ image ev lilly_trainride_ni = "event/lilly_train/lilly_trainride_ni.jpg"
 image ev lilly_wheat_large = "event/lilly_wheat_large.jpg"
 image ovl lilly_wheat_foreground = "event/lilly_wheat_foreground.png"
 
-image unlock_ev lilly_wheat_close = im.Crop("event/lilly_wheat_large.jpg", 420, 0, 1920, 1080)
+image unlock_ev lilly_wheat_close = Transform("event/lilly_wheat_large.jpg", crop=(420, 0, 1920, 1080))
 image ev lilly_wheat_small = "event/lilly_wheat_small.jpg"
 
 image ev lilly_restaurant_listen = "event/lilly_restaurant_listen.jpg"
@@ -1123,10 +1168,10 @@ image ev hanako_billiards_timid_med:
     "event/hanako_billiards_timid.jpg"
     yanchor 0.0 ypos -0.1 xalign 1.0
 
-image evul hanako_emptyclassroom = im.FactorScale(im.Composite(
+image evul hanako_emptyclassroom = Transform(im.Composite(
     None,
     (0, 0), "event/hanako_emptyclassroom_bg.jpg",
-    (0, 0), "event/hanako_emptyclassroom_fg.png"), 0.8)
+    (0, 0), "event/hanako_emptyclassroom_fg.png"), zoom=0.8)
 
 image evbg hanako_emptyclassroom = "event/hanako_emptyclassroom_bg.jpg"
 image evfg hanako_emptyclassroom = "event/hanako_emptyclassroom_fg.png"
@@ -1200,23 +1245,23 @@ image evmg kenji_glasses_closed = im.Composite(
     (960, 456), "event/kenji_glasses/kenji_glasses_closed.png")
 image evfg kenji_glasses = "event/kenji_glasses/kenji_glasses_fg.png"
 
-image evul kenji_glasses_normal = im.FactorScale(im.Composite(
+image evul kenji_glasses_normal = Transform(im.Composite(
     None,
     (0, 0), "event/kenji_glasses/kenji_glasses_bg.jpg",
     (0, 0), "event/kenji_glasses/kenji_glasses_mg.png",
-    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), 0.8)
-image evul kenji_glasses_frown = im.FactorScale(im.Composite(
+    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), zoom=0.8)
+image evul kenji_glasses_frown = Transform(im.Composite(
     None,
     (0, 0), "event/kenji_glasses/kenji_glasses_bg.jpg",
     (0, 0), "event/kenji_glasses/kenji_glasses_mg.png",
     (960, 456), "event/kenji_glasses/kenji_glasses_frown.png",
-    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), 0.8)
-image evul kenji_glasses_closed = im.FactorScale(im.Composite(
+    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), zoom=0.8)
+image evul kenji_glasses_closed = Transform(im.Composite(
     None,
     (0, 0), "event/kenji_glasses/kenji_glasses_bg.jpg",
     (0, 0), "event/kenji_glasses/kenji_glasses_mg.png",
     (960, 456), "event/kenji_glasses/kenji_glasses_closed.png",
-    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), 0.8)
+    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), zoom=0.8)
 
 image ev shizutanabata = "event/shizu_yukata/shizutanabata.jpg"
 
@@ -1283,17 +1328,17 @@ image evh shizune_hcg_tied_smile_small = adult("event/shizune_hcg_tied/shizune_h
 image evh shizune_hcg_tied_stare_small = adult("event/shizune_hcg_tied/shizune_hcg_tied_stare_small.jpg")
 image evh shizune_hcg_tied_stare = adult("event/shizune_hcg_tied/shizune_hcg_tied_stare.jpg")
 
-image evh_hi shizune_hcg_tied_hisao2_base = im.Composite(
+image evh_hi shizune_hcg_tied_hisao2_base = Composite(
     (3840, 2880),
     (2592, 696), "event/shizune_hcg_tied/shizune_hcg_tied_hisao2.png")
 image evh_hi shizune_hcg_tied_hisao2 = adult("evh_hi shizune_hcg_tied_hisao2_base")
 
-image evh_hi shizune_hcg_tied_hisao2_small_base = im.Composite(
+image evh_hi shizune_hcg_tied_hisao2_small_base = Composite(
     (1920, 1080),
     (1296, 224), "event/shizune_hcg_tied/shizune_hcg_tied_hisao2_small.png")
 image evh_hi shizune_hcg_tied_hisao2_small = adult("evh_hi shizune_hcg_tied_hisao2_small_base")
 
-image evhul shizune_hcg_tied_hisao2_small_base = im.Composite(
+image evhul shizune_hcg_tied_hisao2_small_base = Composite(
     (1920, 1080),
     (0, 0), "event/shizune_hcg_tied/shizune_hcg_tied_kinky3_small.jpg",
     (1296, 224),"event/shizune_hcg_tied/shizune_hcg_tied_hisao2_small.png")
@@ -1357,15 +1402,15 @@ image ev shizu_badend = "event/shizu_badend.jpg"
 
 image ev showdown = "event/lilly_shizu_showdown.jpg"
 image ev showdown_large = "event/lilly_shizu_showdown_large.jpg"
-image ev showdown_lilly = im.Crop("event/lilly_shizu_showdown_large.jpg", 672, 240, 1920, 1080)
-image ev showdown_shizu = im.Crop("event/lilly_shizu_showdown_large.jpg", 3360, 384, 1920, 1080)
+image ev showdown_lilly = Transform("event/lilly_shizu_showdown_large.jpg", crop=(672, 240, 1920, 1080))
+image ev showdown_shizu = Transform("event/lilly_shizu_showdown_large.jpg", crop=(3360, 384, 1920, 1080))
 
-image showdown_lilly_slice = im.Crop("event/lilly_shizu_showdown_large.jpg", 1056, 624, 1920, 540)
-image showdown_shizu_slice = im.Crop("event/lilly_shizu_showdown_large.jpg", 3264, 768, 1920, 540)
+image showdown_lilly_slice = Transform("event/lilly_shizu_showdown_large.jpg", crop=(1056, 624, 1920, 540))
+image showdown_shizu_slice = Transform("event/lilly_shizu_showdown_large.jpg", crop=(3264, 768, 1920, 540))
 
 image ev kenji_rooftop = "event/kenji_rooftop.jpg"
 image ev kenji_rooftop_large = "event/kenji_rooftop_large.jpg"
-image ev kenji_rooftop_kenji = im.Crop("event/kenji_rooftop_large.jpg", 691, 602, 1920, 1080)
+image ev kenji_rooftop_kenji = Transform("event/kenji_rooftop_large.jpg", crop=(691, 602, 1920, 1080))
 
 image bg tearoom_lillyhisao_noon = "event/Lilly_supercg/tearoom_lillyhisao_noon.jpg"
 image bg tearoom_lillyhisao_sunset = "event/Lilly_supercg/tearoom_lillyhisao_sunset.jpg"
@@ -1422,19 +1467,19 @@ image ev shizu_chess_base = "event/shizu_supercg/shizu_chess_base.jpg"
 image ev shizu_chess_base2 = "event/shizu_supercg/shizu_chess_base2.jpg"
 image ev shizu_chess_base3 = "event/shizu_supercg/shizu_chess_base3.jpg"
 
-image sc_shiz normal = im.Crop("event/shizu_supercg/shizu_chess_base3.jpg", 960, 0, 960, 1080)
+image sc_shiz normal = Transform("event/shizu_supercg/shizu_chess_base3.jpg", crop=(960, 0, 960, 1080))
 
 image kenji silhouette = silhouette("sprites/kenji/kenji_neutral.png")
 image kenji silhouette_naked = silhouette("sprites/kenji/kenji_neutral_naked.png", 10)
 image hanako silhouette = silhouette("sprites/hanako/hanako_basic_bashful.png")
 image rin silhouette = silhouette("sprites/rin/rin_relaxed_surprised.png")
 
-image shizuepiccomp = im.Composite(
+image shizuepiccomp = Composite(
     (2098,1555),
     (0, 0), sp_night("sprites/shizu/close/shizu_out_serious_close.png"),
     (3, 1080), sp_night("vfx/shizu_out_serious_legs.png"))
 
-image shizuepiccomp_sil = im.Composite(
+image shizuepiccomp_sil = Composite(
     (2098,1555),
     (0 ,0), silhouette("sprites/shizu/close/shizu_out_serious_close.png"),
     (3, 1080), silhouette("vfx/shizu_out_serious_legs.png"))
@@ -1448,7 +1493,7 @@ image shizu epictransition:
     pause 0.2
     "shizuepiccomp_sil" with Dissolve(1.8)
 
-image bg school_roof_ni_crop = im.Crop("bgs/school_roof_ni.jpg", 200, 0, 1920, 1080)
+image bg school_roof_ni_crop = Transform("bgs/school_roof_ni.jpg", crop=(200, 0, 1920, 1080))
 image n_vignette = "vfx/narrowvignette.png"
 
 image hisaowindow = "vfx/hisaowindow.png"
@@ -1502,11 +1547,11 @@ image hill pairnotouch = "vfx/hillpair2.png"
 image nightwash = "vfx/nightwash.png"
 
 image noiseoverlay:
-    im.Tile(im.Alpha("vfx/noise1.png", 0.1))
+    Tile(Transform("vfx/noise1.png", alpha=0.1))
     pause 0.1
-    im.Tile(im.Alpha("vfx/noise2.png", 0.1))
+    Tile(Transform("vfx/noise2.png", alpha=0.1))
     pause 0.1
-    im.Tile(im.Alpha("vfx/noise3.png", 0.1))
+    Tile(Transform("vfx/noise3.png", alpha=0.1))
     pause 0.1
     repeat
 
@@ -1566,15 +1611,15 @@ image lillyprop back_cane_close = "vfx/prop_lilly_back_cane_close.png"
 image lillyprop back_cane_ss = sp_sunset("vfx/prop_lilly_back_cane.png")
 image lillyprop back_cane_ni = sp_night("vfx/prop_lilly_back_cane.png")
 
-image bg gallery_atelier_bw = im.Grayscale("bgs/gallery_atelier.jpg")
-image bg school_scienceroom_bw = im.Grayscale("bgs/school_scienceroom.jpg")
-image bg school_library_bw = im.Grayscale("bgs/school_library.jpg")
-image bg city_street4_bw = im.Grayscale("bgs/city_street4.jpg")
-image bg city_street3_bw = im.Grayscale("bgs/city_street3.jpg")
-image bg school_council_bw = im.Grayscale("bgs/school_council.jpg")
-image bg school_dormhisao_bw = im.Grayscale("bgs/school_dormhisao.jpg")
+image bg gallery_atelier_bw = Transform("bgs/gallery_atelier.jpg", matrixcolor=SaturationMatrix(0))
+image bg school_scienceroom_bw = Transform("bgs/school_scienceroom.jpg", matrixcolor=SaturationMatrix(0))
+image bg school_library_bw = Transform("bgs/school_library.jpg", matrixcolor=SaturationMatrix(0))
+image bg city_street4_bw = Transform("bgs/city_street4.jpg", matrixcolor=SaturationMatrix(0))
+image bg city_street3_bw = Transform("bgs/city_street3.jpg", matrixcolor=SaturationMatrix(0))
+image bg school_council_bw = Transform("bgs/school_council.jpg", matrixcolor=SaturationMatrix(0))
+image bg school_dormhisao_bw = Transform("bgs/school_dormhisao.jpg", matrixcolor=SaturationMatrix(0))
 
-image hanako_fw = LiveComposite(
+image hanako_fw = Composite(
     (1920, 1080),
     (0, 0), hanako_fw_constructor(1.0, 1.0, 1.0),
     (0, 0), hanako_fw_constructor(1.1, 0.9, 0.9),
@@ -1590,17 +1635,17 @@ image bg school_library_yuuko_blurred = "vfx/school_library_yuuko_blurred.jpg"
 
 image phone mobile = "vfx/mobile-sprite.png"
 
-image rain normal = LiveComposite(
+image rain normal = Composite(
     (1920, 1080),
     (0, 0), rainAnim(),
     (0, 0), rainAnim(my_offset=0.1, zoom=1.2))
 
-image rain light = LiveComposite(
+image rain light = Composite(
     (1920, 1080),
     (0, 0), rainAnim(alpha=0.3),
     (0, 0), rainAnim(my_offset=0.1, zoom=1.2, alpha=0.3))
 
-image rain medium = LiveComposite(
+image rain medium = Composite(
     (1920, 1080),
     (0, 0), rainAnim(alpha=0.6),
     (0, 0), rainAnim(my_offset=0.1, zoom=1.2, alpha=0.6))
@@ -1611,14 +1656,14 @@ image crowd_ni = crowdgen(night("vfx/crowd1.png"), night("vfx/crowd2.png"), nigh
 image crowd_fb = crowdgen(past("vfx/crowd1.png"), past("vfx/crowd2.png"), past("vfx/crowd3.png"))
 image crowd_ni_fb = crowdgen(past_night("vfx/crowd1.png"), past_night("vfx/crowd2.png"), past_night("vfx/crowd3.png"))
 
-image letterbox = LiveComposite(
+image letterbox = Composite(
     (1920, 1080),
     (0, 0), Solid("#000", ymaximum=75),
     (0, 525), Solid("#000", ymaximum=75))
 
 image snowfg = SnowBlossom("vfx/snowflake.png", start=3.0, count=20, border=50, xspeed=(20, 50), yspeed=(216, 324), fast=True)
 image snowbg = SnowBlossom(im.Scale("vfx/snowflake.png", 5, 5), count=30, yspeed=(144, 216), start=3.0, border=50, xspeed=(20, 50), fast=True)
-image snow = LiveComposite(
+image snow = Composite(
     (1920, 1080),
     (0, 0), "snowbg",
     (0, 0), "snowfg")
@@ -1628,7 +1673,7 @@ image hospitalmask = "vfx/hospitalroommask_new.png"
 
 image dandeliontbg = SnowBlossom(im.Scale("vfx/dandelion.png",13,16), count=20, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=False, horizontal=True)
 image dandeliontfg = SnowBlossom("vfx/dandelion.png", count=10, border=25, xspeed=(100, 200), yspeed=(-72, -27), start=8.0, fast=False, horizontal=True)
-image dandelions thin = LiveComposite(
+image dandelions thin = Composite(
     (1920, 1080),
     (0, 0), "dandeliontbg",
     (0, 0), "dandeliontfg")
@@ -1641,9 +1686,9 @@ image kslogo words = "gui/logo/large.png"
 
 image credits mask = "gui/bg/roll_mask.png"
 
-image dandeliondbg = SnowBlossom(im.Scale("vfx/dandelion.png",13,16), count=40, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=True, horizontal=True)
+image dandeliondbg = SnowBlossom(im.Scale("vfx/dandelion.png", 13, 16), count=40, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=True, horizontal=True)
 image dandeliondfg = SnowBlossom("vfx/dandelion.png", count=20, border=25, xspeed=(100, 200), yspeed=(-72, -27), start=8.0, fast=True, horizontal=True)
-image dandelions dense = LiveComposite(
+image dandelions dense = Composite(
     (1920, 1080),
     (0, 0), "dandeliondbg",
     (0, 0), "dandeliondfg")
@@ -1651,7 +1696,7 @@ image dandelions dense = LiveComposite(
 image dandelionsbg dense = "dandeliondbg"
 image dandelionsfg dense = "dandeliondfg"
 
-image dandelions_blurbg = SnowBlossom(im.Scale("vfx/dandelion_blur.png",13,16), count=40, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=True, horizontal=True)
+image dandelions_blurbg = SnowBlossom(im.Scale("vfx/dandelion_blur.png", 13, 16), count=40, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=True, horizontal=True)
 image dandelions_blurfg = SnowBlossom("vfx/dandelion_blur.png", count=20, border=25, xspeed=(100, 200), yspeed=(-72, -27), start=8.0, fast=True, horizontal=True)
 
 image steam:
@@ -1675,10 +1720,10 @@ image steam2:
     0.75
     repeat
 
-image check_fg_op = contrast_checker("gui/button/check_foreground.png", im.matrix.opacity(0.4))
+image check_fg_op = contrast_checker("gui/button/check_foreground.png", OpacityMatrix(0.4))
 image check_fg = contrast_checker("gui/button/check_foreground.png")
 
-image check_sl_fg_op = contrast_checker("gui/button/check_selected_foreground.png", im.matrix.opacity(0.4))
+image check_sl_fg_op = contrast_checker("gui/button/check_selected_foreground.png", OpacityMatrix(0.4))
 image check_sl_fg = contrast_checker("gui/button/check_selected_foreground.png")
 
 image check_fg_op_cb = VBox(Null(height=6), HBox(Null(width=1060), "check_fg_op"))
@@ -1687,17 +1732,17 @@ image check_fg_cb = VBox(Null(height=6), HBox(Null(width=1060), "check_fg"))
 image check_sl_fg_op_cb = VBox(Null(height=6), HBox(Null(width=1060), "check_sl_fg_op"))
 image check_sl_fg_cb = VBox(Null(height=6), HBox(Null(width=1060), "check_sl_fg"))
 
-image return_op = contrast_checker("gui/button/return.png", im.matrix.opacity(0.4))
+image return_op = contrast_checker("gui/button/return.png", OpacityMatrix(0.4))
 image return_ = contrast_checker("gui/button/return.png")
 
-image music_play_op = contrast_checker("gui/button/music-play.png", im.matrix.opacity(0.4))
+image music_play_op = contrast_checker("gui/button/music-play.png", OpacityMatrix(0.4))
 image music_play = contrast_checker("gui/button/music-play.png")
 
-image language_op = contrast_checker("gui/button/language.png", im.matrix.opacity(0.4))
+image language_op = contrast_checker("gui/button/language.png", OpacityMatrix(0.4))
 image language = contrast_checker("gui/button/language.png")
 
-image star_op = contrast_checker("gui/icons/star.png", im.matrix.opacity(0.4))
+image star_op = contrast_checker("gui/icons/star.png", OpacityMatrix(0.4))
 image star = contrast_checker("gui/icons/star.png")
 
-image music_stop_op = contrast_checker("gui/button/music-stop.png", im.matrix.opacity(0.4))
+image music_stop_op = contrast_checker("gui/button/music-stop.png", OpacityMatrix(0.4))
 image music_stop = contrast_checker("gui/button/music-stop.png")

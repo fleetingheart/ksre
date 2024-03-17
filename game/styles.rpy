@@ -38,9 +38,9 @@ style slider:
     left_gutter 20
     right_gutter 20
     thumb_offset -3
-    base_bar opacity("gui/bar/horizontal_bar.png")
+    base_bar Transform("gui/bar/horizontal_bar.png", matrixcolor=OpacityMatrix(0.4))
     hover_left_bar "gui/bar/horizontal_bar.png"
-    thumb opacity("gui/bar/horizontal_thumb.png")
+    thumb Transform("gui/bar/horizontal_thumb.png", matrixcolor=OpacityMatrix(0.4))
     hover_thumb "gui/bar/horizontal_thumb.png"
 
 style slider_text is gui_text
@@ -53,9 +53,9 @@ style vslider:
     top_gutter 30
     bottom_gutter 30
     thumb_offset -10
-    base_bar opacity("gui/bar/vertical_bar.png")
+    base_bar Transform("gui/bar/vertical_bar.png", matrixcolor=OpacityMatrix(0.4))
     hover_base_bar "gui/bar/vertical_bar.png"
-    thumb opacity("gui/bar/vertical_thumb.png")
+    thumb Transform("gui/bar/vertical_thumb.png", matrixcolor=OpacityMatrix(0.4))
     hover_thumb "gui/bar/vertical_thumb.png"
 
 style say_namebox is frame:

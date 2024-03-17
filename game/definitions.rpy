@@ -30,15 +30,10 @@ python early:
         else:
             return str(minutes) + ":" + str(t % 60).zfill(2)
 
-    high_contrast = im.matrix.colorize("#ccc", "#fff")
-
-    def contrast_checker(image, mrx=im.matrix.identity()):
+    def contrast_checker(image, mrx=None):
         return ConditionSwitch(
-            "preferences.high_contrast", im.MatrixColor(image, high_contrast),
-            "True", im.MatrixColor(image, mrx))
-
-    def opacity(image, op=0.4, **options):
-        return im.MatrixColor(image, im.matrix.opacity(op), **options)
+            "preferences.high_contrast", Transform(image, matrixcolor=ColorizeMatrix("#ccc", "#fff")),
+            "True", Transform(image, matrixcolor=mrx or IdentityMatrix()))
 
     def main_menu_composer(st, at):
         _widgets = [
@@ -107,12 +102,12 @@ python early:
             return renpy.seen_image(img)
 
     def get_scene_name(name=None):
-        global _replays
+        global replays
 
         if not name:
             name = current_scene
 
-        for replay_pack in _replays:
+        for replay_pack in replays:
             for replay_stack in replay_pack[1]:
                 for replay in replay_stack[1]:
                     if replay[1] == name:
@@ -126,7 +121,7 @@ python early:
     def get_track_name(track=None, _thread_tracks=None):
         global _tracks
 
-        return (_thread_tracks or _tracks).get(track or store.renpy.music.get_playing()) or __("Nothing")
+        return (_thread_tracks or _tracks).get(track or renpy.music.get_playing()) or __("Nothing")
 
     def set_current_scene(name, jumped):
         if not jumped and name.startswith("a") and "." in name:
@@ -208,7 +203,7 @@ python early:
     if not renpy.emscripten:
         rpc = RPCThread(store)
 
-init 1000 python:
+init 999 python:
     if not renpy.emscripten:
         rpc.start()
 
@@ -221,11 +216,11 @@ define null = Null()
 default persistent._watched_videos = set()
 default persistent._seen_choices = set()
 
-define _videos = (
+define videos = (
     "video/op_1.mkv", "video/tc_act2_emi.mkv", "video/tc_act2_hanako.mkv",
     "video/tc_act2_lilly.mkv", "video/tc_act2_rin.mkv", "video/tc_act2_shizune.mkv")
 
-define _replays = [
+define replays = [
     (_("Act 1"), [
         (_("Prologue"), [
             (_("Out Cold"), "a1_monday.out_cold", _("On a cold, snowy day, Hisao's dreams were about to be realized, only to be cut short by a sudden heart attack.")),

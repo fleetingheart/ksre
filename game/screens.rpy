@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screen skip_indicator():
-    image "gui/icons/skip.png":
+    image "icon_skip":
         pos 1850, 35
 
 screen ctc(arg=None):
@@ -13,9 +13,9 @@ screen ctc(arg=None):
             pos 0.9635, 0.0325
             xysize 42, 42
 
-            image Frame("gui/icons/circle.png")
+            image Frame("icon_circle")
 
-            image "gui/icons/ctc.png":
+            image "icon_ctc":
                 if persistent.blinking_arrow:
                     at ctc_trans
 
@@ -137,7 +137,7 @@ screen confirm(message, yes_action, no_action=None, yes_text=None, no_text=None)
         frame:
             ysize 1
 
-            image "gui/icons/hanako.png" xcenter -0.31 yoffset -128
+            image "icon_hanako" xcenter -0.31 yoffset -128
 
     key "game_menu" action (no_action or Hide("confirm", transition=config.intra_transition))
 
@@ -162,7 +162,7 @@ screen game_menu():
             xcenter 0.525
             yoffset -128
 
-            add "gui/logo/large.png" zoom 0.25
+            add "logo_large" zoom 0.25
 
         textbutton _("Return") action Return()
 
@@ -439,9 +439,9 @@ screen file_slots():
                                 action Show("confirm", config.intra_transition, _("Are you sure you want to\nload this save?"), Function(renpy.load, save[0]))
 
                             if i in local_saves_items:
-                                background "gui/button/scribble.png"
+                                background "button_scribble"
                             else:
-                                background opacity("gui/button/scribble.png")
+                                background "button_scribble_op"
 
                             has hbox
 
@@ -467,9 +467,9 @@ screen file_slots():
                             action Show("confirm", config.intra_transition, _("Are you sure you want to\ndelete this save?"), Function(renpy.unlink_save, save[0]))
 
                             if i in local_dels_items:
-                                image "gui/button/del.png"
+                                image "button_del"
                             else:
-                                image opacity("gui/button/del.png")
+                                image "button_del_op"
 
             null width 60
 
@@ -524,14 +524,14 @@ screen extra():
 
                 vbox:
                     if jukebox_hovered:
-                        image "gui/icons/lilly-c.png":
+                        image "icon_lilly_colored":
                             xalign 0.5
 
                         text _("Jukebox"):
                             color "#000"
                             xalign 0.5
                     else:
-                        image "gui/icons/lilly.png":
+                        image "icon_lilly":
                             xalign 0.5
 
                         text _("Jukebox"):
@@ -545,14 +545,14 @@ screen extra():
 
                 vbox:
                     if gallery_hovered:
-                        image "gui/icons/rin-c.png":
+                        image "icon_rin_colored":
                             xalign 0.5
 
                         text _("Gallery"):
                             color "#000"
                             xalign 0.5
                     else:
-                        image "gui/icons/rin.png":
+                        image "icon_rin":
                             xalign 0.5
 
                         text _("Gallery"):
@@ -566,14 +566,14 @@ screen extra():
 
                 vbox:
                     if library_hovered:
-                        image "gui/icons/shizune-c.png":
+                        image "icon_shizune_colored":
                             xalign 0.5
 
                         text _("Library"):
                             color "#000"
                             xalign 0.5
                     else:
-                        image "gui/icons/shizune.png":
+                        image "icon_shizune":
                             xalign 0.5
 
                         text _("Library"):
@@ -587,14 +587,14 @@ screen extra():
 
                 vbox:
                     if cinema_hovered:
-                        image "gui/icons/emi-c.png":
+                        image "icon_emi_colored":
                             xalign 0.5
 
                         text _("Cinema"):
                             color "#000"
                             xalign 0.5
                     else:
-                        image "gui/icons/emi.png":
+                        image "icon_emi":
                             xalign 0.5
 
                         text _("Cinema"):
@@ -608,21 +608,21 @@ screen extra():
 
             vbox:
                 if return_hovered:
-                    image "gui/icons/hanako-c.png":
+                    image "icon_hanako_colored":
                         xalign 0.5
                 else:
-                    image "gui/icons/hanako.png":
+                    image "icon_hanako":
                         xalign 0.5
 
                 hbox:
                     if return_hovered:
-                        image "gui/button/return.png":
+                        image "button_return":
                             yoffset 5
                         null width 5
                         text _("Return"):
                             color "#000"
                     else:
-                        image opacity("gui/button/return.png"):
+                        image "button_return_op":
                             yoffset 5
                         null width 5
                         text _("Return")
@@ -668,7 +668,7 @@ screen jukebox():
                         textbutton name action Play("music", file)
                     else:
                         null height 1
-                        image opacity("gui/button/locked-track.png")
+                        image "button_locked_track_op"
                         null height 1
 
             null width 4
@@ -723,7 +723,7 @@ screen gallery(page=0):
 
             for i in range(page * 12, (page + 1) * 12):
                 if i > len(_gallery_images) - 1:
-                    image opacity("gui/button/cg-locked.png", 0.1)
+                    image "button_cg_locked_lop"
                 elif is_seen(_gallery_images[i][int(_gallery_images[i][0].startswith("thumb/"))]) or config.developer:
                     python:
                         img = _gallery_images[i]
@@ -739,18 +739,18 @@ screen gallery(page=0):
                         action Call("watch_gallery", img[1:] if img[0].startswith("thumb/") else img)
 
                         if i in local_items:
-                            image LiveComposite((220, 170),
-                                                (0, 0), "gui/button/cg-locked.png",
+                            image Composite((220, 170),
+                                                (0, 0), "button_cg_locked",
                                                 (10, 10), thumb)
                         else:
-                            image LiveComposite((220, 170),
-                                                (0, 0), opacity("gui/button/cg-locked.png"),
-                                                (10, 10), im.MatrixColor(thumb, im.matrix.desaturate()))
+                            image Composite((220, 170),
+                                                (0, 0), "button_cg_locked_op",
+                                                (10, 10), Transform(thumb, matrixcolor=SaturationMatrix(0)))
                 else:
                     button:
                         xysize 220, 170
 
-                        image opacity("gui/button/cg-locked.png")
+                        image "button_cg_locked_op"
 
         frame:
             size_group "gallery"
@@ -803,7 +803,7 @@ screen library(page=0):
             has hbox
             spacing 40
 
-            for i, replay_collection in enumerate(_replays):
+            for i, replay_collection in enumerate(replays):
                 textbutton replay_collection[0]:
                     if page == i:
                         text_insensitive_color "#000"
@@ -823,7 +823,7 @@ screen library(page=0):
                 xysize 705, 500
 
                 vbox:
-                    for replay_stack in _replays[page][1]:
+                    for replay_stack in replays[page][1]:
                         text replay_stack[0]
 
                         for replay in replay_stack[1]:
@@ -840,7 +840,7 @@ screen library(page=0):
                                 null height 1
                                 hbox:
                                     null width 30
-                                    image opacity("gui/button/locked-track.png", 0.4)
+                                    image "button_cg_locked_op"
                                 null height 1
 
             null width 25
@@ -885,7 +885,7 @@ screen cinema():
         grid 3 2:
             spacing 30
 
-            for i, video in enumerate(_videos):
+            for i, video in enumerate(videos):
                 button:
                     xysize 220, 170
                     hovered Function(local_items.add, i)
@@ -895,17 +895,18 @@ screen cinema():
                         action Call("watch_video", video)
 
                         if i in local_items:
-                            image "gui/button/cg-locked.png"
+                            image "button_cg_locked"
 
                             image video.replace(".mkv", "_tn.jpg"):
                                 align 0.5, 0.5
                         else:
-                            image opacity("gui/button/cg-locked.png")
+                            image "button_cg_locked_op"
 
-                            image im.MatrixColor(video.replace(".mkv", "_tn.jpg"), im.matrix.desaturate()):
+                            image video.replace(".mkv", "_tn.jpg"):
                                 align 0.5, 0.5
+                                matrixcolor SaturationMatrix(0)
                     else:
-                        image opacity("gui/button/cg-locked.png")
+                        image "button_cg_locked_op"
 
         textbutton _("Return"):
             style "return_button"
