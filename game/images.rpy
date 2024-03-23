@@ -15,28 +15,28 @@ image fw_screen = "#000000CC"
 
 init python:
     def night(image):
-        return Transform(image, matrixcolor=TintMatrix((0.6, 0.6, 0.7)) * SaturationMatrix(0.6))
+        return Transform(image, matrixcolor=TintMatrix(Color(rgb=(0.6, 0.6, 0.7))) * SaturationMatrix(0.6))
 
     def sunset(image):
-        return Transform(image, matrixcolor=TintMatrix((1.1, 0.95, 0.85)) * SaturationMatrix(1.2) * BrightnessMatrix(0.1))
+        return Transform(image, matrixcolor=TintMatrix(Color(rgb=(1.1, 0.95, 0.85))) * SaturationMatrix(1.2) * BrightnessMatrix(0.1))
 
     def rain(image):
-        return Transform(image, matrixcolor=TintMatrix((0.95, 0.95, 1.0)) * SaturationMatrix(0.4) * BrightnessMatrix(-0.1))
+        return Transform(image, matrixcolor=TintMatrix(Color(rgb=(0.95, 0.95, 1.0))) * SaturationMatrix(0.4) * BrightnessMatrix(-0.1))
 
     def sp_night(image):
-        return Transform(image, matrixcolor=TintMatrix((0.9, 0.92, 1.0)) * BrightnessMatrix(-0.05))
+        return Transform(image, matrixcolor=TintMatrix(Color(rgb=(0.9, 0.92, 1.0))) * BrightnessMatrix(-0.05))
 
     def sp_sunset(image):
-        return Transform(image, matrixcolor=TintMatrix((1.02, 0.95, 0.9)) * SaturationMatrix(1.1) * BrightnessMatrix(0.05))
+        return Transform(image, matrixcolor=TintMatrix(Color(rgb=(1.02, 0.95, 0.9))) * SaturationMatrix(1.1) * BrightnessMatrix(0.05))
 
     def sp_rain(image):
-        return Transform(image, matrixcolor=TintMatrix((0.96, 0.96, 1.0)) * SaturationMatrix(0.6) * BrightnessMatrix(-0.05))
+        return Transform(image, matrixcolor=TintMatrix(Color(rgb=(0.96, 0.96, 1.0))) * SaturationMatrix(0.6) * BrightnessMatrix(-0.05))
 
     def past(image):
-        return Transform(image, matrixcolor=TintMatrix((1.0, 0.94, 0.76)) * SaturationMatrix(0.15))
+        return Transform(image, matrixcolor=TintMatrix(Color(rgb=(1.0, 0.94, 0.76))) * SaturationMatrix(0.15))
 
     def past_night(image):
-        return Transform(image, matrixcolor=TintMatrix((0.6, 0.6, 0.7)) * TintMatrix((1.0, 0.94, 0.76)) * SaturationMatrix(0.6) * SaturationMatrix(0.15))
+        return Transform(image, matrixcolor=TintMatrix(Color(rgb=(0.6, 0.6, 0.7))) * TintMatrix(Color(rgb=(1.0, 0.94, 0.76))) * SaturationMatrix(0.6) * SaturationMatrix(0.15))
 
     def adult(image, use_null=False):
         if use_null:
