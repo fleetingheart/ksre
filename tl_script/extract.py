@@ -11,7 +11,9 @@ def extract(path):
     for line in old:
         if line == "\n":
             continue
-        if exp.match(line.strip()) is not None:
+        if line.strip().startswith("$ written_note("):
+            new += line.strip()[15:-1] + "\n"
+        elif exp.match(line.strip()) is not None:
             new += line
         else:
             print(line.strip())
