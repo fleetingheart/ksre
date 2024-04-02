@@ -2,7 +2,8 @@ name: Build
 
 on:
   push:
-    branches: [ "master" ]
+    tags:
+      - '*'
   workflow_dispatch:
 env:
   SDL_AUDIODRIVER: dummy
@@ -31,7 +32,7 @@ jobs:
         uses: svenstaro/upload-release-action@2.9.0
         with:
           file: ../KSRE-dists/*
-          tag: automatic
+          tag: ${{ github.ref }}
           overwrite: true
           file_glob: true
           draft: true
