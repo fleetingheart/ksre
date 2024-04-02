@@ -1,0 +1,38 @@
+name: Build
+
+on:
+  push:
+    branches: [ "master" ]
+  workflow_dispatch:
+env:
+  SDL_AUDIODRIVER: dummy
+  SDL_VIDEODRIVER: dummy
+  RENPY_VERSION: 8.2.1
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Download and extract RenPy
+        working-directory: ..
+        run: |
+          wget https://www.renpy.org/dl/${{ env.RENPY_VERSION }}/renpy-${{ env.RENPY_VERSION }}-sdk.tar.bz2 -q
+          tar -xf renpy-${{ env.RENPY_VERSION }}-sdk.tar.bz2
+          rm renpy-${{ env.RENPY_VERSION }}-sdk.tar.bz2
+
+      - name: Build the game
+        working-directory: ../renpy-${{ env.RENPY_VERSION }}-sdk
+        run: |
+          ./renpy.sh launcher distribute $GITHUB_WORKSPACE --package win --package mac --package linux
+
+      - name: Release binaries
+        uses: svenstaro/upload-release-action@2.9.0
+        with:
+          file: ../KSRE-dists/*
+          tag: automatic
+          overwrite: true
+          file_glob: true
+          draft: true
+          body: "This is a test."
