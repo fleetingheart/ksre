@@ -312,8 +312,8 @@ translate ru a3_emi_eet_ees_scienca_8444312d:
     # mu "So I went back to chemistry, and here we are. Yes?"
     mu "Поэтому я вернулся к изучению химии, и вот я здесь. Да?"
 
-# game/script-a3-emi.rpy:165
-translate ru a3_emi_eet_ees_scienca_d314a1b8:
+# game/script-a3-emi.rpy:169
+translate ru a3_emi_eet_ees_scienca_cdf74e18:
 
     # "He smiles at me enthusiastically, as if waiting for me to confirm that yes, here is where we are."
     "Он с энтузиазмом улыбается, будто ждёт моего подтверждения, что да, вот так всё и было."

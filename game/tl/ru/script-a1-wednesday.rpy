@@ -4698,8 +4698,8 @@ translate ru a1_wednesday_the_other_green_69ab365a:
     # "I stumble with my words, suddenly feeling like I've walked straight into the mine field of political incorrectness."
     "Я запинаюсь, вдруг почувствовав, что забрёл прямо в центр минного поля неполиткорректности."
 
-# game/script-a1-wednesday.rpy:2931
-translate ru a1_wednesday_the_other_green_5b05bfd9:
+# game/script-a1-wednesday.rpy:2938
+translate ru a1_wednesday_the_other_green_c339bb9e:
 
     # rin "It's OK, you can say it. I probably won't get mad."
     rin "Всё нормально, можешь сказать это вслух. Может быть, я даже не разозлюсь."

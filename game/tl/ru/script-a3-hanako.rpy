@@ -2592,8 +2592,8 @@ translate ru a3_hanako_antiques_and_pie_0b2264a8:
     # "The store has a strange, musky scent to it. The layout is more like a garage than a store; things are strewn around the floor without any immediate semblance of order."
     "В магазине стоит необычный, терпкий запах. Обстановка больше напоминает склад. Вещи расставлены хаотично, в том числе и на полу, без какого-либо порядка."
 
-# game/script-a3-hanako.rpy:1696
-translate ru a3_hanako_antiques_and_pie_39ac1c52:
+# game/script-a3-hanako.rpy:1715
+translate ru a3_hanako_antiques_and_pie_fe75bb4f:
 
     # "The shopkeeper gives us an almost bored look through his particularly small eyes. His face looks weary and tired, and his dress style is distinctly anachronistic. He gives us a polite nod of welcome before going back to his book."
     "Владелец магазина бросает на нас скучающий взгляд. Его лицо выглядит усталым, а стиль одежды – старомодным. Он приветствует нас вежливым кивком и возвращается к своей книге."

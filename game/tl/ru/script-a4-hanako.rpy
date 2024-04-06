@@ -4224,8 +4224,8 @@ translate ru a4_hanako_city_rendezvous_2e3a8435:
     # hi "That works out well; I'm just wandering around there now. Where are you?"
     hi "Это замечательно; я как раз здесь прогуливаюсь. Ты где?"
 
-# game/script-a4-hanako.rpy:2459
-translate ru a4_hanako_city_rendezvous_a29187d5:
+# game/script-a4-hanako.rpy:2472
+translate ru a4_hanako_city_rendezvous_4e903374:
 
     # "Hanako manages to stammer out the street name, address, and some basic directions to where she is. Luckily it's not too far, so I agree to see her soon before hanging up."
     "Ханако удаётся, запинаясь, пролепетать название улицы, адрес и основные ориентиры, которые приведут меня к ней. К немалой моей радости, это недалеко, так что, вешая трубку, я соглашаюсь вскоре с ней встретиться."

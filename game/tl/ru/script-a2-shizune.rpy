@@ -342,8 +342,8 @@ translate ru a2_shizune_message_passing_278daf1f:
     # n "The only person who I can think to ask, at the moment, is Misha."
     n "И единственный человек, у которого я могу поинтересоваться, – Миша."
 
-# game/script-a2-shizune.rpy:223
-translate ru a2_shizune_message_passing_d337f2a5:
+# game/script-a2-shizune.rpy:227
+translate ru a2_shizune_message_passing_e1f004ef:
 
     # n "How badly do I want to know this? There's two options: wait until after class, or go look for her now."
     n "Как сильно я хочу это узнать? Тут два варианта: ждать окончания уроков или пойти искать её прямо сейчас."
@@ -9360,3 +9360,4 @@ translate ru strings:
     old "I'll help you carry it.\n ___________________\n\nBut, it's a game! The first one to stumble loses, and the loser has to carry it the rest of the way by themselves."
     new "Я помогу тебе нести её.\n ___________________\n\nНо это игра! Тот, кто первым споткнётся, проиграет и будет нести её весь остаток пути один."
 
+    

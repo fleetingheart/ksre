@@ -2556,8 +2556,8 @@ translate ru a3_rin_rosetinted_glasses_56cdc2b4:
     # hi "Do you really think she has a chance to make her big break with the exhibition?"
     hi "Как думаете, у неё есть шанс добиться успеха на выставке?"
 
-# game/script-a3-rin.rpy:1659
-translate ru a3_rin_rosetinted_glasses_9e01f4da:
+# game/script-a3-rin.rpy:1668
+translate ru a3_rin_rosetinted_glasses_9a8dc528:
 
     # "Nomiya turns and looks up from my sketch, adjusting his glasses. He rubs his chin, looking contemplative."
     "Номия поднимает взгляд от моего эскиза, поправляя очки. Задумчиво потирает подбородок."
@@ -6258,8 +6258,8 @@ translate ru a3_rin_boundless_d5449ac3:
     # "Late one afternoon, I get on the bus heading downtown. I try to avoid explaining to myself exactly why I'm doing this, and keep thinking about other things for the entire duration of the trip."
     "Однажды в конце дня я оказываюсь в автобусе, везущем меня в город. Вместо того чтобы придумывать себе оправдания, я стараюсь вообще не думать о том, что и зачем делаю, и во время поездки занимаю себя другими вещами."
 
-# game/script-a3-rin.rpy:3780
-translate ru a3_rin_boundless_ceeac96e:
+# game/script-a3-rin.rpy:3783
+translate ru a3_rin_boundless_31095c9f:
 
     # "After a five-minute walk, I'm standing in front of the gallery."
     "После пяти минут ходьбы я оказываюсь перед галереей."
