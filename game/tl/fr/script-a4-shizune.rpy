@@ -832,8 +832,8 @@ translate fr a4_shizune_off_by_one_873cf749:
     # ssh "All part of my 'get-Misha-to-stop-being-so-depressed' plan. I stayed up all last night working on it."
     ssh "Tout cela fait partir de mon plan 'faire-en-sorte-que-Misha-arrête-d'être-aussi-déprimée'. Je suis restée debout toute la nuit à travailler dessus."
 
-# game/script-a4-shizune.rpy:565
-translate fr a4_shizune_off_by_one_fcf8b494:
+# game/script-a4-shizune.rpy:567
+translate fr a4_shizune_off_by_one_4dc89cf0:
 
     # ssh "When we tried to order in last time, Misha barely got anything, and used it as an excuse to leave early. I won't let her get off so easily this time. The food is already here. She'll have to sit down and eat with us."
     ssh "Quand on a essayé de commander la dernière fois, Misha n'a presque rien pris et a trouvé une excuse pour partir plus tôt. Je ne vais pas la laisser s’échapper aussi facilement cette fois. Le repas est déjà là, elle aura juste à s’asseoir et à manger."
@@ -6098,8 +6098,8 @@ translate fr a4_shizune_sneaking_mission_7913a723:
     # "I think everyone wants a purpose. Looking back, it makes sense that Shizune doesn't have one. All that energy would otherwise have been directed at something."
     "Je crois que tout le monde a besoin d'un but. En y pensant, c'est logique que Shizune n'en ait pas un. Sinon toute son énergie aurait été dirigée vers quelque chose."
 
-# game/script-a4-shizune.rpy:4014
-translate fr a4_shizune_sneaking_mission_633eba3b:
+# game/script-a4-shizune.rpy:4020
+translate fr a4_shizune_sneaking_mission_e48146db:
 
     # "Since she had nothing to channel it towards, Shizune lashed out in all directions. Reminds me of a downed power line flailing in a storm: furious and incandescent, but aimless and dangerous. Just like Shizune."
     "Vu qu'elle n'a rien vers quoi la canaliser, Shizune la laisse partir dans tous les sens. Ça me rappelle une ligne électrique tombée durant un orage. Sauvage et incandescente, mais sans but et dangereuse. Tout comme Shizune."

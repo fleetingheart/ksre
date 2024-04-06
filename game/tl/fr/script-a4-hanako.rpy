@@ -4224,8 +4224,8 @@ translate fr a4_hanako_city_rendezvous_2e3a8435:
     # hi "That works out well; I'm just wandering around there now. Where are you?"
     hi "Ça tombe bien, j'y suis aussi. Où est-ce que tu es?"
 
-# game/script-a4-hanako.rpy:2466
-translate fr a4_hanako_city_rendezvous_a29187d5:
+# game/script-a4-hanako.rpy:2472
+translate fr a4_hanako_city_rendezvous_4e903374:
 
     # "Hanako manages to stammer out the street name, address, and some basic directions to where she is. Luckily it's not too far, so I agree to see her soon before hanging up."
     "Hanako arrive à bégayer une adresse et des indications de direction basiques de l'endroit où elle se trouve. Heureusement elle n'est pas loin, donc je lui dis que j'arrive tout de suite juste avant de raccrocher."

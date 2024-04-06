@@ -4698,8 +4698,8 @@ translate fr a1_wednesday_the_other_green_69ab365a:
     # "I stumble with my words, suddenly feeling like I've walked straight into the mine field of political incorrectness."
     "Je bute sur mes mots, ayant tout à coup l'impression d'avoir marché droit dans le champ de mines du politiquement incorrect."
 
-# game/script-a1-wednesday.rpy:2931
-translate fr a1_wednesday_the_other_green_5b05bfd9:
+# game/script-a1-wednesday.rpy:2938
+translate fr a1_wednesday_the_other_green_c339bb9e:
 
     # rin "It's OK, you can say it. I probably won't get mad."
     rin "C'est bon, tu peux le dire. Je ne m'énerverai sûrement pas."

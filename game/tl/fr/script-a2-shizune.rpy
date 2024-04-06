@@ -342,8 +342,8 @@ translate fr a2_shizune_message_passing_278daf1f:
     # n "The only person who I can think to ask, at the moment, is Misha."
     n "La seule personne avec qui je pourrais en parler est Misha."
 
-# game/script-a2-shizune.rpy:223
-translate fr a2_shizune_message_passing_d337f2a5:
+# game/script-a2-shizune.rpy:227
+translate fr a2_shizune_message_passing_e1f004ef:
 
     # n "How badly do I want to know this? There's two options: wait until after class, or go look for her now."
     n "J'ai deux options : Attendre après les cours pour lui parler, ou partir à sa recherche dès maintenant."

@@ -1086,8 +1086,8 @@ translate fr a3_lilly_minor_discord_40be391a:
     # hi "Sure, no problem."
     hi "Ok, pas de problème."
 
-# game/script-a3-lilly.rpy:730
-translate fr a3_lilly_minor_discord_24d788da:
+# game/script-a3-lilly.rpy:734
+translate fr a3_lilly_minor_discord_390093ad:
 
     # "Walking up the hallway of the girls' dormitory, several ideas of why Hanako's been absent float around my head. The most obvious of them is just a simple cold."
     "Marchant le long du couloir du dortoir des filles, je cherche des explications quant à l'absence de Hanako. La plus évidente d'entre elles est qu'elle a simplement attrapé un rhume."
@@ -2430,8 +2430,8 @@ translate fr a3_lilly_renewal_e9fdb019:
     # "As she takes the note back and begins to write, I look up to see an unwelcome sight."
     "Alors qu'elle récupère le papier et commence à répondre, je lève la tête et ce que je vois me déplaît."
 
-# game/script-a3-lilly.rpy:1466
-translate fr a3_lilly_renewal_4b3ef1f8:
+# game/script-a3-lilly.rpy:1470
+translate fr a3_lilly_renewal_ce9b3501:
 
     # "While I frantically try to silently catch Misha's attention, Mutou confidently strides through the gap between the desks from the front of the class, his intent gaze focused directly on her."
     "Alors que j'essaye d'attirer silencieusement l'attention de Misha, Mutou arrive, passant une table après l'autre, son regard fixé sur elle."

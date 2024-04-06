@@ -4014,8 +4014,8 @@ translate fr a1_saturday_shanghaied_515d6aa9:
     # hi "No, never mind. I'll have coffee."
     hi "Non, oublie. Je prendrai un café."
 
-# game/script-a1-saturday.rpy:2448
-translate fr a1_saturday_shanghaied_1aa279ae:
+# game/script-a1-saturday.rpy:2469
+translate fr a1_saturday_shanghaied_f7f4a2a1:
 
     # hi "If this is a very high class establishment, then they should have very high class coffee, right? …No one died for it, right?"
     hi "Si c'est un établissement de très haute classe, alors ils doivent avoir un café de très haute classe, hein? ...Personne n'est mort pour celui-là, hein?"
@@ -4446,8 +4446,8 @@ translate fr a1_saturday_shanghaied_b33ba1f7:
     # shi "…!"
     shi "...!"
 
-# game/script-a1-saturday.rpy:2728
-translate fr a1_saturday_shanghaied_0a3952d6:
+# game/script-a1-saturday.rpy:2749
+translate fr a1_saturday_shanghaied_cf5bf557:
 
     # mi "Hm… Ah, how about this, Hicchan: if you lose, you have to go to school one day without any pants on."
     mi "Hm... Ah, à ce propos, Hicchan : Si tu perds, tu devras aller à l'école une journée sans pantalon."
