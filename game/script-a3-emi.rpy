@@ -4091,7 +4091,7 @@ label a3_emi:
 
         play sound sfx_impact
 
-        show expression im.Composite((765, 2160), (0, 0), night("sprites/emiwheel/close/emiwheel_blush_close.png")) as emiwheel:
+        show expression Composite((765, 2160), (0, 0), night("sprites/emiwheel/close/emiwheel_blush_close.png")) as emiwheel:
             xalign 0.5 yanchor 0.5 ypos 1.0 subpixel True
             easeout 0.5 ypos 1.4 rotate 70
         with vpunch
