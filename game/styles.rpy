@@ -9,7 +9,7 @@ define mobile_ts_add = 10
 define bold_size = 38
 
 style default:
-    font FontGroup().add("font/cjkFonts-setoplus.ttf", 0x0000, 0xffff).add("font/playtime.ttf", 0x0020, 0xffff)
+    font FontGroup().add("font/cjkFonts-setoplus.ttf", 0x4e00, 0xffff).add("font/playtime.ttf", 0x0000, 0xffff)
     # font "font/playtime.ttf"
     size 36 + mobile_ts_add * (renpy.android or renpy.ios)
 
