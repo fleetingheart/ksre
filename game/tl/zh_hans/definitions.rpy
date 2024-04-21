@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-03-17 12:15, incomplete
+# TODO: Translation updated at 2024-03-17 12:15 CST, incomplete
 
 translate zh_hans strings:
 
