@@ -9,7 +9,7 @@ env:
   SDL_AUDIODRIVER: dummy
   SDL_VIDEODRIVER: dummy
   RENPY_VERSION: 8.2.1
-  RENKIT_VERSION: 8.2.1
+  RENKIT_VERSION: 4.2.0
 jobs:
   build:
     runs-on: ubuntu-latest
