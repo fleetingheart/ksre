@@ -30,6 +30,7 @@ jobs:
           [ ! -d ~/.renutil ] && renutil install ${{ env.RENPY_VERSION }}
           mkdir -p ~/.renutil/${{ env.RENPY_VERSION }}/rapt/project/app/
           sed -i 's#{KEYSTORE_APK}#${{ secrets.ANDROID_KEYSTORE }}#' renconstruct.toml
+          sed -i 's#{RENPY_VERSION}#${{ env.RENPY_VERSION}}#' renconstruct.toml
           renconstruct build -c renconstruct.toml . dists/
 
       - name: Release binaries
