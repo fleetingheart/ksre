@@ -9,29 +9,33 @@ env:
   SDL_AUDIODRIVER: dummy
   SDL_VIDEODRIVER: dummy
   RENPY_VERSION: 8.2.1
+  RENKIT_VERSION: 8.2.1
 jobs:
   build:
-    runs-on: ubuntu-22.04
-
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
-      - name: Download and extract RenPy
-        working-directory: ..
-        run: |
-          wget https://www.renpy.org/dl/${{ env.RENPY_VERSION }}/renpy-${{ env.RENPY_VERSION }}-sdk.tar.bz2 -q
-          tar -xf renpy-${{ env.RENPY_VERSION }}-sdk.tar.bz2
-          rm renpy-${{ env.RENPY_VERSION }}-sdk.tar.bz2
 
-      - name: Build the game
-        working-directory: ../renpy-${{ env.RENPY_VERSION }}-sdk
+      - name: Setup JDK
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'adopt'
+          java-version: '21'
+
+      - name: Build
         run: |
-          ./renpy.sh launcher distribute $GITHUB_WORKSPACE --package win --package mac --package linux
+          unset ANDROID_NDK_HOME
+          curl --proto '=https' --tlsv1.2 -LsSf https://github.com/kobaltcore/renkit/releases/download/${{ env.RENKIT_VERSION }}/renkit-installer.sh | sh
+          export PATH=~/.cargo/bin:$PATH
+          [ ! -d ~/.renutil ] && renutil install ${{ env.RENPY_VERSION }}
+          mkdir -p ~/.renutil/${{ env.RENPY_VERSION }}/rapt/project/app/
+          sed -i 's#{KEYSTORE_APK}#${{ secrets.ANDROID_KEYSTORE }}#' renconstruct.toml
+          renconstruct build -c renconstruct.toml . dists/
 
       - name: Release binaries
         uses: svenstaro/upload-release-action@2.9.0
         with:
-          file: ../KSRE-dists/*
+          file: ../dists/*
           tag: ${{ github.ref }}
           overwrite: true
           file_glob: true
