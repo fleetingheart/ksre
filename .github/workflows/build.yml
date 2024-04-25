@@ -25,7 +25,7 @@ jobs:
       - name: Build
         run: |
           unset ANDROID_NDK_HOME
-          curl --proto '=https' --tlsv1.2 -LsSf https://github.com/kobaltcore/renkit/releases/download/${{ env.RENKIT_VERSION }}/renkit-installer.sh | sh
+          curl --proto '=https' --tlsv1.2 -LsSf https://github.com/kobaltcore/renkit/releases/download/v${{ env.RENKIT_VERSION }}/renkit-installer.sh | sh
           export PATH=~/.cargo/bin:$PATH
           [ ! -d ~/.renutil ] && renutil install ${{ env.RENPY_VERSION }}
           mkdir -p ~/.renutil/${{ env.RENPY_VERSION }}/rapt/project/app/
