@@ -5,6 +5,8 @@
   on_builds = ["android_apk"] # builds this task should run for, defaults to all android builds
   keystore_apk = "{KEYSTORE_APK}" # the base-64 encoded binary keystore file for the APK bundles
   keystore_aab = "" # the base-64 encoded binary keystore file for the AAB bundles
+  alias = "{KEYSTORE_ALIAS}" # the optional alias for both keystores
+  password = "{KEYSTORE_PASS}" # the optional password for both keystores
 
 [build] # required, at least one item must be 'true'
   pc = false  # Windows + Linux
