@@ -9,7 +9,7 @@ env:
   SDL_AUDIODRIVER: dummy
   SDL_VIDEODRIVER: dummy
   RENPY_VERSION: 8.2.1
-  RENKIT_VERSION: 4.2.0
+  RENKIT_VERSION: 4.3.0
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -30,7 +30,9 @@ jobs:
           [ ! -d ~/.renutil ] && renutil install ${{ env.RENPY_VERSION }}
           mkdir -p ~/.renutil/${{ env.RENPY_VERSION }}/rapt/project/app/
           sed -i 's#{KEYSTORE_APK}#${{ secrets.ANDROID_KEYSTORE }}#' renconstruct.toml
-          sed -i 's#{RENPY_VERSION}#${{ env.RENPY_VERSION}}#' renconstruct.toml
+          sed -i 's#{KEYSTORE_ALIAS}#${{ secrets.KEYSTORE_ALIAS }}#' renconstruct.toml
+          sed -i 's#{KEYSTORE_PASS}#${{ secrets.KEYSTORE_PASS }}#' renconstruct.toml
+          sed -i 's#{RENPY_VERSION}#${{ env.RENPY_VERSION }}#' renconstruct.toml
           renconstruct build -c renconstruct.toml . dists/
 
       - name: Release binaries
