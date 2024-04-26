@@ -33,12 +33,12 @@ jobs:
           sed -i 's#{KEYSTORE_ALIAS}#${{ secrets.KEYSTORE_ALIAS }}#' renconstruct.toml
           sed -i 's#{KEYSTORE_PASS}#${{ secrets.KEYSTORE_PASS }}#' renconstruct.toml
           sed -i 's#{RENPY_VERSION}#${{ env.RENPY_VERSION }}#' renconstruct.toml
-          renconstruct build -c renconstruct.toml . dists/
+          renconstruct build -c renconstruct.toml . ${{ github.workspace }}/dists/
 
       - name: Release binaries
         uses: svenstaro/upload-release-action@2.9.0
         with:
-          file: ../dists/*
+          file: ${{ github.workspace }}/dists/*
           tag: ${{ github.ref }}
           overwrite: true
           file_glob: true
