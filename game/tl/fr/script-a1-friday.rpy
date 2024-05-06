@@ -316,7 +316,7 @@ translate fr a1_friday_invisible_hat_f17bb445:
 translate fr a1_friday_invisible_hat_5c9c638c:
 
     # ke "I thought I'd go shopping while I was outside. I need supplies to continue the fight against the vast feminist conspiracy."
-    ke "J'ai pensé à aller acheter des trucs pendant que j'étais dehors. J'ai besoin de fournitures pour continuer de combattre le vaste complot féministe."
+    ke "J'ai pensé à aller acheter des trucs pendant que j'étais dehors. J'ai besoin de fournitures pour continuer le combat contre le vaste complot féministe."
 
 # game/script-a1-friday.rpy:206
 translate fr a1_friday_invisible_hat_c5dda460:
@@ -1960,19 +1960,19 @@ translate fr a1_friday_foot_and_mouth_f3656475:
 translate fr a1_friday_foot_and_mouth_dfc747b8:
 
     # emi "Someone in the housing department thought that we'd complement each other well, so we were assigned rooms next to one another."
-    emi "Quelqu'un au département du logement a pensé qu'on se complétait bien l'une l'autre, donc on a été assignées à des chambres voisines."
+    emi "Quelqu'un au département du logement a pensé qu'on irait bien ensemble, donc on a été assignées à des chambres voisines."
 
 # game/script-a1-friday.rpy:1342
 translate fr a1_friday_foot_and_mouth_4947530b:
 
     # hi "Complement each other?"
-    hi "Complétait l'une l'autre?"
+    hi "Que vous iriez bien ensemble?"
 
 # game/script-a1-friday.rpy:1347
 translate fr a1_friday_foot_and_mouth_8156c22b:
 
     # rin "Like shoes and a suit."
-    rin "Comme des chaussures et un costume."
+    rin "Comme cul et chemise."
 
 # game/script-a1-friday.rpy:1349
 translate fr a1_friday_foot_and_mouth_0f638bea:
@@ -2440,7 +2440,7 @@ translate fr a1_friday_foot_and_mouth_7fa7d3b5:
 translate fr a1_friday_foot_and_mouth_5a006c53:
 
     # "With a minimum of fuss, I quickly walk over to the counter, check out my books and pop them into my bag as I walk out."
-    "Avec un minimum de tapage, je marche rapidement jusqu'au comptoir, fais enregistrer les livres et les mets dans mon sac pendant que je sors."
+    "Sans faire d'histoire, je marche rapidement jusqu'au comptoir, enregistre les livres et les mets dans mon sac pendant que je sors."
 
 # game/script-a1-friday.rpy:1627
 translate fr a1_friday_foot_and_mouth_d6c539d1:
@@ -2470,7 +2470,7 @@ translate fr a1_friday_foot_and_mouth_fb6748d4:
 translate fr a1_friday_foot_and_mouth_c8637897:
 
     # "I start thinking of myself as some kind of an Alice too, haplessly tumbling down the rabbit hole into this Cripple Wonderland."
-    "Je commence à penser que je suis moi aussi une sorte d'Alice, dégringolant, impuissant, dans le terrier du lapin dans ce Pays Imaginaire Handicapé."
+    "Je commence à penser que je suis moi aussi une sorte d'Alice, dégringolant, impuissant, dans le terrier du lapin dans ce Pays Imaginaire Des Handicapé."
 
 # game/script-a1-friday.rpy:1641
 translate fr a1_friday_foot_and_mouth_16ea35e9:
@@ -4174,7 +4174,7 @@ translate fr a1c9o1_2aa31621:
 translate fr a1c9o1_3cd08ef6:
 
     # nk "That's a comfort, I guess."
-    nk "C'est un réconfort, je suppose."
+    nk "C'est rassurant, j'imagine'."
 
 # game/script-a1-friday.rpy:2658
 translate fr a1c9o1_e1d14599:
