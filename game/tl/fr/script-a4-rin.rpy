@@ -4,7 +4,7 @@
 translate fr a4_rin_illusions_for_people_7f31fb74:
 
     # "I make it in time for class, though not in time for breakfast."
-    "J'arrive à temps pour les cours, bien que pas à temps pour le petit déjeuner."
+    "J'arrive à temps pour les cours, mais pas à temps pour le petit déjeuner."
 
 # game/script-a4-rin.rpy:10
 translate fr a4_rin_illusions_for_people_76acec4f:
@@ -16,13 +16,13 @@ translate fr a4_rin_illusions_for_people_76acec4f:
 translate fr a4_rin_illusions_for_people_84b35954:
 
     # "This means that it's going to be intolerably hot in the afternoon. For now, though, it's pleasant."
-    "Ça signifie qu'il fera intolérablement chaud cet après-midi. Pour l'instant, cela dit, c'est plaisant."
+    "Ça signifie qu'il fera intolérablement chaud cet après-midi. Celà-dit, pour le moment, c'est agréable."
 
 # game/script-a4-rin.rpy:14
 translate fr a4_rin_illusions_for_people_ef36b290:
 
     # "I look at Misha and Shizune's animated discussion about whatever, Hanako staring out of the classroom window, Mutou stumbling into the classroom four minutes late and with no recollection of what he's supposed to be teaching today."
-    "Je regarde la discussion animée de Misha et Shizune, Hanako regardant par la fenêtre de la classe, Mutou entrant dans la classe quatre minutes en retard et sans savoir ce qu'il est censé enseigner aujourd'hui."
+    "J'observe' la discussion animée entre Misha et Shizune, Hanako regardant par la fenêtre de la classe, Mutou entrant dans la classe quatre minutes en retard et sans savoir ce qu'il est censé enseigner aujourd'hui."
 
 # game/script-a4-rin.rpy:16
 translate fr a4_rin_illusions_for_people_bb7f4611:
@@ -964,7 +964,7 @@ translate fr a4_rin_demused_a3f931d8:
 translate fr a4_rin_demused_e34a9b74:
 
     # "She looks alarmed. And also completely uncomprehending, as if she just doesn't understand what I'm angry about."
-    "Elle semble alarmée. Et aussi complètement perdue, comme si elle elle ne comprenait pas pourquoi j'étais en colère."
+    "Elle semble alarmée. Et aussi complètement perdue, comme si elle ne comprenait pas pourquoi j'étais en colère."
 
 # game/script-a4-rin.rpy:552
 translate fr a4_rin_demused_10996ab4:
@@ -2672,7 +2672,7 @@ translate fr a4_rin_wavelength_76b2fe88_9:
 translate fr a4_rin_wavelength_61247b6a:
 
     # "As expected, mom calls me and I end up promising to see if I can get a train ticket for tomorrow, or failing that, the day after."
-    "Comme prévu, ma mère m'a appelé et j'ai fini par promettre de voir si je pouvais obtenir un billet de train pour demain, ou sinon, le lendemain."
+    "Comme prévu, ma mère m'appele et je fini par promettre de regarder si je peux prendre un billet de train pour demain, ou à défaut, pour le lendemain."
 
 # game/script-a4-rin.rpy:1541
 translate fr a4_rin_wavelength_76b2fe88_10:
@@ -10680,7 +10680,7 @@ translate fr a4_rin_proof_of_existence_d1ebecd8:
 translate fr a4_rin_proof_of_existence_3876b379:
 
     # rin "Come on, you got it off just fine. This is the same but the other way around. It's like talking backwards."
-    rin "Allez, tu l'as retiré sans souci. C'est pareil mais dans l'autre sens. Comme parler à l'envers."
+    rin "Allez, tu l'as enlevé sans problème. C'est pareil mais dans l'autre sens. C'est comme parler à l'envers."
 
 # game/script-a4-rin.rpy:5595
 translate fr a4_rin_proof_of_existence_170923fa:
@@ -12524,19 +12524,19 @@ translate fr a4rc1o2_be724e19:
 translate fr a4rc1o2_5b319ca3:
 
     # emi "Come on."
-    emi "Allez."
+    emi "Allons-y."
 
 # game/script-a4-rin.rpy:6708
 translate fr a4rc1o2_804bb8e8:
 
     # hi "Where?"
-    hi "Où?"
+    hi "Où ça?"
 
 # game/script-a4-rin.rpy:6713
 translate fr a4rc1o2_5ac06225:
 
     # emi "We are going to find Rin and kick her ass."
-    emi "On va trouver Rin et lui botter les fesses."
+    emi "On va retrouver Rin et lui botter les fesses."
 
 # game/script-a4-rin.rpy:6715
 translate fr a4rc1o2_81d99227:
