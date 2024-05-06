@@ -52,13 +52,13 @@ translate fr a1_wednesday_lunch_evolution_theory_3e65acee:
 translate fr a1_wednesday_lunch_evolution_theory_09500ce7:
 
     # "Misha leans sideways while Shizune pushes her desk closer to mine. There really is no escape now unless I were to jump through the window."
-    "Misha se tourne sur le côté alors que Shizune rapproche son bureau du mien. Je ne peux pas vraiment m'échapper, à moins que je ne saute par la fenêtre."
+    "Misha se penche de côté tandis que Shizune pousse son bureau près du mien. Il n'y a plus d'échappatoir maintenant, à moins de sauter par la fenêtre."
 
 # game/script-a1-wednesday.rpy:39
 translate fr a1_wednesday_lunch_evolution_theory_240c7033:
 
     # "Jumping out the window isn't the best option, sadly."
-    "Et tristement, sauter par la fenêtre n'est pas la meilleure option."
+    "Sauter par la fenêtre n'est pas la meilleure des options, malheureusement."
 
 # game/script-a1-wednesday.rpy:44
 translate fr a1_wednesday_lunch_evolution_theory_ef2b123c:
@@ -112,7 +112,7 @@ translate fr a1_wednesday_lunch_evolution_theory_a93cd439:
 translate fr a1_wednesday_lunch_evolution_theory_10685a0b:
 
     # "When I actually look at the stuff, it's mostly just reading. In fact, there are only two problems."
-    "Quand je regarde la chose, je vois que c'est surtout de la simple lecture. En fait, il n'y a que deux problèmes."
+    "Quand je finis par y jeter un oeil, je vois que c'est quasiment que de la lecture. En fait, il n'y a que deux problèmes à résoudre."
 
 # game/script-a1-wednesday.rpy:81
 translate fr a1_wednesday_lunch_evolution_theory_3a532cc4:
@@ -208,7 +208,7 @@ translate fr a1_wednesday_lunch_evolution_theory_80a2359b:
 translate fr a1_wednesday_lunch_evolution_theory_b5f9af96:
 
     # mi "Just because, Hicchan."
-    mi "Juste parce que, Hicchan."
+    mi "Parce que c'est tout, Hicchan."
 
 # game/script-a1-wednesday.rpy:135
 translate fr a1_wednesday_lunch_evolution_theory_9706695b:
@@ -250,7 +250,7 @@ translate fr a1_wednesday_lunch_evolution_theory_2b961fd7:
 translate fr a1_wednesday_lunch_evolution_theory_3f79167c:
 
     # "Is that also why she signs all the time, so there is never a conversation Shizune will be left out of?"
-    "Est-ce que c'est aussi pour ça qu'elle traduit toujours tout en langage des signes, pour que Shizune ne soit jamais laissée à part dans une conversation?"
+    "Est-ce que c'est aussi pour ça qu'elle traduit toujours tout en langue des signes, pour que Shizune ne soit jamais laissée à part dans une conversation?"
 
 # game/script-a1-wednesday.rpy:161
 translate fr a1_wednesday_lunch_evolution_theory_ef2b123c_3:
@@ -274,13 +274,13 @@ translate fr a1_wednesday_lunch_evolution_theory_ed98d606:
 translate fr a1_wednesday_lunch_evolution_theory_cc0f4f94:
 
     # "This sends Shizune and Misha arguing among themselves about their favorite restaurants. All of them are downtown, so I don't think we have time to go all the way there. And what about the bill?"
-    "Ce qui finit par mener Shizune et Misha à discuter entre elles de leurs restaurants préférés. Ils sont tous en centre ville, donc je ne pense pas que nous ayons le temps d'aller jusque là-bas. Et à propos du prix?"
+    "Ce qui finit par mener Shizune et Misha à discuter entre elles de leurs restaurants préférés. Ils sont tous en centre ville, donc je ne pense pas que nous ayons le temps d'aller jusque là-bas. Et le prix alors?"
 
 # game/script-a1-wednesday.rpy:177
 translate fr a1_wednesday_lunch_evolution_theory_526d21c7:
 
     # "Are they arguing just for the fun of it?"
-    "Elles débattent juste pour le fun?"
+    "Est-ce qu'elles argumentent juste pour le fun?"
 
 # game/script-a1-wednesday.rpy:179
 translate fr a1_wednesday_lunch_evolution_theory_24de22a3:
@@ -934,7 +934,7 @@ translate fr a1_wednesday_detour_ahead_f2a11fa3:
 translate fr a1_wednesday_detour_ahead_23ce27e7:
 
     # "We arrive at the teahouse in what Misha says is 'record time,' likely because of Shizune's blazing pace. I feel a little let down seeing that it's not a huge feudal-era building with mats on the floor and women in kimonos pouring the tea."
-    "Nous arrivons à la maison de thé en un 'temps record' selon Misha, probablement en raison du rythme enflammé de Shizune. Je suis un peu déçu de voir que ce n'est pas un énorme bâtiment de l'époque féodale, avec des femmes en kimono versant le thé."
+    "Nous arrivons au salon de thé en un 'temps record' selon Misha, probablement en raison du rythme enflammé de Shizune. Je suis un peu déçu de voir que ce n'est pas un énorme bâtiment de l'époque féodale, avec des femmes en kimono versant le thé."
 
 # game/script-a1-wednesday.rpy:682
 translate fr a1_wednesday_detour_ahead_4a23a939:
@@ -1174,7 +1174,7 @@ translate fr a1_wednesday_detour_ahead_d8a8df00:
 translate fr a1_wednesday_detour_ahead_e3d60414:
 
     # "Oh well. I take a bite out of my sandwich. It's very good."
-    "Oh bon. Je prends une bouchée de mon sandwich. Il est très bon."
+    "Eh bien allons-y. Je prends une bouchée de mon sandwich. C'est très bon."
 
 # game/script-a1-wednesday.rpy:844
 translate fr a1_wednesday_detour_ahead_ef2b123c_3:
@@ -1414,7 +1414,7 @@ translate fr a1_wednesday_detour_ahead_ef2b123c_14:
 translate fr a1_wednesday_detour_ahead_b4f561fc:
 
     # mi "Wahaha~! Hicchan, that isn't important. What matters is that the number is low, and that is why we would appreciate you giving us a hand, especially with the festival coming up so soon, and it looking to be a busy year ahead in general."
-    mi "Wahaha~! Hicchan, ce n'est pas important. Ce qui importe, c'est que le nombre est faible, et c'est pourquoi nous te serions reconnaissantes de nous donner un coup de main, spécialement avec le festival qui arrive bientôt."
+    mi "Wahaha~! Hicchan, c'est pas important ça. Ce qui importe, c'est que le nombre est faible, et c'est pourquoi nous te serions reconnaissantes de nous donner un coup de main, plus particulièrement avec le festival qui arrive bientôt, et de manière générale l'année chargée qui s'annonce."
 
 # game/script-a1-wednesday.rpy:998
 translate fr a1_wednesday_detour_ahead_2789216d:
@@ -3670,7 +3670,7 @@ translate fr a1_wednesday_a_private_lunch_f5076fd1:
 translate fr a1_wednesday_a_private_lunch_57cb9829:
 
     # rin "Or perhaps you like to watch girls sleeping?"
-    rin "Ou peut-être que tu aimes regarder les filles dormir?"
+    rin "Ou peut-être que tu aimes regarder les filles en train de dormir?"
 
 # game/script-a1-wednesday.rpy:2301
 translate fr a1_wednesday_a_private_lunch_18f94f15:
@@ -3682,7 +3682,7 @@ translate fr a1_wednesday_a_private_lunch_18f94f15:
 translate fr a1_wednesday_a_private_lunch_38cfb819:
 
     # "I'm not sure what to make of this, but Rin looks serious."
-    "Je ne suis pas sûr de savoir comment réagir, mais Rin a l'air sérieuse."
+    "Je ne suis pas sûr de savoir quoi faire de tout ça, mais Rin a l'air sérieuse."
 
 # game/script-a1-wednesday.rpy:2305
 translate fr a1_wednesday_a_private_lunch_b346da3d:
