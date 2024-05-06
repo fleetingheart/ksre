@@ -130,13 +130,13 @@ translate fr a2_rin_a_wider_field_of_vision_8cdfe17c:
 translate fr a2_rin_a_wider_field_of_vision_eaf4fc3f:
 
     # "Not a minute too soon, the lunch bells ring."
-    "Pas une minute trop tôt, la sonnerie du déjeuner se fait entendre."
+    "Désespérément à l'heure et sans une minute d'avance, la sonnerie du déjeuner se fait entendre."
 
 # game/script-a2-rin.rpy:87
 translate fr a2_rin_a_wider_field_of_vision_7b7badb6:
 
     # mystery "MAKE WAY! IMPORTANT BUSINESS!"
-    mystery "HORS DU CHEMIN! C'EST IMPORTANT!"
+    mystery "POUSSEZ-VOUS ! MISSION URGENTE !"
 
 # game/script-a2-rin.rpy:89
 translate fr a2_rin_a_wider_field_of_vision_5c08af21:
@@ -3246,7 +3246,7 @@ translate fr a2_rin_hisaos_smile_eb77460f:
 translate fr a2_rin_hisaos_smile_085324f5:
 
     # emi "Yeah! People from a few other schools come here for some friendly track and field action. It's on Sunday afternoon."
-    emi "Ouais! Les gens d'autres écoles viennent ici pour une petite compétition, c'est dimanche après-midi."
+    emi "Ouais! Les gens de plusieurs autres écoles viennent ici pour une petite compétition, c'est dimanche après-midi."
 
 # game/script-a2-rin.rpy:2112
 translate fr a2_rin_hisaos_smile_30cd2dae:
@@ -3390,7 +3390,7 @@ translate fr a2_rin_things_you_like_9627ceff:
 translate fr a2_rin_things_you_like_1e5c25f5:
 
     # hi "You know, this school is really something else."
-    hi "Tu sais, cette école est vraiment quelque chose."
+    hi "Tu sais, cette école c'est vraiment quelque chose."
 
 # game/script-a2-rin.rpy:2205
 translate fr a2_rin_things_you_like_0c511a47:
@@ -4020,7 +4020,7 @@ translate fr a2_rin_target_audience_801e329d:
 translate fr a2_rin_target_audience_f49b9658:
 
     # "Emi's mother cheers again, and I assume that the race is over."
-    "La même d'Emi applaudit encore une fois, et j'en déduis que la course est finie."
+    "La mère d'Emi applaudit encore une fois, et j'en déduis que la course est finie."
 
 # game/script-a2-rin.rpy:2656
 translate fr a2_rin_target_audience_941ecf11:
@@ -4056,7 +4056,7 @@ translate fr a2_rin_target_audience_8cf3c02d:
 translate fr a2_rin_target_audience_efaf4785:
 
     # hi "You seem pretty into this stuff. I'm surprised; I thought you said this wouldn't be exciting."
-    hi "Tu sembles assez concentrée, je suis surpris ; je croyais que tu trouvais ça inintéressant."
+    hi "T'as l'air de bien aimer. Je suis surpris ; je croyais que t'avoir entendu dire que ce serait pas intéressant."
 
 # game/script-a2-rin.rpy:2678
 translate fr a2_rin_target_audience_de550c0c:
@@ -4586,7 +4586,7 @@ translate fr a2_rin_target_audience_eb68f3c3:
 translate fr a2_rin_target_audience_c8698477:
 
     # emi "Rin and I are going to do something next Sunday as a post-track meet celebration!"
-    emi "Rin et moi allons faire quelque chose dimanche prochain en guise de célébration post-rencontre d'athlétisme."
+    emi "Rin et moi on fera un petit quelque chose dimanche prochain en guise de fête post-compétition !"
 
 # game/script-a2-rin.rpy:3045
 translate fr a2_rin_target_audience_6fe2177a:
@@ -4862,7 +4862,7 @@ translate fr a2_rin_eternity_in_an_hour_25f193c9:
 translate fr a2_rin_eternity_in_an_hour_8fe877b6:
 
     # no "Come on, throw it out there. It doesn't matter if it's silly or odd, we can always cook up something interesting!"
-    no "Allez, jetez-vous à l'eau. Peu importe si c'est idiot, on peut toujours en sortir quelque chose d’intéressant!"
+    no "Allez, jetez-vous à l'eau. Peu importe si c'est idiot ou bizarre, on peut toujours en sortir quelque chose d’intéressant!"
 
 # game/script-a2-rin.rpy:3243
 translate fr a2_rin_eternity_in_an_hour_1e129e48:
@@ -5108,7 +5108,7 @@ translate fr a2_rin_eternity_in_an_hour_d1c20d8c:
 translate fr a2_rin_eternity_in_an_hour_f4ce15d6:
 
     # no "It is obvious that art touches the very soul of each and every human being in one way or another. So, if you were given a chance to connect with your fellow man in such a fundamental way, how could you not?"
-    no "Il est évident que l'art touche l’âme même de chaque être humain d'une façon ou d'une autre. Donc, s'il t'est donné la chance de te connecter avec un autre homme d'une façon si fondamentale, comment pourrais-tu ne pas le faire?"
+    no "Il est évident que l'art touche l’âme même de chaque être humain d'une façon ou d'une autre. Donc, s'il t'est donné la chance de te connecter avec un autre être humain d'une façon si fondamentale, comment pourrais-tu ne pas le faire?"
 
 # game/script-a2-rin.rpy:3398
 translate fr a2_rin_eternity_in_an_hour_c91b16e9:
@@ -5510,13 +5510,13 @@ translate fr a2_rin_underwater_and_maple_e6e7b548:
 translate fr a2_rin_underwater_and_maple_8f0d09e4:
 
     # hi "Where are we going? Or are we going anywhere at all?"
-    hi "Où est-ce qu'on va? Est-ce qu'on va quelque part tout court?"
+    hi "Où est-ce qu'on va? Est-ce qu'on va quelque part au moins?"
 
 # game/script-a2-rin.rpy:3658
 translate fr a2_rin_underwater_and_maple_63a7ec81:
 
     # rin "Worry Tree."
-    rin "L'Arbre des Inquiétudes."
+    rin "L'Arbre à Soucis."
 
 # game/script-a2-rin.rpy:3660
 translate fr a2_rin_underwater_and_maple_e1f8a5e6:
@@ -5528,7 +5528,7 @@ translate fr a2_rin_underwater_and_maple_e1f8a5e6:
 translate fr a2_rin_underwater_and_maple_e4481879:
 
     # hi "So what exactly is the Worry Tree?"
-    hi "Et qu'est-ce que c'est exactement l'Arbre des Inquiétudes?"
+    hi "Et qu'est-ce que c'est exactement l'Arbre à Soucis?"
 
 # game/script-a2-rin.rpy:3667
 translate fr a2_rin_underwater_and_maple_cd1eb3e1:
@@ -5540,7 +5540,7 @@ translate fr a2_rin_underwater_and_maple_cd1eb3e1:
 translate fr a2_rin_underwater_and_maple_8ddb09b9:
 
     # "She stops in front of a particularly large maple that might or might not be the Worry Tree. Its lush green leaves sway lightly in the breeze blowing through the small clearing we entered."
-    "Elle s’arrête devant un assez grand érable qui pourrait être ou ne pas être l'Arbre des Inquiétudes. Son vert luxuriant oscille légèrement à cause de la brise soufflant dans la forêt."
+    "Elle s’arrête devant un assez grand érable qui pourrait être ou ne pas être l'Arbre à Soucis. Son vert luxuriant oscille légèrement à cause de la brise soufflant dans la forêt."
 
 # game/script-a2-rin.rpy:3671
 translate fr a2_rin_underwater_and_maple_d5d1e4a4:
@@ -5666,7 +5666,7 @@ translate fr a2_rin_underwater_and_maple_8e5cc23a:
 translate fr a2_rin_underwater_and_maple_015a513e:
 
     # rin "I don't think I could have my things on display the way I am now. This me couldn't do it."
-    rin "Je ne pense pas pouvoir avoir mes trucs en exposition comme je suis actuellement. Ce moi ne pourrait pas le faire."
+    rin "Je ne pense pas pouvoir avoir montrer trucs telle que je suis actuellement. Ce moi ne pourrait pas le faire."
 
 # game/script-a2-rin.rpy:3749
 translate fr a2_rin_underwater_and_maple_2b01448f:
@@ -5678,7 +5678,7 @@ translate fr a2_rin_underwater_and_maple_2b01448f:
 translate fr a2_rin_underwater_and_maple_d2b7b0d6:
 
     # hi "I don't get it. The teacher certainly thinks you could. I don't think he'd suggest it otherwise. Sounds like he's calling in favors from his friends, too."
-    hi "Je ne comprends pas. Le professeur est sûr que tu peux. Je ne pense pas qu'il le proposerait sinon. On dirait qu'il demande des faveurs à ses amis, aussi."
+    hi "Je ne comprends pas. Le professeur pense certainement que tu en es capable. Je ne pense pas qu'il le proposerait sinon. On dirait qu'il demande les faveurs de ses amis, en plus."
 
 # game/script-a2-rin.rpy:3756
 translate fr a2_rin_underwater_and_maple_8d4ce0e4:
@@ -5690,7 +5690,7 @@ translate fr a2_rin_underwater_and_maple_8d4ce0e4:
 translate fr a2_rin_underwater_and_maple_8da25209:
 
     # rin "Becoming someone who can do it might be pretty hard. Maybe I couldn't do it at all. He can't do it for me and if I let him try, I'd just sink deeper and deeper."
-    rin "Devenir quelqu'un qui peut le faire peut s’avérer assez dur. Peut-être que je ne peux pas le faire du tout. Il ne peut pas le faire pour moi même si je le laisse essayer, je ne ferais que couler de plus en plus profondément."
+    rin "Devenir quelqu'un qui peut le faire ça peut être assez dur. Peut-être que je ne peux pas le faire du tout. Il ne peut pas le faire à ma place et si je le laissais faire, je ne ferais que couler de plus en plus profondément."
 
 # game/script-a2-rin.rpy:3763
 translate fr a2_rin_underwater_and_maple_4928910f:
@@ -5804,7 +5804,7 @@ translate fr a2_rin_underwater_and_maple_0cf29910:
 translate fr a2_rin_underwater_and_maple_12528d94:
 
     # "She plops down on the forest bed, leaning on the maple she named the Worry Tree. After wondering what to do for a minute, I sit down too, three feet apart from her."
-    "Elle se laisse tomber sur le sol de la forêt, s'adossant contre l’érable qu'elle a nommé l'Arbre des Inquiétudes. Après m’être demandé quoi faire pendant une minute, je m'assieds aussi, à trente centimètres d'elle."
+    "Elle se laisse tomber sur le sol de la forêt, s'adossant contre l’érable qu'elle a baptisé l'Arbre à Soucis. Après m’être demandé quoi faire pendant une minute, je m'assieds aussi, à trente centimètres d'elle."
 
 # game/script-a2-rin.rpy:3832
 translate fr a2_rin_underwater_and_maple_e32a673b:
@@ -5834,7 +5834,7 @@ translate fr a2_rin_underwater_and_maple_17909459:
 translate fr a2_rin_underwater_and_maple_005b75b5:
 
     # "Sometimes she cranes her neck all the way back, so much that it looks almost painful, and stares up at the small patch of sky visible past the canopy of the Worry Tree."
-    "Parfois elle penche la tête en arrière, tellement que ça semblerait presque douloureux, et elle regarde le petit fragment de ciel visible à travers le feuillage de l'Arbre des Inquiétudes."
+    "Parfois elle penche la tête en arrière, tellement que ça semblerait presque douloureux, et elle regarde le petit fragment de ciel visible à travers le feuillage de l'Arbre à Soucis."
 
 # game/script-a2-rin.rpy:3842
 translate fr a2_rin_underwater_and_maple_4933485c:
@@ -5894,7 +5894,7 @@ translate fr a2_rin_underwater_and_maple_904c3ca2:
 translate fr a2_rin_underwater_and_maple_914b75f2:
 
     # "It doesn't seem like Rin has come to a decision."
-    "On ne dirait pas que Rin a pris une décision."
+    "On ne dirait pas que Rin ait pris une décision."
 
 # game/script-a2-rin.rpy:3885
 translate fr a2_rin_underwater_and_maple_54ca5f71:
@@ -6148,13 +6148,13 @@ translate fr a2_rin_underwater_and_maple_e5320a8c:
 translate fr a2_rin_underwater_and_maple_15a9c748:
 
     # rin "I thought it was Sunday."
-    rin "Je pensais que c'était dimanche."
+    rin "Je pensais qu'on était dimanche."
 
 # game/script-a2-rin.rpy:4047
 translate fr a2_rin_underwater_and_maple_c55f6e4f:
 
     # ke "I see you're not in the know. Yeah man, I'm talking about man-eating cows here. Very few people know what I know, so I'm not surprised."
-    ke "Je vois que tu n'es pas au courant. Ouais mec, je parle de vaches mangeuses d'hommes là. Très peu de gens savent ce que je sais, alors je ne suis pas surpris."
+    ke "Je vois que tu n'es pas dans la confidence. Ouais mec, je parle de vaches mangeuses d'hommes là. Très peu de gens savent ce que je sais, alors je ne suis pas surpris."
 
 # game/script-a2-rin.rpy:4052
 translate fr a2_rin_underwater_and_maple_b20e0456:
@@ -6566,13 +6566,13 @@ translate fr a2_rin_in_her_own_image_4e9413b0:
 translate fr a2_rin_in_her_own_image_c6e8d3ec:
 
     # n "I can't decide whether these people are happy, unhappy, or if they've just learned to cope and now live in an unfeeling limbo like I did all spring."
-    n "Je n'arrive pas à décider si les gens sont heureux, malheureux, ou s'ils ont juste appris à vivre dans ces limbes impitoyables comme je l'ai fait tout le printemps."
+    n "Je n'arrive pas à me décider si les gens sont heureux, malheureux, ou s'ils ont juste appris à vivre dans ces limbes impitoyables comme je l'ai fait tout le printemps."
 
 # game/script-a2-rin.rpy:4315
 translate fr a2_rin_in_her_own_image_848255c3:
 
     # n "I escape from these feelings into the towering piles of books I carry to my room from Yuuko's sanctuary. After realizing that this will just shut me down even more, I start going to the art club's room more often, usually whenever I can."
-    n "Je m'échappe de tout ça avec des piles de livres empruntés au sanctuaire de Yuuko. Après avoir réalisé que ça ne faisait que m'isoler encore plus, j'ai commencé à aller au club d'art plus souvent, généralement dès que je peux."
+    n "Je m'échappe de tout ça avec des piles de livres empruntées au sanctuaire de Yuuko. Après avoir réalisé que ça ne faisait que m'isoler encore plus, j'ai commencé à aller au club d'art plus souvent, généralement dès que je pouvais."
 
 # game/script-a2-rin.rpy:4317
 translate fr a2_rin_in_her_own_image_69391b28:
@@ -7066,7 +7066,7 @@ translate fr a2_rin_in_her_own_image_eef28cb2:
 translate fr a2_rin_in_her_own_image_7382481b:
 
     # rin "Paintings stay behind. When I look at my old things, I remember what I was thinking back when I made them."
-    rin "Les peintures restent derrière. Quand je regarde mes anciens travaux, je me rappelle ce que je pensais quand je les ai faits."
+    rin "Les peintures ça reste derrière. Quand je regarde mes anciens travaux, je me rappelle ce que je pensais quand je les ai faits."
 
 # game/script-a2-rin.rpy:4593
 translate fr a2_rin_in_her_own_image_7f72158e:
@@ -7078,7 +7078,7 @@ translate fr a2_rin_in_her_own_image_7f72158e:
 translate fr a2_rin_in_her_own_image_035a3dde:
 
     # rin "I guess they are the proof of my existence."
-    rin "Elles doivent être la preuve de mon existence."
+    rin "J'imagine qu'elles sont la preuve de mon existence."
 
 # game/script-a2-rin.rpy:4600
 translate fr a2_rin_in_her_own_image_bcdb01a2:
@@ -7780,13 +7780,13 @@ translate fr a2_rin_umbrella_logic_cake_46b36b45:
 translate fr a2_rin_umbrella_logic_cake_9153f7ed:
 
     # "The walk down from the school to the local shopping district is not a long one, but it's not very short, either. It's all downhill so our steps roll easily, but time stretches out nevertheless."
-    "La marche depuis l'école jusqu'au quartier commerçant n'est pas bien longue, mais pas spécialement courte non plus. C'est toujours en pente descendante donc nos pas s’enchaînent sans efforts, mais le temps passe quand même."
+    "La marche depuis l'école jusqu'au quartier commerçant n'est pas bien longue, mais pas spécialement courte non plus. C'est toujours en pente descendante donc nos pas s’enchaînent sans efforts, mais le temps s'étire quand même et paraît long."
 
 # game/script-a2-rin.rpy:5119
 translate fr a2_rin_umbrella_logic_cake_7b5d5cc5:
 
     # "The distance is right there, in that gray area where you don't expect the trip to be quickly over with, but you aren't preparing for a long walk, either."
-    "C'est cette distance spéciale, dans la zone floue où on ne s'attend pas à ce que ce soit rapidement fini, mais où on n'est pas préparé pour une longue marche, non plus."
+    "C'est cette distance un peu particulière, dans la zone floue où on ne s'attend pas à ce que ce soit rapidement fini, mais où on n'est pas préparé pour une longue marche non plus."
 
 # game/script-a2-rin.rpy:5121
 translate fr a2_rin_umbrella_logic_cake_ed4e4f5f:
@@ -7810,7 +7810,7 @@ translate fr a2_rin_umbrella_logic_cake_f50f0b8c:
 translate fr a2_rin_umbrella_logic_cake_122a7f22:
 
     # "Emi, on the other hand, is way too happy about just walking."
-    "Emi, quant à elle, est bien trop contente pour quelqu'un qui marche juste."
+    "Emi, quant à elle, est bien trop contente pour quelqu'un qui ne fait que marcher."
 
 # game/script-a2-rin.rpy:5129
 translate fr a2_rin_umbrella_logic_cake_19f259a3:
@@ -8032,7 +8032,7 @@ translate fr a2_rin_umbrella_logic_cake_850cd723:
 translate fr a2_rin_umbrella_logic_cake_6713aec7:
 
     # yu "Ehh, yes, that too. It's a part-time job as you can see, ehehe. It's Sunday, so there aren't any lectures."
-    yu "Euh oui, ça aussi. C'est un travail à temps partiel, comme tu peux le voir, éhéhé. C'est dimanche, alors il n'y a pas de cours."
+    yu "Euh oui, ça aussi. C'est un travail à temps partiel, comme tu peux le voir, éhéhé. Ça a lieu le dimanche, alors il n'y a pas de cours."
 
 # game/script-a2-rin.rpy:5316
 translate fr a2_rin_umbrella_logic_cake_550ff9a8:
@@ -8578,7 +8578,7 @@ translate fr a2_rin_umbrella_logic_cake_b2a7bd4f:
 translate fr a2_rin_six_meters_closer_1e0d3b8a:
 
     # "The next morning, like every second Monday morning until he says otherwise, I have an appointment with the nurse."
-    "Le matin suivant, comme chaque second lundi jusqu'à ce qu'il dise le contraire, j'ai rendez-vous avec l'infirmier."
+    "Le matin suivant, irrégulièrement un lundi sur deux , j'ai rendez-vous avec l'infirmier."
 
 # game/script-a2-rin.rpy:5773
 translate fr a2_rin_six_meters_closer_b9334d67:
@@ -9328,7 +9328,7 @@ translate fr a2_rin_six_meters_closer_94b4b108:
 translate fr a2_rin_six_meters_closer_95f5a4f7:
 
     # n "I can't stop comparing life at Yamaku to my hospitalization, but I really should. I'm not there any more."
-    n "Je ne peux pas m’empêcher de comparer la vie à Yamaku à celle de mon hospitalisation, mais je devrais vraiment. Je n'y suis plus maintenant."
+    n "Je ne peux pas m’empêcher de comparer ma vie à Yamaku à celle pendant mon hospitalisation, mais je devrais m'y forcer. Je n'y suis plus maintenant."
 
 # game/script-a2-rin.rpy:6232
 translate fr a2_rin_six_meters_closer_93edddf7:
@@ -9430,7 +9430,7 @@ translate fr a2_rin_six_meters_closer_1251a1da:
 translate fr a2_rin_six_meters_closer_1a0216ec:
 
     # hi "Everything out there. Real people, with normal everyday lives that fit together like a puzzle."
-    hi "Tout ce qu'il y a dehors. Les vrais gens, avec des vies normales qui s'assemblent comme un puzzle."
+    hi "Tout ce qu'il y a dehors. Les vrais gens, avec des vies normales qui s'assemblent comme dans un puzzle."
 
 # game/script-a2-rin.rpy:6294
 translate fr a2_rin_six_meters_closer_27cb8156:
@@ -9442,13 +9442,13 @@ translate fr a2_rin_six_meters_closer_27cb8156:
 translate fr a2_rin_six_meters_closer_20931774:
 
     # hi "Maybe we aren't. Well, no, we are. I just meant that it feels more like we're the leftover pieces."
-    hi "Peut-être pas. Enfin, si, mais bon. Je voulais juste dire qu'on a plus l'air de restes abîmés."
+    hi "Peut-être pas. Enfin, si, on en est. J'ai juste l'impression qu'on est plutôt des pièces en trop qu'on aurait mis de côté."
 
 # game/script-a2-rin.rpy:6301
 translate fr a2_rin_six_meters_closer_00846f37:
 
     # "Rin thinks for a while, her almond-shaped eyes narrowing as she bites her lip a little bit, like a child."
-    "Rin réfléchit pendant un moment, plissant des yeux en se mordant un peu la lèvre, comme une enfant."
+    "Rin réfléchit pendant un moment, plissant ses yeux en amande et se mordant un peu la lèvre, comme une enfant."
 
 # game/script-a2-rin.rpy:6306
 translate fr a2_rin_six_meters_closer_29ec4427:
@@ -9460,13 +9460,13 @@ translate fr a2_rin_six_meters_closer_29ec4427:
 translate fr a2_rin_six_meters_closer_be079ba4:
 
     # "Her question earns a dry chuckle from me."
-    "Sa question me fait rire un peu."
+    "Sa question me provoque un petit rire sec."
 
 # game/script-a2-rin.rpy:6310
 translate fr a2_rin_six_meters_closer_eeb1ec5c:
 
     # hi "You tell me. You've been in this business a lot longer than I have."
-    hi "À toi de me dire. Tu es dans le métier depuis plus longtemps que moi."
+    hi "À toi de me dire. T'es dans le business depuis plus longtemps que moi."
 
 # game/script-a2-rin.rpy:6315
 translate fr a2_rin_six_meters_closer_f046f792:
@@ -9484,7 +9484,7 @@ translate fr a2_rin_six_meters_closer_8bc95197:
 translate fr a2_rin_six_meters_closer_83118606:
 
     # rin "I've started to practice food things this year. I think I'd want to learn to cook in a real kitchen someday."
-    rin "J'ai commencé à m’entraîner pour la nourriture cette année. Je crois que je voudrais apprendre à cuisiner dans une vraie cuisine un jour."
+    rin "J'ai commencé à m’entraîner aux trucs sur la bouffe cette année. Je crois que je voudrais apprendre à cuisiner dans une vraie cuisine un jour."
 
 # game/script-a2-rin.rpy:6327
 translate fr a2_rin_six_meters_closer_71bf09d8:
@@ -9502,7 +9502,7 @@ translate fr a2_rin_six_meters_closer_24061be6:
 translate fr a2_rin_six_meters_closer_e09592b0:
 
     # "I have no good counter to that, so I concede by falling silent. The situation is making me more and more confused."
-    "Je n'ai aucune bonne réponse à ça, alors je concède en restant silencieux. La situation me rend de plus en plus confus."
+    "Je n'ai aucune bonne réponse à ça, alors je concède en observant le silencieux. La situation me rend de plus en plus confus."
 
 # game/script-a2-rin.rpy:6336
 translate fr a2_rin_six_meters_closer_8212c609:
@@ -9646,7 +9646,7 @@ translate fr a2_rin_six_meters_closer_0792ef14:
 translate fr a2_rin_six_meters_closer_cc302c66:
 
     # hi "Man, I'm sorry I'm such a mess."
-    hi "Rah, je suis désolé d’être une épave comme ça."
+    hi "Rah, pardon d’être une épave comme ça."
 
 # game/script-a2-rin.rpy:6421
 translate fr a2_rin_six_meters_closer_1d428a4a:
@@ -9694,7 +9694,7 @@ translate fr a2_rin_six_meters_closer_614c05ea:
 translate fr a2_rin_six_meters_closer_8e7e3fe6:
 
     # hi "Thanks for the hug."
-    hi "Merci pour l’étreinte."
+    hi "Merci pour le câlin."
 
 # game/script-a2-rin.rpy:6457
 translate fr a2_rin_six_meters_closer_459eb315:
@@ -9940,7 +9940,7 @@ translate fr a2_rin_signal_interference_84c4aced:
 translate fr a2_rin_signal_interference_b52ba645:
 
     # "Something about this situation gives me very strange vibes. Her eyes are even more vacant than usual and she seems to have a hard time focusing them on anything."
-    "Quelque chose dans cette situation me semble vraiment anormal. Ses regard est encore plus absent qu'à l'habitude et elle semble avoir du mal à se concentrer sur un point précis."
+    "Quelque chose dans cette situation me semble vraiment anormal. Son regard est encore plus absent que d'habitude et elle semble avoir du mal à se concentrer sur un point précis."
 
 # game/script-a2-rin.rpy:6625
 translate fr a2_rin_signal_interference_6396491d:
@@ -9952,25 +9952,25 @@ translate fr a2_rin_signal_interference_6396491d:
 translate fr a2_rin_signal_interference_cce8bcc0:
 
     # "I keep telling myself that."
-    "Je continue de me dire ça."
+    "C'est ce que je me dit, et me redit."
 
 # game/script-a2-rin.rpy:6629
 translate fr a2_rin_signal_interference_eae37868:
 
     # hi "Err, I thought I'd pay you a visit since you haven't been at the art club… and I wanted to talk with you and wish you well."
-    hi "Euh, je me suis dit que je pourrais passer te voir, vu que tu n'es pas venue au club d'art... et je voulais te parler et te souhaiter une bonne guérison."
+    hi "Euh, je me suis dit que je pourrais passer te voir, vu que tu n'es pas venue au club d'art... et je voulais discuter un peu et te souhaiter une bonne guérison."
 
 # game/script-a2-rin.rpy:6631
 translate fr a2_rin_signal_interference_a13edec0:
 
     # "Rin doesn't show any sign of recognizing what I just said, making me wonder if she actually understood my words, or if she even heard them."
-    "Rin ne montre aucun signe de compréhension suite à mes paroles, et je me demande si elle m'a entendu."
+    "Rin ne montre aucun signe de compréhension suite à mes paroles, et je me demande si elle a bien compris mes mots, ou si elle les a même entendu."
 
 # game/script-a2-rin.rpy:6633
 translate fr a2_rin_signal_interference_1215af9d:
 
     # "Maybe it's the fever making her groggy; she might've actually been asleep before I came over."
-    "Peut-être que c'est la fièvre qui la met dans cet état-là ; peut-être qu'elle dormait juste avant que j'arrive."
+    "Peut-être que c'est la fièvre qui la met dans cet état-là ; il était peut-être même en train de dormir au moment où je suis arrivé."
 
 # game/script-a2-rin.rpy:6638
 translate fr a2_rin_signal_interference_a61bcc4a:
@@ -9982,13 +9982,13 @@ translate fr a2_rin_signal_interference_a61bcc4a:
 translate fr a2_rin_signal_interference_188e4bd8:
 
     # "She turns on her heel and withdraws from the door, walking back inside the small room. From the doorway I can see her walk to her bed and half fall down, half sit down on the messy pile of bedsheets."
-    "Elle me tourne le dos et retourne dans sa chambre. Depuis la porte, je peux la voir se mettre sur son lit, à moitié allongée et à moitié assise dessus."
+    "Elle pivote et s'en retourne à sa chambre. Depuis la porte, je peux la voir se mettre sur son lit, à moitié allongée et à moitié assise dessus."
 
 # game/script-a2-rin.rpy:6648
 translate fr a2_rin_signal_interference_d49e37e9:
 
     # "The open doorway seems to be more of an obstacle in my mind than the closed door was, but since Rin doesn't say anything else, I step through it, and into her room."
-    "La porte ouverte semble être plus un obstacle dans mon esprit que la porte fermée ne l'était, mais vu que Rin ne dit rien d'autre, je fais un pas en avant, entrant dans sa chambre."
+    "Ouverte, la porte semble être un plus grand obstacle dans mon esprit qu'elle ne l'était fermée, mais vu que Rin ne dit rien d'autre, je fais un pas en avant, entrant dans sa chambre."
 
 # game/script-a2-rin.rpy:6653
 translate fr a2_rin_signal_interference_f564e283:
@@ -10282,7 +10282,7 @@ translate fr a2_rin_signal_interference_31edb70d:
 translate fr a2_rin_signal_interference_e07ef506:
 
     # rin "Yeah. Would you like me to show you the places?"
-    rin "Ouais. Tu aimerais que je te montre les lieux?"
+    rin "Ouais. T'aimerais que je te montre un peu ?"
 
 # game/script-a2-rin.rpy:6828
 translate fr a2_rin_signal_interference_3c96ef1c:
@@ -10300,7 +10300,7 @@ translate fr a2_rin_signal_interference_a9da8c10:
 translate fr a2_rin_signal_interference_16145517:
 
     # "I can't deny that, no matter how hard I tried to act properly."
-    "Je ne peux pas nier ça, malgré le fait que j'essaye vraiment d'agir convenablemet."
+    "Je ne peux pas le nier, malgré mes efforts considérables pour agir convenablemet."
 
 # game/script-a2-rin.rpy:6840
 translate fr a2_rin_signal_interference_910028fd:
@@ -10312,7 +10312,7 @@ translate fr a2_rin_signal_interference_910028fd:
 translate fr a2_rin_signal_interference_cf29c412:
 
     # rin "It makes me feel very… what's that word… you know, the one about things and stuff."
-    rin "Ça me fait me sentir très... c'est quoi le mot... tu sais, celui à propos de trucs et tout."
+    rin "Ça me fait me sentir très... c'est quoi ce mot... tu sais, celui à propos des trucs et tout."
 
 # game/script-a2-rin.rpy:6850
 translate fr a2_rin_signal_interference_321aba68:
@@ -10324,7 +10324,7 @@ translate fr a2_rin_signal_interference_321aba68:
 translate fr a2_rin_signal_interference_dbbfcdf1:
 
     # "Rin's rambling makes me remember that I actually came here for a reason."
-    "Le baragouinage de Rin me rappelle que je suis en fait venu ici avec une raison précise."
+    "Le baragouinage de Rin me rappelle qu'en je suis venu ici avec une raison précise."
 
 # game/script-a2-rin.rpy:6854
 translate fr a2_rin_signal_interference_72a0fc96:
@@ -10372,7 +10372,7 @@ translate fr a2_rin_signal_interference_b0a4ce02:
 translate fr a2_rin_signal_interference_169bd118:
 
     # "The blurry words flow out of her lips slowly and uncontrollably."
-    "Les mots sortent un peu confus de ses lèvres, lentement et sans contrôle."
+    "Ces mots sortent un peu confus de ses lèvres, lentement et sans contrôle."
 
 # game/script-a2-rin.rpy:6881
 translate fr a2_rin_signal_interference_f9b7a33b:
@@ -10408,13 +10408,13 @@ translate fr a2_rin_signal_interference_a554aa3e:
 translate fr a2_rin_signal_interference_bdd2f412:
 
     # rin "Oh. I guess that's fine too."
-    rin "Oh. Ça va aussi alors."
+    rin "Oh. C'est bien aussi j'imagine."
 
 # game/script-a2-rin.rpy:6907
 translate fr a2_rin_signal_interference_23a7f685:
 
     # "The sentences come out of her mouth, and probably her brain, one at a time with a small pause between each, making her gibberish hard to understand."
-    "Les phrases sortent de sa bouche, et probablement de son cerveau, une à la fois avec une petite pause entre chaque, rendant son charabia difficile à comprendre."
+    "Les phrases sortent de sa bouche, et probablement de son cerveau, une à la fois avec une petite pause entre chacune d'elles, rendant son charabia difficile à comprendre."
 
 # game/script-a2-rin.rpy:6912
 translate fr a2_rin_signal_interference_d3f32e4c:
@@ -11032,7 +11032,7 @@ translate fr a2_rin_dandelions_9dd0c301:
 translate fr a2_rin_dandelions_ece932ef:
 
     # "We go past the small clearing with the big maple that is now called the Worry Tree. The climb steepens, then becomes easier again."
-    "Nous passons à côté de la petite clairière avec le grand érable qui s'appelle maintenant l'Arbre aux Inquiétudes. La montée s'accentue, puis redevient facile."
+    "Nous passons à côté de la petite clairière avec le grand érable qui s'appelle maintenant l'Arbre à Soucis. La montée s'accentue, puis redevient facile."
 
 # game/script-a2-rin.rpy:7316
 translate fr a2_rin_dandelions_eae3e2f5:
@@ -11170,7 +11170,7 @@ translate fr a2_rin_dandelions_1aff2323:
 translate fr a2_rin_dandelions_ea32318a:
 
     # rinbabble "You just look so sad all the time and become upset so easily and it makes me confused and I really don't remember much about yesterday except that you came to my room and that's why it might be because of me so if it's because of me I think that I know why, it's because people don't really like talking to me and you might be the same and that would be sad I know that people and I'm talking about others than Emi too always say that I'm strange and that I talk strange things so I thought I'd try not to say strange things but that just makes me think more and new and strange and colorful that was not a good word but maybe you understand anyway and odd things so if I want to say something I don't really know how and then the words are not the same as the thoughts because something goes wrong on the way out but it's not like the thoughts are really the thing I should be saying it's more like the idea of the thought or the feeling of the idea or the idea of the feeling but it's not really any of those either because there is no word for it unless I invent a new one which is not really useful so I've been thinking if doing things is better than saying so maybe because yesterday I took those pills and I was feeling a little strange I might have done something that I shouldn't besides I don't even know if it would be any better if I just could say the thought there is no telepathy that's real telepathy isn't there I think it'd be terrible and useful at the same time but right now I wouldn't mind because misunderstanding is so easy but understanding is not and I thought—"
-    rinbabble "C'est juste que tu sembles tellement triste tout le temps et es perturbé tellement facilement et ça me rend confuse et je ne me rappelle vraiment pas grand-chose à propos d'hier sauf que tu es venu dans ma chambre et c'est pour ça que ça pourrait être à cause de moi alors si c'est à cause de moi je crois que je sais pourquoi, c'est parce que les gens n'aiment pas vraiment me parler et tu pourrais être pareil et ça serait triste je sais que les gens à qui je parle et qui ne sont pas Emi disent toujours que je suis étrange et que je dis des choses étranges alors je me suis dit que j'essayerais de ne pas dire de choses étranges mais ça me fait juste penser encore plus à des choses nouvelles et étranges et colorées ce n'était pas un bon mot mais peut-être que tu comprends quand même et alors si je veux dire quelque chose je ne sais pas vraiment comment et puis les mots qui sortent ne sont pas les mêmes que les pensées parce que quelque chose ne va pas en chemin mais ce n'est pas comme si les pensées sont vraiment la chose que je devrais dire c'est plus l'idée de la pensée ou la pensée de l'idée ou l'idée du sentiment mais ce n'est pas vraiment ça non plus parce qu'il n'y a pas de mot pour ça sauf si j'en invente un nouveau ce qui n'est pas vraiment utile alors j'ai pensé que si faire les choses est mieux que dire les choses alors peut-être parce que hier j'ai pris ces pilules et je me sentais un peu bizarre j'ai pu faire quelque chose que je n'aurais pas dû sauf que je ne sais même pas si ça serait mieux si je te le pensais en télépathie s'il y avait de la télépathie ça serait bien et pas bien à la fois mais maintenant j'aimerais bien parce que c'est trop facile de ne pas comprendre mais pas de comprendre et je pensais—"
+    rinbabble "C'est juste que tu sembles tellement triste tout le temps et es perturbé tellement facilement et ça me rend confuse et je ne me rappelle vraiment pas grand-chose à propos d'hier sauf que tu es venu dans ma chambre et c'est pour ça que ça pourrait être à cause de moi alors si c'est à cause de moi je crois que je sais pourquoi, c'est parce que les gens n'aiment pas vraiment me parler et tu pourrais être pareil et ça serait triste je sais que les gens à qui je parle et qui ne sont pas Emi disent toujours que je suis étrange et que je dis des choses étranges alors je me suis dit que j'essayerais de ne pas dire de choses étranges mais ça me fait juste penser encore plus à des choses nouvelles et étranges et colorées ce n'était pas un bon mot mais peut-être que tu comprends quand même et alors si je veux dire quelque chose je ne sais pas vraiment comment et puis les mots qui sortent ne sont pas les mêmes que les pensées parce que quelque chose ne va pas en chemin mais ce n'est pas comme si les pensées sont vraiment la chose que je devrais dire c'est plus l'idée de la pensée ou la pensée de l'idée ou l'idée du sentiment mais ce n'est pas vraiment ça non plus parce qu'il n'y a pas de mot pour ça sauf si j'en invente un nouveau ce qui n'est pas vraiment utile alors j'ai pensé que si faire les choses est mieux que dire les choses alors peut-être parce que hier j'ai pris ces pilules et je me sentais un peu bizarre j'ai pu faire quelque chose que je n'aurais pas dû sauf que je ne sais même pas si ça serait mieux si je te le transmettait par télépathie s'il y avait de la télépathie ça serait bien et pas bien à la fois mais maintenant j'aimerais bien parce que c'est trop facile de ne pas comprendre mais pas de comprendre et je pensais—"
 
 # game/script-a2-rin.rpy:7406
 translate fr a2_rin_dandelions_e10eda3e:
@@ -11560,13 +11560,13 @@ translate fr a2_rin_dandelions_fb064e22:
 translate fr a2_rin_dandelions_087395f5:
 
     # "Rin surely can do this. Even if she can't, she's going to pull through."
-    "Rin peut le faire. Même si elle ne peut pas, elle y arrivera."
+    "Rin peut sûrement y arriver. Même si elle ne peut pas, elle va quand même essayer."
 
 # game/script-a2-rin.rpy:7657
 translate fr a2_rin_dandelions_8fa8b146:
 
     # "I'm sure that I can keep my head above water too, from now on."
-    "Je suis sûr que je peux garder la tête hors de l'eau aussi, à partir de maintenant."
+    "Moi aussi, je suis sûr que je peux garder la tête hors de l'eau à partir de maintenant."
 
 # game/script-a2-rin.rpy:7659
 translate fr a2_rin_dandelions_9d8af1cd:
@@ -11596,7 +11596,7 @@ translate fr a2rc1o1_bfb2bfa3:
 translate fr a2rc1o1_475c3327:
 
     # rin "It's not that amazing."
-    rin "Ce n'est pas si bien."
+    rin "Ce n'est pas si incroyable."
 
 # game/script-a2-rin.rpy:7675
 translate fr a2rc1o1_f1443d20:
@@ -11608,19 +11608,19 @@ translate fr a2rc1o1_f1443d20:
 translate fr a2rc1o2_a061c071:
 
     # hi "Wow, I wish I was that good. I kind of embarrass myself."
-    hi "Woaw, j'aimerais être aussi bon. Ça m’embarrasse un peu."
+    hi "Woaw, j'aimerais être aussi bon que ça. Ça m’embarrasse un peu."
 
 # game/script-a2-rin.rpy:7682
 translate fr a2rc1o2_ce1bf2e5:
 
     # rin "Wouldn't you have to be me to be as good as me? I don't think you'd want to be me."
-    rin "Il ne faudrait pas que tu sois moi pour être aussi doué que moi? Je ne crois pas que tu veuilles être moi."
+    rin "Alors il faudrait que tu sois moi pour être aussi doué que moi non ? Je ne crois pas que tu veuilles être moi."
 
 # game/script-a2-rin.rpy:7684
 translate fr a2rc1o2_21c7b4a2:
 
     # hi "No, I guess not. Maybe just some sort of approximation then."
-    hi "Non, je ne pense pas. Peut-être juste une approximation alors."
+    hi "Non, je ne pense pas. Ou peut-être juste une sorte d'approximation."
 
 # game/script-a2-rin.rpy:7689
 translate fr a2rc2o1_0c5f72fe:
@@ -11632,25 +11632,25 @@ translate fr a2rc2o1_0c5f72fe:
 translate fr a2rc2o1_262c25e8:
 
     # hi "I think, if I had to pin it down to one thing, that the students here really appreciate going to school."
-    hi "Je crois, si je devais affirmer une seule chose, que les étudiants ici aiment vraiment aller à l'école."
+    hi "Je crois, si je devais le résumer en une phrase, que les étudiants ici aiment vraiment aller à l'école."
 
 # game/script-a2-rin.rpy:7696
 translate fr a2rc2o2_7a293884:
 
     # hi "I feel like I need to start moving in some direction, too. That's how this school makes me feel."
-    hi "J'ai l'impression que j'ai besoin de me diriger vers quelque chose, aussi. C'est l'effet que me fait cette école."
+    hi "Et puis j'ai l'impression que j'ai besoin de me diriger vers quelque chose. C'est l'effet que me fait cette école."
 
 # game/script-a2-rin.rpy:7703
 translate fr a2rc3o1_7f8edb40:
 
     # "Rin could probably do it. Even though she seems to doubt herself, I have no doubts about her strength."
-    "Rin pourrait probablement le faire. Même si elle semblait douter d’elle-même, je n'ai aucun doute sur sa force."
+    "Rin pourrait probablement le faire. Même si elle semble douter d’elle-même, je n'ai aucun doute sur ses capacités."
 
 # game/script-a2-rin.rpy:7705
 translate fr a2rc3o1_10195aac:
 
     # "She could do it, even if she can't."
-    "Elle peut le faire, même si elle ne le peut pas."
+    "Elle pourrait le faire, même si elle ne le peut pas."
 
 # game/script-a2-rin.rpy:7712
 translate fr a2rc3o2_54d9df7a:
@@ -11662,7 +11662,7 @@ translate fr a2rc3o2_54d9df7a:
 translate fr a2rc3o2_82df88f9:
 
     # "If anyone has 'beaten' a disability, it must be her."
-    "Si quelqu'un a déjà 'battu' un handicap, c'est bien elle."
+    "Si quelqu'un a déjà 'battu' son handicap, ça doit bien être elle."
 
 # game/script-a2-rin.rpy:7719
 translate fr a2rc4o1_c5ac0e1c:
@@ -11966,7 +11966,7 @@ translate fr strings:
 
     # game/script-a2-rin.rpy:4219
     old "There are other things I want to say. I'm writing to you because I felt that there are things I should've said after the incident back in winter. I really regret that I wasn't able to say them in person, and I have no excuse for it.{vspace=150}"
-    new "Il y a d'autres choses dont je veux te parler. Je t'écris parce que j'ai l'impression que j'aurais dû te dire certaines choses après l'incident de l'hiver. Je regrette vraiment de ne pas avoir été capable de le dire en personne, et je n'ai aucune excuse pour ça.{vspace=150}"
+    new "Il y a d'autres choses dont je veux te parler. Je t'écris parce que j'ai l'impression que j'aurais dû te dire certaines choses après l'incident de cet hiver. Je regrette vraiment de ne pas avoir été capable de le dire en personne, et je n'ai aucune excuse pour ça.{vspace=150}"
 
     # game/script-a2-rin.rpy:4221
     old "The truth is, the times when I visited you at the hospital made me worried about you. I am not talking about your health. You seemed to become more distant and disheartened. It was natural after something like that happened, I'm sure, but somehow I got the feeling that you had given up on something back then. Happiness, maybe?\n"
