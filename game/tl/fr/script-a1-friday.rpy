@@ -1282,7 +1282,7 @@ translate fr a1_friday_no_free_lunch_bdcf585f:
 translate fr a1_friday_no_free_lunch_d190b67e:
 
     # "Maybe it's because she can't talk, so it's harder for her. She has Misha, but all in all, as easy as they make it look, there's still a difference between casual speech and sign language."
-    "Peut-être que c'est parce qu'elle ne peut pas parler, donc c'est plus dur pour elle. Elle a Misha, mais dans l'ensemble, aussi facile que ça puisse paraître, il y a toujours une différence entre parler normalement et le langage des signes."
+    "Peut-être que c'est parce qu'elle ne peut pas parler, donc c'est plus dur pour elle. Elle a Misha, mais dans l'ensemble, aussi facile que ça puisse paraître, il y a toujours une différence entre une discussion habituelle et la langue des signes."
 
 # game/script-a1-friday.rpy:926
 translate fr a1_friday_no_free_lunch_a686e8fb:
