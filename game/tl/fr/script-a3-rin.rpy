@@ -322,7 +322,7 @@ translate fr a3_rin_tt_corner_71407fb6:
 translate fr a3_rin_tt_corner_e629d090:
 
     # "He pulls out a folder full of photos out of a desk drawer, then charges towards the back where there's a small storage room and extra cabinets for all the materials and tools the art classes and club use."
-    "Il extirpe un dossier rempli de photos de son bureau, puis fonce jusqu'au fond de la salle où se trouve une petite pièce de stockage et des placards en rab pour tout le matériel et les outils que les cours et le club d'art utilisent."
+    "Il extirpe de son bureau un dossier rempli de photos, puis traverse la salle en trombe jusqu'à une petite pièce où des placards en rab servent à stocker tout le matériel et les outils des cours et du club d'art."
 
 # game/script-a3-rin.rpy:223
 translate fr a3_rin_tt_corner_1ad0b80a:
