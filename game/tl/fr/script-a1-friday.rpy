@@ -370,7 +370,7 @@ translate fr a1_friday_invisible_hat_f0fc03db:
 translate fr a1_friday_invisible_hat_c0148a9d:
 
     # ke "I just wanted to know when the next test day was. I'm still going to take it, duh. I need to know so I know what day I can't afford to skip class. He usually sends out updates on that crap by phone, so I had to step out and check up on it."
-    ke "Je voulais juste savoir la date du prochain exam. Je vais quand même le faire, duh. J'ai besoin de connaître la date pour savoir quel jour dois venir. Il envoie habituellement les dates par téléphone, donc je dois sortir pour savoir quand c'est."
+    ke "Je voulais juste savoir la date du prochain exam. Je vais quand même le faire, duh. J'ai besoin de connaître la date pour savoir quel jour je dois venir. Il envoie habituellement les dates par téléphone, donc je dois sortir pour savoir quand c'est."
 
 # game/script-a1-friday.rpy:233
 translate fr a1_friday_invisible_hat_9a95cb38:
@@ -412,7 +412,7 @@ translate fr a1_friday_invisible_hat_42e68966:
 translate fr a1_friday_invisible_hat_454df66d:
 
     # ke "But, basically, when I hear a phone, I get nervous. It's my darkest secret."
-    ke "Mais, basiquement, quand je porte un téléphone, je suis nerveux. C'est mon plus sombre secret."
+    ke "Mais, concrètement, quand je porte un téléphone, je suis nerveux. C'est mon plus sombre secret."
 
 # game/script-a1-friday.rpy:259
 translate fr a1_friday_invisible_hat_1fc5b5b8:
@@ -1384,7 +1384,7 @@ translate fr a1_friday_foot_and_mouth_19e0b6e2:
 translate fr a1_friday_foot_and_mouth_4bb9eb12:
 
     # hi "Sounds delicious. To what do I owe this honor of being invited?"
-    hi "Ça a l'air délicieux, et qu'est-ce qui me vaut l'honneur d'être invité?"
+    hi "Ça a l'air délicieux. Et qu'est-ce qui me vaut l'honneur d'être invité?"
 
 # game/script-a1-friday.rpy:1009
 translate fr a1_friday_foot_and_mouth_927ff6a6:
@@ -2740,13 +2740,13 @@ translate fr a1_friday_mind_your_step_07093d8a:
 translate fr a1_friday_mind_your_step_180436ec:
 
     # li "Looking on the bright side, one could see it as a chance for a new beginning. You should cherish the ability to make new friends."
-    li "Regardant le bon côté des choses, on peut y voir la chance pour un nouveau commencement. Tu devrais chérir l'opportunité de te faire de nouveaux amis."
+    li "Si on regarde le bon côté des choses, on peut y voir l'opportunité d'un nouveau commencement. Tu devrais apprécier cette capacité à te faire de nouveaux amis."
 
 # game/script-a1-friday.rpy:1799
 translate fr a1_friday_mind_your_step_395f844c:
 
     # "That's optimistic. Nonetheless, it's good to have a positive attitude about such things, I suppose."
-    "C'est optimiste. Cela dit, c'est une bonne chose d'avoir une attitude positive à propos de telles choses, en y pensant."
+    "C'est optimiste. Celà dit, c'est bien d'avoir une attitude positive sur ce sujets-là, j'imagine."
 
 # game/script-a1-friday.rpy:1801
 translate fr a1_friday_mind_your_step_91b00e83:
@@ -2806,7 +2806,7 @@ translate fr a1_friday_mind_your_step_0291098b:
 translate fr a1_friday_mind_your_step_29936b81:
 
     # "Together we walk to the store, my paces carefully slowed to remain beside her. Compared to my usual walking pace, hers is quite a bit slower. Not that it's without reason."
-    "Nous marchons ensemble vers le magasin, mon rythme soigneusement ralenti pour rester à côté d'elle. Comparé à mon rythme de pas habituel, le sien est un peu plus lent. Non pas que ce soit sans raison."
+    "Nous marchons ensemble vers le magasin, mon rythme soigneusement ralenti pour rester à côté d'elle. Comparé à mon rythme de pas habituel, le sien est un peu plus lent. Non sans raison."
 
 # game/script-a1-friday.rpy:1838
 translate fr a1_friday_mind_your_step_7eddb234:
@@ -2974,19 +2974,19 @@ translate fr a1_friday_mind_your_step_8e2bfe59:
 translate fr a1_friday_mind_your_step_70c5b197:
 
     # li "The festival preparations have been complete chaos. Shizune breathing down my neck doesn't exactly help things, either."
-    li "Les préparations du festival ont été un chaos total. Shizune me marchant sur les talons n'arrange pas les choses, non plus."
+    li "Les préparations du festival ont été un chaos total. Shizune qui me colle aux talons n'arrange pas vraiment les choses non plus."
 
 # game/script-a1-friday.rpy:1937
 translate fr a1_friday_mind_your_step_f5964e51:
 
     # hi "Hey, she's only trying to get everything organized. Better now than later, right?"
-    hi "Hé, elle essayait juste de faire en sorte que tout soit organisé. Vaut mieux maintenant que plus tard, non?"
+    hi "Hé, elle essayait juste de faire en sorte que tout soit organisé. Mieux vaut tard que jamais, non?"
 
 # game/script-a1-friday.rpy:1942
 translate fr a1_friday_mind_your_step_29b85bfd:
 
     # li "I suppose. I'm going to enjoy relaxing in town tomorrow, that's for certain."
-    li "Je suppose. Je vais apprécier de me détendre en ville demain, ça c'est certain."
+    li "J'imagine. Je vais aimer aller me détendre en ville demain, ça c'est certain."
 
 # game/script-a1-friday.rpy:1944
 translate fr a1_friday_mind_your_step_d4602b78:
@@ -3010,7 +3010,7 @@ translate fr a1_friday_mind_your_step_36e2ae8f:
 translate fr a1_friday_mind_your_step_eb52d744:
 
     # "I notice a very distinctive figure making its way towards us, silhouetted by the streetlamps."
-    "Je remarque une personne très distinctive faisant chemin vers nous, sa silhouette éclairée par les réverbères."
+    "Je peux clairement voir une silouhette marcher dans notre direction, ses contours se détachant dans la lumière des réverbères."
 
 # game/script-a1-friday.rpy:1955
 translate fr a1_friday_mind_your_step_731dcdd5:
@@ -3034,7 +3034,7 @@ translate fr a1_friday_mind_your_step_666d46a0:
 translate fr a1_friday_mind_your_step_1a4aeb4a:
 
     # "Lilly perks her head, looking like she's trying to focus on listening more keenly. It suddenly comes to me that I should probably interpret the scene for her."
-    "Lilly penche la tête, ayant l'air d'essayer de se concentrer pour mieux écouter. Il me vient soudainement que je devrais probablement lui représenter la scène."
+    "Lilly penche la tête, ayant l'air d'essayer de se concentrer pour mieux écouter. Il m'apparaît soudainement que je devrais sans doute lui décrire la scène."
 
 # game/script-a1-friday.rpy:1975
 translate fr a1_friday_mind_your_step_6c84ee20:
@@ -3046,7 +3046,7 @@ translate fr a1_friday_mind_your_step_6c84ee20:
 translate fr a1_friday_mind_your_step_fe2a08d5:
 
     # "She stiffens at the name and gives a complicated-looking expression, something like a forced fusion of a composed smile and a painful cringe."
-    "Elle se raidit au nom et affiche une expression compliquée, quelque chose comme une fusion forcée entre un sourire tranquille et une grimace douloureuse."
+    "Elle se raidit en entendant ce nom et son visage se tord en une expression complexe, quelque chose comme une fusion forcée entre un sourire tranquille et une grimace douloureuse."
 
 # game/script-a1-friday.rpy:1982
 translate fr a1_friday_mind_your_step_9932ce09:
@@ -3130,19 +3130,19 @@ translate fr a1_friday_mind_your_step_e2d2d601:
 translate fr a1_friday_mind_your_step_6db1ed61:
 
     # rin "Some people asked that just before. I assume they were wondering the same."
-    rin "Des gens m'ont posé la question juste avant. J'imagine qu'ils se demandaient la même chose."
+    rin "Des gens m'ont posé cette question juste avant. J'imagine qu'ils se demandaient la même chose."
 
 # game/script-a1-friday.rpy:2035
 translate fr a1_friday_mind_your_step_d1b304ea:
 
     # rin "I didn't know. They didn't know either. I asked. That's why I'm wondering."
-    rin "Je ne savais pas. Ils ne savaient pas non plus. J'ai posé la question. C'est pourquoi je me demande."
+    rin "Je ne savais pas. Ils ne savaient pas non plus. J'ai leur ai demandé. C'est pour ça que je me pose la question."
 
 # game/script-a1-friday.rpy:2037
 translate fr a1_friday_mind_your_step_ab1fd5c3:
 
     # rin "So that was pretty much it. It's a murder mystery without a murder."
-    rin "Donc c'était plutôt ça. C'est un meurtre mystérieux sans meurtre."
+    rin "Donc ouais, voilà quoi. C'est un meurtre mystérieux sans meurtre."
 
 # game/script-a1-friday.rpy:2039
 translate fr a1_friday_mind_your_step_ce617998_2:
@@ -3172,7 +3172,7 @@ translate fr a1_friday_mind_your_step_14855536:
 translate fr a1_friday_mind_your_step_81d1a346:
 
     # "Unsure if she's finished, I say nothing. Neither does Lilly, who seems equally robbed of words for the time being."
-    "N'étant pas sûr qu'elle ait terminé, je ne dis rien. Pareil pour Lilly, qui semble tout aussi pauvre en mots pour le moment."
+    "N'étant pas sûr qu'elle ait terminé, je ne dis rien. Pareil pour Lilly, qui semble pour le moment autant à court de mots que moi."
 
 # game/script-a1-friday.rpy:2055
 translate fr a1_friday_mind_your_step_3d010491:
@@ -3202,7 +3202,7 @@ translate fr a1_friday_mind_your_step_a314d94d:
 translate fr a1_friday_mind_your_step_6d381216:
 
     # li "Do you have amnesia? I don't recall you having anything of the sort, though…"
-    li "Tu souffres d'amnésie? Je ne me souviens pas que tu aies quelque chose de la sorte, cependant..."
+    li "Tu souffres d'amnésie? Je ne me souviens pas que tu aies quelque chose comme ça pourtant..."
 
 # game/script-a1-friday.rpy:2068
 translate fr a1_friday_mind_your_step_959fc56c:
@@ -3214,7 +3214,7 @@ translate fr a1_friday_mind_your_step_959fc56c:
 translate fr a1_friday_mind_your_step_689addc8:
 
     # hi "The other passersby were probably just worried, though. You do look really lost, the way you're standing in the middle of the street."
-    hi "Les autres passants devaient juste être inquiets, je pense. Tu as l'air vraiment perdu, à rester debout là au milieu de la rue."
+    hi "Les autres passants devaient juste être inquiets, je pense. Tu as l'air vraiment perdue, à rester debout comme ça au milieu de la rue."
 
 # game/script-a1-friday.rpy:2075
 translate fr a1_friday_mind_your_step_1e6f8d91:
@@ -3232,7 +3232,7 @@ translate fr a1_friday_mind_your_step_9c6b9499:
 translate fr a1_friday_mind_your_step_40f3a7c0:
 
     # "I ponder for a while whether I should chase this angle further, or give up for the sake of my own sanity."
-    "Je me demande pendant un moment si je dois poursuivre dans ce sens, ou abandonner dans l'intérêt de ma propre santé mentale."
+    "Je me demande un moment l'intérêt de poursuivre la discussion en ce sens, ou d'abandonner dans l'intérêt de ma propre santé mentale."
 
 # game/script-a1-friday.rpy:2084
 translate fr a1_friday_mind_your_step_eb122d1f:
@@ -3250,7 +3250,7 @@ translate fr a1_friday_mind_your_step_dfd9c83d:
 translate fr a1_friday_mind_your_step_ef758d06:
 
     # "Talking with Rin is like playing chess with a supercomputer who does seemingly completely random moves as if to mock everything you know about chess. It's like that, except with human interaction."
-    "Parler avec Rin est comme jouer aux échecs avec un supercalculateur qui fait des mouvements totalement aléatoires comme pour se moquer de tout ce que vous savez à propos des échecs. C'est comme ça, mais avec l'interaction humaine."
+    "Parler avec Rin c'est comme jouer aux échecs avec un supercalculateur qui fait des mouvements totalement aléatoires comme pour se moquer de tout ce que tu sais sur les échecs. Là, c'est là même chose, mais avec une interaction humaine."
 
 # game/script-a1-friday.rpy:2090
 translate fr a1_friday_mind_your_step_b787854c:
@@ -3310,7 +3310,7 @@ translate fr a1_friday_mind_your_step_5d16a00e:
 translate fr a1_friday_mind_your_step_7f3fafed:
 
     # "Lilly sounds as if she's spotted an opening for some kind of discernibly normal conversation. I can't say I share her optimism."
-    "Lilly a l'air d'avoir repéré une ouverture pour une sorte de conversation normale. Je ne peux pas dire que je partage son optimiste."
+    "Lilly a l'air d'avoir repéré une ouverture pour une sorte de conversation normale. Je ne peux pas dire que je partage son optimisme."
 
 # game/script-a1-friday.rpy:2116
 translate fr a1_friday_mind_your_step_31c62969:
@@ -3334,19 +3334,19 @@ translate fr a1_friday_mind_your_step_22d6bd94:
 translate fr a1_friday_mind_your_step_c71f7ec7:
 
     # "Rin's, as far as I can tell unbased, assurances aside… what should be done?"
-    "Pour Rin, pour autant que je puisse dire, sans fondement, conviction mise à part... qu'est-ce qui devrait être fait?"
+    "Concernant Rin, pour autant que je puisse dire, sans fondement, convictions mises à part... qu'est-ce qu'on devrait faire?"
 
 # game/script-a1-friday.rpy:2128
 translate fr a1_friday_mind_your_step_63c1b79c:
 
     # "We could just leave her to her own devices, whatever those are… but it's late and I don't think we'll be getting any thanks if Rin is found standing here in the middle of the night."
-    "On pourrait juste la laisser à ses trucs, quels qu'ils soient... mais il est tard et je ne pense pas que nous serions remerciés si Rin est trouvée se tenant ici au milieu de la nuit."
+    "On pourrait juste la laisser à ses trucs, quels qu'ils soient... mais il est tard et je ne pense pas qu'on nous remerciera si Rin est retrouvée se tenant seule, au milieu de la nuit."
 
 # game/script-a1-friday.rpy:2130
 translate fr a1_friday_mind_your_step_7891a198:
 
     # "Which she probably will, unless she manages to remember what she was doing here in the first place."
-    "Et elle y sera sûrement, sauf si elle parvient à se rappeler ce qu'elle faisait ici à l'origine."
+    "Et elle y sera sûrement, sauf si elle parvient à se rappeler ce qu'elle faisait ici au départ."
 
 # game/script-a1-friday.rpy:2132
 translate fr a1_friday_mind_your_step_a68dc945:
@@ -3364,7 +3364,7 @@ translate fr a1_friday_mind_your_step_516f0098:
 translate fr a1_friday_mind_your_step_eefae812:
 
     # "Lilly is oddly quiet too. I'd appreciate some support from the sidelines here, especially if she's more familiar with Rin than I am."
-    "Lilly est étrangement silencieuse aussi. J'apprécierais un certain appui de sa part à ce moment, spécialement si elle est plus habituée à Rin que je le suis."
+    "Lilly est étrangement silencieuse aussi. J'apprécierais un certain appui de sa part à ce moment, surtout si elle est plus habituée à Rin que je le suis."
 
 # game/script-a1-friday.rpy:2138
 translate fr a1_friday_mind_your_step_74fe4539:
@@ -3436,7 +3436,7 @@ translate fr a1_friday_mind_your_step_a7da7ad3:
 translate fr a1_friday_mind_your_step_849a9e34:
 
     # "Maybe it's something in the water here. I make a mental note to stock up on soft drinks."
-    "Peut-être que c'est quelque chose dans l'eau d'ici. Je me fais un petit mémo comme quoi je devrais commencer à stocker de l'eau minérale."
+    "Peut-être que c'est quelque chose dans l'eau d'ici. Je me fais un petit mémo comme quoi je devrais commencer à stocker des bouteilles d'eau."
 
 # game/script-a1-friday.rpy:2176
 translate fr a1_friday_mind_your_step_0615cde1:
@@ -3526,7 +3526,7 @@ translate fr a1_friday_mind_your_step_9cc78dc5:
 translate fr a1_friday_mind_your_step_fb27c5a9:
 
     # hi "So how's the mural going?"
-    hi "Donc comment va le mur?"
+    hi "Alors, comment avance cette peinture murale?"
 
 # game/script-a1-friday.rpy:2234
 translate fr a1_friday_mind_your_step_ce07cf29:
@@ -5740,7 +5740,7 @@ translate fr a1c13o1_6007b55c:
 translate fr a1c13o1_49849090:
 
     # "I try to offer a reassuring smile but then I realize the futility. Without knowing this, Lilly smiles at me reassuringly but doesn't say anything further."
-    "J'essaye d'afficher un sourire rassurant mais j'en réalise la futilité. Sans savoir ça, Lilly me montre un sourire rassurant mais ne dit rien de plus."
+    "J'essaye d'afficher un sourire rassurant mais j'en réalise la futilité. Ignorant celà, Lilly elle-même se met à sourire de manière rassurante, mais ne dit rien de plus."
 
 # game/script-a1-friday.rpy:3585
 translate fr a1c13o1_54086bba:
