@@ -316,7 +316,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Mind Your Step"
-    new "Surveille Tes Pas"
+    new "Attention où tu marches"
 
     # game/definitions.rpy:196
     old "Hisao and Lilly go shopping, meeting a very confused Rin on the way back."
@@ -360,7 +360,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "In an attempt to kill time, Hisao goes for a walk around the school."
-    new "Dans le but de passer le temps, Hisao va faire une balade autour de l'école."
+    new "Essayant de tuer le temps, Hisao part faire une balade autour de l'école."
 
     # game/definitions.rpy:196
     old "Shanghaied"
@@ -380,7 +380,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Don't Panic"
-    new "Ne Panique Pas"
+    new "Pas de Panique"
 
     # game/definitions.rpy:196
     old "After waking up on the day of the festival, Hisao is greeted by a ranting Kenji."
@@ -396,11 +396,11 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Clouds in My Head"
-    new "Nuages dans Ma Tête"
+    new "La Tête dans les Nuages"
 
     # game/definitions.rpy:196
     old "Hisao keeps Rin and her now-finished mural company."
-    new "Hisao tient compagnie à Rin et à son mur maintenant fini."
+    new "Hisao tient compagnie à Rin et à son mur maintenant terminé."
 
     # game/definitions.rpy:196
     old "Promise of Time"
@@ -456,7 +456,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Clouds, Time Travel, and Thou"
-    new "Nuages, Voyage dans le Temps, et toi"
+    new "Les Nuages, le Voyage dans le Temps, et Vous"
 
     # game/definitions.rpy:196
     old "Another rooftop lunch with Emi and Rin. Emi extracts from Hisao a promise to come see the track meet."
@@ -464,7 +464,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Questions That Need Answering!"
-    new "Questions qui ont Besoin de Réponses!"
+    new "Questions en Attente de Réponses!"
 
     # game/definitions.rpy:196
     old "Idle chat between Emi and Hisao. Hisao asks Emi a few more questions about her relationship with Rin."
@@ -472,7 +472,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Second Time's the Worst"
-    new "C'est Pire la Seconde Fois"
+    new "C'est Pire la Deuxième Fois"
 
     # game/definitions.rpy:196
     old "The second morning run. Hisao is almost dragged kicking and screaming around the track."
@@ -480,7 +480,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "An Apple a Day"
-    new "Une Pomme un Jour"
+    new "Une Pomme par Jour"
 
     # game/definitions.rpy:196
     old "Hisao pays a visit to the nurse along with Emi, finding out that the two have known each other for a while."
@@ -496,7 +496,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Down that Medicine Now"
-    new "Prends tes Médicaments Maintenant"
+    new "Avales ce Médicament Maintenant"
 
     # game/definitions.rpy:196
     old "Hisao mentions a pain in his chest during a visit to the nurse and receives a lecture."
@@ -504,7 +504,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Piracy on the High Seas"
-    new "Pirates de Haute Mer"
+    new "Piraterie en Haute-Mer"
 
     # game/definitions.rpy:196
     old "Hisao discusses his future as a pirate with Emi on the rooftop, then a letter from Iwanako spoils his day."
@@ -512,7 +512,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Famous Last Words"
-    new "Fameux Derniers Mots"
+    new "Famous Last Words"
 
     # game/definitions.rpy:196
     old "Emi and Rin take Hisao along for a picnic, soon to be spoiled by rain."
@@ -524,7 +524,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Hisao goes to the track as usual, but Emi is missing."
-    new "Hisao va à la piste comme d'habitude, mais Emi est absente."
+    new "Hisao se rend sur la piste comme d'habitude, mais Emi est absente."
 
     # game/definitions.rpy:196
     old "Dropping By"
@@ -588,7 +588,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Up, Down, and Up Again"
-    new "Haut, Bas, et de Nouveau Haut"
+    new "Haut, bas, haut, bas"
 
     # game/definitions.rpy:196
     old "A frantic call from Emi brings Hisao to her room, where two surprises await him."
@@ -628,7 +628,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Debate Expresses Doubt"
-    new "Doute Express"
+    new "Débattre exprime le Doute"
 
     # game/definitions.rpy:196
     old "Hisao is confused by Emi's behavior and by an invitation to her house."
@@ -644,11 +644,11 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Instant Replay"
-    new "Relecture Instantanée"
+    new "Instant Replay"
 
     # game/definitions.rpy:196
     old "Things finally come to a head at the track."
-    new "Les choses arrivent à leur terme à la piste d'athlétisme."
+    new "Les choses arrivent à leur terme sur la piste d'athlétisme."
 
     # game/definitions.rpy:196
     old "Act 4: Motion"
@@ -656,7 +656,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "A Swing and a Miss"
-    new "Un Geste et un Loupé"
+    new "Un Coup et un Râté"
 
     # game/definitions.rpy:196
     old "Hisao wonders if Emi is purposefully avoiding him."
@@ -728,7 +728,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Chess and Slides"
-    new "Échecs et glissades"
+    new "Échecs et Glissades"
 
     # game/definitions.rpy:196
     old "Hisao ditches the Student Council to read with Hanako."
@@ -796,7 +796,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Antiques and Pie"
-    new "Antiquités et Tarte"
+    new "Tarte et Antiquités"
 
     # game/definitions.rpy:196
     old "Lilly and Hisao shop for a present in the city."
@@ -804,7 +804,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Falling"
-    new "Chute"
+    new "Tomber"
 
     # game/definitions.rpy:196
     old "Hanako has a panic attack during class."
@@ -820,7 +820,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Reaching Out"
-    new "Atteinte"
+    new "Atteindre"
 
     # game/definitions.rpy:196
     old "Hisao reaches out to a withdrawn Hanako."
@@ -848,7 +848,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Heart-to-heart during a game of pool."
-    new "Cœur à cœur durant une partie de billard."
+    new "Cœur à cœur lors d'une partie de billard."
 
     # game/definitions.rpy:196
     old "Beginning of the End"
@@ -856,7 +856,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Lilly's departure for her trip."
-    new "Le départ de Lilly."
+    new "Le départ de Lilly pour son voyage."
 
     # game/definitions.rpy:196
     old "Act 4: Scars"
@@ -892,7 +892,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Hisao finds his future relationship with Hanako prematurely ended."
-    new "Hisao trouve sa future relation avec Hanako terminée prématurément."
+    new "Hisao découvre que sa future relation avec Hanako s'est prématurément finie."
 
     # game/definitions.rpy:196
     old "Continuing Melody"
@@ -924,11 +924,11 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "The two share a date in the city."
-    new "Ils vont ensemble se balader dans la métropole."
+    new "Sortir ensemble dans la métropole."
 
     # game/definitions.rpy:196
     old "Whispered Touch"
-    new "Un Toucher Timide"
+    new "Toucher Timide"
 
     # game/definitions.rpy:196
     old "Hisao and Hanako spend the night together."
@@ -944,7 +944,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Adulthood"
-    new "La voie d'un adulte"
+    new "La vie d'adulte"
 
     # game/definitions.rpy:196
     old "The end of two children, the beginning of two adults."
@@ -1028,7 +1028,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Day by Day"
-    new "Jour par Jour"
+    new "Jour après Jour"
 
     # game/definitions.rpy:196
     old "Hisao idly lets a day without Lilly slip by, having a talk with Mutou about Yamaku."
@@ -1040,7 +1040,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Hisao has lunch with Kenji, then gives some handouts to an alarmingly silent Hanako."
-    new "Hisao a un déjeuner avec Kenji, puis donne des photocopies à une Hanako bien trop silencieuse."
+    new "Hisao prend le déjeuner avec Kenji, puis donne des photocopies à une Hanako bien trop silencieuse."
 
     # game/definitions.rpy:196
     old "Dissonance"
@@ -1048,7 +1048,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "With Hanako withdrawing into herself completely, Hisao offers what little help he can before calling Lilly."
-    new "Avec Hanako s'isolant complètement, Hisao offre le peu d'aide qu'il peut avant d'appeler Lilly."
+    new "Hanako se refermant complètement sur elle-même, Hisao offre le peu d'aide qu'il peut avant d'appeler Lilly."
 
     # game/definitions.rpy:196
     old "A World Away"
@@ -1068,7 +1068,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Northern Sojourn"
-    new "Séjour au Nord"
+    new "Séjour Nordique"
 
     # game/definitions.rpy:196
     old "The trio begins their holiday in Hokkaido."
@@ -1152,7 +1152,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Out and About"
-    new "Être et savoir"
+    new "Être et Savoir"
 
     # game/definitions.rpy:196
     old "Hisao and Lilly go on their first date, finding out about each other's pasts."
@@ -1280,7 +1280,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Things You Like"
-    new "Choses que Tu Aimes"
+    new "Les Choses que tu Aimes"
 
     # game/definitions.rpy:196
     old "Brief musings with Yuuko about books and Yamaku."
@@ -1288,7 +1288,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Target Audience"
-    new "Audience Ciblée"
+    new "Public Cible"
 
     # game/definitions.rpy:196
     old "The day of the track meet. Facets of Emi's and Rin's personalities get revealed."
@@ -1304,7 +1304,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Underwater and a Maple with a Name"
-    new "Sous l'Eau et un Érable avec un Nom"
+    new "Sous l'Eau et un Érable qui porte un Nom"
 
     # game/definitions.rpy:196
     old "Rin leads Hisao into the woods, where they ponder their immediate future."
@@ -1320,7 +1320,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "In Her Own Image"
-    new "À Sa Propre Image"
+    new "À Son Image"
 
     # game/definitions.rpy:196
     old "Hisao pushes Rin to have her own art exhibition."
@@ -1340,19 +1340,19 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Rin and Hisao DON'T eat lunch on the roof, due to a distinct lack of Emi."
-    new "Rin et Hisao ne mangent PAS un déjeuner sur le toit, à cause de l'absence d'Emi"
+    new "Rin et Hisao ne mangent PAS un déjeuner sur le toit, à cause de l'absence flagrante d'Emi."
 
     # game/definitions.rpy:196
     old "Indecision"
-    new "Indécis"
+    new "Indécision"
 
     # game/definitions.rpy:196
     old "Emi gets rid of her cold, while Rin catches her own."
-    new "Emi récupère de son rhume et Rin se l'approprie."
+    new "Emi récupère de son rhume, tandis que Rin se l'approprie."
 
     # game/definitions.rpy:196
     old "Signal Interference"
-    new "Interférences dans le Signal"
+    new "Interférences du Signal"
 
     # game/definitions.rpy:196
     old "Hisao goes visit Rin in her room."
@@ -1360,7 +1360,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Dandelions"
-    new "Pissenlit"
+    new "Pissenlits"
 
     # game/definitions.rpy:196
     old "Conclusions get drawn on a hilltop."
@@ -1388,7 +1388,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Things You Can't Give Up"
-    new "Choses qu'on ne Peut Pas Abandonner"
+    new "Les Choses qu'on ne Peut Pas Abandonner"
 
     # game/definitions.rpy:196
     old "Emi and Hisao discuss Rin's personality."
@@ -1404,11 +1404,11 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Rose-Tinted Glasses"
-    new "Lunettes Teintées Roses"
+    new "À travers des Lunettes Roses"
 
     # game/definitions.rpy:196
     old "Nomiya expounds at length about art as a career."
-    new "Nomiya parle sans s'arrêter de l'art en tant que carrière."
+    new "Nomiya s'épanche sur l'art en tant que carrière."
 
     # game/definitions.rpy:196
     old "The Edge of the World"
@@ -1416,7 +1416,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Hisao confesses to Rin and gets shot down. Or does he?"
-    new "Hisao fait sa déclaration à Rin et se fait rejeter. Vraiment?"
+    new "Hisao fait sa déclaration à Rin et se fait rejeter. Ou pas ?"
 
     # game/definitions.rpy:196
     old "The Context of Rin"
@@ -1444,19 +1444,19 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Reverse Escapism"
-    new "Echappatoire Inverse"
+    new "Echappatoire Inversé"
 
     # game/definitions.rpy:196
     old "Hisao takes Rin on a walk through the night streets."
-    new "Hisao emmène Rin dans une balade dans les rues la nuit."
+    new "Hisao emmène Rin pour une balade nocturne dans les rues de la ville."
 
     # game/definitions.rpy:196
     old "Boundless"
-    new "Sans Limite"
+    new "Sans-Limite"
 
     # game/definitions.rpy:196
     old "Sae and Nomiya give Hisao some insight on artists' lives."
-    new "Sae et Nomiya donnent une vision sur la vie des artistes."
+    new "Sae et Nomiya partagent à Hisao quelques regards sur la vie des artistes."
 
     # game/definitions.rpy:196
     old "Delirium"
@@ -1468,19 +1468,19 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Things You Hate"
-    new "Choses que Tu Détestes"
+    new "Les Choses que Tu Détestes"
 
     # game/definitions.rpy:196
     old "Unpleasant aftermath of an incredible night."
-    new "Réflexions désagreables d'une nuit incroyable."
+    new "Les déplaisantes conséquences d'une nuit fantastique."
 
     # game/definitions.rpy:196
     old "Shards of Ire"
-    new "Tesson de Colère"
+    new "Colère en Éclats"
 
     # game/definitions.rpy:196
     old "The strained relationship between the two blows apart."
-    new "La relation épuisée entre les deux éclate."
+    new "Leur relation épuisée explose en milles morceaux."
 
     # game/definitions.rpy:196
     old "Act 4: Dream"
@@ -1492,7 +1492,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Hisao talks about his misgivings to Nomiya, to little effect."
-    new "Hisao parle de ses doutes à Nomiya, sans effet."
+    new "Hisao parle de ses doutes à Nomiya, sans grand effet."
 
     # game/definitions.rpy:196
     old "Demused"
@@ -1528,7 +1528,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "The World Only You Can See"
-    new "Le Monde Que Seul Toi Peux Voir"
+    new "Le Monde que Toi Seul peux Voir"
 
     # game/definitions.rpy:196
     old "Rin and Hisao part after the rain."
@@ -1540,7 +1540,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "A frantic Nomiya queries Hisao about Rin's whereabouts."
-    new "Un Nomiya énervé interroge Hisao sur Rin."
+    new "Un Nomiya énervé interroge Hisao sur les faits et gestes de Rin."
 
     # game/definitions.rpy:196
     old "Problems of Self-Referential Logic"
@@ -1548,7 +1548,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Hisao finds Rin in her hiding place, and convinces her to reconcile with Nomiya."
-    new "Hisao trouve Rin à sa cachette habituelle, et la convainc d'aller parler avec Nomiya."
+    new "Hisao trouve Rin à sa cachette habituelle, et la convainc de se réconcilier avec Nomiya."
 
     # game/definitions.rpy:196
     old "Measuring Shadows"
@@ -1568,7 +1568,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Without Breathing, Without a Sound"
-    new "Sans Respirer, Sans un Son"
+    new "Sans Respirer, Sans un Bruit"
 
     # game/definitions.rpy:196
     old "On the first day of summer vacation, Rin comes to Hisao's room."
@@ -1616,7 +1616,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Advanced Game Theory"
-    new "Théorie du Jeu Avancé"
+    new "Théorie du Jeu Avancée"
 
     # game/definitions.rpy:196
     old "RISK isn't enough any more to satiate Shizune's hunger. What's worse, a new opponent makes her appearance."
@@ -1628,7 +1628,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "A lazy afternoon becomes dramatic as suddenly a piece of bread becomes an object of extreme interest."
-    new "Un après-midi flemmard devient chaotique alors qu'un simple sandwich devient un objet d'intérêt général."
+    new "Un après-midi à rêvasser vire à la comédie lorsqu'un bout de pain devient subitement le centre d'intérêt général."
 
     # game/definitions.rpy:196
     old "Interface"
@@ -1648,7 +1648,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Past Imperfective"
-    new "Passé Inaccompli"
+    new "Conjugaisons de l'Imparfait"
 
     # game/definitions.rpy:196
     old "The Student Council reminisces about past years while relaxing at the Shanghai."
@@ -1684,7 +1684,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Use-Mention Distinction"
-    new "Avec Mention Distinction"
+    new "Différence Sens-Dénotation"
 
     # game/definitions.rpy:196
     old "Hideaki tries to entertain Hisao for a day, meeting with little success."
@@ -1744,11 +1744,11 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "An afternoon of work with Shizune shows Hisao that something is amiss between the girls."
-    new "Un après-midi de travail avec Shizune montre à Hisao qu'il y a quelque chose qui ne va pas entre les deux filles."
+    new "Un après-midi de travail avec Shizune montre à Hisao que quelque chose ne va pas entre les deux filles."
 
     # game/definitions.rpy:196
     old "Dewey Decimated"
-    new "Les Yeux Vides"
+    new "Classification Décimale"
 
     # game/definitions.rpy:196
     old "Yuuko gets Hisao to watch the library for her. The arrival of Kenji makes the attempt meet with mixed success."
@@ -1756,7 +1756,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Tongue-Tied"
-    new "La Langue Liée"
+    new "La Langue au Chat"
 
     # game/definitions.rpy:196
     old "Misha visits Hisao in his room, and things go in an unexpected direction."
@@ -1764,15 +1764,15 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Look Aside"
-    new "Regarder de Côté"
+    new "Regards Croisés"
 
     # game/definitions.rpy:196
     old "Hisao meets a depressed Misha on the roof. He ends up pushing her and Shizune together."
-    new "Hisao rencontre une Misha déprimée sur le toit. Il finit par réunir Misha et Shizune."
+    new "Hisao rencontre une Misha déprimée sur le toit. Il finit par essayer de réunir Misha et Shizune."
 
     # game/definitions.rpy:196
     old "Look Ahead"
-    new "Regarder Devant"
+    new "Regards Perdus "
 
     # game/definitions.rpy:196
     old "Hisao meets a depressed Misha on the roof. Shizune joins them and pulls the whole council back to work."
@@ -1844,11 +1844,11 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Our trio renews their friendship, with their graduation looming close ahead."
-    new "Notre trio renouvelle leur amitié, avec l'année arrivant à sa fin."
+    new "Notre trio renouvelle leur amitié, l'année arrivant à sa fin."
 
     # game/definitions.rpy:196
     old "Present Tense"
-    new "Tension Présente"
+    new "Conjugaisons du Présent"
 
     # game/definitions.rpy:196
     old "Hisao stumbles into Lilly at lunch, and the two talk about Shizune."
@@ -1956,7 +1956,7 @@ translate fr strings:
 
     # game/definitions.rpy:609
     old "Laughing girl"
-    new "Fille riant"
+    new "Fille qui rit"
 
     # game/definitions.rpy:610
     old "Bespectacled hallmate"
@@ -1964,7 +1964,7 @@ translate fr strings:
 
     # game/definitions.rpy:611
     old "Tall man"
-    new "Homme grand"
+    new "Grand homme"
 
     # game/definitions.rpy:612
     old "Librarian"
@@ -1988,7 +1988,7 @@ translate fr strings:
 
     # game/definitions.rpy:617
     old "Huge man"
-    new "Grand homme"
+    new "Homme gigantesque"
 
     # game/definitions.rpy:618
     old "Slim girl"
@@ -1996,7 +1996,7 @@ translate fr strings:
 
     # game/definitions.rpy:619
     old "Woman with braid"
-    new "Femme avec tresses"
+    new "Femme à tresse"
 
 # TODO: Translation updated at 2023-12-22 20:14
 
