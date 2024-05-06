@@ -10,7 +10,7 @@ translate fr a1_monday_out_cold_99711a67:
 translate fr a1_monday_out_cold_0ca9b69a:
 
     # "This is a popular retreat for couples in the summer. The deciduous trees provide a beautiful green canopy, far out of sight of teachers and fellow students."
-    "Il s'agissait d'un endroit apprécié par les couples durant l'été. Les arbres feuillus formaient un superbe auvent vert, loin de la vue des professeurs et des étudiants."
+    "C'était un endroit apprécié des couples durant l'été. Les arbres feuillus formaient un superbe auvent vert, loin de la vue des professeurs et des étudiants."
 
 # game/script-a1-monday.rpy:13
 translate fr a1_monday_out_cold_808f86a6:
@@ -1198,7 +1198,7 @@ translate fr a1_monday_enter_stage_left_12584c35:
 translate fr a1_monday_enter_stage_left_f7a8e507:
 
     # "Another girl seems to be making some weird hand motions. Sign language? She peers at me over the rims of her glasses, then goes back to whatever she's doing."
-    "Une autre fille semble faire quelques mouvements étranges avec ses mains. Langage des signes? Elle me lorgne à travers ses lunettes, puis retourne à ce qu'elle faisait."
+    "Une autre fille semble faire quelques mouvements étranges avec ses mains. Langue des signes? Elle me lorgne à travers ses lunettes, puis retourne à ce qu'elle faisait."
 
 # game/script-a1-monday.rpy:644
 translate fr a1_monday_enter_stage_left_ae488323:
@@ -1804,7 +1804,7 @@ translate fr a1_monday_enter_stage_left_ef2b123c_10:
 translate fr a1_monday_enter_stage_left_15488b74:
 
     # "Shizune glares at the two of us impatiently. I don't need to know sign language to understand that."
-    "Shizune nous fusille tous les deux du regard, impatiente. Je n'ai pas besoin de connaître le langage des signes pour comprendre."
+    "Shizune nous fusille tous les deux du regard, impatiente. Je n'ai pas besoin de connaître la langue des signes pour comprendre."
 
 # game/script-a1-monday.rpy:1015
 translate fr a1_monday_enter_stage_left_b04afdfa:
@@ -1978,7 +1978,7 @@ translate fr a1_monday_in_the_nursery_ce617998:
 translate fr a1_monday_in_the_nursery_b4f99232:
 
     # "I quickly notice a conversation in sign is not enough to fill a silence."
-    "Je remarque rapidement qu'une conversation en langage des signes n'est pas suffisante pour combler un silence."
+    "Je remarque rapidement qu'une conversation en langue des signes n'est pas suffisante pour combler un silence."
 
 # game/script-a1-monday.rpy:1147
 translate fr a1_monday_in_the_nursery_d27954d1:
@@ -2650,7 +2650,7 @@ translate fr a1_monday_nobodys_room_f957e33f:
 translate fr a1_monday_nobodys_room_df8b8668:
 
     # "One nods and gives a quick 'hello' before turning back to the TV."
-    "L'un d'entre eux hoche la tête et me salue rapidement avant de reprendre son visionnage."
+    "L'une d'entre eux m'adresse un hochement de tête et un 'salut' rapide, avant de reprendre son visionnage."
 
 # game/script-a1-monday.rpy:1502
 translate fr a1_monday_nobodys_room_3d87b376:
@@ -2776,13 +2776,13 @@ translate fr a1_monday_nobodys_room_c28424e8:
 translate fr a1_monday_nobodys_room_baeb342e:
 
     # ke "Your parents? You sure? 'Cause they could've been some other people, too. You can't judge a book by its cover."
-    ke "Tes parents? T'es sûr? Parce qu'il aurait pu y avoir d'autres personnes, aussi. Tu ne peux pas juger un livre à sa couverture."
+    ke "Tes parents? T'es sûr? Parce que ça aurait pu aussi être d'autres gens. C'est l'oeuf ou la poule."
 
 # game/script-a1-monday.rpy:1566
 translate fr a1_monday_nobodys_room_b724408c:
 
     # "His out-of-place proverb is left hanging between us awkwardly as I try to think of some way to respond."
-    "Son proverbe, mal placé, est laissé maladroitement en suspens entre nous alors que j'essaye de trouver une autre façon de lui répondre."
+    "Son proverbe, mal placé, reste là à flotter maladroitement entre lui et moi pendant que j'essaye de trouver un manière ou une autre de lui répondre."
 
 # game/script-a1-monday.rpy:1568
 translate fr a1_monday_nobodys_room_0fc067d0:
