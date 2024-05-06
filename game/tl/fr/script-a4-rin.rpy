@@ -4912,13 +4912,13 @@ translate fr a4_rin_the_world_only_can_you_see_a0eaae9b:
 translate fr a4_rin_the_world_only_can_you_see_d5e62c37:
 
     # rin "Maybe I am that kind of a person. The kind that belongs only to herself."
-    rin "Peut-être que je suis ce genre de personne. Le genre qui n'appartient qu'à elle."
+    rin "Peut-être que je suis ce genre de personne-là. Le genre qui n'appartient qu'à elle-même."
 
 # game/script-a4-rin.rpy:2765
 translate fr a4_rin_the_world_only_can_you_see_53beb146:
 
     # hi "I won't accept that."
-    hi "Je n'accepterai pas ça."
+    hi "Je pourrai pas accepter ça."
 
 # game/script-a4-rin.rpy:2767
 translate fr a4_rin_the_world_only_can_you_see_8a5624cd:
@@ -4936,7 +4936,7 @@ translate fr a4_rin_the_world_only_can_you_see_ce617998_1:
 translate fr a4_rin_the_world_only_can_you_see_40b7767e:
 
     # "The pause lets me cool down, to find my sensibilities."
-    "La pause me permet de faire tomber la pression, de retrouver mon calme."
+    "La pause me permet de faire retomber la pression, de retrouver mon calme."
 
 # game/script-a4-rin.rpy:2773
 translate fr a4_rin_the_world_only_can_you_see_9a6da514:
@@ -4996,7 +4996,7 @@ translate fr a4_rin_the_world_only_can_you_see_3b1d8348:
 translate fr a4_rin_the_world_only_can_you_see_ad8b8b19:
 
     # "Did I lose?"
-    "Ai-je perdu?"
+    "Est-ce que j'ai perdu?"
 
 # game/script-a4-rin.rpy:2796
 translate fr a4_rin_the_world_only_can_you_see_5a5c0a67:
@@ -5008,7 +5008,7 @@ translate fr a4_rin_the_world_only_can_you_see_5a5c0a67:
 translate fr a4_rin_the_world_only_can_you_see_4f4e1a70:
 
     # "I scramble for words, words that could salvage this. I find none."
-    "Je cherche des mots, des mots qui pourraient contrer ça. Je n'en trouve aucun."
+    "Je farfouille à la recherche de mots, des mots qui pourraient rattraper tout ça. Je n'en trouve aucun."
 
 # game/script-a4-rin.rpy:2800
 translate fr a4_rin_the_world_only_can_you_see_fb7e1ba6:
@@ -6806,13 +6806,13 @@ translate fr a4_rin_problems_of_self_referential_logic_bda4e8c8:
 translate fr a4_rin_problems_of_self_referential_logic_7682797e:
 
     # "Rin's honest-to-goodness silliness, made twice more ridiculous by the fact that I know she is dead serious, derails me like it always does."
-    "Le ridicule sincère de Rin, rendu deux fois plus ridicule par le fait que je sais qu'elle est tout à fait sérieuse, me perturbe comme à chaque fois."
+    "Le ridicule sincère de Rin, rendu deux fois plus ridicule parce que je sais qu'elle est tout à complètement sérieuse, me perturbe comme à chaque fois."
 
 # game/script-a4-rin.rpy:3690
 translate fr a4_rin_problems_of_self_referential_logic_dba20ae4:
 
     # "It's like some kind of a safety lock to prevent me from becoming too much of a worrywart, dragging even my own thoughts off the ground where they should be."
-    "C'est comme un cran de sûreté pour m'empêcher de devenir un inquiet maladif, gardant les pieds sur terre, là où ils devraient être."
+    "C'est comme un cran de sûreté pour m'empêcher de devenir une boule stress, agissant comme une ancre pour garder mes pieds sur terre, là où ils devraient être."
 
 # game/script-a4-rin.rpy:3692
 translate fr a4_rin_problems_of_self_referential_logic_05a783f6:
@@ -7706,7 +7706,7 @@ translate fr a4_rin_raison_detre_c0932a9f:
 translate fr a4_rin_raison_detre_8aaa5d46:
 
     # hi "I just… think that I am the kind of person who gives up when he feels he can't go on."
-    hi "C'est juste que... je pense que je suis le genre de personne qui abandonne quand il pense qu'il ne peut plus continuer."
+    hi "C'est juste que... je pense que je suis le genre de personne qui abandonne quand je pense que je peux plus avancer."
 
 # game/script-a4-rin.rpy:4091
 translate fr a4_rin_raison_detre_3c2a5195:
@@ -12566,7 +12566,7 @@ translate fr a4rc1o2_fc406d47:
 translate fr a4rc1o2_469a5e22:
 
     # "I guess I understand Emi, she is {b}that{/b} kind of a person."
-    "Je crois que je comprends Emi, elle est {b}ce{/b} genre de personne."
+    "Je crois que je comprends Emi, elle est fait partie de {b}ce{/b} genre de personnes-là."
 
 # game/script-a4-rin.rpy:6728
 translate fr a4rc1o2_57d437cc:
