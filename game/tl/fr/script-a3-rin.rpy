@@ -10,7 +10,7 @@ translate fr a3_rin_tt_corner_57aecb1c:
 translate fr a3_rin_tt_corner_12264929:
 
     # "I shake my head to fend off the dazedness. The teacher's looking at me, as is everyone else in the class."
-    "Je secoue la tête pour faire partir la somnolence qui s'était abattue sur moi. Le professeur me regarde, tout comme les autres dans la classe."
+    "Je secoue ma tête pour effaroucher le sommeil. Le professeur me regarde, tout comme le reste de la classe."
 
 # game/script-a3-rin.rpy:13
 translate fr a3_rin_tt_corner_25bef401:
@@ -52,7 +52,7 @@ translate fr a3_rin_tt_corner_2ef7c4f4:
 translate fr a3_rin_tt_corner_22dd502a:
 
     # mu "The primary one is to learn the rules of society, the norms and ethics that govern your everyday life."
-    mu "La primaire est pour apprendre les règles de la société, les normes et éthiques qui gouvernent ta vie de tous les jours."
+    mu "La raison primaire est d'apprendre les règles de la société, les normes et considérations éthiques qui gouvernent ta vie quotidienne."
 
 # game/script-a3-rin.rpy:36
 translate fr a3_rin_tt_corner_70be422a:
@@ -64,31 +64,31 @@ translate fr a3_rin_tt_corner_70be422a:
 translate fr a3_rin_tt_corner_5311b6ef:
 
     # mu "You learn how to form social contacts and maintain them; in other words, how to be a part of society. The school itself is a microcosm of the entire society."
-    mu "Tu apprends à nouer des contacts sociaux et à les maintenir ; en d'autres mots, comment être un membre de la société. L'école elle-même est un microcosme de la société."
+    mu "Tu apprends à nouer des contacts sociaux et à les maintenir ; en d'autres mots, à comment être un membre de la société. L'école elle-même est un microcosme de la société."
 
 # game/script-a3-rin.rpy:43
 translate fr a3_rin_tt_corner_2f270b2a:
 
     # mu "Locke was the one who realized that, you know? School's not just a place for learning, and of all the kids your age, you guys should know that better than anyone else."
-    mu "Locke a été celui qui a réalisé ça, tu sais? L'école n'est pas juste un endroit pour apprendre, et parmi tous les gens de votre âge, vous devriez être ceux qui comprennent le mieux ça."
+    mu "Locke est celui qui s'est rendu compte de tout ça, tu sais? L'école n'est pas juste un endroit pour apprendre, et parmi les jeunes de votre âge, vous tous ici devriez le comprends mieux que quiconque."
 
 # game/script-a3-rin.rpy:45
 translate fr a3_rin_tt_corner_c6949ca3:
 
     # "He pauses for a moment and lets his eyes sweep over the class to see if the message sunk in."
-    "Il s'arrête pendant un moment et balaye la classe du regard pour voir si le message a été reçu."
+    "Il s'arrête un moment et balaye la classe du regard pour voir si le message a bien été reçu."
 
 # game/script-a3-rin.rpy:47
 translate fr a3_rin_tt_corner_66826fc6:
 
     # "At the very least, it shut everyone up and got them to focus on him, captivated either by his voice or the sudden change of topic from physics to the philosophy of education."
-    "Au moins, tout le monde se tait et se reconcentre sur lui, captivé soit par sa voix, soit par le changement soudain de sujet entre physique et philosophie de l'éducation."
+    "Du moins, tout le monde s'est tut et se reconcentre sur lui, captivé soit par sa voix soit par le changement soudain de sujet de physique à philosophie de l'éducation."
 
 # game/script-a3-rin.rpy:52
 translate fr a3_rin_tt_corner_eb542f0f:
 
     # mu "However, my classes - as you so aptly put - are a place for learning about physics."
-    mu "Cependant, ma classe - comme tu l'as si correctement dit - est un endroit pour étudier la physique."
+    mu "Cependant, mes cours sont - comme tu l'as si correctement dit - un endroit pour étudier la physique."
 
 # game/script-a3-rin.rpy:54
 translate fr a3_rin_tt_corner_4cc356ab:
@@ -100,7 +100,7 @@ translate fr a3_rin_tt_corner_4cc356ab:
 translate fr a3_rin_tt_corner_891eff56:
 
     # mu "So, no sleeping during class. Got it, Nakai?"
-    mu "Donc, ne dors pas en classe. Compris, Nakai?"
+    mu "Donc, pas de sieste en classe. Compris, Nakai?"
 
 # game/script-a3-rin.rpy:61
 translate fr a3_rin_tt_corner_093214bf:
@@ -112,31 +112,31 @@ translate fr a3_rin_tt_corner_093214bf:
 translate fr a3_rin_tt_corner_01bf5f37:
 
     # "From the corner of my eye I catch Shizune's scowl and Misha's barely contained giggle. I sink deeper into my seat."
-    "Du coin de l'oeil je vois la mine renfrognée de Shizune et le rire à peine retenu de Misha. Je m'enfonce dans mon siège."
+    "Du coin de l'oeil je vois la mine renfrognée de Shizune et le goussement à peine contenu de Misha. Je m'enfonce dans mon siège."
 
 # game/script-a3-rin.rpy:70
 translate fr a3_rin_tt_corner_1f0d8403:
 
     # "After classes end, I'm the last one to leave the classroom. I close the door behind me and quietly make my way to the art room."
-    "Après la fin des cours, je suis le dernier à sortir de la classe. Je ferme la porte derrière moi et vais silencieusement en direction du club d'art."
+    "Après la fin des cours, je suis le dernier à sortir de la classe. Je ferme la porte derrière moi et me dirige silencieusement vers le club d'art."
 
 # game/script-a3-rin.rpy:76
 translate fr a3_rin_tt_corner_044f5a2c:
 
     # "Club time passes in relative peace and quiet. I sit in my usual seat next to Rin, but she doesn't seem to be in a talkative mood."
-    "La réunion du club se passe dans le calme. Je m'assieds à ma place habituelle à côté de Rin, mais elle ne semble pas d'humeur à parler."
+    "La réunion du club se passe dans un calme relatif. Je m'assieds à ma place habituelle à côté de Rin, mais elle ne semble pas d'humeur bavarde."
 
 # game/script-a3-rin.rpy:78
 translate fr a3_rin_tt_corner_feb74933:
 
     # "She's even more distant than usual."
-    "Elle est encore plus distante qu'à l'habitude."
+    "Elle est encore plus distante que d'habitude."
 
 # game/script-a3-rin.rpy:80
 translate fr a3_rin_tt_corner_ea3fe99f:
 
     # "Today we are going to draw still life, and get to choose from either a vase full of fake flowers or an arrangement of rocks, sticks and canvas."
-    "Aujourd'hui nous allons dessiner une oeuvre immobile, et devons choisir entre un vase de fausses fleurs ou un arrangement de pierres, bâtons et toiles."
+    "Aujourd'hui nous allons dessiner une nature morte, et vous allez pouvoir choisir entre un vase de fausses fleurs ou un arrangement de pierres, bâtons et toiles."
 
 # game/script-a3-rin.rpy:82
 translate fr a3_rin_tt_corner_6594e347:
@@ -154,13 +154,13 @@ translate fr a3_rin_tt_corner_ab0b7283:
 translate fr a3_rin_tt_corner_ea609fae:
 
     # "The club members quickly shuffle their chairs around the classroom to get closer to either the vase or the clutter. Rin and I both pick the flower vase, but only one of us seems to do any work."
-    "Les membres du club déplacent leurs chaises dans la classe pour se rapprocher soit du vase, soit de la pile. Rin et moi choisissons tous les deux les fleurs en vase, mais seul l'un de nous deux semble réellement travailler."
+    "Les membres du club déplacent leurs chaises aux quatre coins de la classe pour se rapprocher soit du vase, soit de la pile. Rin et moi choisissons tous les deux les fleurs en vase, mais seul l'un de nous deux semble réellement travailler."
 
 # game/script-a3-rin.rpy:94
 translate fr a3_rin_tt_corner_b1ddb4fd:
 
     # "She's ignoring Nomiya's assignment just like she's suddenly started ignoring me, and has begun doodling something idly with her foot, not really even looking at what she's drawing."
-    "Elle ignore le devoir de Nomiya tout comme elle m'a ignoré, et elle commence à dessiner quelque chose avec son pied, sans même regarder ou semblant être concentrée sur ce qu'elle fait."
+    "Elle ignore le devoir de Nomiya tout comme elle m'ignore subitement, et gribouille négligemment quelque chose avec son pied, sans vraiment regarder ce qu'elle fait."
 
 # game/script-a3-rin.rpy:96
 translate fr a3_rin_tt_corner_0a991c64:
@@ -178,7 +178,7 @@ translate fr a3_rin_tt_corner_2e4d5fc5:
 translate fr a3_rin_tt_corner_d2d4e7e5:
 
     # "The more I try to relax, ignore her, and just be myself, the more it feels like I should ask if something's wrong."
-    "Plus j'essaye de me relaxer, de l'ignorer, et juste être moi-même, plus j'ai envie de demander ce qui ne va pas."
+    "Plus j'essaye de me relaxer, de l'ignorer, et juste être moi-même, plus il me semble que je devrais lui demander ce qui ne va pas."
 
 # game/script-a3-rin.rpy:112
 translate fr a3_rin_tt_corner_40498723:
@@ -196,7 +196,7 @@ translate fr a3_rin_tt_corner_ca98f069:
 translate fr a3_rin_tt_corner_b0e9b170:
 
     # "Nomiya, who was humming to himself while sorting a box of pencils by hardness, turns around with a mixed expression of friendliness and incomprehension on his face."
-    "Nomiya, qui marmonnait tout seul en triant une boîte de crayons par dureté, se tourne avec une expression d'amabilité mêlée à de l'incompréhension."
+    "Nomiya, qui marmonnait tout seul en triant une boîte de crayons par dureté, se tourne avec une expression d'amabilité mêlée à d'incompréhension."
 
 # game/script-a3-rin.rpy:127
 translate fr a3_rin_tt_corner_5d242423:
@@ -208,7 +208,7 @@ translate fr a3_rin_tt_corner_5d242423:
 translate fr a3_rin_tt_corner_7f9271f5:
 
     # rin "The gallery person. I can talk with that person. At least yesterday I thought I could."
-    rin "La personne de la galerie. Je peux parler à cette personne. Du moins hier je pensais que je pouvais."
+    rin "La personne de la galerie. Je peux parler à cette personne. Du moins hier j'ai pensé que je le pouvais."
 
 # game/script-a3-rin.rpy:137
 translate fr a3_rin_tt_corner_0b41caf0:
@@ -238,7 +238,7 @@ translate fr a3_rin_tt_corner_ebec32f4:
 translate fr a3_rin_tt_corner_92e62605:
 
     # no "Such a hardheaded girl, you are! But I knew that sooner or later you'd understand, as well!"
-    no "Tu es vraiment une fille têtue! Mais je savais que tôt ou tard tu comprendrais aussi!"
+    no "Quelle sacrée fille têtue! Mais je savais que tôt ou tard tu comprendrais aussi!"
 
 # game/script-a3-rin.rpy:163
 translate fr a3_rin_tt_corner_f459d9cb:
@@ -256,7 +256,7 @@ translate fr a3_rin_tt_corner_7f584d05:
 translate fr a3_rin_tt_corner_fec40a7c:
 
     # no "This is so exciting, isn't it?"
-    no "C'est très excitant, hein?"
+    no "C'est très excitant tout ça, hein?"
 
 # game/script-a3-rin.rpy:172
 translate fr a3_rin_tt_corner_9e24a260:
@@ -268,19 +268,19 @@ translate fr a3_rin_tt_corner_9e24a260:
 translate fr a3_rin_tt_corner_e5f9a478:
 
     # "He picks up his cell phone from the breast pocket of his jacket and flips it open with a stylish movement, starting to look for the number to call."
-    "Il sort son téléphone de sa poche de poitrine et l'ouvre d'un mouvement exagéré, cherchant le numéro à appeler."
+    "Il sort son téléphone de la poche avant de sa veste et l'ouvre d'un mouvement exagéré, cherchant le numéro à appeler."
 
 # game/script-a3-rin.rpy:182
 translate fr a3_rin_tt_corner_e10dfea7:
 
     # "While he searches, he notices me staring and gives me a beaming thumbs-up. I shrug back at him, doing my best to not look smug."
-    "Pendant qu'il cherche, il remarque que je le fixe du regard et m'adresse un pouce levé rayonnant. Je hausse les épaules, faisant de mon mieux pour ne pas paraître suffisant."
+    "Pendant qu'il cherche, il remarque que je le fixe du regard et lève son pouce d'un air rayonnant. Je hausse les épaules, faisant de mon mieux pour ne pas paraître suffisant."
 
 # game/script-a3-rin.rpy:187
 translate fr a3_rin_tt_corner_6acd522c:
 
     # "Nomiya finds the number and makes the call, turning away from us and lowering his voice once it goes through. Even so, I can hear his excited tone."
-    "Nomiya trouve le numéro et passe l'appel, se détournant de nous et baissant la voix pour rester discret. Malgré ça, je peux entendre son ton enthousiaste."
+    "Nomiya trouve le numéro et passe l'appel, se détournant de nous et baissant la voix pour rester discret. Malgré tout, je peux entendre son ton enthousiaste."
 
 # game/script-a3-rin.rpy:189
 translate fr a3_rin_tt_corner_18757dd9:
@@ -292,43 +292,43 @@ translate fr a3_rin_tt_corner_18757dd9:
 translate fr a3_rin_tt_corner_a95e9430:
 
     # no "Fabulous! Sae is at the gallery right now, and she said we could stop by right away if that's fine. This is most excellent!"
-    no "Fabuleux! Sae est à la galerie en ce moment même, et elle a dit qu'on pouvait passer immédiatement si c'était possible. C'est absolument fantastique!"
+    no "Fabuleux! Sae est à la galerie en ce moment même, et elle a dit qu'on pouvait passer immédiatement si c'était possible. C'est absolument parfait!"
 
 # game/script-a3-rin.rpy:199
 translate fr a3_rin_tt_corner_1eafb89e:
 
     # hi "Do you have some kind of portfolio to show, Rin?"
-    hi "Tu as un portfolio à montrer, Rin?"
+    hi "As-tu un genre de portfolio que nous pourrions montrer, Rin?"
 
 # game/script-a3-rin.rpy:204
 translate fr a3_rin_tt_corner_e7514f89:
 
     # "She just shakes her head at the question."
-    "Elle secoue la tête en réponse à la question."
+    "Elle secoue la tête de droite à gauche en réponse à sa question."
 
 # game/script-a3-rin.rpy:210
 translate fr a3_rin_tt_corner_3315c8dc:
 
     # no "Never fear, I've taken some photos of your paintings. We can bring those and maybe a couple originals with us. Those will be quite sufficient for now."
-    no "N'aie crainte, j'ai pris des photos de tes peintures. On peut les amener avec peut-être quelques originaux. Ça suffira pour l'instant."
+    no "Pas d'inquiétude, j'ai pris des photos de tes peintures. On peut les amener avec peut-être quelques originaux. Ça suffira bien pour l'instant."
 
 # game/script-a3-rin.rpy:215
 translate fr a3_rin_tt_corner_71407fb6:
 
     # no "There should be some recent ones around here in the back, right?"
-    no "Il devrait y en avoir quelques-uns récents par ici, hein?"
+    no "Il devrait y en avoir quelques-uns de récents par ici, pas vrai?"
 
 # game/script-a3-rin.rpy:221
 translate fr a3_rin_tt_corner_e629d090:
 
     # "He pulls out a folder full of photos out of a desk drawer, then charges towards the back where there's a small storage room and extra cabinets for all the materials and tools the art classes and club use."
-    "Il sort un dossier rempli de photos de son bureau, puis va au fond de la salle où il y a une petite pièce de rangement et des placards en plus pour tout le matériel et les outils que les cours d'art et le club utilisent."
+    "Il extirpe un dossier rempli de photos de son bureau, puis fonce jusqu'au fond de la salle où se trouve une petite pièce de stockage et des placards en rab pour tout le matériel et les outils que les cours et le club d'art utilisent."
 
 # game/script-a3-rin.rpy:223
 translate fr a3_rin_tt_corner_1ad0b80a:
 
     # "He soon finds what he was looking for and crudely wraps two of Rin's paintings in some brown packing paper."
-    "Il trouve rapidement ce qu'il cherchait et enroule deux peintures de Rin dans une feuille marron."
+    "Il trouve rapidement ce qu'il cherchait et enroule grossièrement deux des peintures de Rin dans une sorte de feuille marron."
 
 # game/script-a3-rin.rpy:229
 translate fr a3_rin_tt_corner_d9a93cf7:
@@ -922,13 +922,13 @@ translate fr a3_rin_tt_corner_8735e487:
 translate fr a3_rin_tt_corner_b762ea4f:
 
     # no "Actually, I was thinking about this before. Do you use the place upstairs for anything?"
-    no "En fait, j'y ai pensé précédemment. Tu utilises l'étage pour quelque chose?"
+    no "En fait, j'y ai déjà réfléchi. Tu utilises l'étage pour quelque chose?"
 
 # game/script-a3-rin.rpy:650
 translate fr a3_rin_tt_corner_f6a26bc8:
 
     # sa "No, I don't… haven't since back then. It's more like a landfill than an atelier now."
-    sa "Non, pas vraiment... pas depuis avant. C'est plus une zone de stockage qu'un atelier maintenant."
+    sa "Non, pas vraiment... je l'ai pas fait depuis le temps. C'est plus une sorte de dépotoire qu'un atelier maintenant."
 
 # game/script-a3-rin.rpy:655
 translate fr a3_rin_tt_corner_b57afd5c:
@@ -1060,7 +1060,7 @@ translate fr a3_rin_the_scent_of_light_76b2fe88:
 translate fr a3_rin_the_scent_of_light_9aff151b:
 
     # n "{vspace=120}Rin applies for, and - thanks to Nomiya pressuring the principal, I'm sure - is granted leave for the rest of the term for 'exceptional extracurricular activities.' She has to make up for it during summer vacation, but it seems she doesn't mind."
-    n "{vspace=120}Rin fait la demande et - merci à Nomiya faisant pression sur le principal, j'en suis sûr - obtient l'exemption du reste du trimestre pour 'activité périscolaire exceptionnelle.' Elle va devoir rattraper ça durant les vacances d'été, mais ça ne semble pas la gêner."
+    n "{vspace=120}Rin fait la demande et - grâce à Nomiya faisant pression sur le principal, j'en suis sûr - obtient l'exemption du reste du trimestre pour 'activité périscolaire exceptionnelle.' Elle va devoir rattraper ça durant les vacances d'été, mais ça ne semble pas la gêner."
 
 # game/script-a3-rin.rpy:752
 translate fr a3_rin_the_scent_of_light_5d22a79a:
@@ -1354,7 +1354,7 @@ translate fr a3_rin_the_scent_of_light_0f486bea:
 translate fr a3_rin_the_scent_of_light_d3f409fb:
 
     # "A genuine summer breeze blows inside from the window I cracked open, full of warmth and carrying the scent of light."
-    "Une brise d'été passe par la fenêtre que j'ai ouverte, emplie de chaleur et de lumière."
+    "Une légère brise d'été souffle par la fenêtre ouverte, entraînant avec elle la chaleur et l'odeur de la lumière."
 
 # game/script-a3-rin.rpy:925
 translate fr a3_rin_the_scent_of_light_230301c1:
@@ -3398,13 +3398,13 @@ translate fr a3_rin_the_edge_of_the_world_bfef6b7b:
 translate fr a3_rin_the_edge_of_the_world_5060f050:
 
     # "It is not a game she's playing with my head. I'm pretty sure she doesn't deliberately try to screw with people."
-    "Ce n'est pas volontairement qu'elle me perturbe autant. Je suis sûr qu'elle n'est pas du genre à se moquer des gens comme ça."
+    "Ce n'est pas volontairement qu'elle me perturbe autant. Je suis assez sûr qu'elle n'est pas du genre à se moquer des gens comme ça."
 
 # game/script-a3-rin.rpy:2118
 translate fr a3_rin_the_edge_of_the_world_9e79bb36:
 
     # "Maybe it's just my own mind playing tricks on itself. Still, Rin feels like a puzzle in the form of a girl."
-    "Peut-être que c'est mon esprit qui me joue des tours. Pourtant, Rin m'apparaît comme un puzzle de la forme d'une fille."
+    "Peut-être que c'est mon esprit qui me joue des tours. Pourtant, Rin m'apparaît comme un puzzle en forme d'une fille."
 
 # game/script-a3-rin.rpy:2120
 translate fr a3_rin_the_edge_of_the_world_1a58568b:
@@ -3898,7 +3898,7 @@ translate fr a3_rin_fast_forward_7dcc4d87:
 translate fr a3_rin_fast_forward_06277db9:
 
     # n "Rin works like a demon. There is barely a moment when she's without a brush between her toes, or not walking in circles around her current work in progress, estimating it from every angle and distance."
-    n "Rin travaille comme une forcenée. Il y a à peine un moment qu'elle passe sans un pinceau entre les orteils, ou sans marcher en cercle autour de son travail en cours, le jaugeant sous tous les angles différents."
+    n "Rin travaille comme une forcenée. Il est rare qu'elle ne soit pas avec un pinceau entre les orteils, ou en train de marcher en cercle autour de son travail en cours, le jaugeant sous tous les angles différents."
 
 # game/script-a3-rin.rpy:2388
 translate fr a3_rin_fast_forward_f20eeb78:
@@ -3992,7 +3992,7 @@ translate fr a3_rin_fast_forward_76b2fe88_1:
 translate fr a3_rin_fast_forward_dfceca80:
 
     # "June turns into July almost without warning. End-of-term exams loom dangerously close, but all I can think of is Rin."
-    "Le mois de juin devient le mois de juillet sans prévenir. Les examens de fin de terme sont dangereusement proches, mais je ne pense qu'à Rin."
+    "Le mois de juin devient le mois de juillet sans prévenir. Les examens de fin d'année sont dangereusement proches, mais je ne pense qu'à Rin."
 
 # game/script-a3-rin.rpy:2431
 translate fr a3_rin_fast_forward_dbae27b5:
@@ -5572,13 +5572,13 @@ translate fr a3_rin_reverse_escapism_76b2fe88_1:
 translate fr a3_rin_reverse_escapism_c5e62edf:
 
     # "We stop to buy some hot coffee and snacks from a vending machine, and then locate a bench where we sit down to eat."
-    "Nous nous arrêtons pour acheter du café chaud et des gâteaux à un distributeur, puis nous trouvons un banc où nous s'asseoir pour manger."
+    "Nous nous arrêtons pour acheter du café chaud et des gâteaux à un distributeur, puis nous trouvons un banc où nous asseoir pour manger."
 
 # game/script-a3-rin.rpy:3382
 translate fr a3_rin_reverse_escapism_ffc919bd:
 
     # "There is no time in the night of the town, so we spend an unknown amount of it just sitting there, observing the stillness of the usually vivid townscape."
-    "Il n'y a pas d'heure dans la nuit de la ville, alors nous passons un temps indéfini à rester là, observant l'immobilité de la ville d'habitude si active."
+    "Il n'y a pas d'heure qui compte dans une ville en pleine nuit, alors nous passons un temps indéfini à rester là, observant l'immobilité de la ville d'habitude si active."
 
 # game/script-a3-rin.rpy:3384
 translate fr a3_rin_reverse_escapism_c742be2c:
@@ -5590,7 +5590,7 @@ translate fr a3_rin_reverse_escapism_c742be2c:
 translate fr a3_rin_reverse_escapism_06c5656e:
 
     # rin "So is this it?"
-    rin "Donc c'est ça?"
+    rin "Alors c'est ça?"
 
 # game/script-a3-rin.rpy:3393
 translate fr a3_rin_reverse_escapism_60cc4a85:
@@ -5602,7 +5602,7 @@ translate fr a3_rin_reverse_escapism_60cc4a85:
 translate fr a3_rin_reverse_escapism_cea328eb:
 
     # "She doesn't sound bored. Rather, her tone is inquisitive, uncertain as to why I dragged her out here, yet curious to find out the answer."
-    "Elle ne semble pas ennuyée. Plutôt que ça, son ton est interrogatif, incertain de la raison pour laquelle je l'ai amenée jusqu'ici, curieuse de connaître la réponse."
+    "Elle n'a pas l'air déçue. Son ton est plutôt interrogatif, incertain de la raison pour laquelle je l'ai amenée jusqu'ici, curieuse de connaître la réponse."
 
 # game/script-a3-rin.rpy:3397
 translate fr a3_rin_reverse_escapism_17144eaa:
@@ -5806,13 +5806,13 @@ translate fr a3_rin_reverse_escapism_b6dd1991:
 translate fr a3_rin_reverse_escapism_81c90b5c:
 
     # "Whether she meant she wished for me to understand her, her to understand me, or her to understand herself, I never ask, nor do I find out."
-    "Qu'elle dise ça parce qu'elle voudrait que je la comprenne, ou me comprendre, ou se comprendre elle-même, je ne demande jamais, et ne cherche pas à le découvrir."
+    "Qu'elle ait dit ça parce qu'elle voudrait que je puisse la comprendre, me comprendre elle, ou se comprendre elle-même... je n'en demande rien et n'y comprends pas mieux."
 
 # game/script-a3-rin.rpy:3509
 translate fr a3_rin_reverse_escapism_1a22dffa:
 
     # "I see her eyes searching for mine. Serious and cryptic as they are, I'm not getting any explanation from there."
-    "Je vois ses yeux qui cherchent les miens. Sérieux et sibyllins, je n'en extirpe aucune explication."
+    "Je vois ses yeux qui cherchent les miens. Sérieux et cryptiques comme ils sont, je n'en dégagerais aucune explication."
 
 # game/script-a3-rin.rpy:3514
 translate fr a3_rin_reverse_escapism_40366ef4:
@@ -5830,7 +5830,7 @@ translate fr a3_rin_reverse_escapism_1d282457:
 translate fr a3_rin_reverse_escapism_126f8083:
 
     # "Small hints of a smile are wavering on her lips. When she's like this, it makes me feel that maybe there's hope for us."
-    "Des mouvements faisant penser à un sourire apparaissent sur ses lèvres. Quand elle est comme ça, ça me donne l'impression qu'il y a de l'espoir pour nous."
+    "De petites bribes de sourire se dessinent sur ses lèvres. Quand elle est comme ça, ça me donne l'impression qu'il y a de l'espoir pour nous."
 
 # game/script-a3-rin.rpy:3523
 translate fr a3_rin_reverse_escapism_b5168e78:
@@ -5842,7 +5842,7 @@ translate fr a3_rin_reverse_escapism_b5168e78:
 translate fr a3_rin_reverse_escapism_6b035147:
 
     # "It's just that we never really get along precisely because we are so different."
-    "C'est juste qu'on ne s'est jamais vraiment entendus précisément parce qu'on est tellement différents."
+    "C'est juste qu'on ne s'est jamais vraiment entendus précisément parce qu'on est si différents."
 
 # game/script-a3-rin.rpy:3527
 translate fr a3_rin_reverse_escapism_3c69584a:
@@ -6304,7 +6304,7 @@ translate fr a3_rin_boundless_662b5c29:
 translate fr a3_rin_boundless_d20db25e:
 
     # "I really don't want to explain the circumstances between Rin and me, so I get flustered and end up mumbling something unclear."
-    "Je n'ai vraiment pas envie d'expliquer les circonstances entre Rin et moi, alors je m'embrouille et finis par marmonner quelque chose d'incompréhensible."
+    "Je n'ai vraiment pas envie d'expliquer la situation entre Rin et moi, alors je m'embrouille et finis par marmonner quelque chose d'assez flou."
 
 # game/script-a3-rin.rpy:3804
 translate fr a3_rin_boundless_df45bab8:
@@ -6316,7 +6316,7 @@ translate fr a3_rin_boundless_df45bab8:
 translate fr a3_rin_boundless_d3727eb1:
 
     # "She takes stock of me and then sighs deeply, looking wryly amused somehow. I hope she didn't misunderstand."
-    "Elle me regarde et soupire profondément, semblant étrangement amusée. J'espère qu'elle n'a pas compris de travers."
+    "Elle me considère longuement puis pousse un profond soupir, l'air étrangement amusée. J'espère qu'elle n'a pas compris de travers."
 
 # game/script-a3-rin.rpy:3814
 translate fr a3_rin_boundless_04b9f317:
@@ -6962,7 +6962,7 @@ translate fr a3_rin_delirium_99d56ef7:
 translate fr a3_rin_delirium_42870fd8:
 
     # "There is a blanket on the couch, but I wrap my arms around Rin instead of fetching it."
-    "Il y a une couverture sur le canapé, mais je passe mes bras autour de Rin au lieu de la prendre."
+    "Il y a une couverture sur le canapé, mais j'enveloppe Rin de mes bras au lieu d'aller la chercher."
 
 # game/script-a3-rin.rpy:4194
 translate fr a3_rin_delirium_8e854abd:
@@ -8060,7 +8060,7 @@ translate fr a3_rin_things_you_hate_eea62411:
 translate fr a3_rin_things_you_hate_b2c2720f:
 
     # "I take a hard, long look at Rin, hoping that it conveys my feelings."
-    "Je porte un long regard dur à Rin, espérant qu'il traduise mes sentiments."
+    "Je porte un long regard dur sur Rin, espérant qu'il traduise mes sentiments."
 
 # game/script-a3-rin.rpy:4735
 translate fr a3_rin_things_you_hate_c4a32e12:
@@ -8084,7 +8084,7 @@ translate fr a3_rin_shards_of_ire_b7fab501:
 translate fr a3_rin_shards_of_ire_7f38728c:
 
     # "This same old stupid pattern emerges again; me asking her questions to which she replies with answers that don't answer anything, because it's the only way we can converse."
-    "Le même schéma idiot se répète ; moi posant des questions auxquelles elle répond en ne répondant rien, parce que c'est la seule façon qu'on a de converser."
+    "C'est la même vieille et stupide rengaine ; moi qui pose des questions auxquelles elle répond par des phrases qui ne répondent à rien, parce que c'est la seule façon qui nous permet de discuter."
 
 # game/script-a3-rin.rpy:4758
 translate fr a3_rin_shards_of_ire_663541e5:
@@ -8924,13 +8924,13 @@ translate fr a3rc3o2_3a97ddfc:
 translate fr a3rc3o2_fc844c2c:
 
     # no "At any rate, he, um, ended up taking his own life. Such a tragedy."
-    no "En tout cas, il a, hum, fini par interrompre sa vie. Une tragédie."
+    no "En tous cas, il a, uhm, finit par mettre fin à ses jours. Une tragédie."
 
 # game/script-a3-rin.rpy:5242
 translate fr a3rc3o2_e90b2c06:
 
     # no "In retrospect, that was what made me choose a career as a teacher in the end."
-    no "En rétrospective, c'est ça qui a fini par me faire choisir une carrière de professeur."
+    no "En y repensant, c'est ça qui m'a poussé à choisir une carrière de professeur, au final."
 
 # game/script-a3-rin.rpy:5244
 translate fr a3rc3o2_27074ac4:
@@ -8960,7 +8960,7 @@ translate fr a3rc3o2_c79ac47c:
 translate fr a3rc3o2_7ed5a4d5:
 
     # no "But I think all that history with that friend of ours was the key thing, as sad as it was. A turning point, as they say."
-    no "Mais je pense que toute cette histoire avec notre ami était l'élément clé, aussi triste que ce soit. Un moment décisif, comme ils disent."
+    no "Mais je pense que toute cette histoire avec notre ami était l'élément clé, aussi triste que ce soit. Un moment-charnière, comme ils disent."
 
 # game/script-a3-rin.rpy:5266
 translate fr a3rc4o1_adafee73:
@@ -8996,13 +8996,13 @@ translate fr a3rc4o1_db583013:
 translate fr a3rc4o1_213ecb70:
 
     # rin "Just let me do this thing the way I want. That's all."
-    rin "Laisse-moi juste faire les choses de la façon que je veux. C'est tout."
+    rin "Laisse-moi juste faire les choses de la manière qui me plaît. C'est tout."
 
 # game/script-a3-rin.rpy:5292
 translate fr a3rc4o2_0c98a75f:
 
     # hi "It doesn't really matter whether I understand you or not. I just want to know."
-    hi "Ce n'est pas important que tu comprennes ou non. Je veux juste savoir."
+    hi "C'est pas vraiment important que tu comprennes ou pas. Je veux juste savoir."
 
 # game/script-a3-rin.rpy:5297
 translate fr a3rc4o2_b7fab501:
@@ -9014,7 +9014,7 @@ translate fr a3rc4o2_b7fab501:
 translate fr a3rc4o2_0d1da92f:
 
     # "She is like a stone wall. I just can't reach through to Rin. It's impossible for me."
-    "Elle est comme un mur en pierre. Je n'arrive pas à atteindre Rin à travers. C'est impossible pour moi."
+    "Elle est comme un mur de briques. Je n'arrive tout simplement pas à atteindre Rin. C'est impossible pour moi."
 
 translate fr strings:
 
