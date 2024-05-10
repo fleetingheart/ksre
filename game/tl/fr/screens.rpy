@@ -64,11 +64,11 @@ translate fr strings:
 
     # game/screens.rpy:165
     old "Extras"
-    new "En plus"
+    new "Extras"
 
     # game/screens.rpy:198
     old "Disable adult content"
-    new "Désactiver contenu pour adultes"
+    new "Désactiver le contenu adulte"
 
     # game/screens.rpy:199
     old "Fullscreen mode"
@@ -80,7 +80,7 @@ translate fr strings:
 
     # game/screens.rpy:201
     old "Skip after choices"
-    new "Garder avance rapide après les choix"
+    new "Continuer en avance rapide après les choix"
 
     # game/screens.rpy:202
     old "Parallax"
@@ -104,7 +104,7 @@ translate fr strings:
 
     # game/screens.rpy:224
     old "Auto mode delay"
-    new "Délai mode automatique"
+    new "Délai du mode automatique"
 
     # game/screens.rpy:234
     old "Music volume"
@@ -112,7 +112,7 @@ translate fr strings:
 
     # game/screens.rpy:244
     old "SFX volume"
-    new "Volume effets"
+    new "Volume des effets sonores"
 
     # game/screens.rpy:248
     old "Test"
@@ -124,7 +124,7 @@ translate fr strings:
 
     # game/screens.rpy:278
     old "Options > Language"
-    new "Choix > Langue"
+    new "Options > Langue"
 
     # game/screens.rpy:288
     old "English"
@@ -168,7 +168,7 @@ translate fr strings:
 
     # game/screens.rpy:439
     old "Jukebox"
-    new "Juke-box"
+    new "Jukebox"
 
     # game/screens.rpy:460
     old "Gallery"
@@ -184,11 +184,11 @@ translate fr strings:
 
     # game/screens.rpy:559
     old "Extras > Jukebox"
-    new "Suppléments > Jukebox"
+    new "Extras > Jukebox"
 
     # game/screens.rpy:563
     old "Now playing"
-    new "Actuellement"
+    new "Lecture en cours"
 
     # game/screens.rpy:599
     old "Vol."
@@ -196,11 +196,11 @@ translate fr strings:
 
     # game/screens.rpy:603
     old "Stop"
-    new "Arrêt"
+    new "Stop"
 
     # game/screens.rpy:634
     old "Extras > Gallery"
-    new "Suppléments > Galerie"
+    new "Extras > Galerie"
 
     # game/screens.rpy:643
     old "Page:"
@@ -208,11 +208,11 @@ translate fr strings:
 
     # game/screens.rpy:716
     old "Extras > Library"
-    new "Suppléments > Bibliothèque"
+    new "Extra > Bibliothèque"
 
     # game/screens.rpy:795
     old "Extras > Cinema"
-    new "Suppléments > Cinéma"
+    new "Extra > Cinéma"
 
     # game/screens.rpy:977
     old "Fonts"
@@ -236,7 +236,7 @@ translate fr strings:
 
     # game/screens.rpy:1009
     old "Volume drop"
-    new "Chute de volume"
+    new "Chute du volume"
 
 # TODO: Translation updated at 2023-06-10 11:19
 
@@ -244,7 +244,7 @@ translate fr strings:
 
     # game/screens.rpy:401
     old "Are you sure you want to\nload this save?"
-    new "Êtes-vous sûr(e) de vouloir\ncharger cette sauvegarde?"
+    new "Voulez-vous vraiment\ncharger cette sauvegarde?"
 
 # TODO: Translation updated at 2023-12-22 20:14
 
@@ -256,25 +256,25 @@ translate fr strings:
 
     # game/screens.rpy:250
     old "Adult content is disabled."
-    new "Adult content is disabled."
+    new "Le contenu adulte est désactivé."
 
     # game/screens.rpy:252
     old "Adult content is enabled."
-    new "Adult content is enabled."
+    new "Le contenu adulte est activé."
 
     # game/screens.rpy:1050
     old "Colorblind Filter"
-    new "Colorblind Filter"
+    new "Filtre daltonisme"
 
     # game/screens.rpy:1144
     old "You must be 18+ to see adult content within this game.\nDo you meet these requirements?"
-    new "You must be 18+ to see adult content within this game.\nDo you meet these requirements?"
+    new "Vous devez avoir plus de 18 ans pour voir le contenu adulte de ce jeu.\nRemplissez-vous ce critère ?"
 
     # game/screens.rpy:1145
     old "Note: answering \"No\" does NOT prevent you from playing the game."
-    new "Note: answering \"No\" does NOT prevent you from playing the game."
+    new "Note: répondre \"Non\" ne vous empêchera PAS de jouer au jeu."
 
     # game/screens.rpy:1146
     old "This question will not be shown again after you start playing."
-    new "This question will not be shown again after you start playing."
+    new "Le jeu ne vous posera plus cette question après avoir commencé le jeu."
 

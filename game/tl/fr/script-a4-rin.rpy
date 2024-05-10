@@ -4,7 +4,7 @@
 translate fr a4_rin_illusions_for_people_7f31fb74:
 
     # "I make it in time for class, though not in time for breakfast."
-    "J'arrive à temps pour les cours, bien que pas à temps pour le petit déjeuner."
+    "J'arrive à temps pour les cours, mais pas à temps pour le petit déjeuner."
 
 # game/script-a4-rin.rpy:10
 translate fr a4_rin_illusions_for_people_76acec4f:
@@ -16,13 +16,13 @@ translate fr a4_rin_illusions_for_people_76acec4f:
 translate fr a4_rin_illusions_for_people_84b35954:
 
     # "This means that it's going to be intolerably hot in the afternoon. For now, though, it's pleasant."
-    "Ça signifie qu'il fera intolérablement chaud cet après-midi. Pour l'instant, cela dit, c'est plaisant."
+    "Ça signifie qu'il fera intolérablement chaud cet après-midi. Celà-dit, pour le moment, c'est agréable."
 
 # game/script-a4-rin.rpy:14
 translate fr a4_rin_illusions_for_people_ef36b290:
 
     # "I look at Misha and Shizune's animated discussion about whatever, Hanako staring out of the classroom window, Mutou stumbling into the classroom four minutes late and with no recollection of what he's supposed to be teaching today."
-    "Je regarde la discussion animée de Misha et Shizune, Hanako regardant par la fenêtre de la classe, Mutou entrant dans la classe quatre minutes en retard et sans savoir ce qu'il est censé enseigner aujourd'hui."
+    "J'observe' la discussion animée entre Misha et Shizune, Hanako regardant par la fenêtre de la classe, Mutou entrant dans la classe quatre minutes en retard et sans savoir ce qu'il est censé enseigner aujourd'hui."
 
 # game/script-a4-rin.rpy:16
 translate fr a4_rin_illusions_for_people_bb7f4611:
@@ -964,7 +964,7 @@ translate fr a4_rin_demused_a3f931d8:
 translate fr a4_rin_demused_e34a9b74:
 
     # "She looks alarmed. And also completely uncomprehending, as if she just doesn't understand what I'm angry about."
-    "Elle semble alarmée. Et aussi complètement perdue, comme si elle elle ne comprenait pas pourquoi j'étais en colère."
+    "Elle semble alarmée. Et aussi complètement perdue, comme si elle ne comprenait pas pourquoi j'étais en colère."
 
 # game/script-a4-rin.rpy:552
 translate fr a4_rin_demused_10996ab4:
@@ -2672,7 +2672,7 @@ translate fr a4_rin_wavelength_76b2fe88_9:
 translate fr a4_rin_wavelength_61247b6a:
 
     # "As expected, mom calls me and I end up promising to see if I can get a train ticket for tomorrow, or failing that, the day after."
-    "Comme prévu, ma mère m'a appelé et j'ai fini par promettre de voir si je pouvais obtenir un billet de train pour demain, ou sinon, le lendemain."
+    "Comme prévu, ma mère m'appele et je fini par promettre de regarder si je peux prendre un billet de train pour demain, ou à défaut, pour le lendemain."
 
 # game/script-a4-rin.rpy:1541
 translate fr a4_rin_wavelength_76b2fe88_10:
@@ -4912,13 +4912,13 @@ translate fr a4_rin_the_world_only_can_you_see_a0eaae9b:
 translate fr a4_rin_the_world_only_can_you_see_d5e62c37:
 
     # rin "Maybe I am that kind of a person. The kind that belongs only to herself."
-    rin "Peut-être que je suis ce genre de personne. Le genre qui n'appartient qu'à elle."
+    rin "Peut-être que je suis ce genre de personne-là. Le genre qui n'appartient qu'à elle-même."
 
 # game/script-a4-rin.rpy:2765
 translate fr a4_rin_the_world_only_can_you_see_53beb146:
 
     # hi "I won't accept that."
-    hi "Je n'accepterai pas ça."
+    hi "Je pourrai pas accepter ça."
 
 # game/script-a4-rin.rpy:2767
 translate fr a4_rin_the_world_only_can_you_see_8a5624cd:
@@ -4936,7 +4936,7 @@ translate fr a4_rin_the_world_only_can_you_see_ce617998_1:
 translate fr a4_rin_the_world_only_can_you_see_40b7767e:
 
     # "The pause lets me cool down, to find my sensibilities."
-    "La pause me permet de faire tomber la pression, de retrouver mon calme."
+    "La pause me permet de faire retomber la pression, de retrouver mon calme."
 
 # game/script-a4-rin.rpy:2773
 translate fr a4_rin_the_world_only_can_you_see_9a6da514:
@@ -4996,7 +4996,7 @@ translate fr a4_rin_the_world_only_can_you_see_3b1d8348:
 translate fr a4_rin_the_world_only_can_you_see_ad8b8b19:
 
     # "Did I lose?"
-    "Ai-je perdu?"
+    "Est-ce que j'ai perdu?"
 
 # game/script-a4-rin.rpy:2796
 translate fr a4_rin_the_world_only_can_you_see_5a5c0a67:
@@ -5008,7 +5008,7 @@ translate fr a4_rin_the_world_only_can_you_see_5a5c0a67:
 translate fr a4_rin_the_world_only_can_you_see_4f4e1a70:
 
     # "I scramble for words, words that could salvage this. I find none."
-    "Je cherche des mots, des mots qui pourraient contrer ça. Je n'en trouve aucun."
+    "Je farfouille à la recherche de mots, des mots qui pourraient rattraper tout ça. Je n'en trouve aucun."
 
 # game/script-a4-rin.rpy:2800
 translate fr a4_rin_the_world_only_can_you_see_fb7e1ba6:
@@ -6806,13 +6806,13 @@ translate fr a4_rin_problems_of_self_referential_logic_bda4e8c8:
 translate fr a4_rin_problems_of_self_referential_logic_7682797e:
 
     # "Rin's honest-to-goodness silliness, made twice more ridiculous by the fact that I know she is dead serious, derails me like it always does."
-    "Le ridicule sincère de Rin, rendu deux fois plus ridicule par le fait que je sais qu'elle est tout à fait sérieuse, me perturbe comme à chaque fois."
+    "Le ridicule sincère de Rin, rendu deux fois plus ridicule parce que je sais qu'elle est tout à complètement sérieuse, me perturbe comme à chaque fois."
 
 # game/script-a4-rin.rpy:3690
 translate fr a4_rin_problems_of_self_referential_logic_dba20ae4:
 
     # "It's like some kind of a safety lock to prevent me from becoming too much of a worrywart, dragging even my own thoughts off the ground where they should be."
-    "C'est comme un cran de sûreté pour m'empêcher de devenir un inquiet maladif, gardant les pieds sur terre, là où ils devraient être."
+    "C'est comme un cran de sûreté pour m'empêcher de devenir une boule stress, agissant comme une ancre pour garder mes pieds sur terre, là où ils devraient être."
 
 # game/script-a4-rin.rpy:3692
 translate fr a4_rin_problems_of_self_referential_logic_05a783f6:
@@ -7706,7 +7706,7 @@ translate fr a4_rin_raison_detre_c0932a9f:
 translate fr a4_rin_raison_detre_8aaa5d46:
 
     # hi "I just… think that I am the kind of person who gives up when he feels he can't go on."
-    hi "C'est juste que... je pense que je suis le genre de personne qui abandonne quand il pense qu'il ne peut plus continuer."
+    hi "C'est juste que... je pense que je suis le genre de personne qui abandonne quand je pense que je peux plus avancer."
 
 # game/script-a4-rin.rpy:4091
 translate fr a4_rin_raison_detre_3c2a5195:
@@ -10680,7 +10680,7 @@ translate fr a4_rin_proof_of_existence_d1ebecd8:
 translate fr a4_rin_proof_of_existence_3876b379:
 
     # rin "Come on, you got it off just fine. This is the same but the other way around. It's like talking backwards."
-    rin "Allez, tu l'as retiré sans souci. C'est pareil mais dans l'autre sens. Comme parler à l'envers."
+    rin "Allez, tu l'as enlevé sans problème. C'est pareil mais dans l'autre sens. C'est comme parler à l'envers."
 
 # game/script-a4-rin.rpy:5595
 translate fr a4_rin_proof_of_existence_170923fa:
@@ -12524,19 +12524,19 @@ translate fr a4rc1o2_be724e19:
 translate fr a4rc1o2_5b319ca3:
 
     # emi "Come on."
-    emi "Allez."
+    emi "Allons-y."
 
 # game/script-a4-rin.rpy:6708
 translate fr a4rc1o2_804bb8e8:
 
     # hi "Where?"
-    hi "Où?"
+    hi "Où ça?"
 
 # game/script-a4-rin.rpy:6713
 translate fr a4rc1o2_5ac06225:
 
     # emi "We are going to find Rin and kick her ass."
-    emi "On va trouver Rin et lui botter les fesses."
+    emi "On va retrouver Rin et lui botter les fesses."
 
 # game/script-a4-rin.rpy:6715
 translate fr a4rc1o2_81d99227:
@@ -12566,7 +12566,7 @@ translate fr a4rc1o2_fc406d47:
 translate fr a4rc1o2_469a5e22:
 
     # "I guess I understand Emi, she is {b}that{/b} kind of a person."
-    "Je crois que je comprends Emi, elle est {b}ce{/b} genre de personne."
+    "Je crois que je comprends Emi, elle est fait partie de {b}ce{/b} genre de personnes-là."
 
 # game/script-a4-rin.rpy:6728
 translate fr a4rc1o2_57d437cc:
