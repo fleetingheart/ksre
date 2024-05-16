@@ -1056,6 +1056,15 @@ screen accessibility():
 
                         text _("Volume drop")
 
+            text _("Mental health"):
+                bold True
+                size bold_size
+
+            vbox:
+                style_prefix "check"
+
+                textbutton _("Disable disturbing content") action ToggleVariable("persistent.disable_disturbing_content", True, False)
+
             text _("Colorblind Filter"):
                 bold True
                 size bold_size
