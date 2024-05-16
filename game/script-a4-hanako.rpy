@@ -3416,6 +3416,21 @@ label a4_hanako:
 
         hi "I've already seen the real you, though. You didn't need to take off your clothes for that."
 
+        if persistent.disable_disturbing_content:
+            "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
+
+            stop music fadeout 2.0
+
+            scene black
+            with shuteye
+
+            if _in_replay:
+                return
+
+            call timeskip
+
+            jump .indeterminate_future
+
         scene bg school_dormhanako_ss
         show hanagown stockworry_blush_close_ss at center
         with locationchange
