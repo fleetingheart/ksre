@@ -277,7 +277,7 @@ label credits:
 
     pause 60.0
 
-    show expression Text("©MMXV Four Leaf Studios, Fleeting Heartbeat Studios", text_align=0.5, size=29) zorder 999 at Transform(xalign=0.5, yalign=0.605)
+    show expression Text("©MMXXIV Four Leaf Studios, Fleeting Heartbeat Studios", text_align=0.5, size=29) zorder 999 at Transform(xalign=0.5, yalign=0.605)
     with Dissolve(2.0)
 
     pause 5.0
@@ -291,13 +291,13 @@ label credits:
 
     $ renpy.music.set_pause(False)
     $ renpy.music.set_volume(0.25, delay=1.0)
-    show expression Text("In honor of XPND.dev\nThe man, who united all of us,\nand whose journey ended here...", text_align=0.5) at Transform(xalign=0.5, ypos=462)
+    show expression Text(_("In honor of XPND.dev\nThe man, who united all of us,\nand whose journey ended here..."), text_align=0.5) at Transform(xalign=0.5, ypos=462)
     with Dissolve(1.5)
 
     pause 4.5
 
     scene black
-    show expression Text("In honor of XPND.dev\nThe man, who united all of us,\nand whose journey ended here...\nand who will be in our {i}fleeting{/i} hearts forever...", text_align=0.5) at Transform(xalign=0.5, ypos=462)
+    show expression Text(_("In honor of XPND.dev\nThe man, who united all of us,\nand whose journey ended here...\nand who will be in our {i}fleeting{/i} hearts forever..."), text_align=0.5) at Transform(xalign=0.5, ypos=462)
     with Dissolve(1.0)
 
     pause 2.5
