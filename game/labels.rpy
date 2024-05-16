@@ -82,6 +82,8 @@ label watch_gallery(images):
             $ processing = i < len(images)
 
     scene black
+    show screen gallery
+    with dotwipe_up
     
     jump gallery
 
