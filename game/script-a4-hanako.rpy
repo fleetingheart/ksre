@@ -3419,6 +3419,11 @@ label a4_hanako:
         if persistent.disable_disturbing_content:
             "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
 
+            stop music fadeout 2.0
+
+            scene black
+            with shuteye
+
             if _in_replay:
                 return
 
