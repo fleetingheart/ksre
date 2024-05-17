@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-19 11:20
+﻿# TODO: Translation updated at 2024-05-17 22:54
 
 # game/script-a2-shizune.rpy:8
 translate fr a2_shizune_message_passing_76b2fe88:
@@ -124,7 +124,7 @@ translate fr a2_shizune_message_passing_05d13e5b:
 translate fr a2_shizune_message_passing_4fa96385:
 
     # "I give her a wave anyway. I can do at least this much, but I'm not even going to pretend for a minute that I could hold up a conversation with her, considering my ignorance of sign language."
-    "Je lui fais quand même un signe. Je peux au moins faire ça, mais je ne vais pas prétendre pouvoir tenir une conversation avec elle, considérant mon ignorance en langage des signes."
+    "Je lui fais quand même un signe. Je peux au moins faire ça, mais je ne vais pas prétendre pouvoir tenir une conversation avec elle, considérant mon ignorance en langue des signes."
 
 # game/script-a2-shizune.rpy:74
 translate fr a2_shizune_message_passing_2806dcfa:
@@ -166,13 +166,13 @@ translate fr a2_shizune_message_passing_0f894574:
 translate fr a2_shizune_message_passing_1361b9fe:
 
     # "I quickly realize that this isn't sign language at all, but she's still attempting to communicate with me."
-    "Je réalise rapidement que ce n'est pas le langage des signes, mais qu'elle essaye quand même de communiquer avec moi."
+    "Je réalise rapidement que ce n'est pas la langue des signes, mais qu'elle essaye quand même de communiquer avec moi."
 
 # game/script-a2-shizune.rpy:100
 translate fr a2_shizune_message_passing_1fdc3c62:
 
     # hi "So is this the sign language equivalent of breaking it down into layman's terms?"
-    hi "Donc c'est l’équivalent du langage des signes pour les non-initiés?"
+    hi "Donc c'est l’équivalent de la langue des signes pour les non-initiés?"
 
 # game/script-a2-shizune.rpy:105
 translate fr a2_shizune_message_passing_fd352afc:
@@ -658,7 +658,7 @@ translate fr a2_shizune_talk_to_the_hand_60737e58:
 translate fr a2_shizune_talk_to_the_hand_f7e53f9c:
 
     # "I wonder how Misha can effortlessly translate things to me while simultaneously having a conversation with Shizune in a different language like she does."
-    "Je me demande comment Misha peut me traduire ce qui se dit et avoir en simultané une conversation avec Shizune dans un autre langage."
+    "Je me demande comment Misha peut me traduire ce qui se dit et avoir en simultané une conversation avec Shizune dans une autre langue."
 
 # game/script-a2-shizune.rpy:415
 translate fr a2_shizune_talk_to_the_hand_5367ce39:
@@ -1090,7 +1090,7 @@ translate fr a2_shizune_talk_to_the_hand_455911f8:
 translate fr a2_shizune_talk_to_the_hand_dc6cd0aa:
 
     # mi "Okay, Hicchan~! This is pretty basic stuff, although some people think that this is all of signing, and forget there are all kinds of specific gestures and words."
-    mi "D'accord, Hicchan~! C'est plutôt basique, même si certaines personnes pensent que ça constitue tout le langage et oublient qu'il y a plein de gestes et mots spécifiques."
+    mi "D'accord, Hicchan~! C'est plutôt basique, même si certaines personnes pensent que ça constitue toute la langue et oublient qu'il y a plein de gestes et mots spécifiques."
 
 # game/script-a2-shizune.rpy:684
 translate fr a2_shizune_talk_to_the_hand_e6e0bad6:
@@ -1234,7 +1234,7 @@ translate fr a2_shizune_talk_to_the_hand_142d50b9:
 translate fr a2_shizune_talk_to_the_hand_e0605432:
 
     # mi "Shicchan says that sign language is different from any other, because you have to think about everything before you say it. That means every word has more weight, Hicchan. Every single one is more important than normal."
-    mi "Shicchan dit que le langage des signes est différent des autres, parce qu'on doit penser à tout avant de dire quoi que ce soit. Ça veut dire que chaque mot a plus de poids, Hicchan. Chaque mot est plus important que s'il est dit normalement."
+    mi "Shicchan dit que la langue des signes est différente des autres, parce qu'on doit penser à tout avant de dire quoi que ce soit. Ça veut dire que chaque mot a plus de poids, Hicchan. Chaque mot est plus important que s'il est dit normalement."
 
 # game/script-a2-shizune.rpy:774
 translate fr a2_shizune_talk_to_the_hand_f6c880dd:
@@ -1246,7 +1246,7 @@ translate fr a2_shizune_talk_to_the_hand_f6c880dd:
 translate fr a2_shizune_talk_to_the_hand_0d1c7fdb:
 
     # "She continues her basic rundown of the basics of sign language. Eventually she starts talking about stuff I start to recognize."
-    "Elle continue son discours sur les bases du langage des signes. Finalement elle commence à parler de trucs que je pourrais reconnaître."
+    "Elle continue son discours sur les bases de la langue des signes. Finalement elle commence à parler de trucs que je pourrais reconnaître."
 
 # game/script-a2-shizune.rpy:781
 translate fr a2_shizune_talk_to_the_hand_110e28e1:
@@ -2412,13 +2412,13 @@ translate fr a2_shizune_advanced_game_theory_b6b7e84c:
 translate fr a2_shizune_advanced_game_theory_b0750deb:
 
     # n "If I want Shizune to be able to treat me as a true equal, sign language is an important step towards that goal."
-    n "Si je veux que Shizune me traite comme un égal, le langage des signes est une étape importante."
+    n "Si je veux que Shizune me traite comme un égal, la langue des signes est une étape importante."
 
 # game/script-a2-shizune.rpy:1514
 translate fr a2_shizune_advanced_game_theory_eab4dacf:
 
     # n "If I want to be able to treat Shizune as an equal, then sign language is an important step towards that goal."
-    n "Si je veux traiter Shizune comme un égal, alors le langage des signes est une étape importante."
+    n "Si je veux traiter Shizune comme un égal, alors la langue des signes est une étape importante."
 
 # game/script-a2-shizune.rpy:1516
 translate fr a2_shizune_advanced_game_theory_5356577e:
@@ -7964,7 +7964,7 @@ translate fr a2_shizune_past_imperfective_4c4918e6:
 translate fr a2_shizune_past_imperfective_0e4fad93:
 
     # "Like she said, sign language gives you a little more time to think about what you 'say.' I guess she feels like she can't talk about this."
-    "Comme elle a dit, le langage des signes donne un peu plus le temps de penser à ce qu'on 'dit'. J'imagine qu'elle a l'impression de ne pas pouvoir en parler."
+    "Comme elle a dit, la langue des signes donne un peu plus le temps de penser à ce qu'on 'dit'. J'imagine qu'elle a l'impression de ne pas pouvoir en parler."
 
 # game/script-a2-shizune.rpy:5135
 translate fr a2_shizune_past_imperfective_fafea6b5:

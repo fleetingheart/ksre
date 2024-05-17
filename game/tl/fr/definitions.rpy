@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-09-19 11:20
+# TODO: Translation updated at 2024-05-17 22:54
 
 translate fr strings:
 
@@ -1604,7 +1604,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "Hisao begins studying a new language, and a tutor appears."
-    new "Hisao commence à étudier un nouveau langage et un tuteur apparaît."
+    new "Hisao commence à étudier une nouvelle langue et un tuteur apparaît."
 
     # game/definitions.rpy:196
     old "Chinese Whispers"
@@ -1704,7 +1704,7 @@ translate fr strings:
 
     # game/definitions.rpy:196
     old "A request from Hideaki to learn sign language unexpectedly escalates into a shouting match with Jigoro."
-    new "Une requête de Hideaki pour apprendre le langage des signes se change improbablement en un concours de cris avec Jigoro."
+    new "Une requête de Hideaki pour apprendre la langue des signes se change improbablement en un concours de cris avec Jigoro."
 
     # game/definitions.rpy:196
     old "Closer"
