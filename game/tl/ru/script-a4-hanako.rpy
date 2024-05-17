@@ -7476,3 +7476,11 @@ translate ru strings:
     old "Trust my own judgment."
     new "Остаться при своём мнении."
 
+# TODO: Translation updated at 2024-05-17 04:41
+
+# game/script-a4-hanako.rpy:3420
+translate ru a4_hanako_whispered_touch_27005eb4:
+
+    # "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
+    "Следующая сцена будет пропущена на основании ваших настроек доступности. На следующем экране вы пропустите сцену и сюжет будет промотан до следующего утра. "
+

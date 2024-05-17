@@ -282,3 +282,15 @@ translate ru strings:
     old "Colorblind Filter"
     new "Цветовой фильтр"
 
+# TODO: Translation updated at 2024-05-17 04:41
+
+translate ru strings:
+
+    # game/screens.rpy:1059
+    old "Mental health"
+    new "Психическое здоровье"
+
+    # game/screens.rpy:1066
+    old "Skip hurtful adult scenes"
+    new "Пропуск сцен для взрослых, которые могут причинить боль"
+
