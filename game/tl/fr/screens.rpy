@@ -278,3 +278,13 @@ translate fr strings:
     old "This question will not be shown again after you start playing."
     new "Le jeu ne vous posera plus cette question après avoir commencé le jeu."
 
+# TODO: Translation updated at 2024-05-17 22:41
+translate fr strings:
+
+    # game/screens.rpy:1059
+    old "Mental health"
+    new "Santé mentale"
+
+    # game/screens.rpy:1066
+    old "Skip hurtful adult scenes"
+    new "Sauter les scènes pour adultes potentiellement blessantes"

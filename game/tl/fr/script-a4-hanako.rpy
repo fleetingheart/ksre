@@ -7476,3 +7476,9 @@ translate fr strings:
     old "Trust my own judgment."
     new "Faire confiance à mon propre avis."
 
+# TODO: Translation updated at 2024-05-17 22:47
+
+# game/script-a4-hanako.rpy:3240
+translate fr a4_hanako_whispered_touch_27005eb4:
+    # "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
+    "La scène qui va suivre est désactivée en raison de vos options d'accessibilité. En continuant après ce message, vous sauterez directement au jour suivant. "
