@@ -1063,7 +1063,7 @@ screen accessibility():
             vbox:
                 style_prefix "check"
 
-                textbutton _("Disable disturbing content") action ToggleVariable("persistent.disable_disturbing_content", True, False)
+                textbutton _("Skip hurtful adult scenes") action ToggleVariable("persistent.disable_disturbing_content", True, False)
 
             text _("Colorblind Filter"):
                 bold True
