@@ -4,7 +4,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:120
     old " (replay)"
-    new "(回放)"
+    new "（回放）"
 
     # game/definitions.rpy:124
     old "No scene"
@@ -28,7 +28,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:183
     old "Listening"
-    new "Hören"
+    new "正在听"
 
     # game/definitions.rpy:228
     old "Act 1"
@@ -44,7 +44,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "On a cold, snowy day, Hisao's dreams were about to be realized, only to be cut short by a sudden heart attack."
-    new "在一个雪花纷飞的寒冬之日，久夫的美梦实现了，却马上被突如其来的心脏病打碎。"
+    new "在一个雪花纷飞的寒冷冬日，久夫的美梦正将实现，却被突如其来的心脏病打碎。"
 
     # game/definitions.rpy:228
     old "Bundle of Hisao"
@@ -52,7 +52,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Hisao is told about Yamaku Academy, where he will likely spend the rest of his high school days."
-    new "久夫得知自己将在山久学院里渡过余下的高中生涯。"
+    new "久夫得知自己将在山久学院里度过剩下的高中生涯。"
 
     # game/definitions.rpy:228
     old "Act 1: Life Expectancy"
@@ -80,7 +80,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Misha and Shizune show Hisao the cafeteria, after which he goes to see the nurse."
-    new "米莎和静音带久夫去食堂，然后去了见护士长。"
+    new "米莎和静音带久夫去食堂，然后去见了护士长。"
 
     # game/definitions.rpy:228
     old "Nobody's Room"
@@ -96,7 +96,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Shizune and Misha tell Hisao about the upcoming festival and invite him to lunch."
-    new "静音和米莎给久夫介绍即将到来的校园祭，并邀请他一起吃午饭。"
+    new "静音和米莎向久夫介绍即将到来的校园祭，并邀请他一起吃午饭。"
 
     # game/definitions.rpy:228
     old "Risk vs. Reward"
@@ -112,11 +112,11 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Looking for the library, Hisao gets lost and finds Lilly in a disused classroom."
-    new "久夫在寻找图书馆时迷路，在某间空房中碰上莉莉。"
+    new "久夫在寻找图书馆时迷了路，在某间空房中偶遇莉莉。"
 
     # game/definitions.rpy:228
     old "Shared Library"
-    new "图书馆战争"
+    new "共享图书馆"
 
     # game/definitions.rpy:228
     old "Finally finding his way to the library, Hisao meets and scares off Hanako."
@@ -128,7 +128,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Kenji reveals the dark secrets of Yamaku."
-    new "健二深刻地揭露了山久背后的黑幕。"
+    new "健二揭露了山久学院背后的黑幕。"
 
     # game/definitions.rpy:228
     old "Lunch Evolution Theory"
@@ -144,7 +144,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "On his way to lunch alongside Misha and Shizune, Hisao collides with Emi in the hallway."
-    new "与米莎、静音结伴去吃午饭途中，久夫被笑美撞到在走廊。"
+    new "与米莎、静音结伴去吃午饭途中，久夫在走廊被笑美撞倒。"
 
     # game/definitions.rpy:228
     old "Meet Cute"
@@ -152,7 +152,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Hisao collides with a rampaging Emi on his way to lunch with Hanako and Lilly."
-    new "久夫和华子、莉莉一起去吃午饭，被横冲直撞的笑美撞到。"
+    new "久夫和华子、莉莉一起去吃午饭，被横冲直撞的笑美撞倒。"
 
     # game/definitions.rpy:228
     old "Detour Ahead"
@@ -208,7 +208,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "When attempting to do some morning exercise, Hisao meets Emi at the running track."
-    new "久夫开始尝试晨运，在田径场碰上了笑美。"
+    new "久夫开始尝试晨间运动，在田径场遇到了笑美。"
 
     # game/definitions.rpy:228
     old "Soap"
@@ -232,7 +232,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Shizune and Misha assault Hisao in an attempt to get him to join the Student Council."
-    new "静音和米莎伏击了久夫，想籍此拉他进学生会。"
+    new "静音和米莎伏击了久夫，想借此拉他进学生会。"
 
     # game/definitions.rpy:228
     old "Event Horizon"
@@ -252,7 +252,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Hanako and Hisao lend a hand to Lilly's class by volunteering to help build their stall."
-    new "华子和久夫自愿为莉莉的班帮忙做摊位。"
+    new "华子和久夫自愿为莉莉的班级帮忙做摊位。"
 
     # game/definitions.rpy:228
     old "Things You Can Do"
@@ -260,7 +260,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "After escaping from the clutches of Shizune and Misha, Hisao helps out Rin again."
-    new "溜出静音和米莎的包围后，久夫继续帮琳工作。"
+    new "逃离静音和米莎的包围后，久夫继续帮琳工作。"
 
     # game/definitions.rpy:228
     old "Exercise"
@@ -276,7 +276,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Kenji gives Hisao a few insider tips on how to socialize."
-    new "健二给久夫透露了一些社交圈的秘籍。"
+    new "健二给久夫透露了一些社交秘籍。"
 
     # game/definitions.rpy:228
     old "Home Field Advantage"
@@ -284,7 +284,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Shizune and Misha hijack Hisao as he leaves his room for class."
-    new "静音和米莎趁久夫走出教室时劫持了他。"
+    new "静音和米莎趁久夫离开房间去上课时劫持了他。"
 
     # game/definitions.rpy:228
     old "No Recovery"
@@ -312,7 +312,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Foot and Mouth"
-    new "足·口·心"
+    new "足与口"
 
     # game/definitions.rpy:228
     old "Emi drags Hisao to the roof to have lunch with Rin."
@@ -340,7 +340,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Emi finds Hisao slacking around after class and recruits him to help Rin once again."
-    new "笑美抓住课后四处闲逛的久夫，拉了他去给琳帮忙。"
+    new "笑美抓住课后四处闲逛的久夫，拉他去给琳帮忙。"
 
     # game/definitions.rpy:228
     old "Creative Pain"
@@ -372,7 +372,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Tea, cake and competitions with Shizune and Misha at the Shanghai."
-    new "和静音、米莎在“上海”享受茶、蛋糕、和意志的较量。"
+    new "与静音、米莎在“上海”享受茶、蛋糕、和意志的较量。"
 
     # game/definitions.rpy:228
     old "Quiet"
@@ -488,7 +488,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Hisao pays a visit to the nurse along with Emi, finding out that the two have known each other for a while."
-    new "久夫和笑美一起去拜访护士， 发现他们两个已经相互认识一段时间了。"
+    new "久夫和笑美一起去拜访护士，发现他们两个已经相互认识一段时间了。"
 
     # game/definitions.rpy:228
     old "Track Meeting"
@@ -580,7 +580,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Back to the track in the morning, with business as usual… or so it seems."
-    new "早晨再次回到跑道上,一切一往如常……或者说看起来是这样。"
+    new "早晨再次回到跑道上，一切一往如常……或者说看起来是这样。"
 
     # game/definitions.rpy:228
     old "Lunch and Science"
@@ -1456,7 +1456,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Boundless"
-    new "Grenzenlos"
+    new "无边界"
 
     # game/definitions.rpy:228
     old "Sae and Nomiya give Hisao some insight on artists' lives."
