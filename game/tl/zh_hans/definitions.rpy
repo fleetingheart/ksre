@@ -4,7 +4,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:120
     old " (replay)"
-    new " (回放)"
+    new "(回放)"
 
     # game/definitions.rpy:124
     old "No scene"
@@ -32,1427 +32,1427 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Act 1"
-    new "第一幕"
+    new "第一章"
 
     # game/definitions.rpy:228
     old "Prologue"
-    new "序幕"
+    new "序章"
 
     # game/definitions.rpy:228
     old "Out Cold"
-    new "Kaltstart"
+    new "冰冷雪天"
 
     # game/definitions.rpy:228
     old "On a cold, snowy day, Hisao's dreams were about to be realized, only to be cut short by a sudden heart attack."
-    new "An einem kalten, verschneiten Tag durchkreuzt ein Herzanfall Hisaos Träume, kurz bevor sie in Erfüllung gehen."
+    new "在一个雪花纷飞的寒冬之日，久夫的美梦实现了，却马上被突如其来的心脏病打碎。"
 
     # game/definitions.rpy:228
     old "Bundle of Hisao"
-    new "Hisao-Bündel"
+    new "久夫的重负"
 
     # game/definitions.rpy:228
     old "Hisao is told about Yamaku Academy, where he will likely spend the rest of his high school days."
-    new "Hisao erfährt von der Yamaku-Akademie, wo er wahrscheinlich den Rest seiner Schulzeit verbringen muss."
+    new "久夫得知自己将在山久学院里渡过余下的高中生涯。"
 
     # game/definitions.rpy:228
     old "Act 1: Life Expectancy"
-    new "Akt 1: Lebenserwartung"
+    new "第一章：展望余生"
 
     # game/definitions.rpy:228
     old "Gateway Effect"
-    new "Eintrittseffekt"
+    new "门关效应"
 
     # game/definitions.rpy:228
     old "Hisao steps into Yamaku Academy for the first time, and meets his homeroom teacher, Mutou."
-    new "Hisao betritt zum ersten Mal die Yamaku-Akademie und trifft seinen Klassenlehrer, Mutou."
+    new "久夫第一次踏入山久学院的大门，并且与他的班主任武藤见了面。"
 
     # game/definitions.rpy:228
     old "Enter Stage Left"
-    new "Auftritt von Links"
+    new "低调登场"
 
     # game/definitions.rpy:228
     old "Introductions to the class, and meeting with the class representative and her interpreter."
-    new "Vorstellung vor der Klasse und das Treffen mit der Klassensprecherin und ihrer Übersetzerin."
+    new "久夫向班级进行自我介绍，并与班长和她的翻译谈了谈。"
 
     # game/definitions.rpy:228
     old "In the Nursery"
-    new "Pflegerversicherung"
+    new "幼儿园保姆"
 
     # game/definitions.rpy:228
     old "Misha and Shizune show Hisao the cafeteria, after which he goes to see the nurse."
-    new "Misha und Shizune zeigen Hisao die Cafeteria, danach sucht er den Chefpfleger auf."
+    new "米莎和静音带久夫去食堂，然后去了见护士长。"
 
     # game/definitions.rpy:228
     old "Nobody's Room"
-    new "Niemandes Raum"
+    new "空荡的房间"
 
     # game/definitions.rpy:228
     old "Hisao moves into his new room, meeting his hallmate Kenji in the process."
-    new "Hisao bezieht sein neues Zimmer und trifft dabei auf seinen Flurnachbarn Kenji."
+    new "久夫搬进了新宿舍，顺便和舍友健二打了个招呼。"
 
     # game/definitions.rpy:228
     old "Smalltalk"
-    new "Smalltalk"
+    new "闲聊"
 
     # game/definitions.rpy:228
     old "Shizune and Misha tell Hisao about the upcoming festival and invite him to lunch."
-    new "Shizune und Misha erzählen Hisao vom anstehenden Schulfest und laden ihn zum Essen ein."
+    new "静音和米莎给久夫介绍即将到来的校园祭，并邀请他一起吃午饭。"
 
     # game/definitions.rpy:228
     old "Risk vs. Reward"
-    new "Risiko und Chance"
+    new "不入虎穴焉得虎子"
 
     # game/definitions.rpy:228
     old "Shizune and Hisao battle for the world in a game of Risk."
-    new "Shizune und Hisao kämpfen in einer Partie Risiko um die Weltherrschaft."
+    new "静音和久夫在“战国风云”游戏中逐鹿天下。"
 
     # game/definitions.rpy:228
     old "Pseudo Tea Cosy"
-    new "Orientierungslos"
+    new "谁解助茶香"
 
     # game/definitions.rpy:228
     old "Looking for the library, Hisao gets lost and finds Lilly in a disused classroom."
-    new "Auf der Suche nach der Bibliothek verläuft sich Hisao und trifft in einem ungenutzten Klassenzimmer auf Lilly."
+    new "久夫在寻找图书馆时迷路，在某间空房中碰上莉莉。"
 
     # game/definitions.rpy:228
     old "Shared Library"
-    new "Gemeinsame Bibliothek"
+    new "图书馆战争"
 
     # game/definitions.rpy:228
     old "Finally finding his way to the library, Hisao meets and scares off Hanako."
-    new "Nachdem Hisao endlich die Bibliothek gefunden hat, trifft und verschreckt er Hanako."
+    new "久夫终于找到图书馆，却碰上了华子，还把她吓跑了。"
 
     # game/definitions.rpy:228
     old "Bizarre and Surreal"
-    new "Bizarr und Surreal"
+    new "奇异与超现实"
 
     # game/definitions.rpy:228
     old "Kenji reveals the dark secrets of Yamaku."
-    new "Kenji enthüllt die finsteren Geheimnisse der Yamaku."
+    new "健二深刻地揭露了山久背后的黑幕。"
 
     # game/definitions.rpy:228
     old "Lunch Evolution Theory"
-    new "Evolutionstheorie zum Essen"
+    new "午餐天演论"
 
     # game/definitions.rpy:228
     old "Shizune and Misha badger Hisao into joining the Student Council before discussing lunch."
-    new "Shizune und Misha drängeln Hisao in den Schülerrat, bevor sie über das Mittagessen diskutieren."
+    new "静音和米莎在午饭前纠缠着久夫，想拉他进学生会。"
 
     # game/definitions.rpy:228
     old "Short Sharp Shock"
-    new "Kurz und Schmerzhaft"
+    new "天煞"
 
     # game/definitions.rpy:228
     old "On his way to lunch alongside Misha and Shizune, Hisao collides with Emi in the hallway."
-    new "Auf dem Weg zum Mittagessen mit Shizune und Misha kollidiert Hisao auf dem Flur mit Emi."
+    new "与米莎、静音结伴去吃午饭途中，久夫被笑美撞到在走廊。"
 
     # game/definitions.rpy:228
     old "Meet Cute"
-    new "Atemberaubend Niedlich"
+    new "一撞钟情"
 
     # game/definitions.rpy:228
     old "Hisao collides with a rampaging Emi on his way to lunch with Hanako and Lilly."
-    new "Auf dem Weg zum Mittagessen mit Hanako und Lilly kollidiert Hisao mit Emi, die über die Flure tobt."
+    new "久夫和华子、莉莉一起去吃午饭，被横冲直撞的笑美撞到。"
 
     # game/definitions.rpy:228
     old "Detour Ahead"
-    new "Umleitung Voraus"
+    new "柳暗花明"
 
     # game/definitions.rpy:228
     old "Shizune and Misha take Hisao to their favourite teahouse, the Shanghai."
-    new "Shizune und Misha bringen Hisao in ihr Lieblingsteehaus, das Shanghai."
+    new "静音和米莎带上久夫去她们最喜欢的茶坊：上海。"
 
     # game/definitions.rpy:228
     old "Sip (Part 1)"
-    new "Nippen (Teil 1)"
+    new "品味（第一部分）"
 
     # game/definitions.rpy:228
     old "Hisao has a peaceful lunch with Lilly and Hanako."
-    new "Hisao verbringt ein friedliches Mittagessen mit Lilly und Hanako."
+    new "久夫和莉莉、华子享用了一顿平静的午餐。"
 
     # game/definitions.rpy:228
     old "It Builds Character"
-    new "Stärkt den Charakter"
+    new "陶冶性情"
 
     # game/definitions.rpy:228
     old "Mutou tries to have a D&M talk with Hisao, but Misha interrupts and puts Hisao to work."
-    new "Mutou versucht ein ernstes Gespräch mit Hisao zu führen, aber Misha unterbricht sie und hat Arbeit für Hisao"
+    new "武藤和久夫交流近况，被米莎打断，还拉走久夫去当苦力。"
 
     # game/definitions.rpy:228
     old "A Private Lunch"
-    new "Eine Private Mahlzeit"
+    new "独享午餐"
 
     # game/definitions.rpy:228
     old "Searching for supplies, Hisao happens across a strange girl in the art room."
-    new "Auf der Suche nach Material stößt Hisao im Kunstraum auf ein seltsames Mädchen."
+    new "在寻找备用品时，久夫在美术室碰上了一个奇怪的女孩。"
 
     # game/definitions.rpy:228
     old "Waylay"
-    new "Wegelagerei"
+    new "伏击"
 
     # game/definitions.rpy:228
     old "While helping Rin carry some paint, Hisao is quizzed by the nurse."
-    new "Hisao hilft Rin, einige Farbdosen zu tragen, und wird von Doc ausgefragt."
+    new "久夫帮琳搬颜料，却被护士拉着问话。"
 
     # game/definitions.rpy:228
     old "The Other Green"
-    new "Das Andere Grün"
+    new "另一种风景"
 
     # game/definitions.rpy:228
     old "Hisao watches Rin paint her mural."
-    new "Hisao schaut Rin beim Malen des Wandgemäldes zu."
+    new "久夫看着琳画壁画。"
 
     # game/definitions.rpy:228
     old "The Running Girl"
-    new "Das Rennende Mädchen"
+    new "风一样的女孩"
 
     # game/definitions.rpy:228
     old "When attempting to do some morning exercise, Hisao meets Emi at the running track."
-    new "Beim ersten Frühsport begegnet Hisao auf dem Sportplatz Emi."
+    new "久夫开始尝试晨运，在田径场碰上了笑美。"
 
     # game/definitions.rpy:228
     old "Soap"
-    new "Seife"
+    new "肥皂剧"
 
     # game/definitions.rpy:228
     old "Kenji ambushes Hisao in the shower in an attempt to get some cash."
-    new "Kenji legt sich in der Dusche auf die Lauer, um Hisao etwas Geld abzuknöpfen."
+    new "健二在淋浴间逮住了久夫，说要借点钱。"
 
     # game/definitions.rpy:228
     old "Cold War"
-    new "Kalter Krieg"
+    new "暗战"
 
     # game/definitions.rpy:228
     old "Shizune and Lilly face off over budget requests."
-    new "Shizune und Lilly streiten sich über Budgetpläne."
+    new "静音跟莉莉在预算申请的问题上吵翻了脸。"
 
     # game/definitions.rpy:228
     old "Proof of Competency"
-    new "Kompetenznachweis"
+    new "资格证明"
 
     # game/definitions.rpy:228
     old "Shizune and Misha assault Hisao in an attempt to get him to join the Student Council."
-    new "Shizune und Misha überfallen Hisao und wollen ihn zu einem Teil des Schülerrats machen."
+    new "静音和米莎伏击了久夫，想籍此拉他进学生会。"
 
     # game/definitions.rpy:228
     old "Event Horizon"
-    new "Ereignishorizont"
+    new "黑洞边缘"
 
     # game/definitions.rpy:228
     old "Above and Beyond"
-    new "Erwartungen Übertreffen"
+    new "超越"
 
     # game/definitions.rpy:228
     old "Hisao gets a lecture about the noble duties of a Student Council."
-    new "Hisao bekommt einen Vortrag über die hehren Pflichten des Schülerrats."
+    new "久夫在学生会的光荣职责方面被上了生动的一课。"
 
     # game/definitions.rpy:228
     old "Paint by Numbers"
-    new "Malen nach Zahlen"
+    new "心灵拼图"
 
     # game/definitions.rpy:228
     old "Hanako and Hisao lend a hand to Lilly's class by volunteering to help build their stall."
-    new "Hanako und Hisao gehen Lillys Klasse zur Hand und helfen beim Bau ihres Standes."
+    new "华子和久夫自愿为莉莉的班帮忙做摊位。"
 
     # game/definitions.rpy:228
     old "Things You Can Do"
-    new "Was Du Tun Kannst"
+    new "力所能及的事情"
 
     # game/definitions.rpy:228
     old "After escaping from the clutches of Shizune and Misha, Hisao helps out Rin again."
-    new "Hisao entkommt den Fängen Shizunes und Mishas und hilft wieder Rin."
+    new "溜出静音和米莎的包围后，久夫继续帮琳工作。"
 
     # game/definitions.rpy:228
     old "Exercise"
-    new "Training"
+    new "锻炼"
 
     # game/definitions.rpy:228
     old "Another early morning sees Hisao running at the track with Emi."
-    new "An einem neuen Morgen sehen sich Hisao und Emi auf der Laufbahn wieder."
+    new "久夫第二天早起，继续和笑美在田径场上跑步。"
 
     # game/definitions.rpy:228
     old "Invisible Hat"
-    new "Der Unsichtbare Hut"
+    new "皇帝的新帽"
 
     # game/definitions.rpy:228
     old "Kenji gives Hisao a few insider tips on how to socialize."
-    new "Kenji gibt Hisao ein paar Insidertipps, wie er besser unter die Leute kommt."
+    new "健二给久夫透露了一些社交圈的秘籍。"
 
     # game/definitions.rpy:228
     old "Home Field Advantage"
-    new "Heimvorteil"
+    new "主场优势"
 
     # game/definitions.rpy:228
     old "Shizune and Misha hijack Hisao as he leaves his room for class."
-    new "Shizune und Misha schnappen sich Hisao, als er zum Unterricht will."
+    new "静音和米莎趁久夫走出教室时劫持了他。"
 
     # game/definitions.rpy:228
     old "No Recovery"
-    new "Keine Erholung"
+    new "尚未复苏"
 
     # game/definitions.rpy:228
     old "Hisao struggles to class after his hijacking by the Student Council."
-    new "Hisao quält sich zum Unterricht, nachdem er vom Schülerrat kassiert worden ist."
+    new "被学生会拉走后，久夫挣扎着回到教室。"
 
     # game/definitions.rpy:228
     old "Slow Recovery"
-    new "Langsame Erholung"
+    new "缓慢复苏"
 
     # game/definitions.rpy:228
     old "Recovering from his heart flutter, Hisao eventually makes it to class."
-    new "Hisao erholt sich von seinem Herzflimmern und schafft es noch zum Unterricht."
+    new "久夫从旧病复发中回过神来，赶上了课时。"
 
     # game/definitions.rpy:228
     old "No Free Lunch"
-    new "Nichts ist Umsonst"
+    new "天上不可能掉馅饼"
 
     # game/definitions.rpy:228
     old "Hisao is escorted to the student council office for his first official day there."
-    new "Hisao wird an seinem ersten Tag im Amt zum Schülerratsbüro eskortiert."
+    new "学生会工作第一天，久夫被“护送”到办公室。"
 
     # game/definitions.rpy:228
     old "Foot and Mouth"
-    new "Hand und Fuß"
+    new "足·口·心"
 
     # game/definitions.rpy:228
     old "Emi drags Hisao to the roof to have lunch with Rin."
-    new "Emi schleppt Hisao auf das Dach der Schule, um dort zusammen mit Rin zu essen."
+    new "笑美拽着久夫上楼顶和琳一起吃饭。"
 
     # game/definitions.rpy:228
     old "Mind Your Step"
-    new "Ohne Ziel"
+    new "路在脚下"
 
     # game/definitions.rpy:228
     old "Hisao and Lilly go shopping, meeting a very confused Rin on the way back."
-    new "Hisao und Lilly gehen einkaufen und treffen auf dem Rückweg eine sehr verwirrte Rin."
+    new "久夫和莉莉一起去买东西，路上碰上找不着北的琳。"
 
     # game/definitions.rpy:228
     old "Support"
-    new "Unterstützung"
+    new "援助"
 
     # game/definitions.rpy:228
     old "Hisao has his first Saturday lesson, complete with a talking to from Mutou."
-    new "Hisao hat seinen ersten Samstagsunterricht und ein ernstes Gespräch mit Mutou."
+    new "久夫第一次上周六的课，被武藤拉去谈话。"
 
     # game/definitions.rpy:228
     old "An Aesthetics"
-    new "Farbenleere"
+    new "美学"
 
     # game/definitions.rpy:228
     old "Emi finds Hisao slacking around after class and recruits him to help Rin once again."
-    new "Emi entdeckt Hisao beim Nichtstun und rekrutiert ihn wieder einmal, um Rin zu Helfen."
+    new "笑美抓住课后四处闲逛的久夫，拉了他去给琳帮忙。"
 
     # game/definitions.rpy:228
     old "Creative Pain"
-    new "Wehen des Schaffens"
+    new "创作的创伤"
 
     # game/definitions.rpy:228
     old "Hisao meets the art teacher, Nomiya, as Rin paints her mural."
-    new "Hisao trifft den Kunstlehrer Nomiya, während Rin an ihrem Wandgemälde arbeitet."
+    new "久夫与教美术的野宫老师见面，琳则在一旁画壁画。"
 
     # game/definitions.rpy:228
     old "Proper Exercise"
-    new "Richtiges Training"
+    new "适当锻练"
 
     # game/definitions.rpy:228
     old "Emi and Hisao discuss the importance of being in shape."
-    new "Emi und Hisao besprechen, wie wichtig es ist, in Form zu sein."
+    new "笑美和久夫讨论保持身体健康的重要性。"
 
     # game/definitions.rpy:228
     old "Sip (Part 2)"
-    new "Nippen (Teil 2)"
+    new "品味（第二部分）"
 
     # game/definitions.rpy:228
     old "In an attempt to kill time, Hisao goes for a walk around the school."
-    new "Um Zeit totzuschlagen, macht Hisao sich zu einen Spaziergang um die Schule auf"
+    new "闲极无聊的久夫绕着学校逛。"
 
     # game/definitions.rpy:228
     old "Shanghaied"
-    new "Schanghaien"
+    new "上海滩"
 
     # game/definitions.rpy:228
     old "Tea, cake and competitions with Shizune and Misha at the Shanghai."
-    new "Tee, Kuchen und Wettstreit mit Shizune und Misha im Shanghai."
+    new "和静音、米莎在“上海”享受茶、蛋糕、和意志的较量。"
 
     # game/definitions.rpy:228
     old "Quiet"
-    new "Stille"
+    new "嘘……"
 
     # game/definitions.rpy:228
     old "Hanako and Hisao read books for the festival."
-    new "Hanako und Hisao lesen zusammen Bücher vor dem Schulfest."
+    new "华子和久夫在校园祭之前埋头读书。"
 
     # game/definitions.rpy:228
     old "Don't Panic"
-    new "Keine Panik"
+    new "不要恐慌"
 
     # game/definitions.rpy:228
     old "After waking up on the day of the festival, Hisao is greeted by a ranting Kenji."
-    new "Hisao wacht am Tag des Schulfestes auf und wird von einem fluchenden Kenji begrüßt."
+    new "在校园祭当天醒来，久夫碰上了满腹牢骚的健二。"
 
     # game/definitions.rpy:228
     old "Is Carnival!"
-    new "Karneval!"
+    new "饮食男女！"
 
     # game/definitions.rpy:228
     old "Emi catches Hisao eating fried food and makes him accompany her as punishment."
-    new "Emi ertappt Hisao beim Fastfoodessen und zwingt ihn zur Strafe, sie den ganzen Tag zu begleiten."
+    new "笑美逮住想吃油炸食品的久夫，要他陪她逛校园祭作为惩罚。"
 
     # game/definitions.rpy:228
     old "Clouds in My Head"
-    new "Wolken in meinem Kopf"
+    new "野鹤闲云无觅处"
 
     # game/definitions.rpy:228
     old "Hisao keeps Rin and her now-finished mural company."
-    new "Hisao leistet Rin und ihrem vollendeten Wandgemälde Gesellschaft."
+    new "久夫一直陪着琳，还有她已经完成的壁画。"
 
     # game/definitions.rpy:228
     old "Promise of Time"
-    new "Versprechen der Zeit"
+    new "永恒的承诺"
 
     # game/definitions.rpy:228
     old "After a trying morning at her stall, Hisao takes Lilly to find Hanako."
-    new "Nach einem anstrengendem Vormittag an ihrem Stand begleitet Hisao Lilly auf der Suche nach Hanako."
+    new "在摊位上忙了半天后，久夫带着莉莉去找华子。"
 
     # game/definitions.rpy:228
     old "Unable to help Lilly at her stall, Hisao searches for Hanako at the festival."
-    new "Hisao kann Lilly am Stand nicht helfen und macht sich auf die Suche nach Hanako."
+    new "认为在莉莉的摊位上也帮不上忙，久夫在校园祭中寻找华子。"
 
     # game/definitions.rpy:228
     old "Movement"
-    new "Bewegung"
+    new "活动"
 
     # game/definitions.rpy:228
     old "Lilly finishes her duties and treats Hanako and Hisao to tea at the Shanghai."
-    new "Lilly ist mit ihrem Dienst fertig und läd Hanako und Hisao zum Tee ins Shanghai ein."
+    new "莉莉完成了她的指责，并在“上海”款待华子和久夫喝茶。"
 
     # game/definitions.rpy:228
     old "Throwing Balls"
-    new "Bälle Werfen"
+    new "掷球"
 
     # game/definitions.rpy:228
     old "True to his word, Hisao spends the day with Shizune and Misha."
-    new "Hisao hält sein Versprechen und verbringt den Tag mit Shizune und Misha."
+    new "久夫信守了承诺，整天陪着静音和米莎。"
 
     # game/definitions.rpy:228
     old "The Deep End"
-    new "In die Tiefe"
+    new "无底深渊"
 
     # game/definitions.rpy:228
     old "Kenji and Hisao share a manly picnic on the roof instead of going to the festival."
-    new "Kenji und Hisao machen ein männliches Picknick auf dem Dach, anstatt zum Schulfest zu gehen."
+    new "健二和久夫在屋顶分享纯爷们的野餐，没去逛校园祭。"
 
     # game/definitions.rpy:228
     old "Emi"
-    new "Emi"
+    new "笑美"
 
     # game/definitions.rpy:228
     old "Act 2: Form"
-    new "Akt 2: Form"
+    new "第二章：形成"
 
     # game/definitions.rpy:228
     old "Morning Run"
-    new "Frühsport"
+    new "晨跑"
 
     # game/definitions.rpy:228
     old "The first of Hisao's many morning runs with Emi."
-    new "Das erste von Hisaos vielen morgendlichen Trainings mit Emi."
+    new "久夫和笑美的第一次共同晨跑。"
 
     # game/definitions.rpy:228
     old "Clouds, Time Travel, and Thou"
-    new "Wolken, Zeitreisen und Du"
+    new "云，时间旅行，和你"
 
     # game/definitions.rpy:228
     old "Another rooftop lunch with Emi and Rin. Emi extracts from Hisao a promise to come see the track meet."
-    new "Ein weiteres Mittagessen auf dem Dach mit Emi und Rin. Emi entlockt Hisao das Versprechen zum Sportfest zu kommen."
+    new "与笑美和琳的又一次天台午餐，笑美让久夫许下来看田径运动会的承诺。"
 
     # game/definitions.rpy:228
     old "Questions That Need Answering!"
-    new "Fragen ohne Antworten"
+    new "回答问题！"
 
     # game/definitions.rpy:228
     old "Idle chat between Emi and Hisao. Hisao asks Emi a few more questions about her relationship with Rin."
-    new "Smalltalk zwischen Emi und Hisao. Hisao fragt Emi über ihre Beziehung zu Rin aus."
+    new "笑美与久夫的闲聊，久夫询问了笑美一些关于她和琳的关系的问题。"
 
     # game/definitions.rpy:228
     old "Second Time's the Worst"
-    new "Das Zweite Mal ist das Schlimmste"
+    new "无比糟糕的第二次"
 
     # game/definitions.rpy:228
     old "The second morning run. Hisao is almost dragged kicking and screaming around the track."
-    new "Das zweite Morgentraining. Hisao quält sich über den Sportplatz."
+    new "第二次晨跑，久夫几乎是被强拉硬拽的跑着。"
 
     # game/definitions.rpy:228
     old "An Apple a Day"
-    new "Ein gelöstes Siegel"
+    new "一天一苹果"
 
     # game/definitions.rpy:228
     old "Hisao pays a visit to the nurse along with Emi, finding out that the two have known each other for a while."
-    new "Hisao besucht mit Emi zusammen Doc und findet heraus, dass die beiden sich schon länger kennen."
+    new "久夫和笑美一起去拜访护士， 发现他们两个已经相互认识一段时间了。"
 
     # game/definitions.rpy:228
     old "Track Meeting"
-    new "Wettrennen"
+    new "田径运动会"
 
     # game/definitions.rpy:228
     old "The day of the track meet. Another facet of Emi's personality is revealed."
-    new "Das Sportfest. Eine weitere Facette von Emis Persönlichkeit wird enthüllt."
+    new "田径运动会当天，笑美显露出了个性的另一面。"
 
     # game/definitions.rpy:228
     old "Down that Medicine Now"
-    new "Es ist Arznei, nicht Gift…"
+    new "马上吃药"
 
     # game/definitions.rpy:228
     old "Hisao mentions a pain in his chest during a visit to the nurse and receives a lecture."
-    new "Hisao erwähnt bei einem Besuch bei Doc einen Brustschmerz und wird zurechtgewiesen."
+    new "久夫在拜访护士的时候提到胸口的疼痛，然后被护士上了一课。"
 
     # game/definitions.rpy:228
     old "Piracy on the High Seas"
-    new "Piraten der Sieben Meere"
+    new "公海上的海盗"
 
     # game/definitions.rpy:228
     old "Hisao discusses his future as a pirate with Emi on the rooftop, then a letter from Iwanako spoils his day."
-    new "Hisao bespricht seine Zukunft als Pirat mit Emi auf dem Dach, dann verdirbt ihm ein Brief von Iwanako den Tag."
+    new "久夫和笑美在屋顶上讨论未来想要成为一名海盗的事情，然后一封来自岩鱼子的信毁了他的这一天。"
 
     # game/definitions.rpy:228
     old "Famous Last Words"
-    new "Berühmte Letzte Worte"
+    new "著名的遗言"
 
     # game/definitions.rpy:228
     old "Emi and Rin take Hisao along for a picnic, soon to be spoiled by rain."
-    new "Emi und Rin nehmen Hisao mit auf ein Picknick, das bald von Regen unterbrochen wird."
+    new "笑美和琳带着久夫去野餐，但是不久后被一场雨毁了。"
 
     # game/definitions.rpy:228
     old "Tracking Absences"
-    new "Laufend Abwesend"
+    new "晨跑缺席"
 
     # game/definitions.rpy:228
     old "Hisao goes to the track as usual, but Emi is missing."
-    new "Hisao geht wie üblich zum Sportplatz, aber Emi ist nicht da."
+    new "久夫和往常一样来到跑道，但是笑美却不在。"
 
     # game/definitions.rpy:228
     old "Dropping By"
-    new "Besuchszeit"
+    new "拜访"
 
     # game/definitions.rpy:228
     old "A bedside visit for a sick Emi, which quickly changes to something else entirely."
-    new "Ein Krankenbesuch bei Emi, der sich schnell zu etwas ganz anderem entwickelt."
+    new "探望病中的笑美，之后发生了出人意料的展开。"
 
     # game/definitions.rpy:228
     old "The First Morning After"
-    new "Der Erste Morgen Danach"
+    new "之后的第一个早晨"
 
     # game/definitions.rpy:228
     old "Hisao reminisces about last evening, deciding to do something to help Emi."
-    new "Hisao denkt über den vorigen Abend nach und beschließt, etwas für Emi zu tun."
+    new "久夫回味着昨晚的一切，决定帮助笑美。"
 
     # game/definitions.rpy:228
     old "The (Real) Beginning"
-    new "Der (Wahre) Anfang"
+    new "（真正的）开始"
 
     # game/definitions.rpy:228
     old "Another lunchtime on the rooftop, sans Rin."
-    new "Ein weiteres Mittagessen auf dem Dach - dieses Mal ohne Rin."
+    new "屋顶的又一次午餐，琳不在。"
 
     # game/definitions.rpy:228
     old "Act 3: Perspective"
-    new "Akt 3: Perspektive"
+    new "第三章：远景"
 
     # game/definitions.rpy:228
     old "Eet Ees… Scienca"
-    new "Eet Ees… Scienca"
+    new "这是……科学"
 
     # game/definitions.rpy:228
     old "Mutou pulls Hisao into a short discussion about his future."
-    new "Mutou führt mit Hisao ein kurzes Gespräch über dessen Zukunft."
+    new "武藤将久夫拉入一个关于他未来的简短谈论。"
 
     # game/definitions.rpy:228
     old "Definitions"
-    new "Definitionen"
+    new "定义"
 
     # game/definitions.rpy:228
     old "Emi and Hisao attempt another picnic, this time without any intervention from Mother Nature."
-    new "Emi und Hisao probieren ein weiteres Picknick, dieses Mal ohne Eingriffe von Mutter Natur."
+    new "笑美和久夫又去野餐，这次没有被大自然打扰。"
 
     # game/definitions.rpy:228
     old "Invisible Rock"
-    new "Stolperfalle"
+    new "看不见的岩石"
 
     # game/definitions.rpy:228
     old "Back to the track in the morning, with business as usual… or so it seems."
-    new "Morgens zurück auf dem Sportplatz; alles wie immer… so scheint es zumindest."
+    new "早晨再次回到跑道上,一切一往如常……或者说看起来是这样。"
 
     # game/definitions.rpy:228
     old "Lunch and Science"
-    new "Mittagessen und Wissenschaft"
+    new "午餐与科学"
 
     # game/definitions.rpy:228
     old "Hisao sees Mutou again about his future in the sciences."
-    new "Hisao spricht wieder mit Mutou über seine Zukunft in der Wissenschaft."
+    new "久夫又去和武藤讨论关于他在理科方面的未来的事情。"
 
     # game/definitions.rpy:228
     old "Up, Down, and Up Again"
-    new "Hoch, Runter und wieder Hoch"
+    new "上，下，再上"
 
     # game/definitions.rpy:228
     old "A frantic call from Emi brings Hisao to her room, where two surprises await him."
-    new "Ein panischer Anruf von Emi bringt Hisao zu ihrem Zimmer, wo ihn zwei Überraschungen erwarten."
+    new "一通狂乱的电话将久夫叫到了笑美的房间，在那里有两件意外的事情在等着他。"
 
     # game/definitions.rpy:228
     old "Storage Space"
-    new "Stauraum"
+    new "仓库"
 
     # game/definitions.rpy:228
     old "Emi coaxes Hisao into the track storage shed."
-    new "Emi lockt Hisao in den Materialschuppen am Sportplatz."
+    new "笑美将久夫骗进了田径场旁的仓库里。"
 
     # game/definitions.rpy:228
     old "After-School Plans"
-    new "Nach der Schule"
+    new "课后计划"
 
     # game/definitions.rpy:228
     old "Emi has a serious talk with Hisao about the incoming exams."
-    new "Emi hat ein ernstes Gespräch mit Hisao über die anstehenden Prüfungen."
+    new "笑美和久夫为即将到来的考试进行了一次严肃的谈话。"
 
     # game/definitions.rpy:228
     old "Detached"
-    new "Losgelöst"
+    new "分离"
 
     # game/definitions.rpy:228
     old "Hisao broods about his relationship with Emi."
-    new "Hisao denkt über seine Beziehung mit Emi nach."
+    new "久夫为他和笑美的关系陷入了沉思。"
 
     # game/definitions.rpy:228
     old "Phantom Pain"
-    new "Phantomschmerz"
+    new "幻痛"
 
     # game/definitions.rpy:228
     old "Hisao's attempt to show Emi his concern doesn't go nearly as well as he hoped."
-    new "Hisaos Versuch, mit Emi über seine Sorgen zu reden, läuft nicht so gut wie er gehofft hatte."
+    new "久夫试图表达对笑美的关心，但是几乎没有达到他所希望的效果。"
 
     # game/definitions.rpy:228
     old "Debate Expresses Doubt"
-    new "Debatte unentschieden"
+    new "争论表达疑惑"
 
     # game/definitions.rpy:228
     old "Hisao is confused by Emi's behavior and by an invitation to her house."
-    new "Hisao ist verwirrt von Emi's Verhalten und von einer Einladung zu ihr nach Hause."
+    new "久夫对笑美的行为感到困惑，并被邀请到她的家里。"
 
     # game/definitions.rpy:228
     old "Guess Who's Coming… Never Mind"
-    new "Rate wer zum Essen kommt"
+    new "猜猜谁来了……别在意"
 
     # game/definitions.rpy:228
     old "Dinner at the Ibarazaki's."
-    new "Abendessen bei den Ibarazakis."
+    new "茨崎家的晚餐。"
 
     # game/definitions.rpy:228
     old "Instant Replay"
-    new "Letzte Chance"
+    new "即时回放"
 
     # game/definitions.rpy:228
     old "Things finally come to a head at the track."
-    new "Auf dem Sportplatz kommt es zur alles entscheidenden Begegnung."
+    new "一切最终又回到了跑道的起点。"
 
     # game/definitions.rpy:228
     old "Act 4: Motion"
-    new "Akt 4: Bewegung"
+    new "第四章：行动"
 
     # game/definitions.rpy:228
     old "A Swing and a Miss"
-    new "Schwung, Schlag… und Vorbei"
+    new "秋千上的小姐"
 
     # game/definitions.rpy:228
     old "Hisao wonders if Emi is purposefully avoiding him."
-    new "Hisao fragt sich, ob Emi ihm absichtlich aus dem Weg geht."
+    new "久夫想知道笑美是不是刻意躲着自己。"
 
     # game/definitions.rpy:228
     old "Saving Throw"
-    new "Rettungswurf"
+    new "豁免检定"
 
     # game/definitions.rpy:228
     old "Things finally come to a head on the rooftop."
-    new "Auf dem Dach kommt es zur alles entscheidenden Begegnung."
+    new "事情终于在屋顶迎来高潮。"
 
     # game/definitions.rpy:228
     old "Whispers of the Past"
-    new "Stimmen der Vergangenheit"
+    new "过去的低语"
 
     # game/definitions.rpy:228
     old "Hisao, Emi and her mom go for a graveside visit."
-    new "Hisao, Emi und ihre Mutter besuchen ein Grab."
+    new "久夫、笑美和她的妈妈一起去上坟。"
 
     # game/definitions.rpy:228
     old "Hooray for Socks"
-    new "Ein Hoch auf Socken"
+    new "短袜万岁"
 
     # game/definitions.rpy:228
     old "Sex, drugs, but no rock and roll."
-    new "Sex, Drogen, aber kein Rock and Roll."
+    new "性，毒品，但是没有摇滚。"
 
     # game/definitions.rpy:228
     old "Clean Teeth"
-    new "Saubere Zähne"
+    new "清洁牙齿"
 
     # game/definitions.rpy:228
     old "Hisao wakes up, finding Emi sleeping next to him."
-    new "Hisao wacht auf, während Emi neben ihm schläft."
+    new "久夫醒过来，发现笑美睡在自己身边。"
 
     # game/definitions.rpy:228
     old "Hanako"
-    new "Hanako"
+    new "华子"
 
     # game/definitions.rpy:228
     old "Act 2: Hide and Seek"
-    new "Akt 2: Versteckspiel"
+    new "第二章：捉迷藏"
 
     # game/definitions.rpy:228
     old "To Town, To Town"
-    new "Auf in die Stadt"
+    new "小镇，小镇"
 
     # game/definitions.rpy:228
     old "A shopping trip at the convenience store with Hanako."
-    new "Eine Einkaufstour zusammen mit Hanako."
+    new "和华子去便利店的购物之旅。"
 
     # game/definitions.rpy:228
     old "Tea Leaves"
-    new "Teeblätter"
+    new "茶渣"
 
     # game/definitions.rpy:228
     old "Hanako invites Hisao to have lunch with her and Lilly."
-    new "Hanako lädt Hisao ein, mit Ihr und Lilly zu essen."
+    new "华子邀请久夫和她还有莉莉共进午餐。"
 
     # game/definitions.rpy:228
     old "Office Confessional"
-    new "Beichtbüro"
+    new "办公室里的忏悔"
 
     # game/definitions.rpy:228
     old "Hisao and Misha discuss the plight of Hanako."
-    new "Hisao und Misha unterhalten sich über Hanakos Probleme."
+    new "久夫和米莎讨论关于华子的境况。"
 
     # game/definitions.rpy:228
     old "Chess and Slides"
-    new "Schach und Achterbahnen"
+    new "国际象棋与幻灯片"
 
     # game/definitions.rpy:228
     old "Hisao ditches the Student Council to read with Hanako."
-    new "Hisao reißt vor dem Schülerrat aus, um mit Hanako zu lesen."
+    new "久夫丢开学生会的事务和华子一起读书。"
 
     # game/definitions.rpy:228
     old "Rise and Shine"
-    new "Frühaufsteher"
+    new "旭日高照"
 
     # game/definitions.rpy:228
     old "An invitation from Lilly to a tea party after hours."
-    new "Eine Einladung von Lilly zu einer abendlichen Teeparty."
+    new "来自莉莉的课后茶会的邀请。"
 
     # game/definitions.rpy:228
     old "Mad Hatter"
-    new "Der Verrückte Hutmacher"
+    new "疯帽子先生"
 
     # game/definitions.rpy:228
     old "Hanako, Hisao and Lilly meet together to have tea in Lilly's room."
-    new "Hanako, Hisao und Lilly treffen sich zum Teetrinken in Lillys Zimmer."
+    new "华子、久夫和莉莉在莉莉的房间里开茶会。"
 
     # game/definitions.rpy:228
     old "Small Change"
-    new "Kleingeld"
+    new "零钱"
 
     # game/definitions.rpy:228
     old "Kenji is forced to repay his loan."
-    new "Kenji wird gezwungen seinen Kredit abzubezahlen."
+    new "健二被迫偿还他的欠债。"
 
     # game/definitions.rpy:228
     old "Absenteeism"
-    new "Abwesenheit"
+    new "旷课"
 
     # game/definitions.rpy:228
     old "Hisao and Lilly discuss Hanako's school attendance."
-    new "Hisao und Lilly unterhalten sich über Hanakos Anwesenheitsquote."
+    new "久夫和莉莉讨论华子没有来学校的事。"
 
     # game/definitions.rpy:228
     old "Equivalent Exchange"
-    new "Äquivalenter Austausch"
+    new "等价交换"
 
     # game/definitions.rpy:228
     old "In return for learning about his heart, Hanako reveals part of her past to Hisao."
-    new "Nachdem Hisao ihr von seinem Herzen erzählt hat, erzählt Hanako ihm etwas über ihre Vergangenheit."
+    new "作为知道了久夫心脏问题的交换，华子告诉了他一些关于自己过去的事情。"
 
     # game/definitions.rpy:228
     old "Act 3: Castling"
-    new "Akt 3: Rochaden"
+    new "第三章：王车易位"
 
     # game/definitions.rpy:228
     old "Invitation"
-    new "Einladung"
+    new "邀请"
 
     # game/definitions.rpy:228
     old "Lilly finds Hisao cleaning up the Tea Room and tells him about Hanako's birthday."
-    new "Lilly trifft Hisao beim Aufräumen des Teeraums und erzählt ihm von Hanakos Geburtstag."
+    new "莉莉找久夫帮忙打扫茶室并告诉了他关于华子生日的事情。"
 
     # game/definitions.rpy:228
     old "Shady Encounter"
-    new "Begegnung im Schatten"
+    new "秘密偶遇"
 
     # game/definitions.rpy:228
     old "An unexpected chat with Miki while reminiscing about the past."
-    new "Erinnerungen an die Vergangenheit und ein unerwartetes Gespräch mit Miki."
+    new "回忆过去时和美纪一场意想不到的聊天。"
 
     # game/definitions.rpy:228
     old "Antiques and Pie"
-    new "Antiquitäten und Kuchen"
+    new "古玩和派"
 
     # game/definitions.rpy:228
     old "Lilly and Hisao shop for a present in the city."
-    new "Lilly und Hisao kaufen in der Stadt Geschenke ein."
+    new "莉莉和久夫到城里买礼物。"
 
     # game/definitions.rpy:228
     old "Falling"
-    new "Fallen"
+    new "坠落"
 
     # game/definitions.rpy:228
     old "Hanako has a panic attack during class."
-    new "Hanako hat im Unterricht einen Panikanfall."
+    new "华子在上课时惊恐发作。"
 
     # game/definitions.rpy:228
     old "Treading Softly"
-    new "Auf Leisen Sohlen"
+    new "蹑手蹑脚"
 
     # game/definitions.rpy:228
     old "Lilly has bad news to discuss with Hisao and Hanako."
-    new "Lilly hat schlechte Nachrichten für Hisao und Hanako."
+    new "莉莉告诉久夫和华子一个坏消息。"
 
     # game/definitions.rpy:228
     old "Reaching Out"
-    new "Sich Sorgen"
+    new "伸出援手"
 
     # game/definitions.rpy:228
     old "Hisao reaches out to a withdrawn Hanako."
-    new "Hisao sorgt sich um Hanako, die sich auf ihr Zimmer zurückgezogen hat."
+    new "久夫向孤独的华子伸出援手。"
 
     # game/definitions.rpy:228
     old "One More Year"
-    new "Ein Jahr Älter"
+    new "又一年"
 
     # game/definitions.rpy:228
     old "Our trio is joined by an unexpected guest as they celebrate Hanako's birthday party."
-    new "Ein unerwarteter Gast erscheint zu Hanakos Geburtstagsfeier."
+    new "我们三人在庆祝华子生日的派对上迎来了一位意想不到的客人。"
 
     # game/definitions.rpy:228
     old "One Piece of Paper"
-    new "Ein Blatt Papier"
+    new "一封信"
 
     # game/definitions.rpy:228
     old "Hisao enjoys his first hangover, before receiving a troubling letter."
-    new "Hisao genießt seinen ersten Kater, und erhält dann einen unerwünschten Brief."
+    new "久夫享受着自己的第一次宿醉，直到收到一封令人不安的信。"
 
     # game/definitions.rpy:228
     old "Stripes and Solids"
-    new "Volle und Halbe"
+    new "条纹和固体"
 
     # game/definitions.rpy:228
     old "Heart-to-heart during a game of pool."
-    new "Aussprache bei einem Billardspiel."
+    new "游泳池里的谈心。"
 
     # game/definitions.rpy:228
     old "Beginning of the End"
-    new "Anfang vom Ende"
+    new "终结的开始"
 
     # game/definitions.rpy:228
     old "Lilly's departure for her trip."
-    new "Lillys Abreise nach Schottland."
+    new "莉莉离开去旅行。"
 
     # game/definitions.rpy:228
     old "Act 4: Scars"
-    new "Akt 4: Narben"
+    new "第四章：疤痕"
 
     # game/definitions.rpy:228
     old "Truancy"
-    new "Fehlzeiten"
+    new "逃学"
 
     # game/definitions.rpy:228
     old "Lunch with the Student Council and worry about Hanako shutting herself in."
-    new "Mittagessen mit dem Schülerrat und Sorge um Hanako, die sich in ihrem Zimmer einschließt."
+    new "和学生会一起午餐并担心着华子的自我封闭。"
 
     # game/definitions.rpy:228
     old "Faraway Presence"
-    new "Ferne Präsenz"
+    new "遥远的存在"
 
     # game/definitions.rpy:228
     old "Hisao phones Lilly for advice after Hanako secludes herself for another day."
-    new "Hisao bittet Lilly per Telefon um Rat, nachdem Hanako sich einen weiteren Tag nicht blicken lässt."
+    new "在华子封闭自己又一天之后久夫打电话给莉莉寻求帮助。"
 
     # game/definitions.rpy:228
     old "Misstep"
-    new "Fehltritt"
+    new "失足"
 
     # game/definitions.rpy:228
     old "Hisao tries to pull Hanako out of her room, with startling results."
-    new "Hisao versucht, Hanako aus ihrem Zimmer zu holen - mit überraschendem Ergebnis."
+    new "久夫试着把华子从她的房间里拉出来，结果却令人吃惊。"
 
     # game/definitions.rpy:228
     old "Cut Petals"
-    new "Schnittblumen"
+    new "心如刀割"
 
     # game/definitions.rpy:228
     old "Hisao finds his future relationship with Hanako prematurely ended."
-    new "Hisaos zukünftige Beziehung mit Hanako wird vorzeitig beendet."
+    new "久夫发现他和华子未来的关系过早的结束了。"
 
     # game/definitions.rpy:228
     old "Continuing Melody"
-    new "Das Leben Geht Weiter"
+    new "持续的旋律"
 
     # game/definitions.rpy:228
     old "Hanako returns to class, to Hisao's relief."
-    new "Hanako kommt zu Hisaos Erleichterung in die Klasse zurück."
+    new "令久夫欣慰的是，华子回来上课了。"
 
     # game/definitions.rpy:228
     old "Shanghai Studiousness"
-    new "Studium im Shanghai"
+    new "在“上海”学习"
 
     # game/definitions.rpy:228
     old "Attempting to avoid distractions, Hisao tries studying at the Shanghai."
-    new "Um Ablenkungen zu vermeiden, geht Hisao zum Lernen ins Shanghai."
+    new "为了避免干扰，久夫试着在“上海”里学习。"
 
     # game/definitions.rpy:228
     old "His Past"
-    new "Seine Vergangenheit"
+    new "他的过去"
 
     # game/definitions.rpy:228
     old "In an attempt to come closer to Hanako, Hisao shares a part of his past with her."
-    new "Um Hanako näher zu kommen, erzählt Hisao ihr von seiner Vergangenheit."
+    new "为了更加贴近华子，久夫和她分享了自己一些过去的事。"
 
     # game/definitions.rpy:228
     old "City Rendezvous"
-    new "Rendevouz in der Stadt"
+    new "城中约会"
 
     # game/definitions.rpy:228
     old "The two share a date in the city."
-    new "Die zwei gehen zusammen in die Stadt."
+    new "两个人在城里约会。"
 
     # game/definitions.rpy:228
     old "Whispered Touch"
-    new "Geflüsterte Berührung"
+    new "轻声触碰"
 
     # game/definitions.rpy:228
     old "Hisao and Hanako spend the night together."
-    new "Hisao und Hanako verbringen die Nacht zusammen."
+    new "久夫和华子共度一夜。"
 
     # game/definitions.rpy:228
     old "Indeterminate Future"
-    new "Unbestimmte Zukunft"
+    new "不确定的未来"
 
     # game/definitions.rpy:228
     old "The events of the previous night weigh heavily on Hisao."
-    new "Die Ereignisse der vergangenen Nacht lasten schwer auf Hisao."
+    new "过去的这一晚在久夫心里价值千金。"
 
     # game/definitions.rpy:228
     old "Adulthood"
-    new "Erwachsen Werden"
+    new "成年"
 
     # game/definitions.rpy:228
     old "The end of two children, the beginning of two adults."
-    new "Das Ende von zwei Kindern, der Anfang von zwei Erwachsenen."
+    new "两个孩子的结束，两个成年人的开始。"
 
     # game/definitions.rpy:228
     old "Lilly"
-    new "Lilly"
+    new "莉莉"
 
     # game/definitions.rpy:228
     old "Act 2: Past"
-    new "Akt 2: Vergangenheit"
+    new "第二章：过去"
 
     # game/definitions.rpy:228
     old "Earl Grey"
-    new "Earl Grey"
+    new "伯爵红茶"
 
     # game/definitions.rpy:228
     old "Hisao shares the first of many lunchbreaks with Hanako and Lilly, recovering from the day before."
-    new "Hisao verbringt die erste von vielen Mittagspausen mit Hanako und Lilly und erholt sich vom Vortag."
+    new "久夫与莉莉和华子共度午休时间，从昨天的事情里恢复过来。"
 
     # game/definitions.rpy:228
     old "A Pound Sterling"
-    new "Ein Pfund Sterling"
+    new "一英镑"
 
     # game/definitions.rpy:228
     old "Questioned by Kenji on Lilly's nationality, Hisao decides to investigate and finds out a great deal more."
-    new "Nachdem Kenji ihn nach Lillys Nationalität gefragt hat, fragt Hisao nach und lernt noch eine ganze Menge mehr."
+    new "健二询问莉莉的国籍，久夫决定调查出更多的信息。"
 
     # game/definitions.rpy:228
     old "Presents and Presence"
-    new "Präsente und Präsenz"
+    new "礼物与出席"
 
     # game/definitions.rpy:228
     old "While out in search of a present for Hanako, Lilly and Hisao meet Akira and her cousin."
-    new "Während sie nach einen Geschenk für Hanako suchen, treffen Lilly und Hisao Akira und ihren Cousin."
+    new "在给华子买礼物的时候，久夫和莉莉遇到了晃和她的堂弟。"
 
     # game/definitions.rpy:228
     old "Unidentified Drinking Object"
-    new "Unbekanntes Trinkobjekt"
+    new "身份不明的酒友"
 
     # game/definitions.rpy:228
     old "The trio hold a birthday party for Hanako, interrupted by the surprise appearance of a sibling."
-    new "Bei Hanakos Geburtstagsfeier taucht überraschend Lillys Schwester auf."
+    new "三个人为华子举行的生日派对被一个不速之客打断。"
 
     # game/definitions.rpy:228
     old "The Day After"
-    new "Der Tag Danach"
+    new "第二天"
 
     # game/definitions.rpy:228
     old "Hisao and Lilly awaken and try to recuperate from the previous evening's events."
-    new "Hisao und Lilly wachen auf und versuchen, sich von den Ereignissen des Vorabends zu erholen."
+    new "久夫和莉莉醒来并试着从昨晚的事情中恢复过来。"
 
     # game/definitions.rpy:228
     old "A Brief History of Thyme"
-    new "Das Universum in der Nussschale"
+    new "百里香简史"
 
     # game/definitions.rpy:228
     old "Hisao and Lilly go to get some groceries."
-    new "Hisao und Lilly gehen Lebensmittel einkaufen."
+    new "久夫和莉莉去买杂货。"
 
     # game/definitions.rpy:228
     old "Little Wing"
-    new "Kleine Flügel"
+    new "小小的翅膀"
 
     # game/definitions.rpy:228
     old "A shared lunch on the roof takes an unfortunate turn."
-    new "Ein gemeinsames Essen auf dem Dach nimmt eine unglückliche Wendung."
+    new "屋顶上的共进午餐带来一个不幸的转变。"
 
     # game/definitions.rpy:228
     old "Bon Voyage"
-    new "Bon Voyage"
+    new "一路平安"
 
     # game/definitions.rpy:228
     old "Lilly and Akira get seen off as they leave for a trip to their family in Scotland."
-    new "Lilly und Akira werden auf ihre Reise zu ihrer Familie nach Schottland verabschiedet."
+    new "送别莉莉和晃踏上回苏格兰的返乡之旅。"
 
     # game/definitions.rpy:228
     old "Act 3: Present"
-    new "Akt 3: Gegenwart"
+    new "第三章：礼物"
 
     # game/definitions.rpy:228
     old "Day by Day"
-    new "Tag für Tag"
+    new "日复一日"
 
     # game/definitions.rpy:228
     old "Hisao idly lets a day without Lilly slip by, having a talk with Mutou about Yamaku."
-    new "Hisao verbringt seine Tage ohne Lilly, und unterhält sich mit Mutou über die Yamaku."
+    new "久夫无所事事的度过莉莉不在的一天，和武藤聊着关于山久学园的话题。"
 
     # game/definitions.rpy:228
     old "Minor Discord"
-    new "Kleiner Misston"
+    new "轻微的不和谐"
 
     # game/definitions.rpy:228
     old "Hisao has lunch with Kenji, then gives some handouts to an alarmingly silent Hanako."
-    new "Hisao isst mit Kenji zu Mittag, und bringt dann einer erschreckend stillen Hanako Unterrichtsmaterial vorbei."
+    new "久夫和健二一起吃午饭，然后给了安静得让人有些不安的华子一些宣传单。"
 
     # game/definitions.rpy:228
     old "Dissonance"
-    new "Dissonanz"
+    new "不和谐音"
 
     # game/definitions.rpy:228
     old "With Hanako withdrawing into herself completely, Hisao offers what little help he can before calling Lilly."
-    new "Als Hanako sich völlig in sich zurückzieht, versucht Hisao erst zu helfen und ruft dann Lilly an."
+    new "由于莉莉完全将自己封闭起来，久夫除了给莉莉打电话之外几乎没法帮助华子。"
 
     # game/definitions.rpy:228
     old "A World Away"
-    new "Am Anderen Ende der Welt"
+    new "世界的另一边"
 
     # game/definitions.rpy:228
     old "Hisao's reassured mind begins to wonder about the relationship between he and Lilly."
-    new "Nachdem er sich beruhigt hat denkt Hisao über seine Beziehung zu Lilly nach."
+    new "对于自己和莉莉的关系原本确定的心意开始变得疑惑起来。"
 
     # game/definitions.rpy:228
     old "Renewal"
-    new "Erneuerung"
+    new "修复"
 
     # game/definitions.rpy:228
     old "Hisao, Hanako, and Hideaki welcome Akira and Lilly after their return from Scotland."
-    new "Hisao, Hanako, und Hideaki begrüßen Akira und Lilly nach ihrer Rückkehr aus Schottland."
+    new "久夫、华子和秀明迎接从苏格兰回来的莉莉和晃。"
 
     # game/definitions.rpy:228
     old "Northern Sojourn"
-    new "Aufenthalt im Norden"
+    new "北方旅行"
 
     # game/definitions.rpy:228
     old "The trio begins their holiday in Hokkaido."
-    new "Die drei fahren in den Urlaub nach Hokkaido."
+    new "三人前往北海道度假。"
 
     # game/definitions.rpy:228
     old "Prelude"
-    new "Vorspiel"
+    new "序曲"
 
     # game/definitions.rpy:228
     old "A morning walk begins a chain of events."
-    new "Bei einem Morgenspaziergang beginnt eine Kette von Ereignissen."
+    new "一次清晨漫步开启了一系列事件的前奏。"
 
     # game/definitions.rpy:228
     old "Crescendo"
-    new "Crescendo"
+    new "升调"
 
     # game/definitions.rpy:228
     old "Lilly's true feelings are told in the endless gold of the wheat fields."
-    new "Lillys wahre Gefühle werden in einem goldenen Weizenfeld ausgesprochen.u"
+    new "莉莉在无尽的金色麦田上吐露真心。"
 
     # game/definitions.rpy:228
     old "Diminuendo"
-    new "Diminuendo"
+    new "渐弱"
 
     # game/definitions.rpy:228
     old "Our couple shares their first night together."
-    new "Unser Paar verbringt seine erste Nacht zusammen."
+    new "两人共度的第一夜。"
 
     # game/definitions.rpy:228
     old "Gray Outlook"
-    new "Trübe Aussichten"
+    new "灰暗的前景"
 
     # game/definitions.rpy:228
     old "Confined to the summerhouse, Lilly and Hisao are forced to come to terms with their relationship."
-    new "In das Sommerhaus eingesperrt, müssen Lilly und Hisao sich über ihre Beziehung klar werden."
+    new "被困在凉亭的时候，莉莉和久夫被迫对他们之间的关系作出妥协。"
 
     # game/definitions.rpy:228
     old "Rhapsody in Blue"
-    new "Rhapsodie in Blau"
+    new "蓝色狂想曲"
 
     # game/definitions.rpy:228
     old "A bathing Hisao reflects on where he and Lilly are in life, before being joined by someone."
-    new "Ein badender Hisao denkt über sich und Lily nach, als jemand zu ihm kommt."
+    new "久夫在洗澡时考虑他和莉莉的未来，这时有人闯了进来。"
 
     # game/definitions.rpy:228
     old "The Momentary Present"
-    new "Dieser Augenblick"
+    new "一瞬的礼物"
 
     # game/definitions.rpy:228
     old "Traveling back to Yamaku, Hisao and Lilly idly talk between themselves."
-    new "Auf dem Rückweg zur Yamaku unterhalten sich Hisao und Lilly."
+    new "返回山久的旅途中，久夫和莉莉无所事事地谈论着他们自己的事。"
 
     # game/definitions.rpy:228
     old "Act 4: Future"
-    new "Akt 4: Zukunft"
+    new "第四章：未来"
 
     # game/definitions.rpy:228
     old "Slow Steps 'Fore a Waltz"
-    new "Walzer Tanzt Man Langsam"
+    new "漫步华尔兹"
 
     # game/definitions.rpy:228
     old "Back at the school, the events of Hokkaido come to the fore."
-    new "Zurück in der Schule, werden die Ereignisse von Hokkaido nochmal zum Thema."
+    new "回到学校，发生在北海道的事开始涌现出来。"
 
     # game/definitions.rpy:228
     old "Pajamas and Suits"
-    new "Pyjamas und Anzüge"
+    new "睡衣和制服"
 
     # game/definitions.rpy:228
     old "Settling back into daily life. Akira joins the trio during one of their tea parties."
-    new "Der tägliche Trott setzt wieder ein. Akira besucht das Trio bei einer Teeparty."
+    new "回到日常生活中之后，有一天晃加入了三人的茶会。"
 
     # game/definitions.rpy:228
     old "Correct Procedure"
-    new "Richtige Verfahrensweise"
+    new "正确的步骤"
 
     # game/definitions.rpy:228
     old "Hisao and Lilly arrange a date, before Akira swings by."
-    new "Hisao und Lilly planen ein Date, bevor Akira zu Besuch kommt."
+    new "在晃前来短暂拜访之前久夫和莉莉安排了一次约会。"
 
     # game/definitions.rpy:228
     old "Out and About"
-    new "Unterwegs"
+    new "户外活动"
 
     # game/definitions.rpy:228
     old "Hisao and Lilly go on their first date, finding out about each other's pasts."
-    new "Hisao und Lilly gehen auf ihr erstes Date, und erfahren von der Vergangenheit des jeweils anderen."
+    new "久夫和莉莉进行着他们的第一次约会，相互发现了对方的很多往事。"
 
     # game/definitions.rpy:228
     old "A Morning's Reverie"
-    new "Morgenträumerei"
+    new "清晨的幻想"
 
     # game/definitions.rpy:228
     old "Hisao and Lilly discuss their ambitions for the future."
-    new "Hisao und Lilly sprechen über ihre Pläne für die Zukunft."
+    new "久夫和莉莉谈论他们对未来的抱负。"
 
     # game/definitions.rpy:228
     old "Blackout"
-    new "Schwarz"
+    new "熄灯"
 
     # game/definitions.rpy:228
     old "The trio muse on the upcoming holidays, before Hisao experiences sight as Lilly does."
-    new "Die Drei unterhalten sich über die bevorstehenden Ferien; dann erfährt Hisao wie Lilly sich fühlen muss."
+    new "三人深思着即将到来的假期，这时久夫经历了莉莉所见的景象。"
 
     # game/definitions.rpy:228
     old "Context"
-    new "Kontext"
+    new "来龙去脉"
 
     # game/definitions.rpy:228
     old "Hisao gets called out by Akira and the two talk about her sibling."
-    new "Hisao trifft sich mit Akira, und die beiden unterhalten sich über ihre Schwester."
+    new "久夫被晃叫出来谈论她妹妹的事。"
 
     # game/definitions.rpy:228
     old "A Faraway Future"
-    new "Eine Ferne Zukunft"
+    new "遥远的未来"
 
     # game/definitions.rpy:228
     old "Lilly reveals her family's offer to join them in Scotland."
-    new "Lilly erzählt von dem Angebot ihrer Familie zu ihnen nach Schottland zu kommen."
+    new "莉莉透露了她的家里要她回到苏格兰的事。"
 
     # game/definitions.rpy:228
     old "Farewell"
-    new "Abschied"
+    new "告别"
 
     # game/definitions.rpy:228
     old "Farewells to Akira and Lilly the evening before they leave Japan."
-    new "Abschied von Akira und Lilly am Vorabend ihrer Abreise aus Japan."
+    new "在莉莉和晃离开日本的前夜告别。"
 
     # game/definitions.rpy:228
     old "False Cadence"
-    new "Falsche Kadenz"
+    new "假终止"
 
     # game/definitions.rpy:228
     old "Hisao rushes to confront Lilly, realizing her conflict."
-    new "Hisao glaubt, Lilly verstanden zu haben, und eilt ihr hinterher."
+    new "久夫冲到莉莉的面前，明白了她内心的挣扎。"
 
     # game/definitions.rpy:228
     old "Under a Maudlin Sky"
-    new "Unter Trübem Himmel"
+    new "伤感的天空下"
 
     # game/definitions.rpy:228
     old "Waking in the hospital ward, Hisao struggles to come to terms with his life."
-    new "Nach dem Aufwachen im Krankenhaus, versucht Hisao sich mit seinem Leben abzufinden."
+    new "走在医院的病房里，久夫努力让自己接受自己的命运。"
 
     # game/definitions.rpy:228
     old "Under a Bright Sky"
-    new "Unter Klarem Himmel"
+    new "明亮的天空下"
 
     # game/definitions.rpy:228
     old "Lilly rejoins Hisao, the two beginning their life together anew."
-    new "Lilly kehrt zu Hisao zurück, und die zwei fangen ihr gemeinsames Leben noch einmal an."
+    new "莉莉回到久夫身边，两人一起开始了新的生活。"
 
     # game/definitions.rpy:228
     old "Forwards, with Gusto!"
-    new "Vorwärts, mit Elan!"
+    new "前进，充满热情！"
 
     # game/definitions.rpy:228
     old "Lilly and Hisao see off Akira."
-    new "Lilly und Hisao verabschieden Akira."
+    new "莉莉和久夫送别晃。"
 
     # game/definitions.rpy:228
     old "Rin"
-    new "Rin"
+    new "琳"
 
     # game/definitions.rpy:228
     old "Act 2: Disconnect"
-    new "Akt 2: Losgelöst"
+    new "第二章：断开"
 
     # game/definitions.rpy:228
     old "A Wider Field of Vision"
-    new "Ein Besserer Überblick"
+    new "更广泛的视野"
 
     # game/definitions.rpy:228
     old "Hisao spends a lunch break with Rin watching clouds on the rooftop."
-    new "Hisao beobachtet in der Mittagspause mit Rin die Wolken am Himmel."
+    new "久夫午休时间陪着琳在屋顶上看云。"
 
     # game/definitions.rpy:228
     old "Studies in Grayscale"
-    new "Graustudien"
+    new "灰度研究"
 
     # game/definitions.rpy:228
     old "Rin and Hisao draw portraits of each other at his first art club meeting."
-    new "Rin und Hisao zeichnen bei seinem ersten Kunstklubtreffen Portraits voneinander."
+    new "在久夫的第一次美术部活动时他和琳互画肖像。"
 
     # game/definitions.rpy:228
     old "Interstitial"
-    new "Interstitiell"
+    new "间隙"
 
     # game/definitions.rpy:228
     old "Kenji lends a “borrowed” book to Hisao."
-    new "Kenji leiht Hisao ein “geborgtes” Buch aus."
+    new "健二借了一本“借来的”书给久夫。"
 
     # game/definitions.rpy:228
     old "Self Study"
-    new "Selbststudien"
+    new "自学"
 
     # game/definitions.rpy:228
     old "Misha and Shizune catch Hisao meditatively doodling during class."
-    new "Misha und Shizune erwischen Hisao wie er im Unterricht zeichnet."
+    new "米莎和静音在上课时抓住久夫在冥想着涂鸦。"
 
     # game/definitions.rpy:228
     old "Hisao's Smile"
-    new "Hisaos Lächeln"
+    new "久夫的微笑"
 
     # game/definitions.rpy:228
     old "Rin talks to Hisao about his happy expressions, or lack of them."
-    new "Rin redet mit Hisao über seinen fröhlichen Gesichtsausdruck, oder das Fehlen desselben."
+    new "琳向久夫谈论他开心或不开心时的表情。"
 
     # game/definitions.rpy:228
     old "Things You Like"
-    new "Was Du Magst"
+    new "你喜欢的事"
 
     # game/definitions.rpy:228
     old "Brief musings with Yuuko about books and Yamaku."
-    new "Kurzer Austausch mit Yuuko über Bücher und die Yamaku."
+    new "和优子一起短暂思考关于书和山久学园的事。"
 
     # game/definitions.rpy:228
     old "Target Audience"
-    new "Zielgruppe"
+    new "目标观众"
 
     # game/definitions.rpy:228
     old "The day of the track meet. Facets of Emi's and Rin's personalities get revealed."
-    new "Das Sportfest. Facetten von Emis und Rins Persönlichkeiten werden enthüllt."
+    new "田径运动会日，笑美和琳的真实个性显露了出来。"
 
     # game/definitions.rpy:228
     old "Eternity In an Hour"
-    new "Ewigkeit in einer Stunde"
+    new "永恒的一小时"
 
     # game/definitions.rpy:228
     old "Nomiya incites discussion of art during a club meeting."
-    new "Nomiya stößt während des Klubtreffens eine Diskussion über Kunst an."
+    new "野宫在一次部活时激起了一场讨论。"
 
     # game/definitions.rpy:228
     old "Underwater and a Maple with a Name"
-    new "Unter Wasser und ein Ahorn mit Namen"
+    new "水下和有名字的枫树"
 
     # game/definitions.rpy:228
     old "Rin leads Hisao into the woods, where they ponder their immediate future."
-    new "Rin führt Hisao in den Wald, wo sie über ihre nähere Zukunft nachdenken."
+    new "琳带着久夫来到树林里，他们在那考虑了一下即将到来的事情。"
 
     # game/definitions.rpy:228
     old "Iwanako's Regret"
-    new "Iwanakos Reue"
+    new "岩鱼子的道歉"
 
     # game/definitions.rpy:228
     old "A letter from Iwanako arrives."
-    new "Ein Brief von Iwanako kommt an."
+    new "一封来自岩鱼子的信。"
 
     # game/definitions.rpy:228
     old "In Her Own Image"
-    new "Nach Ihrem Eigenen Bildnis"
+    new "在她自己的画里"
 
     # game/definitions.rpy:228
     old "Hisao pushes Rin to have her own art exhibition."
-    new "Hisao überredet Rin ihre Kunst ausstellen zu lassen."
+    new "久夫鼓励琳举办一个自己的画展。"
 
     # game/definitions.rpy:228
     old "Umbrella Logic Cake"
-    new "Regenschirm, Logik und Kuchen"
+    new "雨伞逻辑蛋糕"
 
     # game/definitions.rpy:228
     old "Emi, Hisao and Rin get rained on and seek refuge in the Shanghai."
-    new "Emi, Hisao und Rin geraten in den Regen und suchen Zuflucht im Shanghai."
+    new "笑美、久夫和琳被雨淋湿，跑到“上海”躲雨。"
 
     # game/definitions.rpy:228
     old "Six Meters Closer to Heaven"
-    new "Sechs Meter Näher am Himmel"
+    new "距离天堂6米"
 
     # game/definitions.rpy:228
     old "Rin and Hisao DON'T eat lunch on the roof, due to a distinct lack of Emi."
-    new "Rin und Hisao essen NICHT auf dem Dach zu Mittag, weil Emi nicht da ist."
+    new "由于笑美不在，琳和久夫没有在屋顶吃午餐。"
 
     # game/definitions.rpy:228
     old "Indecision"
-    new "Unschlüssigkeit"
+    new "犹豫不决"
 
     # game/definitions.rpy:228
     old "Emi gets rid of her cold, while Rin catches her own."
-    new "Emi wird ihre Erkältung los, während Rin sich eine einfängt."
+    new "笑美的感冒好了，但是琳却感冒了。"
 
     # game/definitions.rpy:228
     old "Signal Interference"
-    new "Signalstörung"
+    new "信号干扰"
 
     # game/definitions.rpy:228
     old "Hisao goes visit Rin in her room."
-    new "Hisao besucht Rin in ihrem Zimmer."
+    new "久夫去琳的房间探望她。"
 
     # game/definitions.rpy:228
     old "Dandelions"
-    new "Pusteblumen"
+    new "蒲公英"
 
     # game/definitions.rpy:228
     old "Conclusions get drawn on a hilltop."
-    new "Auf einem Hügel werden Entscheidungen getroffen."
+    new "结论在山顶纠缠。"
 
     # game/definitions.rpy:228
     old "Act 3: Distance"
-    new "Akt 3: Distanziert"
+    new "第三章：距离"
 
     # game/definitions.rpy:228
     old "22nd Corner"
-    new "22nd Corner"
+    new "22号转角"
 
     # game/definitions.rpy:228
     old "The art club team checks out the gallery for Rin's future exhibition."
-    new "Hisao, Rin und Nomiya besuchen die Galerie, in der Rins Ausstellung stattfinden soll."
+    new "美术部小组检查琳即将举办画展的画廊。"
 
     # game/definitions.rpy:228
     old "The Scent of Light"
-    new "Der Geruch des Lichts"
+    new "光的芬芳"
 
     # game/definitions.rpy:228
     old "Hisao happens upon a sleeping Rin in the art room."
-    new "Hisao findet im Kunstraum eine schlafende Rin."
+    new "久夫偶然碰见在美术室睡觉的琳。"
 
     # game/definitions.rpy:228
     old "Things You Can't Give Up"
-    new "Was Du Nicht Aufgeben Kannst"
+    new "你不能放弃的事"
 
     # game/definitions.rpy:228
     old "Emi and Hisao discuss Rin's personality."
-    new "Emi und Hisao sprechen über Rins Persönlichkeit."
+    new "笑美和久夫讨论琳的个性。"
 
     # game/definitions.rpy:228
     old "BADAAN!"
-    new "KABUMM!"
+    new "BADAAN!"
 
     # game/definitions.rpy:228
     old "Yuuko's thoughts on motivation."
-    new "Yuukos Gedanken zum Thema Motivation."
+    new "优子关于动机的一些想法。"
 
     # game/definitions.rpy:228
     old "Rose-Tinted Glasses"
-    new "Durch die Rosa Brille"
+    new "情人眼里出西施"
 
     # game/definitions.rpy:228
     old "Nomiya expounds at length about art as a career."
-    new "Nomiya hält einen langwierigen Vortrag über eine Karriere als Künstler."
+    new "野宫详细地说明了有关将美术作为职业的事。"
 
     # game/definitions.rpy:228
     old "The Edge of the World"
-    new "Der Rand der Welt"
+    new "天涯海角"
 
     # game/definitions.rpy:228
     old "Hisao confesses to Rin and gets shot down. Or does he?"
-    new "Hisao gesteht Rin seine Gefühle und wird abgewiesen - oder doch nicht?"
+    new "久夫向琳坦白并被打击，或者没有？"
 
     # game/definitions.rpy:228
     old "The Context of Rin"
-    new "Thema “Rin”"
+    new "琳的背景"
 
     # game/definitions.rpy:228
     old "An awkward and silent afternoon at the atelier."
-    new "Ein peinlich stiller Nachmittag im Atelier."
+    new "工作室一个尴尬而安静的下午。"
 
     # game/definitions.rpy:228
     old "Fast Forward"
-    new "Schneller Vorlauf"
+    new "快进"
 
     # game/definitions.rpy:228
     old "The preparations for the exhibition settle into a strange routine."
-    new "Die Vorbereitungen für die Ausstellung werden zu einer seltsamen Routine."
+    new "展览的准备形成了一个奇怪的习惯。"
 
     # game/definitions.rpy:228
     old "Self-Destruction"
-    new "Selbstzerstörung"
+    new "自毁"
 
     # game/definitions.rpy:228
     old "Rin experiments with smoking to get a fresh look at creativity."
-    new "Rin experimentiert mit Rauchen, um eine neue Sichtweise auf Kreativität zu finden."
+    new "琳通过吸烟来获得新的创造力。"
 
     # game/definitions.rpy:228
     old "Reverse Escapism"
-    new "Umgekehrter Eskapismus"
+    new "反向逃避"
 
     # game/definitions.rpy:228
     old "Hisao takes Rin on a walk through the night streets."
-    new "Hisao macht mit Rin einen Spaziergang durch die nächtlichen Straßen."
+    new "久夫带着琳在夜晚的街道上散步。"
 
     # game/definitions.rpy:228
     old "Boundless"
@@ -1460,419 +1460,419 @@ translate zh_hans strings:
 
     # game/definitions.rpy:228
     old "Sae and Nomiya give Hisao some insight on artists' lives."
-    new "Sae und Nomiya geben Hisao einen Einblick in das Leben von Künstlern."
+    new "纱枝和野宫让久夫对艺术家的生活有了更深入的了解。"
 
     # game/definitions.rpy:228
     old "Delirium"
-    new "Delirium"
+    new "精神错乱"
 
     # game/definitions.rpy:228
     old "Hisao surprises a desperate Rin in the atelier."
-    new "Hisao überrascht eine verzweifelte Rin im Atelier."
+    new "久夫震惊于在画室里绝望的琳。"
 
     # game/definitions.rpy:228
     old "Things You Hate"
-    new "Was Du Hasst"
+    new "你憎恨的事情"
 
     # game/definitions.rpy:228
     old "Unpleasant aftermath of an incredible night."
-    new "Unangenehmes Nachspiel einer unglaublichen Nacht."
+    new "不可思议的夜晚的不愉快的后果。"
 
     # game/definitions.rpy:228
     old "Shards of Ire"
-    new "Scherben des Zorns"
+    new "愤怒的碎片"
 
     # game/definitions.rpy:228
     old "The strained relationship between the two blows apart."
-    new "Die angespannte Beziehung zwischen den Beiden zerbricht."
+    new "支离破碎的两人之间紧张的关系。"
 
     # game/definitions.rpy:228
     old "Act 4: Dream"
-    new "Akt 4: Traum"
+    new "第四章：梦想"
 
     # game/definitions.rpy:228
     old "Illusions for People"
-    new "Selbsttäuschung"
+    new "人们的幻想"
 
     # game/definitions.rpy:228
     old "Hisao talks about his misgivings to Nomiya, to little effect."
-    new "Hisao spricht mit Nomiya über seine Bedenken - ohne Erfolg."
+    new "久夫向野宫诉说自己的担心，但收效甚微。"
 
     # game/definitions.rpy:228
     old "Demused"
-    new "Uninspiriert"
+    new "灵感枯竭"
 
     # game/definitions.rpy:228
     old "Hisao's patience comes to an end."
-    new "Hisaos Geduld ist am Ende."
+    new "久夫的耐心到达极限。"
 
     # game/definitions.rpy:228
     old "The Scene"
-    new "Die Szene"
+    new "现场"
 
     # game/definitions.rpy:228
     old "Meeting with Rin at the exhibition opening."
-    new "Treffen mit Rin bei der Eröffnung der Ausstellung."
+    new "在展览开幕式上和琳会面。"
 
     # game/definitions.rpy:228
     old "Wavelength"
-    new "Wellenlänge"
+    new "波长"
 
     # game/definitions.rpy:228
     old "Hisao lethargically whiles away the last day of exams."
-    new "Hisao verbringt den Tag nach den Abschlussprüfungen mit Faulenzen."
+    new "久夫昏昏欲睡地在考试的最后一天消磨时间。"
 
     # game/definitions.rpy:228
     old "Blue Period"
-    new "Blaue Periode"
+    new "蓝色时期"
 
     # game/definitions.rpy:228
     old "A rainy day, the 22nd Corner, and a brief history of Picasso."
-    new "Ein verregneter Tag in der Galerie und ein kurzer Vortrag über Picasso."
+    new "雨天，22号转角，和毕加索的简史。"
 
     # game/definitions.rpy:228
     old "The World Only You Can See"
-    new "Die Welt, die nur Du Siehst"
+    new "只有你能看到的世界"
 
     # game/definitions.rpy:228
     old "Rin and Hisao part after the rain."
-    new "Rin und Hisao trennen sich nach dem Regen."
+    new "琳和久夫在雨后分手。"
 
     # game/definitions.rpy:228
     old "Desperate Glory"
-    new "Verzweifelter Ruhm"
+    new "不顾一切的荣耀"
 
     # game/definitions.rpy:228
     old "A frantic Nomiya queries Hisao about Rin's whereabouts."
-    new "Ein hektischer Nomiya erkundigt sich bei Hisao, wo Rin ist."
+    new "野宫疯狂地向久夫打听琳的下落。"
 
     # game/definitions.rpy:228
     old "Problems of Self-Referential Logic"
-    new "Probleme Selbstbezogener Logik"
+    new "自我指涉的逻辑问题"
 
     # game/definitions.rpy:228
     old "Hisao finds Rin in her hiding place, and convinces her to reconcile with Nomiya."
-    new "Hisao findet Rin in ihrem Versteck und überredet sie, mit Herrn Nomiya zu reden."
+    new "久夫在琳的藏身之处找到了她，并说服她与野宫和解。"
 
     # game/definitions.rpy:228
     old "Measuring Shadows"
-    new "Fenster zur Seele"
+    new "阴影测量"
 
     # game/definitions.rpy:228
     old "Rin's apology to the art teacher isn't well-received."
-    new "Rins Entschuldigung bei Herrn Nomiya kommt nicht gut an."
+    new "琳对美术老师的道歉并不受欢迎。"
 
     # game/definitions.rpy:228
     old "Raison d'être"
-    new "Raison d'être"
+    new "存在的理由"
 
     # game/definitions.rpy:228
     old "Hisao comforts an upset Rin."
-    new "Hisao tröstet eine niedergeschlagene Rin."
+    new "久夫安慰了心烦意乱的琳。"
 
     # game/definitions.rpy:228
     old "Without Breathing, Without a Sound"
-    new "Ohne zu Atmen, Ohne ein Geräusch"
+    new "无声无息"
 
     # game/definitions.rpy:228
     old "On the first day of summer vacation, Rin comes to Hisao's room."
-    new "Am ersten Tag der Sommerferien kommt Rin in Hisaos Zimmer."
+    new "暑假的第一天，琳来到了久夫的房间。"
 
     # game/definitions.rpy:228
     old "Proof of Existence"
-    new "Existenzbeweis"
+    new "存在的证明"
 
     # game/definitions.rpy:228
     old "Everything comes together on that dandelion-covered hilltop."
-    new "Auf dem Hügel mit den Pusteblumen findet alles ein Ende."
+    new "所有的一切都汇聚在那蒲公英覆盖的小山顶上。"
 
     # game/definitions.rpy:228
     old "Shizune"
-    new "Shizune"
+    new "静音"
 
     # game/definitions.rpy:228
     old "Act 2: Learning to Read"
-    new "Akt 2: Lesen lernen"
+    new "第二章：学习阅读"
 
     # game/definitions.rpy:228
     old "Message Passing"
-    new "Zettelwirtschaft"
+    new "传递消息"
 
     # game/definitions.rpy:228
     old "Shizune and Hisao explore methods of communication."
-    new "Shizune und Hisao loten Verständigungsmöglichkeiten aus."
+    new "静音和久夫探索交流的方法。"
 
     # game/definitions.rpy:228
     old "Talk to the Hand"
-    new "Sprich zur Hand"
+    new "与手对话"
 
     # game/definitions.rpy:228
     old "Hisao begins studying a new language, and a tutor appears."
-    new "Hisao beginnt, eine neue Sprache zu lernen, und findet eine Lehrerin."
+    new "久夫开始学习一种新的语言，然后一个导师出现了。"
 
     # game/definitions.rpy:228
     old "Chinese Whispers"
-    new "Stille Post"
+    new "传话游戏"
 
     # game/definitions.rpy:228
     old "Kenji manages to coerce Hisao to do a favor for him, but Hisao runs into trouble in many forms."
-    new "Kenji überredet Hisao ihm einen Gefallen zu tun, Aber Hisao hat dabei mehrere Probleme."
+    new "健二试图强迫久夫帮忙，但是久夫遭遇到了各种形式的麻烦。"
 
     # game/definitions.rpy:228
     old "Advanced Game Theory"
-    new "Spieltheorie für Fortgeschrittene"
+    new "进阶游戏理论"
 
     # game/definitions.rpy:228
     old "RISK isn't enough any more to satiate Shizune's hunger. What's worse, a new opponent makes her appearance."
-    new "RISIKO ist nicht mehr genug, um Shizune zufriedenzustellen - und dann taucht auch noch einen neue Gegnerin auf."
+    new "风险已经不足以满足静音的胃口，更糟糕的是，一个新的对手出现了。"
 
     # game/definitions.rpy:228
     old "Bread, Scissors, Paper"
-    new "Schere, Brot, Papier"
+    new "面包，剪刀，纸"
 
     # game/definitions.rpy:228
     old "A lazy afternoon becomes dramatic as suddenly a piece of bread becomes an object of extreme interest."
-    new "Ein ruhiger Nachmittag entwickelt sich dramatisch, als plötzlich ein Stück Brot zum Objekt der Begierde wird."
+    new "一片面包成为极度感兴趣的对象，使得懒散的午后突然变得戏剧性起来。"
 
     # game/definitions.rpy:228
     old "Interface"
-    new "Schnittstelle"
+    new "接口"
 
     # game/definitions.rpy:228
     old "Shizune and Hisao find a connection."
-    new "Shizune und Hisao finden eine Gemeinsamkeit."
+    new "静音和久夫找到了一个连接。"
 
     # game/definitions.rpy:228
     old "Spring into Action"
-    new "Aktiv werden"
+    new "立即行动"
 
     # game/definitions.rpy:228
     old "Hisao has to mediate between Lilly and Shizune, but luckily things work out in the end."
-    new "Hisao muss zwischen Lilly und Shizune vermitteln, aber zum Glück geht alles gut aus."
+    new "久夫必须调解静音和莉莉之间的冲突，幸运的是最终起了作用。"
 
     # game/definitions.rpy:228
     old "Past Imperfective"
-    new "Unvollendete Vergangenheit"
+    new "过去的未完成体"
 
     # game/definitions.rpy:228
     old "The Student Council reminisces about past years while relaxing at the Shanghai."
-    new "Der Schülerrat erinnert sich beim Entspannen im Shanghai an die vergangenen Jahre."
+    new "在“上海”放松时学生会成员回忆起前几年发生的事。"
 
     # game/definitions.rpy:228
     old "When Stars Embrace"
-    new "Wenn Sterne Umarmen"
+    new "拥抱群星时"
 
     # game/definitions.rpy:228
     old "It's finally time for Tanabata!"
-    new "Endlich Tanabata!"
+    new "终于到七夕了！"
 
     # game/definitions.rpy:228
     old "Act 3: Sleight of Hand"
-    new "Akt 3: Fingerfertigkeit"
+    new "第三章：熟悉手法"
 
     # game/definitions.rpy:228
     old "Force Feedback"
-    new "Rückkopplung"
+    new "反作用力"
 
     # game/definitions.rpy:228
     old "Hisao finds out that Shizune is going to visit her family, and manages to come along."
-    new "Hisao findet heraus, dass Shizune ihre Familie besuchen wird, und darf mitkommen."
+    new "久夫发现静音想要独自回家探亲。"
 
     # game/definitions.rpy:228
     old "United Nations"
-    new "Vereinte Nationen"
+    new "联合国"
 
     # game/definitions.rpy:228
     old "The trip to Shizune's house, meeting her little brother, and a sudden fishing contest."
-    new "Die Fahrt zu Shizune nach Hause, das Treffen mit ihrem kleinen Bruder und ein plötzlicher Angelwettbewerb."
+    new "去静音家的路上遇见了她的小弟弟，与一场突发的钓鱼比赛。"
 
     # game/definitions.rpy:228
     old "Use-Mention Distinction"
-    new "Theorie und Praxis"
+    new "使用和提及的区别"
 
     # game/definitions.rpy:228
     old "Hideaki tries to entertain Hisao for a day, meeting with little success."
-    new "Hideaki versucht Hisao zu unterhalten, was ihm nur sehr begrenzt gelingt."
+    new "秀明试图招待久夫一整天，却收效甚微。"
 
     # game/definitions.rpy:228
     old "Family Plot"
-    new "Familienbande"
+    new "家庭阴谋"
 
     # game/definitions.rpy:228
     old "Our trio meets Shizune's father and immediately beats a hasty retreat."
-    new "Das Trio trifft Shizunes Vater und bläst sofort hastig zum Rückzug."
+    new "我们三人见到了静音的父亲并很快被击退。"
 
     # game/definitions.rpy:228
     old "Pangrammatic Window"
-    new "Pangrammatisches Gedicht"
+    new "全字母文本"
 
     # game/definitions.rpy:228
     old "A request from Hideaki to learn sign language unexpectedly escalates into a shouting match with Jigoro."
-    new "Eine Bitte von Hideaki, ihm Zeichensprache beizubringen, eskaliert unerwarteterweise zu einem Streit mit Jigoro."
+    new "秀明想要学习手语的请求出人意料地升级成和治五郎的大声争吵。"
 
     # game/definitions.rpy:228
     old "Closer"
-    new "Näher"
+    new "靠近"
 
     # game/definitions.rpy:228
     old "Shizune and Hisao join together for the first time."
-    new "Shizune und Hisao verbinden sich zum ersten Mal."
+    new "静音和久夫第一次结合。"
 
     # game/definitions.rpy:228
     old "Confrontation"
-    new "Konfrontation"
+    new "对抗"
 
     # game/definitions.rpy:228
     old "Jigoro belittles the Student Council and Hisao rises up to the challenge."
-    new "Jigoro redet den Schülerrat schlecht, und Hisao nimmt die Herausforderung an."
+    new "治五郎轻视学生会，然后久夫起来挑战他的观点。"
 
     # game/definitions.rpy:228
     old "The Anchor"
-    new "Der Anker"
+    new "锚"
 
     # game/definitions.rpy:228
     old "Back to Yamaku. A letter from Iwanako prompts a lengthy discussion from Kenji on the finer points of girlfriends."
-    new "Zurück an der Yamaku. Ein Brief von Iwanako löst eine längere Diskussion mit Kenji über Freundinnen aus."
+    new "回到山久，一封来自岩鱼子的信激起了健二关于女朋友的微妙之处的讨论。"
 
     # game/definitions.rpy:228
     old "Roadmap"
-    new "Fahrplan"
+    new "路标"
 
     # game/definitions.rpy:228
     old "The Student Council worries about their replacement, and Hisao ends up treating Misha to a parfait somehow."
-    new "Der Schülerrat sorgt sich um geeignete Nachfolger, und am Ende muss Hisao Misha irgendwie ein Parfait ausgeben."
+    new "学生会成员们担忧着后继者的问题，然后久夫最后莫名其妙地请米莎吃了一个巴菲。"
 
     # game/definitions.rpy:228
     old "Acute Triangle"
-    new "Akutes Dreieck"
+    new "锐角三角形"
 
     # game/definitions.rpy:228
     old "An afternoon of work with Shizune shows Hisao that something is amiss between the girls."
-    new "Ein Arbeitsnachmittag mit Shizune lässt Hisao merken, dass zwischen den Mädchen etwas nicht in Ordnung ist."
+    new "和静音工作了一个下午之后久夫发现了女孩们之间出现了某些问题。"
 
     # game/definitions.rpy:228
     old "Dewey Decimated"
-    new "Dewey Dezimiert"
+    new "杜威分类法"
 
     # game/definitions.rpy:228
     old "Yuuko gets Hisao to watch the library for her. The arrival of Kenji makes the attempt meet with mixed success."
-    new "Yuuko bittet Hisao für sie auf die Bibliothek aufzupassen. Durch Kenjis Ankunft ist der Erfolg etwas zwiespältig."
+    new "优子让久夫帮忙照看图书馆，健二的到来让这个尝试成败参半。"
 
     # game/definitions.rpy:228
     old "Tongue-Tied"
-    new "Sprachlos"
+    new "张口结舌"
 
     # game/definitions.rpy:228
     old "Misha visits Hisao in his room, and things go in an unexpected direction."
-    new "Misha besucht Hisao in seinem Zimmer, und die Dinge entwickeln sich in eine unerwartete Richtung."
+    new "米莎来到久夫的房间探望，然后事情走向了预期之外的方向。"
 
     # game/definitions.rpy:228
     old "Look Aside"
-    new "Zur Seite Schauen"
+    new "从旁而视"
 
     # game/definitions.rpy:228
     old "Hisao meets a depressed Misha on the roof. He ends up pushing her and Shizune together."
-    new "Hisao findet auf dem Dach eine deprimierte Misha. Hisao versucht, sie wieder mit Shizune zu versöhnen."
+    new "久夫在屋顶遇到沮丧的米莎，最后久夫一起鼓励了她和静音。"
 
     # game/definitions.rpy:228
     old "Look Ahead"
-    new "Vorausschauen"
+    new "展望未来"
 
     # game/definitions.rpy:228
     old "Hisao meets a depressed Misha on the roof. Shizune joins them and pulls the whole council back to work."
-    new "Hisao findet auf dem Dach eine deprimierte Misha. Shizune kommt dazu und zerrt den Schülerrat zurück an die Arbeit."
+    new "久夫在屋顶遇到沮丧的米莎，静音加入进来并让所有学生会成员回去工作。"
 
     # game/definitions.rpy:228
     old "Act 4: To My Other Self"
-    new "Akt 4: An Mein Anderes Ich"
+    new "第四章：致另一个我"
 
     # game/definitions.rpy:228
     old "Grand Strategy"
-    new "Übergeordnete Strategie"
+    new "大战略"
 
     # game/definitions.rpy:228
     old "Shizune confesses to Hisao some of her goals and failures."
-    new "Shizune verrät Hisao einige ihrer Ziele und einige ihrer Fehler."
+    new "静音向久夫坦诚了自己的一些成功和失败。"
 
     # game/definitions.rpy:228
     old "Off by One"
-    new "Um Eins Daneben"
+    new "误差为一"
 
     # game/definitions.rpy:228
     old "A failed attempt to cheer up Misha gets converted into an impromptu date for Hisao and Shizune."
-    new "Ein fehlgeschlagener Versuch Misha aufzumuntern wird kurzerhand zu einem Date zwischen Hisao und Shizune umfunktioniert."
+    new "一次让米莎振作的失败尝试转变成了静音和久夫的意外约会。"
 
     # game/definitions.rpy:228
     old "Invasion"
-    new "Invasion"
+    new "入侵"
 
     # game/definitions.rpy:228
     old "Jigoro and Hideaki pay Shizune an unexpected and somewhat unpleasant visit."
-    new "Jigoro und Hideaki statten Shizune einen unerwarteten und etwas unangenehmen Besuch ab."
+    new "治五郎和秀明对静音出乎意料并且有些不太愉快的来访。"
 
     # game/definitions.rpy:228
     old "Parfait"
-    new "Parfait"
+    new "巴菲"
 
     # game/definitions.rpy:228
     old "Hisao and Shizune stalk Misha. Hisao finally manages to corner her and discuss things properly."
-    new "Hisao und Shizune verfolgen Misha. Hisao schafft es schließlich, sie zu stellen und in Ruhe mit ihr zu reden."
+    new "久夫和静音跟踪米莎，久夫最终设法将米莎逼到角落并严肃的讨论事情。"
 
     # game/definitions.rpy:228
     old "The Summit"
-    new "Der Gipfel"
+    new "顶点"
 
     # game/definitions.rpy:228
     old "Kenji and Shizune meet in Hisao's room. Miraculously, nothing explodes."
-    new "Kenji und Shizune treffen sich in Hisaos Zimmer. Wundersamerweise explodiert nichts."
+    new "健二和静音在久夫的房间里碰面，奇迹般地什么都没有发生。"
 
     # game/definitions.rpy:228
     old "Succession"
-    new "Nachfolge"
+    new "继承"
 
     # game/definitions.rpy:228
     old "The current Student Council shapes up their successors before engaging in “extracurricular activities.”"
-    new "Der aktuelle Schülerrat bringt seine Nachfolger in Form und betätigt sich dann in “außerschulischen Aktivitäten.”"
+    new "本届学生会在参加“课外活动”之前找到了后继者。"
 
     # game/definitions.rpy:228
     old "Sneaking Mission"
-    new "Schleichmission"
+    new "潜入任务"
 
     # game/definitions.rpy:228
     old "The show of Misha's determination spurs Shizune to set her sights on greater things."
-    new "Mishas Entschlossenheit spornt Shizune an, sich noch höhere Ziele zu setzen."
+    new "米莎展示的决心鼓舞静音瞄准更伟大的事业。"
 
     # game/definitions.rpy:228
     old "Infinity"
-    new "Unendlichkeit"
+    new "无限"
 
     # game/definitions.rpy:228
     old "Our trio renews their friendship, with their graduation looming close ahead."
-    new "Das Trio erneuert seine Freundschaft, und der Schulabschluss steht kurz bevor."
+    new "在毕业将近时三人重建了他们的友谊。"
 
     # game/definitions.rpy:228
     old "Present Tense"
-    new "Präsens"
+    new "现在时"
 
     # game/definitions.rpy:228
     old "Hisao stumbles into Lilly at lunch, and the two talk about Shizune."
-    new "Hisao trifft beim Mittagessen zufällig auf Lilly, und die beiden reden über Shizune."
+    new "久夫无意中加入莉莉的午餐，然后两人谈论起静音的事。"
 
     # game/definitions.rpy:228
     old "Spiral"
-    new "Spirale"
+    new "螺旋"
 
     # game/definitions.rpy:228
     old "Runaround, stonewalling, and Kenji nighttime ambush."
-    new "Hinhaltetaktiken und ein nächtlicher Hinterhalt von Kenji."
+    new "回避，妨碍，以及健二的夜间伏击。"
 
     # game/definitions.rpy:228
     old "Terminal"
-    new "Anschluss"
+    new "终点"
 
     # game/definitions.rpy:228
     old "An early-morning talk with Shizune in the silent school."
-    new "Ein frühmorgendliches Gespräch mit Shizune in der stillen Schule."
+    new "清晨和静音在安静的学校里的一次对话。"
 
     # game/definitions.rpy:606
     old "“"
@@ -1884,71 +1884,71 @@ translate zh_hans strings:
 
     # game/definitions.rpy:609
     old "Hisao"
-    new "Hisao"
+    new "久夫"
 
     # game/definitions.rpy:615
     old "Misha"
-    new "Misha"
+    new "米莎"
 
     # game/definitions.rpy:616
     old "Kenji"
-    new "Kenji"
+    new "健二"
 
     # game/definitions.rpy:617
     old "Mutou"
-    new "Mutou"
+    new "武藤"
 
     # game/definitions.rpy:618
     old "Nurse"
-    new "Doc"
+    new "护士"
 
     # game/definitions.rpy:619
     old "Nomiya"
-    new "Nomiya"
+    new "野宫"
 
     # game/definitions.rpy:620
     old "Yuuko"
-    new "Yuuko"
+    new "优子"
 
     # game/definitions.rpy:621
     old "Sae"
-    new "Sae"
+    new "纱枝"
 
     # game/definitions.rpy:622
     old "Akira"
-    new "Akira"
+    new "晃"
 
     # game/definitions.rpy:623
     old "Hideaki"
-    new "Hideaki"
+    new "秀明"
 
     # game/definitions.rpy:624
     old "Jigoro"
-    new "Jigoro"
+    new "治五郎"
 
     # game/definitions.rpy:625
     old "Meiko"
-    new "Meiko"
+    new "芽衣子"
 
     # game/definitions.rpy:626
     old "Shopkeep"
-    new "Ladenbesitzer"
+    new "店主"
 
     # game/definitions.rpy:627)
     old "Miki"
-    new "Miki"
+    new "美贵"
 
     # game/definitions.rpy:630
     old "{s}Shizune{/s} Misha"
-    new "{s}Shizune{/s} Misha"
+    new "{s}静音{/s} 米莎"
 
     # game/definitions.rpy:637
     old "Purple-haired girl"
-    new "Mädchen mit violettem Haar"
+    new "紫发女孩"
 
     # game/definitions.rpy:638
     old "Twintails girl"
-    new "Mädchen mit Zöpfen"
+    new "双马尾女孩"
 
     # game/definitions.rpy:639
     old "Strange girl"
@@ -1956,7 +1956,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:640
     old "Wavy-haired girl"
-    new "Mädchen mit gewelltem Haar"
+    new "波浪发女孩"
 
     # game/definitions.rpy:641
     old "Laughing girl"
@@ -1964,11 +1964,11 @@ translate zh_hans strings:
 
     # game/definitions.rpy:642
     old "Bespectacled hallmate"
-    new "Flurnachbar mit Brille"
+    new "眼镜男"
 
     # game/definitions.rpy:643
     old "Tall man"
-    new "Großer Mann"
+    new "高大的男子"
 
     # game/definitions.rpy:644
     old "Librarian"
@@ -1980,11 +1980,11 @@ translate zh_hans strings:
 
     # game/definitions.rpy:646
     old "Gallery owner"
-    new "Galeristin"
+    new "画廊管理员"
 
     # game/definitions.rpy:647
     old "Well-dressed person"
-    new "Gut angezogene Person"
+    new "衣冠楚楚的人"
 
     # game/definitions.rpy:648
     old "Smiling man"
@@ -1992,7 +1992,7 @@ translate zh_hans strings:
 
     # game/definitions.rpy:649
     old "Huge man"
-    new "壮硕的男子"
+    new "大块头的男子"
 
     # game/definitions.rpy:650
     old "Slim girl"
@@ -2000,5 +2000,4 @@ translate zh_hans strings:
 
     # game/definitions.rpy:651
     old "Woman with braid"
-    new "Frau mit Zopf"
-
+    new "扎辫子的女人"
