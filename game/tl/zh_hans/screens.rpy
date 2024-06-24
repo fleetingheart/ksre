@@ -166,6 +166,9 @@ translate zh_hans strings:
     old "Japanese"
     new "日语"
 
+    old "Simplified Chinese"
+    new "简体中文"
+
     # game/screens.rpy:439
     old "Are you sure you want to\nload this save?"
     new "你确定要\n载入此存档吗？"
