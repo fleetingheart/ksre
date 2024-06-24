@@ -330,7 +330,7 @@ translate zh_hans a1_monday_bundle_of_hisao_40bfb4d0:
 translate zh_hans a1_monday_bundle_of_hisao_faed1ade:
 
     # n "{vspace=30}I had already had a full day by then to digest everything. To them, it was all fresh. They were even willing to sell our house in order to pay for a cure."
-    n "{vspace=30当时已经过去了一整天，我有足够的时间来消化所有的信息。对他们来说，却是始料未及的情况。他们甚至想卖掉房子来凑钱支付治疗费。"
+    n "{vspace=30}当时已经过去了一整天，我有足够的时间来消化所有的信息。对他们来说，却是始料未及的情况。他们甚至想卖掉房子来凑钱支付治疗费。"
 
 # game/script-a1-monday.rpy:257
 translate zh_hans a1_monday_bundle_of_hisao_4aa0947a:
