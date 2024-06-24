@@ -175,7 +175,7 @@ translate zh_hans strings:
 
     # game/screens.rpy:455
     old "Scene"
-    new "常见"
+    new "场景"
 
     # game/screens.rpy:467
     old "Are you sure you want to\ndelete this save?"
