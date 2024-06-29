@@ -142,7 +142,7 @@ translate fr a4_hanako_truancy_d4d4da08:
 translate fr a4_hanako_truancy_ae6b7db7:
 
     # "Sweet bread and strawberry milk for Misha, a bowl of ramen and juice for Shizune. I heave a sigh of relief as I put it all down, after the significant difficulty I had carrying it all in addition to my own lunch."
-    "Un cake et un lait à la fraise pour Misha, un bol de ramen et un jus de bruit pour Shizune. Je pousse un soupir de soulagement après avoir posé tout ça, ayant eu du mal à tout transporter, y compris mon propre déjeuner."
+    "Un cake et un lait à la fraise pour Misha, un bol de ramen et un jus de fruit pour Shizune. Je pousse un soupir de soulagement après avoir posé tout ça, ayant eu du mal à tout transporter, y compris mon propre déjeuner."
 
 # game/script-a4-hanako.rpy:117
 translate fr a4_hanako_truancy_6995e597:
