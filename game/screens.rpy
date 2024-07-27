@@ -414,6 +414,7 @@ screen file_slots():
                 mousewheel True
                 draggable True
                 xysize 675, 500
+                yinitial 1.0
 
                 has vbox
 
