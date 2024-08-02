@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-19 11:20
+﻿# TODO: Translation updated at 2024-05-17 22:54
 
 # game/script-a1-sunday.rpy:15
 translate fr a1_sunday_dont_panic_1310289a:
@@ -8056,7 +8056,7 @@ translate fr a1_sunday_throwing_balls_ef2b123c_31:
 translate fr a1_sunday_throwing_balls_a24023a0:
 
     # hi "You know I don't know how to read sign language."
-    hi "Tu sais que je ne sais pas lire le langage des signes."
+    hi "Tu sais que je ne sais pas lire la langue des signes."
 
 # game/script-a1-sunday.rpy:4899
 translate fr a1_sunday_throwing_balls_ef2b123c_32:
@@ -8080,7 +8080,7 @@ translate fr a1_sunday_throwing_balls_643e3d50:
 translate fr a1_sunday_throwing_balls_40642865:
 
     # "Maybe I should get around to asking Misha for some lessons on sign language."
-    "Peut-être que je devrais demander à Misha des leçons sur le langage des signes."
+    "Peut-être que je devrais demander à Misha des leçons sur la langue des signes."
 
 # game/script-a1-sunday.rpy:4915
 translate fr a1_sunday_throwing_balls_8fa0d251:

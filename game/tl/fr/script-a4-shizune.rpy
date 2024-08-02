@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-19 11:20
+﻿# TODO: Translation updated at 2024-05-17 22:54
 
 # game/script-a4-shizune.rpy:8
 translate fr a4_shizune_grand_strategy_b15bdb6b:
@@ -1830,7 +1830,7 @@ translate fr a4_shizune_invasion_ef2b123c_1:
 translate fr a4_shizune_invasion_55c40d54:
 
     # hx "What are you doing? Does everyone who uses sign language mumble while they do it?"
-    hx "Qu'est-ce que tu fais? Est-ce que tous ceux qui utilisent le langage des signes doivent marmonner en même temps?"
+    hx "Qu'est-ce que tu fais? Est-ce que tous ceux qui utilisent la langue des signes doivent marmonner en même temps?"
 
 # game/script-a4-shizune.rpy:1221
 translate fr a4_shizune_invasion_00101555:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-19 11:20
+﻿# TODO: Translation updated at 2024-05-17 22:54
 
 # game/script-a1-saturday.rpy:13
 translate fr a1_saturday_support_f2d1123c:
@@ -5524,13 +5524,13 @@ translate fr a1_saturday_shanghaied_564f7f97:
 translate fr a1_saturday_shanghaied_09774dc6:
 
     # mi "But, luckily, I knew a little sign language, and we became friends."
-    mi "Mais, heureusement, je connaissais un peu le langage des signes, et on est devenues amies."
+    mi "Mais, heureusement, je connaissais un peu la langue des signes, et on est devenues amies."
 
 # game/script-a1-saturday.rpy:3399
 translate fr a1_saturday_shanghaied_b97bc15e:
 
     # "I want to know where Misha learned how to sign, but I guess that's something for another time."
-    "J'ai bien envie de savoir où Misha a appris le langage des signes, mais je suppose que ça sera pour une autre fois."
+    "J'ai bien envie de savoir où Misha a appris la langue des signes, mais je suppose que ça sera pour une autre fois."
 
 # game/script-a1-saturday.rpy:3404
 translate fr a1_saturday_shanghaied_fb71b80a:

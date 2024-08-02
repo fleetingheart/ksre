@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-19 11:20
+﻿# TODO: Translation updated at 2024-05-17 22:54
 
 # game/script-a3-shizune.rpy:6
 translate fr a3_shizune_force_feedback_76b2fe88:
@@ -2368,7 +2368,7 @@ translate fr a3_shizune_use_mention_distinction_0f5a963d:
 translate fr a3_shizune_use_mention_distinction_0dd406a7:
 
     # hi "When Shizune asked me if I wanted to come here, we talked a little, and it seemed like you and your dad don't use sign language. I'm just guessing, but if you don't, I could teach you some. I'm not a master at it, though."
-    hi "Quand Shizune m'a demandé si je voulais venir ici, on a un peu parlé, et apparemment ton père et toi n'utilisez pas le langage des signes. Je suppose juste, mais si c'est le cas, je peux t'apprendre un peu. Je ne suis pas un expert cela dit."
+    hi "Quand Shizune m'a demandé si je voulais venir ici, on a un peu parlé, et apparemment ton père et toi n'utilisez pas la langue. Je suppose juste, mais si c'est le cas, je peux t'apprendre un peu. Je ne suis pas un expert cela dit."
 
 # game/script-a3-shizune.rpy:1522
 translate fr a3_shizune_use_mention_distinction_8df1b024:
@@ -3052,7 +3052,7 @@ translate fr a3_shizune_pangrammatic_window_79087848:
 translate fr a3_shizune_pangrammatic_window_0a4cedae:
 
     # "Although, sign language must look strange to most people. I'm only used to it from being around Shizune and Misha so much."
-    "Cela dit, le langage des signes doit sembler étrange à la plupart des gens. Je suis seulement habitué à le voir à cause de Shizune et Misha."
+    "Cela dit, la langue des signes doit sembler étrange à la plupart des gens. Je suis seulement habitué à la voir à cause de Shizune et Misha."
 
 # game/script-a3-shizune.rpy:2007
 translate fr a3_shizune_pangrammatic_window_5c43a14b:
@@ -4198,7 +4198,7 @@ translate fr a3_shizune_closer_5d75ce0e:
 translate fr a3_shizune_closer_fa1cc0d4:
 
     # "When I think about it, this is perhaps one of the biggest drawbacks to sign language. Shizune said that the fact that you have to sign your words out with your hands means you have time to reflect on what you say before you say it."
-    "Quand j'y pense, c'est peut-être la façon la plus radicale de repousser quelqu'un dans le langage des signes. Shizune dit que le fait qu'on doive signer tout ce qu'on dit oblige l’exécutant à réfléchir avant de parler."
+    "Quand j'y pense, c'est peut-être la façon la plus radicale de repousser quelqu'un en langue des signes. Shizune dit que le fait qu'on doive signer tout ce qu'on dit oblige l’exécutant à réfléchir avant de parler."
 
 # game/script-a3-shizune.rpy:2713
 translate fr a3_shizune_closer_7aadc1a8:

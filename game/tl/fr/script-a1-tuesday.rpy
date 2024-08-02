@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-19 11:20
+﻿# TODO: Translation updated at 2024-05-17 22:54
 
 # game/script-a1-tuesday.rpy:11
 translate fr a1_tuesday_smalltalk_994c28be:
@@ -112,7 +112,7 @@ translate fr a1_tuesday_smalltalk_92b85ee6:
 translate fr a1_tuesday_smalltalk_edddf1d6:
 
     # "I think back to my talk with Kenji yesterday, Misha's constant laughter, and Shizune's sweeping sign language gestures."
-    "Je repense à ma conversation avec Kenji hier, les rires constants de Misha, et les gestes de Shizune dans le langage des signes."
+    "Je repense à ma conversation avec Kenji hier, les rires constants de Misha, et les gestes de Shizune en langue des signes."
 
 # game/script-a1-tuesday.rpy:51
 translate fr a1_tuesday_smalltalk_417514a1:

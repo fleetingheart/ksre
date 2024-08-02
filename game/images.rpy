@@ -101,7 +101,7 @@ init python:
     make_sprites("yuukoshang")
 
     class Drugs(renpy.Displayable):
-        drugs_wordlist = [
+        drugs_wordlist = list(map(_, [
             "Disopyramide",
             "Warfarin",
             "Diltiazem",
@@ -148,7 +148,7 @@ init python:
             "ventricular fibrillation",
             "ataxia",
             "asthma"
-        ]
+        ]))
 
         def __init__(self, width, height):
             renpy.Displayable.__init__(self)
