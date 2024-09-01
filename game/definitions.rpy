@@ -599,6 +599,7 @@ define _gallery_images = (
 )
 
 define adv = ADVCharacter(ctc="ctc", ctc_position="fixed", what_prefix=_("“"), what_suffix=_("”"))
+define name_only = Character(kind=adv, who_color="#FFFFFF")
 define narrator = Character(what_prefix="", what_suffix="")
 
 define hi  = Character(_("Hisao"),    who_color="#629276")
@@ -620,7 +621,6 @@ define hx  = Character(_("Jigoro"),   who_color="#99AACC")
 define emm = Character(_("Meiko"),    who_color="#995050")
 define sk  = Character(_("Shopkeep"), who_color="#7187A8")
 define mk  = Character(_("Miki"),     who_color="#AD735E")
-define iw  = Character(_("Iwanako"),  who_color="#FFFFFF")
 
 define mi_shi     = Character(_("Shizune"), who_color="#FF809F")
 define mi_not_shi = Character(_("{s}Shizune{/s} Misha"), who_color="#FF809F")

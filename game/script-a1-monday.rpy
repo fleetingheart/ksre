@@ -56,7 +56,7 @@ label a1_monday:
 
         "Pathetic."
 
-        iw "Ahmm… yes. I asked a friend to give you that note… I'm so glad you got it."
+        "Iwanako" "Ahmm… yes. I asked a friend to give you that note… I'm so glad you got it."
 
         "A shy, joyous smile that makes me so tense I couldn't move a single muscle even if I tried."
 
@@ -106,7 +106,7 @@ label a1_monday:
 
         "My throat is tight; I doubt I could even force a word out if I tried."
 
-        iw "You see…"
+        "Iwanako" "You see…"
 
         play sound sfx_heartslow
         show heartattack alpha
@@ -115,7 +115,7 @@ label a1_monday:
         hide heartattack alpha
         with Dissolve(0.4)
 
-        iw "…I wanted to know…"
+        "Iwanako" "…I wanted to know…"
 
         stop music fadeout 0.5
 
@@ -135,7 +135,7 @@ label a1_monday:
         hide heartattack alpha
         with Dissolve(0.2)
 
-        iw "… if you'd go out with me…"
+        "Iwanako" "… if you'd go out with me…"
 
         "I stand there, motionless, save for my pounding heart."
 
@@ -143,11 +143,11 @@ label a1_monday:
 
         play music music_tragic fadein 0.05
 
-        iw "… Hisao?"
+        "Iwanako" "… Hisao?"
 
         "I reach up to try to massage my throat, but this only sends spikes of blinding pain along my arms."
 
-        iw "Hisao?!"
+        "Iwanako" "Hisao?!"
 
         play sound sfx_heartfast
         show heartattack alpha
@@ -192,7 +192,7 @@ label a1_monday:
         show heartattack residual
         with Dissolve(0.8)
 
-        iw "HISAO!"
+        "Iwanako" "HISAO!"
 
         "The beating in my chest suddenly stops, and I go weak at the knees."
 
