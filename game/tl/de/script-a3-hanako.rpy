@@ -297,7 +297,7 @@ translate de a3_hanako_invitation_1876c501:
 # game/script-a3-hanako.rpy:221
 translate de a3_hanako_invitation_896db8ef:
 
-    # hi "Are you you okay, Lilly? You look tired."
+    # hi "Are you okay, Lilly? You look tired."
     hi "Bist du okay, Lilly? Du siehst müde aus."
 
 # game/script-a3-hanako.rpy:226

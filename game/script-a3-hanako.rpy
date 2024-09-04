@@ -218,7 +218,7 @@ label a3_hanako:
 
         "Rather than keeping her eyes pinned to the ground and hiding behind her blind escort, busily trying to convince herself that the world around them doesn't exist, she's merely keeping her eyes low and helping Lilly around."
 
-        hi "Are you you okay, Lilly? You look tired."
+        hi "Are you okay, Lilly? You look tired."
 
         show lilly basic_weaksmile_close
         with charachange
