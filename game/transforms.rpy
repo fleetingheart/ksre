@@ -403,8 +403,8 @@ define charadistant = dissolve
 
 define charachangealways = dissolve
 define charachangeev = dissolve
-define charachange = None # charachangealways (must be customizable)
-define charachangefast = None # Dissolve(0.2) (must be customizable)
+define charachange = charachangealways # (TODO: must be customizable)
+define charachangefast = Dissolve(0.2) # (TODO: must be customizable)
 
 define charamovechange = Dissolvemove(2.0)
 
