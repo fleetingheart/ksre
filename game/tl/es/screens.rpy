@@ -154,6 +154,10 @@ translate es strings:
     old "Japanese"
     new "Japonés"
 
+    # game/screens.rpy:376
+    old "Simplified Chinese"
+    new "Chino Simplificado"
+
     # game/screens.rpy:414
     old "Scene"
     new "Escena"
@@ -241,7 +245,6 @@ translate es strings:
     # game/screens.rpy:401
     old "Are you sure you want to\nload this save?"
     new "¿Está seguro de que quiere\ncargar este estado?"
-# TODO: Translation updated at 2023-12-22 20:14
 
 translate es strings:
 
@@ -260,6 +263,14 @@ translate es strings:
     # game/screens.rpy:1050
     old "Colorblind Filter"
     new "Filtro Daltónico"
+
+    # game/screens.rpy:1061
+    old "Mental health"
+    new "Salud Mental"
+
+    # game/screens.rpy:1068
+    old "Skip hurtful adult scenes"
+    new "Omitir escenas adultas ofensivas"
 
     # game/screens.rpy:1054
     old "None"
