@@ -295,7 +295,7 @@ translate es a3_hanako_invitation_1876c501:
     "En lugar de mantener sus ojos fijos en el piso y esconderse tras su escolta ciega, ocupada intentando convencerse de que el mundo a su alrededor no existe, está apenas manteniendo sus ojos bajos y ayudando a Lilly a moverse."
 
 # game/script-a3-hanako.rpy:221
-translate es a3_hanako_invitation_896db8ef:
+translate es a3_hanako_invitation_c8fe2480:
 
     # hi "Are you okay, Lilly? You look tired."
     hi "¿Estás bien, Lilly? Pareces cansada."
