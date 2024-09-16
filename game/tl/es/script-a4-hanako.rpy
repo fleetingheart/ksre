@@ -5748,6 +5748,12 @@ translate es a4_hanako_whispered_touch_bb1befee:
     # hi "I've already seen the real you, though. You didn't need to take off your clothes for that."
     hi "Pero ya he visto a la verdadera tú. No necesitabas quitarte la ropa de esa forma."
 
+# game/script-a4-hanako.rpy:3420
+translate es a4_hanako_whispered_touch_27005eb4:
+
+    # "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
+    "La siguiente escena está desactivada en función de sus opciones de accesibilidad. Si sigue avanzando, pasará al día siguiente."
+
 # game/script-a4-hanako.rpy:3423
 translate es a4_hanako_whispered_touch_168faa6e:
 
