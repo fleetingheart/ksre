@@ -78,7 +78,7 @@ init python:
     make_sprites("emicas")
     make_sprites("eminude", nude_if=lambda name: True)
     make_sprites("emiwheel")
-    make_sprites("hanagown")
+    make_sprites("hanagown", nude_if=lambda name: "stock" in name)
     make_sprites("hanako")
     make_sprites("hideaki")
     make_sprites("jigoro")
