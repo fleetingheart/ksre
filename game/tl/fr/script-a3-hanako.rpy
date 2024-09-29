@@ -295,7 +295,7 @@ translate fr a3_hanako_invitation_1876c501:
     "Plutôt que de garder les yeux rivés vers le sol et de se cacher derrière son escorte aveugle, essayant de toutes ses forces de se convaincre que le monde autour d'elle n'existe pas, elle ne baisse presque pas les yeux et aide Lilly."
 
 # game/script-a3-hanako.rpy:217
-translate fr a3_hanako_invitation_896db8ef:
+translate fr a3_hanako_invitation_c8fe2480:
 
     # hi "Are you okay, Lilly? You look tired."
     hi "Ça va, Lilly? Tu sembles fatiguée."
