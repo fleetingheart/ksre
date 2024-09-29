@@ -295,7 +295,7 @@ translate ru a3_hanako_invitation_1876c501:
     "Вместо того чтобы, уставившись себе под ноги, прятаться за своей слепой сопровождающей, пытаясь ничего вокруг не замечать, она только слегка опускает взгляд и помогает Лилли."
 
 # game/script-a3-hanako.rpy:206
-translate ru a3_hanako_invitation_896db8ef:
+translate ru a3_hanako_invitation_c8fe2480:
 
     # hi "Are you okay, Lilly? You look tired."
     hi "У тебя всё в порядке, Лилли? Ты кажешься усталой."

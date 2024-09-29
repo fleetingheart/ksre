@@ -295,7 +295,7 @@ translate zh_hans a3_hanako_invitation_1876c501:
     "她没有像通常那样盯着地板躲在她的同伴后面试图忘掉周围世界的存在。她只是目光稍低的帮着莉莉的忙。"
 
 # game/script-a3-hanako.rpy:221
-translate zh_hans a3_hanako_invitation_896db8ef:
+translate zh_hans a3_hanako_invitation_c8fe2480:
 
     # hi "Are you okay, Lilly? You look tired."
     hi "莉莉你还好吗？你看起来很累了。"
