@@ -7712,7 +7712,12 @@ label a3_emi:
 
         "It's obvious that Emi's departure was not based on the call of nature. Something's bothering her, and I have to know what it is."
 
-        if have_a_minute or _in_replay:
+        if not have_a_minute and not _in_replay:
+            $ talk_to_her_mom = False
+
+            call a3ec4o1
+
+        else:
             menu:
                 with menueffect
                 "How to go about it?"
