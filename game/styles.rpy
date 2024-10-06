@@ -95,6 +95,8 @@ style doublespeak_window2 is say_window:
     xsize 0.46875
     xalign 0.995
 
+style doublespeak_text is say_dialogue
+
 style choice_vbox is vbox:
     align (0.5, 0.4)
     spacing 20
