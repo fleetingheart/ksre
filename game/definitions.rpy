@@ -107,7 +107,7 @@ python early:
             name = current_scene
 
         if name in scene_names:
-            return __(scene_names[name])
+            return __(scene_names[name]) + (__(" (replay)") if _in_replay else "")
 
         return __("No scene")
 
