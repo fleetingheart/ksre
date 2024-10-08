@@ -18,6 +18,8 @@ init python:
 
     style.say_dialogue.size = 20
 
+    scene_names["pxt_real_start.pxt_start"] = _("pXt Start")
+
 init:
     $ mods["pxt"] = "pXt"
     $ mods_with_menus["pxt"] = True
