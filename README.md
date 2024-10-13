@@ -33,5 +33,5 @@ This project is not affiliated with Four Leaf Studios. The code is licensed unde
 ## Feedback and Questions
 We value your feedback and are available to address any questions you may have. You can reach us through the following channels:
 - [Discord Server](https://discord.gg/RA3ZeFvNZ4)
-- [Email](mailto:fleetingheartbeatstudios@gmail.com)
+- [Email](mailto:staff@fhs.sh)
 - [Codeberg](https://codeberg.org/fhs)
