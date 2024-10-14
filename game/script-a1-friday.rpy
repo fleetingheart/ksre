@@ -953,6 +953,12 @@ label a1_friday:
     
     else:
         label .foot_and_mouth:
+            if _in_replay:
+                scene bg school_hallway3
+                show crowd
+
+                play ambient sfx_crowd_indoors fadein 0.3
+
             if promised and go_for_it and not _in_replay:
                 "Normally, I'd join the flow and grab a lunch myself, but today is different."
 
