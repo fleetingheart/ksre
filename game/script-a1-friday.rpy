@@ -595,7 +595,7 @@ label a1_friday:
             if _in_replay:
                 return
 
-    if (go_for_it and are_student_council) or (not go_for_it and not kick_shizu):
+    if go_through_shizu() and ((go_for_it and are_student_council) or (not go_for_it and not kick_shizu)):
         label .no_free_lunch:
             scene bg school_council
             with locationchange
@@ -953,13 +953,6 @@ label a1_friday:
     
     else:
         label .foot_and_mouth:
-            call .class_goes_lazily
-
-            scene bg school_hallway3
-            show crowd
-
-            play ambient sfx_crowd_indoors fadein 0.3
-
             if promised and go_for_it and not _in_replay:
                 "Normally, I'd join the flow and grab a lunch myself, but today is different."
 
@@ -3476,6 +3469,8 @@ label .choice_emi_lunch:
     "Misha luckily understands that I'm serious, a stroke of luck that I could tell what I mean so clearly even she got it. She retreats to translate our discussion to Shizune."
 
     "Neither of them talk to me after that."
+
+    call .class_goes_lazily
 
     return
 
