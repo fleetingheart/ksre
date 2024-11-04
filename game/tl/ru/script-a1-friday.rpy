@@ -6052,6 +6052,22 @@ translate ru strings:
     old "I don't want to talk about it, okay?"
     new "Я не хочу об этом говорить, ясно?"
 
+    # game/script-a1-friday.rpy:1110
+    old "Eeek!"
+    new "Ай!"
+
+    # game/script-a1-friday.rpy:1110
+    old "Hello."
+    new "Привет."
+
+    # game/script-a1-friday.rpy:1320
+    old "Talk like what?"
+    new "Как разговариваем?"
+
+    # game/script-a1-friday.rpy:1320
+    old "Like what?"
+    new "Как?"
+
     # game/script-a1-friday.rpy:2269
     old "Lilly noticed it all too quickly…"
     new "Лилли довольно быстро всё поняла…"
