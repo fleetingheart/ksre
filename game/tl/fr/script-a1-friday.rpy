@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-19 11:20
+﻿# Generated at 2024-11-08 23:04:57
 
 # game/script-a1-friday.rpy:13
 translate fr a1_friday_exercise_00513a69:
@@ -643,55 +643,55 @@ translate fr a1_friday_no_recovery_ce3bc0ba:
     "À la place, presque tout le monde semble être déjà là. Je reconnais la plupart des gens de la classe maintenant, mais les noms m'échappent encore."
 
 # game/script-a1-friday.rpy:482
-translate fr a1_friday_slow_recovery_d0650c63:
+translate fr a1_friday_no_recovery_d0650c63:
 
     # "The halls are quiet as the courtyard was, naturally so since everyone is in class. I knock lightly at the door of 3-3 and push open the door when Mutou calls from the other side."
     "Les couloirs sont aussi silencieux que la cour l'était, naturellement vu que tout le monde est en classe. Je frappe doucement à la porte de la classe 3-3 et la pousse après que Mutou ait répondu de l'autre côté."
 
 # game/script-a1-friday.rpy:487
-translate fr a1_friday_slow_recovery_8969d572:
+translate fr a1_friday_no_recovery_8969d572:
 
     # hi "Sorry I'm late."
     hi "Désolé du retard."
 
 # game/script-a1-friday.rpy:489
-translate fr a1_friday_slow_recovery_61ea9f25:
+translate fr a1_friday_no_recovery_61ea9f25:
 
     # "Fifteen pairs of eyes turn to me."
     "Quinze paire d'yeux se tournent vers moi."
 
 # game/script-a1-friday.rpy:494
-translate fr a1_friday_slow_recovery_1b8b00bb:
+translate fr a1_friday_no_recovery_1b8b00bb:
 
     # mu "Good morning, Nakai."
     mu "Bonjour, Nakai."
 
 # game/script-a1-friday.rpy:496
-translate fr a1_friday_slow_recovery_808004e5:
+translate fr a1_friday_no_recovery_808004e5:
 
     # "Mutou seems to be somewhat confounded by my coming in late, as if I interrupted his flow or something."
     "Mutou semble être légèrement déconcerté par mon retard, comme si j'avais interrompu son rythme ou quelque chose."
 
 # game/script-a1-friday.rpy:498
-translate fr a1_friday_slow_recovery_d02a4525:
+translate fr a1_friday_no_recovery_d02a4525:
 
     # "Judging from the rambling lectures his classes tend to be, that might be the case."
     "Vu les cours magistraux que peuvent être ses cours, quand il ne divague pas, ça doit être le cas."
 
 # game/script-a1-friday.rpy:500
-translate fr a1_friday_slow_recovery_e6f7adcd:
+translate fr a1_friday_no_recovery_e6f7adcd:
 
     # "I pass him the note the nurse gave me. Mutou takes it with a nod and reads it quickly."
     "Je lui passe le mot que l'infirmier m'a donné. Mutou le prend en hochant la tête et le lit rapidement."
 
 # game/script-a1-friday.rpy:505
-translate fr a1_friday_slow_recovery_104e2518:
+translate fr a1_friday_no_recovery_104e2518:
 
     # "He lifts his eyebrows and gives me a kind of a stern look but doesn't say anything, just nods solemnly again."
     "Il lève les sourcils et me lance un genre de regard sévère mais ne dit rien, et hoche la tête solennellement à nouveau."
 
 # game/script-a1-friday.rpy:507
-translate fr a1_friday_slow_recovery_ffe8ed3c:
+translate fr a1_friday_no_recovery_ffe8ed3c:
 
     # "I shrug and he gestures at me to run along so I naturally do."
     "Je hausse les épaules et il me fait un geste pour que j'aille m'asseoir, ce que je fais, naturellement."
@@ -3618,91 +3618,91 @@ translate fr a1_friday_mind_your_step_6e21c5a8:
     # "Now that she brings it up, I notice that my breathing is strangely heavy. The uphill walk has really done a job on me."
     "Maintenant qu'elle le dit, je remarque que ma respiration est étrangement lourde. La montée à pied m'a été vraiment difficile."
 
-# game/script-a1-friday.rpy:2299
+# game/script-a1-friday.rpy:2312
 translate fr class_goes_lazily_03d06529:
 
     # "The class goes on lazily. I think I'm starting to get into the rhythm of the school."
     "Le cours se poursuit paresseusement. Je crois que je commence à m'habituer au rythme de l'école."
 
-# game/script-a1-friday.rpy:2301
+# game/script-a1-friday.rpy:2314
 translate fr class_goes_lazily_5d8a4c18:
 
     # "I have even stopped worrying about taking notes and being overtly attentive. The first days, I was pretty high-strung in class."
     "J'ai même cessé de m'inquiéter de la prise de notes et d'être ouvertement attentif. Les premiers jours, j'étais très nerveux en classe."
 
-# game/script-a1-friday.rpy:2303
+# game/script-a1-friday.rpy:2316
 translate fr class_goes_lazily_332b057d:
 
     # "Mutou finishes his lecture about electricity early, but continues without a pause about the festival."
     "Mutou termine sa lecture sur l'électricité en avance, mais enchaîne avec le festival sans une pause."
 
-# game/script-a1-friday.rpy:2308
+# game/script-a1-friday.rpy:2321
 translate fr class_goes_lazily_b032cdfb:
 
     # mu "So, as you know, the festival is on the day after tomorrow. I hope everyone's projects are going to be successful this year."
     mu "Donc, comme vous le savez, le festival est après-demain. J'espère que les projets de tout le monde vont être réussis cette année."
 
-# game/script-a1-friday.rpy:2313
+# game/script-a1-friday.rpy:2326
 translate fr class_goes_lazily_4526da28:
 
     # mu "Have a good time, but also come Sunday, please keep the meaning of this festival in your minds…"
     mu "Passez un bon moment, mais quand viendra dimanche, gardez s'il vous plaît le sens du festival en tête..."
 
-# game/script-a1-friday.rpy:2315
+# game/script-a1-friday.rpy:2328
 translate fr class_goes_lazily_b0169987:
 
     # mi "Games and fried food!"
     mi "Jeux et nourriture frite!"
 
-# game/script-a1-friday.rpy:2317
+# game/script-a1-friday.rpy:2330
 translate fr class_goes_lazily_515f270e:
 
     # "Everyone bursts out in laughter, and so do I."
     "Tout le monde éclate de rire, et moi aussi."
 
-# game/script-a1-friday.rpy:2322
+# game/script-a1-friday.rpy:2335
 translate fr class_goes_lazily_fa4aaac5:
 
     # mu "Yes, thank you Mikado."
     mu "Oui, merci Mikado."
 
-# game/script-a1-friday.rpy:2327
+# game/script-a1-friday.rpy:2340
 translate fr class_goes_lazily_c14d1c29:
 
     # mu "But what I meant was more the—{w=.5}{nw}"
     mu "Mais ce que je veux dire est que—{w=.5}{nw}"
 
-# game/script-a1-friday.rpy:2331
+# game/script-a1-friday.rpy:2344
 translate fr class_goes_lazily_68e54c91:
 
     # "The remainder of his sentence is buried beneath the ring of the lunch bells, and everyone starts packing their things."
     "Le reste de sa phrase est englouti dans la sonnerie du déjeuner, et tout le monde commence à ranger ses affaires."
 
-# game/script-a1-friday.rpy:2333
+# game/script-a1-friday.rpy:2346
 translate fr class_goes_lazily_f562324f:
 
     # "Mutou deliberates for a moment, but since almost nobody seems to pay attention any more, he gives up and sits down."
     "Mutou parle encore pendant un moment, mais puisque personne ne semble lui accorder d'attention, il abandonne et s'assied."
 
-# game/script-a1-friday.rpy:2343
+# game/script-a1-friday.rpy:2356
 translate fr class_goes_lazily_9f7f451b:
 
     # "It's crowded in the hallway… or as crowded as hallways in this school probably get. Most of the students seem to be heading down for the cafeteria."
     "C'est bondé dans le couloir... ou aussi bondé que le reste des couloirs de l'école doivent probablement l'être. La plupart des étudiants semblent se diriger vers la cafétéria en bas."
 
-# game/script-a1-friday.rpy:2353
+# game/script-a1-friday.rpy:2366
 translate fr mas_doesnt_bother_447a18a1:
 
     # "Misha, and by proxy, Shizune, doesn't bother me for the entire morning."
     "Misha, et par extension, Shizune, ne m'embêtent pas de la matinée."
 
-# game/script-a1-friday.rpy:2357
+# game/script-a1-friday.rpy:2370
 translate fr mas_doesnt_bother_50cd6aa8:
 
     # "When the bell rings, I don't even look at the two of them as I walk out of the class."
     "Quand la cloche sonne, je ne les regarde même pas et sors de la classe."
 
-# game/script-a1-friday.rpy:2365
+# game/script-a1-friday.rpy:2378
 translate fr mas_doesnt_bother_9f7f451b:
 
     # "It's crowded in the hallway… or as crowded as hallways in this school probably get. Most of the students seem to be heading down for the cafeteria."
@@ -6091,4 +6091,3 @@ translate fr strings:
     # game/script-a1-friday.rpy:3392
     old "I'll go with Shizune, after all I'm in the Student Council now."
     new "Je vais avec Shizune, je suis du conseil des étudiants maintenant."
-

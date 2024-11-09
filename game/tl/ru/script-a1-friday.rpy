@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-13 10:56
+﻿# Generated at 2024-11-08 23:07:31
 
 # game/script-a1-friday.rpy:14
 translate ru a1_friday_exercise_00513a69:
@@ -643,55 +643,55 @@ translate ru a1_friday_no_recovery_ce3bc0ba:
     "Напротив, почти все, кажется, уже здесь. Большинство одноклассников я уже знаю в лицо, хотя их имена всё ещё ускользают из памяти."
 
 # game/script-a1-friday.rpy:480
-translate ru a1_friday_slow_recovery_d0650c63:
+translate ru a1_friday_no_recovery_d0650c63:
 
     # "The halls are quiet as the courtyard was, naturally so since everyone is in class. I knock lightly at the door of 3-3 and push open the door when Mutou calls from the other side."
     "В коридорах так же тихо, как и во дворе, – естественно, все ведь на уроках. Я легонько стучу в дверь класса 3-3 и, когда Муто отзывается, открываю её."
 
 # game/script-a1-friday.rpy:485
-translate ru a1_friday_slow_recovery_8969d572:
+translate ru a1_friday_no_recovery_8969d572:
 
     # hi "Sorry I'm late."
     hi "Извините за опоздание."
 
 # game/script-a1-friday.rpy:487
-translate ru a1_friday_slow_recovery_61ea9f25:
+translate ru a1_friday_no_recovery_61ea9f25:
 
     # "Fifteen pairs of eyes turn to me."
     "Ко мне поворачиваются пятнадцать пар глаз."
 
 # game/script-a1-friday.rpy:492
-translate ru a1_friday_slow_recovery_1b8b00bb:
+translate ru a1_friday_no_recovery_1b8b00bb:
 
     # mu "Good morning, Nakai."
     mu "Доброе утро, Накай."
 
 # game/script-a1-friday.rpy:494
-translate ru a1_friday_slow_recovery_808004e5:
+translate ru a1_friday_no_recovery_808004e5:
 
     # "Mutou seems to be somewhat confounded by my coming in late, as if I interrupted his flow or something."
     "Муто, кажется, немного сбит с толку моим поздним приходом, будто я прервал ход его мыслей."
 
 # game/script-a1-friday.rpy:496
-translate ru a1_friday_slow_recovery_d02a4525:
+translate ru a1_friday_no_recovery_d02a4525:
 
     # "Judging from the rambling lectures his classes tend to be, that might be the case."
     "Судя по тому, какими бессистемными бывают его лекции, дело, скорее всего, именно в этом."
 
 # game/script-a1-friday.rpy:498
-translate ru a1_friday_slow_recovery_e6f7adcd:
+translate ru a1_friday_no_recovery_e6f7adcd:
 
     # "I pass him the note the nurse gave me. Mutou takes it with a nod and reads it quickly."
     "Я протягиваю ему записку от фельдшера. Муто кивает, берёт её и пробегает по ней глазами."
 
 # game/script-a1-friday.rpy:503
-translate ru a1_friday_slow_recovery_104e2518:
+translate ru a1_friday_no_recovery_104e2518:
 
     # "He lifts his eyebrows and gives me a kind of a stern look but doesn't say anything, just nods solemnly again."
     "Он поднимает брови и окидывает меня строгим взглядом, но ничего не говорит, а только снова важно кивает."
 
 # game/script-a1-friday.rpy:505
-translate ru a1_friday_slow_recovery_ffe8ed3c:
+translate ru a1_friday_no_recovery_ffe8ed3c:
 
     # "I shrug and he gestures at me to run along so I naturally do."
     "Я пожимаю плечами, и он жестом указывает мне садиться, что я, естественно, и делаю."
@@ -6052,6 +6052,22 @@ translate ru strings:
     old "I don't want to talk about it, okay?"
     new "Я не хочу об этом говорить, ясно?"
 
+    # game/script-a1-friday.rpy:1110
+    old "Eeek!"
+    new "Ай!"
+
+    # game/script-a1-friday.rpy:1110
+    old "Hello."
+    new "Привет."
+
+    # game/script-a1-friday.rpy:1320
+    old "Talk like what?"
+    new "Как разговариваем?"
+
+    # game/script-a1-friday.rpy:1320
+    old "Like what?"
+    new "Как?"
+
     # game/script-a1-friday.rpy:2269
     old "Lilly noticed it all too quickly…"
     new "Лилли довольно быстро всё поняла…"
@@ -6075,15 +6091,3 @@ translate ru strings:
     # game/script-a1-friday.rpy:3386
     old "I'll go with Shizune, after all I'm in the Student Council now."
     new "Пойду с Сидзунэ, я ведь, в конце концов, теперь в Совете."
-
-    old "Eeek!"
-    new "Ай!"
-
-    old "Hello."
-    new "Привет."
-
-    old "Talk like what?"
-    new "Как разговариваем?"
-
-    old "Like what?"
-    new "Как?"

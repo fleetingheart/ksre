@@ -1,4 +1,5 @@
 ﻿#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
+# Generated at 2024-11-08 23:06:52
 
 # game/script-a1-friday.rpy:17
 translate es a1_friday_exercise_00513a69:
@@ -631,55 +632,55 @@ translate es a1_friday_home_field_advantage_07d47612:
     "Ella señala a mi colección de medicamentos sobre la mesa de noche."
 
 # game/script-a1-friday.rpy:465
-translate es a1_friday_slow_recovery_d0650c63:
+translate es a1_friday_no_recovery_d0650c63:
 
     # "The halls are quiet as the courtyard was, naturally so since everyone is in class. I knock lightly at the door of 3-3 and push open the door when Mutou calls from the other side."
     "Los corredores se encuentran tan silenciosos como lo estaba el patio, naturalmente ya que todos están en clase. Toco ligeramente en la puerta del 3-3 y la abro cuando Mutou llama del otro lado."
 
 # game/script-a1-friday.rpy:470
-translate es a1_friday_slow_recovery_8969d572:
+translate es a1_friday_no_recovery_8969d572:
 
     # hi "Sorry I'm late."
     hi "Perdón por llegar tarde."
 
 # game/script-a1-friday.rpy:472
-translate es a1_friday_slow_recovery_61ea9f25:
+translate es a1_friday_no_recovery_61ea9f25:
 
     # "Fifteen pairs of eyes turn to me."
     "Quince pares de ojos voltean hacia mí."
 
 # game/script-a1-friday.rpy:477
-translate es a1_friday_slow_recovery_1b8b00bb:
+translate es a1_friday_no_recovery_1b8b00bb:
 
     # mu "Good morning, Nakai."
     mu "Buenos días, Nakai."
 
 # game/script-a1-friday.rpy:479
-translate es a1_friday_slow_recovery_808004e5:
+translate es a1_friday_no_recovery_808004e5:
 
     # "Mutou seems to be somewhat confounded by my coming in late, as if I interrupted his flow or something."
     "Mutou parece estar un poco confundido por mi llegada tardía, como si hubiera interrumpido su flujo o algo así."
 
 # game/script-a1-friday.rpy:481
-translate es a1_friday_slow_recovery_d02a4525:
+translate es a1_friday_no_recovery_d02a4525:
 
     # "Judging from the rambling lectures his classes tend to be, that might be the case."
     "A juzgar por las aburridas conferencias que suelen ser sus clases, ese puede ser el caso."
 
 # game/script-a1-friday.rpy:483
-translate es a1_friday_slow_recovery_e6f7adcd:
+translate es a1_friday_no_recovery_e6f7adcd:
 
     # "I pass him the note the nurse gave me. Mutou takes it with a nod and reads it quickly."
     "Le paso la nota que el enfermero me dio. Mutou la toma asintiendo y la lee rápidamente."
 
 # game/script-a1-friday.rpy:488
-translate es a1_friday_slow_recovery_104e2518:
+translate es a1_friday_no_recovery_104e2518:
 
     # "He lifts his eyebrows and gives me a kind of a stern look but doesn't say anything, just nods solemnly again."
     "Levanta sus cejas y me da una mirada un poco severa pero no dice nada, solo asiente solemnemente una vez más."
 
 # game/script-a1-friday.rpy:490
-translate es a1_friday_slow_recovery_ffe8ed3c:
+translate es a1_friday_no_recovery_ffe8ed3c:
 
     # "I shrug and he gestures at me to run along so I naturally do."
     "Me encojo de hombros y me hace un gesto de que me mueva así que naturalmente lo hago."

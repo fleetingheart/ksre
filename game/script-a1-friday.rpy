@@ -133,11 +133,11 @@ label a1_friday:
                 "Go for it.":
                     $ go_for_it = True
 
-                    call .choice_go_for_it
+                    call a1c9o1
                 "Take it easy.":
                     $ go_for_it = False
 
-                    call .choice_take_it_easy
+                    call a1c9o2
 
             if _in_replay:
                 return
@@ -447,12 +447,12 @@ label a1_friday:
                 "Try to dodge the subject.":
                     $ kick_shizu = False
 
-                    call .choice_dodge_subject
+                    call a1c10o1
 
                 "Kick them out of my room.":
                     $ kick_shizu = True
 
-                    call .choice_kick_shizu
+                    call a1c10o2
             
             if _in_replay:
                 return
@@ -575,22 +575,22 @@ label a1_friday:
                         "Yeah, I sure was having fun fun fun at the nurse's office…" if True:
                             $ fun_fun_at_office = True
 
-                            call .choice_fun_at_office
-                            call .mas_doesnt_bother
+                            call a1c11o1
+                            call mas_doesnt_bother
 
                         "I don't want to talk about it, okay?" if True:
                             $ fun_fun_at_office = False
 
-                            call .choice_dont_want_talk
+                            call a1c11o2
 
                     if _in_replay:
                         return
 
             elif not kick_shizu or _in_replay:
-                call .class_goes_lazily
+                call class_goes_lazily
 
             else:
-                call .mas_doesnt_bother
+                call mas_doesnt_bother
 
             if _in_replay:
                 return
@@ -2291,19 +2291,19 @@ label a1_friday:
                         "Sorry, I'm not in very good condition.":
                             $ not_much_talking = False
 
-                            call .choice_not_good_condition
+                            call a1c13o1
 
                         "I don't really want to talk about it.":
                             $ not_much_talking = True
 
-                            call .choice_not_much_talking
+                            call a1c13o2
 
                     if _in_replay:
                         return
         
     return
 
-label .class_goes_lazily:
+label class_goes_lazily:
     scene bg school_scienceroom
     with shorttimeskip
 
@@ -2357,7 +2357,7 @@ label .class_goes_lazily:
 
     return
 
-label .mas_doesnt_bother:
+label mas_doesnt_bother:
     scene bg school_scienceroom
     with shorttimeskip
 
@@ -2379,7 +2379,7 @@ label .mas_doesnt_bother:
 
     return
 
-label .choice_go_for_it:
+label a1c9o1:
     "What am I doing here?"
 
     "Am I really just going to fold and let Emi pull ahead?"
@@ -2945,7 +2945,7 @@ label .choice_go_for_it:
 
     return
 
-label .choice_take_it_easy:
+label a1c9o2:
     stop music fadeout 10.0
 
     "I let Emi go with her own pace, and she doesn't show mercy, pulling half a lap ahead of me in an instant."
@@ -2996,7 +2996,7 @@ label .choice_take_it_easy:
 
     return
 
-label .choice_dodge_subject:
+label a1c10o1:
     hi "It's nothing."
 
     show shizu basic_normal2
@@ -3188,7 +3188,7 @@ label .choice_dodge_subject:
 
     return
 
-label .choice_kick_shizu:
+label a1c10o2:
     play music music_rain fadein 4.0
 
     "Even so, they have really crossed the line this time. Nosy annoyances."
@@ -3289,7 +3289,7 @@ label .choice_kick_shizu:
 
     return
 
-label .choice_fun_at_office:
+label a1c11o1:
     stop music fadeout 4.0
 
     "God damn it. She just doesn't know when to stop."
@@ -3348,7 +3348,7 @@ label .choice_fun_at_office:
 
     return
 
-label .choice_dont_want_talk:
+label a1c11o2:
     hi "Give up. I'm not going to tell."
 
     show misha hips_grin_close
@@ -3412,16 +3412,16 @@ label .choice_dont_want_talk:
         "I'll go to the lunch with Emi and her friend.":
             $ are_student_council = False
 
-            call .choice_emi_lunch
+            call a1c12o1
 
         "I'll go with Shizune, after all I'm in the Student Council now.":
             $ are_student_council = True
 
-            call .choice_shizune_lunch
+            call a1c12o2
 
     return
 
-label .choice_emi_lunch:
+label a1c12o1:
     hi "Sorry, I can't. I promised to have lunch with someone else already."
 
     show misha perky_confused_close
@@ -3476,11 +3476,11 @@ label .choice_emi_lunch:
 
     "Neither of them talk to me after that."
 
-    call .class_goes_lazily
+    call class_goes_lazily
 
     return
 
-label .choice_shizune_lunch:
+label a1c12o2:
     hi "Fine, I'll come with you, but get off my back for the rest of the class, okay?"
 
     show misha hips_grin_close
@@ -3519,7 +3519,7 @@ label .choice_shizune_lunch:
 
     return
 
-label .choice_not_good_condition:
+label a1c13o1:
     $ renpy.music.set_volume(0.1, 1.0, channel="ambient")
 
     hi "It's all right, I just need to catch my breath. My condition isn't the best, these days."
@@ -3744,7 +3744,7 @@ label .choice_not_good_condition:
 
     return
 
-label .choice_not_much_talking:
+label a1c13o2:
     $ renpy.music.set_volume(0.1, 1.0, channel="ambient")
     stop music fadeout 5.0
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-16 21:54
+﻿# Generated at 2024-11-08 23:06:32
 
 # game/script-a1-friday.rpy:17
 translate de a1_friday_exercise_00513a69:
@@ -631,55 +631,55 @@ translate de a1_friday_home_field_advantage_07d47612:
     "Sie zeigt auf meine Medikamentensammlung auf dem Nachttisch."
 
 # game/script-a1-friday.rpy:465
-translate de a1_friday_slow_recovery_d0650c63:
+translate de a1_friday_no_recovery_d0650c63:
 
     # "The halls are quiet as the courtyard was, naturally so since everyone is in class. I knock lightly at the door of 3-3 and push open the door when Mutou calls from the other side."
     "Auf den Fluren ist es genauso still wie im Schulhof. Natürlich, alle sind im Unterricht. Ich klopfe leise an die Tür von Raum 3-3 und öffne die Tür, als ich Mutous Stimme von drinnen höre."
 
 # game/script-a1-friday.rpy:470
-translate de a1_friday_slow_recovery_8969d572:
+translate de a1_friday_no_recovery_8969d572:
 
     # hi "Sorry I'm late."
     hi "Entschuldigen Sie bitte meine Verspätung."
 
 # game/script-a1-friday.rpy:472
-translate de a1_friday_slow_recovery_61ea9f25:
+translate de a1_friday_no_recovery_61ea9f25:
 
     # "Fifteen pairs of eyes turn to me."
     "Fünfzehn Augenpaare richten sich auf mich."
 
 # game/script-a1-friday.rpy:477
-translate de a1_friday_slow_recovery_1b8b00bb:
+translate de a1_friday_no_recovery_1b8b00bb:
 
     # mu "Good morning, Nakai."
     mu "Guten Morgen, Nakai."
 
 # game/script-a1-friday.rpy:479
-translate de a1_friday_slow_recovery_808004e5:
+translate de a1_friday_no_recovery_808004e5:
 
     # "Mutou seems to be somewhat confounded by my coming in late, as if I interrupted his flow or something."
     "Er scheint etwas verwirrt zu sein, weil ich so spät erschienen bin; als ob ich ihn irgendwie aus dem Konzept gebracht hätte."
 
 # game/script-a1-friday.rpy:481
-translate de a1_friday_slow_recovery_d02a4525:
+translate de a1_friday_no_recovery_d02a4525:
 
     # "Judging from the rambling lectures his classes tend to be, that might be the case."
     "Wenn man bedenkt, wie er im Unterricht einfach drauflos reden kann, kann ich mir das gut vorstellen."
 
 # game/script-a1-friday.rpy:483
-translate de a1_friday_slow_recovery_e6f7adcd:
+translate de a1_friday_no_recovery_e6f7adcd:
 
     # "I pass him the note the nurse gave me. Mutou takes it with a nod and reads it quickly."
     "Ich reiche Mutou den Zettel, den Doc mir gegeben hat. Er nimmt ihn mit einem Nicken und liest ihn."
 
 # game/script-a1-friday.rpy:488
-translate de a1_friday_slow_recovery_104e2518:
+translate de a1_friday_no_recovery_104e2518:
 
     # "He lifts his eyebrows and gives me a kind of a stern look but doesn't say anything, just nods solemnly again."
     "Er hebt die Augenbrauen und schaut mich streng an, sagt sonst aber nichts, sondern nickt nur noch einmal bedächtig."
 
 # game/script-a1-friday.rpy:490
-translate de a1_friday_slow_recovery_ffe8ed3c:
+translate de a1_friday_no_recovery_ffe8ed3c:
 
     # "I shrug and he gestures at me to run along so I naturally do."
     "Ich zucke mit den Schultern. Er weist mich wortlos an, mich zu setzen, was ich auch tue."
@@ -6091,4 +6091,3 @@ translate de strings:
     # game/script-a1-friday.rpy:3397
     old "I'll go with Shizune, after all I'm in the Student Council now."
     new "Ich begleite Shizune. Immerhin bin ich ja Mitglied im Schülerrat."
-

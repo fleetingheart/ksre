@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-04-23 17:26
+﻿# Generated at 2024-11-08 23:07:45
 
 # game/script-a1-friday.rpy:17
 translate zh_hans a1_friday_exercise_00513a69:
@@ -631,55 +631,55 @@ translate zh_hans a1_friday_home_field_advantage_07d47612:
     "她指着我床头柜上堆放的那些药品。"
 
 # game/script-a1-friday.rpy:465
-translate zh_hans a1_friday_slow_recovery_d0650c63:
+translate zh_hans a1_friday_no_recovery_d0650c63:
 
     # "The halls are quiet as the courtyard was, naturally so since everyone is in class. I knock lightly at the door of 3-3 and push open the door when Mutou calls from the other side."
     "大堂跟庭院里一样安静无比，大家都在上课，也无可厚非。我轻轻敲了敲3-3班的门，武藤从门那边应了一句。我把门推开。"
 
 # game/script-a1-friday.rpy:470
-translate zh_hans a1_friday_slow_recovery_8969d572:
+translate zh_hans a1_friday_no_recovery_8969d572:
 
     # hi "Sorry I'm late."
     hi "抱歉我迟到了。"
 
 # game/script-a1-friday.rpy:472
-translate zh_hans a1_friday_slow_recovery_61ea9f25:
+translate zh_hans a1_friday_no_recovery_61ea9f25:
 
     # "Fifteen pairs of eyes turn to me."
     "十五双眼睛都朝向了我。"
 
 # game/script-a1-friday.rpy:477
-translate zh_hans a1_friday_slow_recovery_1b8b00bb:
+translate zh_hans a1_friday_no_recovery_1b8b00bb:
 
     # mu "Good morning, Nakai."
     mu "早上好，中井同学。"
 
 # game/script-a1-friday.rpy:479
-translate zh_hans a1_friday_slow_recovery_808004e5:
+translate zh_hans a1_friday_no_recovery_808004e5:
 
     # "Mutou seems to be somewhat confounded by my coming in late, as if I interrupted his flow or something."
     "武藤似乎已因为我的迟到有点不知所措，好像我打断了他的思路什么的。"
 
 # game/script-a1-friday.rpy:481
-translate zh_hans a1_friday_slow_recovery_d02a4525:
+translate zh_hans a1_friday_no_recovery_d02a4525:
 
     # "Judging from the rambling lectures his classes tend to be, that might be the case."
     "他的课本来就十分混乱，据此判断，这次应该是这样。"
 
 # game/script-a1-friday.rpy:483
-translate zh_hans a1_friday_slow_recovery_e6f7adcd:
+translate zh_hans a1_friday_no_recovery_e6f7adcd:
 
     # "I pass him the note the nurse gave me. Mutou takes it with a nod and reads it quickly."
     "我把护士给我的便条递给他。武藤点了点头接了过去，迅速浏览了一下。"
 
 # game/script-a1-friday.rpy:488
-translate zh_hans a1_friday_slow_recovery_104e2518:
+translate zh_hans a1_friday_no_recovery_104e2518:
 
     # "He lifts his eyebrows and gives me a kind of a stern look but doesn't say anything, just nods solemnly again."
     "他扬起眉头严肃地看了我一眼，但一言不发，只是严肃地又点了点头。"
 
 # game/script-a1-friday.rpy:490
-translate zh_hans a1_friday_slow_recovery_ffe8ed3c:
+translate zh_hans a1_friday_no_recovery_ffe8ed3c:
 
     # "I shrug and he gestures at me to run along so I naturally do."
     "我耸了耸肩，然后他给我做了个手势让我坐过去，于是我照做。"
@@ -6091,4 +6091,3 @@ translate zh_hans strings:
     # game/script-a1-friday.rpy:3397
     old "I'll go with Shizune, after all I'm in the Student Council now."
     new "我要和静音去，毕竟我现在属于学生会。"
-
