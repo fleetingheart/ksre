@@ -1,4 +1,4 @@
-﻿# Generated at 2024-11-04 00:23:17
+﻿# Generated at 2024-11-08 23:07:31
 
 # game/script-a1-friday.rpy:14
 translate ru a1_friday_exercise_00513a69:
@@ -3619,91 +3619,91 @@ translate ru a1_friday_mind_your_step_6e21c5a8:
     "При этих её словах я замечаю, что моё дыхание стало невероятно тяжёлым. Прогулка в гору меня здорово вымотала."
 
 # game/script-a1-friday.rpy:2295
-translate ru a1_friday_class_goes_lazily_03d06529:
+translate ru class_goes_lazily_03d06529:
 
     # "The class goes on lazily. I think I'm starting to get into the rhythm of the school."
     "Урок тянется очень неторопливо. Думаю, я начинаю входить в ритм школьной жизни."
 
 # game/script-a1-friday.rpy:2297
-translate ru a1_friday_class_goes_lazily_5d8a4c18:
+translate ru class_goes_lazily_5d8a4c18:
 
     # "I have even stopped worrying about taking notes and being overtly attentive. The first days, I was pretty high-strung in class."
     "Я перестаю конспектировать всё подряд и проявлять чрезмерную внимательность. В первые дни на уроках я был довольно нервным."
 
 # game/script-a1-friday.rpy:2299
-translate ru a1_friday_class_goes_lazily_332b057d:
+translate ru class_goes_lazily_332b057d:
 
     # "Mutou finishes his lecture about electricity early, but continues without a pause about the festival."
     "Муто заканчивает свою лекцию об электричестве чуть раньше и сразу же переходит к теме фестиваля."
 
 # game/script-a1-friday.rpy:2304
-translate ru a1_friday_class_goes_lazily_b032cdfb:
+translate ru class_goes_lazily_b032cdfb:
 
     # mu "So, as you know, the festival is on the day after tomorrow. I hope everyone's projects are going to be successful this year."
     mu "Как вы знаете, фестиваль состоится послезавтра. Надеюсь, все ваши проекты будут в этом году иметь успех."
 
 # game/script-a1-friday.rpy:2309
-translate ru a1_friday_class_goes_lazily_4526da28:
+translate ru class_goes_lazily_4526da28:
 
     # mu "Have a good time, but also come Sunday, please keep the meaning of this festival in your minds…"
     mu "Желаю всем приятно провести время, но, пожалуйста, не забывайте истинного значения фестиваля…"
 
 # game/script-a1-friday.rpy:2311
-translate ru a1_friday_class_goes_lazily_b0169987:
+translate ru class_goes_lazily_b0169987:
 
     # mi "Games and fried food!"
     mi "Игры и жареная еда!"
 
 # game/script-a1-friday.rpy:2313
-translate ru a1_friday_class_goes_lazily_515f270e:
+translate ru class_goes_lazily_515f270e:
 
     # "Everyone bursts out in laughter, and so do I."
     "Класс взрывается смехом, и я тоже."
 
 # game/script-a1-friday.rpy:2318
-translate ru a1_friday_class_goes_lazily_fa4aaac5:
+translate ru class_goes_lazily_fa4aaac5:
 
     # mu "Yes, thank you Mikado."
     mu "Да, спасибо, Микадо."
 
 # game/script-a1-friday.rpy:2323
-translate ru a1_friday_class_goes_lazily_c14d1c29:
+translate ru class_goes_lazily_c14d1c29:
 
     # mu "But what I meant was more the—{w=.5}{nw}"
     mu "Но я имел в виду—{w=.5}{nw}"
 
 # game/script-a1-friday.rpy:2327
-translate ru a1_friday_class_goes_lazily_68e54c91:
+translate ru class_goes_lazily_68e54c91:
 
     # "The remainder of his sentence is buried beneath the ring of the lunch bells, and everyone starts packing their things."
     "Конец предложения тонет в звоне колокола, возвещающего большую перемену, и все начинают собираться."
 
 # game/script-a1-friday.rpy:2329
-translate ru a1_friday_class_goes_lazily_f562324f:
+translate ru class_goes_lazily_f562324f:
 
     # "Mutou deliberates for a moment, but since almost nobody seems to pay attention any more, he gives up and sits down."
     "Муто некоторое время размышляет, стоит ли продолжать, но, поскольку его уже никто не слушает, сдаётся и садится за стол."
 
 # game/script-a1-friday.rpy:2339
-translate ru a1_friday_class_goes_lazily_9f7f451b:
+translate ru class_goes_lazily_9f7f451b:
 
     # "It's crowded in the hallway… or as crowded as hallways in this school probably get. Most of the students seem to be heading down for the cafeteria."
     "В коридоре людно… настолько, насколько обычно бывает людно в коридорах этой школы. Большинство учеников направляется в столовую."
 
 # game/script-a1-friday.rpy:2349
-translate ru a1_friday_mas_doesnt_bother_447a18a1:
+translate ru mas_doesnt_bother_447a18a1:
 
     # "Misha, and by proxy, Shizune, doesn't bother me for the entire morning."
     "Миша и, соответственно, Сидзунэ, не беспокоили меня целое утро."
 
 # game/script-a1-friday.rpy:2353
-translate ru a1_friday_mas_doesnt_bother_50cd6aa8:
+translate ru mas_doesnt_bother_50cd6aa8:
 
     # "When the bell rings, I don't even look at the two of them as I walk out of the class."
     "Когда начинается перерыв, я выхожу из класса, даже не посмотрев на них."
 
 # game/script-a1-friday.rpy:2361
-translate ru a1_friday_mas_doesnt_bother_9f7f451b:
+translate ru mas_doesnt_bother_9f7f451b:
 
     # "It's crowded in the hallway… or as crowded as hallways in this school probably get. Most of the students seem to be heading down for the cafeteria."
     "В коридоре людно… настолько, насколько обычно бывает людно в коридорах этой школы. Большинство учеников направляется в столовую."

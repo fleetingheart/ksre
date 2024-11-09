@@ -1,4 +1,4 @@
-﻿# Generated at 2024-11-04 00:28:05
+﻿# Generated at 2024-11-08 23:07:45
 
 # game/script-a1-friday.rpy:17
 translate zh_hans a1_friday_exercise_00513a69:
@@ -3619,91 +3619,91 @@ translate zh_hans a1_friday_no_free_lunch_890bcbf6:
     "当我想起来的时候，已经放学了，我累得什么也不想干，只想回家，做作业，然后睡觉。"
 
 # game/script-a1-friday.rpy:2303
-translate zh_hans a1_friday_class_goes_lazily_03d06529:
+translate zh_hans class_goes_lazily_03d06529:
 
     # "The class goes on lazily. I think I'm starting to get into the rhythm of the school."
     "课堂显得懒懒散散。我觉得自己已经融入到学校的节奏中了。"
 
 # game/script-a1-friday.rpy:2305
-translate zh_hans a1_friday_class_goes_lazily_5d8a4c18:
+translate zh_hans class_goes_lazily_5d8a4c18:
 
     # "I have even stopped worrying about taking notes and being overtly attentive. The first days, I was pretty high-strung in class."
     "我甚至不再顾着抄笔记，也不专心听讲了。最初几天里，我可是相当专注的。"
 
 # game/script-a1-friday.rpy:2307
-translate zh_hans a1_friday_class_goes_lazily_332b057d:
+translate zh_hans class_goes_lazily_332b057d:
 
     # "Mutou finishes his lecture about electricity early, but continues without a pause about the festival."
     "武藤早早讲完电学的内容，紧接着就谈到了校园祭的事情。"
 
 # game/script-a1-friday.rpy:2312
-translate zh_hans a1_friday_class_goes_lazily_b032cdfb:
+translate zh_hans class_goes_lazily_b032cdfb:
 
     # mu "So, as you know, the festival is on the day after tomorrow. I hope everyone's projects are going to be successful this year."
     mu "那么，你们大概知道，校园祭在后天举行。我希望大家今年的项目能搞得成功。"
 
 # game/script-a1-friday.rpy:2317
-translate zh_hans a1_friday_class_goes_lazily_4526da28:
+translate zh_hans class_goes_lazily_4526da28:
 
     # mu "Have a good time, but also come Sunday, please keep the meaning of this festival in your minds…"
     mu "记得星期天要来，也祝你们玩得开心，不过也请大家记住这个校园祭的意义……"
 
 # game/script-a1-friday.rpy:2319
-translate zh_hans a1_friday_class_goes_lazily_b0169987:
+translate zh_hans class_goes_lazily_b0169987:
 
     # mi "Games and fried food!"
     mi "游戏和油炸食品！"
 
 # game/script-a1-friday.rpy:2321
-translate zh_hans a1_friday_class_goes_lazily_515f270e:
+translate zh_hans class_goes_lazily_515f270e:
 
     # "Everyone bursts out in laughter, and so do I."
     "大家都笑喷出来，我也不例外。"
 
 # game/script-a1-friday.rpy:2326
-translate zh_hans a1_friday_class_goes_lazily_fa4aaac5:
+translate zh_hans class_goes_lazily_fa4aaac5:
 
     # mu "Yes, thank you Mikado."
     mu "是，谢谢你的发言，椎名。"
 
 # game/script-a1-friday.rpy:2331
-translate zh_hans a1_friday_class_goes_lazily_c14d1c29:
+translate zh_hans class_goes_lazily_c14d1c29:
 
     # mu "But what I meant was more the—{w=.5}{nw}"
     mu "但是我想说的可不只—{w=.5}{nw}"
 
 # game/script-a1-friday.rpy:2335
-translate zh_hans a1_friday_class_goes_lazily_68e54c91:
+translate zh_hans class_goes_lazily_68e54c91:
 
     # "The remainder of his sentence is buried beneath the ring of the lunch bells, and everyone starts packing their things."
     "他的话被午饭的铃声所淹没，大家都开始收拾东西。"
 
 # game/script-a1-friday.rpy:2337
-translate zh_hans a1_friday_class_goes_lazily_f562324f:
+translate zh_hans class_goes_lazily_f562324f:
 
     # "Mutou deliberates for a moment, but since almost nobody seems to pay attention any more, he gives up and sits down."
     "武藤思量了一阵，但是好像没人注意他了，也就只好作罢，坐了下来。"
 
 # game/script-a1-friday.rpy:2347
-translate zh_hans a1_friday_class_goes_lazily_9f7f451b:
+translate zh_hans class_goes_lazily_9f7f451b:
 
     # "It's crowded in the hallway… or as crowded as hallways in this school probably get. Most of the students seem to be heading down for the cafeteria."
     "走廊挤满了人……或者说挤到不能再挤了。大部分学生似乎都下楼往餐厅走去。"
 
 # game/script-a1-friday.rpy:2357
-translate zh_hans a1_friday_mas_doesnt_bother_447a18a1:
+translate zh_hans mas_doesnt_bother_447a18a1:
 
     # "Misha, and by proxy, Shizune, doesn't bother me for the entire morning."
     "米莎和她的伙伴静音，整个早上都没有再打扰我。"
 
 # game/script-a1-friday.rpy:2361
-translate zh_hans a1_friday_mas_doesnt_bother_50cd6aa8:
+translate zh_hans mas_doesnt_bother_50cd6aa8:
 
     # "When the bell rings, I don't even look at the two of them as I walk out of the class."
     "下课铃一响，我连看都没看她们一眼就走出了教室。"
 
 # game/script-a1-friday.rpy:2369
-translate zh_hans a1_friday_mas_doesnt_bother_9f7f451b:
+translate zh_hans mas_doesnt_bother_9f7f451b:
 
     # "It's crowded in the hallway… or as crowded as hallways in this school probably get. Most of the students seem to be heading down for the cafeteria."
     "走廊挤满了人……或者说挤到不能再挤了。大部分学生似乎都下楼往餐厅走去。"

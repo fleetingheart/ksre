@@ -576,7 +576,7 @@ label a1_friday:
                             $ fun_fun_at_office = True
 
                             call a1c11o1
-                            call .mas_doesnt_bother
+                            call mas_doesnt_bother
 
                         "I don't want to talk about it, okay?" if True:
                             $ fun_fun_at_office = False
@@ -587,10 +587,10 @@ label a1_friday:
                         return
 
             elif not kick_shizu or _in_replay:
-                call .class_goes_lazily
+                call class_goes_lazily
 
             else:
-                call .mas_doesnt_bother
+                call mas_doesnt_bother
 
             if _in_replay:
                 return
@@ -2303,7 +2303,7 @@ label a1_friday:
         
     return
 
-label .class_goes_lazily:
+label class_goes_lazily:
     scene bg school_scienceroom
     with shorttimeskip
 
@@ -2357,7 +2357,7 @@ label .class_goes_lazily:
 
     return
 
-label .mas_doesnt_bother:
+label mas_doesnt_bother:
     scene bg school_scienceroom
     with shorttimeskip
 
@@ -3476,7 +3476,7 @@ label a1c12o1:
 
     "Neither of them talk to me after that."
 
-    call .class_goes_lazily
+    call class_goes_lazily
 
     return
 

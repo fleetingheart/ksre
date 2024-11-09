@@ -1,4 +1,4 @@
-﻿# Generated at 2024-11-04 00:18:42
+﻿# Generated at 2024-11-08 23:06:32
 
 # game/script-a1-friday.rpy:17
 translate de a1_friday_exercise_00513a69:
@@ -3619,91 +3619,91 @@ translate de a1_friday_no_free_lunch_890bcbf6:
     "Bis ich wieder daran denke ist die Schule vorbei. Ich bin zu müde, um mehr zu tun, als auf mein Zimmer zu gehen, meine Hausaufgaben zu machen und ins Bett zu gehen."
 
 # game/script-a1-friday.rpy:2303
-translate de a1_friday_class_goes_lazily_03d06529:
+translate de class_goes_lazily_03d06529:
 
     # "The class goes on lazily. I think I'm starting to get into the rhythm of the school."
     "Der Unterricht geht nur träge voran. Ich glaube, langsam komme ich in den Rhythmus dieser Schule."
 
 # game/script-a1-friday.rpy:2305
-translate de a1_friday_class_goes_lazily_5d8a4c18:
+translate de class_goes_lazily_5d8a4c18:
 
     # "I have even stopped worrying about taking notes and being overtly attentive. The first days, I was pretty high-strung in class."
     "Ich habe sogar aufgehört, mitzuschreiben und besonders aufmerksam zu sein. Die ersten Tage war ich im Unterricht ziemlich angespannt."
 
 # game/script-a1-friday.rpy:2307
-translate de a1_friday_class_goes_lazily_332b057d:
+translate de class_goes_lazily_332b057d:
 
     # "Mutou finishes his lecture about electricity early, but continues without a pause about the festival."
     "Herr Mutou beendet seinen Vortrag über Elektrizität eher als geplant, geht aber nahtlos zum Schulfest über."
 
 # game/script-a1-friday.rpy:2312
-translate de a1_friday_class_goes_lazily_b032cdfb:
+translate de class_goes_lazily_b032cdfb:
 
     # mu "So, as you know, the festival is on the day after tomorrow. I hope everyone's projects are going to be successful this year."
     mu "Nun, wie ihr wisst, ist übermorgen das Schulfest. Ich hoffe, dass eure Projekte allesamt gelingen."
 
 # game/script-a1-friday.rpy:2317
-translate de a1_friday_class_goes_lazily_4526da28:
+translate de class_goes_lazily_4526da28:
 
     # mu "Have a good time, but also come Sunday, please keep the meaning of this festival in your minds…"
     mu "Habt Spaß am Sonntag, aber behaltet auch die Bedeutung des Schulfestes im Kopf…"
 
 # game/script-a1-friday.rpy:2319
-translate de a1_friday_class_goes_lazily_b0169987:
+translate de class_goes_lazily_b0169987:
 
     # mi "Games and fried food!"
     mi "Spiele und gebratenes Essen!"
 
 # game/script-a1-friday.rpy:2321
-translate de a1_friday_class_goes_lazily_515f270e:
+translate de class_goes_lazily_515f270e:
 
     # "Everyone bursts out in laughter, and so do I."
     "Alle brechen in Gelächter aus, mich eingeschlossen."
 
 # game/script-a1-friday.rpy:2326
-translate de a1_friday_class_goes_lazily_fa4aaac5:
+translate de class_goes_lazily_fa4aaac5:
 
     # mu "Yes, thank you Mikado."
     mu "Ja, danke für diesen Beitrag, Mikado."
 
 # game/script-a1-friday.rpy:2331
-translate de a1_friday_class_goes_lazily_c14d1c29:
+translate de class_goes_lazily_c14d1c29:
 
     # mu "But what I meant was more the—{w=.5}{nw}"
     mu "Ich meinte allerdings eher die—{w=.5}{nw}"
 
 # game/script-a1-friday.rpy:2335
-translate de a1_friday_class_goes_lazily_68e54c91:
+translate de class_goes_lazily_68e54c91:
 
     # "The remainder of his sentence is buried beneath the ring of the lunch bells, and everyone starts packing their things."
     "Die Pausenglocke übertönt den Rest seines Satzes, und alle packen ihre Sachen zusammen."
 
 # game/script-a1-friday.rpy:2337
-translate de a1_friday_class_goes_lazily_f562324f:
+translate de class_goes_lazily_f562324f:
 
     # "Mutou deliberates for a moment, but since almost nobody seems to pay attention any more, he gives up and sits down."
     "Herr Mutou überlegt einen Moment lang, aber da ihm niemand mehr zuzuhören scheint, gibt er auf und setzt sich."
 
 # game/script-a1-friday.rpy:2347
-translate de a1_friday_class_goes_lazily_9f7f451b:
+translate de class_goes_lazily_9f7f451b:
 
     # "It's crowded in the hallway… or as crowded as hallways in this school probably get. Most of the students seem to be heading down for the cafeteria."
     "Auf dem Flur herrscht großes Gedränge – zumindest für die Verhältnisse diese Schule. Die meisten Schüler scheinen auf dem Weg zur Cafeteria zu sein."
 
 # game/script-a1-friday.rpy:2357
-translate de a1_friday_mas_doesnt_bother_447a18a1:
+translate de mas_doesnt_bother_447a18a1:
 
     # "Misha, and by proxy, Shizune, doesn't bother me for the entire morning."
     "Misha und Shizune haben mich nun schon den ganzen Morgen in Ruhe gelassen."
 
 # game/script-a1-friday.rpy:2361
-translate de a1_friday_mas_doesnt_bother_50cd6aa8:
+translate de mas_doesnt_bother_50cd6aa8:
 
     # "When the bell rings, I don't even look at the two of them as I walk out of the class."
     "Die Glocke läutet. Ich schaue die beiden nicht einmal mehr an und verlasse den Klassenraum."
 
 # game/script-a1-friday.rpy:2369
-translate de a1_friday_mas_doesnt_bother_9f7f451b:
+translate de mas_doesnt_bother_9f7f451b:
 
     # "It's crowded in the hallway… or as crowded as hallways in this school probably get. Most of the students seem to be heading down for the cafeteria."
     "Auf dem Flur herrscht großes Gedränge – zumindest für die Verhältnisse diese Schule. Die meisten Schüler scheinen auf dem Weg zur Cafeteria zu sein."
