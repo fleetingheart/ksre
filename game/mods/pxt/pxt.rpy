@@ -1,5 +1,7 @@
 label pxt_real_start:
 
+label .pxt_a5s1:
+
 scene black onlayer master
 with fade
 

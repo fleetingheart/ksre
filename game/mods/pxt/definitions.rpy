@@ -18,6 +18,12 @@ init python:
 
     style.say_dialogue.size = 20
 
+    scene_names["pxt_real_start.pxt_a5s1"] = _("Act 5 Scene 1")
+    _tracks["mods/pxt/music/tamhe01.ogg"] = _("Close Your Eyes")
+    _tracks["mods/pxt/music/tamhe08.ogg"] = _("Moon Drops")
+    _tracks["mods/pxt/music/tam-n06.ogg"] = _("Walking Path")
+    _tracks["mods/pxt/music/tam-n09.ogg"] = _("Sunbathing")
+
 init:
     $ mods["pxt"] = "pXt"
     $ mods_with_menus["pxt"] = True
