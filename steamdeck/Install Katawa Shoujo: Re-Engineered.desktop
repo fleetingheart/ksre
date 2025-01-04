@@ -2,7 +2,7 @@
 Comment[ru_RU]=
 Comment=
 Comment[en_US]=
-Exec=sh -c '/usr/bin/curl -L https://codeberg.org/api/v1/repos/fhs/katawa-shoujo-re-engineered/raw/steamdeck/install.sh | /bin/bash'
+Exec=sh -c '/usr/bin/curl -L https://cdn.fhs.sh/steamdeck/install.sh | /bin/bash'
 GenericName[ru_RU]=
 GenericName=
 GenericName[en_US]=

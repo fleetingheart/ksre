@@ -30,7 +30,7 @@ fi
 
 mkdir /tmp/ksre-installer
 cd /tmp/ksre-installer
-curl -o installer.sh "https://codeberg.org/fhs/katawa-shoujo-re-engineered/raw/branch/master/steamdeck/installer.sh"
-curl -o shortcuts.py "https://codeberg.org/fhs/katawa-shoujo-re-engineered/raw/branch/master/steamdeck/shortcuts.py"
+curl -o installer.sh "https://cdn.fhs.sh/steamdeck/installer.sh"
+curl -o shortcuts.py "https://cdn.fhs.sh/steamdeck/shortcuts.py"
 chmod +x installer.sh
 ./installer.sh
