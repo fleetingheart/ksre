@@ -8,9 +8,14 @@ define mobile_ts_add = 10
 
 define bold_size = 38
 
+define default_font = "font/playtime.ttf"
+
+translate zh_hans python:
+    default_font = FontGroup().add("font/XiaolaiSC-Regular.ttf", 0x2e80, 0xffff).add("font/playtime.ttf", 0x0000, 0xffff)
+    gui.text_size = 36 + mobile_ts_add * (renpy.android or renpy.ios)
+
 style default:
-    font FontGroup().add("font/cjkFonts-allseto.ttf", 0x2e80, 0xffff).add("font/playtime.ttf", 0x0000, 0xffff)
-    # font "font/playtime.ttf"
+    font default_font
     size 36 + mobile_ts_add * (renpy.android or renpy.ios)
 
 style gui_text is default:
