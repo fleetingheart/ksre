@@ -10,6 +10,8 @@ label a2_emi:
         $ renpy.music.set_volume(1.0,0.0, "ambient")
         play sound sfx_alarmclock
 
+        $ ach("act1emi_achieve")
+
         "My alarm's beeping shatters the early morning quiet, and I find myself wondering where to find the motivation to rise."
 
         scene bg school_dormhisao

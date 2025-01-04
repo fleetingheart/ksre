@@ -6175,6 +6175,8 @@ label a4_lilly:
 
         "But even so, it feels like there's a certain missing part in both of our lives now. Something that can never be replaced."
 
+        $ ach("lillyneutral_achieve")
+
         scene black
         with Dissolve(2.0)
 
@@ -7458,6 +7460,8 @@ label a4_lilly:
         with charachange
 
         li "I promise."
+
+        $ ach("lillygood_achieve")
 
         stop music fadeout 4.0
 

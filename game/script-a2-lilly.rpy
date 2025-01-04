@@ -14,6 +14,8 @@ label a2_lilly:
         scene bg school_dormhisao
         with openeye
 
+        $ ach("act1lilly_achieve")
+
         "I wake to the annoying din of my alarm clock, its bright red numerals lighting up my face."
 
         play music music_dreamy fadein 2.0

@@ -15,6 +15,8 @@ label a2_shizune:
 
         play music music_dreamy fadein 5.0
 
+        $ ach("act1shizune_achieve")
+
         n "{vspace=60}The next morning, I recall what a perfect night last night was. So much so that I can't stop thinking about it."
 
         n "It's probably not the most appropriate time to reminisce, since I have a test first period."

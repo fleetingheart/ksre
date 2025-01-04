@@ -4812,6 +4812,8 @@ label a4_shizune:
             stop ambient fadeout 2.0
             stop music fadeout 2.0
 
+            $ ach("shizunegood_achieve")
+
             if _in_replay:
                 return
     else:
@@ -5619,6 +5621,8 @@ label a4_shizune:
             "Every moment where I could have prevented this, or solved the problem, comes back to me. It makes me smile in a way without amusement."
 
             stop music fadeout 4.0
+
+            $ ach("shizunebad_achieve")
 
             if _in_replay:
                 return

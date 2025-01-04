@@ -13,6 +13,8 @@ label a2_hanako:
 
         play sound sfx_impact2
 
+        $ ach("act1hanako_achieve")
+
         "My alarm blares into my ears, only to be swiftly silenced by my fist."
 
         scene bg school_dormhisao

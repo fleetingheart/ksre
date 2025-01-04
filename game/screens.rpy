@@ -90,7 +90,7 @@ screen choice(items):
                 else:
                     foreground "check_fg_op_cb"
                     hover_foreground "check_fg_cb"
-                    action [AddToSet(persistent._seen_choices, i.caption), i.action]
+                    action [AddToSet(persistent._seen_choices, i.caption), i.action, check_all_choices]
 
 screen nvl(dialogue, items=None):
     window id "window":
@@ -737,7 +737,10 @@ screen gallery(page=0):
                         xysize 220, 170
                         hovered Function(local_items.add, i)
                         unhovered Function(local_items.remove, i)
-                        action Call("watch_gallery", img[1:] if img[0].startswith("thumb/") else img)
+                        if i is len(_gallery_images) - 1:
+                            action [Function(ach, "fullcomplete_achieve"), Call("watch_gallery", img[1:] if img[0].startswith("thumb/") else img)]
+                        else:
+                            action Call("watch_gallery", img[1:] if img[0].startswith("thumb/") else img )
 
                         if i in local_items:
                             image Composite((220, 170),

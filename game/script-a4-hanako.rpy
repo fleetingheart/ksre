@@ -1303,6 +1303,8 @@ label a4_hanako:
 
             "But one thing is not questioned; that shutting that door brought a close to more than that single visit."
 
+            $ ach("hanakobad_achieve")
+
             if _in_replay:
                 return
 
@@ -1478,6 +1480,8 @@ label a4_hanako:
             "As physically close as we may be, it feels like we're further apart than ever. Hanako is a fragile person, though, and I would never want to hurt her."
 
             "That was also the way things always were, and the way things between us will probably always be."
+
+            $ ach("hanakoneutral_achieve")
 
             stop music fadeout 2.0
 
@@ -4408,6 +4412,8 @@ label a4_hanako:
         ha "Then, please accept my first gift to you, Hisao…"
 
         hi "Hanako…?"
+
+        $ ach("hanakogood_achieve")
 
         stop ambient fadeout 1.0
 

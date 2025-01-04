@@ -470,6 +470,7 @@ label a1_monday:
     label .gateway_effect:
         scene bg school_gate
         with Dissolve(3.0)
+        $ ach("prologue_achieve")
 
         play music music_happiness
 

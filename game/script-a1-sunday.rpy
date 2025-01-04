@@ -5809,6 +5809,8 @@ label a1_sunday:
 
             "I realize that this is the fitting end to a truly, truly bad day."
 
+            $ ach("kenji_achieve")
+
             stop music fadeout 0.1
             play sound sfx_crunchydeath
 

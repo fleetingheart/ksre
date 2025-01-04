@@ -1589,6 +1589,9 @@ label a4_emi:
         with charachangeev
 
         emi "What do you want to do today?"
+        
+
+        $ ach("emigood_achieve")
 
         stop music fadeout 3.0
 

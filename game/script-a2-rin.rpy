@@ -11,6 +11,8 @@ label a2_rin:
 
         play music music_normal fadein 6.0
 
+        $ ach("act1rin_achieve")
+
         "It's already half past eight, but this morning's class has not yet begun. We were supposed to have physics but the teacher is nowhere to be seen."
 
         "Had I known this beforehand, I would have slept in too."
