@@ -1,3 +1,6 @@
 [submodule "fastlane"]
 	path = fastlane
-	url = https://codeberg.org/fhs/fastlane
+	url = https://codeberg.org/fhs/fastlane.git
+[submodule "flatpak"]
+	path = flatpak
+	url = https://codeberg.org/fhs/flatpak.git
