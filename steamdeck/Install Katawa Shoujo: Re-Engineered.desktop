@@ -1,0 +1,22 @@
+[Desktop Entry]
+Comment[ru_RU]=
+Comment=
+Comment[en_US]=
+Exec=sh -c '/usr/bin/curl -L https://codeberg.org/fhs/katawa-shoujo-re-engineered/raw/branch/master/steamdeck/install.sh | /bin/bash'
+GenericName[ru_RU]=
+GenericName=
+GenericName[en_US]=
+MimeType=
+Name[ru_RU]=Установить Katawa Shoujo: Re-Engineered
+Name=Install Katawa Shoujo: Re-Engineered
+Name[en]=Install Katawa Shoujo: Re-Engineered
+Path=/tmp/
+StartupNotify=false
+Terminal=true
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+
