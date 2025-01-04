@@ -3310,11 +3310,11 @@ label a3_lilly:
 
         show evh:
             zoom 1.0 xalign 0.4 yalign 0.2
-            ease 4.0 zoom 0.667 xalign 0.5 yalign 0.5
+            ease 4.0 xalign 0.5 yalign 0.5
         with None
         show evh lilly_handjob_stroke_normopen:
             zoom 1.0 xalign 0.4 yalign 0.2
-            ease 4.0 zoom 0.667 xalign 0.5 yalign 0.5
+            ease 4.0 xalign 0.5 yalign 0.5
         with charachangeev
 
         "With a look of slight surprise, she slowly moves her hands downwards, her breath catching as she brushes the side of my lower hair."

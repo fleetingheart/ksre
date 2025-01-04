@@ -12784,3 +12784,19 @@ translate fr strings:
     old "That way… you can confirm that you are, in fact… alive."
     new "De cette façon... tu peux confirmer que tu es, vraiment... en vie."
 
+# TODO: Translation updated at 2025-01-03 06:54
+
+# game/script-a4-rin.rpy:5555
+translate fr a4_rin_proof_of_existence_115223a8:
+
+    # nvl clear
+    # centered_b "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
+    nvl clear
+    centered_b "De cette façon... tu peux confirmer que tu es, vraiment... {color=#fff}en vie.{/color}"
+
+translate fr strings:
+
+    # game/script-a4-rin.rpy:5559
+    old "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
+    new "De cette façon... tu peux confirmer que tu es, vraiment... {color=#fff}en vie.{/color}"
+

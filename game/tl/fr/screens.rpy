@@ -287,4 +287,11 @@ translate fr strings:
 
     # game/screens.rpy:1066
     old "Skip hurtful adult scenes"
-    new "Sauter les scènes pour adultes potentiellement blessantes"
+    new "Sauter les scènes pour adultes potentiellement blessantes"# TODO: Translation updated at 2024-12-18 15:10
+
+translate fr strings:
+
+    # game/screens.rpy:376
+    old "Simplified Chinese"
+    new "Simplified Chinese"
+

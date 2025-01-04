@@ -12015,3 +12015,17 @@ translate es strings:
     # game/script-a2-rin.rpy:7524
     old "What about Emi?"
     new "¿Qué hay de Emi?"
+# TODO: Translation updated at 2025-01-03 06:43
+
+# game/script-a2-rin.rpy:3443
+translate es a2_rin_eternity_in_an_hour_3bd0996d:
+
+    # extend "\nAnd a heaven in a wild flower,"
+    extend "\nY a un Cielo en una Flor Silvestre,"
+
+# game/script-a2-rin.rpy:3447
+translate es a2_rin_eternity_in_an_hour_83447599:
+
+    # extend "\nAnd eternity in an hour."
+    extend "\nY la Eternidad en una hora."
+

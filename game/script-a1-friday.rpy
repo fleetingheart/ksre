@@ -1100,18 +1100,22 @@ label a1_friday:
             $ renpy.music.set_volume(0.5, 0.0, channel="ambient")
             play ambient sfx_rooftop fadein 2.0
 
-            scene bg school_roof at bgright
+            scene bg school_roof at bgright:
+                zoom 1.02
             show emi basic_closedgrin at center
             with Fade(0.5, 0.3, 1.0, color="#FFF")
 
             "Emi shoves the door open and steps beaming into the sunlight."
 
-            show rin silhouette at offscreenright
+            show rin silhouette at offscreenright:
+                ypos 1.02
             with None
 
             show bg at center
-            show emi at left
-            show rin at tworight
+            show emi at left:
+                ypos 1.02
+            show rin at tworight:
+                ypos 1.02
             with ease
 
             show emi basic_shock
@@ -1124,7 +1128,8 @@ label a1_friday:
             show emi basic_hes
             with charachange
 
-            show emi at twoleft
+            show emi at twoleft:
+                ypos 1.02
             with charamove
 
             emi "Yipes! You scared me, Rin!"
@@ -1132,7 +1137,7 @@ label a1_friday:
             "Wait, isn't she…"
 
             show rin relaxed_surprised
-            with charachange
+            with charachangealways
 
             play music music_rin fadein 2.0
 
@@ -1576,7 +1581,8 @@ label a1_friday:
 
             $ renpy.music.set_volume(1.0, 0.0, channel="ambient")
 
-            scene bg school_library
+            scene bg school_library:
+                yalign 0.5 zoom 1.02
             with locationskip
 
             "Walking inside, I see that there are about as many students here as there were on Tuesday, all the more evident from the almost total silence enveloping the room."

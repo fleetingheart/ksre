@@ -270,3 +270,19 @@ translate de strings:
     old "This question will not be shown again after you start playing."
     new "Diese Frage wird nach Spielbeginn nicht mehr angezeigt."
 
+# TODO: Translation updated at 2024-12-18 04:28
+
+translate de strings:
+
+    # game/screens.rpy:376
+    old "Simplified Chinese"
+    new "Simplified Chinese"
+
+    # game/screens.rpy:1061
+    old "Mental health"
+    new "Mental health"
+
+    # game/screens.rpy:1068
+    old "Skip hurtful adult scenes"
+    new "Skip hurtful adult scenes"
+

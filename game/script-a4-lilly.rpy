@@ -4155,7 +4155,7 @@ label a4_lilly:
 
         scene ev akira_park:
             right
-            acdc_warp 15.0 zoom 0.8
+            acdc_warp 15.0
         with whiteout
 
         play music music_night
@@ -4894,8 +4894,8 @@ label a4_lilly:
         stop ambient fadeout 14.0
         show ev hisao_teacup:
             truecenter
-            zoom 0.85
-            acdc_warp 15.0 zoom 0.8
+            zoom 1.05
+            acdc_warp 15.0 zoom 1.0
         with locationchange
 
         "I look down, seeing my face reflected in the by now lukewarm cup of neglected tea sitting in front of me."
@@ -6901,7 +6901,7 @@ label a4_lilly:
 
         "For minutes I just lay where I am, mindlessly staring ahead while my scattered thoughts coalesce in my slowly waking mind."
 
-        scene bg hosp_ceiling:
+        show bg hosp_ceiling:
             alpha 0.0
             linear 5.0 alpha 1.0
 

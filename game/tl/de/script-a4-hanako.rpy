@@ -7476,3 +7476,11 @@ translate de strings:
     old "Trust my own judgment."
     new "Dem eigenen Urteil vertrauen."
 
+# TODO: Translation updated at 2024-12-18 04:28
+
+# game/script-a4-hanako.rpy:3420
+translate de a4_hanako_whispered_touch_27005eb4:
+
+    # "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
+    "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
+

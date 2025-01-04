@@ -12784,3 +12784,19 @@ translate zh_hans strings:
     old "That way… you can confirm that you are, in fact… alive."
     new "这样一来……你才能向自己证明，你确实……活着。"
 
+# TODO: Translation updated at 2025-01-03 07:04
+
+# game/script-a4-rin.rpy:5555
+translate zh_hans a4_rin_proof_of_existence_115223a8:
+
+    # nvl clear
+    # centered_b "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
+    nvl clear
+    centered_b "这样一来……你才能向自己证明，你确实……{color=#fff}活着。{/color}"
+
+translate zh_hans strings:
+
+    # game/script-a4-rin.rpy:5559
+    old "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
+    new "这样一来……你才能向自己证明，你确实……{color=#fff}活着。{/color}"
+

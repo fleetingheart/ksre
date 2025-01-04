@@ -4,7 +4,8 @@
 
 label a2_rin:
     label .a_wider_field_of_vision:
-        scene bg school_scienceroom
+        scene bg school_scienceroom:
+            yalign 0.5 zoom 1.02
         with locationchange
 
         pause 1.0
@@ -85,7 +86,8 @@ label a2_rin:
 
         "Not a minute too soon, the lunch bells ring."
 
-        scene bg school_hallway3
+        scene bg school_hallway3 at center:
+            yalign 0.5 zoom 1.02
         with locationchange
 
         play music music_running
@@ -366,7 +368,7 @@ label a2_rin:
         "I bend my neck backwards to take a look where she is looking."
 
         scene bg misc_sky:
-            xalign 0.0
+            align (0.0, 0.5) zoom 1.02
             warp acdc_warp 40.0 xalign 1.0
         with locationchange
 
@@ -443,16 +445,16 @@ label a2_rin:
 
         "Emi has snuck up on us without either noticing and is only a step away from me, holding several packages wrapped in plastic film in her arms."
 
-        show bg at right
-        with charamovefaster
-
+        show bg at right:
+            yalign 0.5 zoom 1.02
         show emi excited_happy_close:
             center
             ypos 1.2
-            easein 0.5 center
+            easein 0.5 ypos 1.02
         with charaenter
 
-        show emi at center
+        show emi at center:
+            ypos 1.02
 
         "She leans forwards and peeks over me, overshadowing my face almost exactly the same way I overshadowed Rin before."
 
@@ -531,17 +533,15 @@ label a2_rin:
 
         "All three of us ravenously dig into the simple meal. The bread is surprisingly decent and readily fills my stomach."
 
-        show rin basic_awayabsent:
+        show rin basic_awayabsent_close:
             yanchor 1.0 ypos 1.2 xanchor 0.5 xpos 1.0 alpha 0.0
             ease 1.0 ypos 1.07 xpos 0.9 alpha 1.0
         with None
 
-        show rin
-
         show emi:
             xpos 0.3
         show bg at bgleft
-        with charamovefast
+        with Dissolvemove(1.0)
 
         show rin:
             center
@@ -884,7 +884,7 @@ label a2_rin:
         play music music_another fadein 2.0
 
         show rin relaxed_surprised_close
-        with charachange
+        with charachangealways
 
         "She tilts her head, her brows forming questioning arches, as if she doesn't understand that I didn't understand the question."
 
@@ -910,7 +910,7 @@ label a2_rin:
         "Although I've seen her do everything with her feet already, from eating to painting, this display of dexterity is so prodigious that I just stare at her, stunned."
 
         show rin negative_annoyed_close
-        with charachange
+        with charachangealways
 
         "Rin contemplates her blank paper intently. The sharp tip of her brush hovers over the paper in anticipation."
 
@@ -943,7 +943,7 @@ label a2_rin:
         "I get the feeling that for the first time since we met, Rin is actually looking at me, instead of in my general direction."
 
         show rin negative_annoyed_close
-        with charachange
+        with charachangealways
 
         "She sketches with confident, bold sweeps of the delicate brush, not caring about the potentially destructive consequences of an accidentally misplaced stroke."
 
@@ -966,7 +966,7 @@ label a2_rin:
         "Rin is not helping the process, either."
 
         show rin negative_annoyed_close
-        with charachange
+        with charachangealways
 
         "She doesn't stand still for even ten seconds; tilting her head from side to side to judge her drawing, biting at her lower lip, looking unsatisfied, and constantly shuffling around like she was on hot coals."
 
@@ -1421,15 +1421,18 @@ label a2_rin:
 
         stop music fadeout 2.0
 
-        scene bg school_scienceroom
+        scene bg school_scienceroom at center:
+            yalign 0.5 zoom 1.02
         with locationskip
 
         "From the corner of my eye I can see Shizune and Misha pause their unavoidably animated conversation and turn almost simultaneously in my direction."
 
         "They clearly want something from me; I can tell from the way Shizune smiles. It's too obnoxiously bright to be sincere and too calculated to be spontaneous."
 
-        show shizu behind_smile at tworight
-        show misha perky_smile at twoleft
+        show shizu behind_smile at tworight:
+            ypos 1.02
+        show misha perky_smile at twoleft:
+            ypos 1.02
         with charaenter
 
         play music music_normal fadein 2.0
@@ -1570,7 +1573,8 @@ label a2_rin:
 
         pause 0.5
 
-        show ev hisaobird_2 at center
+        show ev hisaobird_2 at center:
+            alpha 1.0
         with charachangeev
 
         "Conjuring up the image of a bird in my mind's eye, I turn my gaze back to the notebook and deliberately draw a thick line across the paper to get started."
@@ -1905,7 +1909,7 @@ label a2_rin:
         hi "Good for you."
 
         show rin relaxed_nonchalant_close
-        with charachange
+        with charachangealways
 
         stop music fadeout 6.0
 
@@ -1977,9 +1981,6 @@ label a2_rin:
         scene bg school_hallway3
         show crowd behind ev
         show rin basic_awayabsent behind ev at center
-        show ev watch_worn:
-            truecenter
-            easeout 0.5 ypos 1.0 alpha 0.0
         with locationchange
 
         hide ev
@@ -1996,7 +1997,7 @@ label a2_rin:
         hi "I'd like to know what you meant by that."
 
         show rin negative_spaciness
-        with charachange
+        with charachangealways
 
         "She gives me a weird look and tilts her head a few degrees to the left, but doesn't say anything for a while."
 
@@ -2548,6 +2549,8 @@ label a2_rin:
 
         $ renpy.music.set_volume(0.5, 0.0, channel="ambient")
 
+        $ _window = False
+
         play sound sfx_startpistol
         play ambient sfx_emisprinting
 
@@ -2555,6 +2558,8 @@ label a2_rin:
             xalign 1.0
             easein 1.0 xalign 0.0
         with silentflash
+
+        window auto True
 
         "Emi explodes off the block, disappearing from the starting line in a blur."
 
@@ -2733,7 +2738,7 @@ label a2_rin:
 
         "I can see that she's actually like a coiled spring."
 
-        scene ev emitrack_blocks_close_grin
+        show ev emitrack_blocks_close_grin
         with locationchange
 
         "As the starter tells everyone to get set, her head snaps up, and her eyes narrow slightly."
@@ -2743,10 +2748,14 @@ label a2_rin:
         play sound sfx_startpistol
         play ambient sfx_emisprinting
 
+        $ _window = False
+
         scene ev emi_run_face:
             zoom 1.0 xalign 0.5 yalign 0.5
             ease 10.0 zoom 1.055
         with locationskip
+
+        window auto True
 
         "When the pistol goes off, it's as if she's been unleashed from a cage, like she was always moving at this blinding speed, but we couldn't see it happening until the starter's pistol dispelled the illusion of motionlessness."
 
@@ -2925,7 +2934,7 @@ label a2_rin:
         with locationskip
 
         show rin basic_absent
-        with charachange
+        with charachangealways
 
         rin "Well, let's go down."
 
@@ -3123,7 +3132,7 @@ label a2_rin:
         play sound sfx_emipacing
 
         show emi at offscreenleft
-        with charamovefast
+        with charamovefaster
 
         hide emi
 
@@ -3433,11 +3442,11 @@ label a2_rin:
 
         no "To see a world in a grain of sand"
 
-        extend "{vspace=30}And a heaven in a wild flower,"
+        extend "\nAnd a heaven in a wild flower,"
 
         no "Hold infinity in the palm of your hand"
 
-        extend "{vspace=30}And eternity in an hour."
+        extend "\nAnd eternity in an hour."
 
         "There is a solemn and unbelievably awkward silence after he finishes reciting the short fragment. Nobody dares speak a word."
 
@@ -3456,21 +3465,15 @@ label a2_rin:
         "He is clearly touched by this notion. I almost expect to see a lone tear rolling down his rough cheek, but it never comes."
 
         show rin basic_awayabsent_close:
-            offscreenright alpha 0.0
-            ease 1.0 xpos 0.9 xanchor 0.5 alpha 1.0
+            xpos 1.1 xanchor 0.5 alpha 0.0
         with None
 
-        show rin
-
-        show nomiya:
-            ease 1.0 xpos 0.3 xanchor 0.5 alpha 0.0
-        show bg at bgleft
-        with charamovefast
-
+        show nomiya at twoleft:
+            ease 1.0 alpha 0.0
         show rin:
-            center
-            xpos 0.9
-        hide nomiya
+            xpos 0.9 alpha 1.0
+        show bg at bgleft
+        with Dissolvemove(1.0)
 
         "I turn to Rin and whisper to her."
 
@@ -3639,7 +3642,7 @@ label a2_rin:
         hi "I can't promise much help with the thinking, but it's not like I have much else to do, and I'm supposed to do some light exercise."
 
         show rin basic_absent
-        with charachange
+        with charachangealways
 
         rin "If you like."
 
@@ -3733,12 +3736,12 @@ label a2_rin:
         "I can't read the expression she makes. I hate how bad I am at interpreting Rin's mood."
 
         show rin negative_worried
-        with charachange
+        with charachangealways
 
         "She doesn't answer right away, as if she herself isn't quite certain of her own mood. The blank stare changes into a more difficult expression as she shuffles her weight around."
 
         show rin basic_deadpancontemplation
-        with charachange
+        with charachangealways
 
         "Finally, coming to a conclusion, Rin shrugs her shoulders. I've grown to seriously dislike that gesture. It doesn't mean anything."
 
@@ -3800,7 +3803,7 @@ label a2_rin:
         hi "It's like… yeah, it's exactly like being underwater. Like I can't even breathe."
 
         show rin basic_sad
-        with charachange
+        with charachangealways
 
         "Rin turns to face me again, a sad expression on her face."
 
@@ -3911,7 +3914,7 @@ label a2_rin:
         hi "I wonder if it was a bad idea for me to come along."
 
         show rin basic_absent_ss
-        with charachange
+        with charachangealways
 
         rin "It's all right. I don't mind. I'm sure the trees and dirt and rocks won't mind either. Did you mind?"
 
@@ -3957,7 +3960,8 @@ label a2_rin:
         nvl clear
         nvl hide dissolve
 
-        scene bg school_dormext_full_ni at bgright
+        scene bg school_dormext_full_ni at bgright:
+            yalign 0.5 zoom 1.02
         with locationskip
 
         $ renpy.music.set_volume(1.0, 0.0, channel="ambient")
@@ -3965,7 +3969,8 @@ label a2_rin:
 
         "In front of the dormitories, as if summoned by my dark thoughts, we run into Kenji himself."
 
-        show kenji tsun_ni at center
+        show kenji tsun_ni at center:
+            ypos 1.02
         with charaenter
 
         "It feels very odd seeing him outside, breathing fresh outdoor air. At least it's already dusk; I partially expect Kenji would disintegrate upon direct exposure to the sun."
@@ -3974,11 +3979,14 @@ label a2_rin:
 
         hi "Hey, Kenji. What're you doing?"
 
-        show kenji at twoleft
-        show bg at center
+        show kenji at twoleft:
+            ypos 1.02
+        show bg at center:
+            yalign 0.5 zoom 1.02
         with charamove
 
-        show rin basic_awayabsent_ni at tworight
+        show rin basic_awayabsent_ni at tworight:
+            ypos 1.02
         with charaenter
 
         rin "Hello."
@@ -4134,7 +4142,8 @@ label a2_rin:
         with charaexit
 
         show bg at bgleft
-        show rin basic_deadpanupset_ni at center
+        show rin basic_deadpanupset_ni at center:
+            ypos 1.02
         with charamovechangefaster
         stop music fadeout 4.0
 
@@ -4491,10 +4500,10 @@ label a2_rin:
 
         "That little while stretches first into a long while, then into a really long while."
 
-        play music music_dreamy fadein 1.0
-
         scene ev rin_painting_base
         with locationchange
+
+        play music music_dreamy fadein 0.5
 
         "Rin paints, her entire being fully concentrated on the brush between her slender toes and the painting coming to life one stroke at a time."
 
@@ -4503,6 +4512,8 @@ label a2_rin:
         "I don't know anything about composition, structure or any of that stuff, but I really like Rin's paintings. I like how she looks when she paints."
 
         "As usual, the silence between us compels me to speak rather than merely wait for her to open up. She might end up saying nothing at all."
+
+        window auto False
 
         hi "Do you mind if we talk?"
 
@@ -4603,6 +4614,8 @@ label a2_rin:
             0.2
             "rin basic_awayabsent_close" with Dissolve(0.3)
         with locationchange
+
+        window auto True
 
         stop music fadeout 0.3
 
@@ -4729,7 +4742,7 @@ label a2_rin:
         if believes_in_rin:
             show rin basic_deadpanupset_close
             show nomiya smile
-            with charachange
+            with charachangealways
 
             "Rin looks absentmindedly at me, not saying anything. I can't even tell if my words had any effect on her."
 
@@ -5553,7 +5566,7 @@ label a2_rin:
 
         show emi basic_closedgrin
         show rin basic_awayabsent
-        with charachange
+        with charachangealways
 
         "Before I get to respond, she strikes out at my delicious pie, takes a piece with her fork, and escapes with it."
 
@@ -5708,7 +5721,9 @@ label a2_rin:
         "Her voice sounds different from usual; more gentle, now, and soft. I wonder if it's only because of the rain, or because of the mood the rain brought upon the quiet artist girl."
 
         show ev rin_rain_away_close behind rain at top
-        with charachangealways
+        show ovl rin_rain_hisaotowards_close behind rain:
+            xalign 1.0 xpos 1.0
+        with charachangeev
 
         "I feel that mood in myself too, enhanced by her words."
 
@@ -5736,7 +5751,8 @@ label a2_rin:
 
         hi "Don't you want to be connected to other people?"
 
-        show ev rin_rain_away
+        show ev rin_rain_away:
+            zoom 1.0
         show ovl rin_rain_hisaotowards behind rain at right
         with charachangeev
 
@@ -5986,8 +6002,10 @@ label a2_rin:
 
         $ renpy.music.set_volume(1.0, 1.0, channel="ambient")
 
-        scene bg school_roof
-        show rin basic_absent
+        scene bg school_roof:
+            yalign 0.5 zoom 1.02
+        show rin basic_absent at center:
+            ypos 1.02
         with locationchange
 
         "I turn around out of courtesy at her first words, to behold the slim, awkward figure of Rin Tezuka. She looks very much like herself today, too. Her hair is maybe a tad messier than usual, as if she just got out of bed."
@@ -6614,12 +6632,9 @@ label a2_rin:
         "She looks like she just got out of bed, with her hair all messed up."
 
         show rinpan basic_deadpanamused:
-            right
-            xpos 1.05
-            easein 0.5 right
+            xpos 0.95
+            easein 0.5 xpos 0.7
         with charaenter
-
-        show rinpan at right
 
         "…and barely any clothes on."
 
@@ -6663,7 +6678,7 @@ label a2_rin:
         rin "Okay."
 
         show rinpan basic_deadpan:
-            easeout 0.5 alpha 0.0 xpos 1.05
+            easeout 0.5 alpha 0.0 xpos 0.95
 
         pause 0.5
 
@@ -6995,7 +7010,7 @@ label a2_rin:
 
         rin "Enough. Tired. You should go. I'm going to sleep again."
 
-        scene ev rin_high_oneeye
+        show ev rin_high_oneeye
         with locationchange
 
         "She opens one of her eyes to look at me."
@@ -7004,12 +7019,14 @@ label a2_rin:
 
         rin "Maybe there were many of those."
 
-        scene ev rin_high_frown
+        show ev rin_high_frown
         with locationchange
 
         rin "I can't remember."
 
         rin "You can stay if you want."
+
+        window auto True
 
         hi "No no, I'll leave. I have to… do homework anyway."
 
@@ -7033,12 +7050,12 @@ label a2_rin:
 
         rin "I can walk you to the door."
 
-        scene ev rin_high_grinwide
+        show ev rin_high_grinwide
         with locationchange
 
         rin "It's the least a gentleman can do."
 
-        scene ev rin_high_smile
+        show ev rin_high_smile
         with locationchange
 
         "Rin giggles like a little kid, making me beyond absolutely certain that she took far too much of her cold medication today."
@@ -7049,12 +7066,11 @@ label a2_rin:
         with locationchange
 
         show rinpan basic_deadpandelight:
-            twoleft ypos 1.1 alpha 0.0
+            twoleft
+            ypos 1.1 alpha 0.0
             ease 1.0 twoleft alpha 1.0
 
         pause 1.0
-
-        show rinpan at twoleft
 
         "Slowly and with difficulty, Rin first rises to a sitting position again, then she stands up with even more difficulty and more slowly still."
 
@@ -7128,7 +7144,7 @@ label a2_rin:
 
         "Fool's luck."
 
-        scene ev rin_high_sleep
+        show ev rin_high_sleep
         with locationchange
 
         "I tuck Rin in, covering her with the sheets as well as I can."
@@ -7137,6 +7153,7 @@ label a2_rin:
 
         show ev rin_high_sleep:
             right
+            subpixel True yalign 0.0
             ease 10.0 zoom 1.1
 
         "I stand up to look at her, the oval-shaped face, the dark eyelashes shut against the feverish cheeks, the slender body covered with the pale sheets."
@@ -7252,7 +7269,7 @@ label a2_rin:
         hi "You don't remember?"
 
         show rin relaxed_disgust
-        with charachange
+        with charachangealways
 
         "She tilts her head to the side like a bird, looking somewhat confused."
 
@@ -7413,8 +7430,10 @@ label a2_rin:
 
         stop ambient fadeout 3.0
 
-        scene bg school_hilltop_spring at left
-        show rin basic_sad at center
+        scene bg school_hilltop_spring at left:
+            yalign 0.5 zoom 1.02
+        show rin basic_sad at center:
+            ypos 1.02
         with locationchange
 
         "She has a weird look on her face."
@@ -7429,6 +7448,8 @@ label a2_rin:
         play music music_rin fadein 0.5
 
         rinbabble "You just look so sad all the time and become upset so easily and it makes me confused and I really don't remember much about yesterday except that you came to my room and that's why it might be because of me so if it's because of me I think that I know why, it's because people don't really like talking to me and you might be the same and that would be sad I know that people and I'm talking about others than Emi too always say that I'm strange and that I talk strange things so I thought I'd try not to say strange things but that just makes me think more and new and strange and colorful that was not a good word but maybe you understand anyway and odd things so if I want to say something I don't really know how and then the words are not the same as the thoughts because something goes wrong on the way out but it's not like the thoughts are really the thing I should be saying it's more like the idea of the thought or the feeling of the idea or the idea of the feeling but it's not really any of those either because there is no word for it unless I invent a new one which is not really useful so I've been thinking if doing things is better than saying so maybe because yesterday I took those pills and I was feeling a little strange I might have done something that I shouldn't besides I don't even know if it would be any better if I just could say the thought there is no telepathy that's real telepathy isn't there I think it'd be terrible and useful at the same time but right now I wouldn't mind because misunderstanding is so easy but understanding is not and I thought—"
+
+        nvl hide None
 
         stop music
         play sound sfx_pillow
@@ -7459,7 +7480,7 @@ label a2_rin:
         play music music_innocence fadein 10.0
 
         show rin negative_worried
-        with charachange
+        with charachangealways
 
         rin "It's weird, isn't it?"
 
@@ -7759,7 +7780,7 @@ label a2rc4o1:
     hi "Oh… sorry. I'm sorry, I didn't mean it like that."
 
     show rin negative_confused_close
-    with charachange
+    with charachangealways
 
     "Rin turns away, looking at her painting wistfully. I want to take back what I said if it was what made her make that face."
 

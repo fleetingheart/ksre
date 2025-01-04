@@ -12012,3 +12012,17 @@ translate fr strings:
     old "What about Emi?"
     new "Et Emi?"
 
+# TODO: Translation updated at 2025-01-03 06:54
+
+# game/script-a2-rin.rpy:3443
+translate fr a2_rin_eternity_in_an_hour_3bd0996d:
+
+    # extend "\nAnd a heaven in a wild flower,"
+    extend "\nEt un paradis dans une fleur des champs,"
+
+# game/script-a2-rin.rpy:3447
+translate fr a2_rin_eternity_in_an_hour_83447599:
+
+    # extend "\nAnd eternity in an hour."
+    extend "\nEt l’éternité en une heure."
+

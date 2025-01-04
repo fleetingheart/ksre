@@ -294,3 +294,11 @@ translate ru strings:
     old "Skip hurtful adult scenes"
     new "Пропуск сцен для взрослых, которые могут причинить боль"
 
+# TODO: Translation updated at 2024-12-18 15:22
+
+translate ru strings:
+
+    # game/screens.rpy:376
+    old "Simplified Chinese"
+    new "Упрощённый китайский"
+

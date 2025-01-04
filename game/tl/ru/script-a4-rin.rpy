@@ -12782,3 +12782,19 @@ translate ru strings:
     old "That way… you can confirm that you are, in fact… alive."
     new "Ведь так… ты можешь доказать, что ты по-настоящему… живёшь."
 
+# TODO: Translation updated at 2025-01-03 06:58
+
+# game/script-a4-rin.rpy:5555
+translate ru a4_rin_proof_of_existence_115223a8:
+
+    # nvl clear
+    # centered_b "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
+    nvl clear
+    centered_b "Ведь так… ты можешь доказать, что ты по-настоящему…  {color=#fff}живёшь.{/color}"
+
+translate ru strings:
+
+    # game/script-a4-rin.rpy:5559
+    old "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
+    new "Ведь так… ты можешь доказать, что ты по-настоящему…  {color=#fff}живёшь.{/color}"
+

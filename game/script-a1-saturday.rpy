@@ -431,7 +431,7 @@ label a1_saturday:
             "Spatters of white and green paint adorn her nose and chin respectively, but her smile is wide, as it seems it always is."
 
             show emi excited_happy_close
-            with charachange
+            with charachangealways
 
             "She leans closer to me, amplifying the feeling she is examining me."
 
@@ -535,7 +535,7 @@ label a1_saturday:
             "After a moment of building anger, she starts jumping up and down, apparently trying to speed-read the labels during the fraction of a second she can see them, and catch what she can."
 
             show emi basic_closedsweat at center
-            with charachange
+            with charachangealways
 
             "It's no surprise that she fails miserably, and almost manages to bring the entire shelf crashing down."
 
@@ -851,9 +851,10 @@ label a1_saturday:
 
     if force_route == FR_RIN:
         label .creative_pain:
-            scene bg school_dormext_half at bgright
-            show rin basic_deadpan at tworight
-            show emi basic_annoyed at twoleft
+            if _in_replay:
+                scene bg school_dormext_half at bgright
+                show rin basic_deadpan at tworight
+                show emi basic_annoyed at twoleft
 
             "Emi heaves a sigh."
 
@@ -975,17 +976,22 @@ label a1_saturday:
 
             "I'm about to ask why it's important when some old guy walks up to us, looking like he has some business with Rin."
 
-            scene bg school_dormext_half at bgright
-            show nomiya smile at center
+            scene bg school_dormext_half at bgright:
+                yalign 0.5 zoom 1.05
+            show nomiya smile at center:
+                ypos 1.02
             with locationchange
 
             no_ "Good afternoon. How's it going?"
 
-            show nomiya at twoleft
-            show bg at center
+            show nomiya at twoleft:
+                ypos 1.02
+            show bg at center:
+                yalign 0.5
             with charamove
 
-            show rin basic_awayabsent at tworight
+            show rin basic_awayabsent at tworight:
+                ypos 1.02
             with charaenter
 
             rin "I can make it."
@@ -4218,8 +4224,10 @@ label a1c14o2:
     hide nomiya
     with charaexit
 
-    show rin at center
-    show bg at bgleft
+    show rin at center:
+        ypos 1.02
+    show bg at bgleft:
+        yalign 0.5 zoom 1.02
     with charamove
 
     "The teacher leaves, and we are left by ourselves again. Rin is still painting as if nothing notable happened. Since nothing in fact did, I am left wondering what on Earth is wrong with me."
@@ -4457,7 +4465,7 @@ label a1c14o2:
     rin "After I finish this part."
 
     show rin negative_annoyed_close
-    with charachange
+    with charachangealways
 
     "Of course, she doesn't take a break, and I don't bring it up again because that would be completely and utterly pointless."
 

@@ -86,21 +86,21 @@ label a3_rin:
         "The teacher encourages us to gather around the preferred motif, emphasizing perspective, texture and lighting as the key points of this exercise."
 
         show rin basic_deadpancontemplation_close
-        with charachange
+        with charachangealways
 
         "I look at Rin to see if she prefers one of the subjects over the other, but she just tilts her head, signifying nothing."
 
         "The club members quickly shuffle their chairs around the classroom to get closer to either the vase or the clutter. Rin and I both pick the flower vase, but only one of us seems to do any work."
 
         show rin basic_awayabsent_close
-        with charachange
+        with charachangealways
 
         "She's ignoring Nomiya's assignment just like she's suddenly started ignoring me, and has begun doodling something idly with her foot, not really even looking at what she's drawing."
 
         "I try to catch her gaze, but she's looking out the window. It's making me uneasy."
 
         show rin basic_lucid_close
-        with charachange
+        with charachangealways
 
         "Rin almost looks like she's asleep with the way she's leaning back against the chair with her legs resting easily on the desk. She's now completely given up on the drawing."
 
@@ -391,18 +391,20 @@ label a3_rin:
         "She takes her time, slowly going over the paintings in order without uttering a single word."
 
         show nomiya serious
-        with charachange
+        with charachangealways
 
         "Even the teacher looks very nervous. He tries to point out certain details and other things about Rin's work, but it seems like she's not listening."
 
         "While Nomiya and I keep looking at Sae, trying to look for some hint of a reaction on the gallery owner's face, Rin lets her gaze wander around the gallery space. Suddenly, she pipes up."
 
         show nomiya at center
-        show sae at right
+        show sae:
+            xalign 0.85
         show bg at bgright
         with charamove
 
-        show rin relaxed_nonchalant at left
+        show rin relaxed_nonchalant:
+            xalign 0.15
         with charaenter
 
         rin "Is this really the twenty-second corner?"
@@ -571,7 +573,8 @@ label a3_rin:
         "Once they're done discussing whatever they had to discuss, they give one another a serious look. I feel something that goes beyond mere words transpiring there."
 
         show nomiya smile at center
-        show sae doubt at right
+        show sae doubt:
+            xalign 0.85
         with charaenter
 
         "They walk back to us. Sae looks seriously at Rin, her left hand reaching as if instinctively towards a pack of cigarettes that's lying on the table."
@@ -833,7 +836,7 @@ label a3_rin:
 
         "My mouth is suddenly so dry that the word comes out as a tiny whisper."
 
-        scene ev rin_nap_close_nohand:
+        show ev rin_nap_close_nohand:
             yalign 1.0
         with locationchange
 
@@ -847,15 +850,16 @@ label a3_rin:
 
         show ev rin_nap_close_nohand:
             ease 1.0 yalign 0.0
+        with None
 
-        scene ev rin_nap_close_hand:
+        show ev rin_nap_close_hand:
             yalign 1.0
             ease 1.0 yalign 0.0
         with Dissolve(1.0)
 
         "I touch Rin's head lightly, sweeping a few stray hairs off her ear. Her hair feels warm against my palm."
 
-        scene ev rin_nap_close_nohand:
+        show ev rin_nap_close_nohand:
             yalign 0.0
         with locationchange
 
@@ -868,12 +872,12 @@ label a3_rin:
 
         "She looks so vulnerable, like any sleeping person. It's impossible not to feel fondness towards her."
 
-        scene ev rin_nap_total
+        show ev rin_nap_total
         with locationchange
 
         "I sit on the desktop of whoever is in front of Rin, then draw the window slightly open to get some fresh air in. Hopefully, it will wake her up and I won't need to resort to cruder methods."
 
-        scene ev rin_nap_total_awind
+        show ev rin_nap_total_awind
         with locationchange
 
         "She doesn't wake up, but I didn't really expect her to."
@@ -894,7 +898,7 @@ label a3_rin:
 
         "The realization hits my consciousness without warning."
 
-        scene ev rin_nap_close_awind:
+        show ev rin_nap_close_awind:
             truecenter
             ease 20.0 zoom 1.05
         with locationchange
@@ -915,7 +919,7 @@ label a3_rin:
 
         "I choose the latter."
 
-        scene ev rin_nap_total_awind
+        show ev rin_nap_total_awind
         with locationchange
 
         "Waiting is something I am good at. I found that out during my hospitalization. But even the hospital ward was more lively than the school after classes are over."
@@ -940,12 +944,12 @@ label a3_rin:
 
         play music music_innocence
 
-        scene ev rin_nap_total_awind_tears
+        show ev rin_nap_total_awind_tears
         with locationchange
 
         "A single tear worms down from the corner of her eye, slowly making its way across her face before it falls onto the desk."
 
-        scene ev rin_nap_close_awind_tears
+        show ev rin_nap_close_awind_tears
         with locationchange
 
         "It's tiny, barely a droplet, but it captivates me."
@@ -972,14 +976,14 @@ label a3_rin:
 
         show rin:
             center
-            ypos 1.17
+            alpha 1.0 ypos 1.17
 
         "She sits upright and yawns so excessively it looks like her jaw might dislocate."
 
         rin "Ah."
 
         show rin relaxed_nonchalant_close_ss
-        with charachange
+        with charachangealways
 
         "She notices my presence, but her reaction is more like the lack of any reacting at all. It's just an acknowledgment; no startled gasp or anything."
 
@@ -1031,7 +1035,7 @@ label a3_rin:
         rin "Thanks."
 
         show rin relaxed_boredom_close_ss
-        with charachange
+        with charachangealways
 
         "Rin yawns again and blinks a few times."
 
@@ -2499,7 +2503,7 @@ label a3_rin:
         "I wonder if Rin is the kind of person who likes to carefully remove all the white fibrous stuff from oranges before eating them, or the more careless type who just eats them as they come. Maybe neither."
 
         show rin basic_absent_cas_close
-        with charachange
+        with charachangealways
 
         "I'm the former type, so I meticulously clean the orange slices one by one while Rin watches the process with mild curiosity."
 
@@ -2518,10 +2522,11 @@ label a3_rin:
 
         "Rin chews the slice carefully, savoring it as much as possible."
 
-        scene ev rin_orange_large:
+        show ev rin_orange_large:
             center
+            subpixel True
             acdc_warp 10.0 top
-        with flash
+        with charachangeev
 
         "I become fixated on the movements of her jaw, the trickle of juice glistening on her lip, the way her throat moves when she swallows the orange slice."
 
@@ -3101,7 +3106,8 @@ label a3_rin:
 
         show ovl rin_galleryskylight:
             truecenter
-            linear 30.0 zoom 1.2
+            zoom 0.8
+            linear 30.0 zoom 1.0
         with locationchange
 
         "The sky on the other side of the glass is slowly growing darker."
@@ -3267,7 +3273,8 @@ label a3_rin:
 
         scene ovl rin_galleryskylight:
             truecenter
-            linear 30.0 zoom 1.2
+            zoom 0.8
+            linear 30.0 zoom 1.0
         with locationchange
 
         "I glance at the night sky visible through the window. A couple of stars are weakly twinkling above the city."
@@ -3406,7 +3413,7 @@ label a3_rin:
         hi "Yeah. Have you ever been out all night? It's like a different world."
 
         show rin negative_spaciness_cas_close_ni
-        with charachange
+        with charachangealways
 
         "The remark sends her thinking for a while, looking around as if she was looking for something."
 
@@ -3434,7 +3441,7 @@ label a3_rin:
         "I answer half joking, half spurring her on. For the first time tonight, it seems like a bit of Rin's life has returned to her."
 
         show rin negative_spaciness_cas_close_ni
-        with charachange
+        with charachangealways
 
         "She doesn't continue her list of rhetorical questions, though. Instead, she leans back a little and looks up at the moon traveling above the town."
 
@@ -3692,7 +3699,7 @@ label a3_rin:
         "Rin feels soft and cold."
 
         show rin basic_lucid_cas_close_ni
-        with charachange
+        with charachangealways
 
         "She closes her eyes on contact, and visibly relaxes."
 
@@ -3701,7 +3708,7 @@ label a3_rin:
         "She doesn't rest her head against my palm or anything else you'd expect a girl to do in this sort of situation. In fact, she hasn't reacted at all, save for those now-shut eyes."
 
         show rin basic_deadpanamused_cas_close_ni
-        with charachange
+        with charachangealways
 
         "Once I withdraw my hand, she opens them again."
 
@@ -3997,16 +4004,12 @@ label a3_rin:
 
         "It's already dark outside. Sae is standing with her back to us, taking sharp, occasional drags on her cigarette. Its weak amber glow illuminates her face, framing her sharp jawline."
 
-        show nomiya smile_ni at center
+        show nomiya smile_ni at twoleft
         with charaenter
 
         no "Maybe it's best to call it a night. I can give you a lift back to school if you want, Nakai."
 
-        show nomiya at twoleft
-        show bg at bgleft
-        with charamove
-
-        show sae neutral_ni behind nomiya at tworight
+        show sae neutral_ni at tworight
         with charaenter
 
         sa "You're not going anywhere, Shinichi. I need a drink. We're going to that place at the corner."
@@ -4020,8 +4023,7 @@ label a3_rin:
 
         hi "I'm headed upstairs to see if Rin will come back to school with me, anyway. I think she's been staying overnight here too often, lately."
 
-        show sae smile_ni:
-            xpos 0.57
+        show sae smile_ni at center
         with charamovechangefaster
 
         "Sae locks the front door of the gallery and links arms with the old art teacher. I feel strange, looking at them."
@@ -4090,7 +4092,7 @@ label a3_rin:
 
         show ev rin_masturbate_surprise:
             ease 0.5 zoom 0.8
-        with charachangealways
+        with charachangeev
 
         "She stops moving, freezes and slowly turns to the door."
 
@@ -4099,7 +4101,7 @@ label a3_rin:
         "I wonder if Rin can see my expression but at least she doesn't have the strength or the spirit to look straight in my eyes."
 
         show ev rin_masturbate_away
-        with charachange
+        with charachangeev
 
         "So, she droops her chin against her chest, letting her mess of a hair hide her face from me even further."
 
@@ -4120,7 +4122,7 @@ label a3_rin:
         hi "I'm sorry. I didn't think…"
 
         show ev rin_masturbate_doubt
-        with charachange
+        with charachangeev
 
         rin "It's not like that…"
 
@@ -4129,7 +4131,7 @@ label a3_rin:
         "She is shaking, looking like she is physically in pain."
 
         show ev rin_masturbate_frown
-        with charachange
+        with charachangeev
 
         rin "It's not like that. I…"
 
@@ -4179,7 +4181,7 @@ label a3_rin:
         hi "I should go. I'm really sorry."
 
         show ev rin_masturbate_away
-        with charachange
+        with charachangeev
 
         rin "It doesn't matter."
 
@@ -4192,7 +4194,7 @@ label a3_rin:
         stop music fadeout 6.0
 
         show ev rin_masturbate_hug
-        with charachange
+        with charachangeev
 
         "I almost walk out, right there, but at the last moment I turn around, steel myself and walk to Rin to crouch down behind her and lightly touch her forehead. She doesn't resist or react."
 
@@ -4334,7 +4336,7 @@ label a3_rin:
 
         "I realize I've been holding my own breath, and let it go in a long stream of air out of my nostrils and into her hair."
 
-        scene evh rin_relief_down
+        show evh rin_relief_down
         with dissolve
 
         rin "Don't tickle me."
@@ -4349,7 +4351,7 @@ label a3_rin:
 
         rin "It's okay. I don't know what I'm doing either."
 
-        scene evh rin_relief_down_large at center
+        show evh rin_relief_down_large at center
         with dissolve
 
         "I enter her, moving my fingers up and down, in and out, touching her from everywhere, first slowly, then faster."
@@ -4360,7 +4362,7 @@ label a3_rin:
 
         "Rin's hips start moving in the same rhythm as me, guiding me deeper."
 
-        scene evh rin_relief_down
+        show evh rin_relief_down
         with dissolve
 
         "She turns her head, looking at me from the corner of her eye."
@@ -4371,7 +4373,7 @@ label a3_rin:
 
         "I kiss her gently on the cheek, right above the bone. My lips are coarse and dry."
 
-        scene evh rin_relief_up
+        show evh rin_relief_up
         with dissolve
 
         "My right hand moves upwards of its own accord, under the white cotton of her shirt, to caress the underside of her soft breast."
@@ -4392,7 +4394,7 @@ label a3_rin:
 
         "All these feelings unravel into their basic components, her softness, her wetness, her hotness, her sadness are the only things that I think, the only things I can think."
 
-        scene evh rin_relief_up
+        show evh rin_relief_up
         with flash
 
         rin "Ah…"
@@ -4491,7 +4493,7 @@ label a3_rin:
         rin "Do you mind if I sleep a little - no, I guess you don't. You like watching, don't you?"
 
         show rinpan basic_lucid_close_ni
-        with charachange
+        with charachangealways
 
         "She closes her eyes and swallows with a loud gulp, trying to relax herself, fighting against the urge to paint."
 
@@ -4581,7 +4583,7 @@ label a3_rin:
         play music music_drama fadein 1.0
 
         show rin negative_sad_cas_close
-        with charachange
+        with charachangealways
 
         "Rin looks a bit panicky, a bit anxious, a bit defensive. It's as if she were a completely different person last night. Perhaps she was."
 
@@ -4606,7 +4608,7 @@ label a3_rin:
         hi "No, I… even if it was, I think I'd prefer for things to go properly."
 
         show rin relaxed_doubt_cas_close
-        with charachange
+        with charachangealways
 
         "Rin cocks her head, looking like she has no idea what I'm talking about. She still has this guarded feel about her, but nothing belies any real emotion."
 
@@ -4666,7 +4668,7 @@ label a3_rin:
         hi "Do you hate me?"
 
         show rin basic_lucid_cas_close
-        with charachange
+        with charachangealways
 
         "She actually thinks about this for some time."
 
@@ -4941,6 +4943,8 @@ label a3_rin:
 
             "I gave up. I can't lie to myself that everything is all right, that everything will work out. That's not how things go."
 
+            window hide
+
             show ev watch_worn_330:
                 truecenter
                 ypos 0.7
@@ -4948,16 +4952,24 @@ label a3_rin:
             show bg school_dormhisao_blurred_ni
             with Dissolve(1.0)
 
+            window auto True
+
             "Glancing at my watch I see it's 3:30 at night. I slide my finger over the glass surface of the watch's face."
 
             "It's been pretty dependable, ever since I decided to start wearing it. Always knowing what's going on even when I didn't."
 
+            window hide
+
             show ev:
                 easeout 1.0 ypos 0.7 alpha 0.0
+            with None
             show bg school_dormhisao_ni
-            with Dissolve (1.0)
+            with Dissolve(1.0)
 
             hide ev watch_worn_330
+            with None
+
+            window auto True
 
             "I turn my head and see the neatly arranged assortment of medicine on my night table. They are dependable too, things I am going to depend on for the rest of my life."
 

@@ -70,7 +70,7 @@ init python:
 
         n = scaled_runtime(30.0, at)
 
-        trans.zoom = (-acdc_warp(n) + 1.0) * 0.2 + 0.8
+        trans.zoom = (-acdc_warp(n) + 1.0) * 0.2 + 1.0
 
         return 0
 
@@ -80,7 +80,7 @@ init python:
 
         n = scaled_runtime(20.0, at)
 
-        trans.zoom = (-acdc_warp(n) + 1.0) * 0.266 + 0.834
+        trans.zoom = (-acdc_warp(n) + 1.0) * 0.266 + 1.0
 
         return 0
 
@@ -146,7 +146,7 @@ init python:
         trans.xalign = 0.5
         trans.yalign = 1.0
         n = scaled_runtime(60.0, at)
-        trans.zoom = 0.8 + (acdc_warp(n) * 0.2)
+        trans.zoom = 1.0 + (acdc_warp(n) * 0.2)
         return 0
 
     def tf_parallax(tf, st, tb):
@@ -269,7 +269,7 @@ transform hanako_fw_constructor(in_r, in_g, in_b):
         parallel:
             "fw_flash" with fw_dis_fast
             0.05
-            Transform("event/hanako_fw_flash.jpg", matrixcolor=TintMatrix((in_r, in_g, in_b))) with fw_dis_medium
+            Transform("event/hanako_fw_flash.png", matrixcolor=TintMatrix((in_r, in_g, in_b))) with fw_dis_medium
             8.0
     repeat
 

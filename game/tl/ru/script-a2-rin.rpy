@@ -12000,3 +12000,17 @@ translate ru strings:
     old "The truth is, the times when I visited you at the hospital made me worried about you. I am not talking about your health. You seemed to become more distant and disheartened. It was natural after something like that happened, I'm sure, but somehow I got the feeling that you had given up on something back then. Happiness, maybe?\n"
     new "Честно говоря, когда ты был в больнице, я сильно за тебя переживала. Я не имею в виду твоё здоровье. Ты становился всё более отрешённым и подавленным. Это вполне естественно, я понимаю, но ещё у меня сложилось впечатление, что ты утратил веру во что-то. Может, веру в счастье?\n"
 
+# TODO: Translation updated at 2025-01-03 06:58
+
+# game/script-a2-rin.rpy:3443
+translate ru a2_rin_eternity_in_an_hour_3bd0996d:
+
+    # extend "\nAnd a heaven in a wild flower,"
+    extend "\nВ песчинке малой – бесконечность,"
+
+# game/script-a2-rin.rpy:3447
+translate ru a2_rin_eternity_in_an_hour_83447599:
+
+    # extend "\nAnd eternity in an hour."
+    extend "\nИ уместить в мгновенье вечность."
+

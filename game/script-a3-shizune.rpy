@@ -2916,8 +2916,8 @@ label a3_shizune:
         "She won't let go of my hands, tracing her fingers over them, from the lines of my palms, over my knuckles, and to my wrists."
 
         scene evh shizune_hcg_tied_stare:
-            yalign 0.0 xalign 1.0
-            easein 6.0 xalign 0.7 zoom 0.5 yalign 0.345
+            yalign 0.0 xalign 1.0 zoom 2.0
+            easein 6.0 xalign 0.7 zoom 1.0 yalign 0.345
             truecenter
             zoom 1.0
             "evh shizune_hcg_tied_stare_small"

@@ -273,3 +273,15 @@ translate zh_hans strings:
     old "This question will not be shown again after you start playing."
     new "在游戏开始后，此问题不会再次显示。"
 
+# TODO: Translation updated at 2024-12-18 15:16
+
+translate zh_hans strings:
+
+    # game/screens.rpy:1061
+    old "Mental health"
+    new "Mental health"
+
+    # game/screens.rpy:1068
+    old "Skip hurtful adult scenes"
+    new "Skip hurtful adult scenes"
+

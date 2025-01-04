@@ -1036,13 +1036,13 @@ label a1_thursday:
         show showdown_lilly_slice:
             easein 0.2 xalign 0.0 yalign 0.0
 
-        pause 0.2
+        pause 0.4
 
         play sound sfx_draw
         show showdown_shizu_slice:
             easein 0.2 xalign 1.0 yalign 1.0
 
-        pause 0.2
+        pause 0.4
 
         play sound sfx_thunder
         scene ev showdown
@@ -1050,38 +1050,43 @@ label a1_thursday:
 
         play sound sfx_slide2
         show ev showdown_large:
-            size (1920, 1080) crop (0, 0, 5760, 3240)
-            easeout 0.2 crop (672, 240, 1920, 1080)
+            xysize (1920, 1080) crop (0, 0, 5760, 3240)
+            easeout 0.2 crop (912, 240, 1920, 1080)
 
         li "I was actually just discussing the budget report before you came by. You must be very talented to have finished all your student council duties so quickly that you can track me down to make sure I don't forget my own."
 
         play sound sfx_slide
         show ev showdown_large:
-            ease 0.2 crop (3360, 384, 1920, 1080)
+            ease 0.2 crop (3120, 384, 1920, 1080)
 
         mi "Are you accusing me of slacking off? It seems like you're confusing me with yourself~!"
 
         play sound sfx_slide2
         show ev showdown_large:
-            ease 0.2 crop (672, 240, 1920, 1080)
+            ease 0.2 crop (912, 240, 1920, 1080)
 
         li "I don't think so. That would be a very difficult thing for me to do; comparing myself to you."
 
         play sound sfx_slide2
         show ev showdown_large:
-            ease 0.2 crop (3360, 384, 1920, 1080)
+            ease 0.2 crop (3120, 384, 1920, 1080)
 
         mi "You're right, the difference between us is like heaven and hell."
 
         play sound sfx_slide
         show ev showdown_large:
-            ease 0.2 crop (672, 240, 1920, 1080)
+            ease 0.2 crop (912, 240, 1920, 1080)
 
         li "And it's not hard to guess which one you might represent."
+
+        $ _window = False
 
         play sound sfx_thunder
         scene ev showdown
         with Fade(0.2, 0.0, 1.5, color="#FFF")
+
+        window show
+        window auto True
 
         "The air between them ripples with the heat of their enmity. Well, not really. They can't disguise it any more, though. Even Misha looks like she's beginning to understand the real nature of this conversation."
 

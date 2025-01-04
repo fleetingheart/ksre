@@ -312,3 +312,11 @@ style note_frame:
 style note_text is default:
     color "#000244"
     layout "greedy"
+
+style centered_text:
+    size (36 + mobile_ts_add * (renpy.android or renpy.ios)) * 1.5
+    outlines [ (1,"#000C") ]
+
+style alive_text:
+    size 42 + (mobile_ts_add - 6) * (renpy.android or renpy.ios)
+    outlines []

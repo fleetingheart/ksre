@@ -219,8 +219,10 @@ label a1_monday:
     pause 1.0
 
     label .bundle_of_hisao:
+        window hide
         centered "It's been four months since my heart attack."
         with dissolve
+        window auto True
 
         scene bg hosp_room
         show sakura

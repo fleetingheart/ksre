@@ -234,6 +234,12 @@ python early:
 
     config.label_callback = set_current_scene
 
+    def hide_window_after_nvl(statement):
+        if statement == "nvl hide":
+            store._window = False
+    
+    config.statement_callbacks.append(hide_window_after_nvl)
+
     class RPCThread(threading.Thread):
         def __init__(self, store):
             threading.Thread.__init__(self, daemon=True)
@@ -626,7 +632,7 @@ define _gallery_images = (
     ("thumb/hanako_crayon.jpg", "ev hanako_crayon1", "ev hanako_crayon2"),
     ("thumb/hanako_breakdown.jpg", Trigger("evbg hanako_breakdown", "evul hanako_breakdown_down"), Trigger("evfg hanako_breakdown_up", "evul hanako_breakdown_up"), Trigger("evfg hanako_breakdown_closed", "evul hanako_breakdown_closed")),
     ("thumb/hanako_cry.jpg", "ev hanako_cry_closed", "ev hanako_cry_closed", "ev hanako_cry_open", "ev hanako_cry_away"),
-    ("thumb/hanako_billiards.jpg", "ev hanako_billiards_break", "ev hanako_billiards_distant", "ev hanako_billiards_serious", Trigger("ev hanako_billiards_timid_med", "ev hanako_billiards_timid"), "ev hanako_billiards_smile", "ev hanako_billiards_smile_close"),
+    ("thumb/hanako_billiards.jpg", "ev hanako_billiards_break", "ev hanako_billiards_distant", "ev hanako_billiards_serious", Trigger("ev hanako_billiards_timid_med", "ev hanako_billiards_timid"), "ev hanako_billiards_smile"),
     ("thumb/hanako_emptyclassroom.jpg", Trigger("evfg hanako_emptyclassroom", "evul hanako_emptyclassroom")),
     ("thumb/hanako_rage.jpg", "ev hanako_rage", "ev hanako_rage", "ev hanako_rage_sad"),
     ("thumb/hisao_scar.jpg", "ev hisao_scar"),
@@ -757,14 +763,14 @@ define n = Character(kind=nvl, ctc=config.nvl_page_ctc, ctc_position="fixed", wi
 define rinbabble = Character(kind=n, what_prefix="{color=#FF8D7C}{b}" + _("Rin") + "{/b}{/color}\n" + _("“"), what_suffix=_("”"))
 
 define nb = Character(kind=nvl, what_color="#666666", window_top_padding=210, window_xpadding=100)
-define centered_b = nb
-define centered_alive = nb
+define centered = Character(None, screen=None, what_style="centered_text", window_style="centered_window", what_prefix="", what_suffix="")
+define centered_b = Character(None, kind=centered, what_color="#666666", what_drop_shadow=None, what_style="alive_text")
 
 define _current_replay = None
 
 define current_scene = ""
 
-default credits_vid = None
+default credits_good_end = None
 
 # Act 1
 
