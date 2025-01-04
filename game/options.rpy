@@ -21,6 +21,8 @@ init python:
     build.classify("**.rpym", None)
     build.classify("**.psd", None)
     build.classify("/tl_script/*.*", None)
+    build.classify("/flatpak/*.*", None)
+    build.classify("/steamdeck/*.*", None)
     build.classify("/docs/*.*", None)
     build.classify("/.git/*.*", None)
     build.classify("**.sublime-project", None)
