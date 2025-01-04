@@ -17,7 +17,16 @@ python early:
     mods_with_menus = {}
     scene_names = {}
 
+    renpy_menu = menu
+
     renpy.music.register_channel("ambient", "sfx", True, tight=True)
+
+    def menu(items):
+        items = list(items)
+
+        renpy.random.shuffle(items)
+
+        return renpy_menu(items)
 
     def check_all_choices():
         all_choices = {
@@ -115,7 +124,7 @@ python early:
         }
 
         if set(all_choices).issubset(persistent._seen_choices) and set(persistent._seen_choices).issubset(all_choices):
-           ach("choice_achieve")
+            ach("choice_achieve")
 
     def format_time(t):
         t = int(t)
