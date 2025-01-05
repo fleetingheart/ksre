@@ -1077,8 +1077,8 @@ image evfg lilly_trainride = "event/lilly_train/lilly_trainride.png"
 image evfg lilly_trainride_smiles = im.Composite(
     None,
     (0, 0), "event/lilly_train/lilly_trainride.png",
-    (811, 518), "event/lilly_train/lilly_trainride_smile.png",
-    (1375, 590), "event/lilly_train/lilly_trainride_hanasmile.png")
+    (0, 0), "event/lilly_train/lilly_trainride_smile.png",
+    (0, 0), "event/lilly_train/lilly_trainride_hanasmile.png")
 
 image ev lilly_trainride = "event/lilly_train/lilly_trainride.png"
 image ev lilly_trainride_smiles = "event/lilly_train/lilly_trainride_smiles.png"
