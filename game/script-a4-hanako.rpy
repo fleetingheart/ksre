@@ -833,16 +833,15 @@ label a4_hanako:
 
         li "It is well and good to want to protect her, but I fear that treating Hanako like this, as if she were a daughter or someone in need of special care, is only going to achieve the opposite."
 
-        if go_to_the_city or _in_replay:
-            menu:
-                with menueffect
-                "The situation got effectively turned on its head. After everything that's happened, this is the first time I find myself doubting Lilly's judgment."
+        menu:
+            with menueffect
+            "The situation got effectively turned on its head. After everything that's happened, this is the first time I find myself doubting Lilly's judgment."
 
-                "Agree with Lilly." if True:
-                    $ agree_with_lilly = True
+            "Agree with Lilly." if True:
+                $ agree_with_lilly = True
 
-                "Trust my own judgment." if True:
-                    $ agree_with_lilly = False
+            "Trust my own judgment." if True:
+                $ agree_with_lilly = False
 
         if go_to_the_city and agree_with_lilly:
             "I don't want to admit it, but she may have a point. Something else bugs me, though."
