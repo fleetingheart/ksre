@@ -710,7 +710,7 @@ define _gallery_images = (
     ("thumb/completionbonus.jpg", "completionbonus")
 )
 
-define adv = ADVCharacter(ctc="ctc", ctc_position="fixed", what_prefix=_("“"), what_suffix=_("”"))
+define adv = ADVCharacter(ctc="icon_ctc", ctc_position="fixed", what_prefix=_("“"), what_suffix=_("”"))
 define name_only = Character(kind=adv, who_color="#FFFFFF")
 define narrator = Character(what_prefix="", what_suffix="")
 
@@ -758,7 +758,7 @@ define hx_  = Character(_("Huge man"), kind=hx)
 define hh_  = Character(_("Slim girl"), kind=hh)
 define emm_ = Character(_("Woman with braid"), kind=emm)
 
-define n = Character(kind=nvl, ctc=config.nvl_page_ctc, ctc_position="fixed", window_background="gui/bg/nvl.png", window_top_padding=60, window_left_padding=55, window_right_padding=70)
+define n = Character(kind=nvl, ctc=Transform("icon_ctc", rotate=90, ypos=0.9333), ctc_position="fixed", window_background="gui/bg/nvl.png", window_top_padding=60, window_left_padding=55, window_right_padding=70)
 
 define rinbabble = Character(kind=n, what_prefix="{color=#FF8D7C}{b}" + _("Rin") + "{/b}{/color}\n" + _("“"), what_suffix=_("”"))
 

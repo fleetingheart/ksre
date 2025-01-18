@@ -64,7 +64,11 @@ style vslider:
     thumb Transform("gui/bar/vertical_thumb.png", matrixcolor=OpacityMatrix(0.4))
     hover_thumb "gui/bar/vertical_thumb.png"
 
-style say_namebox is frame:
+style say_label:
+    size 40
+    bold True
+
+style say_namebox:
     xpos 0.033
     ypos 0.745
     xsize 0.33
@@ -73,7 +77,7 @@ style say_namebox is frame:
     top_padding 10
     background Frame("gui/bg/namebox.png")
 
-style say_window is frame:
+style say_window:
     xalign 0.5
     yanchor 1.0
     ypos 0.99

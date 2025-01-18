@@ -501,7 +501,12 @@ image button_cg_locked_lop:
 
 image icon_skip = "gui/icons/skip.png"
 image icon_circle = "gui/icons/circle.png"
-image icon_ctc = "gui/icons/ctc.png"
+image icon_ctc:
+    "gui/icons/ctc.png"
+    xysize (42, 42) anchor (0.5, 0.5) pos (0.925, 0.955)
+    block:
+        function tf_blinking
+        repeat
 
 image icon_emi = "gui/icons/emi.png"
 image icon_emi_colored = "gui/icons/emi-c.png"

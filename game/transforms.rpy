@@ -158,6 +158,26 @@ init python:
             tf.zoom = 1.0
         return 0
 
+    def tf_blinking(tf, st, at):
+        if persistent.blinking_arrow:
+            if st >= 2.5:
+                tf.alpha = 1
+                return None
+            elif st >= 1.5:
+                tf.alpha = 0.25 + acdc_warp(st - 1.5) * 0.75
+            elif st >= 1.25:
+                tf.alpha = 0.25
+                return 0.25
+            elif st >= 0.25:
+                tf.alpha = 1 - acdc_warp(st - 0.25) * 0.75
+            else:
+                tf.alpha = 1
+                return 0.25
+            return 0
+        else:
+            tf.alpha = 1
+            return 1
+
     define.move_transitions("charamove", 1.0, _ease_time_warp, _ease_in_time_warp, _ease_out_time_warp)
 
     # HACK: Enable subpixel tranform property by default

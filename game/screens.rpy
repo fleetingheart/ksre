@@ -6,71 +6,49 @@ screen skip_indicator():
     image "icon_skip":
         pos 1850, 35
 
-screen ctc(arg=None):
-    if not renpy.is_skipping():
-        frame:
-            at colorblind(persistent.colorblind)
-            pos 0.9635, 0.0325
-            xysize 42, 42
-
-            image Frame("icon_circle")
-
-            image "icon_ctc":
-                if persistent.blinking_arrow:
-                    at ctc_trans
-
-                align 0.5, 0.5
-
-transform ctc_trans():
-    alpha 0.25
-    ease 1.0 alpha 1.0
-    pause 0.25
-    ease 1.0 alpha 0.25
-    repeat
-
 screen say(who, what):
     style_prefix "say"
 
     if who and who.strip():
-        frame:
+        window id "namebox":
             at colorblind(persistent.colorblind)
             style_suffix "namebox"
-            text who id "who":
-                size 40
-                bold True
+            text who id "who"
 
-    frame:
-        style_suffix "window"
+    window id "window":
         text what id "what"
 
 screen doublespeak(c1, t1, c2, t2):
     style_prefix "doublespeak"
 
-    frame:
+    frame id "namebox1":
         at colorblind(persistent.colorblind)
         style_suffix "namebox1"
         text ("{color=" + c1.who_args["color"] + "}" + renpy.translate_string(c1.name) + "{/color}") id "who1":
             size 40
             bold True
 
-    frame:
+    frame id "window1":
         at colorblind(persistent.colorblind)
         style_suffix "window1"
         text t1 id "what1"
 
-    frame:
+    frame id "namebox2":
         at colorblind(persistent.colorblind)
         style_suffix "namebox2"
         text ("{color=" + c2.who_args["color"] + "}" + renpy.translate_string(c2.name) + "{/color}") id "who2":
             size 40
             bold True
 
-    frame:
+    frame id "window2":
         at colorblind(persistent.colorblind)
         style_suffix "window2"
         text t2 id "what2"
 
-    use ctc
+    image "icon_ctc" as ctc1:
+        xpos 0.473
+    image "icon_ctc" as ctc2:
+        xpos 0.974
 
     key ["dismiss", "skip"] action Return()
 
