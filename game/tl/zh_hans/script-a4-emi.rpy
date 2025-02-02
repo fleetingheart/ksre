@@ -2548,7 +2548,7 @@ translate zh_hans a4_emi_clean_teeth_bef23d93:
 translate zh_hans a4_emi_clean_teeth_b3400ac5:
 
     # "This draws another giggle, but then Emi's expression turns serious again."
-    "这又引起了咯咯地笑声，但笑美的表情又变得严肃起来。"
+    "这又引起了咯咯的笑声，但笑美的表情又变得严肃起来。"
 
 # game/script-a4-emi.rpy:1559
 translate zh_hans a4_emi_clean_teeth_899ffcb7:

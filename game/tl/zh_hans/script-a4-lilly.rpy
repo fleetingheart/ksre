@@ -6410,7 +6410,7 @@ translate zh_hans a4_lilly_blackout_9e1f86ce:
 translate zh_hans a4_lilly_blackout_e07ee6fc:
 
     # "My body feels utterly bizarre as I lay dazed on the floor looking at the ceiling. The adrenaline from before is still pouring through my veins, but my mind is completely exhausted."
-    "我躺在地板上，仰望着天花板，身体被攥在一阵眩晕之中。先前残留的肾上腺依旧在血管里奔腾，但我的精神已经精疲力竭了。"
+    "我躺在地板上，仰望着天花板，身体被攥在一阵眩晕之中。先前残留的肾上腺素依旧在血管里奔腾，但我的精神已经精疲力竭了。"
 
 # game/script-a4-lilly.rpy:3866
 translate zh_hans a4_lilly_blackout_c0c8ac85:
@@ -6500,7 +6500,7 @@ translate zh_hans a4_lilly_blackout_4c15caba:
 translate zh_hans a4_lilly_blackout_f22129d0:
 
     # "My eyelids feel heavy. Calmly sitting next to her like this is probably letting the adrenaline work itself out of my system, and letting my mind relax."
-    "我感觉眼睑很沉重，平静地坐在她身旁，让肾上腺离开身体，等着大脑平静下来。"
+    "我感觉眼睑很沉重，平静地坐在她身旁，让肾上腺素离开身体，等着大脑平静下来。"
 
 # game/script-a4-lilly.rpy:3932
 translate zh_hans a4_lilly_blackout_f9973590:
@@ -10702,7 +10702,7 @@ translate zh_hans a4_lilly_false_cadence_76b2fe88_3:
 translate zh_hans a4_lilly_false_cadence_1c9efa45:
 
     # "With an increasingly angry feeling washing over me, I turn over and set the crane back on the desk next to my clock, the place where it has lived since that day when she folded it for me."
-    "我感觉怒意越来越汹涌，翻身把仙纸鹤放回桌上的闹钟旁。自从她为我折好它后，它就一直放在那里。"
+    "我感觉怒意越来越汹涌，翻身把千纸鹤放回桌上的闹钟旁。自从她为我折好它后，它就一直放在那里。"
 
 # game/script-a4-lilly.rpy:6527
 translate zh_hans a4_lilly_false_cadence_de5b6e29:
@@ -10744,7 +10744,7 @@ translate zh_hans a4_lilly_false_cadence_acef77db:
 translate zh_hans a4_lilly_false_cadence_16a9e1d9:
 
     # "Adrenaline starts to move through my body as I sit up on my bed, my eyes suddenly wide with possibility."
-    "肾上腺开始在我的身体内涌动，我从床上坐了起来，眼睛突然睁大了，仿佛看到了一个可能性。"
+    "肾上腺素开始在我的身体内涌动，我从床上坐了起来，眼睛突然睁大了，仿佛看到了一个可能性。"
 
 # game/script-a4-lilly.rpy:6541
 translate zh_hans a4_lilly_false_cadence_86465906:
@@ -11374,7 +11374,7 @@ translate zh_hans a4_lilly_under_a_maudlin_sky_12690de9:
 translate zh_hans a4_lilly_under_a_maudlin_sky_2b4a93a1:
 
     # "Lying on my bed looking at the origami bird."
-    "躺在床上，看着那个仙纸鹤。"
+    "躺在床上，看着那个千纸鹤。"
 
 # game/script-a4-lilly.rpy:6955
 translate zh_hans a4_lilly_under_a_maudlin_sky_c2c37c49:
@@ -11734,7 +11734,7 @@ translate zh_hans a4_lilly_under_a_maudlin_sky_5504fe60:
 translate zh_hans a4_lilly_under_a_maudlin_sky_b0b5b022:
 
     # "Doctor" "If my mumbling bores you, you are quite welcome to say so, Mr. Nakai. Lord knows, I lose track of myself sometimes."
-    "医生" "如果我的啰嗦让你心烦了，尽管说出来，中井先生。老天，有的时间我真是自己都忘了自己在说些什么。"
+    "医生" "如果我的啰嗦让你心烦了，尽管说出来，中井先生。老天，有时候我真是自己都忘了自己在说些什么。"
 
 # game/script-a4-lilly.rpy:7108
 translate zh_hans a4_lilly_under_a_maudlin_sky_ca9898bb:
@@ -11830,7 +11830,7 @@ translate zh_hans a4_lilly_under_a_maudlin_sky_d9632a50:
 translate zh_hans a4_lilly_under_a_maudlin_sky_ca7b35be:
 
     # "Lilly's gone. Akira's gone. Hanako would be traveling, and even my parents have already left the hospital."
-    "莉莉已经走了，晃也是。华子要去旅行，就连我的父母也已经离开了医院。"
+    "莉莉已经走了。晃也是。华子要去旅行，就连我的父母也已经离开了医院。"
 
 # game/script-a4-lilly.rpy:7142
 translate zh_hans a4_lilly_under_a_maudlin_sky_b9d04e28:

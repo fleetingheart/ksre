@@ -3196,7 +3196,7 @@ translate zh_hans a3_hanako_falling_f272542d:
 translate zh_hans a3_hanako_falling_baa32771:
 
     # hi "I wonder why? You two always seem to have some ulterior motive."
-    hi "我想知道为什么？你们两每次感觉都有别的动机。"
+    hi "我想知道为什么？你们俩每次感觉都有别的动机。"
 
 # game/script-a3-hanako.rpy:2127
 translate zh_hans a3_hanako_falling_ef2b123c_2:

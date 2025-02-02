@@ -8336,7 +8336,7 @@ translate zh_hans a3_rin_shards_of_ire_71b58e59:
 translate zh_hans a3_rin_shards_of_ire_1a0101c7:
 
     # "I try to discern some hints of her reaction through my adrenaline-distorted vision."
-    "透过被肾上腺扭曲的视线，我试图从她的反应中分辨出一些暗示。"
+    "透过被肾上腺素扭曲的视线，我试图从她的反应中分辨出一些暗示。"
 
 # game/script-a3-rin.rpy:4880
 translate zh_hans a3_rin_shards_of_ire_57528871:

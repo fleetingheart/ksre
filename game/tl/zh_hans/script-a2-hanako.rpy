@@ -1656,7 +1656,7 @@ translate zh_hans a2_hanako_tea_leaves_921d7f42:
 translate zh_hans a2_hanako_tea_leaves_b444b045:
 
     # hi "And yet, you two wonder why no one else wants to be in the Student Council…"
-    hi "然而同时，你们两还觉得很奇怪为什么没有其他人肯加入学生会……"
+    hi "然而同时，你们俩还觉得很奇怪为什么没有其他人肯加入学生会……"
 
 # game/script-a2-hanako.rpy:1083
 translate zh_hans a2_hanako_tea_leaves_02e82071:

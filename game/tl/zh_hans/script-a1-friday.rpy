@@ -22,13 +22,13 @@ translate zh_hans a1_friday_exercise_0dfd0461:
 translate zh_hans a1_friday_exercise_d09ec6f3:
 
     # "Sure, things haven't been great lately for me, but that hasn't made existence so intolerable that I'm not going to try everything I can to stay healthy."
-    "当然，最近我过得不太好，但也不至于活不下去，让我也不用尽我所能去保持健康。"
+    "当然，最近我过得不太好，但这并没有让我觉得生活如此不可忍受，以至于我不愿意尽一切努力保持健康。"
 
 # game/script-a1-friday.rpy:25
 translate zh_hans a1_friday_exercise_0b4dd853:
 
     # "Besides, it's all about asserting some kind of control over this thing, right?"
-    "而且，锻练也算是应付此事的一种方式吧，不是吗？"
+    "而且，锻炼也算是应付此事的一种方式吧，不是吗？"
 
 # game/script-a1-friday.rpy:27
 translate zh_hans a1_friday_exercise_685ff067:
@@ -460,7 +460,7 @@ translate zh_hans a1_friday_invisible_hat_0c850f76:
 translate zh_hans a1_friday_invisible_hat_86936fff:
 
     # ke "Hey, you need some lip balm? I accidentally bought two because I thought the store had started selling individual double A batteries."
-    ke "嘿，你要唇膏吗？我无意间买了两支，当时还以为那家店开始卖散装的AA电池呢。"
+    ke "嘿，你要唇膏吗？我无意间买了两支，我当时还以为那家店开始卖散装的AA电池了呢。"
 
 # game/script-a1-friday.rpy:292
 translate zh_hans a1_friday_invisible_hat_a693bd2d:
@@ -658,7 +658,7 @@ translate zh_hans a1_friday_no_recovery_1b8b00bb:
 translate zh_hans a1_friday_no_recovery_808004e5:
 
     # "Mutou seems to be somewhat confounded by my coming in late, as if I interrupted his flow or something."
-    "武藤似乎已因为我的迟到有点不知所措，好像我打断了他的思路什么的。"
+    "武藤似乎也因为我的迟到有点不知所措，好像我打断了他的思路什么的。"
 
 # game/script-a1-friday.rpy:481
 translate zh_hans a1_friday_no_recovery_d02a4525:
@@ -1882,7 +1882,7 @@ translate zh_hans a1_friday_foot_and_mouth_c50be686:
 translate zh_hans a1_friday_foot_and_mouth_759d26ee:
 
     # "I suppose I'll grab another book or two while I'm here. There's not much else to do, and after reading so much during my stay in the hospital, it's become a hard habit to break."
-    "我想我在这儿期间应该再拿一两本书。没什么事情可作，而且我住院期间读了这么多书，都已经成了一个牢固不破的习惯，很难改掉。"
+    "我想我在这儿期间应该再拿一两本书。没什么事情可作，而且我住院期间读了这么多书，都已经成了一个根深蒂固的习惯，很难改掉。"
 
 # game/script-a1-friday.rpy:1253
 translate zh_hans a1_friday_foot_and_mouth_183ab4b9:
@@ -1954,7 +1954,7 @@ translate zh_hans a1_friday_foot_and_mouth_16ea35e9:
 translate zh_hans a1_friday_foot_and_mouth_31bb9666:
 
     # "I wonder why I can't shake the feeling of being an outsider like Alice, despite most everyone being so hospitable and friendly with me."
-    "我不明白为什么摆脱不掉作为像爱丽丝一样局外人的感觉，尽管差不多所有人对我都很客气很友好。"
+    "我不明白为什么摆脱不掉像爱丽丝一样作为局外人的感觉，尽管差不多所有人对我都很客气很友好。"
 
 # game/script-a1-friday.rpy:1292
 translate zh_hans a1_friday_foot_and_mouth_42c091b6:
@@ -2842,7 +2842,7 @@ translate zh_hans a1_friday_mind_your_step_eefae812:
 translate zh_hans a1_friday_mind_your_step_74fe4539:
 
     # "But it can't be helped. It seems her familiarity with Rin is exactly why she's staying subdued."
-    "但那也行不通。可能就是因为她了解琳，所以才缄口不语。"
+    "但那也行不通。可能正是因为她了解琳，所以才缄口不语。"
 
 # game/script-a1-friday.rpy:1787
 translate zh_hans a1_friday_mind_your_step_77797ebf:
@@ -3844,7 +3844,7 @@ translate zh_hans a1c9o1_625a31b5:
 translate zh_hans a1c9o1_90a6a720:
 
     # "She yells at me, sprinting from the other side of the track."
-    "她朝我喊着，从跑道的另一边迅速跑了过来。"
+    "她朝我喊着，从跑道的另一边飞快地跑了过来。"
 
 # game/script-a1-friday.rpy:2465
 translate zh_hans a1c9o1_edd6e03f:
@@ -6010,13 +6010,13 @@ translate zh_hans a1c13o2_dbf4e823:
 translate zh_hans a1c13o2_90085da8:
 
     # hi "Let's continue. We're almost there anyway."
-    "我们继续走吧，很快就要到了。"
+    hi "我们继续走吧，很快就要到了。"
 
 # game/script-a1-friday.rpy:3768
 translate zh_hans a1c13o2_682226a1:
 
     # "For the rest of the way back to the school, we all remain silent."
-    "后面在回学校的路上，我们一路沉默不语。"
+    "在回学校的路上，我们一路沉默不语。"
 
 translate zh_hans strings:
 
@@ -6046,7 +6046,7 @@ translate zh_hans strings:
 
     # game/script-a1-friday.rpy:553
     old "Yeah, I sure was having fun fun fun at the nurse's office…"
-    new ""
+    new "是的，我在护士办公室玩得很开心……"
 
     # game/script-a1-friday.rpy:553
     old "I don't want to talk about it, okay?"
