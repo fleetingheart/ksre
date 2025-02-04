@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-04-21 11:41 CST
+# TODO: Translation updated at 2024-04-21 11:41
 
 translate zh_hans strings:
 
@@ -279,9 +279,9 @@ translate zh_hans strings:
 
     # game/screens.rpy:1061
     old "Mental health"
-    new "Mental health"
+    new "心理健康"
 
     # game/screens.rpy:1068
     old "Skip hurtful adult scenes"
-    new "Skip hurtful adult scenes"
+    new "跳过伤害性的成人场景"
 

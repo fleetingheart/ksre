@@ -112,7 +112,7 @@ translate zh_hans a2_lilly_earl_grey_4b8901cb:
 translate zh_hans a2_lilly_earl_grey_7af88fd1:
 
     # hi "Better than most everyone else, I guess. You two seem bright and chipper."
-    hi "比其他大多数人都好吧，我觉得。你们两看起来心情不错，很有精神的样子。"
+    hi "比其他大多数人都好吧，我觉得。你们俩看起来心情不错，很有精神的样子。"
 
 # game/script-a2-lilly.rpy:94
 translate zh_hans a2_lilly_earl_grey_3a3d20d6:
@@ -598,7 +598,7 @@ translate zh_hans a2_lilly_earl_grey_88394bf5:
 translate zh_hans a2_lilly_earl_grey_a787d79f:
 
     # hi "How long have you two been playing?"
-    hi "你们两是从什么时候开始下国际象棋的？"
+    hi "你们俩是从什么时候开始下国际象棋的？"
 
 # game/script-a2-lilly.rpy:521
 translate zh_hans a2_lilly_earl_grey_aaea8c8c:
@@ -2014,7 +2014,7 @@ translate zh_hans a2_lilly_presents_and_presence_ea4a144e:
 translate zh_hans a2_lilly_presents_and_presence_f4af1f4c:
 
     # aki "Hey, you two."
-    aki "嘿，你们两好啊。"
+    aki "嘿，你们俩好啊。"
 
 # game/script-a2-lilly.rpy:1434
 translate zh_hans a2_lilly_presents_and_presence_23d32919:
@@ -2296,7 +2296,7 @@ translate zh_hans a2_lilly_presents_and_presence_b030a829:
 translate zh_hans a2_lilly_presents_and_presence_e22ef6d2:
 
     # aki "Well, that's how it is. What're you two up to anyway on this fine day?"
-    aki "好了，就是这样。你们两今天是要去哪儿？"
+    aki "好了，就是这样。你们俩今天是要去哪儿？"
 
 # game/script-a2-lilly.rpy:1625
 translate zh_hans a2_lilly_presents_and_presence_28a39847:
@@ -3904,7 +3904,7 @@ translate zh_hans a2_lilly_unidentified_drinking_object_aead2be2:
 translate zh_hans a2_lilly_unidentified_drinking_object_571688e4:
 
     # aki "Sorry, Lilly. Good to see you two again though, and you Hisao."
-    aki "抱歉莉莉。不过能再次见到你们两真好，还有你久夫。"
+    aki "抱歉莉莉。不过能再次见到你们俩真好，还有你久夫。"
 
 # game/script-a2-lilly.rpy:2731
 translate zh_hans a2_lilly_unidentified_drinking_object_b0895212:
@@ -7788,7 +7788,7 @@ translate zh_hans a2_lilly_little_wing_21b98153:
 translate zh_hans a2_lilly_little_wing_bbd1334e:
 
     # "A small origami crane."
-    "一只小小的纸鹤。"
+    "一只小小的千纸鹤。"
 
 # game/script-a2-lilly.rpy:5422
 translate zh_hans a2_lilly_little_wing_861fb214:

@@ -2668,7 +2668,7 @@ translate zh_hans a2_emi_second_times_the_worst_b087745b:
 translate zh_hans a2_emi_second_times_the_worst_cd1bd74c:
 
     # emi "What are you doing out here? You're going to catch a cold or something!"
-    emi "你在这里干吗？你就这么睡着会感冒的！"
+    emi "你在这里干嘛？你就这么睡着会感冒的！"
 
 # game/script-a2-emi.rpy:1625
 translate zh_hans a2_emi_second_times_the_worst_14984b38:
@@ -9350,7 +9350,7 @@ translate zh_hans a2_emi_famous_last_words_a2ac05bd:
 translate zh_hans a2_emi_famous_last_words_fe8322c2:
 
     # "This is stupid. I can just ask Emi."
-    "我真笨，干吗不直接问笑美。"
+    "我真笨，干嘛不直接问笑美。"
 
 # game/script-a2-emi.rpy:5946
 translate zh_hans a2_emi_famous_last_words_efc389da:

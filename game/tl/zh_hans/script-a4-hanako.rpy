@@ -7482,5 +7482,5 @@ translate zh_hans strings:
 translate zh_hans a4_hanako_whispered_touch_27005eb4:
 
     # "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
-    "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
+    "根据您的辅助功能设置，后续场景已被禁用。若继续推进，您将跳到下一天。"
 

@@ -148,7 +148,7 @@ translate zh_hans a4_rin_illusions_for_people_46374257:
 translate zh_hans a4_rin_illusions_for_people_f0c94bcf:
 
     # "After the fruits of everyone's labor have been piled into a neat stack on the teacher's desk, he clears his throat to give a little speech."
-    "当每个人的劳动果实都变成老师桌上的一摞纸后，他清了清嗓子，做了一番演讲。"
+    "当每个人的劳动成果都堆放在老师桌上时，他清了清嗓子，做了一番演讲。"
 
 # game/script-a4-rin.rpy:86
 translate zh_hans a4_rin_illusions_for_people_cd742d22_1:
@@ -184,7 +184,7 @@ translate zh_hans a4_rin_illusions_for_people_2d4e2ee4_1:
 translate zh_hans a4_rin_illusions_for_people_8ad95814:
 
     # "Everyone wishes him a nice vacation back as they file out the door."
-    "每个人都回敬他假期愉快，同时涌出了门。"
+    "每个人都祝愿他假期愉快，同时涌出了门。"
 
 # game/script-a4-rin.rpy:109
 translate zh_hans a4_rin_illusions_for_people_6f112a37:
@@ -358,7 +358,7 @@ translate zh_hans a4_rin_illusions_for_people_46db08e4:
 translate zh_hans a4_rin_illusions_for_people_3c6f0e91:
 
     # "My grudging silence is interpreted as assent, and Nomiya turns to shuffle the stack of turned-in assignments on his desk like a deck of cards."
-    "我勉强的沉默被理解成了默认，野宫开始整理那摞上交的作业，像是在整理一幅扑克牌一样。"
+    "我勉强的沉默被理解成了默认，野宫开始整理那摞上交的作业，像是在整理一副扑克牌一样。"
 
 # game/script-a4-rin.rpy:199
 translate zh_hans a4_rin_illusions_for_people_4fd197c4:
@@ -376,7 +376,7 @@ translate zh_hans a4_rin_illusions_for_people_7f74f1ac:
 translate zh_hans a4_rin_illusions_for_people_d0e69e36:
 
     # no "She's still so young, yet has such wonderful skill, and style!"
-    no "她还年轻，技巧却精妙绝伦，那种风格！"
+    no "她还这么年轻，技巧和风格却如此精妙绝伦！"
 
 # game/script-a4-rin.rpy:208
 translate zh_hans a4_rin_illusions_for_people_95a73d61:
@@ -400,7 +400,7 @@ translate zh_hans a4_rin_illusions_for_people_028d71b4:
 translate zh_hans a4_rin_illusions_for_people_5e0f21ac:
 
     # no "Well, we'll meet there next."
-    no "哦，那我们就那儿见了。"
+    no "哦，那我们就在那儿见了。"
 
 # game/script-a4-rin.rpy:227
 translate zh_hans a4_rin_illusions_for_people_d991f2c6:
@@ -460,7 +460,7 @@ translate zh_hans a4_rin_demused_76b2fe88_3:
 translate zh_hans a4_rin_demused_7bd0d1d0:
 
     # n "{vspace=270}Fourth day. Math exam. We have a math exam. It goes how it goes. I don't care."
-    n "{vspace=270}第四天，数学测验。我们有了一次数学测验。它要怎样就怎样。我不在乎了。"
+    n "{vspace=270}第四天，数学测验。我们有一场数学测验。该怎样就怎样吧。我不在乎了。"
 
 # game/script-a4-rin.rpy:278
 translate zh_hans a4_rin_demused_76b2fe88_4:
@@ -472,7 +472,7 @@ translate zh_hans a4_rin_demused_76b2fe88_4:
 translate zh_hans a4_rin_demused_c189afa1:
 
     # n "{vspace=270}Fifth day. Nomiya asks me again if I will attend the exhibition opening. I can't say no to him even though I seriously want to. I just don't want to discuss with him anything Rin-related so it's just better to take the path of least resistance."
-    n "{vspace=270}第五天，野宫又问我要不要去画展的开幕式。我没法回绝他，虽然我严肃地考虑过拒绝。我只是完全不想和他谈论任何同琳有关的事，所以最好还是选择那条摩擦更少一些的路。"
+    n "{vspace=270}第五天，野宫又问我要不要去画展开幕式。我正经考虑过拒绝，但没法这么做。我只是完全不想和他谈论任何同琳有关的事，所以最好还是选择那条摩擦更少一些的路。"
 
 # game/script-a4-rin.rpy:287
 translate zh_hans a4_rin_demused_76b2fe88_5:
@@ -586,19 +586,19 @@ translate zh_hans a4_rin_demused_e50c3695:
 translate zh_hans a4_rin_demused_51c8ea4c:
 
     # "She claims my bed without asking permission, making me wish that I had taken the time to make it before I left in the morning, then stands up again as though she sat on hot coals."
-    "她没取得许可，就坐在了我的床上，让我后悔自己早上没花点时间去整理下，接着她又站起来了，像是坐到了热碳上一样。"
+    "她没取得许可，就坐在了我的床上，让我后悔自己早上没花点时间去整理一下，接着她又站起来了，像是坐到了热炭上一样。"
 
 # game/script-a4-rin.rpy:365
 translate zh_hans a4_rin_demused_76d044ed:
 
     # "I half-lean against the single corner of my desktop that isn't cluttered with stuff, to rest my legs at least a little bit."
-    "我半靠着自己的桌上唯一没堆满东西的桌角，尽可能地休息一下自己的脚。"
+    "我半靠着自己的桌上唯一没堆满东西的桌角，尽量让自己的脚休息一下。"
 
 # game/script-a4-rin.rpy:370
 translate zh_hans a4_rin_demused_9fc28e0d:
 
     # "Rin spends a few moments glancing curiously around my room. It makes me realize that she's never seen it before."
-    "琳花了一些时间好奇地打望我的房间。让我想起她之前从没见过这里。"
+    "琳花了一些时间好奇地打量我的房间。让我想起她之前从没见过这里。"
 
 # game/script-a4-rin.rpy:372
 translate zh_hans a4_rin_demused_ad9059a3:
@@ -610,7 +610,7 @@ translate zh_hans a4_rin_demused_ad9059a3:
 translate zh_hans a4_rin_demused_15d65c2d:
 
     # "Since the room is small, she quickly runs out of things to look at, but nothing else transpires, allowing the uncomfortable silence to take over the atmosphere."
-    "因为房间很少，她很快就找不到看的东西了，不过什么也没发生，一种不舒服的沉默占据了房间。"
+    "因为房间很小，她很快就找不到可以看的东西了，不过什么也没发生，一种令人不安的寂静占据了房间。"
 
 # game/script-a4-rin.rpy:379
 translate zh_hans a4_rin_demused_449f3709:
@@ -700,7 +700,7 @@ translate zh_hans a4_rin_demused_fb68f57c:
 translate zh_hans a4_rin_demused_03c5f631:
 
     # "Her eyes are really big and glistening with moisture, and staring right into my own with a soft gaze that I'm having a hard time to match."
-    "她的眼睛真的很大，潮湿，烁烁闪亮，用温柔的目光直直地望进我的眼里，我有些难以回视。"
+    "她的眼睛真的很大，潮湿，闪闪发亮，用温柔的目光直直地望进我的眼里，我有些难以回视。"
 
 # game/script-a4-rin.rpy:425
 translate zh_hans a4_rin_demused_03b9a4e4:
@@ -1042,7 +1042,7 @@ translate zh_hans a4_rin_demused_74f1b510:
 translate zh_hans a4_rin_demused_1a0101c7:
 
     # "I try to discern some hints of her reaction through my adrenaline-distorted vision."
-    "透过被肾上腺扭曲的视线，我试图从她的反应中分辨出一些暗示。"
+    "透过被肾上腺素扭曲的视线，我试图从她的反应中分辨出一些暗示。"
 
 # game/script-a4-rin.rpy:592
 translate zh_hans a4_rin_demused_57528871:

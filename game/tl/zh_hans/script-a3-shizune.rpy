@@ -3424,7 +3424,7 @@ translate zh_hans a3_shizune_pangrammatic_window_fa0155ba:
 translate zh_hans a3_shizune_pangrammatic_window_0d27e544:
 
     # hx "Oho. What's up here? What are you two doing, flailing your hands around? Playing cat's cradle like a bunch of girls?"
-    hx "啊哈，在干吗？你们在那里挥舞着手在做什么？像小女孩那样玩翻花绳？"
+    hx "啊哈，在干嘛？你们在那里挥舞着手在做什么？像小女孩那样玩翻花绳？"
 
 # game/script-a3-shizune.rpy:2281
 translate zh_hans a3_shizune_pangrammatic_window_fae0cf76:
@@ -3508,7 +3508,7 @@ translate zh_hans a3_shizune_pangrammatic_window_10cd8b42:
 translate zh_hans a3_shizune_pangrammatic_window_29ad8547:
 
     # hx "Why do you make that noise? Are you mad? Well, obviously. Good. Your sweater is terrible, and I want you to feel bad about it. The burn tells me it's working."
-    hx "你干吗发出那种声音？你生气了？哼，很明显啊。好。你的汗衫非常的糟糕，所以我也要你对此而感到不满。很显然我达到目的了。"
+    hx "你干嘛发出那种声音？你生气了？哼，很明显啊。好。你的汗衫非常的糟糕，所以我也要你对此而感到不满。很显然我达到目的了。"
 
 # game/script-a3-shizune.rpy:2327
 translate zh_hans a3_shizune_pangrammatic_window_5f012cdc:
@@ -9088,7 +9088,7 @@ translate zh_hans a3_shizune_tongue_tied_2b24b113:
 translate zh_hans a3_shizune_tongue_tied_4bcf7963:
 
     # his "Hey, what were you doing? Secretly slacking off?"
-    his "喂，你在干吗？在别人看不到的时候偷懒么？"
+    his "喂，你在干嘛？在别人看不到的时候偷懒么？"
 
 # game/script-a3-shizune.rpy:5792
 translate zh_hans a3_shizune_tongue_tied_a074c752:
