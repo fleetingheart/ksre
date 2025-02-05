@@ -1070,9 +1070,14 @@ screen accessibility():
                     if expanded:
                             frame:
                                 background "config_bg" at colorblind(persistent.colorblind)
+                                if renpy.android or renpy.ios:
+                                    xoffset 55
+                                    yoffset -84
+                                else:
+                                    xoffset 43
+                                    yoffset -71
                                 xpadding 13
                                 ypadding 13
-                                yoffset -13
 
                                 vbox:
                                     spacing 6
