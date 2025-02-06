@@ -520,7 +520,7 @@ screen extra():
                 yalign 1.0
                 hovered SetScreenVariable("gallery_hovered", True)
                 unhovered SetScreenVariable("gallery_hovered", False)
-                action ShowMenu("gallery")
+                action [Function(unlock_completion_bonus), ShowMenu("gallery")]
 
                 vbox:
                     if gallery_hovered:
@@ -541,7 +541,7 @@ screen extra():
                 yalign 1.0
                 hovered SetScreenVariable("library_hovered", True)
                 unhovered SetScreenVariable("library_hovered", False)
-                action ShowMenu("library")
+                action [SetVariable("completion_percentage", get_completion_percentage()), ShowMenu("library")]
 
                 vbox:
                     if library_hovered:
@@ -830,6 +830,8 @@ screen library(page=0):
             vbar value YScrollValue("library_vp_" + str(page)) style "vslider"
 
         null height 16
+
+        text _("Completion: ") + completion_percentage
 
         textbutton _("Return"):
             style "return_button"

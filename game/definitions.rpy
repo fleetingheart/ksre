@@ -231,6 +231,26 @@ python early:
             global rpc
 
             rpc.data["is_watching"] = name == "act_op"
+    
+    def get_completion_amount():
+        if config.developer:
+            return 1
+        seen = 0
+        total = 0
+        for route in replays:
+            for act in route[1]:
+                for scene in act[1]:
+                    if renpy.seen_label(scene[1]):
+                        seen += 1
+                    total += 1
+        return seen / total
+
+    def get_completion_percentage():
+        return f"{math.floor(get_completion_amount() * 100)}%"
+
+    def unlock_completion_bonus():
+        if get_completion_amount() == 1:
+            renpy.mark_image_seen("completionbonus")
 
     config.label_callback = set_current_scene
 
@@ -882,3 +902,6 @@ default refuse_misha = None
 # Accessibility Dropdown
 default expanded = False
 default selected = "Options"
+
+# Cached completion percentage
+default completion_percentage = "0%"
