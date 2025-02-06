@@ -822,7 +822,7 @@ screen library(page=0):
                                 null height 1
                                 hbox:
                                     null width 30
-                                    image "button_cg_locked_op"
+                                    image "button_locked_track_op"
                                 null height 1
 
             null width 25
