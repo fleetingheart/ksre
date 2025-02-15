@@ -13,6 +13,10 @@ define config.version = "2.0.1"
 
 define config.save_directory = "sh.fhs.ksre"
 
+# adding loading mods from saves directory
+# useful for sandboxed environments like flatpak
+define config.archives = [config.savedir + "/mods"]
+
 define config.end_splash_transition = dotwipe_up
 
 define config.enter_transition = dotwipe_down
