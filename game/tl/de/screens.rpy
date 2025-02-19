@@ -36,7 +36,7 @@ translate de strings:
 
     # game/screens.rpy:179
     old "Saves"
-    new "Spart"
+    new "Spielstände"
 
     # game/screens.rpy:182
     old "Mods"
@@ -60,7 +60,7 @@ translate de strings:
 
     # game/screens.rpy:195
     old "Current track"
-    new "Aktueller Musikstück"
+    new "Aktuelles Musikstück"
 
     # game/screens.rpy:210
     old "Start"
@@ -92,11 +92,11 @@ translate de strings:
 
     # game/screens.rpy:270
     old "Skip after choices"
-    new "Überspringen nach Wahlpunkten"
+    new "Überspringen nach Entscheidungen"
 
     # game/screens.rpy:273
     old "Parallax"
-    new "Parallaxe"
+    new "Parallax"
 
     # game/screens.rpy:276
     old "Discord activity"
@@ -116,7 +116,7 @@ translate de strings:
 
     # game/screens.rpy:305
     old "Auto mode delay"
-    new "Verzögerung Auto-Modus"
+    new "Auto-Modus Verzögerung"
 
     # game/screens.rpy:315
     old "Music volume"
@@ -168,7 +168,7 @@ translate de strings:
 
     # game/screens.rpy:439
     old "Are you sure you want to\nload this save?"
-    new "Sind Sie sicher, dass Sie\ndiesen Speicherstand laden möchten?"
+    new "Sind Sie sicher, dass Sie\ndiesen Spielstand laden möchten?"
 
     # game/screens.rpy:455
     old "Scene"
@@ -176,7 +176,7 @@ translate de strings:
 
     # game/screens.rpy:467
     old "Are you sure you want to\ndelete this save?"
-    new "Sind Sie sicher, dass Sie\ndiesen Speicherstand löschen möchten?"
+    new "Sind Sie sicher, dass Sie\ndiesen Spielstand löschen möchten?"
 
     # game/screens.rpy:478
     old "Save"
@@ -184,7 +184,7 @@ translate de strings:
 
     # game/screens.rpy:530
     old "Jukebox"
-    new "Spieldose"
+    new "Jukebox
 
     # game/screens.rpy:551
     old "Gallery"
@@ -200,11 +200,11 @@ translate de strings:
 
     # game/screens.rpy:647
     old "Extras > Jukebox"
-    new "Extras > Spieldose"
+    new "Extras > Jukebox"
 
     # game/screens.rpy:651
     old "Now playing"
-    new "Gerade gespielt"
+    new "Gerade spielt"
 
     # game/screens.rpy:685
     old "Vol."
@@ -244,7 +244,7 @@ translate de strings:
 
     # game/screens.rpy:1040
     old "Self-voicing"
-    new "Selbstäußerung"
+    new "Sprachausgabe"
 
     # game/screens.rpy:1047
     old "Enable"
@@ -252,11 +252,11 @@ translate de strings:
 
     # game/screens.rpy:1057
     old "Volume drop"
-    new "Volumenabfall"
+    new "Dialogverstärkung"
 
     # game/screens.rpy:1059
     old "Colorblind Filter"
-    new "Farbenblinder Filter"
+    new "Filter für Farbenblinde"
 
     # game/screens.rpy:1153
     old "You must be 18+ to see adult content within this game.\nDo you meet these requirements?"
