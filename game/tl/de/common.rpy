@@ -536,7 +536,7 @@ translate de strings:
 
     # renpy/common/00library.rpy:338
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "Dieses Programm enthält freie Software unter verschiedenen Lizenzen, wie zum Beispiel die MIT-Lizenz oder die GNU Lesser General Public License. Ein komplette Liste der Software, sowie Links zum kompletten Source Code kann hier gefunden werden: {a=https://www.renpy.org/l/license}{/a}."
+    new "Dieses Programm enthält freie Software unter verschiedenen Lizenzen, wie zum Beispiel die MIT-Lizenz oder die GNU Lesser General Public License. Ein komplette Liste der Software, sowie Links zum kompletten Source Code kann hier gefunden werden: {a=https://www.renpy.org/l/license}Link{/a}."
 
     # renpy/common/00preferences.rpy:290
     old "display"
@@ -832,7 +832,7 @@ translate de strings:
 
     # renpy/common/00sync.rpy:440
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "Dies wird Ihre Spielstände zum {a=https://sync.renpy.org}Ren'Py Sync Server hochladen{/a}.\nMöchten Sie fortfahren?"
+    new "Dies wird Ihre Spielstände zum {a=https://sync.renpy.org}Ren'Py Sync Server{/a} hochladen.\nMöchten Sie fortfahren?"
 
     # renpy/common/00sync.rpy:472
     old "Enter Sync ID"
@@ -840,7 +840,7 @@ translate de strings:
 
     # renpy/common/00sync.rpy:483
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "Dies wird den {a=https://sync.renpy.org}Ren'Py Sync Server kontaktieren{/a}."
+    new "Dies wird den {a=https://sync.renpy.org}Ren'Py Sync Server{/a} kontaktieren."
 
     # renpy/common/00sync.rpy:513
     old "Sync Success"
