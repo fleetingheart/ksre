@@ -276,13 +276,13 @@ translate de strings:
 
     # game/screens.rpy:376
     old "Simplified Chinese"
-    new "Simplified Chinese"
+    new "Chinesisch (vereinfacht)"
 
     # game/screens.rpy:1061
     old "Mental health"
-    new "Mental health"
+    new "Mentale Gesundheit"
 
     # game/screens.rpy:1068
     old "Skip hurtful adult scenes"
-    new "Skip hurtful adult scenes"
+    new "Überspringe psychisch belastende Inhalte"
 
