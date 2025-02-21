@@ -16,7 +16,7 @@ translate de strings:
 
     # game/screens.rpy:169
     old "History"
-    new "Archiv"
+    new "Verlauf"
 
     # game/screens.rpy:171
     old "Skip"
@@ -252,7 +252,7 @@ translate de strings:
 
     # game/screens.rpy:1057
     old "Volume drop"
-    new "Dialogverstärkung"
+    new "Lautstärkeabsenkung"
 
     # game/screens.rpy:1059
     old "Colorblind Filter"

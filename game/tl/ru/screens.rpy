@@ -139,7 +139,7 @@ translate ru strings:
     new "Испанский"
 
     # game/screens.rpy:292
-    old "Deutsch"
+    old "German"
     new "Немецкий"
 
     # game/screens.rpy:293

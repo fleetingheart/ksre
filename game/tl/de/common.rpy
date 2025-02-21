@@ -32,7 +32,7 @@ translate de strings:
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new "bar"
+    new "Slider"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
