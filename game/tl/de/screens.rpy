@@ -155,7 +155,7 @@ translate de strings:
     new "Spanisch"
 
     # game/screens.rpy:374
-    old "Deutsch"
+    old "German"
     new "Deutsch"
 
     # game/screens.rpy:375
@@ -184,7 +184,7 @@ translate de strings:
 
     # game/screens.rpy:530
     old "Jukebox"
-    new "Jukebox
+    new "Jukebox"
 
     # game/screens.rpy:551
     old "Gallery"

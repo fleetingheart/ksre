@@ -4,7 +4,7 @@ translate de strings:
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to quit?"
-    new "Sind Sie sicher, dass\nSie aufhören wollen?"
+    new "Sind Sie sicher, dass\nSie das Spiel beenden möchten?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
@@ -132,7 +132,7 @@ translate de strings:
 
     # renpy/common/00accessibility.rpy:228
     old "Self-Voicing Volume Drop"
-    new "Sprachfokus bei Sprachausgabe"
+    new "Lautstärkeabsenkung bei Sprachausgabe"
 
     # renpy/common/00accessibility.rpy:237
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
@@ -496,7 +496,7 @@ translate de strings:
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new "Sind Sie sicher, dass Sie dort fortfahren möchten, wo Sie aufgehört haben?"
+    new "Möchten Sie wirklich dort weitermachen, wo Sie aufgehört haben?"
 
     # renpy/common/00gui.rpy:455
     old "Are you sure you want to end the replay?"
@@ -504,11 +504,11 @@ translate de strings:
 
     # renpy/common/00gui.rpy:456
     old "Are you sure you want to begin skipping?"
-    new "Sind Sie sicher, dass Sie mit dem Überspringen beginnen wollen?"
+    new "Möchten Sie wirklich mit dem Überspringen beginnen?"
 
     # renpy/common/00gui.rpy:457
     old "Are you sure you want to skip to the next choice?"
-    new "Sind Sie sicher, dass Sie die nächste Entscheidung überspringen wollen ?"
+    new "Sind Sie sicher, dass Sie die nächste Entscheidung überspringen wollen?"
 
     # renpy/common/00gui.rpy:458
     old "Are you sure you want to skip unseen dialogue to the next choice?"
@@ -516,7 +516,7 @@ translate de strings:
 
     # renpy/common/00gui.rpy:459
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "Dieser Speicherstand wurde auf einem anderen Gerät erstellt. Böswillig erstellte Dateien können Ihrem Gerät schaden. Vertrauen Sie dem Autor der Datei und allen, die Sie möglicherweise bearbeitet haben?"
+    new "Dieser Speicherstand wurde auf einem anderen Gerät erstellt. Böswillig erstellte Dateien können Ihrem Gerät schaden. Vertrauen Sie dem Autor der Datei und allen, die die Datei möglicherweise verändert haben?"
 
     # renpy/common/00gui.rpy:460
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
@@ -524,7 +524,7 @@ translate de strings:
 
     # renpy/common/00keymap.rpy:325
     old "Failed to save screenshot as %s."
-    new "Fehler beim Speichern des Screenshot als %s."
+    new "Fehler beim Speichern des Screenshots als %s."
 
     # renpy/common/00keymap.rpy:346
     old "Saved screenshot as %s."
@@ -536,7 +536,7 @@ translate de strings:
 
     # renpy/common/00library.rpy:338
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "Dieses Programm enthält freie Software unter verschiedenen Lizenz, wie zum Beispiel die MIT Lizenz oder die GNU Lesser General Public Lizenz. Ein komplette Liste der Software, sowie Links zum kompletten Source Code kann hier gefunden werden: {a=https://www.renpy.org/l/license}{/a}."
+    new "Dieses Programm enthält freie Software unter verschiedenen Lizenzen, wie zum Beispiel die MIT-Lizenz oder die GNU Lesser General Public License. Ein komplette Liste der Software, sowie Links zum kompletten Source Code kann hier gefunden werden: {a=https://www.renpy.org/l/license}{/a}."
 
     # renpy/common/00preferences.rpy:290
     old "display"
@@ -636,7 +636,7 @@ translate de strings:
 
     # renpy/common/00preferences.rpy:446
     old "self voicing volume drop"
-    new "Sprachfokus bei Sprachausgabe"
+    new "Lautstärkeabsenkung bei Sprachausgabe"
 
     # renpy/common/00preferences.rpy:454
     old "clipboard voicing"
@@ -772,11 +772,11 @@ translate de strings:
 
     # renpy/common/00preferences.rpy:701
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Sprachausgabe zur Zwischenablage aktiviert. 'Umschaltetaste+C' zum Deaktivieren"
+    new "Sprachausgabe zur Zwischenablage aktiviert. 'Umschalttaste+C' zum Deaktivieren"
 
     # renpy/common/00preferences.rpy:703
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "Sprachausgabe würde sagen \"[renpy.display.tts.last]\". 'alt+Umschaltetaste+V' zum deaktivieren"
+    new "Sprachausgabe würde sagen \"[renpy.display.tts.last]\". 'alt+Umschalttaste+V' zum Deaktivieren"
 
     # renpy/common/00speechbubble.rpy:416
     old "Speech Bubble Editor"
@@ -852,7 +852,7 @@ translate de strings:
 
     # renpy/common/00sync.rpy:522
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "Sie können mit der ID Ihren Spielstand auf ein anderes Gerät herunterladen.\nDer Sync wir in einer Stunde ablaufen.\nRen'Py Sync wird unterstützt von {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsoren{/a}."
+    new "Sie können mit der ID Ihren Spielstand auf ein anderes Gerät herunterladen.\nDer Sync wird in einer Stunde ablaufen.\nRen'Py Sync wird unterstützt von {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsoren{/a}."
 
     # renpy/common/00sync.rpy:526
     old "Continue"
@@ -936,7 +936,7 @@ translate de strings:
 
     # renpy/common/00updater.rpy:2033
     old "This program is up to date."
-    new "Dieses Programm ist auf dem neusten Stannd."
+    new "Dieses Programm ist auf dem neuesten Stand."
 
     # renpy/common/00updater.rpy:2035
     old "[u.version] is available. Do you want to install it?"
@@ -992,7 +992,7 @@ translate de strings:
 
     # renpy/common/00updater.rpy:2091
     old "This game cannot be run until the game data has been downloaded."
-    new "Das Spiel kann nicht gestartet werden, bis die Spieldaten nicht heruntergeladen sind."
+    new "Das Spiel kann nicht gestartet werden, bis die Spieldaten heruntergeladen wurden."
 
     # renpy/common/00updater.rpy:2098
     old "Retry"
@@ -1104,11 +1104,11 @@ translate de strings:
 
     # renpy/common/00gltest.rpy:251
     old "This game requires use of GL2 that can't be initialised."
-    new "Dies Spiel erfordert GL2, welches nicht initialisiert werden kann."
+    new "Dieses Spiel erfordert GL2, das nicht initialisiert werden kann."
 
     # renpy/common/00gltest.rpy:253
     old "This computer has a problem displaying graphics: [problem]."
-    new "Dieser Computer hat ein Promblem bei der Anzeige von Grafik: [problem]."
+    new "Dieser Computer hat ein Problem bei der Anzeige von Grafik: [problem]."
 
     # renpy/common/00gltest.rpy:257
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
@@ -1172,7 +1172,7 @@ translate de strings:
 
     # renpy/common/_errorhandling.rpym:680
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "Kopert die traceback.txt zur Zwischenablage als BBcode für Foren wie https://lemmasoft.renai.us/."
+    new "Kopiert die traceback.txt zur Zwischenablage als BBcode für Foren wie https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:682
     old "Copy Markdown"
@@ -1192,7 +1192,7 @@ translate de strings:
 
     # renpy/common/_errorhandling.rpym:741
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "Versucht zu einem vorherigen Stand zurückzukehren, was Ihnen das Speichern oder die Auswahl einer anderen Entscheidung ermöglicht."
+    new "Versucht, zu einem vorherigen Stand zurückzukehren, sodass Sie speichern oder eine andere Entscheidung treffen können."
 
     # renpy/common/_errorhandling.rpym:744
     old "Ignore"
@@ -1204,7 +1204,7 @@ translate de strings:
 
     # renpy/common/_errorhandling.rpym:750
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new "Ignoriert die EXception und erlaubt das Fortsetzen. Dies führt oft zu weiteren Fehlern."
+    new "Ignoriert die Exception und erlaubt das Fortsetzen. Dies führt oft zu weiteren Fehlern."
 
     # renpy/common/_errorhandling.rpym:754
     old "Reload"
@@ -1212,7 +1212,7 @@ translate de strings:
 
     # renpy/common/_errorhandling.rpym:756
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new "Lädt das Spiel erneut aus der Datei, speichert und stellt den Spielzustand wieder her wenn möglich."
+    new "Lädt das Spiel erneut aus der Datei, speichert und stellt den Spielzustand wieder her, wenn möglich."
 
     # renpy/common/_errorhandling.rpym:759
     old "Console"
@@ -1228,5 +1228,5 @@ translate de strings:
 
     # renpy/common/_errorhandling.rpym:796
     old "Parsing the script failed."
-    new "Verarbeitung des Skriptes fehlgeschlagen."
+    new "Verarbeitung des Skripts fehlgeschlagen."
 
