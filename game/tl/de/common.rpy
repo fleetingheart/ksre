@@ -44,11 +44,11 @@ translate de strings:
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new "horizontales scrollen"
+    new "Horizontales Scrollen"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new "verticales scrollen"
+    new "Vertikales Scrollen"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
@@ -192,7 +192,7 @@ translate de strings:
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "{#weekday_short}Su"
+    new "{#weekday_short}So"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
@@ -332,7 +332,7 @@ translate de strings:
 
     # renpy/common/00action_file.rpy:816
     old "Next file page."
-    new "Nächste Speicher Seite."
+    new "Nächste Speicherseite."
 
     # renpy/common/00action_file.rpy:888
     old "Previous file page."
@@ -448,11 +448,11 @@ translate de strings:
 
     # renpy/common/00director.rpy:1789
     old "Behind:"
-    new "Hinter:"
+    new "Dahinter:"
 
     # renpy/common/00director.rpy:1800
     old "Click to set, right click to add to behind list."
-    new "Klicken, um festzulegen, Rechtsklick, um zur Hinter-Liste hinzuzufügen."
+    new "Klicken, um festzulegen, Rechtsklick, um zur Dahinter-Liste hinzuzufügen."
 
     # renpy/common/00director.rpy:1812
     old "Transition:"
@@ -464,7 +464,7 @@ translate de strings:
 
     # renpy/common/00director.rpy:1823
     old "Customize director.transitions to add more transitions."
-    new "Passe director.transitions an, um weitere übergänge hinzuzufügen."
+    new "Passe director.transitions an, um weitere Übergänge hinzuzufügen."
 
     # renpy/common/00director.rpy:1835
     old "Channel:"
@@ -484,11 +484,11 @@ translate de strings:
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to delete this save?"
-    new "Sind Sie sicher, dass Sie diesen Speicherstand löschen wollen?"
+    new "Sind Sie sicher, dass Sie diesen Spielstand löschen wollen?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to overwrite your save?"
-    new "Sind Sie sicher, dass Sie diesen Speicherstand überschreiben wollen?"
+    new "Sind Sie sicher, dass Sie diesen Spielstand überschreiben wollen?"
 
     # renpy/common/00gui.rpy:451
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
@@ -516,11 +516,11 @@ translate de strings:
 
     # renpy/common/00gui.rpy:459
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "Dieser Speicherstand wurde auf einem anderen Gerät erstellt. Böswillig erstellte Dateien können Ihrem Gerät schaden. Vertrauen Sie dem Autor der Datei und allen, die die Datei möglicherweise verändert haben?"
+    new "Dieser Spielstand wurde auf einem anderen Gerät erstellt. Böswillig erstellte Dateien können Ihrem Gerät schaden. Vertrauen Sie dem Autor der Datei und allen, die die Datei möglicherweise verändert haben?"
 
     # renpy/common/00gui.rpy:460
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Vertrauen Sie dem Gerät auf dem dieser Speicherstand erstellt wurde? Sie sollten nur Ja auswählen, wenn Sie der einzige Benutzer des Gerätes sind"
+    new "Vertrauen Sie dem Gerät auf dem dieser Spielstand erstellt wurde? Sie sollten nur Ja auswählen, wenn Sie der einzige Benutzer des Gerätes sind."
 
     # renpy/common/00keymap.rpy:325
     old "Failed to save screenshot as %s."
@@ -536,7 +536,7 @@ translate de strings:
 
     # renpy/common/00library.rpy:338
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "Dieses Programm enthält freie Software unter verschiedenen Lizenzen, wie zum Beispiel die MIT-Lizenz oder die GNU Lesser General Public License. Ein komplette Liste der Software, sowie Links zum kompletten Source Code kann hier gefunden werden: {a=https://www.renpy.org/l/license}Link{/a}."
+    new "Dieses Programm enthält freie Software unter verschiedenen Lizenzen, wie zum Beispiel die MIT-Lizenz oder die GNU Lesser General Public License. Eine komplette Liste der Software, sowie Links zum kompletten Source Code kann hier gefunden werden: {a=https://www.renpy.org/l/license}Link{/a}."
 
     # renpy/common/00preferences.rpy:290
     old "display"
@@ -748,7 +748,7 @@ translate de strings:
 
     # renpy/common/00preferences.rpy:613
     old "voice volume"
-    new "Stimmenlautstärke"
+    new "Sprachlautstärke"
 
     # renpy/common/00preferences.rpy:614
     old "mute main"
@@ -780,7 +780,7 @@ translate de strings:
 
     # renpy/common/00speechbubble.rpy:416
     old "Speech Bubble Editor"
-    new "Sprechblasenfehler"
+    new "Sprechblasen-Editor"
 
     # renpy/common/00speechbubble.rpy:421
     old "(hide)"
@@ -804,7 +804,7 @@ translate de strings:
 
     # renpy/common/00sync.rpy:197
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    new "Ein unbekannter Fehler ist bei der Verbindung zum Ren'Py Sync server aufgetreten."
+    new "Ein unbekannter Fehler ist bei der Verbindung zum Ren'Py Sync Server aufgetreten."
 
     # renpy/common/00sync.rpy:213
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
@@ -828,7 +828,7 @@ translate de strings:
 
     # renpy/common/00sync.rpy:383
     old "The sync contains a file with an invalid name."
-    new "Der Sync enthält eine Datei mit einem ungültigen Namen"
+    new "Der Sync enthält eine Datei mit einem ungültigen Namen."
 
     # renpy/common/00sync.rpy:440
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
@@ -864,7 +864,7 @@ translate de strings:
 
     # renpy/common/00translation.rpy:63
     old "Translation identifier: [identifier]"
-    new "Übersetzungs Identifikation: [identifier]"
+    new "Übersetzungsidentifikation: [identifier]"
 
     # renpy/common/00translation.rpy:84
     old " translates [tl.filename]:[tl.linenumber]"
@@ -952,7 +952,7 @@ translate de strings:
 
     # renpy/common/00updater.rpy:2041
     old "Unpacking the updates."
-    new "Updates werden entpackt"
+    new "Updates werden entpackt."
 
     # renpy/common/00updater.rpy:2043
     old "Finishing up."
