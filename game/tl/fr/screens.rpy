@@ -143,7 +143,7 @@ translate fr strings:
     new "Espagnol"
 
     # game/screens.rpy:292
-    old "Deutsch"
+    old "German"
     new "Allemand"
 
     # game/screens.rpy:293

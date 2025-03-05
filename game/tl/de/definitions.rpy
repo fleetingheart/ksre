@@ -16,11 +16,11 @@ translate de strings:
 
     # game/definitions.rpy:178
     old "Playing history"
-    new "Geschichte spielen"
+    new "Spielt Geschichte"
 
     # game/definitions.rpy:179
     old "Watching video"
-    new "Video schauen"
+    new "Schaut Video"
 
     # game/definitions.rpy:182
     old "In main menu"
@@ -28,7 +28,7 @@ translate de strings:
 
     # game/definitions.rpy:183
     old "Listening"
-    new "Hören"
+    new "Hört"
 
     # game/definitions.rpy:228
     old "Act 1"
@@ -76,7 +76,7 @@ translate de strings:
 
     # game/definitions.rpy:228
     old "In the Nursery"
-    new "Pflegerversicherung"
+    new "In der Krankenstation"
 
     # game/definitions.rpy:228
     old "Misha and Shizune show Hisao the cafeteria, after which he goes to see the nurse."

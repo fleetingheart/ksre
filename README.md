@@ -17,7 +17,7 @@ The game currently supports the following languages:
 * Russian
 * French
 * Spanish
-* Deutsch
+* German
 * Simplified Chinese
 
 ## Features

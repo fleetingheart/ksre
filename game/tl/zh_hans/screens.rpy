@@ -155,7 +155,7 @@ translate zh_hans strings:
     new "西班牙语"
 
     # game/screens.rpy:374
-    old "Deutsch"
+    old "German"
     new "荷兰语"
 
     # game/screens.rpy:375
