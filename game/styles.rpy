@@ -8,18 +8,19 @@ define mobile_ts_add = 10
 
 define bold_size = 38
 
+define is_mobile = renpy.android or renpy.ios
+
 define default_font = "font/playtime.ttf"
 
 translate zh_hans python:
     default_font = FontGroup().add("font/XiaolaiSC-Regular.ttf", 0x2e80, 0xffff).add("font/playtime.ttf", 0x0000, 0xffff)
-    gui.text_size = 36 + mobile_ts_add * (renpy.android or renpy.ios)
-
+    gui.text_size = 36 + mobile_ts_add * is_mobile
 style default:
     font default_font
-    size 36 + mobile_ts_add * (renpy.android or renpy.ios)
+    size 36 + mobile_ts_add * is_mobile
 
 style gui_text is default:
-    size 42 + mobile_ts_add * (renpy.android or renpy.ios)
+    size 42 + mobile_ts_add * is_mobile
     color "#00000066"
 
 style gui_button_text is gui_text:
@@ -88,7 +89,7 @@ style say_window:
     background Frame("gui/bg/saybox.png")
 
 style say_dialogue is default:
-    size 42 + (mobile_ts_add - 6) * (renpy.android or renpy.ios)
+    size 42 + (mobile_ts_add - 6) * is_mobile
 
 style doublespeak_namebox1 is say_namebox:
     xpos 0.008
@@ -112,7 +113,7 @@ style choice_vbox is vbox:
 
 style choice_button:
     background Frame("gui/button/choice.png")
-    xysize (1126, 65)
+    xysize (1126+270*is_mobile, 65+15*is_mobile)
 
 style choice_button_text is gui_button_text:
     xalign 0.5
@@ -178,7 +179,7 @@ style game_menu_button is gui_button:
     xalign 0.5
 
 style game_menu_button_text is gui_button_text:
-    size 54 + mobile_ts_add * (renpy.android or renpy.ios)
+    size 54 + mobile_ts_add * is_mobile
 
 style prefs_interface is interface_frame
 
@@ -318,9 +319,9 @@ style note_text is default:
     layout "greedy"
 
 style centered_text:
-    size (36 + mobile_ts_add * (renpy.android or renpy.ios)) * 1.5
+    size (36 + mobile_ts_add * is_mobile) * 1.5
     outlines [ (1,"#000C") ]
 
 style alive_text:
-    size 42 + (mobile_ts_add - 6) * (renpy.android or renpy.ios)
+    size 42 + (mobile_ts_add - 6) * is_mobile
     outlines []
