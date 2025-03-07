@@ -780,7 +780,7 @@ define emm_ = Character(_("Woman with braid"), kind=emm)
 
 define n = Character(kind=nvl, ctc=Transform("icon_ctc", rotate=90, ypos=0.9333), ctc_position="fixed", window_background="gui/bg/nvl.png", window_top_padding=60, window_left_padding=55, window_right_padding=70)
 
-define rinbabble = Character(kind=n, what_prefix="{color=#FF8D7C}{b}" + _("Rin") + "{/b}{/color}\n" + _("“"), what_suffix=_("”"))
+define rinbabble = Character(kind=n, what_prefix="{color=#B14343}{b}" + _("Rin") + "{/b}{/color}\n" + _("“"), what_suffix=_("”"))
 
 define nb = Character(kind=nvl, what_color="#666666", window_top_padding=210, window_xpadding=100)
 define centered = Character(None, screen=None, what_style="centered_text", window_style="centered_window", what_prefix="", what_suffix="")
