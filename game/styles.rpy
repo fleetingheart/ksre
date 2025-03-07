@@ -64,13 +64,18 @@ style vslider:
     thumb Transform("gui/bar/vertical_thumb.png", matrixcolor=OpacityMatrix(0.4))
     hover_thumb "gui/bar/vertical_thumb.png"
 
+style say_vbox:
+    xalign 0.5
+    yanchor 1.0 
+    ypos 0.99   
+    spacing -77
+
 style say_label:
     size 40
     bold True
 
 style say_namebox:
-    xpos 0.033
-    ypos 0.745
+    xpos -0.019
     xsize 0.33
     ysize 0.135
     xpadding 20
@@ -82,9 +87,10 @@ style say_window:
     yanchor 1.0
     ypos 0.99
     xsize 0.9
-    ysize 0.185
+    yminimum 0.185
     xpadding 40
     top_padding 10
+    bottom_padding 20
     background Frame("gui/bg/saybox.png")
 
 style say_dialogue is default:
@@ -92,9 +98,11 @@ style say_dialogue is default:
 
 style doublespeak_namebox1 is say_namebox:
     xpos 0.008
+    ypos 0.745
 
 style doublespeak_namebox2 is say_namebox:
     xpos 0.508
+    ypos 0.745
 
 style doublespeak_window1 is say_window:
     xsize 0.46875
