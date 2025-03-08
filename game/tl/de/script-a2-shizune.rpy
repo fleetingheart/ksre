@@ -3776,7 +3776,7 @@ translate de a2_shizune_bread_scissors_paper_76b2fe88:
 translate de a2_shizune_bread_scissors_paper_d89583c8:
 
     # n "{vspace=60}Things have returned to normal. Well, I transferred in at a pretty unusual time, and I can hardly say that I had a normal first few weeks here. I guess it's more like things have calmed down, and reached normality."
-    n "{vspace=60}Es ist wieder alles beim Alten. Ich bin ja zu einem recht ungewöhnlichen Zeitpunkt hier hergewechselt und kann kaum behaupten, dass die ersten Wochen normal waren. Die Wogen haben sich geglättet und ein normales Level erreicht."
+    n "{vspace=30}Es ist wieder alles beim Alten. Ich bin ja zu einem recht ungewöhnlichen Zeitpunkt hier hergewechselt und kann kaum behaupten, dass die ersten Wochen normal waren. Die Wogen haben sich geglättet und ein normales Level erreicht."
 
 # game/script-a2-shizune.rpy:2454
 translate de a2_shizune_bread_scissors_paper_781827a4:

@@ -380,19 +380,19 @@ translate de a1_monday_bundle_of_hisao_b5c56144:
 translate de a1_monday_bundle_of_hisao_928fd142:
 
     # n "Iwanako was the last to stop visiting."
-    n "\n\n\n\n\nIwanako war diejenige, die noch am längsten durchhielt."
+    n "Iwanako war diejenige, die noch am längsten durchhielt."
 
 # game/script-a1-monday.rpy:275
 translate de a1_monday_bundle_of_hisao_625ffaf6:
 
     # n "After six weeks, I never saw her again. We never had that much to talk about when she visited, anyway."
-    n "\nNach sechs Wochen sah ich sie nicht mehr. Wir hatten sowieso nur wenig, worüber wir reden konnten, wenn sie mich besuchte."
+    n "Nach sechs Wochen sah ich sie nicht mehr. Wir hatten sowieso nur wenig, worüber wir reden konnten, wenn sie mich besuchte."
 
 # game/script-a1-monday.rpy:277
 translate de a1_monday_bundle_of_hisao_22eef6f6:
 
     # n "We didn't touch the subject that was between us on that snowy day ever again."
-    n "\nÜber das, was an diesem verschneiten Tag gesagt worden ist, sprachen wir nie."
+    n "Über das, was an diesem verschneiten Tag gesagt worden ist, sprachen wir nie."
 
 # game/script-a1-monday.rpy:279
 translate de a1_monday_bundle_of_hisao_5a39979d:

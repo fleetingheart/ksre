@@ -10516,43 +10516,43 @@ translate de a4_rin_proof_of_existence_dae2c000:
     # nvl clear
     # nb "'Present' is a fleeting and vague concept at best."
     nvl clear
-    nb "'Gegenwart' ist flüchtig und bestenfalls ein vages Konzept."
+    nb "'Gegenwart' ist ein flüchtiges und bestenfalls vages Konzept."
 
 # game/script-a4-rin.rpy:5506
 translate de a4_rin_proof_of_existence_00f851bb:
 
     # nb "The moment between the past and the future?"
-    extend "Der Moment zwischen Vergangenheit und Zukunft?"
+    nb "Der Moment zwischen Vergangenheit und Zukunft?"
 
 # game/script-a4-rin.rpy:5508
 translate de a4_rin_proof_of_existence_8c328169:
 
     # nb "That doesn't really mean anything."
-    extend "Das hat gar nichts zu bedeuten."
+    nb "Das bedeutet eigentlich gar nichts."
 
 # game/script-a4-rin.rpy:5510
 translate de a4_rin_proof_of_existence_261964ab:
 
     # nb "Thinking too much about things that don't make sense is a waste of time."
-    extend "Zu lange über Dinge nachzudenken, die keinen Sinn ergeben, ist Zeitverschwendung."
+    nb "Zu lange über Dinge nachzudenken, die keinen Sinn ergeben, ist Zeitverschwendung."
 
 # game/script-a4-rin.rpy:5512
 translate de a4_rin_proof_of_existence_7f3c8d99:
 
     # nb "That's why living through the present is always the best option."
-    extend "Darum ist es am besten, in der Gegenwart zu leben."
+    nb "Darum ist es immer am besten, in der Gegenwart zu leben."
 
 # game/script-a4-rin.rpy:5514
 translate de a4_rin_proof_of_existence_9eca2067:
 
     # nb "Besides, for us who can't foresee the future and who forget the past too easily, present is really the only proof of our existence."
-    extend "Außerdem… Für uns, die wir die Zukunft nicht vorhersehen können und die Vergangenheit zu leicht vergessen, ist die Gegenwart wirklich der einzige Beweis unserer Existenz."
+    nb "Außerdem… Für uns, die wir die Zukunft nicht vorhersehen können und die Vergangenheit zu leicht vergessen, ist die Gegenwart wirklich der einzige Beweis unserer Existenz."
 
 # game/script-a4-rin.rpy:5516
 translate de a4_rin_proof_of_existence_a1f16ab2:
 
     # nb "Even though existence will go on even if you forget about it for a while, it's good to seize the day at least every once in a while."
-    extend "Auch wenn Existenz weitergeht, selbst wenn man sie für eine Weile vergisst, ist es hin und wieder gut, den Tag zu nutzen."
+    nb "Auch wenn die Existenz weitergeht, selbst wenn man sie für eine Weile vergisst, ist es hin und wieder gut, den Tag zu nutzen."
 
 # game/script-a4-rin.rpy:5518
 translate de a4_rin_proof_of_existence_0799c3cd:
@@ -10560,7 +10560,7 @@ translate de a4_rin_proof_of_existence_0799c3cd:
     # nvl clear
     # centered_alive "That way… you can confirm that you are, in fact…"
     nvl clear
-    centered_alive "Auf diese Weise… kann man sicher sein, dass man…"
+    centered_alive "Auf diese Weise… kann man sicher sein, dass man tatsächlich…"
 
 # game/script-a4-rin.rpy:5540
 translate de a4_rin_proof_of_existence_7460cbe0:
@@ -12778,11 +12778,11 @@ translate de strings:
 
     # game/script-a4-rin.rpy:5522
     old "That way… you can confirm that you are, in fact…"
-    new "Auf diese Weise… kann man sicher sein, dass man…"
+    new "Auf diese Weise… kann man sicher sein, dass man tatsächlich…"
 
     # game/script-a4-rin.rpy:5527
     old "That way… you can confirm that you are, in fact… alive."
-    new "Auf diese Weise… kann man sicher sein, dass man… lebendig."
+    new "Auf diese Weise… kann man sicher sein, dass man tatsächlich… am Leben ist."
 
 # TODO: Translation updated at 2025-01-03 06:38
 
@@ -12792,11 +12792,11 @@ translate de a4_rin_proof_of_existence_115223a8:
     # nvl clear
     # centered_b "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
     nvl clear
-    centered_b "Auf diese Weise… kann man sicher sein, dass man… {color=#fff}lebendig.{/color}"
+    centered_b "Auf diese Weise… kann man sicher sein, dass man tatsächlich… {color=#fff}am Leben ist.{/color}"
 
 translate de strings:
 
     # game/script-a4-rin.rpy:5559
     old "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
-    new "Auf diese Weise… kann man sicher sein, dass man… {color=#fff}lebendig.{/color}"
+    new "Auf diese Weise… kann man sicher sein, dass man tatsächlich… {color=#fff}am Leben ist.{/color}"
 
