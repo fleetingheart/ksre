@@ -1855,11 +1855,11 @@ image check_fg = contrast_checker("gui/button/check_foreground.png")
 image check_sl_fg_op = contrast_checker("gui/button/check_selected_foreground.png", OpacityMatrix(0.4))
 image check_sl_fg = contrast_checker("gui/button/check_selected_foreground.png")
 
-image check_fg_op_cb = VBox(Null(height=6), HBox(Null(width=1060), "check_fg_op"))
-image check_fg_cb = VBox(Null(height=6), HBox(Null(width=1060), "check_fg"))
+image check_fg_op_cb = VBox(Null(height=6+10*(renpy.android or renpy.ios)), HBox(Null(width=1060+270*(renpy.android or renpy.ios)), "check_fg_op"))
+image check_fg_cb = VBox(Null(height=6+10*(renpy.android or renpy.ios)), HBox(Null(width=1060+270*(renpy.android or renpy.ios)), "check_fg"))
 
-image check_sl_fg_op_cb = VBox(Null(height=6), HBox(Null(width=1060), "check_sl_fg_op"))
-image check_sl_fg_cb = VBox(Null(height=6), HBox(Null(width=1060), "check_sl_fg"))
+image check_sl_fg_op_cb = VBox(Null(height=6+10*(renpy.android or renpy.ios)), HBox(Null(width=1060+270*(renpy.android or renpy.ios)), "check_sl_fg_op"))
+image check_sl_fg_cb = VBox(Null(height=6+10*(renpy.android or renpy.ios)), HBox(Null(width=1060+270*(renpy.android or renpy.ios)), "check_sl_fg"))
 
 image return_op = contrast_checker("gui/button/return.png", OpacityMatrix(0.4))
 image return_ = contrast_checker("gui/button/return.png")
