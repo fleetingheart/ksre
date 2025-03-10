@@ -829,10 +829,13 @@ label a3_shizune:
         show shizu:
             center
             xpos 0.37
+            alpha 1.0
         show akira:
             center
             xpos 0.8
-        show misha at left
+            alpha 1.0
+        show misha at left:
+            alpha 1.0
         show lilly:
             left
             xpos -0.6
@@ -913,13 +916,16 @@ label a3_shizune:
         hide lilly
         hide hideaki
 
-        show misha at left
+        show misha at left:
+            alpha 1.0
         show shizu:
             center
             xpos 0.37
+            alpha 1.0
         show akira:
             center
             xpos 0.8
+            alpha 1.0
 
         show akira basic_lost
         with charachangealways
@@ -1604,7 +1610,8 @@ label a3_shizune:
         show hideaki ohshit
         with vpunch
 
-        show misha at center
+        show misha at center:
+            alpha 1.0
 
         "Hideaki freezes as Misha appears behind him and puts her hands over his eyes."
 
@@ -1668,7 +1675,8 @@ label a3_shizune:
             xpos 0.8
         with charamovefaster
 
-        show shizu at center
+        show shizu at center:
+            alpha 1.0
 
         ssh "Are you giving Hisao trouble? I thought you would take him somewhere more exciting than the park. It isn't even that far from home. You are so lazy."
 
@@ -1769,7 +1777,8 @@ label a3_shizune:
 
         pause 1.0
 
-        show jigorocard at truecenter
+        show jigorocard at truecenter:
+            alpha 1.0
 
         "He holds up a case full of them for a second and I can see that his name is Jigoro and that his office hours are from eight to six. They also say that he's a 'consultant'. What a prepared guy, carrying his card case around in his own home."
 
@@ -3181,10 +3190,10 @@ label a3_shizune:
 
         show mishashort perky_smile_cas:
             center xpos 0.8 alpha 0.0
-            ease 2.0 center alpha 1.0
+            ease 1.0 center alpha 1.0
         show shizu adjust_happy_cas:
             center xpos 1.0 alpha 0.0
-            ease 2.0 tworight alpha 1.0
+            ease 1.0 tworight alpha 1.0
         with None
 
         show mishashort
@@ -3192,8 +3201,10 @@ label a3_shizune:
         show bg at right
         with charamove
 
-        show mishashort at center
-        show shizu at tworight
+        show mishashort at center:
+            alpha 1.0
+        show shizu at tworight:
+            alpha 1.0
 
         "Misha translates for me from beyond the doorway, and Shizune turns around to give me a small wave."
 
@@ -3501,7 +3512,8 @@ label a3_shizune:
 
         pause 1.0
 
-        show letter_insert at truecenter
+        show letter_insert at truecenter:
+            alpha 1.0
 
         $ renpy.music.set_volume(1.0, 0.0, channel="music")
         play music music_rain fadein 4.0
@@ -6187,6 +6199,7 @@ label a3_shizune:
         show mishashort:
             center
             ypos 1.13
+            alpha 1.0
 
         play sound sfx_doorclose
 

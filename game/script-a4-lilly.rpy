@@ -3877,7 +3877,7 @@ label a4_lilly:
 
         show bg misc_ceiling_blur as bg2 at center
         show lilly:
-            xalign 0.5 yanchor 0.5 ypos 0.3 rotate 180
+            xalign 0.5 yanchor 0.5 ypos 0.3 rotate 180 alpha 1.0
 
         li "Hisao? Are you okay? Hisao!?"
 
@@ -5273,7 +5273,8 @@ label a4_lilly:
         show misha at center
         with charamovefaster
 
-        show lilly at left
+        show lilly at left:
+            alpha 1.0
 
         "…Lilly?"
 
@@ -5782,10 +5783,12 @@ label a4_lilly:
         with locationchange
 
         show hanako emb_downsad:
-            tworight alpha 0.0
+            tworight 
+            alpha 0.0
             ease 1.0 xpos 0.4 alpha 1.0
         show lilly basic_weaksmile_cas:
-            twoleft alpha 0.0
+            twoleft 
+            alpha 0.0
             ease 1.0 alpha 1.0
 
         pause 1.0
@@ -5824,7 +5827,8 @@ label a4_lilly:
 
         pause 1.0
 
-        show akira at right
+        show akira at right:
+            alpha 1.0
 
         "Looking beyond Hanako, Akira can be seen getting up from the side of Lilly's bed and scratching her head."
 

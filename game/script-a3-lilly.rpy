@@ -3798,7 +3798,8 @@ label a3_lilly:
 
         pause 1.0
 
-        show lilly at center
+        show lilly at center:
+            alpha 1.0
 
         "With that she opens the door, slowly walking into the room and closing it behind her. She looks oddly calm, countering my racing heart."
 

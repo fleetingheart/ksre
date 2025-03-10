@@ -1042,13 +1042,15 @@ label a3_emi:
         hi "Hey, Emi!"
 
         show emicas neutral:
-            tworight alpha 0.0
+            tworight 
+            alpha 0.0
             ease 1.0 center alpha 1.0
         with None
         show bg at bgleft
         with charamovefaster
 
-        show emicas at center
+        show emicas at center:
+            alpha 1.0
 
         emi "Hmm?"
 

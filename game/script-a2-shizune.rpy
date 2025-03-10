@@ -1024,7 +1024,8 @@ label a2_shizune:
 
         pause 1.0
 
-        show kenjibox at truecenter
+        show kenjibox at truecenter:
+            alpha 1.0
 
         "The box is huge, you need two hands to hold it. Insultingly, it's not even very heavy."
 
@@ -3553,7 +3554,8 @@ label a2_shizune:
 
         pause 1.0
 
-        show kenjibox at truecenter
+        show kenjibox at truecenter:
+            alpha 1.0
 
         "I want to smack this thing with the first blunt object I can find, like I'm going for a home run, but I don't even have the energy for that this early in the morning… and it would likely damage whatever's inside. And that would be mean."
 

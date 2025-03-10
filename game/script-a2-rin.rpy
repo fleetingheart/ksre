@@ -545,7 +545,7 @@ label a2_rin:
 
         show rin:
             center
-            ypos 1.07 xpos 0.9
+            ypos 1.07 xpos 0.9 alpha 1.0
 
         "I follow from the corner of my eye the skill with which Rin handles her bread between her feet."
 
@@ -1095,7 +1095,8 @@ label a2_rin:
 
         pause 1.0
 
-        show ovl at center
+        show ovl at center:
+            alpha 1.0
 
         "I glance at my portrait. It doesn't exactly look like Rin. I guess you could say it portrays her, but that might be a bit generous."
 
@@ -1137,7 +1138,8 @@ label a2_rin:
 
         pause 1.0
 
-        show ovl at center
+        show ovl at center:
+            alpha 1.0
 
         "It's excellent. Somehow the seemingly arbitrary strokes come together to form an image of my face, from the shape of my chin, to the messy hair, to the somewhat gloomy expression."
 
@@ -1533,7 +1535,8 @@ label a2_rin:
 
         pause 0.5
 
-        show ev at center
+        show ev at center:
+            alpha 1.0
 
         "Ignoring the teacher's sleep-inducing voice, I open my notebook to an empty page and press the needle-sharp graphite tip of the pencil onto it."
 
@@ -5532,7 +5535,8 @@ label a2_rin:
 
         pause 1.0
 
-        show shangpai at truecenter
+        show shangpai at truecenter:
+            alpha 1.0
 
         "I pick up my fork and eye the food in front of me. The pie I got looks perfectly done, a thick layer of meringue atop creamy lemon custard."
 
@@ -6768,7 +6772,8 @@ label a2_rin:
 
         pause 1.0
 
-        show pills at truecenter
+        show pills at truecenter:
+            alpha 1.0
 
         "I pick it up and turn it around to look at the label so I can see what kind of medication Emi brought."
 

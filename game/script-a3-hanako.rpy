@@ -2028,10 +2028,12 @@ label a3_hanako:
         "Mutou sits down behind his desk, pulls some loose sheets out of a folder and starts on some kind of paperwork of his own. I thought teachers were supposed to do that kind of thing after class, not during it."
 
         show shizu behind_blank_close:
-            tworight xpos 0.8 alpha 0.0
+            tworight 
+            xpos 0.8 alpha 0.0
             ease 1.0 tworight alpha 1.0
         show misha hips_smile_close:
-            twoleft xpos 0.2 alpha 0.0
+            twoleft 
+            xpos 0.2 alpha 0.0
             ease 1.0 twoleft alpha 1.0
 
         pause 1.0
@@ -2166,6 +2168,7 @@ label a3_hanako:
         show hanako:
             center
             ypos 1.09
+            alpha 1.0
 
         "Hanako gently sets down her desk in front of Misha's. Her eyes are locked downwards, and I'm left wondering why until I look around the class."
 
@@ -3473,10 +3476,12 @@ label a3_hanako:
         show bg at bgright
         with charamovefaster
 
-        show shizu at center
+        show shizu at center:
+            alpha 1.0
         show misha:
             center
             xpos 0.2
+            alpha 1.0
 
         play music music_normal fadein 3.0
 

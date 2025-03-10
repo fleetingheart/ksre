@@ -20,7 +20,8 @@ label a4_shizune:
             easein 0.25 center alpha 1.0
         with vpunch
 
-        show yuuko panic_up at center
+        show yuuko panic_up at center:
+            alpha 1.0
 
         "Yuuko bolts out of her chair with enough force to dislodge her glasses. She barely holds on to them."
 
