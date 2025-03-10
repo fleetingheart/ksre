@@ -96,6 +96,7 @@ style say_window:
 
 style say_dialogue is default:
     size 42 + (mobile_ts_add - 6) * is_mobile
+    line_spacing 2
 
 style doublespeak_namebox1 is say_namebox:
     xpos 0.008
