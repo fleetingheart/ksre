@@ -980,14 +980,16 @@ label a2_hanako:
         play sound sfx_dooropen
 
         show muto normal:
-            tworight alpha 0.0
+            tworight 
+            alpha 0.0
             ease 1.0 center alpha 1.0
         with None
 
         show bg at center
         with charamovefaster
 
-        show muto at center
+        show muto at center:
+            alpha 1.0
 
         "I yearn to stay and console her more, but Mutou picks this exact moment to enter the class, halfway through his lecture, as if he started it in the hallway."
 
@@ -1014,6 +1016,7 @@ label a2_hanako:
         show misha:
             center
             xpos 0.16
+            alpha 1.0
 
         mi "The teacher may not have noticed your tardiness, but I did."
 
@@ -2897,12 +2900,14 @@ label a2_hanako:
         "I pull my door closed, ready for another day of classes."
 
         show kenji neutral_close:
-            twoleft alpha 0.0
+            twoleft 
+            alpha 0.0
             easein 0.5 center alpha 1.0
 
         pause 0.5
 
-        show kenji at center
+        show kenji at center:
+            alpha 1.0
 
         ke "Sleep well?"
 

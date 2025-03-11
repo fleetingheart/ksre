@@ -3878,7 +3878,8 @@ label a3_rin:
 
         pause 1.0
 
-        show invite at truecenter
+        show invite at truecenter:
+            alpha 1.0
 
         "I glance at them quickly. They're kind of fancy, with one of Rin's paintings printed on the front cover and shiny gold writing."
 

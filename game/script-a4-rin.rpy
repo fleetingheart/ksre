@@ -1750,7 +1750,8 @@ label a4_rin:
 
             pause 1.0
 
-            show emicas at center
+            show emicas at center:
+                alpha 1.0
 
             play music music_emi fadein 0.5
 

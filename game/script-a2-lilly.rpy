@@ -3625,7 +3625,8 @@ label a2_lilly:
 
         pause 1.0
 
-        show letter_insert at truecenter
+        show letter_insert at truecenter:
+            alpha 1.0
 
         "She produces a bright yellow envelope and hands it over with an exuberant grin."
 
@@ -4246,7 +4247,8 @@ label a2_lilly:
 
         pause 1.0
 
-        show lilly at right
+        show lilly at right:
+            alpha 1.0
 
         "I bend down to wipe my forehead with the back of my hand. Lilly stops in front of her door and sets down her bag, fishing around in her pocket for the key."
 
@@ -4373,7 +4375,8 @@ label a2_lilly:
 
         pause 1.0
 
-        show letter_insert at truecenter
+        show letter_insert at truecenter:
+            alpha 1.0
 
         "I swap the school books in my bag for those I'll need tomorrow, pulling out the yellow envelope Misha gave me earlier in the process."
 

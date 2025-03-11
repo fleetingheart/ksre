@@ -1876,6 +1876,7 @@ label a4_hanako:
         show yuukoshang:
             center
             ypos 1.15
+            alpha 1.0
 
         "Yuuko takes her previous seat once again as I pick myself up and bring a hand around the mug to check its temperature. It's just a little too hot to drink right away, so I blow on it a little."
 
@@ -2436,7 +2437,8 @@ label a4_hanako:
 
         pause 0.5
 
-        show phone at truecenter
+        show phone at truecenter:
+            alpha 1.0
 
         "Shrugging, I press the button to answer the call and bring the phone to my ear."
 
@@ -3820,6 +3822,7 @@ label a4_hanako:
         show shizu:
             center
             xpos 0.0
+            alpha 1.0
         show muto at tworight
 
         "Shizune begins to make her way towards me, but then Mutou enters the room."
