@@ -93,18 +93,18 @@ label a1_thursday:
         "She grins, seemingly pleased that she'd remembered my name."
 
         show emi basic_closedgrin_gym at center
-        with charachange
+        with persistent.charachange
 
         emi_ "You may not remember me."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi_ "Emi? I knocked you over in the hall yesterday."
 
         if not talk_with_hanako and not _in_replay:
             show emi excited_circle_gym
-            with charachange
+            with persistent.charachange
 
             emi "'Miss Ibarazaki?'"
 
@@ -113,19 +113,19 @@ label a1_thursday:
         hi "How could I forget such a er, blunt introduction?"
 
         show emi sad_shy_gym
-        with charachange
+        with persistent.charachange
 
         "Emi has the decency to look vaguely apologetic for a moment before giggling."
 
         show emi sad_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Yeah, sorry about that. Again."
 
         hi "Hmm, well, so long as you don't make a habit of it, I suppose I'll be fine."
 
         show emi basic_happy_gym
-        with charachange
+        with persistent.charachange
 
         emi "Great!"
 
@@ -134,7 +134,7 @@ label a1_thursday:
         hi "So the 'spy-consultant' the nurse was talking about… is that actually you?"
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         emi "That's right!"
 
@@ -143,7 +143,7 @@ label a1_thursday:
         hi "I was expecting someone from the nursing staff, to be honest."
 
         show emi basic_confused_gym
-        with charachange
+        with persistent.charachange
 
         emi "What, are you saying I don't look like I could be a spy?"
 
@@ -152,7 +152,7 @@ label a1_thursday:
         hi "Unless you are here to do exactly that."
 
         show emi excited_laugh_gym
-        with charachange
+        with persistent.charachange
 
         emi "No, I'm here for my own reasons, the nurse just asked me if I had seen 'a messy-haired transfer student who looks like he's kinda lost' around the track."
 
@@ -161,14 +161,14 @@ label a1_thursday:
         "Emi strikes a dramatic pose."
 
         show emi basic_happy_gym
-        with charachange
+        with persistent.charachange
 
         emi "Training!"
 
         hi "For what?"
 
         show emi basic_closedhappy_gym
-        with charachange
+        with persistent.charachange
 
         emi "Track!"
 
@@ -177,14 +177,14 @@ label a1_thursday:
         "Emi nods enthusiastically."
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "Yep! I'm one of the better runners, too!"
 
         "And modest about it, too."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Hey, you should join up!"
 
@@ -205,12 +205,12 @@ label a1_thursday:
         "Emi seems to understand my meaning."
 
         show emi basic_confused_gym
-        with charachange
+        with persistent.charachange
 
         emi "I see, I see. Not that into the whole organization thing."
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "But now that you're here, I guess we're going to run together, huh?"
 
@@ -219,14 +219,14 @@ label a1_thursday:
         "Emi seems pleased."
 
         show emi excited_joy_gym
-        with charachange
+        with persistent.charachange
 
         emi "Are you going to warm up?"
 
         hi "Real men don't warm up."
 
         show emi basic_annoyed_gym
-        with charachange
+        with persistent.charachange
 
         emi "Oh no, you always should warm up! Bad Hisao!"
 
@@ -238,7 +238,7 @@ label a1_thursday:
         emi "I hate warming up too."
 
         show emi excited_laugh_gym_close
-        with charachange
+        with persistent.charachange
 
         "She laughs suddenly."
 
@@ -313,7 +313,7 @@ label a1_thursday:
         hi "I'm not in very good shape right now."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         "Emi nods, and then grins at me again."
 
@@ -322,7 +322,7 @@ label a1_thursday:
         emi "Well, the important thing is you started, right?"
 
         show emi excited_amused_gym
-        with charachange
+        with persistent.charachange
 
         emi "Next time, you just have to try to hold out longer, and then longer, and longer, and eventually you'll be great!"
 
@@ -335,7 +335,7 @@ label a1_thursday:
         "Emi shrugs unconcernedly."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Nah, I've got plenty of time."
 
@@ -348,7 +348,7 @@ label a1_thursday:
         emi "Not really… but I've got to finish my routine!"
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         emi "See you later, Hisao!"
 
@@ -412,14 +412,14 @@ label a1_thursday:
         show steam behind kenji
         show steam2 behind kenji
         show kenji neutral_naked
-        with charachange
+        with persistent.charachange
 
         ke "Sup?"
 
         hi "What are you doing here? What the hell, you scared me! What's your problem?!"
 
         show kenji tsun_naked
-        with charachange
+        with persistent.charachange
 
         ke "I should be asking you that. I've been looking for you all over the place, man."
 
@@ -434,7 +434,7 @@ label a1_thursday:
         ke "You know, your room, and… Yeah, that's it. Hey, I mean, I still had to get up, though. Whatever. It's not important. Can I borrow some money?"
 
         show kenji neutral_naked
-        with charachange
+        with persistent.charachange
 
         "He puts on an innocent face and looks away, trying very hard to look very casual. It doesn't work; he's as transparent as his windowpane-sized glasses."
 
@@ -448,26 +448,26 @@ label a1_thursday:
 
         show kenji happy_naked
         hide steam
-        with charachange
+        with persistent.charachange
 
         ke "Awesome."
 
         hi "Wait, why do you need it?"
 
         show kenji tsun_naked
-        with charachange
+        with persistent.charachange
 
         ke "Ehhhh…"
 
         show kenji neutral_naked
-        with charachange
+        with persistent.charachange
 
         ke "Can't you just give it to me because I had the good will not to run through your pockets while you were in the shower? I could have, but I exercised restraint. And in the end, isn't it the thought that counts? Come on, be a pal."
 
         "This makes no sense. If it's the thought that counts, I should withhold payment, since his thoughts were so clearly impure and his intentions are probably even more sinister since he can't tell me what they are. I say as much to him."
 
         show kenji tsun_naked
-        with charachange
+        with persistent.charachange
 
         ke "I'm offended man, but if that is your game, then fine, I guess I have no choice. I want to order a pizza, and I already have most of the cost of the pizza. I need your help for the rest."
 
@@ -478,7 +478,7 @@ label a1_thursday:
         hi "Are you serious?"
 
         show kenji neutral_naked
-        with charachange
+        with persistent.charachange
 
         ke "Yeah. I would give you some, but you have class, you don't have time to eat a pizza."
 
@@ -487,7 +487,7 @@ label a1_thursday:
         ke "I'm not going to class, I have to wait for the pizza and pay the guy. And then eat it. It's not easy. You have to obtain the pizza stealthily. If you don't, everyone will see you. And the pizza. And they will ask for a slice."
 
         show kenji tsun_naked
-        with charachange
+        with persistent.charachange
 
         ke "It's a hard world out there. Everyone wants a piece. Then you're left pizzaless in an unforgiving world. It's happened before, that's how I know."
 
@@ -496,7 +496,7 @@ label a1_thursday:
         "Kenji strikes a dramatic pose, completely without irony."
 
         show kenji neutral_naked
-        with charachange
+        with persistent.charachange
 
         ke "But yeah, I only need like 400 yen. Please! You're my only hope! I can't go outside and buy my own pizza, it's too far!"
 
@@ -505,7 +505,7 @@ label a1_thursday:
         ke "I was outside. I can't remember what I was doing. Something. Standing? Maybe wondering how I got there."
 
         show kenji tsun_naked
-        with charachange
+        with persistent.charachange
 
         ke "And then, out of nowhere, it happened."
 
@@ -520,14 +520,14 @@ label a1_thursday:
         ke "It was like in the openings to some kind of anime show, you know how there is always a part where the main dude is fighting his rival, and they fly at each other and clash swords and there's like, big dramatic colored auras and zoom?"
 
         show kenji neutral_naked
-        with charachange
+        with persistent.charachange
 
         ke "It was like that, but with poo."
 
         hi "Okay."
 
         show kenji happy_naked
-        with charachange
+        with persistent.charachange
 
         ke "So yeah, I need some money. Please? Don't leave me hanging, man. I only need like 1000 yen."
 
@@ -542,14 +542,14 @@ label a1_thursday:
         hi "You better, that's what it means to borrow stuff."
 
         show kenji neutral_naked
-        with charachange
+        with persistent.charachange
 
         ke "I don't know when I'll be able to pay you back."
 
         hi "You have one week."
 
         show kenji tsun_naked
-        with charachange
+        with persistent.charachange
 
         ke "Aaaaaaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhggggggggggghhhhhhhh……"
 
@@ -570,26 +570,26 @@ label a1_thursday:
         hi "How do you wake up in the morning if someone stabbed you in your sleep?"
 
         show kenji happy_naked
-        with charachange
+        with persistent.charachange
 
         ke "Women are terrible at stabbing things."
 
         hi "I thought you just said don't take them lightly."
 
         show kenji neutral_naked
-        with charachange
+        with persistent.charachange
 
         ke "Well, I mean don't take them lightly for the big things. Individually they're not a threat, but if there was some kind of war, like a big war, with men on one side, and the feminist forces on the other side, it would be pretty ugly."
 
         show kenji tsun_naked
-        with charachange
+        with persistent.charachange
 
         ke "And that day will come, when the feminists come out of their central top secret worldwide feminist headquarters, and say 'It's on now, motherfuckers!'"
 
         hi "You're being ridiculous, there's no big worldwide feminist headquarters building, where would they even hide that? I mean, it'd have to be massive, you couldn't hide that on Earth, someone would notice a big fortress with women only in it."
 
         show kenji happy_naked
-        with charachange
+        with persistent.charachange
 
         ke "Who said it was on Earth?"
 
@@ -598,7 +598,7 @@ label a1_thursday:
         "Which, unfortunately, means that he just keeps on ranting without any regard to sense or sensibility."
 
         show kenji tsun_naked
-        with charachange
+        with persistent.charachange
 
         ke "Yeah, there is a war going on. A war not many know about, but it's a great one that will one day boil over, and encompass all of the known world. Then, we will have to pick sides. We will have to make a stand. In fact, it's happening right now."
 
@@ -611,14 +611,14 @@ label a1_thursday:
         hi "Must be a pretty crappy movement if it all hinges on one naked guy, ranting in a bathroom at another naked guy."
 
         show kenji neutral_naked
-        with charachange
+        with persistent.charachange
 
         ke "So can I have the money?"
 
         "He's blocking the way out, it's getting cold because I'm still naked, and I want to go to class, so I agree to spot him the money."
 
         show kenji happy_naked
-        with charachange
+        with persistent.charachange
 
         ke "Awesome. Thanks, dude. We should go bowling later on."
 
@@ -631,7 +631,7 @@ label a1_thursday:
         hi "There are bowling clothes?"
 
         show kenji neutral_naked
-        with charachange
+        with persistent.charachange
 
         ke "Maybe."
 
@@ -644,14 +644,14 @@ label a1_thursday:
         hi "I don't know. I have to get to class, you're kind of in the way."
 
         show kenji tsun_naked
-        with charachange
+        with persistent.charachange
 
         ke "Oh. Sorry. Yeah, I don't want to hold you up, and I have some stuff to do myself. The time has come."
 
         hi "The time for what?"
 
         show kenji happy_naked
-        with charachange
+        with persistent.charachange
 
         ke "I just like saying that."
 
@@ -660,7 +660,7 @@ label a1_thursday:
         hi "For what?"
 
         show kenji tsun_naked
-        with charachange
+        with persistent.charachange
 
         ke "I have to use the bathroom. Get out of it."
 
@@ -719,7 +719,7 @@ label a1_thursday:
         hi "Good morning, Lilly."
 
         show lilly cane_surprised
-        with charachange
+        with persistent.charachange
 
         show lilly at center
         show bg at bgright
@@ -732,31 +732,31 @@ label a1_thursday:
         hi "Well, I was already here, just asleep until now."
 
         show lilly cane_listen
-        with charachange
+        with persistent.charachange
 
         li "Oh. Have you seen Hanako today, by any chance?"
 
         hi "No, she seems to come in only just before the bells ring… or after that. Do you want me to tell her something for you?"
 
         show lilly cane_weaksmile
-        with charachange
+        with persistent.charachange
 
         li "No, it's fine. It's strange, but I think we're the only two people in the school right now. I didn't hear anyone else on my way here."
 
         hi "I shouldn't have gotten up so early today, I guess."
 
         show lilly cane_smile
-        with charachange
+        with persistent.charachange
 
         li "You're chastising yourself for doing something that other people should? Punctuality is a good thing. I think so, anyway."
 
         show lilly cane_concerned
-        with charachange
+        with persistent.charachange
 
         li "It's a very busy morning today. The festival is coming up soon, and today is the deadline for event registration, budget reports, and any other official paperwork."
 
         show lilly cane_weaksmile
-        with charachange
+        with persistent.charachange
 
         li "It could be that everyone is trying to complete the necessary forms at the last minute. Maybe that is why it's so quiet today."
 
@@ -780,44 +780,44 @@ label a1_thursday:
         "Misha pops into the room with Shizune as if on cue, shouting with a loudness that makes Lilly visibly flinch."
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "Hi, Hicchan~!"
 
         hi "Hi."
 
         show shizu behind_smile
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Look, it's the class representative~! Hello~!"
 
         show lilly cane_smile
-        with charachange
+        with persistent.charachange
 
         "Lilly smiles, probably amused by Misha's - or Shizune's - use of the word 'look.'"
 
         show lilly cane_smile
-        with charachange
+        with persistent.charachange
 
         li "Good morning."
 
         show shizu adjust_smug
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha cross_smile
-        with charachange
+        with persistent.charachange
 
         mi "Of course, you're not the representative of this class, right, right~?"
 
         show lilly cane_weaksmile
-        with charachange
+        with persistent.charachange
 
         li "I'm not."
 
@@ -832,12 +832,12 @@ label a1_thursday:
         hi "You're here early, Shizune."
 
         show shizu basic_angry
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_frown
-        with charachange
+        with persistent.charachange
 
         mi "You were here even earlier than us!"
 
@@ -850,59 +850,59 @@ label a1_thursday:
         "Before I can start weighing whether or not I should apologize, Shizune has already moved on."
 
         show shizu adjust_smug
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "Class rep~! It's a good thing you're here~! We have to talk."
 
         show shizu behind_frown
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "The festival is coming up in three days, right? Every other class has already handed in their projected budget reports for their events! Even the first-years! Except you~!"
 
         show misha cross_laugh
-        with charachange
+        with persistent.charachange
 
         mi "Wahaha~!"
 
         show lilly cane_surprised
-        with charachange
+        with persistent.charachange
 
         li "There is still time to hand it in, isn't there?"
 
         stop music fadeout 2.0
 
         show shizu cross_angry
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha cross_frown
-        with charachange
+        with persistent.charachange
 
         mi "Today! The deadline is today! You're certainly taking your time, aren't you? If I had it my way, I'd have had all of the necessary paperwork days ago, but someone~! had to say 'the deadline, please extend it~!'"
 
         show lilly cane_displeased
-        with charachange
+        with persistent.charachange
 
         li "Yes, that was me. Planning something on this scale is not a small task, and a week is too small a time frame to expect a whole class to work out such a complex issue completely."
 
         show shizu adjust_angry
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_frown
-        with charachange
+        with persistent.charachange
 
         mi "Do you want to know what's harder than distributing the funds for one class' event? Handling the same matter for every class in the school and then some~! The one who does that is me!"
 
@@ -911,31 +911,31 @@ label a1_thursday:
         hi "Hey, Shizune, aren't you being a little too hard on her? There's still a whole day left."
 
         show lilly cane_weaksmile
-        with charachange
+        with persistent.charachange
 
         li "Please, Hisao. It's all right."
 
         "Lilly seems happy I'm taking her side, but a bit conflicted that I might not think she can take care of herself."
 
         show lilly cane_listen
-        with charachange
+        with persistent.charachange
 
         li "If this is about the budget, then I'm disappointed you think I have forgotten about it. I understand how important it is."
 
         show shizu behind_frustrated
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Then~! Can I have it, please?"
 
         hi "Shizune, she might not have it on her at this exact second."
 
         show lilly cane_displeased
-        with charachange
+        with persistent.charachange
 
         li "It's not here right now. I asked two students to take care of it for me. Students from my class."
 
@@ -944,41 +944,41 @@ label a1_thursday:
         "I guess word must've gotten around, so now she's using me as ammo against Shizune. This just gets better and better…"
 
         show shizu cross_angry
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_frown
-        with charachange
+        with persistent.charachange
 
         mi "It was your responsibility~! A budget report isn't something you should just be delegating away; as class rep, it's your job to be on top of things! This kind of disregard for proper procedure is really just terrible~!"
 
         show lilly cane_listen
-        with charachange
+        with persistent.charachange
 
         li "They completed it, being capable of doing so, but the students have been sick recently, so they could not come to school and give it back to me. If you want, I will apologize on their behalf for getting sick."
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Okay~!"
 
         "Although Misha misses Lilly's little jab entirely, Shizune doesn't, and she seems torn between being offended by Lilly's daring and jumping for joy at the prospect of a challenge."
 
         show shizu behind_frown
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "Lilly, don't they live here at the school? That's a five minute walk, you know~."
 
         mi "What could they possibly have that prevents them from taking five minutes out of their busy lives… to drop off something that will affect the enjoyment of their entire class?"
 
         show shizu adjust_angry
-        with charachange
+        with persistent.charachange
 
         "Lilly opens her mouth to say something, but Shizune closes the gap between them and starts signing furiously, waving her hands around like an orchestra conductor."
 
@@ -987,17 +987,17 @@ label a1_thursday:
         shi "…"
 
         show misha cross_frown
-        with charachange
+        with persistent.charachange
 
         mi "And what's with that attitude~? I said that it's not something you should be delegating away; are you the class representative or aren't you?"
 
         show misha hips_frown
-        with charachange
+        with persistent.charachange
 
         mi "Tell me the names of those two students, they should have your job if you can't even handle something this simple yourself."
 
         show lilly cane_displeased
-        with charachange
+        with persistent.charachange
 
         li "One form isn't the full extent of what I am supposed to take care of."
 
@@ -1006,17 +1006,17 @@ label a1_thursday:
         "Shizune, on the other hand, wraps her fingers cheerfully along the edge of her glasses, knowing Lilly can neither hear nor see how excited she is."
 
         show shizu adjust_smug
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Of course, you do so much, class rep~! It must be so difficult being you~!"
 
         show lilly cane_listen
-        with charachange
+        with persistent.charachange
 
         "Lilly tightens her lips at Misha's words, clearly understanding the intent behind them even though Misha delivers them without even a hint of the sarcasm which they were meant to have."
 
@@ -1101,19 +1101,19 @@ label a1_thursday:
         shi "…"
 
         show misha sign_confused
-        with charachange
+        with persistent.charachange
 
         mi "Hicchan~! Don't you slack off either~!"
 
         hi "What are you talking about?"
 
         show shizu basic_frown
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "Aren't you taking part in the festival, Hicchan? You are, aren't you? Then~! I hope you're going to do a lot more to make sure it goes smoothly than this person~!"
 
@@ -1150,7 +1150,7 @@ label a1_thursday:
                 "I can feel Shizune freezing. Maybe this is the first time she has ever been ignored in such a blunt manner."
 
                 show lilly cane_smile
-                with charachange
+                with persistent.charachange
 
                 li "Thank you, Hisao. I'll leave now, then."
 
@@ -1215,7 +1215,7 @@ label a1_thursday:
             "I try to strike a balance between being quiet enough to not draw attention to myself but loud enough to draw hers."
 
             show misha cross_grin_close
-            with charachange
+            with persistent.charachange
 
             show misha at twoleft
             show bg at bgright
@@ -1228,14 +1228,14 @@ label a1_thursday:
             hi "I'm copying down that stuff, what are you doing? Why so loud?"
 
             show misha perky_confused_close
-            with charachange
+            with persistent.charachange
 
             mi "Aw~, really? But it's all in the book… That's why no one else is copying it down~!"
 
             hi "I know, why are you so loud?"
 
             show misha hips_grin_close
-            with charachange
+            with persistent.charachange
 
             mi "Why are you so quiet, Hicchan? It's hard to hear you."
 
@@ -1256,7 +1256,7 @@ label a1_thursday:
             hi "Why are you doing this?"
 
             show misha perky_confused_close
-            with charachange
+            with persistent.charachange
 
             mi "Huh?"
 
@@ -1309,12 +1309,12 @@ label a1_thursday:
 
             show shizu basic_normal
             show misha perky_confused
-            with charachange
+            with persistent.charachange
 
             "Shizune starts signing at me and Misha perks up, looking at her hands with slightly unfocused eyes."
 
             show shizu behind_frown
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
@@ -1325,14 +1325,14 @@ label a1_thursday:
             "She does it so well it's almost like Shizune is actually speaking, transmitting her thoughts directly through Misha."
 
             show misha cross_frown
-            with charachange
+            with persistent.charachange
 
             mi "Well, we're in the Student Council, you know, so we're pretty busy."
 
             hi "Sarcasm?"
 
             show misha perky_confused
-            with charachange
+            with persistent.charachange
 
             mi "Huh?"
 
@@ -1343,7 +1343,7 @@ label a1_thursday:
             hi "How could I forget, with you two trying to get me to join at least twice a day?"
 
             show misha cross_laugh
-            with charachange
+            with persistent.charachange
 
             mi "Hahaha~! But, Hicchan, some could say the work is too much."
 
@@ -1383,7 +1383,7 @@ label a1_thursday:
 
             show shizu adjust_blush
             show misha perky_confused
-            with charachange
+            with persistent.charachange
 
             mi "Oh? Hello~!"
 
@@ -1409,7 +1409,7 @@ label a1_thursday:
             mi "Hey! Playing delinquent again?"
 
             show hanako emb_blushtimid
-            with charachange
+            with persistent.charachange
 
             "Hanako blushes hard at Misha's straightforward jab, even if it was only in jest."
 
@@ -1420,7 +1420,7 @@ label a1_thursday:
             shi "…"
 
             show hanako emb_downsad
-            with charachange
+            with persistent.charachange
 
             show hanako:
                 xpos 0.97 xanchor 0.5
@@ -1437,14 +1437,14 @@ label a1_thursday:
             hi "What is it, Hanako?"
 
             show hanako emb_timid
-            with charachange
+            with persistent.charachange
 
             ha "H… has Lilly been here?"
 
             mi "Sorry, Satou is not here. She, eh, came by in the morning though."
 
             show hanako emb_downtimid
-            with charachange
+            with persistent.charachange
 
             "Hanako keeps looking uneasily at Shizune, who stares back at her with her usual studying gaze. What is she trying to do?"
 
@@ -1453,23 +1453,23 @@ label a1_thursday:
             "It is a little funny though, watching Hanako's reaction to Shizune's normal behavior. This is what happens when two people of two different extremes meet, it seems."
 
             show hanako emb_timid
-            with charachange
+            with persistent.charachange
 
             ha "Do… do you know where she is?"
 
             show shizu behind_frown
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha hips_frown
-            with charachange
+            with persistent.charachange
 
             mi "If she has any sense in her head, she's in her classroom, working on their festival project. But who knows where that woman is loitering at."
 
             if not wait_for_shizu or not _in_replay:
                 show misha hips_grin
-                with charachange
+                with persistent.charachange
 
                 mi "She might be slacking off somewhere, just like Hicchan~! Wahaha~!"
 
@@ -1491,7 +1491,7 @@ label a1_thursday:
             mi "She might be slacking off somewhere~! What a useless woman~!"
 
             show hanako emb_downtimid
-            with charachange
+            with persistent.charachange
 
             show hanako at offscreenright
             with charamove
@@ -1509,7 +1509,7 @@ label a1_thursday:
 
             show misha hips_grin
             show shizu behind_smile
-            with charachange
+            with persistent.charachange
 
             mi "But Hicchan is not useless, right? Right? He said so himself~! Wahaha~!"
 
@@ -1525,7 +1525,7 @@ label a1_thursday:
 
             show misha perky_smile
             show shizu behind_blank
-            with charachange
+            with persistent.charachange
 
             play music music_shizune fadein 4.0
 
@@ -1543,19 +1543,19 @@ label a1_thursday:
             "Shizune and Misha both start maneuvering slowly in front of me, cutting off my route of escape in an unsettlingly cautious way that makes me think of ship-to-ship combat."
 
             show misha hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "I think Shicchan is saying that you should help us, Hicchan~!"
 
             hi "Gee, I wouldn't know, she's so subtle."
 
             show misha perky_confused
-            with charachange
+            with persistent.charachange
 
             mi "But~! that's the intent, so, please? I can't keep up, we have to actually build stalls for the festival, almost all of them all by ourselves, can you believe that?"
 
             show misha perky_sad
-            with charachange
+            with persistent.charachange
 
             mi "Hammering boards together, over and over again, for hours, it's really hard!"
 
@@ -1570,7 +1570,7 @@ label a1_thursday:
             hi "Uh…"
 
             show misha perky_smile
-            with charachange
+            with persistent.charachange
 
             mi "So…"
 
@@ -1622,7 +1622,7 @@ label a1_thursday:
             "I turn to bolt for the door, but Shizune is blocking my path, her arms crossed over her chest and a stern expression on her face."
 
             show shizu basic_angry_close
-            with charachange
+            with persistent.charachange
 
             "She wags a finger tauntingly and begins signing to Misha with the manner of a squad leader giving directions to his fellow soldiers."
 
@@ -1635,59 +1635,59 @@ label a1_thursday:
             mi "It didn't seem like you were in any rush to get to the library, Hicchan~!"
 
             show misha hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "That's right, Shicchan~, it does seem like he was probably going to slack off for the rest of the day."
 
             show misha hips_laugh
-            with charachange
+            with persistent.charachange
 
             mi "Hahaha~! Wahaha~! You're surrounded~!"
 
             show shizu behind_frown
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha hips_smile
-            with charachange
+            with persistent.charachange
 
             mi "Let's go to the student council room~!"
 
             "She lets out a chuckle, and then breaks into laughter."
 
             show misha cross_laugh
-            with charachange
+            with persistent.charachange
 
             mi "I'm sorry, Hicchan, I feel bad, but this works out for everyone, right?"
 
             show shizu basic_normal2
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha sign_smile
-            with charachange
+            with persistent.charachange
 
             mi "That's right, Shicchan! Yes~, that's a good point too."
 
             show shizu behind_blank
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha hips_smile
-            with charachange
+            with persistent.charachange
 
             mi "Yes, this is beneficial to everyone, it solves all our problems."
 
             show shizu basic_frown
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha hips_frown
-            with charachange
+            with persistent.charachange
 
             mi "Yeah yeah~!, I also thought he'd be more appreciative of our efforts."
 
@@ -1700,7 +1700,7 @@ label a1_thursday:
             hi "Hey guys, two-on-one isn't very fair, is it?"
 
             show shizu behind_blank_close
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
@@ -1708,41 +1708,41 @@ label a1_thursday:
 
             show shizu basic_sparkle_close
             show misha hips_grin_close
-            with charachange
+            with persistent.charachange
 
             mi "Come on, we have a lot of work to do! Let's go to the student council room~!"
 
             hi "Gee, I don't know…"
 
             show misha cross_laugh_close
-            with charachange
+            with persistent.charachange
 
             "Misha laughs."
 
             show misha hips_grin_close
-            with charachange
+            with persistent.charachange
 
             mi "Deja vu~?"
 
             "She chortles, before letting out another laugh."
 
             show misha cross_laugh_close
-            with charachange
+            with persistent.charachange
 
             mi "Hahaha, you know, my horoscope said it'd be a good day for me today."
 
             show misha perky_smile_close
-            with charachange
+            with persistent.charachange
 
             mi "And now that you're going to help—{w=.5}{nw}"
 
             show shizu adjust_smug_close
-            with charachange
+            with persistent.charachange
 
             "Shizune signs quickly to her."
 
             show misha hips_grin_close
-            with charachange
+            with persistent.charachange
 
             mi "Right~!, I mean, now that you've decided to help us, completely of your own free will, I'll be able to take it easy! Lucky~, huh?"
 
@@ -1787,113 +1787,113 @@ label a1_thursday:
             mi "That wasn't very nice, there. Hahaha, you really got us good, though. Didn't he, Shicchan?"
 
             show shizu behind_frown
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "Right, right… …Hahaha!"
 
             show misha cross_frown
-            with charachange
+            with persistent.charachange
 
             mi "What was that about? I thought you said you'd help us!"
 
             mi "And then you bailed on us! And you thought you would get away with it, didn't you?"
 
             show misha cross_laugh
-            with charachange
+            with persistent.charachange
 
             "The indignant expression vanishes and she begins to laugh hysterically, calming down only after an aggravated look from Shizune."
 
             show misha cross_grin
-            with charachange
+            with persistent.charachange
 
             mi "Oh, ah… Yeah~, you thought you could get away with it! But, a criminal always returns to the scene of the crime!"
 
             "I didn't even manage to leave the classroom in the first place. No, wait, I didn't even agree to help in the first place."
 
             show misha perky_smile
-            with charachange
+            with persistent.charachange
 
             mi "Not very bright, are you, criminal? Thinking you can just shirk your duties like that… How low, Hicchan~!"
 
             hi "I'm a criminal? What did I do? What's the charge? What am I guilty of?"
 
             show misha hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "That's for the courts to decide, criminal! I don't think we have to tell you that!"
 
             show misha perky_smile
-            with charachange
+            with persistent.charachange
 
             mi "Besides, you're the criminal here, you know what you did!"
 
             hi "Have you ever read 'The Trial,' by Kafka?"
 
             show misha hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "No, what's that, Hicchan~? What does that have to do with this?"
 
             hi "I read it a few months ago. It's about these people who run a kangaroo court on a guy who just wants to live his life. They refuse to leave him alone, and he can't fight the power."
 
             show shizu basic_frown
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show shizu behind_frown
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha hips_smile
-            with charachange
+            with persistent.charachange
 
             mi "Hicchan, what does that have to do with anything?"
 
             show misha sign_confused
-            with charachange
+            with persistent.charachange
 
             mi "Hey~!, what does that mean?"
 
             "She turns back to me after signing back and forth for a lengthy amount of time."
 
             show misha hips_frown
-            with charachange
+            with persistent.charachange
 
             mi "You know, we're both a little disappointed in you. You've let us down, Hisao."
 
             show shizu basic_frown
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             mi "Dropped the ball."
 
             show shizu behind_frown
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             mi "Left us hanging. And out in the cold~."
 
             show shizu cross_angry
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha sign_smile
-            with charachange
+            with persistent.charachange
 
             mi "Is that any way to treat a person? To run away from your responsibilities, to abandon your comrades?"
 
             show misha hips_frown
-            with charachange
+            with persistent.charachange
 
             mi "We think you owe it to us to honor your commitment."
 
@@ -1902,17 +1902,17 @@ label a1_thursday:
             "My breathing catches in my throat and I momentarily start choking."
 
             show shizu basic_frown
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha cross_smile
-            with charachange
+            with persistent.charachange
 
             mi "That's not true, Hicchan! You said you are not useless, you definitely said it, yes, definitely, definitely definitely~!"
 
             show misha hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "We are calling you on those words now~! You better prepare to show you are not a useless guy!"
 
@@ -1921,12 +1921,12 @@ label a1_thursday:
             mi "So for the rest of the day, we are going to hang out together, just the three of us, and work hard!"
 
             show shizu behind_frown
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha hips_smile
-            with charachange
+            with persistent.charachange
 
             mi "You can't fool us!"
 
@@ -1935,7 +1935,7 @@ label a1_thursday:
             mi "But what you can do for your school!"
 
             show misha cross_laugh
-            with charachange
+            with persistent.charachange
 
             mi "Hahaha!"
 
@@ -1944,7 +1944,7 @@ label a1_thursday:
             "How depressing."
 
             show misha cross_grin
-            with charachange
+            with persistent.charachange
 
             mi "Cheer up, cheer up, Hicchan!"
 
@@ -1953,7 +1953,7 @@ label a1_thursday:
             mi "Besides, aren't you happy you get to spend the day with two cute girls?"
 
             show misha hips_laugh
-            with charachange
+            with persistent.charachange
 
             mi "Hahahaha!"
 
@@ -1977,12 +1977,12 @@ label a1_thursday:
             "Shizune pulls out a roll of measuring tape and a small level, and inspects it thoroughly."
 
             show shizu behind_smile_ss
-            with charachange
+            with persistent.charachange
 
             "She smiles, looking pleased, then motions for Misha to come over."
 
             show shizu adjust_happy_ss
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
@@ -1996,7 +1996,7 @@ label a1_thursday:
             mi "She says you did a very good job. In fact, you might actually have a gift for this."
 
             show misha hips_smile_ss
-            with charachange
+            with persistent.charachange
 
             mi "Wow, I'm impressed, too. And that was fast, have you done this before?"
 
@@ -2007,24 +2007,24 @@ label a1_thursday:
             hi "And I never will again."
 
             show shizu behind_smile_ss
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             mi "Well, our quota for the day is six stalls. In a few minutes, me and Shicchan should finish this one."
 
             show misha hips_grin_ss
-            with charachange
+            with persistent.charachange
 
             mi "That means~… four more to go!"
 
             show misha sign_smile_ss
-            with charachange
+            with persistent.charachange
 
             mi "We're making good time, she says~!"
 
             show misha hips_grin_ss
-            with charachange
+            with persistent.charachange
 
             mi "Isn't this great fun?"
 
@@ -2035,44 +2035,44 @@ label a1_thursday:
             hi "You're both lucky that I'm helping you two out, if I really didn't want to, I could have gotten out of it easily."
 
             show shizu basic_normal2_ss
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha perky_smile_ss
-            with charachange
+            with persistent.charachange
 
             mi "Really, Hicchan?"
 
             show shizu adjust_smug_ss
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha cross_laugh_ss
-            with charachange
+            with persistent.charachange
 
             mi "Wahaha~! Shicchan thinks you are just running your mouth! Japanese people have no flight or fight reflex, Hicchan~!"
 
             "Shizune tents her fingers deviously."
 
             show shizu basic_happy_ss
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha hips_grin_ss
-            with charachange
+            with persistent.charachange
 
             mi "Definitely~! Definitely, definitely~! If you really wanted to escape, you would have taken immediate action~! That is how you know someone is serious; when they have no doubts, no regrets!"
 
             show shizu basic_normal_ss
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha sign_smile_ss
-            with charachange
+            with persistent.charachange
 
             mi "Maybe it was a bad idea to tell you that, since now Hicchan knows what to do next time~."
 
@@ -2081,12 +2081,12 @@ label a1_thursday:
             "That only makes me want to do it more, and I almost want the opportunity to do so to arise again. But if that happens, she might get me again somehow."
 
             show shizu behind_smile_ss
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha perky_smile_ss
-            with charachange
+            with persistent.charachange
 
             mi "Shicchan says she is happy now."
 
@@ -2115,7 +2115,7 @@ label a1_thursday:
             hi "Is this enough? I'm feeling kind of thirsty."
 
             show misha hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "A hundred yen? You can get any drink in the machine with that."
 
@@ -2131,54 +2131,54 @@ label a1_thursday:
             shi "…"
 
             show misha sign_smile
-            with charachange
+            with persistent.charachange
 
             mi "Ah, wait a second."
 
             show misha hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "Hm? What is it, Shicchan? Do you want him to get you a drink too? Hahaha!"
 
             show shizu behind_smile
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha perky_smile
-            with charachange
+            with persistent.charachange
 
             mi "Hicchan, you've really helped us out, so today I - I mean Shicchan, will treat you."
 
             show misha perky_confused
-            with charachange
+            with persistent.charachange
 
             mi "Hey, what about me?"
 
             show shizu adjust_smug
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha perky_smile
-            with charachange
+            with persistent.charachange
 
             mi "What would you like? I'm feeling thirsty myself?"
 
             show misha perky_confused
-            with charachange
+            with persistent.charachange
 
             mi "So am I!"
 
             hi "Hm, I don't know. Anything's fine. I guess the melon soda."
 
             show shizu behind_smile
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha perky_sad
-            with charachange
+            with persistent.charachange
 
             mi "Hey, wait, Shicchan! I also want a drink!"
 
@@ -2192,7 +2192,7 @@ label a1_thursday:
             mi "Aw…!"
 
             show misha perky_confused
-            with charachange
+            with persistent.charachange
 
             mi "You know, it's times like this that I think she is just teasing me."
 
@@ -2214,53 +2214,53 @@ label a1_thursday:
             "She hands me one of the sodas, and the other to Misha."
 
             show misha hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "Thanks, Shicchan~! I had total faith that you'd get me one, I knew I could count on you! Wahahaha!"
 
             show misha perky_confused
-            with charachange
+            with persistent.charachange
 
             mi "But how did you know this was what I wanted? I usually get something else."
 
             show shizu behind_smile
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "What? You knew I'd want to try it? And that I like these kinds of childish things? Hahahaha!"
 
             show misha hips_laugh
-            with charachange
+            with persistent.charachange
 
             mi "Hahahaha!"
 
             "I gesture my thanks to Shizune, who smiles and nods."
 
             show shizu adjust_happy
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             stop music fadeout 4.0
 
             show misha sign_smile
-            with charachange
+            with persistent.charachange
 
             mi "Hey, Hicchan…"
 
             hi "Yes?"
 
             show shizu behind_smile
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha perky_smile
-            with charachange
+            with persistent.charachange
 
             mi "We've been spending a lot of time together. Already, in such a short time, we've done so much."
 
@@ -2273,17 +2273,17 @@ label a1_thursday:
             "I feel myself blushing all the way to the ears."
 
             show shizu adjust_smug
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha hips_smile
-            with charachange
+            with persistent.charachange
 
             mi "What I'm trying to say is…"
 
             show misha hips_grin
-            with charachange
+            with persistent.charachange
 
             play music music_ease
 
@@ -2293,7 +2293,7 @@ label a1_thursday:
 
             show misha cross_laugh
             show shizu adjust_blush
-            with charachange
+            with persistent.charachange
 
             mi "Hahaha! Hahahaha! Hahahahaha! Wahaha! Hahahaha!"
 
@@ -2308,39 +2308,39 @@ label a1_thursday:
             "Shizune also tries to hide a blush after Misha translates, and then puts a few sheets of paper in front of me."
 
             show shizu behind_frustrated
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha cross_grin
-            with charachange
+            with persistent.charachange
 
             mi "So, how about it? All the paperwork is right here."
 
             show misha cross_smile
-            with charachange
+            with persistent.charachange
 
             mi "And you are sitting down, anyway. You look very at home here. Drinks and everything~!"
 
             show shizu basic_normal
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "What do you say?"
 
             "She quiets down a little and asks again a little more solemnly."
 
             show misha cross_smile
-            with charachange
+            with persistent.charachange
 
             mi "Hicchan, what do you say?"
 
             show misha sign_smile
-            with charachange
+            with persistent.charachange
 
             mi "You don't exactly hate this, right?"
 
@@ -2353,14 +2353,14 @@ label a1_thursday:
             "This time, she seems actually serious."
 
             show misha perky_smile
-            with charachange
+            with persistent.charachange
 
             mi "I think maybe you should join. Not just because we could use your help, but, well, you're hanging out with us anyway."
 
             mi "I think Shicchan would like it if you would join as well. It's not like you hate us or anything, right?"
 
             show misha perky_sad
-            with charachange
+            with persistent.charachange
 
             mi "It wouldn't hurt if you joined. And I'd appreciate it if you would."
 
@@ -2369,12 +2369,12 @@ label a1_thursday:
             "For some reason, I'm almost troubled by it."
 
             show shizu behind_blank
-            with charachange
+            with persistent.charachange
 
             "My eyes drift over to Shizune, who stares back at me tentatively, absentmindedly cleaning her fingernails."
 
             show misha perky_smile
-            with charachange
+            with persistent.charachange
 
             mi "If you don't want to join, I promise we won't ask again, but if you did, we would be really happy."
 
@@ -2389,24 +2389,24 @@ label a1_thursday:
             hi "All right. I guess it can't hurt, so, why not?"
 
             show shizu adjust_happy
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "Wonderful. Wonderful! Ahahaha~!"
 
             "Shizune tents her fingers in satisfaction."
 
             show shizu basic_happy
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha perky_smile
-            with charachange
+            with persistent.charachange
 
             mi "She'll fill everything out, Hicchan. Congratulations, you are officially a member of the Student Council now!"
 
@@ -2419,26 +2419,26 @@ label a1_thursday:
             "Misha starts to clap, laughing exuberantly as she does."
 
             show misha hips_laugh
-            with charachange
+            with persistent.charachange
 
             mi "Congratulations, Hicchan!"
 
             show shizu adjust_smug
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             mi "Congratulations!"
 
             show shizu behind_smile
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             mi "Congratulations!"
 
             show shizu adjust_happy
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
@@ -2449,12 +2449,12 @@ label a1_thursday:
             "I can't help but smile, finding such a display childishly cute."
 
             show misha hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "The Student Council is always busy, you know! But for today, we're done. See you tomorrow, Hicchan!"
 
             show misha hips_smile
-            with charachange
+            with persistent.charachange
 
             mi "We still have work left, so we'll be counting on you!"
 
@@ -2537,17 +2537,17 @@ label a1_thursday:
             "I'm probably the only one who doesn't have something to do."
 
             show shizu basic_angry
-            with charachange
+            with persistent.charachange
 
             "Shizune scoffs at me first, as if trying to decide whether to ignore or sneer at me, but in the end she starts signing without doing either."
 
             show misha perky_confused
-            with charachange
+            with persistent.charachange
 
             "Misha perks up, looking at her hands with slightly unfocused eyes."
 
             show shizu behind_frown
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
@@ -2560,37 +2560,37 @@ label a1_thursday:
             "She must've practiced it vigorously."
 
             show misha cross_frown
-            with charachange
+            with persistent.charachange
 
             mi "Well of course, we're in the Student Council, you know, so we're pretty busy."
 
             show shizu basic_frown
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha sign_smile
-            with charachange
+            with persistent.charachange
 
             mi "It's an important duty of ours, to ensure the success of the festival with all our strength."
 
             show shizu behind_frown
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha hips_frown
-            with charachange
+            with persistent.charachange
 
             mi "We would shame ourselves in front of the past student council generations if the festival were to fail."
 
             show shizu adjust_angry
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha sign_smile
-            with charachange
+            with persistent.charachange
 
             mi "That's why there must be no flaws, no… errr I think that was 'incumbrances,' no nothing that might make the festival short of perfect."
 
@@ -2600,7 +2600,7 @@ label a1_thursday:
 
             show shizu adjust_blush
             show misha perky_confused
-            with charachange
+            with persistent.charachange
 
             mi "Oh? Hello~!"
 
@@ -2626,7 +2626,7 @@ label a1_thursday:
             mi "Hey! Playing delinquent again?"
 
             show hanako emb_blushtimid
-            with charachange
+            with persistent.charachange
 
             "Hanako blushes hard at Misha's straightforward jab, even if it was only in jest."
 
@@ -2637,7 +2637,7 @@ label a1_thursday:
             shi "…"
 
             show hanako emb_downsad
-            with charachange
+            with persistent.charachange
 
             show hanako:
                 xpos 0.97 xanchor 0.5
@@ -2652,14 +2652,14 @@ label a1_thursday:
             hi "What is it, Hanako?"
 
             show hanako emb_timid
-            with charachange
+            with persistent.charachange
 
             ha "H… has Lilly been here?"
 
             mi "Sorry, haven't seen Satou. She, eh, came by in the morning though."
 
             show hanako emb_downtimid
-            with charachange
+            with persistent.charachange
 
             "Hanako keeps looking uneasily at Shizune, who stares back at her with her usual studying gaze. What is she trying to do?"
 
@@ -2668,17 +2668,17 @@ label a1_thursday:
             "It is a little uncomfortable, watching Hanako's reaction to Shizune's normal behavior. This is what happens when two people of two different extremes meet, it seems."
 
             show hanako emb_timid
-            with charachange
+            with persistent.charachange
 
             ha "Do… do you know where she is?"
 
             show shizu behind_frown
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show misha hips_frown
-            with charachange
+            with persistent.charachange
 
             mi "If she has any sense in her head, she's in her classroom, working on their festival project. But who knows where that woman is loitering at."
 
@@ -2711,7 +2711,7 @@ label a1_thursday:
             "She waits a little without answering the simple question, looking awfully like she's not sure if it's proper to answer such a question."
 
             show hanako emb_blushtimid
-            with charachange
+            with persistent.charachange
 
             ha "Y…yeah."
 
@@ -2780,7 +2780,7 @@ label a1_thursday:
             hi "Have you looked somewhere else already?"
 
             show hanako basic_worry
-            with charachange
+            with persistent.charachange
 
             ha "J-just at the library… I was reading…"
 
@@ -2789,12 +2789,12 @@ label a1_thursday:
             hi "Ah, so not exactly a thorough search then. Well, if I had to guess, she'd be in her own class like Shizune said, right?"
 
             show hanako cover_worry
-            with charachange
+            with persistent.charachange
 
             ha "R-right."
 
             show hanako basic_normal
-            with charachange
+            with persistent.charachange
 
             "With the slightest of nods, Hanako agrees with my reasoning."
 
@@ -2807,7 +2807,7 @@ label a1_thursday:
             hi "So you and Lilly usually hang out together after class, right?"
 
             show hanako emb_downtimid
-            with charachange
+            with persistent.charachange
 
             ha "Y-yes."
 
@@ -2820,7 +2820,7 @@ label a1_thursday:
             "She gives a sharp, almost reflexive nod. Compared to Lilly's careful thought about her actions and speech, Hanako hastens to make her answers as prompt and short as possible."
 
             show hanako emb_downsmile
-            with charachange
+            with persistent.charachange
 
             ha "Lilly… comes by the classroom, though. Even when she's busy…"
 
@@ -2845,7 +2845,7 @@ label a1_thursday:
             hi "Hey, are you all right?"
 
             show hanako basic_worry_close
-            with charachange
+            with persistent.charachange
 
             ha "J-just keep going…"
 
@@ -2918,7 +2918,7 @@ label a1_thursday:
             hi "Ah, sorry. Hisao. I have Hanako too."
 
             show lilly basic_smile
-            with charachange
+            with persistent.charachange
 
             show lilly at twoleft
             show bg at center
@@ -2934,7 +2934,7 @@ label a1_thursday:
             "Lilly takes a moment's pause to assess the situation before turning to the other student once again."
 
             show lilly basic_smileclosed
-            with charachange
+            with persistent.charachange
 
             li "For the moment, just ask Moriya for his advice. Kenji's busy with painting one of the banners already."
 
@@ -2951,7 +2951,7 @@ label a1_thursday:
             $ renpy.music.set_volume(1.0, 1.0)
 
             show lilly basic_smile
-            with charachange
+            with persistent.charachange
 
             li "Sorry about that. Our class doesn't have many students with even partial eyesight, so they're in high demand."
 
@@ -2964,19 +2964,19 @@ label a1_thursday:
             "Lilly gives a noticeable sigh of relief."
 
             show lilly basic_weaksmile
-            with charachange
+            with persistent.charachange
 
             li "Ah, that's good. This might actually get finished before everyone goes off to dinner, now."
 
             show lilly basic_listen
-            with charachange
+            with persistent.charachange
 
             li "Would you be able to help the person painting the main banner? It's a big task for him to do, but nobody else can help."
 
             hi "Kenji? Sure."
 
             show lilly basic_surprised
-            with charachange
+            with persistent.charachange
 
             "She seems surprised that I know him. I can't really blame her."
 
@@ -2985,7 +2985,7 @@ label a1_thursday:
             hi "Our rooms in the dorm are right next to each other. Hard to miss each other, really."
 
             show lilly basic_ara
-            with charachange
+            with persistent.charachange
 
             li "Well, it's good to see you're getting friends so fast."
 
@@ -2996,7 +2996,7 @@ label a1_thursday:
             hi "We'll go help him then. He knows what needs doing, right?"
 
             show lilly basic_smileclosed
-            with charachange
+            with persistent.charachange
 
             li "That's right. Just ask if you have any problems."
 
@@ -3047,12 +3047,12 @@ label a1_thursday:
             hi "I was just going to help with the banner. Hanako and I, that is."
 
             show hanako cover_worry
-            with charachange
+            with persistent.charachange
 
             ha "H… Hello…"
 
             show kenji happy
-            with charachange
+            with persistent.charachange
 
             ke "Oh. Er, hey. I guess that's okay."
 
@@ -3074,7 +3074,7 @@ label a1_thursday:
             hi "You guys selling noodles at the festival on Sunday?"
 
             show kenji happy_close
-            with charachange
+            with persistent.charachange
 
             ke "Yeah, some stalls outside. Or something."
 
@@ -3083,14 +3083,14 @@ label a1_thursday:
             hi "So how do you want to split this? We do borders while you do the text? Or do you want to switch and do the borders?"
 
             show kenji tsun_close
-            with charachange
+            with persistent.charachange
 
             ke "Text is mine. You do borders."
 
             "He has surprisingly strong feelings on the topic."
 
             show hanako basic_distant_close
-            with charachange
+            with persistent.charachange
 
             "As I reach over to grab a brush, I notice Hanako's already debating between colors to use."
 
@@ -3117,7 +3117,7 @@ label a1_thursday:
             hide hanako
 
             show kenji neutral_close
-            with charachange
+            with persistent.charachange
 
             play music music_kenji fadein 0.5
 
@@ -3126,14 +3126,14 @@ label a1_thursday:
             hi "Hanako just wanted some help to find Lilly, that's all."
 
             show kenji tsun_close
-            with charachange
+            with persistent.charachange
 
             "He apparently disapproves of my motivations."
 
             ke "I get it. It looks like I misjudged you."
 
             show kenji happy_close
-            with charachange
+            with persistent.charachange
 
             ke "You're infiltrating them, aren't you? Going deep undercover?"
 
@@ -3144,7 +3144,7 @@ label a1_thursday:
             ke "Obviously. It sucks, but there's no better way to get intel than going in yourself."
 
             show kenji tsun_close
-            with charachange
+            with persistent.charachange
 
             ke "We gotta stick together, man. This is a harsh school, a harsh world."
 
@@ -3190,19 +3190,19 @@ label a1_thursday:
             "As she does, I can't help but glance at her wrist; if her scars extend even to there, just how much of her body was burned?"
 
             show hanako emb_downtimid
-            with charachange
+            with persistent.charachange
 
             "I feel a pang of guilt about it however as she quickly covers her wrist with her other hand."
 
             hi "Looks good, doesn't it?"
 
             show hanako emb_timid
-            with charachange
+            with persistent.charachange
 
             "She looks surprised for a moment before noticing that I mean the banner."
 
             show hanako basic_bashful
-            with charachange
+            with persistent.charachange
 
             ha "It does… I guess."
 
@@ -3222,21 +3222,21 @@ label a1_thursday:
             "Lilly gives an appreciative nod."
 
             show lilly basic_smile
-            with charachange
+            with persistent.charachange
 
             li "Thank you Hisao, Hanako. If there's any way I can thank you…?"
 
             hi "It's fine. Beats sitting in my room studying, at any rate."
 
             show hanako basic_normal
-            with charachange
+            with persistent.charachange
 
             ha "I don't mind either."
 
             "She nods, before suddenly remembering one last person."
 
             show lilly basic_surprised
-            with charachange
+            with persistent.charachange
 
             li "Oh, is Kenji still here?"
 
@@ -3272,36 +3272,36 @@ label a1_thursday:
             hi "Well, I guess that's everyone."
 
             show lilly basic_displeased
-            with charachange
+            with persistent.charachange
 
             li "I hope we don't have to do anything like that again."
 
             hi "Working past schooltime?"
 
             show lilly basic_concerned
-            with charachange
+            with persistent.charachange
 
             li "Indeed. The class's plans this year were ambitious. Maybe too ambitious."
 
             show hanako emb_smile
-            with charachange
+            with persistent.charachange
 
             ha "The stalls look nice, though."
 
             hi "She's right, it shows that a lot of work's gone into them."
 
             show lilly basic_ara
-            with charachange
+            with persistent.charachange
 
             li "My my, I'm sure a lot of us would be glad to hear that. At least now there's not much work to do until the festival itself."
 
             show hanako basic_smile
-            with charachange
+            with persistent.charachange
 
             ha "Umm… It's getting pretty late. Should we go?"
 
             show lilly basic_smileclosed
-            with charachange
+            with persistent.charachange
 
             li "That's probably a good idea. Are you going back to the dorms as well, Hisao?"
 
@@ -3333,7 +3333,7 @@ label a1_thursday:
             "I grit my teeth a little at the candid mention of their rather public spat. That said, I do want to sort out what in the world was behind it."
 
             show lilly cane_displeased_ni
-            with charachange
+            with persistent.charachange
 
             li "Ah… about that…"
 
@@ -3349,7 +3349,7 @@ label a1_thursday:
             "Either way I guess her apologizing for it is something, even if my curiosity goes unanswered."
 
             show lilly cane_weaksmile_ni
-            with charachange
+            with persistent.charachange
 
             li "I'll be glad once the festival is over, in any case."
 
@@ -3358,7 +3358,7 @@ label a1_thursday:
             hi "I can imagine. My old school's festivals were a lot more low-key than this."
 
             show lilly cane_smileclosed_ni
-            with charachange
+            with persistent.charachange
 
             li "Yamaku stresses the idea of a school community, so the staff likes to make our festivals and such special occasions."
 
@@ -3366,13 +3366,13 @@ label a1_thursday:
 
             show lilly cane_giggle_ni
             show hanako emb_emb_ni
-            with charachange
+            with persistent.charachange
 
             "Hanako and Lilly both chuckle in agreement, savoring the fact that none of the staff are around to hear our grumbling."
 
             show lilly cane_smile_ni
             show hanako basic_smile_ni
-            with charachange
+            with persistent.charachange
 
             li "I suppose coming from a strict all-girls school helped me a bit with Yamaku. Compared to there, Yamaku is much more relaxed."
 
@@ -3426,7 +3426,7 @@ label a1_thursday:
             stop music fadeout 2.0
 
             show misha hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "What were we talking about? Oh yeah, we are really working hard to make the festival happen."
 
@@ -3501,7 +3501,7 @@ label a1_thursday:
             "Rin turns her head mechanically to my direction, ending up staring at my crotch level."
 
             show rin basic_deadpan_close
-            with charachange
+            with persistent.charachange
 
             rin "Oh, it's Hisao."
 
@@ -3518,7 +3518,7 @@ label a1_thursday:
             "It does, the layers of paint hiding other layers of paint, mixing and shaping the human figures really create an impressive look. But Rin looks miffed."
 
             show rin basic_deadpanupset_close
-            with charachange
+            with persistent.charachange
 
             rin "You shouldn't comment on works in progress. Seven years of bad luck."
 
@@ -3527,12 +3527,12 @@ label a1_thursday:
             "Still, it looks good. I wonder if I get fourteen years of bad luck for thinking that."
 
             show rin basic_awayabsent_close
-            with charachange
+            with persistent.charachange
 
             "Rin turns back to look at her painting and pokes it with a big toe."
 
             show rin relaxed_nonchalant_close
-            with charachange
+            with persistent.charachange
 
             rin "Could you mix some of this color? I am running out of it."
 
@@ -3541,14 +3541,14 @@ label a1_thursday:
             "I didn't really intend to stay and help her with this project though… I guess I didn't intend to do anything much."
 
             show rin basic_absent_close
-            with charachange
+            with persistent.charachange
 
             "I look at Rin, she looks emptily back at me."
 
             hi "Just this once."
 
             show rin basic_awayabsent_close
-            with charachange
+            with persistent.charachange
 
             "Rin picks up another brush and drenches it in another tone of pale red. There are dozens of similar bowls all around her working area. From the looks of this scene she could have been sitting there for hours."
 
@@ -3563,19 +3563,19 @@ label a1_thursday:
             hi "Speaking of hard work, isn't that a huge workload for you too? It's such a big painting and all."
 
             show rin basic_deadpan_close
-            with charachange
+            with persistent.charachange
 
             rin "Oh, I’m not old and bitter enough yet to think like that."
 
             hi "I guess you aren't."
 
             show rin basic_deadpannormal_close
-            with charachange
+            with persistent.charachange
 
             rin "You guessed right."
 
             show rin basic_deadpancontemplation_close
-            with charachange
+            with persistent.charachange
 
             rin "Legs hurt though. They feel like slugs. Slugs made of sea slugs."
 
@@ -3586,7 +3586,7 @@ label a1_thursday:
             rin "But it can't be helped. Can't ask the wall to lay down."
 
             show rin negative_spaciness_close
-            with charachange
+            with persistent.charachange
 
             "Saying that, she stretches herself a little, bending her legs and back far more than a human should flex. It's astonishing how effortlessly she manages her body around."
 
@@ -3603,7 +3603,7 @@ label a1_thursday:
             hi "Why push yourself so much? Take a break or something at least. Continue tomorrow if it's bad."
 
             show rin basic_deadpannormal_close
-            with charachange
+            with persistent.charachange
 
             "This gives her a pause."
 
@@ -3612,7 +3612,7 @@ label a1_thursday:
             "…"
 
             show rin basic_deadpan_close
-            with charachange
+            with persistent.charachange
 
             rin "I don't think so, Hisao."
 
@@ -3621,90 +3621,90 @@ label a1_thursday:
             hi "Sure looks like you are."
 
             show rin basic_deadpannormal_close
-            with charachange
+            with persistent.charachange
 
             rin "No. It's not about pushing or pulling or anything related to that kind of thing."
 
             show rin basic_awayabsent_close
-            with charachange
+            with persistent.charachange
 
             rin "There is this boy."
 
             hi "A boy?"
 
             show rin basic_absent_close
-            with charachange
+            with persistent.charachange
 
             rin "Yes."
 
             hi "Where?"
 
             show rin basic_deadpannormal_close
-            with charachange
+            with persistent.charachange
 
             rin "At the art club."
 
             hi "Err… and?"
 
             show rin basic_deadpan_close
-            with charachange
+            with persistent.charachange
 
             rin "He is blind."
 
             hi "Oh. How can you paint if you are blind?"
 
             show rin basic_awayabsent_close
-            with charachange
+            with persistent.charachange
 
             rin "No idea."
 
             hi "So why is he there?"
 
             show rin basic_absent_close
-            with charachange
+            with persistent.charachange
 
             rin "That's the point. He is there."
 
             "She really should speak more than one word at a time to make this feel more like a discussion and less like an interrogation."
 
             show rin basic_awayabsent_close
-            with charachange
+            with persistent.charachange
 
             rin "He can't really do anything that you'd call art, right? But he comes there anyway. And paints."
 
             show rin basic_deadpannormal_close
-            with charachange
+            with persistent.charachange
 
             rin "Why?"
 
             hi "I don't know. Why?"
 
             show rin basic_deadpan_close
-            with charachange
+            with persistent.charachange
 
             rin "I don't know. That's why I asked."
 
             hi "So?"
 
             show rin basic_deadpannormal_close
-            with charachange
+            with persistent.charachange
 
             rin "He doesn't paint often but I think his paintings are very interesting."
 
             hi "I'm sure they are."
 
             show rin basic_lucid_close
-            with charachange
+            with persistent.charachange
 
             rin "I once tried that. Painting with eyes closed."
 
             show rin basic_deadpannormal_close
-            with charachange
+            with persistent.charachange
 
             rin "Wasn't too interesting. And cleaning up the floor took ages. Didn't try again."
 
             show rin basic_deadpandelight_close
-            with charachange
+            with persistent.charachange
 
             rin "But he is becoming better at sculpting."
 
@@ -3715,7 +3715,7 @@ label a1_thursday:
             hi "Seems like the art club is full of interesting people."
 
             show rin basic_deadpan_close
-            with charachange
+            with persistent.charachange
 
             rin "Not really."
 
@@ -3724,12 +3724,12 @@ label a1_thursday:
             hi "No?"
 
             show rin basic_awayabsent_close
-            with charachange
+            with persistent.charachange
 
             rin "Just like I said. They are not very interesting. I usually don't have much interest in people who are not interesting."
 
             show rin basic_absent_close
-            with charachange
+            with persistent.charachange
 
             rin "Maybe you have."
 
@@ -3738,12 +3738,12 @@ label a1_thursday:
             "…"
 
             show rin basic_awayabsent_close
-            with charachange
+            with persistent.charachange
 
             rin "But that boy is interesting."
 
             show rin basic_lucid_close
-            with charachange
+            with persistent.charachange
 
             rin "Maybe I am like that boy, or maybe you are. Maybe everyone is."
 
@@ -3754,24 +3754,24 @@ label a1_thursday:
             hi "You're a deep one."
 
             show rin basic_deadpannormal_close
-            with charachange
+            with persistent.charachange
 
             rin "Nah. I'm a really shallow and thoughtless person. People say that to me all the time."
 
             show rin basic_deadpanamused_close
-            with charachange
+            with persistent.charachange
 
             rin "Did you know I can only think of four things at the same time?"
 
             hi "No, but now I do."
 
             show rin basic_lucid_close
-            with charachange
+            with persistent.charachange
 
             rin "Right now I'm thinking of the second floor's girls' toilet, ice-cream-flavored ice cream, the middle toe, and a haircut."
 
             show rin basic_awayabsent_close
-            with charachange
+            with persistent.charachange
 
             rin "I'm going to need a haircut."
 
@@ -3802,7 +3802,7 @@ label a1_thursday:
             "She shakes her head around vigorously, letting her short and messy hair ruffle wildly around. I can see that doing it is something she likes to do."
 
             show rin basic_awayabsent_close
-            with charachange
+            with persistent.charachange
 
             "We fall silent as Rin treads around absentmindedly, poking some brushes around. The thought about the art club sticks in my head for a while longer."
 
@@ -3819,7 +3819,7 @@ label a1_thursday:
             "It makes one question the sanity of the act."
 
             show rin basic_absent_close
-            with charachange
+            with persistent.charachange
 
             "Rin sits down on her box, swaying from side to side, apparently comfortable with the uncomfortable silence. She is staring at me again, or maybe over my shoulder. I can’t quite figure out where her eyes are focused."
 
@@ -3828,7 +3828,7 @@ label a1_thursday:
             hi "Oh, shoot."
 
             show rin basic_deadpan_close
-            with charachange
+            with persistent.charachange
 
             rin "Who?"
 
@@ -3837,31 +3837,31 @@ label a1_thursday:
             hi "Do you know her? From my class?"
 
             show rin basic_deadpanamused_close
-            with charachange
+            with persistent.charachange
 
             rin "Oh, her. The Mystery Toilet Girl."
 
             show rin basic_amused_close
-            with charachange
+            with persistent.charachange
 
             rin "That person is funny. I saw her going to the toilet five times during one recess three weeks ago. I'm sure it's the world record."
 
             show rin basic_deadpandelight_close
-            with charachange
+            with persistent.charachange
 
             rin "It was very mysterious."
 
             hi "That's why you call her Mystery Toilet Girl?"
 
             show rin basic_absent_close
-            with charachange
+            with persistent.charachange
 
             rin "What other reason could there possibly be? Well, if there is, it's an eternal mystery. I didn't follow her in there."
 
             "…"
 
             show rin basic_awayabsent_close
-            with charachange
+            with persistent.charachange
 
             rin "Maybe it was the week before that? Could have been."
 
@@ -3874,7 +3874,7 @@ label a1_thursday:
             hi "At least, not around her."
 
             show rin basic_deadpannormal_close
-            with charachange
+            with persistent.charachange
 
             "Rin turns to look at me blankly, as if she's not sure why I reproved her."
 
@@ -3883,7 +3883,7 @@ label a1_thursday:
             hi "So do you want to go eat dinner then?"
 
             show rin basic_awayabsent_close
-            with charachange
+            with persistent.charachange
 
             rin "No. Not yet."
 
@@ -3933,7 +3933,7 @@ label a1c8o1:
     hi "If you're angry with Lilly, that has nothing to do with me."
 
     show lilly cane_reminisce
-    with charachange
+    with persistent.charachange
 
     li "Now, wait just a second… are you implying the president is more right in scolding me than yourself?"
 
@@ -3942,12 +3942,12 @@ label a1c8o1:
     hi "No, I don't know about that but… I mean…"
 
     show shizu behind_frown
-    with charachange
+    with persistent.charachange
 
     shi "…"
 
     show misha perky_confused
-    with charachange
+    with persistent.charachange
 
     mi "What are you saying, Hicchan?"
 
@@ -3958,12 +3958,12 @@ label a1c8o1:
     "And so is Lilly's, though she keeps quiet. I'm afraid I inadvertently pissed her off."
 
     show shizu cross_angry
-    with charachange
+    with persistent.charachange
 
     shi "…"
 
     show misha hips_frown
-    with charachange
+    with persistent.charachange
 
     mi "Are you saying I'm wrong?"
 
@@ -3972,51 +3972,51 @@ label a1c8o1:
     hi "It's too early to argue with you. …Yes, I think it's unfair of you to get on my case."
 
     show shizu behind_frustrated
-    with charachange
+    with persistent.charachange
 
     shi "…"
 
     show misha hips_smile
-    with charachange
+    with persistent.charachange
 
     mi "Hicchan, you want too much~! But~! You have a point. Okay, okay okay~! You're not lazy, Hicchan."
 
     show misha hips_laugh
-    with charachange
+    with persistent.charachange
 
     mi "Hahaha~!"
 
     "Shizune pushes her glasses up with her thumb, almost approvingly."
 
     show shizu adjust_happy
-    with charachange
+    with persistent.charachange
 
     shi "…"
 
     show misha perky_smile
-    with charachange
+    with persistent.charachange
 
     mi "That's good! If you're not useless, you shouldn't let anyone say you are~! But the next time I say it, it'll really be because you are disappointing me like Miss Class Rep here, so don't let this go to your head!"
 
     show lilly cane_displeased
-    with charachange
+    with persistent.charachange
 
     "Lilly takes the jab silently, a venomous visage frozen on her face."
 
     show misha hips_smile
-    with charachange
+    with persistent.charachange
 
     mi "Class rep~! Shicchan says: 'Don't forget that report, please~!'"
 
     li "I won't."
 
     show lilly cane_listen
-    with charachange
+    with persistent.charachange
 
     li "Would that be all?"
 
     show misha hips_grin
-    with charachange
+    with persistent.charachange
 
     mi "Yup~!"
 
@@ -4037,31 +4037,31 @@ label a1c8o1:
     hi "Shizune, you really did go a little too far today."
 
     show misha perky_smile
-    with charachange
+    with persistent.charachange
 
     mi "It's true, Shicchan, just a little~."
 
     "If I had been expecting Shizune to grudgingly admit I have a point there as well, I think I was expecting too much. She doesn't respond."
 
     show shizu basic_normal2
-    with charachange
+    with persistent.charachange
 
     shi "…"
 
     show misha cross_laugh
-    with charachange
+    with persistent.charachange
 
     mi "Hahaha~! Shicchan thinks you should mind your own business."
 
     show misha hips_smile
-    with charachange
+    with persistent.charachange
 
     mi "Hicchan, we have a few last minute things to take care of before class~! We might be late, so~! Can you please cover for us?"
 
     hi "Yeah."
 
     show misha cross_grin
-    with charachange
+    with persistent.charachange
 
     mi "Perfect~! Yay~! Okay~! Thanks, Hicchan!"
 
@@ -4079,7 +4079,7 @@ label a1c8o2:
     hi "It's not like I could've done much, even if I wanted."
 
     show lilly cane_displeased
-    with charachange
+    with persistent.charachange
 
     li "That's right, you shouldn't expect a transfer student to jump right into it on his first week."
 
@@ -4088,12 +4088,12 @@ label a1c8o2:
     hi "Yeah you're being unreasonable with us both."
 
     show shizu behind_frustrated
-    with charachange
+    with persistent.charachange
 
     shi "…"
 
     show misha hips_frown
-    with charachange
+    with persistent.charachange
 
     mi "Excuses, excuses. Miss Class Rep has had plenty of time to deal with her report."
 

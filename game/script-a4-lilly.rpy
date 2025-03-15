@@ -120,7 +120,7 @@ label a4_lilly:
         hi "Not going well?"
 
         show misha perky_confused_close
-        with charachange
+        with persistent.charachange
 
         mi "Shicchan's going to be fine, but I think I might die. Am I going to die, Hicchan? Will you let me die from all this work?"
 
@@ -129,7 +129,7 @@ label a4_lilly:
         hi "Sorry Misha, but I've got my own work to do. I thought you and Shizune would be studying together over the long weekend, anyway?"
 
         show misha sign_sad_close
-        with charachange
+        with persistent.charachange
 
         mi "Studying's too boring to waste a holiday on, Hicchan! Shopping together was much more fun, wasn't it, Shicchan?"
 
@@ -141,7 +141,7 @@ label a4_lilly:
         hi "What is it with girls and shopping, anyway? Even Lilly and Hanako have dragged me out with them a couple of times."
 
         show misha hips_grin_close
-        with charachange
+        with persistent.charachange
 
         mi "But you went anyway? It's so rare to see a guy that likes going shopping~…"
 
@@ -150,24 +150,24 @@ label a4_lilly:
         hi "Back to the exams; you studied after you got back from the days off, didn't you, Shizune?"
 
         show shizu basic_normal2
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha sign_smile_close
-        with charachange
+        with persistent.charachange
 
         mi "Of course, Hicchan. It's only sensible to study in the days before…"
 
         show misha perky_sad_close
-        with charachange
+        with persistent.charachange
 
         mi "U~rgh."
 
         "Misha makes a sound vaguely similar to a dying cow as she realizes her folly and unceremoniously flops onto her desk, betrayed even by her best friend."
 
         show shizu basic_angry
-        with charachange
+        with persistent.charachange
 
         "Judging from Shizune's quite frustrated look at Misha, she probably told her to study as she did."
 
@@ -178,7 +178,7 @@ label a4_lilly:
         "Misha does not seem overly amused. It seems the bubbly balloon of everlasting cheerfulness has been cruelly popped."
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
@@ -194,7 +194,7 @@ label a4_lilly:
         "Shizune's signing goes unnoticed by the moping Misha, earning her a quick poke in the shoulder. It takes barely a moment for Misha to get back into form."
 
         show misha hips_smile_close
-        with charachange
+        with persistent.charachange
 
         mi "Oh, ah, so what did you do over the weekend, Hicchan?"
 
@@ -202,14 +202,14 @@ label a4_lilly:
 
         show misha perky_smile_close
         show shizu behind_blank_close
-        with charachange
+        with persistent.charachange
 
         "I see both of them narrowing their eyes at me, their minds surely in the gutter. The fact that their suspicions are founded makes the situation all the more awkward."
 
         hi "We just studied and went sightseeing; there's nothing more to it."
 
         show misha cross_smile_close
-        with charachange
+        with persistent.charachange
 
         mi "Hmm~…"
 
@@ -221,24 +221,24 @@ label a4_lilly:
 
         show misha hips_grin_close
         show shizu basic_normal2_close
-        with charachange
+        with persistent.charachange
 
         "While Misha receives the news with an enthusiastic smile, Shizune gives a look of mild surprise somewhat masked by her cool demeanor."
 
         show shizu behind_blank_close
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha sign_smile_close
-        with charachange
+        with persistent.charachange
 
         mi "Whoever you date is your business. I hope you two go well together."
 
         "Misha gives a look that says this is the most quarter I could possibly receive on the matter. It's all I wanted, really."
 
         show shizu basic_normal2_close
-        with charachange
+        with persistent.charachange
 
         "After she says this, though, Shizune begins to sign something else, then stops herself and shakes her head at Misha to prevent her from translating."
 
@@ -292,7 +292,7 @@ label a4_lilly:
         "Lilly cradles her cheek thoughtfully as I take a seat, my bag taking its place against the closest leg of the table and my unsatisfying meal neatly set out in front of me."
 
         show lilly basic_reminisce_close
-        with charachange
+        with persistent.charachange
 
         li "She did appear… for a time. She said she had to study for the upcoming exams, and left for the library."
 
@@ -301,14 +301,14 @@ label a4_lilly:
         hi "Well, at least her intentions are in the right place."
 
         show lilly basic_concerned_close
-        with charachange
+        with persistent.charachange
 
         li "She is sweet, but she needn't go this far to let us have our space. I might talk to her about it sometime."
 
         hi "Probably for the best."
 
         show lilly basic_weaksmile_close
-        with charachange
+        with persistent.charachange
 
         "For a while we quietly eat our meals, Lilly elegantly nibbling on her sandwiches and sipping her tea as I eat what tastes like a garden sandwiched in dry dough."
 
@@ -317,7 +317,7 @@ label a4_lilly:
         "Eventually we both finish our food, with no conversation forthcoming for quite some time. Eventually, though, Lilly's soft voice breaks the silence."
 
         show lilly basic_reminisce_close
-        with charachange
+        with persistent.charachange
 
         li "A lot happened back there… didn't it?"
 
@@ -328,7 +328,7 @@ label a4_lilly:
         hi "I know everything happened in kind of a hurry, but… I don't regret anything that happened in Hokkaido. Not one thing."
 
         show lilly basic_oops_close
-        with charachange
+        with persistent.charachange
 
         li "Hisao…?"
 
@@ -337,7 +337,7 @@ label a4_lilly:
         hi "I stand by my words back there, Lilly. I love you, and I won't leave you. I only wish for you to think the same."
 
         show lilly basic_weaksmile_close
-        with charachange
+        with persistent.charachange
 
         "She silently reflects for a long time, which feels like an eternity."
 
@@ -366,24 +366,24 @@ label a4_lilly:
         "My mind feels as if it briefly stopped at that moment, barely registering Lilly sitting back in her chair and smiling back at me with ever so slightly reddened cheeks."
 
         show lilly basic_smileclosed_close
-        with charachange
+        with persistent.charachange
 
         li "Hearing that makes me very happy, Hisao. I would be glad to stay with you."
 
         hi "Maybe it would be good to slow things down a bit, compared to before. We still have school, after all, and our exams."
 
         show lilly basic_giggle_close
-        with charachange
+        with persistent.charachange
 
         "She gives a mischievous giggle, which proves to be contagious."
 
         show lilly basic_smileclosed_close
-        with charachange
+        with persistent.charachange
 
         li "That might be a good idea indeed."
 
         show lilly basic_smile_close
-        with charachange
+        with persistent.charachange
 
         li "Do you think you'll fare well in your exams? It's only one day until they arrive, as you say."
 
@@ -392,7 +392,7 @@ label a4_lilly:
         hi "That said, I had to bat off Misha and Shizune. Is your class as worried about the exams as mine?"
 
         show lilly basic_weaksmile_close
-        with charachange
+        with persistent.charachange
 
         "She lets out an exasperated sigh, all but confirming it. I'm thankful for the atmosphere becoming a bit lighter."
 
@@ -401,12 +401,12 @@ label a4_lilly:
         hi "Think of it as your first training in being a teacher, maybe?"
 
         show lilly basic_smile_close
-        with charachange
+        with persistent.charachange
 
         li "That's probably a good way to think of it."
 
         show lilly basic_smileclosed_close
-        with charachange
+        with persistent.charachange
 
         li "On that note, how are you faring in your English studies? I remember it was far from your strongest subject, and the few sentences you memorized to speak to my mother aren't likely to help."
 
@@ -415,7 +415,7 @@ label a4_lilly:
         hi "You got me. If you don't mind, would you be able to possibly help in that regard? Please?"
 
         show lilly basic_planned_close
-        with charachange
+        with persistent.charachange
 
         li "It would be my pleasure to help you, Hisao. But in exchange…"
 
@@ -424,7 +424,7 @@ label a4_lilly:
         hi "No problem at all. You'd probably be better off with some help in your studies, though."
 
         show lilly behind_cheerful_close
-        with charachange
+        with persistent.charachange
 
         "She beams a smile at me, one of girlish victory that nearly makes me blush. I get the feeling she's aware of how to use her face to twist my judgment, so I should probably be more on guard."
 
@@ -437,7 +437,7 @@ label a4_lilly:
         hi "Huh, lunchtime's over already. It sure is easy to lose track of the time here."
 
         show lilly basic_weaksmile_close
-        with charachange
+        with persistent.charachange
 
         li "This room's so far from the other clubs and activities, not much sound can reach us. That's probably most of the reason why."
 
@@ -447,7 +447,7 @@ label a4_lilly:
         "A place far from all the others, alone with just one person whom she loves. As Lilly stands and collects her bag and cane, my thoughts are cast back to the time we spent in Hokkaido."
 
         show lilly basic_satisfied_close
-        with charachange
+        with persistent.charachange
 
         li "Ah, before I go; Akira and I are having a homecoming party in my room tomorrow. Will you be able to come?"
 
@@ -456,28 +456,28 @@ label a4_lilly:
         hi "My schedule is free, so I should be able to make enough room in my study time to make it."
 
         show lilly basic_smileclosed_close
-        with charachange
+        with persistent.charachange
 
         li "Good to hear, Hisao."
 
         hi "For what it's worth, I'm glad you're back from Scotland. Once exams are over, we should have some more time to ourselves."
 
         show lilly basic_smile_close
-        with charachange
+        with persistent.charachange
 
         li "Mm. Holidays start soon after, too."
 
         hi "We can start the holidays with Tanabata then, just as we promised at the school festival."
 
         show lilly basic_arablush_close
-        with charachange
+        with persistent.charachange
 
         "She brings her hand to her cheek and laughs slightly nervously, recalling the event as I silently thank myself for managing to remember."
 
         "It seems odd to see her react in such a way, though it's not like I never saw her embarrassed before."
 
         show lilly basic_weaksmile_close
-        with charachange
+        with persistent.charachange
 
         li "I'd… better be going. Farewell, Hisao."
 
@@ -562,7 +562,7 @@ label a4_lilly:
         li "It seems Hanako has taken up helping one of the people in your class with the newspaper club. Naomi, I think?"
 
         show hanagown normal
-        with charachange
+        with persistent.charachange
 
         "Hanako gives an affirmative nod."
 
@@ -579,7 +579,7 @@ label a4_lilly:
         hi "That'd explain how busy you've been. Enjoying it?"
 
         show hanagown smile
-        with charachange
+        with persistent.charachange
 
         ha "Mm. It's… really interesting."
 
@@ -603,7 +603,7 @@ label a4_lilly:
         "Warned by the sound of crockery against the table as Lilly gently places my drink in front on me, I thank her and take a long sip. Hanako and Lilly are attending to their own, and Akira is quaffing a mug of strong-smelling black coffee."
 
         show akira basic_laugh
-        with charachange
+        with persistent.charachange
 
         aki "You're a lucky bastard, Hisao."
 
@@ -612,40 +612,40 @@ label a4_lilly:
         "I can't help grimacing at her teasing smile, still visible around the edges of the mug pressed to her lips."
 
         show akira basic_ending
-        with charachange
+        with persistent.charachange
 
         aki "Seeing my sister in her pajamas, there's a lotta men out there who'd like to be where you are."
 
         "I've seen a lot more than that of her, not that I'd admit it."
 
         show lilly basic_emb_paj
-        with charachange
+        with persistent.charachange
 
         li "Akira!"
 
         show akira basic_smile
-        with charachange
+        with persistent.charachange
 
         aki "Hey, I'm just teasing."
 
         "She leans over to me as much as she can, whispering with a sly grin written on her face."
 
         show akira basic_kill
-        with charachange
+        with persistent.charachange
 
         aki "And Hanako, too. You perv."
 
         hi "Hey, it was her idea."
 
         show hanagown distant_blush
-        with charachange
+        with persistent.charachange
 
         ha "Um, I… uh…"
 
         "We both look over to her, her face turned to the ground and her hands fidgeting in the lap of her nightgown."
 
         show hanagown smile
-        with charachange
+        with persistent.charachange
 
         ha "If… it's Hisao… I don't mind…"
 
@@ -653,14 +653,14 @@ label a4_lilly:
 
         show lilly basic_concerned_paj
         show hanagown normal
-        with charachange
+        with persistent.charachange
 
         li "Um… Akira… please…"
 
         "It seems Lilly can sense Akira's sudden change in aura just as well as I, even without seeing it for herself."
 
         show akira basic_boo
-        with charachange
+        with persistent.charachange
 
         "Akira slowly looks away from me, like an attack dog leashed by its owner in the nick of time. I breathe a sigh of relief."
 
@@ -669,12 +669,12 @@ label a4_lilly:
         hi "If you don't mind me asking, Akira, what do you do for a living? I've never seen you out of that suit."
 
         show akira basic_laugh
-        with charachange
+        with persistent.charachange
 
         aki "Thinking about what to do with yourself after school's over, eh?"
 
         show akira basic_smile
-        with charachange
+        with persistent.charachange
 
         aki "I'm a lawyer. For the most part, I work in the legal department of the Japanese branch of our family's company."
 
@@ -683,38 +683,38 @@ label a4_lilly:
         hi "Kinda."
 
         show akira basic_lost
-        with charachange
+        with persistent.charachange
 
         aki "Oi, you're not supposed to agree."
 
         show lilly basic_giggle_paj
         show hanagown normal
         show akira basic_smile
-        with charachange
+        with persistent.charachange
 
         "Lilly gives an amused giggle while holding her teacup and saucer, Hanako quickly joining her."
 
         "This friendly atmosphere between everyone is something I'd missed while Lilly and Akira were on their trip. While the dealings I had with Hanako didn't help, I think just not having Lilly around changed the mood."
 
         show lilly basic_smileclosed_paj
-        with charachange
+        with persistent.charachange
 
         li "It's nice to be back. I missed you, Hisao, and you too, Hanako."
 
         hi "Same goes for the both of us. I'm guessing your classmates were happy to see you back."
 
         show lilly basic_ara_paj
-        with charachange
+        with persistent.charachange
 
         li "In a manner of speaking, yes."
 
         show akira basic_laugh
-        with charachange
+        with persistent.charachange
 
         "Akira's amused snort shows she's well aware of Lilly's attitude towards such figures of speech. I imagine she'd have to be, given how long they've been together."
 
         show hanagown normal
-        with charachange
+        with persistent.charachange
 
         ha "Did you have fun in Scotland?"
 
@@ -724,7 +724,7 @@ label a4_lilly:
 
         show lilly basic_reminisce_paj
         show akira basic_annoyed
-        with charachange
+        with persistent.charachange
 
         "Lilly's face goes distant for a moment, and the fact that Akira's first reaction is to look over to her sister doesn't escape me. Nonetheless, she quickly collects herself."
 
@@ -732,51 +732,51 @@ label a4_lilly:
 
         show akira basic_smile
         show lilly basic_weaksmile_paj
-        with charachange
+        with persistent.charachange
 
         li "It was… nice. I… we… hadn't met our family in such a long time, so it was a wonderful reunion."
 
         show akira basic_boo
-        with charachange
+        with persistent.charachange
 
         aki "Yeah, I guess that's right. Their house being beachside was the best part, though."
 
         "From her dismissive tone, I get the feeling Akira doesn't like their family as much as Lilly does."
 
         show lilly basic_giggle_paj
-        with charachange
+        with persistent.charachange
 
         li "You only liked that because you finally had time to play around."
 
         show akira basic_ending
-        with charachange
+        with persistent.charachange
 
         aki "Just 'cause I'm the better swimmer…"
 
         show lilly basic_smileclosed_paj
-        with charachange
+        with persistent.charachange
 
         li "I don't take after the athletic side of the family, that's all."
 
         show akira basic_laugh
-        with charachange
+        with persistent.charachange
 
         aki "Well, you can take heart in the fact that you got the height genes at least."
 
         show akira basic_boo
-        with charachange
+        with persistent.charachange
 
         aki "And the bust genes…"
 
         show lilly basic_weaksmile_paj
-        with charachange
+        with persistent.charachange
 
         li "That's not really the right kind of thing to say around others…"
 
         "Though Lilly pretends to scold Akira, she does so with an unmistakable, slightly cheeky grin on her face."
 
         show hanagown distant_blush
-        with charachange
+        with persistent.charachange
 
         "I doubt Akira really minds that, judging from her nonchalant expression. While I don't either, Hanako's looking down and blushing furiously beside me."
 
@@ -804,7 +804,7 @@ label a4_lilly:
         "For a while, only the barely audible sound from Lilly's teacup and saucer can occasionally be heard as she slowly drinks. The silence is strained as Lilly and I wait for the elephant in the room to be addressed."
 
         show akira basic_boo
-        with charachange
+        with persistent.charachange
 
         aki "So…"
 
@@ -812,14 +812,14 @@ label a4_lilly:
         play music music_dreamy fadein 4.0
 
         show lilly basic_weaksmile_paj
-        with charachange
+        with persistent.charachange
 
         "Lilly dutifully puts her cup down, giving her sister her undivided attention."
 
         "With Lilly and me on one side of the low table and Akira at the other, this almost feels like a judge passing down a verdict."
 
         show akira basic_smile
-        with charachange
+        with persistent.charachange
 
         aki "I hear that you two are going out now?"
 
@@ -830,7 +830,7 @@ label a4_lilly:
         hi "I'll take good care of your sister, Akira. I promise you."
 
         show lilly basic_smile_paj
-        with charachange
+        with persistent.charachange
 
         li "See? He's a lovely young gentleman."
 
@@ -841,48 +841,48 @@ label a4_lilly:
         "To tell the truth, I very much doubt my suited judge will raise any objections. She's very definitely the type to make her disapproval with others well known, something that lends her a measure of respect in my eyes."
 
         show akira basic_laugh
-        with charachange
+        with persistent.charachange
 
         aki "The old-fashioned kind, huh? Well, he's the kind of person I guessed you'd go for."
 
         show akira basic_smile
-        with charachange
+        with persistent.charachange
 
         aki "I don't have a problem with it, and I wish you two the best. Even if I didn't like it, I couldn't really do anything anyway."
 
         "I offer a nod of appreciation to her as Lilly gives a small sigh of relief, likely more out of duty than any actual belief Akira might have had any problems with us being together."
 
         show akira basic_evil
-        with charachange
+        with persistent.charachange
 
         aki "I do wonder though… how's the rest of the family taking it, particularly the part residing at Yamaku? Have you told her?"
 
         show lilly basic_listen_paj
-        with charachange
+        with persistent.charachange
 
         "Smiles turn to grimaces as Akira grins downright evilly. Those closest know how to twist the knife best, after all."
 
         show lilly basic_weaksmile_paj
-        with charachange
+        with persistent.charachange
 
         li "'Putting up with it' may be the best term for the situation. Don't you agree, Hisao?"
 
         hi "Yeah, that sounds about right. At least she's being reasonable about it."
 
         show akira basic_boo
-        with charachange
+        with persistent.charachange
 
         aki "Good to hear. That girl can be a handful at the best of times."
 
         show akira basic_smile
-        with charachange
+        with persistent.charachange
 
         aki "We sent a few messages back and forth during and just after the trip, and she was already busting my chops for seeing my boyfriend when we came back, after leaving Hideaki for so long. She really does care for the little guy."
 
         "I cast my mind back to Shizune's odd reaction after telling her about our relationship, but decide not to bring it up. It's no doubt simply born of their mutual antipathy, and Akira's comments only back that up."
 
         show akira basic_boo
-        with charachange
+        with persistent.charachange
 
         aki "Well then, that's settled. Gotta get to work early tomorrow, so I'd better be off."
 
@@ -905,19 +905,19 @@ label a4_lilly:
         aki "Oh yeah, I almost forgot to tell you."
 
         show akira basic_ending
-        with charachange
+        with persistent.charachange
 
         aki "Use protection. Every time."
 
         "I gag violently on the tea in my mouth. Contrary to my own, Lilly's composure holds perfectly as she seems entirely unfazed. I'm kind of impressed."
 
         show lilly basic_smile_paj
-        with charachange
+        with persistent.charachange
 
         li "We are, don't worry."
 
         show akira basic_smile
-        with charachange
+        with persistent.charachange
 
         aki "'Atta girl. Seeyas."
 
@@ -952,14 +952,14 @@ label a4_lilly:
         "The feeling of her pale, soft hand against mine is a pleasant one, as is the sight of the thin silken pajamas she wears, showing her curves and collarbone."
 
         show lilly basic_smile_paj_close
-        with charachange
+        with persistent.charachange
 
         li "You do get on well though, even if you do say that."
 
         hi "I guess. You know, you two are a lot more alike than I first thought when I met you."
 
         show lilly basic_cheerful_paj_close
-        with charachange
+        with persistent.charachange
 
         li "Then it's a good thing I quickly stopped you from going after her, isn't it?"
 
@@ -972,7 +972,7 @@ label a4_lilly:
         hi "Wait… since when were we using protection?"
 
         show lilly basic_pout_paj_close
-        with charachange
+        with persistent.charachange
 
         "As I give a curious look to my side, Lilly's cheeks puff out as she huffs at me."
 
@@ -985,14 +985,14 @@ label a4_lilly:
         hi "Why don't you get a bookshelf for your books? It's odd to see books just piled around, especially given that your room looks so neat and orderly otherwise."
 
         show lilly basic_smileclosed_paj_close
-        with charachange
+        with persistent.charachange
 
         li "They're easier to find this way; I know exactly which pile each book is in."
 
         hi "Wouldn't you still know that after putting each set on a different shelf?"
 
         show lilly basic_weaksmile_paj_close
-        with charachange
+        with persistent.charachange
 
         li "That may be, but…"
 
@@ -1001,14 +1001,14 @@ label a4_lilly:
         hi "You have so many of them, it's kind of a shame we can't share our book sets despite both of us reading so much."
 
         show lilly basic_giggle_paj_close
-        with charachange
+        with persistent.charachange
 
         "She gives a short giggle."
 
         hi "Come to think of it, why do you order your books through Yuuko? I imagine there'd be plenty of sites that you could order books in Braille from, especially in English Braille. There are a lot of text-to-speech programs, too."
 
         show lilly basic_displeased_paj_close
-        with charachange
+        with persistent.charachange
 
         "She turns her head slightly away from me, which strikes me as somewhat surprising."
 
@@ -1021,14 +1021,14 @@ label a4_lilly:
         hi "I wouldn't worry about it. A lot of people aren't really that good with them, so it's not that unusual."
 
         show lilly basic_concerned_paj_close
-        with charachange
+        with persistent.charachange
 
         li "'That' unusual…"
 
         "Now she's even more depressed. It feels like I'm twisting the knife, rather than healing her wounds."
 
         show lilly basic_weaksmile_paj_close
-        with charachange
+        with persistent.charachange
 
         "With a bit of squirming I shuffle my way closer to her, tentatively putting one hand around her waist to hug her. I'm still not really used to this kind of physical affection, but Lilly seems to like it."
 
@@ -1050,7 +1050,7 @@ label a4_lilly:
         "Judging from her vivid blush as she pulls back, it's obvious she feels the same as I do; even if we're entirely alone, it still feels a little embarrassing to open up to each other this much. "
 
         show lilly basic_smileclosed_paj_close
-        with charachange
+        with persistent.charachange
 
         li "If we take everything day by day, I think that would be for the best. Small steps, right?"
 
@@ -1091,28 +1091,28 @@ label a4_lilly:
         nk "Well now, if it isn't Nakai. Good to see you."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         nk "Or bad, I guess, considering that I'm a nurse."
 
         "He gives a small laugh, amused at his little joke. I find his humor lacking and somewhat off, but the fact that he can make light of such a situation is perhaps comforting, or at least distracting."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         "His brief episode of entertainment over, he claps his hands together and gets down to business. I take a seat as he gestures for me to do so."
 
         "I wish the classrooms had seats this comfortable. I can feel my mind wandering as my eyes quickly scan the room, distracted by all the small changes since I last came."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "Alrighty, so what brings you here? I haven't seen you often, so I assume your health's been good so far?"
 
         hi "Well, mostly."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "I see."
 
@@ -1129,7 +1129,7 @@ label a4_lilly:
         hi "I suddenly went weak at the knees and felt almost like I was having a small heart attack, but it passed in about half a minute. Even afterward though, I felt pretty fatigued and nauseous."
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         nk "Hrm. Not good. Not good at all."
 
@@ -1158,7 +1158,7 @@ label a4_lilly:
         "Moving his lips from side to side to show he's thinking, his nonexistent mustache wiggling, he eventually comes to a conclusion."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         play music music_nurse fadein 1.0
 
@@ -1169,7 +1169,7 @@ label a4_lilly:
         "It's actually somewhat reassuring. I don't think he would crack jokes if things were really serious, so I keep silent and take my lumps."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "I'll have a talk with your doctor, but right now I suspect it's simply due to physical exertion."
 
@@ -1182,12 +1182,12 @@ label a4_lilly:
         hi "I understand. Since leaving the hospital I've been a lot more focused on my studies, partly to take my mind off not being able to do more physical things."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         nk "It's good to hear you're coping well. Sudden lifestyle changes can be hard at the best of times, so I'm pleased to hear that you sound like you have everything in order. Almost everything, that is."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Nevertheless, I want to keep a close eye on you for a while, just for observation's sake. Just to make sure things aren't going downhill, you understand."
 
@@ -1200,7 +1200,7 @@ label a4_lilly:
         "He checks the calendar next to his computer, which seems to inflict on him a nasty case of furrowed brow. He spins back towards me after that."
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         nk "The summer holidays are a bit of a pain, considering the timing…"
 
@@ -1213,7 +1213,7 @@ label a4_lilly:
         "He looks over my shoulder at a clock hanging over the door. I'd never have noticed it if I hadn't followed his gaze."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "It's nearly time for school to be over, so you may as well just leave early."
 
@@ -1222,12 +1222,12 @@ label a4_lilly:
         hi "Well, nurse's orders. Thanks."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         nk "That's what I'm here for, after all."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "I know you might not want to hear this, but you can't ignore your condition. Don't hesitate to see me if you have any further problems, or if you just have anything you want to ask. Bye."
 
@@ -1255,7 +1255,7 @@ label a4_lilly:
         hi "Afternoon, Lilly."
 
         show lilly cane_smile_ss
-        with charachange
+        with persistent.charachange
 
         "The immediate warm smile and relaxed demeanor she assumes upon noticing my presence are unexpectedly welcome."
 
@@ -1287,12 +1287,12 @@ label a4_lilly:
         hi "After a while it became really nice, though. I think I prefer it to the hustle and bustle of my home city now."
 
         show lilly cane_smileclosed_close_ss
-        with charachange
+        with persistent.charachange
 
         li "While I preferred the quiet of such a rural town even when I first arrived, I suppose I had the advantage of growing up in a quiet area before I came."
 
         show lilly cane_weaksmile_close_ss
-        with charachange
+        with persistent.charachange
 
         li "Hanako said the surroundings are very pretty, too."
 
@@ -1305,41 +1305,41 @@ label a4_lilly:
         hi "Do you ever… regret that you can't see what things look like for yourself? It's just something I've been thinking about."
 
         show lilly cane_listen_close_ss
-        with charachange
+        with persistent.charachange
 
         "She thinks carefully for a time."
 
         show lilly cane_smileclosed_close_ss
-        with charachange
+        with persistent.charachange
 
         li "Do you ever regret that you can't hear people whispering on the other side of a room?"
 
         show lilly cane_smile_close_ss
-        with charachange
+        with persistent.charachange
 
         li "I can only speak for myself, but the fact that I can't see is the only way I've experienced life. Just as I cannot do something you can, you can't do something that I'm capable of."
 
         show lilly cane_weaksmile_close_ss
-        with charachange
+        with persistent.charachange
 
         li "The fact that the world is made for those who are sighted can be a pain sometimes, but there are many, many people who suffer much more than I because of the way the world is."
 
         hi "That does make sense, but still, it just feels kind of bad to describe something that you can't experience to you."
 
         show lilly cane_surprised_close_ss
-        with charachange
+        with persistent.charachange
 
         "She tilts her head quizzically, as if I'd just said something that makes very little sense at all."
 
         li "But I can experience it."
 
         show lilly cane_smile_close_ss
-        with charachange
+        with persistent.charachange
 
         li "You just said yourself that you like this area because of the way the surroundings are. I like this area for the very same reason."
 
         show lilly cane_smileclosed_close_ss
-        with charachange
+        with persistent.charachange
 
         li "Thanks to the fact that this is a small rustic town surrounded by trees, it gives some peace and quiet away from the din at school and the bustle, not to mention the smells, of the city."
 
@@ -1356,24 +1356,24 @@ label a4_lilly:
         hi "Come to think of it, where is Hanako anyway? She was with us for lunch."
 
         show lilly cane_weaksmile_close_ss
-        with charachange
+        with persistent.charachange
 
         li "It seems she's busy studying. The exams are far from over, and she said she wants to do better this year than the last."
 
         hi "While I admire her work ethic, she's really been trying to give us a lot of room alone recently."
 
         show lilly cane_reminisce_close_ss
-        with charachange
+        with persistent.charachange
 
         li "She's that type of person, I think; the kind that puts others' needs above her own at every chance. She's a sweet girl, even though so much has hurt her in the past."
 
         show lilly cane_weaksmile_close_ss
-        with charachange
+        with persistent.charachange
 
         li "I don't know… I feel like it's only now, when she's less close to me than ever, that she's truly finding herself."
 
         show lilly cane_smile_close_ss
-        with charachange
+        with persistent.charachange
 
         li "It was thanks to you that she began to become more confident, after all, not me."
 
@@ -1384,7 +1384,7 @@ label a4_lilly:
         hi "We're all still friends, so we've just got to have faith in her. I think she'll become a good person, and that much is thanks to you being there for her when she most needed it, just as you were there for me."
 
         show lilly cane_weaksmile_close_ss
-        with charachange
+        with persistent.charachange
 
         li "It makes me feel a bit childish when you sound so wise."
 
@@ -1393,14 +1393,14 @@ label a4_lilly:
         hi "Are you doing anything on the weekend, by any chance?"
 
         show lilly cane_surprised_close_ss
-        with charachange
+        with persistent.charachange
 
         li "Nothing that comes to mind. Why?"
 
         hi "Then how about a date on Sunday? It'd be something to do besides exam preparation."
 
         show lilly cane_smileclosed_close_ss
-        with charachange
+        with persistent.charachange
 
         "Countering my rapidly beating heart, she simply smiles and nods."
 
@@ -1409,7 +1409,7 @@ label a4_lilly:
         hi "Where would you like to go?"
 
         show lilly cane_displeased_close_ss
-        with charachange
+        with persistent.charachange
 
         "Her face suddenly changes to one of disapproval."
 
@@ -1422,12 +1422,12 @@ label a4_lilly:
         hi "Ah… oh."
 
         show lilly cane_smile_close_ss
-        with charachange
+        with persistent.charachange
 
         "Her smile quickly comes back, assuring me that she's far from serious."
 
         show lilly cane_smileclosed_close_ss
-        with charachange
+        with persistent.charachange
 
         li "Don't worry about it. I'll think about where we could go."
 
@@ -1482,7 +1482,7 @@ label a4_lilly:
 
         show lilly cane_listen_ss
         show akira basic_boo_ss
-        with charachange
+        with persistent.charachange
 
         "They talk between themselves for a few moments as I sort out my bags, their voices too low for me to catch, but eventually they break off and we begin the walk back to school."
 
@@ -1498,39 +1498,39 @@ label a4_lilly:
         li "Kids…"
 
         show akira basic_laugh_ss
-        with charachange
+        with persistent.charachange
 
         aki "Tsch. 'You two,' then. Kids grow up so fast, nowadays."
 
         show lilly cane_pout_ss
-        with charachange
+        with persistent.charachange
 
         li "You're not old enough to say that."
 
         show akira basic_lost_ss
-        with charachange
+        with persistent.charachange
 
         aki "I don't know. Being around Hideaki makes me feel damned old; he's so precocious he reminds me of you when you were younger."
 
         show lilly cane_weaksmile_ss
-        with charachange
+        with persistent.charachange
 
         li "He's a nice boy. It would be a shame if Shizune comes to have too much of an influence on him."
 
         show akira basic_laugh_ss
-        with charachange
+        with persistent.charachange
 
         "Akira gives an amused snort at her sister's antipathy. She really doesn't seem to regard it as anything to make a serious fuss about, treating it more like a childhood spat."
 
         show akira basic_smile_ss
-        with charachange
+        with persistent.charachange
 
         "She looks over to me, apparently only just remembering that I'm here, and gives a small grin as she reaches towards her back pocket."
 
         hi "What is it?"
 
         show akira basic_ending_ss
-        with charachange
+        with persistent.charachange
 
         aki "Just a sec, let me dig it out…"
 
@@ -1563,22 +1563,22 @@ label a4_lilly:
         li "What is it, Akira?"
 
         show akira basic_boo_ss
-        with charachange
+        with persistent.charachange
 
         aki "I think you know."
 
         show lilly cane_listen_ss
-        with charachange
+        with persistent.charachange
 
         "Lilly mulls this over for a few moments before realization dawns on her."
 
         show lilly cane_surprised_ss
-        with charachange
+        with persistent.charachange
 
         li "Akira… you really needn't…"
 
         show akira basic_smile_ss
-        with charachange
+        with persistent.charachange
 
         aki "It's fine, isn't it? Besides, it's like the only photo I have of you two since you entered Yamaku where you're not at each other's throats."
 
@@ -1638,21 +1638,21 @@ label a4_lilly:
         hi "What's wrong?"
 
         show akira basic_boo_ss
-        with charachange
+        with persistent.charachange
 
         aki "Ah, it's just that I'll be going to Scotland fairly soon."
 
         hi "You're leaving for Scotland again?"
 
         show akira basic_lost_ss
-        with charachange
+        with persistent.charachange
 
         "For a long moment, Akira looks surprised. It's an ill-fitting expression for her."
 
         "After a glance at Lilly, she turns back to me as if she'd never done so."
 
         show akira basic_resigned_ss
-        with charachange
+        with persistent.charachange
 
         aki "Yeah. In a couple of weeks I'll be leaving for Inverness to work at the company's headquarters. It's a pretty big jump in corporate position, and it's not a chance that's going to come again."
 
@@ -1676,12 +1676,12 @@ label a4_lilly:
         hi "See you tomorrow then, Lilly. Bye, Akira."
 
         show lilly cane_weaksmile_ni
-        with charachange
+        with persistent.charachange
 
         li "Good night, Hisao."
 
         show akira basic_smile_ni
-        with charachange
+        with persistent.charachange
 
         aki "Seeya."
 
@@ -1786,14 +1786,14 @@ label a4_lilly:
         hi "…You can cook that?"
 
         show lilly basic_giggle_che_close
-        with charachange
+        with persistent.charachange
 
         "A small giggle of amusement comes from behind the paper sheet."
 
         hi "Well, I could read them all out, but it'd take a few hours."
 
         show lilly basic_smile_che_close
-        with charachange
+        with persistent.charachange
 
         li "Is there anything with some kind of fish in it?"
 
@@ -1804,14 +1804,14 @@ label a4_lilly:
         hi "A tuna salad seems to be a good bet. From the picture, it looks like it'd be pretty filling as well."
 
         show lilly basic_smileclosed_che_close
-        with charachange
+        with persistent.charachange
 
         li "That seems to be a reasonably safe option."
 
         hi "Let's order two, then. I'm pretty sure a couple of these dishes are from poisonous animals. I've had enough deadly run-ins for now."
 
         show lilly basic_weaksmile_che_close
-        with charachange
+        with persistent.charachange
 
         "Lilly maintains a smile, but there's a distinct lack of laughter. Black humor mustn't be her cup of tea, though to be honest I don't find it exceedingly funny either."
 
@@ -1826,7 +1826,7 @@ label a4_lilly:
         "I hope I didn't mess up the pronunciation of that too badly. Even if I did, he doesn't show it."
 
         show lilly behind_cheerful_che_close
-        with charachange
+        with persistent.charachange
 
         li "And may I have a glass of Chardonnay, please. Hisao?"
 
@@ -1837,7 +1837,7 @@ label a4_lilly:
         hi "Alcohol…"
 
         show lilly basic_pout_che_close
-        with charachange
+        with persistent.charachange
 
         li "Only a bit."
 
@@ -1848,7 +1848,7 @@ label a4_lilly:
         hi "Then again, I guess we both do look mature for our age."
 
         show lilly basic_smileclosed_che_close
-        with charachange
+        with persistent.charachange
 
         li "I'll have to take your word for it. I'll add that this isn't what I'd call the type of place to ask such things, though."
 
@@ -1884,7 +1884,7 @@ label a4_lilly:
         hi "And you chastise me for cheating?"
 
         show lilly basic_displeased_che_close
-        with charachange
+        with persistent.charachange
 
         li "That's not cheating. It's simply making use of personal contacts."
 
@@ -1899,7 +1899,7 @@ label a4_lilly:
         "She pauses a moment, a wistful look on her face, before softly smiling. The compliment seems to brighten her mood."
 
         show lilly basic_planned_che_close
-        with charachange
+        with persistent.charachange
 
         li "You can thank my former school for that. If I were to appear any less, they'd be gravely disappointed."
 
@@ -1908,24 +1908,24 @@ label a4_lilly:
         hi "What was that like?"
 
         show lilly basic_smile_che_close
-        with charachange
+        with persistent.charachange
 
         li "It was prestigious, all-girls and Catholic; these facts made my parents choose it for me. Many wealthy families sent their daughters there."
 
         hi "From how it sounds, life there must've been pretty strict."
 
         show lilly basic_weaksmile_che_close
-        with charachange
+        with persistent.charachange
 
         li "I wouldn't say it was a bad experience… but you're quite right; it was very strict. Thankfully, I managed to adapt well enough and make a number of friends."
 
         show lilly basic_reminisce_che_close
-        with charachange
+        with persistent.charachange
 
         li "Unfortunately, the same can't be said for my sister. She found the atmosphere and religious aspect suffocating, and ended up leaving for a job as soon as she was able to."
 
         show lilly basic_weaksmile_che_close
-        with charachange
+        with persistent.charachange
 
         "She gives a small, self-deprecating chuckle."
 
@@ -1936,12 +1936,12 @@ label a4_lilly:
         "She gently shakes her head."
 
         show lilly basic_reminisce_che_close
-        with charachange
+        with persistent.charachange
 
         li "My family is highly patriarchal. My father, business always on his mind, was entirely lost as to what to do with me."
 
         show lilly basic_weaksmile_che_close
-        with charachange
+        with persistent.charachange
 
         li "In the end, he made the decision that my education was of higher priority than staying with the family."
 
@@ -1952,21 +1952,21 @@ label a4_lilly:
         hi "You're too kind-hearted, you know that?"
 
         show lilly basic_surprised_che_close
-        with charachange
+        with persistent.charachange
 
         li "Hmm?"
 
         hi "Most would hate their parents for something like that."
 
         show lilly basic_weaksmile_che_close
-        with charachange
+        with persistent.charachange
 
         li "Well, some do…"
 
         "Oblivious to my raised eyebrow, she takes a sip from her glass. The wine slips down effortlessly, her fondness for it evidently helping her deal with the flavor of alcohol. I can't say the same goes for me."
 
         show lilly basic_smile_che_close
-        with charachange
+        with persistent.charachange
 
         li "What of yourself? What was your schooling like?"
 
@@ -1985,7 +1985,7 @@ label a4_lilly:
         "Lilly's face is an odd mixture of curiosity and sympathy. Given her strict schooling, I suppose something like this would seem an interesting contrast to the only life she's known."
 
         show lilly basic_satisfied_che_close
-        with charachange
+        with persistent.charachange
 
         li "It sounds like your previous school was a lot of fun."
 
@@ -2043,14 +2043,14 @@ label a4_lilly:
         "That much is very true. I never thought a simple salad could be so tasty and filling, but then again, I suppose that's why it costs so much to eat here."
 
         show lilly basic_smileclosed_che_close
-        with charachange
+        with persistent.charachange
 
         "Content with my appraisal, and evidently agreeing, Lilly gives a small nod."
 
         hi "You know, given that you're part foreign, exotic-looking and quite pretty, I'm surprised that nobody's ever confessed to you before."
 
         show lilly basic_planned_che_close
-        with charachange
+        with persistent.charachange
 
         li "You're assuming nobody did."
 
@@ -2059,12 +2059,12 @@ label a4_lilly:
         hi "Really?"
 
         show lilly basic_smile_che_close
-        with charachange
+        with persistent.charachange
 
         li "I've received several confessions, both in this school and my previous one."
 
         show lilly basic_weaksmile_che_close
-        with charachange
+        with persistent.charachange
 
         li "Adolescence is a funny time."
 
@@ -2085,12 +2085,12 @@ label a4_lilly:
         hi "What? No. It isn't."
 
         show lilly basic_giggle_che_close
-        with charachange
+        with persistent.charachange
 
         li "You're a bad liar, Hisao. You should take that into account."
 
         show lilly basic_smileclosed_che_close
-        with charachange
+        with persistent.charachange
 
         li "Then again, I do appreciate how sincere you are. Even if you don't intend to be, sometimes."
 
@@ -2101,22 +2101,22 @@ label a4_lilly:
         hi "To tell the truth, though, I do prefer solitude to being surrounded by others. I don't think I could maintain a social circle like you do."
 
         show lilly basic_listen_che_close
-        with charachange
+        with persistent.charachange
 
         "She contemplates this for a moment."
 
         show lilly basic_smile_che_close
-        with charachange
+        with persistent.charachange
 
         li "I don't think that's true either."
 
         show lilly basic_smileclosed_che_close
-        with charachange
+        with persistent.charachange
 
         li "I've seen how gentle and caring you are around Hanako, and you get on marvelously well with others, even those whom you hardly know. I think you're quite adept at social situations."
 
         show lilly basic_cheerful_che_close
-        with charachange
+        with persistent.charachange
 
         li "But on that note, what of your confessions, Hisao? I'm sure someone like you must have had at least one admirer."
 
@@ -2127,7 +2127,7 @@ label a4_lilly:
         hi "It was when she confessed to me that I had my heart attack. There in the woods, during winter."
 
         show lilly basic_oops_che_close
-        with charachange
+        with persistent.charachange
 
         "Lilly finds herself speechless, not expecting for the topic to move into such an area."
 
@@ -2140,7 +2140,7 @@ label a4_lilly:
         hi "She was there every day. Then every other day. Then once a week. Then finally, one day, she just stopped visiting entirely."
 
         show lilly basic_sleepy_che_close
-        with charachange
+        with persistent.charachange
 
         li "Did you ever… see her again?"
 
@@ -2160,7 +2160,7 @@ label a4_lilly:
         "Seconds pass in silence before Lilly speaks again."
 
         show lilly basic_sad_che_close
-        with charachange
+        with persistent.charachange
 
         li "Moving to Yamaku must have been hard for you, having your friends and even your girlfriend taken from you for no fault of your own."
 
@@ -2171,7 +2171,7 @@ label a4_lilly:
         hi "All that reminiscing does is get me down, and it's largely thanks to you that it feels like things are finally getting back on track."
 
         show lilly basic_veryemb_che_close
-        with charachange
+        with persistent.charachange
 
         li "That's… pleasing to hear, Hisao."
 
@@ -2182,14 +2182,14 @@ label a4_lilly:
         hi "You said yourself that you made friends in your old school. I can't imagine many followed you."
 
         show lilly basic_displeased_che_close
-        with charachange
+        with persistent.charachange
 
         "Lilly's deep smile drops, her expression unexpectedly darkening. Even her hands retreat to her lap."
 
         "After a long while, she speaks."
 
         show lilly basic_reminisce_che_close
-        with charachange
+        with persistent.charachange
 
         li "Hisao… can you promise not to tell anyone else what I'm about to—"
 
@@ -2198,12 +2198,12 @@ label a4_lilly:
         "She looks slightly taken aback by my serious tone, but then relents and smiles weakly before continuing."
 
         show lilly basic_weaksmile_che_close
-        with charachange
+        with persistent.charachange
 
         li "When I moved to Yamaku, I did regret losing the friends I'd had at my other school."
 
         show lilly basic_reminisce_che_close
-        with charachange
+        with persistent.charachange
 
         li "But there was one person whom I most regretted not seeing again. He was the reason I took up English as a future career."
 
@@ -2212,7 +2212,7 @@ label a4_lilly:
         li "I rejected the confessions I'd received until then for him. Every time I improved my English skills, his praise was my most treasured reward."
 
         show lilly basic_weaksmile_che_close
-        with charachange
+        with persistent.charachange
 
         li "It's funny, isn't it? Someone like me, able to boast about the people who have set eyes on me, liking someone so utterly unattainable as my tutor."
 
@@ -2223,7 +2223,7 @@ label a4_lilly:
         "She quickly shakes her head from side to side."
 
         show lilly basic_displeased_che_close
-        with charachange
+        with persistent.charachange
 
         li "I couldn't. Even then, I knew it was impossible."
 
@@ -2236,7 +2236,7 @@ label a4_lilly:
         "I don't really know what to make of it. I've heard of such relationships before; taboos born of such things as puberty and youth. The fact that she had the good judgment not to act on it, though, is heartening."
 
         show lilly basic_emb_che_close
-        with charachange
+        with persistent.charachange
 
         li "I know this must sound strange, but please… don't think of me…"
 
@@ -2247,7 +2247,7 @@ label a4_lilly:
         pause 1.0
 
         show lilly basic_arablush_che_close
-        with charachange
+        with persistent.charachange
 
         "For a moment, she looks somewhat lost. Most unexpectedly though, it isn't a second before she starts to laugh. The sound takes me off guard. It's not a giggle, nor a restrained chuckle, but honest and genuine laughter."
 
@@ -2287,7 +2287,7 @@ label a4_lilly:
         "I catch the eye of a scurrying waiter, a short, scrawny guy no older than twenty. He kind of reminds me of Kenji, though unlike him the waiter isn't dressed for winter during midsummer."
 
         show lilly basic_smileclosed_che_close
-        with charachange
+        with persistent.charachange
 
         "After a curt bow and an offer to remove our plates, Lilly asks for the bill politely and softly."
 
@@ -2296,21 +2296,21 @@ label a4_lilly:
         "In no time he reappears through the doors, smartly handing our bill to Lilly."
 
         show lilly basic_smile_che_close
-        with charachange
+        with persistent.charachange
 
         "…who promptly hands it to me, causing him to raise an eyebrow."
 
         "As I read the small computer-printed leaflet, the cost is considerably more than I expected."
 
         show lilly basic_surprised_che_close
-        with charachange
+        with persistent.charachange
 
         li "Hisao?"
 
         hi "Oh… uh…"
 
         show lilly basic_smileclosed_che_close
-        with charachange
+        with persistent.charachange
 
         "I quickly stammer out the amount, to which Lilly merely nods and reaches for her purse."
 
@@ -2319,17 +2319,17 @@ label a4_lilly:
         hi "That was… a disproportionately large amount of money."
 
         show lilly basic_emb_che_close
-        with charachange
+        with persistent.charachange
 
         "The statement seems to make Lilly slightly uncomfortable."
 
         show lilly basic_weaksmile_che_close
-        with charachange
+        with persistent.charachange
 
         li "My family leaves me more than enough for my education. The same goes for my sister, though she dislikes being reminded of that fact."
 
         show lilly behind_cheerful_che_close
-        with charachange
+        with persistent.charachange
 
         li "That said, I too dislike throwing money about. But this one time I think I can make an exception. Just for you."
 
@@ -2340,12 +2340,12 @@ label a4_lilly:
         hi "I can't believe how high you have set the bar for our next date."
 
         show lilly basic_giggle_che_close
-        with charachange
+        with persistent.charachange
 
         "She gives a small giggle."
 
         show lilly basic_smileclosed_che_close
-        with charachange
+        with persistent.charachange
 
         li "I'll be looking forward to it, Hisao."
 
@@ -2435,12 +2435,12 @@ label a4_lilly:
         hi "Sorry, I didn't mean to wake you."
 
         show lilly basic_displeased_paj
-        with charachange
+        with persistent.charachange
 
         "She groggily shakes her head. The morning light illuminating her makes for a very pleasant sight."
 
         show lilly basic_weaksmile_paj
-        with charachange
+        with persistent.charachange
 
         li "It's okay, I needed to get up anyway. What time is it?"
 
@@ -2512,12 +2512,12 @@ label a4_lilly:
         hi "Just rice and some vegetables. Something fast."
 
         show lilly basic_ara_paj_close
-        with charachange
+        with persistent.charachange
 
         "Her face lights up at the revelation."
 
         show lilly basic_satisfied_paj_close
-        with charachange
+        with persistent.charachange
 
         li "That's quite a breakfast. This is normal for you?"
 
@@ -2528,12 +2528,12 @@ label a4_lilly:
         "That's my belief, anyway. From what others I've talked to have said, I might be in the minority."
 
         show lilly basic_smileclosed_paj_close
-        with charachange
+        with persistent.charachange
 
         "I take a seat on the side of my bed and begin eating together with Lilly, her chopsticks lightly tapping out the outlines of the vegetables just as I'd noticed her do during our date."
 
         show lilly basic_smile_paj_close
-        with charachange
+        with persistent.charachange
 
         li "This is quite nice, Hisao. I had no idea you could cook this well."
 
@@ -2544,7 +2544,7 @@ label a4_lilly:
         hi "I got bored of eating instant noodles and ordering pizza every time my parents were both working, so I taught myself how to make a few meals. I'm still trying to get the knack of it, though."
 
         show lilly basic_cheerful_paj_close
-        with charachange
+        with persistent.charachange
 
         li "You'll make a good wife someday, Hisao."
 
@@ -2556,19 +2556,19 @@ label a4_lilly:
         "Lilly jumps a little as it hits her cheek, right on target."
 
         show lilly basic_pout_paj_close
-        with charachange
+        with persistent.charachange
 
         "I can't help chuckling a little at her expense as she lowers her brow and tries her best to assume a harsh and serious expression."
 
         show lilly basic_sleepy_paj_close
-        with charachange
+        with persistent.charachange
 
         li "Oh, that's right…"
 
         hi "What is it?"
 
         show lilly basic_concerned_paj_close
-        with charachange
+        with persistent.charachange
 
         $ renpy.music.set_volume(0.5, 1.0, channel="music")
 
@@ -2581,7 +2581,7 @@ label a4_lilly:
         hi "No, not particularly."
 
         show lilly basic_reminisce_paj_close
-        with charachange
+        with persistent.charachange
 
         li "Is that so… that's good, then."
 
@@ -2590,19 +2590,19 @@ label a4_lilly:
         "Luckily, she seems to take me at my word."
 
         show lilly basic_weaksmile_paj_close
-        with charachange
+        with persistent.charachange
 
         li "Come to think of it, there was something else I wanted to ask."
 
         hi "Oh?"
 
         show lilly basic_smileclosed_paj_close
-        with charachange
+        with persistent.charachange
 
         li "How should I put it…"
 
         show lilly basic_smile_paj_close
-        with charachange
+        with persistent.charachange
 
         li "When you dream… do you see people and objects?"
 
@@ -2611,7 +2611,7 @@ label a4_lilly:
         "I feel more than a little sheepish for that slip of the tongue, however earnest it may be. Lilly looks unperturbed, though."
 
         show lilly basic_smileclosed_paj_close
-        with charachange
+        with persistent.charachange
 
         li "But you don't taste, feel, nor smell things?"
 
@@ -2620,12 +2620,12 @@ label a4_lilly:
         hi "That's… true, I guess. I never looked at it that way. Are you saying that you do?"
 
         show lilly basic_smile_paj_close
-        with charachange
+        with persistent.charachange
 
         li "For the most part I only hear in dreams, but yes, sometimes I touch and smell things as well."
 
         show lilly basic_planned_paj_close
-        with charachange
+        with persistent.charachange
 
         li "I'm just asking since Akira thought it very strange that I did when I brought it up with her. If you don't either, then maybe it's due to my blindness."
 
@@ -2658,14 +2658,14 @@ label a4_lilly:
         "Our hands linked and her cane tapping the ground, we begin in earnest our trip to the school building and join the chatting throngs of students around us."
 
         show lilly cane_smileclosed_close
-        with charachange
+        with persistent.charachange
 
         li "This would be the last day of exams, no?"
 
         hi "Yeah. How're you going in them?"
 
         show lilly cane_concerned_close
-        with charachange
+        with persistent.charachange
 
         li "Fairly well, all things considered. You seem a bit stressed by them, though."
 
@@ -2674,19 +2674,19 @@ label a4_lilly:
         hi "I don't think it's just the exams, though. A lot of stuff's been happening in a short amount of time, and I'm not doing that well on the humanities subjects."
 
         show lilly cane_smileclosed_close
-        with charachange
+        with persistent.charachange
 
         li "You're doing well in science though, aren't you?"
 
         hi "Well, it would be hard not to do well in science for me. Come to think of it, didn't you say before that you weren't very good at science and maths?"
 
         show lilly cane_oops_close
-        with charachange
+        with persistent.charachange
 
         "She suddenly looks very sheepish, my remark no doubt hitting home. Lilly's sense of pride really can be a double-edged sword."
 
         show lilly cane_smile_close
-        with charachange
+        with persistent.charachange
 
         li "Well, aside from that… have you ever given thought to what you might do with that ability? It seems a pity to waste it."
 
@@ -2695,7 +2695,7 @@ label a4_lilly:
         hi "In any case, I'll probably end up doing science as a career in some form."
 
         show lilly cane_smileclosed_close
-        with charachange
+        with persistent.charachange
 
         li "That's good to hear, Hisao."
 
@@ -2724,7 +2724,7 @@ label a4_lilly:
         hi "Hey. Just been busy lately with the exams and stuff."
 
         show kenji tsun
-        with charachange
+        with persistent.charachange
 
         ke "Exams, ekshmams. A true Renaissance man needs no study to excel in such things."
 
@@ -2748,12 +2748,12 @@ label a4_lilly:
         "Kenji seems to take a moment to work out who it is beside me, and probably hasn't noticed us holding hands either. I wonder if those glasses of his actually do anything."
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "Oh, hey Lilly. Good luck on your exams, too."
 
         show kenji tsun 
-        with charachange
+        with persistent.charachange
 
         ke "I'll see you after school then, man."
 
@@ -2771,7 +2771,7 @@ label a4_lilly:
         "Kenji nods curtly. He moves to pass by us, but he's too busy glaring in Lilly's general direction to take notice of her cane."
 
         show lilly cane_surprised_close at twoleft
-        with charachange
+        with persistent.charachange
 
         "Before I can try to react and save the situation, Kenji trips and reflexively reaches out for a handhold. Unfortunately, said handhold turns out to be Lilly's arm."
 
@@ -2806,7 +2806,7 @@ label a4_lilly:
         hi "Are you all right, Lilly?"
 
         show kenji happy
-        with charachange
+        with persistent.charachange
 
         ke "Hey, Satou?"
 
@@ -2824,7 +2824,7 @@ label a4_lilly:
         li "Dammit!"
 
         show kenji tsun
-        with charachange
+        with persistent.charachange
 
         "Kenji freezes, entirely caught by surprise at her outburst. I'm just as shocked; she never acted like this before, not even around Shizune."
 
@@ -2841,7 +2841,7 @@ label a4_lilly:
 
         show lilly back_listen_close
         show lillyprop back_cane_close at twoleft
-        with charachange
+        with persistent.charachange
 
         "I only catch a glimpse of her expression before she turns away, but it's not something I'll forget soon."
 
@@ -2888,7 +2888,7 @@ label a4_lilly:
         hi "You seem… quieter than usual recently. Is anything wrong?"
 
         show lilly cane_displeased_close
-        with charachange
+        with persistent.charachange
 
         "She shakes her head almost automatically, as if to dispel any notion that I need to worry about her."
 
@@ -2949,7 +2949,7 @@ label a4_lilly:
         "He looks up with an expression of mild surprise that's quickly replaced by his typical awkward smile."
 
         show muto smile
-        with charachange
+        with persistent.charachange
 
         mu "Good morning, Nakai. Can I help you?"
 
@@ -2964,7 +2964,7 @@ label a4_lilly:
         "He thinks on this question for a few moments before responding, evidently far from having a prepared answer."
 
         show muto normal
-        with charachange
+        with persistent.charachange
 
         mu "If you talk to ten different teachers, I think you'll get ten different answers to that question."
 
@@ -2973,14 +2973,14 @@ label a4_lilly:
         "He sinks into thought again, carefully assessing the way he wishes to present his idea."
 
         show muto smile
-        with charachange
+        with persistent.charachange
 
         mu "Think of it this way; when you were a child, you probably played with sticks and pebbles in moving water such as the gutter or puddles, right?"
 
         hi "Yeah. I think a lot of people do that when they're young."
 
         show muto normal
-        with charachange
+        with persistent.charachange
 
         mu "Well, it's not just when they're young for some, though it does take on another form. My point is, though, that when one is doing that, they're curious about how the water will flow or be changed."
 
@@ -2989,7 +2989,7 @@ label a4_lilly:
         mu "I still feel that sense of wonderment about the universe. Even just reading about new discoveries or classic experiments gives me a renewed sense of awe at how marvelous everything is, from the farthest stars to the smallest puddle."
 
         show muto smile
-        with charachange
+        with persistent.charachange
 
         mu "I just hope that I can give others even a small piece of that wonderment I feel. If I can do that, even if it's just for one person, I think that I can be happy as a teacher."
 
@@ -3000,7 +3000,7 @@ label a4_lilly:
         "What Lilly told me yesterday rings in my ears. 'I think you get on well with others,' huh. She always did say I was unusually curious…"
 
         show muto normal
-        with charachange
+        with persistent.charachange
 
         mu "Sorry if that was a little meandering. Does it answer your question?"
 
@@ -3017,7 +3017,7 @@ label a4_lilly:
         "Perhaps this isn't Mutou, the teacher, but rather Mutou, the person."
 
         show muto smile
-        with charachange
+        with persistent.charachange
 
         mu "Here. If you need any more, feel free to ask."
 
@@ -3125,12 +3125,12 @@ label a4_lilly:
         hi "So how's your work in the newspaper club going, Hanako?"
 
         show lilly basic_satisfied_paj
-        with charachange
+        with persistent.charachange
 
         li "I want to know too, it sounds like it would be quite interesting."
 
         show hanagown distant
-        with charachange
+        with persistent.charachange
 
         "Hanako's face turns down at the attention placed upon her, though her smile belies the fact that she genuinely likes being the center of interest for the two of us."
 
@@ -3139,7 +3139,7 @@ label a4_lilly:
         ha "Naomi and a couple of her friends handle most of the jobs… getting stories and stuff."
 
         show hanagown smile
-        with charachange
+        with persistent.charachange
 
         ha "I just do the computer things, like putting the stories together and getting it printed. I-it's nice, since I can sit and concentrate."
 
@@ -3148,24 +3148,24 @@ label a4_lilly:
         "Baby steps, I guess. It's probably a bit much to be expecting her to become a socialite like Lilly."
 
         show lilly basic_oops_paj
-        with charachange
+        with persistent.charachange
 
         li "How are you finding Naomi? I've heard she can be quite troublesome at times."
 
         "And Lilly's going into her mothering mode over Hanako. Letting go of her is something she's had to learn."
 
         show hanagown worry
-        with charachange
+        with persistent.charachange
 
         "Hanako scratches her cheek, thinking on her answer."
 
         show hanagown smile
-        with charachange
+        with persistent.charachange
 
         ha "Naomi's… nice. She's a bit loud sometimes, and a bit tiring… but she's really helpful. Her friends are nice, too."
 
         show lilly basic_cheerful_paj
-        with charachange
+        with persistent.charachange
 
         li "That's wonderful to hear, Hanako. I'm glad you've found a source of such enjoyment."
 
@@ -3182,7 +3182,7 @@ label a4_lilly:
         hi "Thank god the exams are over, eh?"
 
         show lilly basic_giggle_paj
-        with charachange
+        with persistent.charachange
 
         "The comment draws an earnest chuckle from both of the girls. It seems like everybody's been a lot happier since the exams ended, last week."
 
@@ -3193,12 +3193,12 @@ label a4_lilly:
         hi "…five days to go, after all."
 
         show hanagown normal
-        with charachange
+        with persistent.charachange
 
         ha "I was thinking of… traveling. Just… around a bit."
 
         show hanagown smile
-        with charachange
+        with persistent.charachange
 
         ha "There's a lot of places I want to see, and… I think I have enough money to pay for the bus and train rides. Naomi and one of the other girls in the newspaper club said they might come along, too."
 
@@ -3207,17 +3207,17 @@ label a4_lilly:
         "It seems she's really become intent on striking out on her own."
 
         show lilly basic_smile_paj
-        with charachange
+        with persistent.charachange
 
         li "Is there anywhere in particular you're thinking of going?"
 
         show hanagown distant_blush
-        with charachange
+        with persistent.charachange
 
         ha "I was thinking that… Kyoto sounds nice. I-I think I'll try to go to a few places… though."
 
         show lilly basic_cheerful_paj
-        with charachange
+        with persistent.charachange
 
         "Lilly nods in approval, happy with Hanako's plans."
 
@@ -3228,7 +3228,7 @@ label a4_lilly:
         hi "Be sure to call sometime while you're out and about. I gave you my number before, right?"
 
         show hanagown smile
-        with charachange
+        with persistent.charachange
 
         "Hanako gives a quick nod, a happy smile on her face."
 
@@ -3239,7 +3239,7 @@ label a4_lilly:
         "Relationships really can be irritatingly troublesome, sometimes."
 
         show hanagown worry
-        with charachange
+        with persistent.charachange
 
         ha "Oh, um… wh-what time is it?"
 
@@ -3257,14 +3257,14 @@ label a4_lilly:
         "Hanako rises to her feet, dusting herself off and neatening her gown after doing so."
 
         show hanagown smile
-        with charachange
+        with persistent.charachange
 
         ha "I'd… better be going, then. Good night Lilly, Hisao."
 
         stop music fadeout 5.0
 
         show lilly basic_smileclosed_paj
-        with charachange
+        with persistent.charachange
 
         li "Sleep well, Hanako."
 
@@ -3290,28 +3290,28 @@ label a4_lilly:
         hi "Oh yeah, I talked to Mutou on Friday, and finally checked out some guides on college and how to apply for it."
 
         show lilly basic_smile_paj
-        with charachange
+        with persistent.charachange
 
         li "That's good news. If you're going to be applying for colleges, I assume you have some idea in mind of what you might do in the future?"
 
         hi "I think I've settled on becoming a science teacher. It's going to take a while to get through university and everything to be qualified, but I think it'll be worth it."
 
         show lilly basic_satisfied_paj
-        with charachange
+        with persistent.charachange
 
         "Lilly's face brightens considerably at the news. I suppose, with her wish to become a teacher, she's delighted I'd take the same kind of path."
 
         li "So, you've decided on a career of teaching…"
 
         show lilly basic_smile_paj
-        with charachange
+        with persistent.charachange
 
         li "I think that path suits you most excellently, Hisao."
 
         "I smile and nod. This time, even if I know she can't see me doing so, I know she feels it."
 
         show lilly basic_planned_paj
-        with charachange
+        with persistent.charachange
 
         li "I imagine Mutou would have taken to the news well?"
 
@@ -3320,7 +3320,7 @@ label a4_lilly:
         hi "Hey Lilly?"
 
         show lilly basic_smile_paj
-        with charachange
+        with persistent.charachange
 
         li "Yes?"
 
@@ -3329,7 +3329,7 @@ label a4_lilly:
         "For a second, I wonder whether I should really ask her the question on my mind, but that's quickly brushed aside by the fact that this is rather late to have second thoughts."
 
         show lilly basic_smileclosed_paj
-        with charachange
+        with persistent.charachange
 
         li "Surely you don't still think I'd be offended by something regarding my blindness."
 
@@ -3340,12 +3340,12 @@ label a4_lilly:
         hi "I was just thinking whether or not being blind would be a hindrance, what with your ambitions to become a teacher and all."
 
         show lilly basic_surprised_paj
-        with charachange
+        with persistent.charachange
 
         "She looks mildly surprised before giving the question some thought. I refuse to think she's never actually pondered this issue before."
 
         show lilly basic_emb_paj
-        with charachange
+        with persistent.charachange
 
         li "I wonder… Hisao, could you close your eyes for a moment?"
 
@@ -3452,7 +3452,7 @@ label a4_lilly:
         hi "Sorry. I kinda fell over."
 
         show lilly basic_concerned_paj_close
-        with charachange
+        with persistent.charachange
 
         li "Are you hurt?"
 
@@ -3465,7 +3465,7 @@ label a4_lilly:
         "She giggles as she walks over and takes a seat beside me, her hand resting on my own."
 
         show lilly basic_weaksmile_paj_close
-        with charachange
+        with persistent.charachange
 
         li "I suppose that's the end of that then?"
 
@@ -3474,7 +3474,7 @@ label a4_lilly:
         hi "But I also think I get the point. Though I do wish it hadn't involved such a headache."
 
         show lilly basic_surprised_paj_close
-        with charachange
+        with persistent.charachange
 
         "Lilly suddenly looks blank."
 
@@ -3485,17 +3485,17 @@ label a4_lilly:
         hi "That was just for fun?"
 
         show lilly basic_reminisce_paj_close
-        with charachange
+        with persistent.charachange
 
         li "I just thought it might ease you up a little about the subject. You always seem to tiptoe around it, after all."
 
         show lilly basic_smileclosed_paj_close
-        with charachange
+        with persistent.charachange
 
         li "In regard to teaching, sight isn't that important. There are plenty of classes taught by entirely blind teachers, and more than enough resources for me to learn the subject."
 
         show lilly basic_smile_paj_close
-        with charachange
+        with persistent.charachange
 
         li "It's as simple as that, really."
 
@@ -3506,7 +3506,7 @@ label a4_lilly:
         stop music fadeout 4.0
 
         show lilly basic_cheerful_paj_close
-        with charachange
+        with persistent.charachange
 
         li "Hmm…"
 
@@ -3536,14 +3536,14 @@ label a4_lilly:
         "Eventually we break off from one another, the room silent but for our breathing."
 
         show lilly basic_surprised_paj_close
-        with charachange
+        with persistent.charachange
 
         li "Hey, Hisao?"
 
         hi "Yeah?"
 
         show lilly basic_emb_paj_close
-        with charachange
+        with persistent.charachange
 
         li "I don't suppose… you could wear the blindfold again?"
 
@@ -3662,14 +3662,14 @@ label a4_lilly:
         hi "Lilly… I want you."
 
         show lilly basic_weaksmile_paj_close
-        with charachange
+        with persistent.charachange
 
         "To my surprise, she smiles weakly before reaching upwards to feel the side of my face. It's an almost cheeky expression, of the kind which she usually gives only after getting something out of me."
 
         hi "You… wanted me to do this?"
 
         show lilly basic_smileclosed_paj_close
-        with charachange
+        with persistent.charachange
 
         "She holds her smile and gives a silent nod. I guess it was an effective way to make me take the initiative for once."
 
@@ -3884,7 +3884,7 @@ label a4_lilly:
         hi "I'm fine, Lilly. I'm… fine."
 
         show lilly superclose
-        with charachange
+        with persistent.charachange
 
         "She gives a sigh of relief, her worried expression collapsing."
 
@@ -3927,14 +3927,14 @@ label a4_lilly:
         "My eyelids feel heavy. Calmly sitting next to her like this is probably letting the adrenaline work itself out of my system, and letting my mind relax."
 
         show lilly basic_oops_paj_close
-        with charachange
+        with persistent.charachange
 
         li "So that's… why you never took the lead…?"
 
         hi "Yeah. I guess it's a good thing you like to, huh?"
 
         show lilly basic_weaksmile_paj_close
-        with charachange
+        with persistent.charachange
 
         "The joke seems to lighten her expression a little, a fact which helps let me feel less unease about my unreliable self."
 
@@ -3983,7 +3983,7 @@ label a4_lilly:
         "Obviously startled, Yuuko suddenly twists towards the direction of the noise. I'd have thought her used to people dropping books by now, since she does work here."
 
         show yuuko neutral_down
-        with charachange
+        with persistent.charachange
 
         yu "Oh, hello Hisao. Back again?"
 
@@ -3994,14 +3994,14 @@ label a4_lilly:
         "She casts her eyes downwards, presumably to the bin the books dropped into."
 
         show yuuko closedhappy_down
-        with charachange
+        with persistent.charachange
 
         yu "You're a very heavy reader, aren't you?"
 
         hi "It's become a bit of a routine now. Passes the time, at least."
 
         show yuuko worried_up
-        with charachange
+        with persistent.charachange
 
         yu "I wish I had free time to pass…"
 
@@ -4014,7 +4014,7 @@ label a4_lilly:
         hi "Working two jobs must take a lot of time. I'd probably never manage it."
 
         show yuuko neutral_up
-        with charachange
+        with persistent.charachange
 
         yu "You're lucky, being a student. Do you think you'll be able to go to university?"
 
@@ -4025,12 +4025,12 @@ label a4_lilly:
         hi "I've got plans which will require going to one, and my grades are good enough. It's more a matter of how I'll pay to do so."
 
         show yuuko worried_down
-        with charachange
+        with persistent.charachange
 
         yu "University costs so much that I'm having to work two jobs to afford to enter it… paying for daily expenses too makes it a lot harder."
 
         show yuuko neutral_down
-        with charachange
+        with persistent.charachange
 
         yu "If you're reading this much though, that means you're doing well in school, right?"
 
@@ -4041,12 +4041,12 @@ label a4_lilly:
         hi "Do you mind if I ask what studies you're pursuing in university?"
 
         show yuuko happy_up
-        with charachange
+        with persistent.charachange
 
         "Yuuko appears to genuinely brighten at the question."
 
         show yuuko closedhappy_up
-        with charachange
+        with persistent.charachange
 
         yu "Anthropology. To be specific, I'm specializing in the history of classical era Athenian civilization and democracy."
 
@@ -4193,38 +4193,38 @@ label a4_lilly:
         hi "…I have to admit, I'd never have guessed you two were half Scottish."
 
         show akira basic_ending_close_ss
-        with charachange
+        with persistent.charachange
 
         "She gives a wry chuckle of amusement."
 
         show akira basic_smile_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "I've heard that before, trust me."
 
         show akira basic_distant_close_ss
-        with charachange
+        with persistent.charachange
 
         "The small smile falls from her face, her eyes looking ahead distantly."
 
         "Aside from the occasional elderly couple talking as they slowly walk the meandering paths, and the odd aging car, it's pleasantly quiet."
 
         show akira basic_lost_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "She didn't tell you everything though, did she?"
 
         hi "It was pretty brief. Your parents live in Scotland, she hasn't met them since she was twelve, and she wants to meet them again."
 
         show akira basic_annoyed_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "It's always surprised me how devoted she is to our parents, for all the good they did us."
 
         "The way she says it sounds almost derisive. She gives a small sigh, as if to quickly brush the feelings away."
 
         show akira basic_resigned_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "Why do you think they left, Hisao?"
 
@@ -4237,24 +4237,24 @@ label a4_lilly:
         aki "Yeah. Since the business in Inverness boomed, our father decided to move directly to the same city as its headquarters."
 
         show akira basic_smile_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "That's just the conclusion I'd thought you'd come to, though. You're too good-natured."
 
         hi "You don't think they left for their career?"
 
         show akira basic_resigned_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "I'm sitting here bitching to you about it. What do you think?"
 
         show akira basic_lost_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "Yamaku Academy. I've always felt that place was kinda creepy; like it was an isolated hideaway for those 'proper society' doesn't want to see nor hear."
 
         show akira basic_annoyed_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "They probably just rue the fact that Lilly wasn't old enough to be shoved there by the time they left."
 
@@ -4271,33 +4271,33 @@ label a4_lilly:
         hi "So you stayed in Japan with Lilly, then?"
 
         show akira basic_resigned_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "Either I stayed with her, or she went to live with an ailing grandmother and grandfather."
 
         hi "What about Shizune's family? If you're cousins, then…"
 
         show akira basic_annoyed_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "Our fathers hate each other. I'd have been more than happy to tell them to go screw themselves and live with them anyway, but Lilly wouldn't have wanted that."
 
         show akira basic_resigned_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "I'd also had an offer for a job by then, so we did our best to keep our parents' house in proper shape, and tried to continue our lives as if they'd never left."
 
         hi "So you just lived by yourselves?"
 
         show akira basic_lost_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "Basically. Lilly had school and I had my job, so we weren't exactly languishing."
 
         aki "With her schooling, her study, and having to do chores while I worked, though, I can't help feeling like I failed her. In the end, I tried to be there for her, and screwed it up."
 
         show akira basic_annoyed_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "…Expecting a nineteen-year-old to be a mother for a blind child. It's ridiculous."
 
@@ -4306,19 +4306,19 @@ label a4_lilly:
         "I may have lived alone much of the time since my parents both worked, but that's… just something else entirely."
 
         show akira basic_resigned_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "Sorry for making you listen to my moaning, Hisao."
 
         hi "I don't mind at all, but… do you mind if I ask why you're telling me all this?"
 
         show akira basic_smile_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "Hmph. You always were curious."
 
         show akira basic_distant_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "Context, I suppose."
 
@@ -4329,7 +4329,7 @@ label a4_lilly:
         stop music fadeout 2.0
 
         show akira basic_resigned_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "I broke up with my boyfriend a few days ago. After I leave, we're not going to be able to see each other again."
 
@@ -4338,7 +4338,7 @@ label a4_lilly:
         "She takes a long breath before looking up at the bright orange sky."
 
         show akira basic_distant_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "Damn… if I smoked, I could take a nice, long drag right about now and look kinda cool."
 
@@ -4347,19 +4347,19 @@ label a4_lilly:
         "Akira looks over and evidently picks up on this, much to my embarrassment."
 
         show akira basic_lost_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "I must look pretty pathetic right now, whining about this to someone I barely know."
 
         hi "Hardly, and I'm pretty much an expert on looking pathetic."
 
         show akira basic_ending_close_ss
-        with charachange
+        with persistent.charachange
 
         "She gives a chuckle, the act feeling like a personal victory for me."
 
         show akira basic_smile_close_ss
-        with charachange
+        with persistent.charachange
 
         aki "You're a good kid, Hisao. When I said that I approved of you being with my sister, I wasn't joking or just being nice."
 
@@ -4376,12 +4376,12 @@ label a4_lilly:
         "She picks herself up off the seat with a grunt, one that seems ill-fitting given her age, and throws the now empty can into the bin after one last swig."
 
         show akira basic_boo_ss
-        with charachange
+        with persistent.charachange
 
         aki "It's just unfortunate that doesn't really count for much in this world."
 
         show akira basic_resigned_ss
-        with charachange
+        with persistent.charachange
 
         aki "When I said that I was leaving for Scotland, I was doing it because a good position opened up in our company's headquarters."
 
@@ -4404,7 +4404,7 @@ label a4_lilly:
         hi "Has she… accepted?"
 
         show akira basic_lost_ss
-        with charachange
+        with persistent.charachange
 
         aki "Lilly hasn't told me whether she plans to accept, and it seems she hasn't told you, either."
 
@@ -4415,7 +4415,7 @@ label a4_lilly:
         "I sit back, my feelings of worry and frustration no doubt written all over my face."
 
         show akira basic_resigned_ss
-        with charachange
+        with persistent.charachange
 
         aki "Lilly's a strong person, Hisao, but she's not infallible."
 
@@ -4424,31 +4424,31 @@ label a4_lilly:
         hi "I understand."
 
         show akira basic_lost_ss
-        with charachange
+        with persistent.charachange
 
         aki "You okay? You sound depressed."
 
         hi "No, I'm just… thinking."
 
         show akira basic_ending_ss
-        with charachange
+        with persistent.charachange
 
         aki "That's good. Thinking is good. Being rash won't get you anywhere."
 
         show akira basic_boo_ss
-        with charachange
+        with persistent.charachange
 
         "She looks at her watch, barely moving her wrist."
 
         show akira basic_lost_ss
-        with charachange
+        with persistent.charachange
 
         aki "I've got to go. Will you be okay?"
 
         hi "I'll be fine, don't worry. I'll have to talk to Lilly about it and get everything sorted out."
 
         show akira basic_smile_ss
-        with charachange
+        with persistent.charachange
 
         "She gives a smile, but it doesn't feel all that genuine or sincere."
 
@@ -4503,7 +4503,7 @@ label a4_lilly:
         "Entirely unused to running this fast, Lilly's using all her concentration just to avoid tripping over."
 
         show lilly basic_oops_cas_close_rn
-        with charachange
+        with persistent.charachange
 
         li "Hisao, do you know where we're going!?"
 
@@ -4514,14 +4514,14 @@ label a4_lilly:
         "The rest of my voice is completely drowned out by an even heavier burst of rain."
 
         show lilly basic_sad_cas_close_rn
-        with charachange
+        with persistent.charachange
 
         li "The what!?"
 
         hi "The Shanghai!"
 
         show lilly basic_concerned_cas_close_rn
-        with charachange
+        with persistent.charachange
 
         li "How far is it!?"
 
@@ -4543,7 +4543,7 @@ label a4_lilly:
         play sound sfx_storebell
 
         show lilly basic_smileclosed_cas_close_rn
-        with charachange
+        with persistent.charachange
 
         pause 0.5
 
@@ -4575,14 +4575,14 @@ label a4_lilly:
         "Yuuko looks chipper today. Trying to predict her moods is pretty hard, but it's a nice change from the norm."
 
         show lilly basic_smile_cas
-        with charachange
+        with persistent.charachange
 
         li "Hello, Yuuko."
 
         hi "Hey."
 
         show yuukoshang closedhappy_down
-        with charachange
+        with persistent.charachange
 
         yu "Good afternoon, you two."
 
@@ -4598,43 +4598,43 @@ label a4_lilly:
         "She takes a deep bow, somewhat taken aback as she rights herself again and gets a better look at us."
 
         show yuukoshang worried_down
-        with charachange
+        with persistent.charachange
 
         yu "What happened to you? You both look…"
 
         "Her eyes drift towards the glass of the door behind us."
 
         show yuukoshang panic_up
-        with charachange
+        with persistent.charachange
 
         yu "Oh. Oh dear."
 
         hi "We're inside now, at least. I think that's the most important thing."
 
         show lilly basic_weaksmile_cas
-        with charachange
+        with persistent.charachange
 
         li "It's nice and cozy. You're lucky to be working inside today."
 
         show yuukoshang smile_down
-        with charachange
+        with persistent.charachange
 
         yu "It has been nice and quiet. I like days like this."
 
         show yuukoshang worried_down
-        with charachange
+        with persistent.charachange
 
         yu "Oh wait, um, sorry… is there anything you'd like?"
 
         show lilly basic_smile_cas
-        with charachange
+        with persistent.charachange
 
         li "French vanilla tea, please."
 
         hi "I'll have the same."
 
         show yuukoshang closedhappy_up
-        with charachange
+        with persistent.charachange
 
         yu "Right. Coming right up."
 
@@ -4670,49 +4670,49 @@ label a4_lilly:
         "It makes me doubt whether I'd ever really understood her. In the end, I'm going to have to ask, even though I very much want to avoid doing so."
 
         show lilly basic_smile_cas_close
-        with charachange
+        with persistent.charachange
 
         li "You seem quiet today, Hisao."
 
         hi "Really?"
 
         show lilly basic_ara_cas_close
-        with charachange
+        with persistent.charachange
 
         li "You seemed so enthusiastic about taking me out on a date, I'd assumed you had something specific you wanted to do."
 
         hi "No, not really. Just wanted to spend some time with you."
 
         show lilly basic_weaksmile_cas_close
-        with charachange
+        with persistent.charachange
 
         li "Is that so…"
 
         hi "Fine. There was one thing."
 
         show lilly basic_cheerful_cas_close
-        with charachange
+        with persistent.charachange
 
         "A little grin finds its way onto Lilly's face, her knowing full well that she's bested me. It makes what I want to say all the more awkward."
 
         hi "It was just… Akira and I were talking."
 
         show lilly basic_surprised_cas_close
-        with charachange
+        with persistent.charachange
 
         li "Oh?"
 
         hi "What's with that tone?"
 
         show lilly basic_weaksmile_cas_close
-        with charachange
+        with persistent.charachange
 
         li "You two do seem to get on well, don't you?"
 
         hi "Well, I do think she's a pretty cool person to talk with. It'd be nice if any of the teachers were anything like her."
 
         show lilly basic_sleepy_cas_close
-        with charachange
+        with persistent.charachange
 
         li "'Cool…'"
 
@@ -4721,7 +4721,7 @@ label a4_lilly:
         hi "You're not jealous, are you?"
 
         show lilly basic_pout_cas_close
-        with charachange
+        with persistent.charachange
 
         li "I'm not jealous!"
 
@@ -4734,7 +4734,7 @@ label a4_lilly:
         hi "When you went to see your family in Inverness a while back, she said…"
 
         show lilly basic_reminisce_cas_close
-        with charachange
+        with persistent.charachange
 
         li "Akira told you about my family's summons, hasn't she?"
 
@@ -4767,14 +4767,14 @@ label a4_lilly:
         "As she walks back to the counter after a quick, polite nod, I realize the air between me and Lilly is thick and our expressions are both somewhat pensive."
 
         show lilly basic_displeased_cas_close
-        with charachange
+        with persistent.charachange
 
         li "Even though she says I should lead my own life, she still interferes at the worst times…"
 
         hi "I don't think you should blame Akira here. She's just looking out for you, and it's not like I can't understand her concern over this."
 
         show lilly basic_weaksmile_cas_close
-        with charachange
+        with persistent.charachange
 
         "Lilly's irritation gives way to an awkward, and largely unsuccessful, attempt to mask her feelings. She really doesn't deal well with being cornered on personal topics."
 
@@ -4783,7 +4783,7 @@ label a4_lilly:
         hi "You were intentionally hiding this from me? For how long were you planning to do so?"
 
         show lilly basic_displeased_cas_close
-        with charachange
+        with persistent.charachange
 
         li "As I said, I simply wanted more time to think it through. I wanted to be sure of my decision before telling you."
 
@@ -4792,7 +4792,7 @@ label a4_lilly:
         "I know what I want her to say, but an awful feeling refuses to leave my gut."
 
         show lilly basic_sleepy_cas_close
-        with charachange
+        with persistent.charachange
 
         li "My family does dearly want me to return to them, and Akira will be going as well. I could still teach as a career, whether it be here or there."
 
@@ -4801,7 +4801,7 @@ label a4_lilly:
         hi "How long have you known? I already know you were asked when you first went to Scotland, about a month ago."
 
         show lilly basic_concerned_cas_close
-        with charachange
+        with persistent.charachange
 
         li "Some… time."
 
@@ -4814,7 +4814,7 @@ label a4_lilly:
         hi "Lilly…"
 
         show lilly basic_sad_cas_close
-        with charachange
+        with persistent.charachange
 
         li "I'm sorry, I just… I wanted to think this through completely. I wasn't trying to take advantage of you, please—"
 
@@ -4827,7 +4827,7 @@ label a4_lilly:
         "She doesn't look surprised, no doubt because the fact had dawned on her once she became sure of her decision, but rather, she appears genuinely unsure of how to deal with the situation now that it's in front of her."
 
         show lilly basic_oops_cas_close
-        with charachange
+        with persistent.charachange
 
         li "W-we could try pursuing a long-distance relationship. They're getting more and more common these days, after all…"
 
@@ -4856,7 +4856,7 @@ label a4_lilly:
         hi "We're just two children pretending to be adults, aren't we?"
 
         show lilly basic_sad_cas_close
-        with charachange
+        with persistent.charachange
 
         "A long, long silence hangs in the air between us. The noise of the other patrons drinking and talking only makes the situation feel more strange and disconnected."
 
@@ -4865,7 +4865,7 @@ label a4_lilly:
         stop music fadeout 4.0
 
         show lilly basic_concerned_cas_close
-        with charachange
+        with persistent.charachange
 
         li "I'm sorry, Hisao."
 
@@ -4876,14 +4876,14 @@ label a4_lilly:
         hi "When will you be going?"
 
         show lilly basic_sad_cas_close
-        with charachange
+        with persistent.charachange
 
         li "I'll be leaving with Akira, so it'll be a little less than a week."
 
         hi "The beginning of summer holidays?"
 
         show lilly basic_sleepy_cas_close
-        with charachange
+        with persistent.charachange
 
         li "Just a little afterward, yes."
 
@@ -4937,7 +4937,7 @@ label a4_lilly:
         ke "Hey man, what's…"
 
         show kenji tsun
-        with charachange
+        with persistent.charachange
 
         ke "Woah dude, you look awful, I think. You okay?"
 
@@ -4946,7 +4946,7 @@ label a4_lilly:
         hi "I… don't really want to go into it. It's late."
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "Okay. That's cool."
 
@@ -4957,7 +4957,7 @@ label a4_lilly:
         hi "Thanks, Kenji."
 
         show kenji happy
-        with charachange
+        with persistent.charachange
 
         ke "Hey, it's cool. That's what friends are for, right?"
 
@@ -5039,43 +5039,43 @@ label a4_lilly:
         hi "Hey Misha, Shizune. What's up?"
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Well~…"
 
         show misha perky_smile
-        with charachange
+        with persistent.charachange
 
         mi "Shicchan and I were thinking~…"
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "Since we're just two poor little girls that need help with all the work we've been given just before the holidays begin~…"
 
         hi "Sure, I can help."
 
         show misha perky_sad
-        with charachange
+        with persistent.charachange
 
         mi "But Hicchan, we're really nee—"
 
         stop music fadeout 0.2
 
         show misha perky_confused
-        with charachange
+        with persistent.charachange
 
         mi "What?"
 
         "I think I broke Misha."
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         "Even Shizune raises an eyebrow at her accomplice's shuddering stop in her tracks."
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "So you'll help us, Hicchan?"
 
@@ -5123,7 +5123,7 @@ label a4_lilly:
         "Shizune's expression becomes determined as she signs. It's a worrying look."
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Everything, Hicchan!"
 
@@ -5132,29 +5132,29 @@ label a4_lilly:
         hi "Everything… you say?"
 
         show shizu basic_normal
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "What's left on the desks is what needs to be done."
 
         show misha perky_smile
-        with charachange
+        with persistent.charachange
 
         mi "It all needs to be digitally recorded, which is what the laptop is for."
 
         hi "And I'm guessing that I'll be the one doing this?"
 
         show shizu behind_smile
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "Shicchan says she saw you with the computers in the library a few days ago, and that you seemed really good with them~."
 
@@ -5165,17 +5165,17 @@ label a4_lilly:
         hi "Wait, Shizune was watching me do that?"
 
         show shizu adjust_smug
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "One must know their allies before they can know their enemies, of course~."
 
         show misha cross_grin
-        with charachange
+        with persistent.charachange
 
         mi "Wow, that's pretty wise…"
 
@@ -5184,44 +5184,44 @@ label a4_lilly:
         "Nonetheless, it doesn't seem worth fighting over. Sitting at a computer doing some typing hardly seems onerous, as far as tasks to help Shizune and Misha go."
 
         show shizu basic_normal
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha perky_smile
-        with charachange
+        with persistent.charachange
 
         mi "Besides, it will help to take your mind off things~."
 
         hi "Take my mind off things? Take my mind off what things?"
 
         show misha perky_confused
-        with charachange
+        with persistent.charachange
 
         "Misha's face goes blank as she translates this for Shizune, though the latter's response is only to glance away towards the window after briefly signing."
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         show shizu basic_normal2
-        with charachange
+        with persistent.charachange
 
         "Misha's face quickly returns to a smile as she translates back. She was confused, I guess, but Shizune is harder to pin down."
 
         show misha cross_smile
-        with charachange
+        with persistent.charachange
 
         mi "I was just thinking you may like to get your mind off the exams, of course~."
 
         hi "Either way, we may as well get into it sooner rather than later. I'll go along with you."
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "That's the spirit, Hicchan~!"
 
@@ -5253,7 +5253,7 @@ label a4_lilly:
         "Misha quickly skips over to check who it is, tapping Shizune's shoulder on the way past to let her companion know what's happening."
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Ah, you're here~."
 
@@ -5281,7 +5281,7 @@ label a4_lilly:
         "After giving a cursory nod to Misha in greeting, she perks her head up in her trademark manner."
 
         show lilly basic_surprised_cas
-        with charachange
+        with persistent.charachange
 
         li "Is that Hisao?"
 
@@ -5290,7 +5290,7 @@ label a4_lilly:
         hi "Yeah, it's me. Um… hey."
 
         show lilly basic_reminisce_cas
-        with charachange
+        with persistent.charachange
 
         "The atmosphere feels slightly awkward as she bows. Neither of us knows quite how intimate we should be around each other, given she's leaving in just a matter of hours."
 
@@ -5299,14 +5299,14 @@ label a4_lilly:
         hi "So… you've got work to do as well?"
 
         show lilly basic_sleepy_cas
-        with charachange
+        with persistent.charachange
 
         li "Unfortunately. I arrived as soon as I could, but my class held me up with a surprise farewell party, and I had to get changed."
 
         "I glance down at the laptop's clock. It's pretty much the end of lunchtime, so I'm guessing Lilly managed to wrangle the last period off as well."
 
         show lilly basic_weaksmile_cas
-        with charachange
+        with persistent.charachange
 
         li "I take it Shizune is here as well?"
 
@@ -5318,98 +5318,98 @@ label a4_lilly:
         shi "…"
 
         show misha cross_smile
-        with charachange
+        with persistent.charachange
 
         mi "Of course!"
 
         show shizu adjust_smug
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "And I've been here during all of lunchtime as well!"
 
         "That last comment was really not needed. Shizune's baiting Lilly into another argument, I can feel it."
 
         show lilly basic_displeased_cas
-        with charachange
+        with persistent.charachange
 
         li "I'm sorry I can't be as hardworking as you, Shizune. I'll endeavor to hire more lackeys to do my work in future, I assure you."
 
         "And Lilly just took the bait, escalating things further."
 
         show shizu basic_frown
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_frown
-        with charachange
+        with persistent.charachange
 
         mi "But aren't you the one always outsourcing work to your classmates~?"
 
         show lilly basic_listen_cas
-        with charachange
+        with persistent.charachange
 
         li "The difference is that they choose to help, unlike your tyrannical grip on your own class."
 
         show shizu behind_frown
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha cross_smile
-        with charachange
+        with persistent.charachange
 
         mi "Tyranny works~! Even if we did things differently, we still got the same results, right~?"
 
         show lilly basic_displeased_cas
-        with charachange
+        with persistent.charachange
 
         li "This is school, not a police state. You will have to remind me when you were appointed class monarch, I'm afraid."
 
         show shizu cross_angry
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha cross_frown
-        with charachange
+        with persistent.charachange
 
         mi "You have to seize power, it's not as good if it's just handed to you~! But I guess you wouldn't really understand that, right~?"
 
         show shizu adjust_angry
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "You'll also have to remind me when monarchs were elected into their positions~."
 
         "Lilly positively bristles at this. Shizune's two-hit combo forces her onto defense."
 
         show lilly basic_displeased_cas
-        with charachange
+        with persistent.charachange
 
         li "Yet for all your vaunted power, you cannot get one person to help you without forcing him."
 
         show shizu behind_frustrated
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "But Hisao volunteered~! He's such a hard worker, he's doing this instead of meaningless socialization, right~?"
 
         show lilly basic_listen_cas
-        with charachange
+        with persistent.charachange
 
         li "Is that so. Hisao?"
 
@@ -5420,19 +5420,19 @@ label a4_lilly:
         hi "It's okay, Lilly, they didn't harass me to come or anything."
 
         show lilly basic_displeased_cas
-        with charachange
+        with persistent.charachange
 
         "Lilly gives me a disapproving grimace, silently radiating her strong feelings of displeasure in my general direction."
 
         "She can be quite scary when she wants to be, though thankfully that isn't often."
 
         show shizu cross_angry
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_frown
-        with charachange
+        with persistent.charachange
 
         mi "Hicchan, you make that sound like it's a regular occurrence~…"
 
@@ -5499,7 +5499,7 @@ label a4_lilly:
         hi "Huh… that's really neat."
 
         show lilly basic_cheerful_cas
-        with charachange
+        with persistent.charachange
 
         "She gives a lighthearted grin at my curiosity over it. I have to admit that it appeals to my sense of novelty."
 
@@ -5535,12 +5535,12 @@ label a4_lilly:
         mi "What's up?"
 
         show lilly basic_weaksmile_cas
-        with charachange
+        with persistent.charachange
 
         li "Could you ask Shizune where the attendance records for class 3-2 are? I think they've been moved."
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Okie dokie!"
 
@@ -5565,14 +5565,14 @@ label a4_lilly:
         "Lilly's hand flits over it to check what it is, her fingers feeling out the dots of Braille and confirming it's what she asked for."
 
         show lilly basic_smile_cas
-        with charachange
+        with persistent.charachange
 
         li "Thank you, Misha."
 
         "No reply."
 
         show shizu behind_smile
-        with charachange
+        with persistent.charachange
 
         "No reply, that is, save for an odd grin… no… smile… on Shizune's face."
 
@@ -5609,7 +5609,7 @@ label a4_lilly:
         hi "Good. I can pack up the Brailler and put it away while you do that."
 
         show lilly basic_smileclosed_cas_ss
-        with charachange
+        with persistent.charachange
 
         li "Thank you, Hisao."
 
@@ -5628,81 +5628,81 @@ label a4_lilly:
         hi "Thanks for waiting, you two."
 
         show misha hips_grin_ss
-        with charachange
+        with persistent.charachange
 
         mi "We couldn't just take off without you, Hicchan, you've been a great help!"
 
         show shizu behind_smile_ss
-        with charachange
+        with persistent.charachange
 
         "Shizune nods approvingly, pleased with my efforts."
 
         hi "I guess… that's the last class representative work done and over with, then."
 
         show lilly basic_smile_cas_ss
-        with charachange
+        with persistent.charachange
 
         li "That's right."
 
         show misha perky_sad_ss
-        with charachange
+        with persistent.charachange
 
         mi "I'll miss you, Lilly. I think it was fun working with you."
 
         show lilly basic_weaksmile_cas_ss
-        with charachange
+        with persistent.charachange
 
         li "Thank you, Misha. It's been good working with you… and Shizune."
 
         show shizu basic_normal_ss
-        with charachange
+        with persistent.charachange
 
         "Shizune thinks for a moment before formulating her response. It's not that she often communicates without thinking, quite the opposite, but this time it's even more considered than usual."
 
         show shizu adjust_smug_ss
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha perky_confused_ss
-        with charachange
+        with persistent.charachange
 
         "Misha looks a little surprised before passing on the message."
 
         show misha hips_smile_ss
-        with charachange
+        with persistent.charachange
 
         mi "Shizune says… you'd better do your work over there better than you did it here."
 
         show lilly basic_giggle_cas_ss
-        with charachange
+        with persistent.charachange
 
         "Far from taking offense, Lilly giggles into her hand."
 
         show lilly basic_smileclosed_cas_ss
-        with charachange
+        with persistent.charachange
 
         li "If that's the case, then please tell Shizune to give those still here a little more understanding in the future."
 
         "Competitive until the last. Maybe Shizune and Lilly aren't so different after all."
 
         show shizu behind_smile_ss
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_grin_ss
-        with charachange
+        with persistent.charachange
 
         mi "Shicchan says that she'll be checking to make sure you live up to your end of the promise."
 
         show lilly basic_cheerful_cas_ss
-        with charachange
+        with persistent.charachange
 
         li "Then that's how it will be."
 
         show lilly basic_smile_cas_ss
-        with charachange
+        with persistent.charachange
 
         li "I'd better be off, then. Goodbye, Shizune. Goodbye, Misha."
 
@@ -5728,7 +5728,7 @@ label a4_lilly:
         hi "On top of things as always, aren't you?"
 
         show lilly basic_weaksmile_cas_ss
-        with charachange
+        with persistent.charachange
 
         stop music fadeout 4.0
 
@@ -5758,7 +5758,7 @@ label a4_lilly:
         "All the other students have retreated to their dormitories and homes, only the ruffling of leaves in the breeze making any sound whatsoever."
 
         show ev lilly_touch_cas
-        with charachange
+        with persistent.charachange
 
         "As I draw back, I can see she has dropped her carefully maintained smile."
 
@@ -5807,17 +5807,17 @@ label a4_lilly:
         ha "Lilly! Lilly!"
 
         show lilly basic_oops_cas
-        with charachange
+        with persistent.charachange
 
         li "Ha-Hanako…?"
 
         show hanako emb_downtimid
-        with charachange
+        with persistent.charachange
 
         ha "I'm going to miss you… Lilly…"
 
         show lilly basic_weaksmile_cas
-        with charachange
+        with persistent.charachange
 
         "As expected, she's on the verge of tears. Lilly gently rubs Hanako's hair with her hand in response, then pulls back and gives a warm, reassuring smile."
 
@@ -5833,24 +5833,24 @@ label a4_lilly:
         "Looking beyond Hanako, Akira can be seen getting up from the side of Lilly's bed and scratching her head."
 
         show akira basic_smile
-        with charachange
+        with persistent.charachange
 
         "Her eyes turn from Lilly and Hanako to me, a stilted, weak smile hanging on her face. I try to return a more genuinely happy look, but the result is probably just the same."
 
         show akira basic_boo
-        with charachange
+        with persistent.charachange
 
         aki "So, everything set? Managed to hold back from killing Shizune?"
 
         show lilly basic_giggle_cas
-        with charachange
+        with persistent.charachange
 
         "The comment draws an amused giggle from her sister."
 
         li "Yes, I have everything in order, and yes, I managed not to. Have you packed everything you need?"
 
         show akira basic_smile
-        with charachange
+        with persistent.charachange
 
         aki "Got the two bags right here, but there's still some stuff left at the Hakamichis' home. I can pick that up while we wait there for tomorrow evening's flight, though."
 
@@ -5862,33 +5862,33 @@ label a4_lilly:
         ha "Lilly… will you be okay… over there?"
 
         show lilly basic_smileclosed_cas
-        with charachange
+        with persistent.charachange
 
         li "I'll be all right, I assure you. I'll have Akira looking after me as well, and you know that she's reliable."
 
         show hanako basic_worry
-        with charachange
+        with persistent.charachange
 
         ha "But…"
 
         show lilly basic_smile_cas
-        with charachange
+        with persistent.charachange
 
         li "Don't worry, Hanako. I have your phone number after all, so we can stay in touch. With Akira's help, I could send you things over the Internet as well."
 
         show akira basic_boo
-        with charachange
+        with persistent.charachange
 
         aki "Hey, don't use me just because you won't learn how to use a computer."
 
         show lilly basic_giggle_cas
         show hanako basic_smile
-        with charachange
+        with persistent.charachange
 
         "Hanako and Lilly both giggle briefly, the mood lightening ever so little."
 
         show lilly basic_smileclosed_cas
-        with charachange
+        with persistent.charachange
 
         li "That goes for you too though, Hisao. I promise I'll contact you once I'm in Scotland."
 
@@ -5915,12 +5915,12 @@ label a4_lilly:
         "Well, it's not as if her comment on my knowledge is off the mark. I've never really taken an interest in them."
 
         show akira basic_resigned_ni
-        with charachange
+        with persistent.charachange
 
         "She gives a small sigh."
 
         show akira basic_lost_ni
-        with charachange
+        with persistent.charachange
 
         aki "She's been good. Pity I have to part with it tomorrow, just like the summerhouse. You guys were the last to visit it before it changed hands."
 
@@ -5940,24 +5940,24 @@ label a4_lilly:
         "It's a depressing sight."
 
         show akira basic_resigned_ni
-        with charachange
+        with persistent.charachange
 
         aki "So… I guess this is it."
 
         show lilly basic_reminisce_cas_ni
-        with charachange
+        with persistent.charachange
 
         li "Indeed."
 
         "Although the time for everyone to say their farewells is now, nobody really wants to take the first step. It's as if the longer nobody speaks, the better the chances of them simply not leaving."
 
         show hanako emb_downsad_ni
-        with charachange
+        with persistent.charachange
 
         ha "Lilly… do you really have to go?"
 
         show lilly basic_concerned_cas_ni
-        with charachange
+        with persistent.charachange
 
         li "I'm sorry, Hanako. I won't be leaving you forever, though; I can still call you. Hisao will still be here as well."
 
@@ -5966,45 +5966,45 @@ label a4_lilly:
         "After spending so long without anyone to call family, it must be excruciating to have to say goodbye to the one person that was as close to a mother as anyone could have been in her life."
 
         show lilly basic_sad_cas_ni
-        with charachange
+        with persistent.charachange
 
         "Lilly lets out a long, sad breath. All Akira and I can really do is stand by quietly on the sidelines, since the only person that can solve this would be Lilly herself."
 
         "Eventually, Lilly pulls her arm from Hanako's grip and holds both of her shoulders gently, a much more decisive way of address than I've ever seen Lilly take with her."
 
         show lilly basic_reminisce_cas_ni
-        with charachange
+        with persistent.charachange
 
         li "Hanako, remember when we first met?"
 
         show lilly basic_weaksmile_cas_ni
-        with charachange
+        with persistent.charachange
 
         li "When you entered my room for the first time after overhearing my consoling of a friend, you didn't say a single word for the entire night. Even as I poured you tea and talked, you sat silently and simply listened to what I said."
 
         li "It took many quiet meetings like that before you began to open up to me, but as you began to, I felt some of the happiest moments I've ever felt."
 
         show lilly basic_sleepy_cas_ni
-        with charachange
+        with persistent.charachange
 
         li "I didn't become your friend because I pitied you, Hanako. I became your friend because I knew you were hiding not just from me, but from everyone."
 
         li "Your ambitions, personality, interests, tastes… I didn't know any of them, and neither did anybody else."
 
         show lilly basic_weaksmile_cas_ni
-        with charachange
+        with persistent.charachange
 
         li "As you showed yourself to me though, I began to realize the person that you were, and became sure that our meeting was a very special moment."
 
         show hanako emb_blushtimid_ni
-        with charachange
+        with persistent.charachange
 
         ha "But I…"
 
         "Lilly cuts her words short as she brings her hand to Hanako's head and brushes her bangs to the side, gently pressing her lips to Hanako's forehead."
 
         show lilly basic_smile_cas_ni
-        with charachange
+        with persistent.charachange
 
         "As she pulls her head back, leaving Hanako all but speechless and her eyes moist, Lilly beams a wide smile."
 
@@ -6013,17 +6013,17 @@ label a4_lilly:
         li "You are a very dear friend, and someone whom I love very much. Just like Hisao, I will never forget you for as long as I live."
 
         show lilly basic_smileclosed_cas_ni
-        with charachange
+        with persistent.charachange
 
         li "I may be leaving, but you have your own life here to lead. Just as I do, you have your own friends and hobbies, and your own hopes after graduation. I want you to devote yourself to them, even after I'm not around any more."
 
         show lilly basic_smile_cas_ni
-        with charachange
+        with persistent.charachange
 
         li "That is why I think you will be okay. Because you are your own self, with your own life. You yourself proved that to me."
 
         show hanako emb_downtimid_ni
-        with charachange
+        with persistent.charachange
 
         "Hanako lowers her head in embarrassment, but nods as she does so."
 
@@ -6032,39 +6032,39 @@ label a4_lilly:
         ha "I know I have to say goodbye… I know you have to go your own way…"
 
         show hanako emb_smile_ni
-        with charachange
+        with persistent.charachange
 
         ha "But… thank you, Lilly. For everything."
 
         show lilly basic_reminisce_cas_ni
-        with charachange
+        with persistent.charachange
 
         li "Thank you, Hanako. Will you be okay?"
 
         "There are a few seconds of silence before the answer comes."
 
         show hanako cover_smile_ni
-        with charachange
+        with persistent.charachange
 
         ha "I will."
 
         show lilly basic_smile_cas_ni
-        with charachange
+        with persistent.charachange
 
         "Lilly smiles, undoubtedly at least partly in relief."
 
         show lilly basic_smileclosed_cas_ni
-        with charachange
+        with persistent.charachange
 
         li "That makes me very happy, then. Goodbye."
 
         show hanako basic_bashful_ni
-        with charachange
+        with persistent.charachange
 
         ha "Goodbye… Lilly."
 
         show lilly basic_weaksmile_cas_ni
-        with charachange
+        with persistent.charachange
 
         li "And farewell to you as well, Hisao."
 
@@ -6078,7 +6078,7 @@ label a4_lilly:
         "Her left hand slowly and daintily reaches towards my face, taking my cheek in her palm."
 
         show lilly basic_smile_cas_close_ni
-        with charachange
+        with persistent.charachange
 
         "For a while she simply holds my face, her fingers just slightly moving to take in its contours. Usually her hand would be warm when doing such a thing, but the night air's given her skin a cool edge."
 
@@ -6089,19 +6089,19 @@ label a4_lilly:
         hi "I hope you have a long and happy life, Lilly, no matter where you might go."
 
         show lilly basic_weaksmile_cas_close_ni
-        with charachange
+        with persistent.charachange
 
         li "Thank you. I'll make sure to."
 
         "She takes a long, trembling breath before turning slightly towards Akira's direction."
 
         show lilly back_sad_cas_close_ni
-        with charachange
+        with persistent.charachange
 
         li "Akira…"
 
         show akira basic_lost_ni
-        with charachange
+        with persistent.charachange
 
         aki "Okay."
 
@@ -6121,17 +6121,17 @@ label a4_lilly:
         "The noise of Akira opening the passenger door for Lilly brings me out of my thoughts, her hand waving back as Lilly gets in."
 
         show akira basic_smile_ni
-        with charachange
+        with persistent.charachange
 
         aki "Seeya guys! Take care of yourselves!"
 
         show lilly basic_weaksmile_cas_ni
-        with charachange
+        with persistent.charachange
 
         li "Goodbye Hanako, goodbye Hisao!"
 
         show hanako cover_smile_ni
-        with charachange
+        with persistent.charachange
 
         "Hanako's hand quickly shoots up, her face brightened by her enthusiastic farewell."
 
@@ -6171,7 +6171,7 @@ label a4_lilly:
         "All I can do in response to her quiet, mournful goodbye is to place a hand on her shoulder."
 
         show hanako basic_distant_close_ni
-        with charachange
+        with persistent.charachange
 
         "She looks at me for a few moments before looking back down the hill, secure in the knowledge that I'm still around for her."
 
@@ -6316,7 +6316,7 @@ label a4_lilly:
         "The two of us look up at the awkwardly fidgeting figure in front of us. Some things never change."
 
         show yuuko worried_up_ss
-        with charachange
+        with persistent.charachange
 
         yu "It's getting close to closing time, so um…"
 
@@ -6357,21 +6357,21 @@ label a4_lilly:
         hi "She's got a lot more confidence in herself these days, though."
 
         show yuuko smile_down_ss
-        with charachange
+        with persistent.charachange
 
         yu "I don't know her as well as you do, but I think I agree. It's nice to see her talking to people here; she never used to do that before."
 
         hi "Hey, Yuuko… you know about Lilly's leaving, right?"
 
         show yuuko worried_down_ss
-        with charachange
+        with persistent.charachange
 
         yu "She told me herself a few days ago. It must be hard, leaving everyone behind like she is."
 
         "She quickly looks back to me after she says this, probably remembering that I went to her for advice on the relationship between Lilly and me before."
 
         show yuuko worried_up_ss
-        with charachange
+        with persistent.charachange
 
         yu "Are you going to be okay?"
 
@@ -6382,7 +6382,7 @@ label a4_lilly:
         "Yuuko appears to think for a while, absentmindedly scrunching her face up in a variety of creative ways as she does so."
 
         show yuuko worried_down_ss
-        with charachange
+        with persistent.charachange
 
         yu "I don't think I really know her well enough to make that kind of judgment."
 
@@ -6395,14 +6395,14 @@ label a4_lilly:
         hi "There's just so much stuff happening at once that I have no control over… it feels like I'm being swamped."
 
         show yuuko neutral_down_ss
-        with charachange
+        with persistent.charachange
 
         yu "I think everyone goes through times like that."
 
         yu "What's important is to concentrate on what you can do, rather than what you can't do. At least, that's how I see it."
 
         show yuuko smile_down_ss
-        with charachange
+        with persistent.charachange
 
         yu "If I didn't think like that, I don't think I'd be able to manage my life as it is."
 
@@ -6416,7 +6416,7 @@ label a4_lilly:
 
         show yuuko closedhappy_down_ss:
             ease 0.5 ypos 1.2
-        with charachange
+        with persistent.charachange
 
         pause 0.2
 
@@ -6638,26 +6638,26 @@ label a4_lilly:
         hi "I need to talk to Lilly, just one last time. Are they still here?"
 
         show hideaki sad_ni
-        with charachange
+        with persistent.charachange
 
         "The look on his face says everything."
 
         "I failed. I was too late. The one time when I actually needed to act quickly, and…"
 
         show hideaki serious_up_ni
-        with charachange
+        with persistent.charachange
 
         hh "Actually… it's possible…"
 
         hi "What? What is it?"
 
         show hideaki confused_ni
-        with charachange
+        with persistent.charachange
 
         "He's a bit taken aback by my fervor, but I can't help it at this point."
 
         show hideaki normal_ni
-        with charachange
+        with persistent.charachange
 
         hh "They left not long ago; only a few minutes before you arrived, in fact. If you go straight to the airport, you might be able to… Hisao!?"
 
@@ -7225,7 +7225,7 @@ label a4_lilly:
         hi "L… Lilly…?"
 
         show lilly basic_oops_cas
-        with charachange
+        with persistent.charachange
 
         "She stops midstride, her entire body tensing."
 
@@ -7236,7 +7236,7 @@ label a4_lilly:
         hi "I thought you were…"
 
         show lilly basic_sad_cas
-        with charachange
+        with persistent.charachange
 
         "Lilly takes one tentative step forward, then another, as if she were holding herself back."
 
@@ -7301,12 +7301,12 @@ label a4_lilly:
         "She wipes her eyes with the back of her hand, returning more to her old self as the rush of emotions wears off."
 
         show lilly basic_reminisce_cas_close
-        with charachange
+        with persistent.charachange
 
         li "Why did you run after me, Hisao?"
 
         show lilly basic_concerned_cas_close
-        with charachange
+        with persistent.charachange
 
         "I move to respond, but notice her face tightening."
 
@@ -7317,7 +7317,7 @@ label a4_lilly:
         hi "I just wanted to say that I'm sorry."
 
         show lilly basic_surprised_cas_close
-        with charachange
+        with persistent.charachange
 
         li "Sorry?"
 
@@ -7328,21 +7328,21 @@ label a4_lilly:
         hi "Even if my body may be like this, I want to help you, Lilly; to be there when you need someone."
 
         show lilly basic_weaksmile_cas_close
-        with charachange
+        with persistent.charachange
 
         li "But you always were there, Hisao…"
 
         hi "Why did you want to go to Scotland, Lilly?"
 
         show lilly basic_sleepy_cas_close
-        with charachange
+        with persistent.charachange
 
         li "Why…? I told you before: because Akira was going, and because of my family's summons to their home."
 
         hi "Why didn't you say that you wanted to go?"
 
         show lilly basic_oops_cas_close
-        with charachange
+        with persistent.charachange
 
         li "I—"
 
@@ -7361,7 +7361,7 @@ label a4_lilly:
         hi "That's why I can't watch you just throw everything away like this. I never want you to go through what I did. I would do anything to stop that."
 
         show lilly basic_weaksmile_cas_close
-        with charachange
+        with persistent.charachange
 
         li "You can be quite steadfast when you want to be, can't you?"
 
@@ -7370,7 +7370,7 @@ label a4_lilly:
         "My weak smile drops, though, as the IV in my arm digs in a little. It's a harsh reminder of my tether to my condition."
 
         show lilly basic_concerned_cas_close
-        with charachange
+        with persistent.charachange
 
         "Lilly's face tenses as I let out a small gasp of pain, immediately making me wish I'd stifled it better. All I can do is sigh in defeat."
 
@@ -7385,32 +7385,32 @@ label a4_lilly:
         "The feeling of Lilly's warm, soft hand moving over my left cheek makes me lift my head up, her smile gentle and warm as she touches me."
 
         show lilly basic_smileclosed_cas_close
-        with charachange
+        with persistent.charachange
 
         li "I think that is something very natural for you to say. You were always so sincere and self-conscious."
 
         show lilly basic_smile_cas_close
-        with charachange
+        with persistent.charachange
 
         li "You were also reserved and mild-mannered, and patient to a fault with Hanako, yet curious about everything and everyone."
 
         show lilly basic_weaksmile_cas_close
-        with charachange
+        with persistent.charachange
 
         li "When I said I missed you while I was with my family, I wasn't lying or exaggerating. The thought of you was never far from my mind, and helped me through that time."
 
         show lilly basic_reminisce_cas_close
-        with charachange
+        with persistent.charachange
 
         li "That's why I was so confused about what to do when my family summoned me. Even after I thought I had made my decision, you tried your hardest to challenge me about it."
 
         show lilly basic_weaksmile_cas_close
-        with charachange
+        with persistent.charachange
 
         li "I didn't confess to you out of pity or believing you were somehow different from what you are. I confessed because I never want to lose you, and want you to always be a part of my life, no matter what might change."
 
         show lilly basic_smileclosed_cas_close
-        with charachange
+        with persistent.charachange
 
         li "You are a very beautiful person, Hisao. Your heart changes none of that, so please, don't apologize for yourself any more."
 
@@ -7431,7 +7431,7 @@ label a4_lilly:
         hi "But… I think I can at least take you to next year's Tanabata festival, to make up for making you miss this year's."
 
         show lilly basic_emb_cas_close
-        with charachange
+        with persistent.charachange
 
         "Lilly's expression is one of surprise, though I can't say I blame her."
 
@@ -7440,7 +7440,7 @@ label a4_lilly:
         hi "I've got a pretty good memory. Sometimes."
 
         show lilly basic_giggle_cas_close
-        with charachange
+        with persistent.charachange
 
         "She raises her head a little and takes her hand from my cheek, giving a small, amused giggle. I smile absentmindedly at how earnest it is, almost girlish in its lightness."
 
@@ -7452,7 +7452,7 @@ label a4_lilly:
         "It feels like I'm seeing her for the first time, the sun from the window glowing behind her just as it did when I first walked into that room where she was drinking tea."
 
         show lilly basic_smile_cas
-        with charachange
+        with persistent.charachange
 
         li "Very well then. Shall we make it a promise between the both of us to go to next year's Tanabata together?"
 
@@ -7461,7 +7461,7 @@ label a4_lilly:
         hi "I promise."
 
         show lilly basic_smileclosed_cas
-        with charachange
+        with persistent.charachange
 
         li "I promise."
 
@@ -7505,7 +7505,7 @@ label a4_lilly:
         "Akira's grin is genuine, but her tone is slightly different from her usual carefree nature."
 
         show akira basic_smile_close
-        with charachange
+        with persistent.charachange
 
         aki "It's good that you're outta the hospital though, Hisao."
 
@@ -7516,19 +7516,19 @@ label a4_lilly:
         call screen doublespeak(hi, _("Yup."), li, _("Yup."))
 
         show akira basic_ending_close
-        with charachange
+        with persistent.charachange
 
         "Akira chuckles in amusement before looking back out to the town below, the trees between the buildings swaying in the wind."
 
         hi "Pity we couldn't go up north for the summer holidays, or get to Tanabata."
 
         show lilly basic_weaksmile_cas_close
-        with charachange
+        with persistent.charachange
 
         li "I wouldn't worry, there's always next time."
 
         show akira basic_smile_close
-        with charachange
+        with persistent.charachange
 
         aki "You'll be graduating before the next summer vacation, won't ya?"
 
@@ -7537,43 +7537,43 @@ label a4_lilly:
         aki "Going to the same one?"
 
         show lilly basic_smile_cas_close
-        with charachange
+        with persistent.charachange
 
         li "Likely. We both have high enough scores to meet the entry requirements."
 
         hi "You sound so sure…"
 
         show lilly basic_cheerful_cas_close
-        with charachange
+        with persistent.charachange
 
         li "Don't worry, you're better than I in most subjects."
 
         hi "I guess we'll work it out in due time."
 
         show akira basic_laugh_close
-        with charachange
+        with persistent.charachange
 
         aki "That's the way. Just enjoy yourselves in Yamaku while you're there."
 
         show lilly basic_weaksmile_cas_close
-        with charachange
+        with persistent.charachange
 
         "Lilly gives a sad sigh at the distinction made between Akira and the two of us."
 
         show lilly basic_reminisce_cas_close
-        with charachange
+        with persistent.charachange
 
         li "Do you really need to go back to Scotland?"
 
         show akira basic_resigned_close
-        with charachange
+        with persistent.charachange
 
         aki "Yeah. The folks are already out for my blood as it is."
 
         hi "You weren't meant to stay this long?"
 
         show akira basic_ending_close
-        with charachange
+        with persistent.charachange
 
         "She gives her trademark wide grin."
 
@@ -7582,24 +7582,24 @@ label a4_lilly:
         hi "You're taking him with you?"
 
         show akira basic_smile_close
-        with charachange
+        with persistent.charachange
 
         aki "Just for a while at first. He's a surprisingly worldly guy, so I think he'll do just fine."
 
         show akira basic_lost_close
-        with charachange
+        with persistent.charachange
 
         "Akira gives an amused snort."
 
         aki "If our father had his way, I'd have gone a long while ago."
 
         show akira basic_laugh_close
-        with charachange
+        with persistent.charachange
 
         aki "I just couldn't pass up an excuse to stay with my favorite little sister a little while longer though."
 
         show lilly basic_smileclosed_cas_close
-        with charachange
+        with persistent.charachange
 
         "She leans right and gives Lilly a tight playful hug, cheering her up considerably."
 
@@ -7608,29 +7608,29 @@ label a4_lilly:
         hi "For what it's worth, I'm in the same boat."
 
         show akira basic_smile_close
-        with charachange
+        with persistent.charachange
 
         aki "Heh, thanks you two. I'll try and come back sometime, don't worry."
 
         show lilly basic_reminisce_cas_close
-        with charachange
+        with persistent.charachange
 
         li "It's a shame that the business keeps you so busy."
 
         show akira basic_lost_close
-        with charachange
+        with persistent.charachange
 
         aki "The place won't run itself, I'm afraid, and I think it's going to be just the same over there."
 
         show akira basic_smile_close
-        with charachange
+        with persistent.charachange
 
         aki "Considering that, I'd better get going."
 
         hi "Have fun over there, Akira."
 
         show akira basic_laugh_close
-        with charachange
+        with persistent.charachange
 
         aki "Haha, will do."
 
@@ -7640,38 +7640,38 @@ label a4_lilly:
         "With a slight grunt, she lifts herself with her hands and stands up, dusting herself off as she does so."
 
         show akira basic_lost_close
-        with charachange
+        with persistent.charachange
 
         aki "Well, I'd better be off. The plane won't wait for me, after all."
 
         "She has a certain unusual wistfulness in the tone of her voice, her eyes firmly planted on her sister."
 
         show lilly basic_weaksmile_cas_close
-        with charachange
+        with persistent.charachange
 
         li "I'll be okay, Akira."
 
         show akira basic_resigned_close
-        with charachange
+        with persistent.charachange
 
         aki "Yeah, I know."
 
         show lilly basic_smileclosed_cas_close
-        with charachange
+        with persistent.charachange
 
         li "Come now, it isn't that bad. You'll be able to see us again soon."
 
         "It is strange to have Lilly reassuring a doubting Akira for once. She really has changed."
 
         show lilly basic_smile_cas_close
-        with charachange
+        with persistent.charachange
 
         li "Goodbye, Akira."
 
         hi "'Bye."
 
         show akira basic_smile_close
-        with charachange
+        with persistent.charachange
 
         "For a second, the dark-clad figure looks down at the both of us, smiling widely. Perhaps more widely than I've ever seen her do before."
 
@@ -7683,7 +7683,7 @@ label a4_lilly:
         "And with that she walks away, one hand held in the air as she goes."
 
         show akira basic_ending
-        with charachange
+        with persistent.charachange
 
         aki "Seeya later, you two!"
 
@@ -7705,7 +7705,7 @@ label a4_lilly:
         "She takes my hand in hers, with a gentle nod and a smile as beautiful and warm as ever."
 
         show lilly basic_cheerful_cas_close
-        with charachange
+        with persistent.charachange
 
         li "Indeed we shall, Hisao."
 
@@ -7759,21 +7759,21 @@ label a4lc1o1:
     hi "And… I guess it also reminded me of what I'd lost."
 
     show lilly basic_emb_che_close
-    with charachange
+    with persistent.charachange
 
     "She gives the information some thought before her face lights up in realization. No doubt she's worked out that it was this letter which had contributed to my angst during that lunch on the rooftop."
 
     "It's a rare sight to see Lilly quite so lost for words, her entire persona is a little deflated from her earlier rapt interest. As charismatic as she is, in the end that isn't any replacement for life nor relationship experience."
 
     show lilly basic_reminisce_che_close
-    with charachange
+    with persistent.charachange
 
     li "Perhaps… it is better she sent it than not."
 
     hi "How's that?"
 
     show lilly basic_weaksmile_che_close
-    with charachange
+    with persistent.charachange
 
     li "It can be difficult to work out how best to communicate with those you haven't met in a long time. All the more so, considering your separate situations."
 

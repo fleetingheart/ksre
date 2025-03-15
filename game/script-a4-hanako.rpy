@@ -63,19 +63,19 @@ label a4_hanako:
         mi "'Afternoon, Hicchan~!"
 
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         hi "'Afternoon Misha, Shizune. You both look as bright as ever."
 
         show shizu basic_normal2
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "Shicchan wants to know if you'd like to have lunch with us today~?"
 
@@ -116,12 +116,12 @@ label a4_hanako:
         "Sweet bread and strawberry milk for Misha, a bowl of ramen and juice for Shizune. I heave a sigh of relief as I put it all down, after the significant difficulty I had carrying it all in addition to my own lunch."
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Thank you~!"
 
         show shizu behind_smile
-        with charachange
+        with persistent.charachange
 
         "Misha claps her hands together before popping open the wrapper and digging into her bread ravenously. Shizune simply gives an appreciative nod before giving her steaming ramen a stir and blowing on it a little to cool it down."
 
@@ -132,51 +132,51 @@ label a4_hanako:
         hi "So, I'm guessing you two had a reason to drag me down here? You two seem to always have an ulterior motive, after all."
 
         show misha sign_confused
-        with charachange
+        with persistent.charachange
 
         mi "What are you faying, Hiffan~! We mon't hafe any uffer mofiffe~."
 
         show shizu basic_angry
-        with charachange
+        with persistent.charachange
 
         "Her mouth is full of sweet bread as she speaks. It's a pretty unpleasant sight. Shizune looks a little grossed out, before going back to eating her ramen."
 
         show shizu basic_normal
         show misha perky_smile
-        with charachange
+        with persistent.charachange
 
         "I wait until Misha swallows what she has in her mouth before speaking again."
 
         hi "You're not buttering me up to make me work with you after school?"
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "Nope!"
 
         hi "Not trying to extract information from me that I might not want to give?"
 
         show misha cross_smile
-        with charachange
+        with persistent.charachange
 
         mi "Nuh-uh!"
 
         hi "…Fine. You win. I guess you just wanted to eat lunch with someone as intelligent and handsome as me, then."
 
         show misha cross_grin
-        with charachange
+        with persistent.charachange
 
         mi "That's it, Hicchan~! You got it~!"
 
         "Shizune looks unimpressed as Misha finishes signing our conversation, and sucks in the last of a long noodle as she signs her own thoughts."
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "Shicchan says you shouldn't be so suspicious of us~. She's just doing her duty as a class representative, after all~."
 
@@ -187,12 +187,12 @@ label a4_hanako:
         "It should be a simple matter of keeping eye contact with her and addressing Shizune instead of Misha in my speech, but when somebody else is doing the talking for her, it's a surprisingly difficult task."
 
         show shizu basic_normal2
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "It's the class representative's job to ensure everybody's doing all right in class, isn't it~?"
 
@@ -201,17 +201,17 @@ label a4_hanako:
         hi "Wait, how is making me get your food ensuring that I'll go well in class?"
 
         show shizu adjust_frown
-        with charachange
+        with persistent.charachange
 
         "Shizune huffs and adjusts her glasses disapprovingly."
 
         show shizu behind_frown
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha cross_frown
-        with charachange
+        with persistent.charachange
 
         mi "So this is the thanks we get for giving you companionship during lunchtime?"
 
@@ -222,22 +222,22 @@ label a4_hanako:
         hi "How did you know that I…?"
 
         show shizu basic_normal
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "Lilly's away and Hanako is absent, and since those two are the only people you hang around with…"
 
         show shizu adjust_smug
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha cross_smile
-        with charachange
+        with persistent.charachange
 
         mi "You also made it kind of obvious to see~…"
 
@@ -249,7 +249,7 @@ label a4_hanako:
 
         show shizu basic_normal
         show misha perky_smile
-        with charachange
+        with persistent.charachange
 
         "The two nod, and we get back to finishing our meals. It feels a little embarrassing to be accompanied just because they noticed I was lonely, but it isn't as if they're strangers either."
 
@@ -260,32 +260,32 @@ label a4_hanako:
         "Does nobody care if she's happy or not? Have they just written off any possibility of helping to make her better? Even Mutou doesn't try to keep her in class, and I'm still not wholly convinced by his reasoning."
 
         show misha perky_smile
-        with charachange
+        with persistent.charachange
 
         mi "Hey Hicchan, is your juice past its expiry date?"
 
         hi "What?"
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "You were pulling a weird face, like this~."
 
         show misha perky_confused
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         "As if it were needed, Misha mimics my own expression. Her exaggeration makes me grimace, though Shizune at least takes some amusement from it."
 
         hi "I was just thinking about Hanako."
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "Oh?"
 
         show shizu basic_happy
-        with charachange
+        with persistent.charachange
 
         "Misha's interest is piqued, and so is Shizune's, once my words are interpreted for her."
 
@@ -293,7 +293,7 @@ label a4_hanako:
 
         show misha perky_sad
         show shizu behind_sad
-        with charachange
+        with persistent.charachange
 
         "The memories of that incident in class are still fresh in their minds. Their faces alone are telling that much."
 
@@ -301,29 +301,29 @@ label a4_hanako:
 
         show misha perky_confused
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         "Misha shrugs and looks to Shizune, who mulls on this for a while."
 
         show shizu basic_normal2
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha perky_smile
-        with charachange
+        with persistent.charachange
 
         mi "The only people she's ever talked to for more than a sentence or two are you and Lilly."
 
         "Shizune may not be able to convey Lilly's name in a derisive tone of speech, but I feel as if it comes through in her sign language. The effect is lost, however, after Misha's interpretation."
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "There are a couple of things we know about Hanako as Student Council members, thanks to the records that pass through our hands, but we can't say anything about what's in them."
 
@@ -334,12 +334,12 @@ label a4_hanako:
         "The only way I'll ever find out is by asking her. I don't know if she'll let me know such things, but if it's for her sake, I have to at least try."
 
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "Don't worry about it, Hicchan~. It happens every year, after all~."
 
@@ -347,7 +347,7 @@ label a4_hanako:
 
         show misha perky_confused
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         "Misha notes my troubled expression, her own usually happy and reassuring face dropping."
 
@@ -360,7 +360,7 @@ label a4_hanako:
         stop music fadeout 4.0
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         "Eventually Misha manages to pick the mood back up through her usual bright and bubbly antics, but my mind remains focused on Hanako."
 
@@ -387,7 +387,7 @@ label a4_hanako:
         hi "Oh. Hi."
 
         show kenji tsun
-        with charachange
+        with persistent.charachange
 
         ke "What's with that response?"
 
@@ -400,40 +400,40 @@ label a4_hanako:
         hi "And how goes the war?"
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "I am preparing. Right now I need money to help with those preparations."
 
         hi "If you want me to loan you money, just say it."
 
         show kenji happy
-        with charachange
+        with persistent.charachange
 
         ke "No man, I'm good."
 
         hi "You're… good? You don't want my money?"
 
         show kenji tsun
-        with charachange
+        with persistent.charachange
 
         ke "Hey man, don't look so surprised. It's insulting."
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "I'm pretty big in the competitive bowling scene, but yesterday, I found some guys who didn't know that."
 
         hi "I'm fairly sure that betting would be against the school rules…"
 
         show kenji tsun
-        with charachange
+        with persistent.charachange
 
         ke "School rules don't matter; this is a war situation. People these days, they have no appreciation for what war means."
 
         hi "So what do you need this money for, dare I ask?"
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "Non-perishable canned food. Building materials; mostly corrugated iron and wood panels. First aid kit. Camping heater. Portable radio. Sleeping bag. Flashlight. Mechanical clock."
 
@@ -442,28 +442,28 @@ label a4_hanako:
         hi "Isn't that a list of materials for a fallout shelter?"
 
         show kenji happy
-        with charachange
+        with persistent.charachange
 
         ke "Ah, so you've read a Protect and Survive booklet. It's good to see someone so knowledgeable about how to protect themselves."
 
         hi "You don't seriously think…"
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "It's a non-zero possibility."
 
         hi "No, I'm pretty sure there's zero possibility of that ever happening."
 
         show kenji happy
-        with charachange
+        with persistent.charachange
 
         "He slowly and dramatically raises an eyebrow. Well, as dramatically as one can raise an eyebrow."
 
         hi "The chance is, I don't know, zero point one to the trillionth place. It's infinitesimal. Besides, where can you build a fallout shelter anyway? Certainly not on campus."
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "It's my summer holiday project while I'm at home. My dad said I can do it."
 
@@ -476,7 +476,7 @@ label a4_hanako:
         "Still, it does make me wonder what his parents are like. Maybe they're totally normal, and Kenji is just an aberration. On the other hand, maybe this kind of paranoia and fearful survivalism runs in the family."
 
         show kenji happy
-        with charachange
+        with persistent.charachange
 
         ke "Hey, want to help me build it? You look like the type to be handy with tools. If I had your help, we could make a really badass bunker instead of just a fallout shelter."
 
@@ -485,7 +485,7 @@ label a4_hanako:
         hi "I'm not, really. I'm busy over the holidays anyway, I'm afraid."
 
         show kenji tsun
-        with charachange
+        with persistent.charachange
 
         ke "A shame. If the feminists ever get a hold of the launch codes, I fear that so few will be prepared."
 
@@ -498,19 +498,19 @@ label a4_hanako:
         hi "My mistake…"
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "My home's pretty far away from any major military sites, so the fallout following a nuclear exchange is a bigger concern than the blast itself."
 
         show kenji happy
-        with charachange
+        with persistent.charachange
 
         ke "What this'll do is keep the dust and other particulates away from me, my food supply, and my sleeping area. It's gotta last me at least fourteen days, though."
 
         hi "Fourteen days is a pretty long time."
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "It is. I need one liter of water a day for drinking, two optimally so that I can wash as well. Toiletry is easy enough; just garbage bags and a bin placed outside the shelter area. Food means canned supplies, of course."
 
@@ -525,7 +525,7 @@ label a4_hanako:
         hi "It sounds like you really know what you're doing."
 
         show kenji happy
-        with charachange
+        with persistent.charachange
 
         ke "Damn right I do."
 
@@ -538,7 +538,7 @@ label a4_hanako:
         hi "It's late. I have stuff to do. I'll think about making a fallout shelter or something, though."
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "Yeah, all right, that's cool. A man has to do what he's gotta do, after all."
 
@@ -549,7 +549,7 @@ label a4_hanako:
         hi "That'd be good. I'll talk to you later about it when I can."
 
         show kenji happy
-        with charachange
+        with persistent.charachange
 
         ke "Cool. Later, dude."
 
@@ -614,7 +614,7 @@ label a4_hanako:
         "I hold out the loose sheets, which she tentatively takes in her hands. The way she moves is devoid of thought. Her posture is slumped, in an unusual manner for someone that's so often tense and wound up."
 
         show hanagown distant_close
-        with charachange
+        with persistent.charachange
 
         "Even her eyes keep looking away from mine, doing their best to avoid eye contact. I move my head a little to try and get a better look, but she just ends up turning away."
 
@@ -623,7 +623,7 @@ label a4_hanako:
         "It feels almost pitiful to put on such a routine 'get well soon' act. I can't think of anything else I could possibly do for her, though."
 
         show hanagown normal_close
-        with charachange
+        with persistent.charachange
 
         "She seems to collect herself a little at the notion… but only a little. Her head remains turned away, but her eyes move towards me."
 
@@ -638,7 +638,7 @@ label a4_hanako:
         hi "Would you like me to stay? I don't have anything urgent to do at the moment, so it wouldn't be any trouble."
 
         show hanagown distant_close
-        with charachange
+        with persistent.charachange
 
         "Her eyes slide away from me, and I lose any hope for an improvement of her mood. I wait for a response, but she doesn't say anything, nor give any kind of gesture. She just stands there, looking away from me."
 
@@ -1061,7 +1061,7 @@ label a4_hanako:
             hi "I… I just wanted to check that you were all right. I thought it would be okay, since you unlocked the door."
 
             show hanagown distant_blush
-            with charachange
+            with persistent.charachange
 
             "Hanako opens her mouth to speak, but quickly closes it again before looking away."
 
@@ -1085,14 +1085,14 @@ label a4_hanako:
             hi "Want to go out somewhere? Going down the hill to town might be a bit much, but we could at least go for a walk outside."
 
             show hanagown worry_blush
-            with charachange
+            with persistent.charachange
 
             ha "Why… do you want to do that?"
 
             hi "I was just thinking that it might help you a bit. You spend so much time inside, your skin's going to get as pale as Lilly's before long."
 
             show hanagown distant_blush
-            with charachange
+            with persistent.charachange
 
             "I snort in amusement, expecting Hanako to do the same, but she gives no reaction; she just goes back to looking at the ground."
 
@@ -1113,7 +1113,7 @@ label a4_hanako:
             hi "There wouldn't be anyone around by now, so you wouldn't have to worry about someone getting in our way. It could be a little date or something."
 
             show hanagown normal
-            with charachange
+            with persistent.charachange
 
             "I give a small chuckle, but catch myself as Hanako stops playing with her hair and grips the bed tightly. Hanako's mouth moves, but try as I might, I can't pick out what she's mumbling."
 
@@ -1128,7 +1128,7 @@ label a4_hanako:
             "I get out of the chair and walk towards the door, turning back to invite Hanako along. Once again, she doesn't respond at all to what I say."
 
             show hanagown distant
-            with charachange
+            with persistent.charachange
 
             ha "I don't…"
 
@@ -1151,7 +1151,7 @@ label a4_hanako:
             hi "I could probably use a bit of exercise anyway, to help wake me up. I've got some homework to get done, and it wouldn't be good to fall asleep halfway through doing it."
 
             show hanagown normal
-            with charachange
+            with persistent.charachange
 
             ha "Then… go."
 
@@ -1162,7 +1162,7 @@ label a4_hanako:
             hi "Well, I'm not really against that, but… are you sure? I swung by to invite you to come with me."
 
             show hanagown distant
-            with charachange
+            with persistent.charachange
 
             ha "I'm fine. You can go."
 
@@ -1185,14 +1185,14 @@ label a4_hanako:
             hi "Come on, you don't have to be like that. I just want to spend some time with you. Lilly and I are worried, so…"
 
             show hanagown worry_blush
-            with charachange
+            with persistent.charachange
 
             ha "You… talked to her?"
 
             hi "Uh… yeah. We were… on the phone, just a little while ago. We're both really worried about you."
 
             show hanagown irritated
-            with charachange
+            with persistent.charachange
 
             "Hanako mumbles to herself again. It's increasingly disturbing."
 
@@ -1357,12 +1357,12 @@ label a4_hanako:
             "When Hanako opens the door, I look at her intently."
 
             show hanagown normal_close
-            with charachange
+            with persistent.charachange
 
             "She looks up momentarily to the plate in my left hand. It's a modest curry dish I quickly made from a packet."
 
             show hanagown distant_close
-            with charachange
+            with persistent.charachange
 
             "Her eyes move to the plate in my right hand, which holds the same thing, before looking down again."
 
@@ -1406,7 +1406,7 @@ label a4_hanako:
             hi "It's kind of nice, eating together like this."
 
             show hanagown worry
-            with charachange
+            with persistent.charachange
 
             "Hanako looks at me quizzically. It's at least a better expression than what she's been wearing this far."
 
@@ -1415,7 +1415,7 @@ label a4_hanako:
             "She hesitates for a couple of seconds, and I find myself grimacing. Did I say something wrong?"
 
             show hanagown smile
-            with charachange
+            with persistent.charachange
 
             "Eventually she smiles and nods. I would normally be very encouraged by this, but her smile looks strange. I can't quite put my finger on why."
 
@@ -1426,7 +1426,7 @@ label a4_hanako:
             hi "You've still got Lilly and me to help you and protect you, and once she gets back, everything will be just like she never left."
 
             show hanagown distant
-            with charachange
+            with persistent.charachange
 
             "Hanako nods again, her expression remaining exactly the same as before. She feels like a different Hanako from the one I'd first seen when I entered her room, and it's vaguely off-putting."
 
@@ -1437,14 +1437,14 @@ label a4_hanako:
             "I briefly wonder what I should say, desperately wanting to avoid another awkward silence or the prospect of leaving her room after so short a time, but Hanako is the one to speak up first."
 
             show hanagown worry_blush
-            with charachange
+            with persistent.charachange
 
             ha "I… I was wondering… since y-you're here…"
 
             "She quickly goes to one of her drawers, and after a minimum of fussing around, pulls out her chessboard."
 
             show hanagown smile
-            with charachange
+            with persistent.charachange
 
             ha "W-would you… like to play…?"
 
@@ -1508,7 +1508,7 @@ label a4_hanako:
         hi "Oh, hey Miki."
 
         show miki grinclosed
-        with charachange
+        with persistent.charachange
 
         mk "Maybe you should just have lunch. I can hear your stomach growling from my desk."
 
@@ -1524,7 +1524,7 @@ label a4_hanako:
         hi "Some math. I have a decent handle on it, but I just wanted to revise."
 
         show miki whistle_close
-        with charachange
+        with persistent.charachange
 
         mk "Oh really? Lemme see that."
 
@@ -1539,35 +1539,35 @@ label a4_hanako:
         "Then again… if Miki's problem worsened, at least she wouldn't have a real possibility of dying."
 
         show miki smile_close
-        with charachange
+        with persistent.charachange
 
         "My attention is refocused as she thumbs through a few pages, skimming their contents. With such casual interest in the subject matter, it's clear by now that she won't be any help."
 
         hi "I'm guessing you're not too interested in this stuff?"
 
         show miki angry_close
-        with charachange
+        with persistent.charachange
 
         mk "Screw math. It's boring as hell."
 
         "She puts the book back in front of me with indifference. Her eyes move to the notebook beside it that I'd been working out practice equations on."
 
         show miki confused_close
-        with charachange
+        with persistent.charachange
 
         mk "Wait, you're actually able to work that stuff out?"
 
         hi "Yeah."
 
         show miki wink_close
-        with charachange
+        with persistent.charachange
 
         mk "Wow. I've never talked to a computer with legs before."
 
         hi "Thanks… I think. At least I'm doing better in this than history."
 
         show miki grin_close
-        with charachange
+        with persistent.charachange
 
         mk "Think it's worth asking that librarian for help? I heard she's shooting for uni."
 
@@ -1576,14 +1576,14 @@ label a4_hanako:
         hi "So what about you? Got anything you're thinking of doing after you graduate?"
 
         show miki grinclosed_close
-        with charachange
+        with persistent.charachange
 
         mk "Me? Nah, not really. Just enjoying it while it lasts."
 
         "She looks a little awkward when asked about her future, and absentmindedly rubs her left forearm. I kind of want to ask her about it, but I don't think I know her well enough to do so."
 
         show miki serious_close
-        with charachange
+        with persistent.charachange
 
         "The conversation peters out, and I lean back in my chair, giving up on the prospect of studying. Miki notices my tired expression and looks oddly serious."
 
@@ -1592,14 +1592,14 @@ label a4_hanako:
         hi "It's that obvious?"
 
         show miki wink_close
-        with charachange
+        with persistent.charachange
 
         mk "You've been glancing at her seat, and you've been pretty quiet. Not too hard to connect the dots."
 
         hi "I'm just worried about her."
 
         show miki serious_close
-        with charachange
+        with persistent.charachange
 
         mk "Yeah, I can see why you would be. She can get… weird, sometimes."
 
@@ -1608,7 +1608,7 @@ label a4_hanako:
         "My face becomes troubled. If I hadn't developed feelings for her, this would be at least a little easier to deal with."
 
         show miki whistle_close
-        with charachange
+        with persistent.charachange
 
         mk "Ah, I mean, no offense. She isn't a bad person, I know that much."
 
@@ -1616,14 +1616,14 @@ label a4_hanako:
             hi "I know, I didn't take it that way. It's just harder to deal with when, well, you know. You have feelings for someone."
 
             show miki serious_close
-            with charachange
+            with persistent.charachange
 
             mk "Yeah, I can imagine that. It's hard to forget something like what happened to her during class, too."
 
             "I wish she hadn't reminded me of that. She just confirmed that it was clearly noticed by others in the room as well."
 
         show miki smile_close
-        with charachange
+        with persistent.charachange
 
         mk "Come on, don't get that down. She's done this before, you've just gotta wait it out."
 
@@ -1651,7 +1651,7 @@ label a4_hanako:
         "Sure enough, it's Hanako. She walks through the door just as she would any normal school day, and begins to move towards her seat in her usual silent and humble manner."
 
         show hanako emb_downtimid
-        with charachange
+        with persistent.charachange
 
         "She looks at me for a moment before blushing and looking away in embarrassment, which makes me realize that I was staring at her. I feel sorry for that, but not doing it is hard after all that's happened."
 
@@ -1667,7 +1667,7 @@ label a4_hanako:
         "The girl sitting on my desk looks to me, grinning."
 
         show miki grin_close
-        with charachange
+        with persistent.charachange
 
         mk "See? Your sweetheart's back already. What did I tell ya?"
 
@@ -1681,7 +1681,7 @@ label a4_hanako:
         "As we talk, someone calls Miki's name from the door. She jumps down from her vantage point on my desk before turning to me."
 
         show miki grin
-        with charachange
+        with persistent.charachange
 
         mk "Gotta go, Hisao. Remember to eat sometime, will ya?"
 
@@ -1707,7 +1707,7 @@ label a4_hanako:
         hi "Hi, Hanako. What's up?"
 
         show hanako emb_downtimid
-        with charachange
+        with persistent.charachange
 
         ha "N-nothing…"
 
@@ -1716,7 +1716,7 @@ label a4_hanako:
         hi "Want to go come with me and grab something from the cafeteria? I'm pretty hungry."
 
         show hanako cover_worry
-        with charachange
+        with persistent.charachange
 
         ha "But… I thought you were studying."
 
@@ -1777,24 +1777,24 @@ label a4_hanako:
         hi "What's the matter?"
 
         show yuukoshang worried_down
-        with charachange
+        with persistent.charachange
 
         yu "I was just wondering… what sort of work are you having so much trouble with?"
 
         hi "Oh. It's just history. I'm fine with science and math, so I'm trying to get my other subjects up to par."
 
         show yuukoshang happy_up
-        with charachange
+        with persistent.charachange
 
         "Yuuko looks positively delighted at this development. I feel like I just chose the right answer on some big quiz show."
 
         show yuukoshang closedhappy_down
-        with charachange
+        with persistent.charachange
 
         yu "Oh! I think I can help you with that!"
 
         show yuukoshang worried_down
-        with charachange
+        with persistent.charachange
 
         yu "Um, if you don't mind… of course…"
 
@@ -1822,28 +1822,28 @@ label a4_hanako:
         "I take my notebook off the top of the textbook and hand it over for her to peruse."
 
         show yuukoshang neutral_up
-        with charachange
+        with persistent.charachange
 
         yu "So you're studying the Edo Period?"
 
         hi "Yeah. I'm not really much good at this, though."
 
         show yuukoshang worried_up
-        with charachange
+        with persistent.charachange
 
         "She takes the textbook and reads a few pages from a random section near the middle for a bit, but the aura of enthusiasm she'd been radiating previously is rapidly sapping away."
 
         hi "I'm guessing this isn't the kind of history you were expecting?"
 
         show yuukoshang worried_down
-        with charachange
+        with persistent.charachange
 
         yu "Unfortunately not. My main area is European history, especially in the classical era. Sorry."
 
         "She looks a bit downcast, but as she carefully closes the book and lays it back down on the table, her face perks up again."
 
         show yuukoshang smile_down
-        with charachange
+        with persistent.charachange
 
         yu "Would you like another cup of coffee?"
 
@@ -1881,36 +1881,36 @@ label a4_hanako:
         "Yuuko takes her previous seat once again as I pick myself up and bring a hand around the mug to check its temperature. It's just a little too hot to drink right away, so I blow on it a little."
 
         show yuukoshang worried_down
-        with charachange
+        with persistent.charachange
 
         yu "It's a shame you don't like history all that much. I sort of guessed you might be more into science."
 
         hi "How so?"
 
         show yuukoshang smile_up
-        with charachange
+        with persistent.charachange
 
         yu "You've nearly read out the science fiction section of the library already. It wasn't hard to notice."
 
         hi "You do have a good point, there. Well, what can I say? You've pegged me just about right."
 
         show yuukoshang neutral_down
-        with charachange
+        with persistent.charachange
 
         hi "You sound like you really take an interest in history though, especially considering how specific you were about it. Do you study in that area, or something? Go on digs overseas?"
 
         show yuukoshang closedhappy_up
-        with charachange
+        with persistent.charachange
 
         "She giggles nervously at the thought."
 
         show yuukoshang neurotic_down
-        with charachange
+        with persistent.charachange
 
         yu "I'd like to visit the Mediterranean sometime and see the old architecture and art for myself, but I don't think I could trust myself to handle such delicate things."
 
         show yuukoshang neutral_down
-        with charachange
+        with persistent.charachange
 
         yu "I'm saving up to formally study it in university, although I also read up on it whenever I have free time outside of work."
 
@@ -1921,7 +1921,7 @@ label a4_hanako:
         "A few minutes pass quietly, Yuuko looking out the window and watching the world go by while I have my coffee and study."
 
         show yuukoshang closedhappy_up
-        with charachange
+        with persistent.charachange
 
         "A movement catches my eye, and I look up to see Yuuko smiling and waving to someone outside. Following her gaze surprisingly reveals the someone to be Hanako."
 
@@ -1953,14 +1953,14 @@ label a4_hanako:
         ha "H-hello…"
 
         show yuukoshang smile_down
-        with charachange
+        with persistent.charachange
 
         yu "Good afternoon."
 
         hi "Hi, Hanako. What's up?"
 
         show hanako emb_smile
-        with charachange
+        with persistent.charachange
 
         ha "N-nothing… just… g-going for a walk… since the weather was nice."
 
@@ -1969,25 +1969,25 @@ label a4_hanako:
         "It's comfortable in here thanks to that, better than the sometimes quite stuffy library. I look to Yuuko, who nods in response."
 
         show yuukoshang neutral_down
-        with charachange
+        with persistent.charachange
 
         yu "It's nice. It's just a shame that summer can't last forever."
 
         show yuukoshang neurotic_up
-        with charachange
+        with persistent.charachange
 
         yu "Oh wait, sorry, um, would you like a drink?"
 
         show hanako basic_smile
-        with charachange
+        with persistent.charachange
 
         show yuukoshang neutral_down
-        with charachange
+        with persistent.charachange
 
         "Hanako shakes her head. Thankfully, it's enough to calm Yuuko back down."
 
         show hanako basic_bashful
-        with charachange
+        with persistent.charachange
 
         ha "H-how are you going with studying?"
 
@@ -1996,24 +1996,24 @@ label a4_hanako:
         hi "Oh yeah, have you talked with Lilly?"
 
         show yuukoshang smile_up
-        with charachange
+        with persistent.charachange
 
         yu "I'm interested too; how is she doing?"
 
         show hanako cover_worry
-        with charachange
+        with persistent.charachange
 
         ha "Sh-she's enjoying it… I think."
 
         "I… think that's all we're going to get out of her. Being around Yuuko is tensing her up."
 
         show yuukoshang closedhappy_down
-        with charachange
+        with persistent.charachange
 
         yu "Ah, it would be so nice to travel to Scotland."
 
         show yuukoshang happy_down
-        with charachange
+        with persistent.charachange
 
         yu "Green fields, castles, lovely small towns, men in kilts, interesting history…"
 
@@ -2038,7 +2038,7 @@ label a4_hanako:
         "Yuuko gives us a quick bow, then hastily skitters over and greets the new customers, an elderly man and his wife. I watch her for a bit, craning my head around to get a good view."
 
         show hanako def_worry
-        with charachange
+        with persistent.charachange
 
         "Hanako is staring at me with her one visible eye."
 
@@ -2049,14 +2049,14 @@ label a4_hanako:
         with charamove
 
         show hanako emb_downtimid
-        with charachange
+        with persistent.charachange
 
         "She averts her head in embarrassment as I turn to make eye contact."
 
         hi "I was just thinking that it's nice to have ambitions for the future. Yuuko was telling me a little about her university aspirations before."
 
         show hanako emb_timid
-        with charachange
+        with persistent.charachange
 
         ha "Oh."
 
@@ -2071,7 +2071,7 @@ label a4_hanako:
         hi "I hope I have more luck with that than this. Damn."
 
         show hanako emb_downtimid
-        with charachange
+        with persistent.charachange
 
         ha "W-what with?"
 
@@ -2082,7 +2082,7 @@ label a4_hanako:
         "I force myself to concentrate on the book, picking up my pen once I have a quick sip of coffee."
 
         show hanako basic_distant
-        with charachange
+        with persistent.charachange
 
         "After a few seconds, Hanako stops silently watching me and leans back in her seat, relaxing as much as she ever seems to be able to, looking out the window to pass the time."
 
@@ -2217,7 +2217,7 @@ label a4_hanako:
         hi "Good evening, Hanako."
 
         show hanako basic_normal_close
-        with charachange
+        with persistent.charachange
 
         "Hanako's head turns a little to see me, but she's still only half there. I put a hand on the table and lower my head to better look at her face, mildly curious about what mood she's in."
 
@@ -2263,7 +2263,7 @@ label a4_hanako:
         "It's only now that I find myself blushing. I've been looking directly into Hanako's eyes from such a short distance with absolutely no regard for her, and she's been looking into mine without shirking away."
 
         show hanako emb_downtimid_close
-        with charachange
+        with persistent.charachange
 
         "I quickly look away while covering my face with my hand. Hanako does just the same."
 
@@ -2278,7 +2278,7 @@ label a4_hanako:
         hi "Hanako… I want to show you something."
 
         show hanako emb_timid_close
-        with charachange
+        with persistent.charachange
 
         "I take a deep breath to prepare myself. This could backfire badly, but I feel as if we've come close enough for this to be okay."
 
@@ -2350,7 +2350,7 @@ label a4_hanako:
         hi "So… I guess you're not the only one that's scarred."
 
         show hanako basic_smile_close
-        with charachange
+        with persistent.charachange
 
         "Hanako smiles a little at the joke, thankfully lightening the atmosphere a bit."
 
@@ -2361,12 +2361,12 @@ label a4_hanako:
         "I'm finding the path I want to follow now, and what Hanako needs to do is to find her own. It's something I can't help her with, and it's something that she needs to overcome her past in order to do."
 
         show hanako basic_distant_close
-        with charachange
+        with persistent.charachange
 
         "Hanako checks her watch. It's getting late by now."
 
         show hanako basic_worry_close
-        with charachange
+        with persistent.charachange
 
         ha "Hisao… um…"
 
@@ -2375,7 +2375,7 @@ label a4_hanako:
         hi "Good night, Hanako."
 
         show hanako basic_bashful_close
-        with charachange
+        with persistent.charachange
 
         ha "G-good night."
 
@@ -2534,22 +2534,22 @@ label a4_hanako:
         hi "Not very fit these days. Don't mind me."
 
         show hanako basic_distant_cas_close
-        with charachange
+        with persistent.charachange
 
         "Hanako nods, but still looks a bit put off."
 
         "Now that I can get a good look at her face, something about her seems a bit different. I'm not sure if my eyes are playing tricks on me, but she looks kind of nice."
 
         show hanako basic_normal_cas_close
-        with charachange
+        with persistent.charachange
 
         show hanako basic_distant_cas_close
-        with charachange
+        with persistent.charachange
 
         "Her eyes move upwards to look at me, before quickly flicking down again. I begin to think this is going to be a rather quiet meeting, but a waitress thankfully arrives and sets down a cup of tea in front of Hanako."
 
         show hanako emb_downtimid_cas_close
-        with charachange
+        with persistent.charachange
 
         "Hanako almost automatically turns slightly away and lowers the side of her head. It's an amazingly practiced motion, and does a good job of its intended purpose - hiding her scars from someone who's leaning in close."
 
@@ -2564,7 +2564,7 @@ label a4_hanako:
         "She gives a nod before almost enthusiastically bouncing inside. Everything is so different in the city, in more ways than one."
 
         show hanako emb_timid_cas_close
-        with charachange
+        with persistent.charachange
 
         "Hanako looks back up towards me and adjusts her hat a little. If she noticed the waitress staring at her scars, she doesn't show it."
 
@@ -2573,7 +2573,7 @@ label a4_hanako:
         hi "I think I'd die from this heat if I had something like coffee right now."
 
         show hanako emb_downtimid_cas_close
-        with charachange
+        with persistent.charachange
 
         "Resting my head in my hand, I look to my quiet companion. She seems taken aback; a very unexpected reaction to my lame joke. An unwelcome emotion bubbles up inside me as I realize her reason why."
 
@@ -2588,7 +2588,7 @@ label a4_hanako:
         "Eventually the same waitress as before bounces up, handing me my drink. I gather change from my pocket and drop it into her waiting hand, before she goes off to attend to another customer. My eyes linger on her as she walks away."
 
         show hanako emb_sad_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "Do you think that she looks… pretty…?"
 
@@ -2597,14 +2597,14 @@ label a4_hanako:
         hi "Nah, can't really say that I'm really into that look. She just looked a lot like an old friend I knew before my heart attack."
 
         show hanako basic_worry_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "Did you… have many friends?"
 
         hi "I had a few at my previous school, though I wouldn't say a lot. The four of us just hung around together after school and stuff."
 
         show hanako basic_normal_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "Do you still talk to them?"
 
@@ -2613,7 +2613,7 @@ label a4_hanako:
         hi "No. We gradually lost contact while I was stuck in the hospital."
 
         show hanako cover_worry_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "You're not… saddened by that? Or angry?"
 
@@ -2626,7 +2626,7 @@ label a4_hanako:
         "That's quite a whitewash of what my feelings were back then. I went through some dark times during my stay at the hospital, and I really am glad that Hanako and Lilly were around to help me after I left it."
 
         show hanako basic_bashful_cas_close
-        with charachange
+        with persistent.charachange
 
         "Hanako blushes as we both get down to enjoying our drinks. She seems to have calmed down since I arrived, and I've started to feel a little better now that I've had the chance to rest a bit, so this is getting to be a nice outing already."
 
@@ -2635,14 +2635,14 @@ label a4_hanako:
         hi "That's right. I was going to ask…"
 
         show hanako emb_timid_cas_close
-        with charachange
+        with persistent.charachange
 
         "Hanako tilts her head quizzically."
 
         hi "I didn't know you had a mobile phone. How'd you get my number?"
 
         show hanako emb_smile_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "L-Lilly… gave it… to me."
 
@@ -2653,7 +2653,7 @@ label a4_hanako:
         hi "Want to exchange email addresses?"
 
         show hanako basic_bashful_cas_close
-        with charachange
+        with persistent.charachange
 
         "Hanako nods, setting down her drink and fishing out her phone from her pocket as I do the same."
 
@@ -2685,19 +2685,19 @@ label a4_hanako:
         "She looks to me with a curious expression, before noticing my phone and giggling. It's one of the very few times I've seen Hanako let her guard down enough to do such a thing."
 
         show hanako cover_bashful_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "I didn't pick it out myself, though."
 
         hi "Oh?"
 
         show hanako basic_bashful_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "It was a present, from Lilly."
 
         show hanako emb_emb_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "I never really needed a phone, and I couldn't afford one. She bought me one for Christmas, though, saying that we could use it to keep in touch."
 
@@ -2708,7 +2708,7 @@ label a4_hanako:
         hi "Lilly's a very special person to you, isn't she?"
 
         show hanako emb_downsmile_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "She is. I… love her… very much."
 
@@ -2717,28 +2717,28 @@ label a4_hanako:
         "We tell each other our email addresses and thumb them into our respective phones, and I get Hanako's number from earlier and put it into my contacts list."
 
         show hanako basic_smile_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "…Done. That makes three, now."
 
         hi "Three?"
 
         show hanako basic_bashful_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "Lilly, Akira and you."
 
         hi "Ah, Akira. She's an interesting person, isn't she?"
 
         show hanako emb_smile_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "She is. She's also really nice, though. Her suit makes her… look a bit cool."
 
         hi "I'm a little surprised you know each other well, what with her job taking up so much of her time."
 
         show hanako emb_downsmile_cas_close
-        with charachange
+        with persistent.charachange
 
         "Hanako looks down a little and takes another sip of her drink. If I wasn't looking intently at her face, I'd miss the small smile perched on it. I guess when she knows so few people, those she knows must mean a lot to her."
 
@@ -2751,28 +2751,28 @@ label a4_hanako:
         hi "I imagine that Lilly would have more than both of us put together, probably."
 
         show hanako basic_smile_cas_close
-        with charachange
+        with persistent.charachange
 
         "Hanako gives a childish giggle, and I can't help smiling. It's a good feeling that she's gotten this comfortable around me; at times like this, I feel like I'm getting close to talking to her true self."
 
         hi "Do you mind if I ask something that I've been wondering?"
 
         show hanako basic_normal_cas_close
-        with charachange
+        with persistent.charachange
 
         "Hanako shakes her head as she takes a last sip of her tea, finishing it off."
 
         hi "You don't seem very jealous of Lilly having lots of friends. Don't you want to make some more friends yourself, or get to know some of hers?"
 
         show hanako cover_worry_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "I'm not jealous. I… don't like people, so I don't mind not having many friends."
 
         "That's… really not the answer that I was expecting. She doesn't look fearful or sad as she says this, but rather, quite serious."
 
         show hanako cover_distant_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "I…"
 
@@ -2785,7 +2785,7 @@ label a4_hanako:
         "She shakes her head."
 
         show hanako emb_timid_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "That was… elementary school."
 
@@ -2798,7 +2798,7 @@ label a4_hanako:
         stop music fadeout 5.0
 
         show hanako emb_downtimid_cas_close
-        with charachange
+        with persistent.charachange
 
         "As I drink, she begins to fiddle with her phone. It looks like she's remembered the people around her again, and begun to tense up."
 
@@ -2813,7 +2813,7 @@ label a4_hanako:
         "I put the now empty cup down, slip my phone into my pocket, and begin to move off, carefully stepping around the bag I'd placed beside my feet. Thankfully, sitting around while talking to Hanako has helped me feel a lot better than before."
 
         show hanako defarms_worry_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "Wait, w-what? Wh-where are you going?"
 
@@ -2832,21 +2832,21 @@ label a4_hanako:
         "As much as I'd have liked to have jogged back, I know full well that I couldn't. I end up walking back to the café, a little blue bag in my right hand."
 
         show hanako defarms_worry_cas_close
-        with charachange
+        with persistent.charachange
 
         play music music_another fadein 3.0
 
         "Hanako notices me quickly, looking about as confused as she did when I left. I deposit the diminutive bag in front of her and sit back down."
 
         show hanako basic_worry_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "Is this…?"
 
         hi "It's for you. You can open it."
 
         show hanako cover_worry_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "B-but…"
 
@@ -2884,28 +2884,28 @@ label a4_hanako:
         "Hanako lowers the phone strap to the table and looks to me once more."
 
         show hanako cover_worry_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "But… it's not… Christmas, or my birthday…"
 
         hi "It's fine, don't worry about it. I just thought it might be nice to have something to decorate your phone with."
 
         show hanako basic_worry_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "I-I don't have anything to give to you…"
 
         hi "I told you, it's fine. Friends can give things to each other like this sometimes, right?"
 
         show hanako emb_downsmile_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "Friends…"
 
         "Hanako lowers her face so much that I can't see her expression. She eventually nods, before taking her phone and fiddling with the strap to attach it properly."
 
         show hanako emb_smile_cas_close
-        with charachange
+        with persistent.charachange
 
         $ renpy.music.set_volume(0.5, 1.0, channel="music")
 
@@ -2938,7 +2938,7 @@ label a4_hanako:
         hi "I guess I'd better be going if I want to catch the next bus back to town. You coming as well?"
 
         show hanako def_worry_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "Ah, y-yes."
 
@@ -3015,7 +3015,7 @@ label a4_hanako:
         "It ends up just being Miki."
 
         show miki smile
-        with charachange
+        with persistent.charachange
 
         show miki:
             ease 1.0 xpos 0.9 alpha 0.0
@@ -3038,12 +3038,12 @@ label a4_hanako:
         "I feel myself freeze as I see Hanako enter. This isn't a rational reaction, but I have no idea about how I should act or what I should say to her."
 
         show hanako emb_timid
-        with charachange
+        with persistent.charachange
 
         "For a moment, our eyes meet."
 
         show hanako emb_downtimid
-        with charachange
+        with persistent.charachange
 
         show hanako:
             ease 1.0 xpos 0.9 alpha 0.0
@@ -3081,7 +3081,7 @@ label a4_hanako:
         "My head whips around in surprise, causing her to retreat in fright."
 
         show hanako emb_downsad_ss
-        with charachange
+        with persistent.charachange
 
         "That was bad timing. If I hadn't been thinking about her at that very moment, I probably wouldn't have been nearly so startled."
 
@@ -3096,7 +3096,7 @@ label a4_hanako:
         hi "What's up?"
 
         show hanako emb_sad_ss
-        with charachange
+        with persistent.charachange
 
         ha "I was just… w-wondering what you were r-reading…"
 
@@ -3105,21 +3105,21 @@ label a4_hanako:
         hi "Just an English textbook."
 
         show hanako basic_normal_ss
-        with charachange
+        with persistent.charachange
 
         ha "H-has it helped?"
 
         hi "It helped me realize that I don't like English, yeah."
 
         show hanako basic_smile_ss
-        with charachange
+        with persistent.charachange
 
         "Hanako gives a small giggle. I may muse on the strange state of our friendship, but I do know that such little gestures are things that I wouldn't see were I not at least some distance closer to her than when we first met."
 
         "I look at her for a moment, thinking about what I do and don't know about her. It's a slightly depressing topic."
 
         show hanako basic_worry_ss
-        with charachange
+        with persistent.charachange
 
         ha "I-is something… wrong?"
 
@@ -3132,14 +3132,14 @@ label a4_hanako:
         hi "Hey Hanako, do you mind if I ask you a question?"
 
         show hanako cover_worry_ss
-        with charachange
+        with persistent.charachange
 
         ha "I-I don't mind."
 
         hi "I… want to know what your life was like. Your life before coming to Yamaku."
 
         show hanako emb_blushing_ss
-        with charachange
+        with persistent.charachange
 
         "She hesitates. I briefly consider backing off, but she seems to be taking the question quite seriously."
 
@@ -3148,7 +3148,7 @@ label a4_hanako:
         "Her answer finally comes in a stiff, almost reluctant nod. She looks far more tense than she did before I'd asked."
 
         show hanako basic_worry_ss
-        with charachange
+        with persistent.charachange
 
         ha "Okay. B-but in return… you have to t-tell me about your life as well…"
 
@@ -3172,7 +3172,7 @@ label a4_hanako:
         hi "The doctors told me I shouldn't go to my old school any more. My parents agreed and persuaded me to apply for Yamaku, even though it would mean living away from them for the first time."
 
         show hanako cover_worry
-        with charachange
+        with persistent.charachange
 
         ha "It must have… been hard for you."
 
@@ -3187,7 +3187,7 @@ label a4_hanako:
         "A small group of chatting girls passes us as we near the stairs, with Hanako pressing herself tightly to my side until we reach the ground floor. She doesn't usually come this close while just walking in the school, so I'm left a little put off."
 
         show hanako emb_downsad_close
-        with charachange
+        with persistent.charachange
 
         ha "The staff at the o-orphanage offered me some options on what I could do. Middle school… hadn't been good, so I thought that Yamaku might be better."
 
@@ -3206,14 +3206,14 @@ label a4_hanako:
         ha "It was… okay. The staff there were nice, and they took care of us. The children there didn't talk to me much, but I didn't really want to talk with them either, so I didn't mind."
 
         show hanako emb_downsmile_ss
-        with charachange
+        with persistent.charachange
 
         ha "The orphanage had a little library, so I started to read to pass the time. The staff didn't mind it, because it made me easier to handle than many of the other children."
 
         hi "You didn't make any friends there?"
 
         show hanako basic_worry_ss
-        with charachange
+        with persistent.charachange
 
         ha "No. I think… my life was on hold… during that time. I knew that, but I didn't mind."
 
@@ -3262,7 +3262,7 @@ label a4_hanako:
         hi "I got good grades, and I played soccer with my friends. I spent a fair bit of time hanging out with them after school as well. Did get teased a bit over my hair, though."
 
         show hanako def_worry_ss
-        with charachange
+        with persistent.charachange
 
         ha "Your hair?"
 
@@ -3271,14 +3271,14 @@ label a4_hanako:
         hi "I'd keep getting tufts and strands that refused to flatten or stay where I wanted them, and my mother wouldn't let me just get my hair shaved. It had a habit of popping out, no matter how much I tried to brush it down."
 
         show hanako basic_smile_ss
-        with charachange
+        with persistent.charachange
 
         ha "It still does, a little."
 
         hi "I was worried I'd get that reply."
 
         show hanako cover_worry_ss
-        with charachange
+        with persistent.charachange
 
         ha "S-sorry, I didn't mean to…!"
 
@@ -3313,7 +3313,7 @@ label a4_hanako:
         hi "Hanako?"
 
         show hanako basic_normal_close
-        with charachange
+        with persistent.charachange
 
         "She moves to answer, but stops herself."
 
@@ -3363,7 +3363,7 @@ label a4_hanako:
         hi "H-Hanako…"
 
         show hanako emb_timid_ss
-        with charachange
+        with persistent.charachange
 
         ha "P-please… don't say anything."
 
@@ -3445,14 +3445,14 @@ label a4_hanako:
         "The kiss only lasts for a fleeting moment before our faces part, our breathing quick and nervous. The feeling of Hanako's mouth lingers, and her eyes remain locked to mine."
 
         show hanagown stockdistant_blush_ss
-        with charachange
+        with persistent.charachange
 
         "Trembling a little myself, I remove my tie and begin undoing the buttons of my shirt. Hanako remains standing where she is, looking at the ground in front of her rather than watching me undress."
 
         "On the one hand, I'm thankful for that. I've always been somewhat self-conscious of my body, but my scarring has made that quite a lot worse. On the other, though, this atmosphere feels very strange."
 
         show hanagown stocknormal_blush_ss
-        with charachange
+        with persistent.charachange
 
         "My shirt falls to the floor in a heap, as untidy and crumpled as Hanako's blouse and skirt. Hanako's entire body visibly flinches at the sound of the zipper on my trousers being pulled down."
 
@@ -3461,7 +3461,7 @@ label a4_hanako:
         "They represent one last hurdle I don't think I can overcome quite yet. Sheer embarrassment stops me, along with not wanting Hanako getting even more worked up. My unease about the situation has also left me needing my own stimulation."
 
         show hanagown stockdistant_blush_ss
-        with charachange
+        with persistent.charachange
 
         hi "Hanako…"
 
@@ -3750,7 +3750,7 @@ label a4_hanako:
         hi "Good morning, Hanako."
 
         show hanako basic_bashful
-        with charachange
+        with persistent.charachange
 
         ha "M… 'morning."
 
@@ -3796,7 +3796,7 @@ label a4_hanako:
         hi "S-see you."
 
         show hanako cover_bashful
-        with charachange
+        with persistent.charachange
 
         ha "Okay."
 
@@ -3876,7 +3876,7 @@ label a4_hanako:
         "I open my mouth to reassure Hanako, but she preempts me."
 
         show hanako def_strain
-        with charachange
+        with persistent.charachange
 
         ha "I… I…"
 
@@ -3916,12 +3916,12 @@ label a4_hanako:
         "I feel a tap on my shoulder. I look up to see Shizune and Misha looking at me, curiosity about the situation written on their faces, mixed with a slightly apologetic look at the idea that they were partially responsible for what just happened."
 
         show shizu basic_normal2_close
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha sign_confused_close
-        with charachange
+        with persistent.charachange
 
         mi "Hicchan, if we can help at all…"
 
@@ -4029,7 +4029,7 @@ label a4_hanako:
         hi "Hanako…"
 
         show hanako emb_downtimid_cas
-        with charachange
+        with persistent.charachange
 
         "We look at each other for a few seconds, before Hanako becomes too embarrassed to maintain eye contact and begins to nervously fiddle with the roughly-cut lock of hair covering the side of her face."
 
@@ -4044,19 +4044,19 @@ label a4_hanako:
         hi "What we did that night… how should I interpret that?"
 
         show hanako cover_worry_cas
-        with charachange
+        with persistent.charachange
 
         "Hanako stops playing with her hair and looks at me, her head cast slightly downwards. She looks ashamed, which is probably a good mirror of how I would look now if I weren't so concerned."
 
         show hanako basic_worry_cas
-        with charachange
+        with persistent.charachange
 
         play music music_innocence fadein 4.0
 
         ha "I thought… you might eventually go away if I was only someone you needed to protect."
 
         show hanako emb_sad_cas
-        with charachange
+        with persistent.charachange
 
         ha "I thought that if I let you do that… you might see me as someone more than that."
 
@@ -4069,7 +4069,7 @@ label a4_hanako:
         "Thick silence hangs in the air, save for the breeze blowing through the trees around us."
 
         show hanako emb_downsad_cas
-        with charachange
+        with persistent.charachange
 
         ha "I knew… you couldn't look at me that way…"
 
@@ -4080,24 +4080,24 @@ label a4_hanako:
         ha "All I ever was to you was… a useless person. Just someone… to protect. Someone like… a child."
 
         show hanako cover_distant_cas
-        with charachange
+        with persistent.charachange
 
         ha "I-I wanted to be more to you than that, but after so long… I… got used to it."
 
         "The tone of her voice is unlike any I've heard her use before. She sounds disgusted. Not at me, but at herself."
 
         show hanako cover_worry_cas
-        with charachange
+        with persistent.charachange
 
         ha "After I came out of my room… I saw that you had started drifting away."
 
         show hanako basic_worry_cas
-        with charachange
+        with persistent.charachange
 
         ha "I felt like I was going to lose you, because… you wanted somebody you could have… that kind of relationship with."
 
         show hanako emb_downtimid_cas
-        with charachange
+        with persistent.charachange
 
         ha "You were more quiet in school than before, and you were getting on so well with Yuuko… I thought… that I might lose you."
 
@@ -4106,39 +4106,39 @@ label a4_hanako:
         hi "But… we're friends, right? I wouldn't just abandon you like that, even if what you're saying was true."
 
         show hanako emb_timid_cas
-        with charachange
+        with persistent.charachange
 
         ha "Friendship… was something I thought I'd given up on. I stopped believing in others… after what happened after the accident…"
 
         show hanako emb_downsad_cas
-        with charachange
+        with persistent.charachange
 
         ha "Before the accident happened, I got on well with people and other children. I didn't have many friends… but I didn't mind, because I treasured the ones that I had."
 
         show hanako emb_sad_cas
-        with charachange
+        with persistent.charachange
 
         ha "Afterwards, though…"
 
         show hanako emb_downsad_cas
-        with charachange
+        with persistent.charachange
 
         ha "I was called names by the others, and teased a lot. It hurt… really deeply. The teachers tried to help, but they couldn't do much, and even many of them recoiled just at the sight of me."
 
         ha "Among those calling me names and teasing me… were the ones that I thought were my closest friends."
 
         show hanako cover_worry_cas
-        with charachange
+        with persistent.charachange
 
         ha "From then on, I believed that it didn't matter if nobody else acknowledged me. All my existence ever did was make people troubled, after all. It was… easier… if I just didn't exist."
 
         show hanako cover_bashful_cas
-        with charachange
+        with persistent.charachange
 
         ha "But after meeting Lilly, and then you…"
 
         show hanako basic_normal_cas
-        with charachange
+        with persistent.charachange
 
         ha "I tried, but I… couldn't make myself think that way again."
 
@@ -4153,7 +4153,7 @@ label a4_hanako:
         hi "Hanako, if you'd just told me…"
 
         show hanako cover_worry_cas
-        with charachange
+        with persistent.charachange
 
         ha "Was I… wrong?"
 
@@ -4170,31 +4170,31 @@ label a4_hanako:
         hi "When you locked yourself in your room, though, I got afraid. I thought you were rejecting me, and it forced me to think a lot about… different things."
 
         show hanako defarms_strain_cas
-        with charachange
+        with persistent.charachange
 
         ha "I wasn't rejecting you!"
 
         "She blurts it out with an almost scared tone to her voice, taking me off guard. She quickly becomes embarrassed by her outburst, before clenching her fists and working through what she wants to say in her mind."
 
         show hanako emb_timid_cas
-        with charachange
+        with persistent.charachange
 
         ha "I wouldn't ever do that. Not to you."
 
         show hanako emb_downtimid_cas
-        with charachange
+        with persistent.charachange
 
         ha "Even though I was scared… even though I tried to push you away… you still tried to get closer to me."
 
         ha "I locked myself away because… I was just a burden to you. To Lilly. To everyone."
 
         show hanako emb_sad_cas
-        with charachange
+        with persistent.charachange
 
         ha "E-every birthday was the same. Everyone doing their best to pretend that I mattered. Everyone pretending everything was all right… for that one day of the year."
 
         show hanako emb_downsad_cas
-        with charachange
+        with persistent.charachange
 
         ha "I didn't want to exist, but they wouldn't let me. Even after meeting Lilly… everything was the same. I was as useless as I'd always been, unable to do anything for her, or for myself."
 
@@ -4291,7 +4291,7 @@ label a4_hanako:
         "For a while, we just sit and take our time before talking again to one another. We both need a little time to collect ourselves."
 
         show hanako basic_smile_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "The weather is nice at this time of year."
 
@@ -4313,21 +4313,21 @@ label a4_hanako:
         "Smiling for other people might be a completely normal, everyday thing. For Hanako though… she smiles so rarely and so sincerely, that each and every time she does it, I feel a sense of relief and happiness."
 
         show hanako cover_worry_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "I'm sorry. For… everything."
 
         hi "It's okay. I think we both have a bit to be sorry for."
 
         show hanako emb_timid_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "I know that… I'm too shy. I know you don't want me to be, I don't think I can…"
 
         hi "You can change, Hanako. I know that because, even in the time I've known you, you've already changed. To be honest, just being able to sit here and talk to you like this means that you've changed a lot since we first met."
 
         show hanako emb_downtimid_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "But… I can't be like that for… anyone else. I don't have any plans for after school ends, either…"
 
@@ -4338,7 +4338,7 @@ label a4_hanako:
         hi "And you can depend on me if you feel like you need someone to support you, you know."
 
         show hanako defarms_strain_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "B-but I can't ask that of you…"
 
@@ -4370,7 +4370,7 @@ label a4_hanako:
         hi "Yeah?"
 
         show hanako emb_downtimid_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "I… I think… I don't really understand you."
 
@@ -4391,7 +4391,7 @@ label a4_hanako:
         hi "Is something on your mind? You look restless."
 
         show hanako basic_normal_cas_close
-        with charachange
+        with persistent.charachange
 
         "She slows before stopping completely. When I turn to meet her, she takes a long, deep breath, looking at my face intently. This expression… I saw it once before on her face. Just once, when I accidentally surprised her in her room."
 
@@ -4400,14 +4400,14 @@ label a4_hanako:
         hi "What is it? You don't need to be evasive about it."
 
         show hanako cover_distant_cas_close
-        with charachange
+        with persistent.charachange
 
         ha "I wanted to give you this for a long, long time, but… now that I need to… it's too embarrassing…"
 
         hi "Don't worry. I'll accept it, whatever it is."
 
         show hanako basic_bashful_cas_close
-        with charachange
+        with persistent.charachange
 
         "She gives a sweet, bashful smile, before taking my shoulder in her hand."
 
