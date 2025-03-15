@@ -73,14 +73,14 @@ label a4_emi:
             hi "No, I suppose not."
 
             show nurse neutral
-            with charachange
+            with persistent.charachange
 
             nk "So, what happened?"
 
             hi "Don't you know already?"
 
             show nurse fabulous
-            with charachange
+            with persistent.charachange
 
             nk "Maybe, but I could be bluffing. Perhaps I'd prefer to get your side of the story before I give any advice."
 
@@ -89,7 +89,7 @@ label a4_emi:
             "Nothing about the whole event seems to surprise him, although he does seem surprised when I say that I didn't follow Emi."
 
             show nurse grin
-            with charachange
+            with persistent.charachange
 
             nk "Chose to talk to her mom instead, huh? Smart move, though I guess it didn't work out too well for you in the end."
 
@@ -98,7 +98,7 @@ label a4_emi:
             "The nurse sighs and spreads his hands in a conciliatory gesture."
 
             show nurse fabulous
-            with charachange
+            with persistent.charachange
 
             nk "Frankly, I'm surprised she let them down at all. Emi's had a lot of practice on that score. You probably won't get anything else out of her."
 
@@ -113,12 +113,12 @@ label a4_emi:
             "The nurse gives his enigmatic smile in response and shrugs widely. I think he's enjoying his role a little too much."
 
             show nurse grin
-            with charachange
+            with persistent.charachange
 
             nk "That's the real trick, isn't it? Are you sure you know the right way to approach the subject? I can guarantee that Emi's going to try her hardest to pretend last night didn't happen."
 
             show nurse neutral
-            with charachange
+            with persistent.charachange
 
             nk "It will be painfully awkward for the both of you, but it'll also be a lot safer than trying to ask her for the whole story again. It could go worse, this time."
 
@@ -129,14 +129,14 @@ label a4_emi:
             hi "Of course I'm ready for that! I love her!"
 
             show nurse fabulous
-            with charachange
+            with persistent.charachange
 
             "My outburst gets a raised eyebrow in response."
 
             nk "Well then."
 
             show nurse neutral
-            with charachange
+            with persistent.charachange
 
             nk "Good luck. Let me know how it all turns out."
 
@@ -185,7 +185,7 @@ label a4_emi:
             hi "Oh uh, really?"
 
             show emi basic_happy
-            with charachange
+            with persistent.charachange
 
             "Emi proceeds to make small talk for the rest of the time. I can barely get a word in edgewise, and soon find myself interjecting with the sort of back and forth dialogue that seems to have defined our early relationship."
 
@@ -198,7 +198,7 @@ label a4_emi:
             hi "Hey, Emi. What are you up to after class today? I was thinking we could go somewhere for dinner, or something."
 
             show emi sad_depressed
-            with charachange
+            with persistent.charachange
 
             "Emi looks genuinely remorseful."
 
@@ -260,7 +260,7 @@ label a4_emi:
             hi "Hey, Rin. Where's Emi?"
 
             show rin basic_deadpancontemplation
-            with charachange
+            with persistent.charachange
 
             "In response I get a rather penetrating look from Rin, and something approaching a frown appears on her face."
 
@@ -269,21 +269,21 @@ label a4_emi:
             hi "I think so. She's usually here with you, isn't she?"
 
             show rin basic_awayabsent
-            with charachange
+            with persistent.charachange
 
             rin "I don't know. I have no way of being sure."
 
             hi "I can confirm that she is, in fact, usually here with you when I come up."
 
             show rin basic_deadpannormal
-            with charachange
+            with persistent.charachange
 
             rin "Well she isn't now. Does that worry you?"
 
             hi "Kind of."
 
             show rin basic_deadpancontemplation
-            with charachange
+            with persistent.charachange
 
             rin "Hm."
 
@@ -305,7 +305,7 @@ label a4_emi:
             "That seems to end the conversation, and the point becomes moot anyway because Emi bounds through the door with her usual energy."
 
             show rin basic_deadpan
-            with charachange
+            with persistent.charachange
 
             rin "Hisao is kind of worried about you, Emi. I don't think he can decide, or maybe I just don't believe him, but I think I'm going to go somewhere less awkward now."
 
@@ -321,33 +321,33 @@ label a4_emi:
             "I'm so surprised by Rin's being so suddenly forward about, well, anything at all that I merely watch her head through the door."
 
             show emi basic_shock
-            with charachange
+            with persistent.charachange
 
             "Emi is similarly surprised, and colors slightly crimson as she stares openmouthed at me. It occurs to me that I should probably say something, if only to break the awkward silence that has suddenly descended."
 
             hi "It's because you weren't here yet. I was uh, worried about it."
 
             show emi basic_confused
-            with charachange
+            with persistent.charachange
 
             emi "Why?"
 
             hi "You're usually here, so I was worried that something had happened to you."
 
             show emi sad_grin
-            with charachange
+            with persistent.charachange
 
             emi "This isn't the first time that I've been late, you know. Did you get worried all the other times, too?"
 
             hi "Er, not really."
 
             show emi basic_closedgrin
-            with charachange
+            with persistent.charachange
 
             "Emi seems slightly amused by this. I don't know why, but that kind of pisses me off."
 
             show emi basic_grin
-            with charachange
+            with persistent.charachange
 
             emi "So why was this time an exception?"
 
@@ -358,19 +358,19 @@ label a4_emi:
             hi "Because you've been worrying me since dinner at your house, that's why."
 
             show emi basic_hes
-            with charachange
+            with persistent.charachange
 
             "Well. Now it's out in the open. And Emi's eyes are wide, and she looks like she wants to bolt, but she doesn't."
 
             show emi sad_shy
-            with charachange
+            with persistent.charachange
 
             emi "Ah. Still on that, I see."
 
             hi "What, you think I'm supposed to just forget about it? You threw me out of your house! We've been going on for almost a week pretending it never happened!"
 
             show emi sad_annoyed
-            with charachange
+            with persistent.charachange
 
             emi "I didn't see you bringing it up either, you know."
 
@@ -379,14 +379,14 @@ label a4_emi:
             hi "It's killing me to look at how you look right now, did you know that? Those circles under your eyes and that distracted look in them, and I can't help worrying that I've caused it somehow."
 
             show emi sad_pout
-            with charachange
+            with persistent.charachange
 
             emi "You haven't. Trust me."
 
             hi "Well I haven't helped, either. I keep pushing you to tell me things you aren't ready to tell me; maybe I was wrong to try getting your mother to help me out, but I've been so worried about you that I didn't know what else to do."
 
             show emi sad_depressed
-            with charachange
+            with persistent.charachange
 
             emi "Well, you don't have to worry about me any more, okay? I think it's pretty clear we're not right for each other, so maybe we should just… stop."
 
@@ -397,7 +397,7 @@ label a4_emi:
             hi "You don't want to tell me what's wrong? That's fine, but I won't stop trying to help you, even if it's just standing by you."
 
             show emi sad_angry
-            with charachange
+            with persistent.charachange
 
             emi "Stop saying that!"
 
@@ -421,12 +421,12 @@ label a4_emi:
             "I can see that I've gotten through to her, but she quickly falls back to anger to try and push me away again."
 
             show emi sad_angry
-            with charachange
+            with persistent.charachange
 
             emi "Back on your white charger, Hisao? Gotta help the poor cripple face her emotional problems? What do you know about me, and about what I've already had to face?"
 
             show emi sad_grit
-            with charachange
+            with persistent.charachange
 
             emi "You think two months of learning to walk again was fun? But I did it, and after I did that I had to…"
 
@@ -437,7 +437,7 @@ label a4_emi:
             hi "So I'm not going to help you because I think you need rescuing. I don't want to be a knight rescuing the damsel in distress, but even knights helped each other out, you know. I want to help you, even though I know you can do it on your own."
 
             show emi sad_depressed
-            with charachange
+            with persistent.charachange
 
             "For a moment it looks like Emi's going to break down completely, but she doesn't. Tears run down her face, but she stares at me steadily."
 
@@ -450,7 +450,7 @@ label a4_emi:
             "Had I ever said that before? We've been in a relationship, and it's been pretty obvious that I love her, but did I ever actually speak the words?"
 
             show emi sad_shyblush
-            with charachange
+            with persistent.charachange
 
             emi "What did you say?"
 
@@ -477,7 +477,7 @@ label a4_emi:
             hi "Of course. Maybe this time we can leave together, instead of separately."
 
             show emi sad_grin
-            with charachange
+            with persistent.charachange
 
             "Emi grins, a sudden flash of brightness that seems more genuine than anything I've seen in the past week."
 
@@ -492,12 +492,12 @@ label a4_emi:
             "Emi shakes her head."
 
             show emi sad_depressed
-            with charachange
+            with persistent.charachange
 
             emi "Sorry Hisao, but I'm still helping the track team. Plus, I don't think it would be good if we talked this over tonight. I'm going to be too tired to think properly, and I want to be able to tell you everything without screwing it up."
 
             show emi sad_shy
-            with charachange
+            with persistent.charachange
 
             emi "You can wait, right?"
 
@@ -580,7 +580,7 @@ label a4_emi:
         "Emi is waiting for me as promised, looking a little haggard but otherwise bright and cheerful. Much more so than any previous day this week."
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "Hisao! You're late!"
 
@@ -591,21 +591,21 @@ label a4_emi:
         play music music_emi fadein 2.0
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         "Emi grins back, and it feels like we're finally back where we should be with one another."
 
         "Except now Emi, not just me, wants to take another step forward. Although a part of me worries that she'll back out at the last second."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Hurry up and stretch, Hisao! I don't want to miss the bus!"
 
         hi "The bus?"
 
         show emi sad_grin_gym
-        with charachange
+        with persistent.charachange
 
         if not have_a_minute or not talk_to_her_mom and not _in_replay:
             emi "Yeah, the bus. I want to show you something, and I don't want to be late."
@@ -621,7 +621,7 @@ label a4_emi:
             hi "Early start, huh?"
 
             show emi basic_closedgrin_gym
-            with charachange
+            with persistent.charachange
 
             emi "It's more for my mom's benefit than anything else."
 
@@ -630,7 +630,7 @@ label a4_emi:
             "I unsuccessfully try to guess what Emi has planned, shortly before realizing that it doesn't matter that much to me."
 
         show emi basic_concentrate_gym
-        with charachange
+        with persistent.charachange
 
         play sound sfx_gymbounce
 
@@ -681,29 +681,29 @@ label a4_emi:
         emi "Yeah, I told mom I'd be back for lunch."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         nk "Well, I'll take care of you first, then."
 
         show emi basic_confused_gym
-        with charachange
+        with persistent.charachange
 
         emi "But Hisao's gotta come with me too!"
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         "The nurse raises a single eyebrow at this statement and peers at the two of us searchingly."
 
         nk "Really? Today, huh?"
 
         show emi sad_grin_gym
-        with charachange
+        with persistent.charachange
 
         "Emi's response is a nod, followed by a surprisingly shy grin."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         nk "Well then, we'll make this quick."
 
@@ -728,40 +728,40 @@ label a4_emi:
         hi "Well, Emi seemed in a rush to get through the run, so…"
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Hm, I'm not surprised. Today is rather important to her, you know."
 
         hi "I suspected that could be the case, but I have no idea why that's the case."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "She hasn't told you? Interesting."
 
         hi "So you're not going to tell me either, then."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         nk "No, I'm not. I suspect that Emi has her own plan for explaining today to you, and I don't want to mess with that. You'll find out soon enough, so what's the rush?"
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Now as for your heart, I would take it easy the rest of the day. No spontaneous races or anything like that, got it?"
 
         hi "Got it. She won't have her running legs on anyway, right?"
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         nk "No, but if you think something like that is going to stop her…"
 
         hi "Good point."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "I don't think it'll be much of an issue today of all days, but still."
 
@@ -785,26 +785,26 @@ label a4_emi:
         "Emi, of course, proves me wrong as soon as I reach the front gate, wearing her usual shirt and shorts. So at least I know it's not a terribly formal affair, whatever it is."
 
         show emicas smile
-        with charachange
+        with persistent.charachange
 
         emi "You're early, Hisao."
 
         hi "Not as early as you. Eager, are we?"
 
         show emicas wink_up
-        with charachange
+        with persistent.charachange
 
         "Emi cheekily pokes out her tongue."
 
         show emicas closedsmile
-        with charachange
+        with persistent.charachange
 
         "The bus stop isn't very crowded at this hour, which seems to please Emi, and we end up relaxing a little as we wait. We sit in silence for a while, but I can tell that Emi's trying to work herself up to say something."
 
         "I don't have anything to say myself, so I sit waiting for her to talk. It doesn't take too long."
 
         show emicas awayfrown
-        with charachange
+        with persistent.charachange
 
         emi "So uh, I'm sure you're curious as to why the nurse thought it was so weird for me to be bringing you along today…"
 
@@ -816,38 +816,38 @@ label a4_emi:
         "Emi stops my sentence by placing a finger on my lips."
 
         show emicas frown_close
-        with charachange
+        with persistent.charachange
 
         emi "Don't tempt me, Hisao. I want to tell you this, but I'm just uncertain as to how to go about it. I don't want to keep delaying or deferring, I just want to be able to say it."
 
         hi "So say it."
 
         show emicas neutral_close
-        with charachange
+        with persistent.charachange
 
         emi "You know that it's not going to be that easy for me, Hisao."
 
         hi "So treat it like running. Warm up to it with something small and easy, and go from there. But don't do it too fast, okay? I'm a patient man, I can wait for you to get to it."
 
         show emicas awayfrown_close
-        with charachange
+        with persistent.charachange
 
         "Emi seems to consider my words, weighing them against what is probably a desire to get it over with. I will admit, as much as I keep telling Emi to take her time, I wouldn't mind her getting it over with either."
 
         "But somehow I know that Emi probably needs more time than the bus ride will provide to get it all out, whatever it is."
 
         show emicas frown_close
-        with charachange
+        with persistent.charachange
 
         emi "Yeah, maybe you're right. The bus stop probably isn't the best place for this anyway. But just to make sure that I don't go back on my word, I'll at least say this:"
 
         show emicas awayfrown_close
-        with charachange
+        with persistent.charachange
 
         "She takes a deep breath, lets it out, and after a moment says in a low voice,"
 
         show emicas weaksmile_close
-        with charachange
+        with persistent.charachange
 
         stop music fadeout 1.0
 
@@ -868,7 +868,7 @@ label a4_emi:
         "And why is that the best I can manage as a response?"
 
         show emicas neutral_close
-        with charachange
+        with persistent.charachange
 
         emi "Yeah."
 
@@ -879,7 +879,7 @@ label a4_emi:
         hi "Of course! You know I will."
 
         show emicas weaksmile_close
-        with charachange
+        with persistent.charachange
 
         "Emi smiles wanly, looking a little relieved."
 
@@ -916,7 +916,7 @@ label a4_emi:
         "Emi's mother opens the door and doesn't seem surprised to see me standing next to her daughter. I expect that Emi would have phoned ahead to let her mother know of the change in plans."
 
         show meiko happy
-        with charachange
+        with persistent.charachange
 
         emm "Emi, Hisao, you're just in time! Lunch is just about ready."
 
@@ -928,14 +928,14 @@ label a4_emi:
         hi "As fast as you were going this morning, I doubt there was much of a chance of that."
 
         show meiko serious
-        with charachange
+        with persistent.charachange
 
         emm "I certainly hope she wasn't too much of a bother, Hisao. She tends to get a little paranoid about being on time when food's involved."
 
         hi "I hadn't noticed."
 
         show emicas pout_up
-        with charachange
+        with persistent.charachange
 
         "This earns me a swat on the arm from Emi, who despite the serious nature of our conversation on the bus and the almost brooding quiet walk has quickly become cheerful again."
 
@@ -955,27 +955,27 @@ label a4_emi:
         hi "I skipped breakfast this morning."
 
         show emicas grin
-        with charachange
+        with persistent.charachange
 
         emi "Me too."
 
         show meiko smile
-        with charachange
+        with persistent.charachange
 
         emm "Had to catch the bus, I assume?"
 
         show emicas wink_up
-        with charachange
+        with persistent.charachange
 
         emi "That and I figured you'd make too much food so it wouldn't matter if I skipped breakfast."
 
         show meiko wink
-        with charachange
+        with persistent.charachange
 
         emm "Well, it's good to know that I'm predictable."
 
         show emicas grin_up
-        with charachange
+        with persistent.charachange
 
         "Emi nods enthusiastically, and conversation falls off again as we very nearly clear the table of anything edible. It is a testament to the sheer amount of food on offer that we don't finish everything."
 
@@ -986,14 +986,14 @@ label a4_emi:
         "I lean back in my chair with a sigh and thank Mrs. Ibarazaki for the food."
 
         show meiko happy
-        with charachange
+        with persistent.charachange
 
         emm "I'm glad you liked it, Hisao. Now, has Emi told you where we're going?"
 
         hi "Yeah, sort of. Is it far from here?"
 
         show emicas closedsmile
-        with charachange
+        with persistent.charachange
 
         emi "Not really, but we'll drive there to save time. It closes kind of early."
 
@@ -1013,7 +1013,7 @@ label a4_emi:
         hi "Second thoughts?"
 
         show emicas weaksmile
-        with charachange
+        with persistent.charachange
 
         "Emi smiles tightly at me and shrugs. She's fallen silent again, which probably means that I'm right, and she is starting to regret bringing me along."
 
@@ -1080,78 +1080,78 @@ label a4_emi:
         "After a few moments she turns around, looking surprisingly calm, yet solemn."
 
         show emicas awayfrown
-        with charachange
+        with persistent.charachange
 
         emi "Pink's not actually my favorite color, you know."
 
         hi "Er, what?"
 
         show emicas frown
-        with charachange
+        with persistent.charachange
 
         emi "I'm warming up to it."
 
         hi "Ah."
 
         show emicas neutral
-        with charachange
+        with persistent.charachange
 
         emi "People tend to think that pink's my favorite color. I think it's because I like strawberries, and even though those are red they just assume that pink's the right color for strawberries."
 
         emi "And that it's my favorite color. But it's not. I'm too polite to tell anyone otherwise, of course, and it's not the kind of thing worth getting worried about, but I'll bet even you thought pink was my favorite color."
 
         show emicas weaksmile_up
-        with charachange
+        with persistent.charachange
 
         emi "Blue. That's my favorite color. My mom and dad are the only two who know that, and now you do too."
 
         hi "Thanks for telling me, I think."
 
         show emicas closedsmile
-        with charachange
+        with persistent.charachange
 
         emi "You're welcome."
 
         "There's a pause as she considers what to say next, drawing a quick breath."
 
         show emicas neutral
-        with charachange
+        with persistent.charachange
 
         emi "I can't carry a tune to save my life. I can hum, but actually singing a song is something I've never been able to do. I don't mind, because I'm not a fan of karaoke anyway."
 
         hi "Well that's one potential date idea out the window."
 
         show emicas frown
-        with charachange
+        with persistent.charachange
 
         emi "People all think that I'm a really popular and friendly person, but I only have a few close friends. Probably because I keep everyone in the dark, but I think it's also because I hate the idea of losing a close friend."
 
         show emicas awayfrown
-        with charachange
+        with persistent.charachange
 
         emi "There aren't many people worth the risk."
 
         show emicas frown
-        with charachange
+        with persistent.charachange
 
         emi "I'm terrible at saying goodbye."
 
         emi "I sometimes think that I only run because it's what I used to do with my father."
 
         show emicas neutral
-        with charachange
+        with persistent.charachange
 
         emi "You're not my first boyfriend. I dated a guy for a long while during my second year at Yamaku, but in the end we broke up, because I didn't want to get closer to him. He couldn't live with that distance between us."
 
         "Her rate of speaking increases slightly, as if she's rushing towards a finish line."
 
         show emicas weaksmile
-        with charachange
+        with persistent.charachange
 
         emi "I'm actually one year older than you. Everybody thinks I'm younger because I'm short, but I had to skip one school year because of my accident."
 
         show emicas neutral
-        with charachange
+        with persistent.charachange
 
         emi "They initially thought I was paralyzed when they pulled me out of the wreckage. I'd lost my legs already, but they were afraid that I wouldn't even be able to use what was left of them."
 
@@ -1160,14 +1160,14 @@ label a4_emi:
         emi "My recovery was one of the fastest they'd ever seen, or so they told me. I never found out if they were serious about that or if they told that to all the patients learning to walk again."
 
         show emicas awayfrown
-        with charachange
+        with persistent.charachange
 
         emi "I…"
 
         "She pauses, gathering herself for one last effort."
 
         show emicas sad
-        with charachange
+        with persistent.charachange
 
         emi "Eight years ago today, I lost my legs. And I lost my father as well."
 
@@ -1176,17 +1176,17 @@ label a4_emi:
         hi "I'm so sorry."
 
         show emicas neutral
-        with charachange
+        with persistent.charachange
 
         emi "Don't be. That's what everyone always says, that they're sorry. I hate hearing that. Like anyone could have done anything to change what happened."
 
         show emicas frown
-        with charachange
+        with persistent.charachange
 
         emi "You know the best piece of advice I got? 'These things happen.' I don't even remember who said it, but I guess they didn't have anything better to say."
 
         show emicas sad
-        with charachange
+        with persistent.charachange
 
         emi "But it's true, you know? These things happen, and there's nothing you can do about it. They aren't necessarily planned, and they aren't always bad, and they aren't always good, but they are."
 
@@ -1237,7 +1237,7 @@ label a4_emi:
         hi "What is?"
 
         show emicas closedsmile_close
-        with charachange
+        with persistent.charachange
 
         emi "I thought that the best way to live in the moment was to do it alone. But now, I don't think I'd have it any other way either. I'm glad I met you, Hisao."
 
@@ -1264,12 +1264,12 @@ label a4_emi:
         hi "How are you feeling?"
 
         show emicas awayfrown_close_ss
-        with charachange
+        with persistent.charachange
 
         "Emi shrugs noncommittally."
 
         show emicas frown_close_ss
-        with charachange
+        with persistent.charachange
 
         emi "I'll be fine. Come on, let's go."
 
@@ -1317,12 +1317,12 @@ label a4_emi:
         hi "Sure. Can't guarantee I'll do it, but…"
 
         show emicas closedsmile_close_ss
-        with charachange
+        with persistent.charachange
 
         "Emi giggles and pulls me into a kiss that starts out soft but deepens into something almost desperate."
 
         show emicas smile_close_ss
-        with charachange
+        with persistent.charachange
 
         emi "Stay with me? Please?"
 
@@ -1352,14 +1352,14 @@ label a4_emi:
 
         hide emicas
         show eminude smile_close_ss at center
-        with charachange
+        with persistent.charachange
 
         "She's gotten my shirt off by this point, and I've similarly lifted hers over her head, bra and all. Her shorts come off just as quickly."
 
         "With practiced ease she removes her legs and pulls me onto the side of the bed with her, my hand coming around her smooth shoulder."
 
         hide eminude
-        with charachange
+        with persistent.charachange
 
         "I cast my gaze over her face, down her neck, following the line to the swell of her breasts before I lower my head, planting kisses across her chest, listening to her breath hitch as her hand slides further and further down my chest."
 
@@ -1383,14 +1383,14 @@ label a4_emi:
         hi "Er, yeah. Does that matter?"
 
         show eminude frown_close_ss
-        with charachange
+        with persistent.charachange
 
         emi "Take 'em off, it's weird if you still have them on."
 
         hi "You know, you've still got your socks on too."
 
         show eminude closedsmile_close_ss
-        with charachange
+        with persistent.charachange
 
         emi "Yes, but I don't have my legs on. So it doesn't count."
 
@@ -1439,19 +1439,19 @@ label a4_emi:
         hi "Hmm?"
 
         show eminude closedsmile_close_ss
-        with charachange
+        with persistent.charachange
 
         emi "Thanks for coming with me today."
 
         "I smile and plant a kiss on her head."
 
         show eminude blush_close_ss
-        with charachange
+        with persistent.charachange
 
         hi "Of course. My pleasure."
 
         show eminude closedsmile_close_ss
-        with charachange
+        with persistent.charachange
 
         "Emi snuggles closer, and I can feel her breathing begin to slacken as she begins to drift off to sleep."
 

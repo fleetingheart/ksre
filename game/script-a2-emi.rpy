@@ -55,7 +55,7 @@ label a2_emi:
         hi "Not according to my watch. We both are early, in fact."
 
         show emi basic_closedhappy_gym
-        with charachange
+        with persistent.charachange
 
         emi "Damn. You've got me there."
 
@@ -64,12 +64,12 @@ label a2_emi:
         hi "I'm glad you're actually here. I was afraid that this was a joke or something."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Nah, I'd never make someone get up early for nothing."
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "Plus, Rin owes me 500 yen now. She didn't think you'd actually show up."
 
@@ -100,19 +100,19 @@ label a2_emi:
         "I can't say I was all that active before the hospital stay, though, so maybe I'm just being morose."
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         "Emi giggles as she watches me stretch out."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "No no no Hisao, you've got to hold it for longer than that!"
 
         hi "I'm trying! It kinda hurts a little."
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "Ha! That's because you're out of shape. You've got to get some flexibility in you, like this."
 
@@ -135,24 +135,24 @@ label a2_emi:
         "With Emi's help, I manage to stretch myself out properly."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         "I can't help but notice that when she thinks about how to explain things to me, her mouth scrunches up in concentration."
 
         "It's adorable."
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "Not bad, Hisao. Come on, we'd better start running."
 
         show emi excited_happy_gym
-        with charachange
+        with persistent.charachange
 
         emi "We'll start off with just a mile, okay?"
 
         show emi basic_happy_gym
-        with charachange
+        with persistent.charachange
 
         emi "That's four laps around the track, got it?"
 
@@ -220,7 +220,7 @@ label a2_emi:
         hi "Never… better."
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "Oh really? Maybe I should speed up then, hmm?"
 
@@ -321,7 +321,7 @@ label a2_emi:
         "I feel a vague stab of guilt for being the sort of guy who stares at a girl's chest, but my legs and chest are burning so badly I can't bring myself to care that much."
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "Not bad for a first effort, Hisao."
 
@@ -334,7 +334,7 @@ label a2_emi:
         "It must have been the sprint that did it."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Hey, I've got to get a few sprints in. You should walk around the track to cool down."
 
@@ -347,7 +347,7 @@ label a2_emi:
         "Another triumph of medical science, I suppose."
 
         show emi basic_closedhappy_gym
-        with charachange
+        with persistent.charachange
 
         emi "You should put your hands behind your head. It makes it easier to catch your breath."
 
@@ -410,7 +410,7 @@ label a2_emi:
         hi "Actually, yeah."
 
         show emi sad_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "D'you want to take another lap around with me? I've got to cool down too, you know."
 
@@ -427,7 +427,7 @@ label a2_emi:
         "I do my best to act the gentleman and not look, but the contrast of her skin against her red running shorts is rather arresting."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "So how do you feel, Hisao?"
 
@@ -440,31 +440,31 @@ label a2_emi:
         "It's almost like a glow throughout my body that persists despite the soreness."
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "Yeah, that's the runner's high."
 
         hi "Runner's high?"
 
         show emi basic_hes_gym
-        with charachange
+        with persistent.charachange
 
         emi "Yeah, it has something to do with… adrenaline?"
 
         "Emi thinks for a moment as we walk, trying to remember."
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         "Then she shrugs and grins at me."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "I don't actually remember. It's a good feeling though, isn't it?"
 
         show emi basic_happy_gym
-        with charachange
+        with persistent.charachange
 
         stop music fadeout 0.5
         play sound sfx_heartstop
@@ -480,7 +480,7 @@ label a2_emi:
         play music music_comedy fadein 1.0
 
         show emi excited_laugh_gym
-        with charachange
+        with persistent.charachange
 
         emi "Sorry, sorry! I couldn't resist! You're just too easy!"
 
@@ -489,38 +489,38 @@ label a2_emi:
         "Emi just laughs harder. She takes a hold of my forearm and tilts it, allowing her to get a better view of my watch. Her face changes the moment she sees the time."
 
         show emi basic_shock_gym
-        with charachange
+        with persistent.charachange
 
         emi "Oh no! We'd better get a move on, Hisao!"
 
         show emi basic_closedsweat_gym
-        with charachange
+        with persistent.charachange
 
         emi "Class is in an hour, and I need to shower!"
 
         hi "I should probably do that as well…"
 
         show emi basic_hes_gym
-        with charachange
+        with persistent.charachange
 
         emi "I need to see the nurse, too… maybe he'll write me a note for being late!"
 
         hi "Why do you need to see the nurse?"
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         "Emi points to her prosthetics, as if that would explain everything."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "It's important to check for irritation."
 
         emi "You know, from sweat or friction, or anything."
 
         show emi excited_amused_gym
-        with charachange
+        with persistent.charachange
 
         emi "Normally I only go after practice, but if we're going to be doing these morning runs then I guess I'll see him twice a day."
 
@@ -529,24 +529,24 @@ label a2_emi:
         hi "If it's more convenient for you to run with me at a later time…"
 
         show emi sad_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Don't be silly! I've been meaning to start running in the morning for a while now."
 
         emi "But if I didn't have a partner to run with, I'd be less likely to keep up a routine."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "It's always harder to blow off a commitment if you're going to let someone else down, you know?"
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         emi "So you'll be my running partner for the mornings!"
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "We both need the exercise, so it all works out, don't you think?"
 
@@ -559,7 +559,7 @@ label a2_emi:
         "And she's right. I do need the exercise. Doctor's orders, even."
 
         show emi basic_happy_gym
-        with charachange
+        with persistent.charachange
 
         "Emi waves a quick goodbye to me."
 
@@ -568,33 +568,33 @@ label a2_emi:
         hi "What?"
 
         show emi basic_closedhappy_gym
-        with charachange
+        with persistent.charachange
 
         emi "Lunch! You know, the meal? In the middle of the day? Come have it with us!"
 
         hi "Where?"
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "The rooftop. Rin likes it up there."
 
         hi "When?"
 
         show emi basic_annoyed_gym
-        with charachange
+        with persistent.charachange
 
         emi "Lunchtime, when else? That was a silly question."
 
         hi "Yeah, but I sort of felt the need to ask all three for completeness' sake."
 
         show emi excited_laugh_gym
-        with charachange
+        with persistent.charachange
 
         "Emi laughs and grins. I don't think I've ever seen a girl smile so much before."
 
         show emi excited_happy_gym
-        with charachange
+        with persistent.charachange
 
         emi "Not bad, Hisao. See ya!"
 
@@ -710,14 +710,14 @@ label a2_emi:
         hi "What's that going to accomplish?"
 
         show rin basic_deadpan
-        with charachange
+        with persistent.charachange
 
         rin "Things in the clouds."
 
         hi "Couldn't you just… look at them right-side up?"
 
         show rin basic_deadpanupset
-        with charachange
+        with persistent.charachange
 
         "Rin rolls her eyes in something approaching exasperation."
 
@@ -726,7 +726,7 @@ label a2_emi:
         hi "Is upside down really a new perspective?"
 
         show rin basic_delight
-        with charachange
+        with persistent.charachange
 
         "Ah ha! That caught her off guard. Rin looks pensive."
 
@@ -748,12 +748,12 @@ label a2_emi:
         "She nearly takes the door off the hinges."
 
         show emi basic_hes
-        with charachange
+        with persistent.charachange
 
         emi "Sorry it took me so long! There were a ton of people in line."
 
         show emi basic_grin
-        with charachange
+        with persistent.charachange
 
         show emi at twoleft
         show bg at center
@@ -764,7 +764,7 @@ label a2_emi:
         hi "You buy Rin's lunch for her?"
 
         show emi basic_closedgrin
-        with charachange
+        with persistent.charachange
 
         emi "Sometimes, yeah. I'd have Rin buy my lunch for me in return, but I'm not sure how she'd carry it."
 
@@ -776,7 +776,7 @@ label a2_emi:
         "If Rin's offended by Emi's comment, she doesn't show it. Emi sniffs."
 
         show emi basic_annoyed
-        with charachange
+        with persistent.charachange
 
         emi "How ungrateful of you."
 
@@ -784,26 +784,26 @@ label a2_emi:
 
         show emi basic_closedgrin
         show rin basic_amused
-        with charachange
+        with persistent.charachange
 
         "The two girls stare at one another for a few tense moments before breaking into smiles."
 
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         rin "Hey Emi, do you think being upside down is a new perspective on things?"
 
         "Didn't I already have this conversation?"
 
         show emi basic_hes
-        with charachange
+        with persistent.charachange
 
         "Emi looks thoughtful, apparently giving the question some thought."
 
         "After a deep and profound pause, she speaks."
 
         show emi basic_closedsweat
-        with charachange
+        with persistent.charachange
 
         emi "I have no idea."
 
@@ -812,7 +812,7 @@ label a2_emi:
         stop music fadeout 4.0
 
         show emi excited_happy
-        with charachange
+        with persistent.charachange
 
         emi "Hey Hisao, you're coming to the track meet, right?"
 
@@ -822,12 +822,12 @@ label a2_emi:
 
         show rin basic_absent
         show emi sad_annoyed
-        with charachange
+        with persistent.charachange
 
         emi "Honestly, Hisao, after I went through all the trouble of letting you run with me in the morning, you won't even show up at my track meet?"
 
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         "Wasn't she the one that asked me to run with her?"
 
@@ -839,25 +839,25 @@ label a2_emi:
 
         show emi basic_closedgrin
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         "She beams at me as if I'd just agreed to give her a million dollars."
 
         show emi basic_closedhappy
-        with charachange
+        with persistent.charachange
 
         emi "So you will come after all! That's great!"
 
         "I didn't say that either!"
 
         show rin basic_deadpan
-        with charachange
+        with persistent.charachange
 
         rin "I'll be going too, so I'll make sure he comes, Emi."
 
         show emi basic_grin
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         emi "Good idea, Rin! Maybe we can get some food or something after the meet's over?"
 
@@ -876,73 +876,73 @@ label a2_emi:
         hi "When is it again?"
 
         show emi basic_annoyed
-        with charachange
+        with persistent.charachange
 
         emi "Next week, silly! I just told you a few days ago."
 
         hi "No you didn't."
 
         show emi sad_shy
-        with charachange
+        with persistent.charachange
 
         emi "I forgot? Well, you won't forget to come though, will you?"
 
         hi "Of course I won't! I'll even make a note on a calendar or something!"
 
         show rin basic_lucid
-        with charachange
+        with persistent.charachange
 
         "Rin nods sagely."
 
         show rin basic_deadpancontemplation
-        with charachange
+        with persistent.charachange
 
         rin "That's probably a good idea, you know. Unless time changes its course."
 
         show emi basic_confused
-        with charachange
+        with persistent.charachange
 
         emi "It can do that?"
 
         show rin relaxed_nonchalant
-        with charachange
+        with persistent.charachange
 
         "Rin gives a noncommittal shrug."
 
         show rin negative_spaciness
-        with charachange
+        with persistent.charachange
 
         rin "It hasn't yet, but you never know…"
 
         show emi basic_closedgrin
-        with charachange
+        with persistent.charachange
 
         "This time it's Emi who gives a shrug."
 
         show emi basic_closedhappy
-        with charachange
+        with persistent.charachange
 
         emi "I suppose it can't be helped if it happens."
 
         show rin basic_deadpannormal
-        with charachange
+        with persistent.charachange
 
         rin "Not unless you're a time traveler or something."
 
         hi "You don't actually think that could happen, do you?"
 
         show emi basic_confused
-        with charachange
+        with persistent.charachange
 
         emi "I don't think we do… do we?"
 
         show rin relaxed_nonchalant
-        with charachange
+        with persistent.charachange
 
         "Rin shrugs again. That seems to be her default response to everything."
 
         show rin basic_deadpandelight
-        with charachange
+        with persistent.charachange
 
         rin "I suppose not. But I reserve the right to change my opinion at a moment's notice."
 
@@ -953,46 +953,46 @@ label a2_emi:
         "I wonder if Emi gets this feeling all the time."
 
         show emi basic_closedgrin
-        with charachange
+        with persistent.charachange
 
         "If she does she's not showing it, though. Emi merely nods."
 
         show emi basic_grin
-        with charachange
+        with persistent.charachange
 
         emi "As expected."
 
         show rin basic_deadpanupset
-        with charachange
+        with persistent.charachange
 
         rin "What's that supposed to mean?"
 
         show emi sad_grin
-        with charachange
+        with persistent.charachange
 
         "This time, it's Emi who shrugs."
 
         "It's like she's using Rin's own weapons against her."
 
         show emi excited_proud
-        with charachange
+        with persistent.charachange
 
         emi "Your response is the sort of thing I'd expect from you, that's all."
 
         show rin negative_worried
-        with charachange
+        with persistent.charachange
 
         rin "Am I really that predictable?"
 
         show emi basic_closedgrin
-        with charachange
+        with persistent.charachange
 
         "Emi's smile seems to border on gloating."
 
         emi "Nah, it's just that your unpredictability is pretty predictable."
 
         show rin relaxed_nonchalant
-        with charachange
+        with persistent.charachange
 
         rin "Well that's all right then."
 
@@ -1012,7 +1012,7 @@ label a2_emi:
         emi "Oh no! I needed to stop by my room to pick up my notebook for the next class!"
 
         show rin basic_deadpandelight
-        with charachange
+        with persistent.charachange
 
         rin "Don't you wish you had a time machine now?"
 
@@ -1021,12 +1021,12 @@ label a2_emi:
         "Emi ignores Rin's comment."
 
         show emi basic_hes
-        with charachange
+        with persistent.charachange
 
         emi "Sorry Hisao, but could you make sure our garbage gets thrown away?"
 
         show emi basic_closedsweat
-        with charachange
+        with persistent.charachange
 
         emi "I usually clean up myself, but I've got to run!"
 
@@ -1063,7 +1063,7 @@ label a2_emi:
         hi "Yeah, I decided it was too crowded there."
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         "Misha's grin gets even wider."
 
@@ -1072,40 +1072,40 @@ label a2_emi:
         hi "W… what? What are you talking about?"
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "You were on the roof, right? With both Rin and Emi, no less! You Casanova, you!"
 
         hi "We… we just had lunch, that's all!"
 
         show misha cross_laugh
-        with charachange
+        with persistent.charachange
 
         "Misha bursts into laughter, drawing the attention of several of my classmates."
 
         mi "Wahahaha! You're so adorable when you blush like that, Hicchan!"
 
         show misha cross_grin
-        with charachange
+        with persistent.charachange
 
         "She gives me a conspiratorial wink."
 
         show misha cross_smile
-        with charachange
+        with persistent.charachange
 
         mi "Don't worry, your secret's safe with me."
 
         hi "There's no secret!"
 
         show misha perky_confused
-        with charachange
+        with persistent.charachange
 
         mi "Oh?"
 
         "Misha seems disappointed and then brightens up again."
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Time will tell~!"
 
@@ -1185,7 +1185,7 @@ label a2_emi:
         emi "What are you doing down here, Hisao?"
 
         show emi excited_proud_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "Come to spy on me, have you?"
 
@@ -1198,12 +1198,12 @@ label a2_emi:
         "At the moment, Emi's the only person I can think of who I could visit."
 
         show emi basic_annoyed_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "So I'm your last resort, am I?"
 
         show emi sad_angry_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "Nobody cool around, so I'll just go see Emi, is that what you thought?"
 
@@ -1214,14 +1214,14 @@ label a2_emi:
         hi "Actually, yeah, I guess you are."
 
         show emi sad_annoyed_gym_ss
-        with charachange
+        with persistent.charachange
 
         "Emi pouts, widening her eyes to give the maximum amount of puppy-dog resemblance."
 
         hi "Kidding! I was kidding!"
 
         show emi basic_closedgrin_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "So you are down here to stalk me!"
 
@@ -1236,38 +1236,38 @@ label a2_emi:
         "Emi laughs at this comment."
 
         show emi basic_happy_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "Well, you're not all wrong, I suppose - but you forgot about eating. I do that too, you know."
 
         "I nod, conceding the point."
 
         show emi sad_grin_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "Plus I hang out with Rin sometimes too… so really I might take some effort to stalk."
 
         hi "What do you two do together anyway? You don't seem to have a lot in common."
 
         show emi basic_closedgrin_gym_ss
-        with charachange
+        with persistent.charachange
 
         "She puts her hands on her hips and assumes a superior air."
 
         show emi basic_grin_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "That's what you think. I've got all sorts of hidden hobbies, you know."
 
         hi "Oh really? Like what?"
 
         show emi sad_grin_gym_ss
-        with charachange
+        with persistent.charachange
 
         "Emi puts her head to one side, as if she's trying to remember what it is she does in her free time."
 
         show emi basic_closedgrin_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "Well, Rin and I go out shopping sometimes."
 
@@ -1276,14 +1276,14 @@ label a2_emi:
         hi "Rin comes with you?"
 
         show emi basic_grin_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "We usually swing by the art supply store."
 
         emi "Plus she likes this music store that sells all kinds of weird sounding stuff."
 
         show emi basic_closedhappy_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "She says it helps focus her."
 
@@ -1292,7 +1292,7 @@ label a2_emi:
         hi "I see. Any other hidden hobbies?"
 
         show emi excited_proud_gym_ss
-        with charachange
+        with persistent.charachange
 
         "Emi wags a finger at me."
 
@@ -1309,14 +1309,14 @@ label a2_emi:
         "This comment causes Emi to laugh loudly."
 
         show emi basic_closedhappy_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "Ha! That's the understatement of the year!"
 
         hi "So why? I mean, you're a lot better at conversation and stuff, so I figure you'd hang out with a lot of people, but I think I've only ever seen you with Rin."
 
         show emi sad_annoyed_gym_ss
-        with charachange
+        with persistent.charachange
 
         "Emi seems unusually defensive."
 
@@ -1329,7 +1329,7 @@ label a2_emi:
         "I guess it is because lunch was so strange."
 
         show emi basic_confused_gym_ss
-        with charachange
+        with persistent.charachange
 
         "Emi shrugs, looking for a moment very Rin-ish."
 
@@ -1346,7 +1346,7 @@ label a2_emi:
         play music music_emi fadein 1.0
 
         show emi basic_grin_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "Okay, Rin paints and stuff, right?"
 
@@ -1355,14 +1355,14 @@ label a2_emi:
         "I'm not sure where this is going."
 
         show emi basic_closedgrin_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "Well, I run."
 
         hi "And?"
 
         show emi basic_happy_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "And… that's why we're similar."
 
@@ -1371,7 +1371,7 @@ label a2_emi:
         hi "You lost me."
 
         show emi basic_annoyed_gym_ss
-        with charachange
+        with persistent.charachange
 
         "Emi frowns, as if trying to figure out her answer."
 
@@ -1380,7 +1380,7 @@ label a2_emi:
         hi "Huh?"
 
         show emi sad_grin_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "You know, we follow our passions."
 
@@ -1389,21 +1389,21 @@ label a2_emi:
         emi "Well, sort of. Let me think…"
 
         show emi basic_closedgrin_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "Well, Rin explained it to me once, but I don't know how much of it I followed."
 
         "Not surprising. I think any explanation from Rin would probably confuse anyone."
 
         show emi basic_grin_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "She says we both chase after an extreme."
 
         emi "Like, she's always trying to find a new way to show a particular feeling or something."
 
         show emi sad_grin_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "And I run because of the feeling I get from it."
 
@@ -1412,7 +1412,7 @@ label a2_emi:
         hi "What do you mean 'slowed down by anything?'"
 
         show emi basic_confused_gym_ss
-        with charachange
+        with persistent.charachange
 
         "Emi looks surprised and points to her legs."
 
@@ -1421,12 +1421,12 @@ label a2_emi:
         emi "So we respect each other's determination."
 
         show emi basic_closedhappy_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "And that's why we hang out."
 
         show emi sad_grin_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "I think."
 
@@ -1443,22 +1443,22 @@ label a2_emi:
         hi "So what got you so into running, anyway?"
 
         show emi basic_closedgrin_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "Oh, I've been running since I was really little!"
 
         show emi basic_grin_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "My dad was a runner, and so as soon as I could walk, he started teaching me how to run."
 
         show emi sad_grin_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "It was our father/daughter thing, you know?"
 
         show emi sad_depressed_gym_ss
-        with charachange
+        with persistent.charachange
 
         stop music fadeout 10.0
 
@@ -1469,12 +1469,12 @@ label a2_emi:
         "Did something happen between them?"
 
         show emi basic_shock_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "Man, I don't have a lot of time left."
 
         show emi basic_closedsweat_gym_ss
-        with charachange
+        with persistent.charachange
 
         emi "Sorry, but I've got to get a few more laps in before I go see the nurse!"
 
@@ -1618,7 +1618,7 @@ label a2_emi:
         "I guess I fell asleep after all."
 
         show emi basic_annoyed_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "What are you doing out here? You're going to catch a cold or something!"
 
@@ -1631,7 +1631,7 @@ label a2_emi:
         hi "Couldn't sleep. Watched the sun come up."
 
         show emi basic_confused_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "Sounds like something Rin would say."
 
@@ -1640,12 +1640,12 @@ label a2_emi:
         hi "Is it? I wouldn't know."
 
         show emi basic_grin_gym_close
-        with charachange
+        with persistent.charachange
 
         "Emi grins a little at my (somewhat cranky) response."
 
         show emi basic_closedgrin_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "So, couldn't sleep, eh? Obviously we need to run you harder today!"
 
@@ -1656,7 +1656,7 @@ label a2_emi:
         hi "My mind was just racing, that's all."
 
         show emi basic_confused_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "I don't see the difference. If you run hard enough, your brain will get tired too."
 
@@ -1665,7 +1665,7 @@ label a2_emi:
         "I don't know if my grades will be able to handle me tiring my brain out like that."
 
         show emi basic_closedgrin_gym_close
-        with charachange
+        with persistent.charachange
 
         with vpunch
 
@@ -1683,21 +1683,21 @@ label a2_emi:
         hi "I don't know… should I really be running?"
 
         show emi basic_annoyed_gym
-        with charachange
+        with persistent.charachange
 
         "Emi glares at me."
 
         "Good heavens."
 
         show emi sad_annoyed_gym
-        with charachange
+        with persistent.charachange
 
         emi "What are you talking about? Of course you should be running!"
 
         emi "How else do you expect to work out the kinks?"
 
         show emi basic_annoyed_gym
-        with charachange
+        with persistent.charachange
 
         emi "You've been sleeping on the bleachers, for heaven's sake!"
 
@@ -1730,12 +1730,12 @@ label a2_emi:
         "There's a brief moment where I'm afraid for my life."
 
         show emi basic_closedhappy_gym
-        with charachange
+        with persistent.charachange
 
         "But then she smiles and laughs, shaking her head slowly."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Honestly, you didn't have to deny it so strenuously."
 
@@ -1746,7 +1746,7 @@ label a2_emi:
         hi "So! That's enough stretching, right?"
 
         show emi sad_grin_gym
-        with charachange
+        with persistent.charachange
 
         "Emi gives a casual shrug."
 
@@ -1757,14 +1757,14 @@ label a2_emi:
         hi "Yeah, I feel ready to go."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Same as yesterday, okay?"
 
         emi "We'll just run for a mile at a steady pace."
 
         show emi basic_closedhappy_gym
-        with charachange
+        with persistent.charachange
 
         emi "Don't worry about going really fast, just worry about keeping the pace, got it?"
 
@@ -1773,7 +1773,7 @@ label a2_emi:
         play music music_running fadein 0.5
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         play ambient sfx_emijogging
 
@@ -1872,7 +1872,7 @@ label a2_emi:
         "Her face is a mask of anger that surprises me."
 
         show emi sad_angry_gym
-        with charachange
+        with persistent.charachange
 
         emi "Never say that!"
 
@@ -2117,7 +2117,7 @@ label a2_emi:
         emi "On your feet!"
 
         show emi sad_grin_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "Come on, you'll never catch your breath that way."
 
@@ -2130,17 +2130,17 @@ label a2_emi:
         "I feel terrible, and say so."
 
         show emi basic_closedhappy_gym_close
-        with charachange
+        with persistent.charachange
 
         "Emi laughs."
 
         show emi basic_happy_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "But you finished, didn't you?"
 
         show emi basic_grin_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "You said you couldn't, but you did."
 
@@ -2216,7 +2216,7 @@ label a2_emi:
         hi "What do you mean? I would have stopped if you hadn't yelled at me."
 
         show emi sad_shyblush_gym
-        with charachange
+        with persistent.charachange
 
         "Emi colors a little, seemingly embarrassed about her outburst."
 
@@ -2225,7 +2225,7 @@ label a2_emi:
         emi "Especially about something like this."
 
         show emi sad_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Saying 'I can't go on' is silly when you're obviously going on while you're saying it."
 
@@ -2234,7 +2234,7 @@ label a2_emi:
         hi "What, saying silly things?"
 
         show emi basic_annoyed_gym
-        with charachange
+        with persistent.charachange
 
         "Emi sticks her tongue out at me."
 
@@ -2245,14 +2245,14 @@ label a2_emi:
         "But it does feel pretty good, despite that."
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "Besides, this is one of the hardest days."
 
         hi "What do you mean?"
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Whenever you start a workout, it's difficult the first day, really hard the second day, and then the third day is easier."
 
@@ -2261,12 +2261,12 @@ label a2_emi:
         hi "So this will eventually get really easy, huh?"
 
         show emi basic_closedhappy_gym
-        with charachange
+        with persistent.charachange
 
         emi "Yeah, of course."
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         emi "But then you have to increase the difficulty, or you'll never get ahead."
 
@@ -2275,21 +2275,21 @@ label a2_emi:
         hi "So I'll have to run more than just four laps, huh?"
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "Yep! But not for a while - you'll have to be careful, you know."
 
         "A thought strikes Emi, and her face lights up."
 
         show emi basic_closedhappy_gym
-        with charachange
+        with persistent.charachange
 
         emi "Got it!"
 
         hi "Got what?"
 
         show emi basic_happy_gym
-        with charachange
+        with persistent.charachange
 
         emi "You can come with me to see the nurse! That way you won't fall over dead or anything!"
 
@@ -2298,7 +2298,7 @@ label a2_emi:
         hi "Um… when?"
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Right now, of course! You'll need a shower and everything, right? We don't have much time, then!"
 
@@ -2330,12 +2330,12 @@ label a2_emi:
         "The nurse grins at Emi and seems to completely ignore me."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         nk "You've got plenty of time to take a shower and get to class, you know."
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         nk "There's no need to run through the hallways like that. I could hear you coming a mile away!"
 
@@ -2346,48 +2346,48 @@ label a2_emi:
         "Emi does a passable imitation of remorse."
 
         show emi excited_sad_gym
-        with charachange
+        with persistent.charachange
 
         emi "I'm sorry! I won't ever do it again!"
 
         show nurse grin
         show emi basic_closedhappy_gym
-        with charachange
+        with persistent.charachange
 
         "The nurse and Emi both laugh at some private joke."
 
         show emi basic_grin_gym
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         "Suddenly, it seems that he notices me."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "Ah, hello Hisao."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "What brings you here?"
 
         hi "Well, I've been—{w=.3}{nw}"
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Hisao's officially joined me on my morning runs."
 
         "I start to explain, but Emi cuts me off."
 
         show emi basic_happy_gym
-        with charachange
+        with persistent.charachange
 
         emi "I thought he might need to visit you so that he doesn't die or anything."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         "The nurse raises his eyebrows in mock horror."
 
@@ -2395,7 +2395,7 @@ label a2_emi:
 
         show nurse neutral
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         nk "Well then Hisao, let's have a look at you."
 
@@ -2406,7 +2406,7 @@ label a2_emi:
         "The nurse seems to sense my discomfort, but it only seems to amuse him."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         nk "A bit shy, are we?"
 
@@ -2415,14 +2415,14 @@ label a2_emi:
         nk "Sorry Emi, I tried to get you a free show, but it doesn't seem to have worked."
 
         show emi basic_annoyed_gym
-        with charachange
+        with persistent.charachange
 
         "Emi stiffens slightly and fires a look of annoyance at him."
 
         emi "You're an asshole."
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         "Emi bows to me apologetically."
 
@@ -2438,14 +2438,14 @@ label a2_emi:
         "I begin to stammer that it's not really a big deal, she doesn't have to leave, but she's already out the door, and the nurse is laughing as he watches her go."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "Still got it! Ha!"
 
         hi "I don't follow."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         "He laughs again, like he's in on some joke that's over my head."
 
@@ -2454,7 +2454,7 @@ label a2_emi:
         "That sounds incredibly sinister to me, and it seems as if the nurse realizes that too."
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         nk "Er. That sounded a lot worse than it actually is, come to think of it."
 
@@ -2463,7 +2463,7 @@ label a2_emi:
         nk "No no, you're right. I should fill you in so that you don't get the wrong idea."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "I'm actually relatively new here, you see. I got hired on the same year Emi started going here."
 
@@ -2472,7 +2472,7 @@ label a2_emi:
         "Hold on, what?"
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         nk "We had to amputate her legs after a really nasty car wreck. It nearly killed her, and succeeded—"
 
@@ -2493,14 +2493,14 @@ label a2_emi:
         "There were only so many ways that could have happened, but actually hearing about the facts… it's still a little shocking."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Well, thanks. You're a good kid, Hisao."
 
         nk "I can see why Emi became friends with you."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "She's quite indomitable, you know."
 
@@ -2513,14 +2513,14 @@ label a2_emi:
         "He almost seems proud of her, like a father who watches his daughter win a competition or something."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Hell, she'd probably have done it faster if not for the fact that we wouldn't let her."
 
         hi "Wouldn't let her? Why not?"
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         stop music fadeout 4.0
 
@@ -2531,12 +2531,12 @@ label a2_emi:
         nk "To say nothing of the risk of infection if her legs get cut up and her prosthetics are dirty."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "But enough about that."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         play music music_nurse fadein 2.0
 
@@ -2551,19 +2551,19 @@ label a2_emi:
         "After a few moments he leans back, satisfied."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Well, you sound pretty good to me, Hisao. You didn't have any chest pains while you were running, did you?"
 
         hi "No, not really. I had some trouble catching my breath, though - and my heart was racing by the end, too."
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         "The nurse frowns as I say this, but then shrugs."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "It's probably just because you're out of shape… but if you don't improve, then you should let me know, okay?"
 
@@ -2583,19 +2583,19 @@ label a2_emi:
         stop music fadeout 2.0
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         "The nurse gives me a significant look."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         nk "I was just seducing Hisao, that's all."
 
         play music music_comedy fadein 0.5
 
         show emi sad_annoyed_gym
-        with charachange
+        with persistent.charachange
 
         emi "What!? Come on, what have I told you about seducing my friends?"
 
@@ -2604,7 +2604,7 @@ label a2_emi:
         "Meanwhile, I try hard not to blush at the nurse's innuendo."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "I'll try not to do it again, though I fear young Hisao may be lost to the female gender forever!"
 
@@ -2618,12 +2618,12 @@ label a2_emi:
 
         show nurse grin
         show emi excited_laugh_gym
-        with charachange
+        with persistent.charachange
 
         "I didn't mean to say that out loud, but both the nurse and Emi regard me for a moment before bursting into laughter again."
 
         show emi basic_happy_gym
-        with charachange
+        with persistent.charachange
 
         emi "Told you he was funny, didn't I?"
 
@@ -2631,7 +2631,7 @@ label a2_emi:
 
         show nurse fabulous
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         nk "Well Hisao, you should probably get moving. You still need a shower before class starts, don't you?"
 
@@ -2715,12 +2715,12 @@ label a2_emi:
         emi "Hey, you're coming to my track meet on Sunday, right?"
 
         show emi basic_grin_gym_fb
-        with charachange
+        with persistent.charachange
 
         emi "What am I talking about, of course you are."
 
         show emi sad_grin_gym_fb
-        with charachange
+        with persistent.charachange
 
         emi "Right?"
 
@@ -2731,7 +2731,7 @@ label a2_emi:
         hi "I owe you, right?"
 
         show emi excited_proud_gym_fb
-        with charachange
+        with persistent.charachange
 
         emi "Exactly! So don't forget, okay?"
 
@@ -2800,12 +2800,12 @@ label a2_emi:
         hi "Of course. I said I would, didn't I?"
 
         show rin basic_deadpanamused
-        with charachange
+        with persistent.charachange
 
         rin "That doesn't necessarily imply that you had to follow through."
 
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         rin "Lots of people say things and don't mean them."
 
@@ -2814,7 +2814,7 @@ label a2_emi:
         play music music_soothing fadein 0.5
 
         show rin relaxed_boredom
-        with charachange
+        with persistent.charachange
 
         "Rin shrugs. Seemingly bored with our conversation, she turns on her heel and heads back toward the stands."
 
@@ -2823,14 +2823,14 @@ label a2_emi:
         hi "Why's that?"
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         rin "I didn't think you'd show up."
 
         rin "Emi did."
 
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         rin "So I owe her 500 yen."
 
@@ -2839,7 +2839,7 @@ label a2_emi:
         "Another shrug from my armless companion."
 
         show rin basic_deadpan
-        with charachange
+        with persistent.charachange
 
         rin "I don't think so."
 
@@ -2856,7 +2856,7 @@ label a2_emi:
         rin "Up there."
 
         show rin basic_deadpancontemplation
-        with charachange
+        with persistent.charachange
 
         rin "I came out to see if you'd come."
 
@@ -2883,37 +2883,37 @@ label a2_emi:
         "She's got rather long hair done up in a braid. On seeing Rin, she gives her an oddly familiar-seeming grin."
 
         show meiko happy
-        with charachange
+        with persistent.charachange
 
         emm_ "Well, this is surprising."
 
         show meiko wink
-        with charachange
+        with persistent.charachange
 
         emm_ "I thought you went to get a snack, not a boy."
 
         hi "Huh?"
 
         show rin basic_surprised
-        with charachange
+        with persistent.charachange
 
         rin "A snack?"
 
         show rin relaxed_nonchalant
-        with charachange
+        with persistent.charachange
 
         rin "I wondered why I was down there."
 
         show meiko happy
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         "The woman laughs, again in a way that seems familiar."
 
         "Where have I seen her before?"
 
         show meiko smile
-        with charachange
+        with persistent.charachange
 
         emm_ "Well, I suppose you've always been one to go out for one thing and bring back another."
 
@@ -2922,7 +2922,7 @@ label a2_emi:
         emm_ "I'm Meiko Ibarazaki, Emi's mother."
 
         show meiko happy
-        with charachange
+        with persistent.charachange
 
         emm "Pleased to meet you."
 
@@ -2934,7 +2934,7 @@ label a2_emi:
 
         show rin basic_absent
         show meiko smile
-        with charachange
+        with persistent.charachange
 
         hi "Sorry, I'm Hisao. Hisao Nakai."
 
@@ -2944,40 +2944,40 @@ label a2_emi:
 
         show meiko happy
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         "Another laugh from Emi's mother."
 
         emm "I take it you've not known Rin for that long, then."
 
         show meiko smile
-        with charachange
+        with persistent.charachange
 
         emm "It's best not to expect her to remember something like that."
 
         show meiko wink
-        with charachange
+        with persistent.charachange
 
         emm "She's got other things to think about, I assume."
 
         show rin basic_deadpannormal
-        with charachange
+        with persistent.charachange
 
         "Rin nods, seeming pleased by this assessment."
 
         show rin basic_deadpan
-        with charachange
+        with persistent.charachange
 
         rin "She's right."
 
         show rin basic_lucid
-        with charachange
+        with persistent.charachange
 
         rin "I was thinking about sunsets."
 
         show meiko happy
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         emm "You see? It's really up to us to make introductions and the like."
 
@@ -2988,7 +2988,7 @@ label a2_emi:
         $ renpy.music.set_volume(0.0, 0.5, channel="ambient")
 
         show meiko serious
-        with charachange
+        with persistent.charachange
 
         stop music fadeout 0.8
 
@@ -3000,7 +3000,7 @@ label a2_emi:
         $ renpy.music.set_volume(0.3, 0.5, channel="ambient")
 
         show meiko happy
-        with charachange
+        with persistent.charachange
 
         emm "Ha! You're a blusher, aren't you?"
 
@@ -3008,33 +3008,33 @@ label a2_emi:
 
         show meiko smile
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         hi "Maybe."
 
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         emm "So this must be a new romance then, mustn't it?"
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         hi "Wait, that's not the question that—"
 
         show meiko happy
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         "Another laugh."
 
         show meiko smile
-        with charachange
+        with persistent.charachange
 
         emm "I know, but it's funny to watch you squirm."
 
         show meiko wink
-        with charachange
+        with persistent.charachange
 
         emm "I'm sorry. Forgive an old woman her amusements."
 
@@ -3045,20 +3045,20 @@ label a2_emi:
         "Clearly Emi gets her youthful features from her mother."
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         hi "I suppose I can let it go."
 
         show meiko happy
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         emm "How kind of you."
 
         stop music fadeout 6.0
 
         show rin basic_deadpan
-        with charachange
+        with persistent.charachange
 
         rin "It's starting."
 
@@ -3133,44 +3133,44 @@ label a2_emi:
 
         show meiko smile
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         emm "I think she's gotten faster since the last time."
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         hi "That was incredible."
 
         show meiko happy
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         "Mrs. Ibarazaki grins proudly."
 
         emm "Emi's a heck of a runner."
 
         show meiko smile
-        with charachange
+        with persistent.charachange
 
         "We fall silent as the next event is being prepared."
 
         "I'm surprised to see Emi striding out onto the track again."
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         hi "Wait, didn't she just run?"
 
         "Emi's mother nods."
 
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         emm "Yes, but she runs multiple events for the team. Especially the sprints."
 
         show meiko happy
-        with charachange
+        with persistent.charachange
 
         emm "It's a lot of running, but Emi can handle it."
 
@@ -3181,25 +3181,25 @@ label a2_emi:
         "If not for the sweat visible on her shirt, you'd never know."
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         hi "Which event is this?"
 
         show meiko smile
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         emm "It's the 200 meter dash."
 
         emm "She'll do this one, the 100-meter, and the relay."
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         hi "I see."
 
         show rin negative_spaciness
-        with charachange
+        with persistent.charachange
 
         play sound sfx_startpistol
         play ambient sfx_emisprinting
@@ -3213,7 +3213,7 @@ label a2_emi:
         "She seems completely absorbed in the race."
 
         show meiko happy
-        with charachange
+        with persistent.charachange
 
         stop ambient fadeout 1.0
         play sound sfx_crowd_cheer
@@ -3226,21 +3226,21 @@ label a2_emi:
 
         show rin relaxed_surprised
         show meiko smile
-        with charachange
+        with persistent.charachange
 
         rin "Hmm?"
 
         hi "Your foot was bouncing on the bleachers."
 
         show rin basic_deadpan
-        with charachange
+        with persistent.charachange
 
         rin "Oh."
 
         hi "You seem pretty into this stuff. I'm surprised."
 
         show rin basic_deadpansurprised
-        with charachange
+        with persistent.charachange
 
         "Rin looks at me quizzically."
 
@@ -3249,28 +3249,28 @@ label a2_emi:
         hi "No reason, I just thought stuff like sports wouldn't interest you."
 
         show rin relaxed_nonchalant
-        with charachange
+        with persistent.charachange
 
         rin "Hmm, I suppose you're right."
 
         rin "It's not that interesting."
 
         show rin basic_deadpannormal
-        with charachange
+        with persistent.charachange
 
         rin "But I'm watching Emi, not the sport."
 
         hi "I don't follow."
 
         show rin basic_lucid
-        with charachange
+        with persistent.charachange
 
         rin "Emi's the most Emi when she runs."
 
         rin "You don't get to see Emi at her Emiest very often."
 
         show rin basic_deadpanamused
-        with charachange
+        with persistent.charachange
 
         rin "But here, you can. See?"
 
@@ -3327,7 +3327,7 @@ label a2_emi:
 
         show meiko worry
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         emm "No, I think Emi's prowess all came from her father's side."
 
@@ -3336,7 +3336,7 @@ label a2_emi:
         emm "He got her into running, you know."
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         hi "Yeah, she told me."
 
@@ -3350,20 +3350,20 @@ label a2_emi:
 
         show meiko serious
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         emm "He… isn't around any more."
 
         hi "I'm sorry, I didn't mean to bring up bad memories."
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         hi "Emi just seemed a little sad when she mentioned him earlier."
 
         show meiko worry
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         emm "That's not surprising, considering."
 
@@ -3372,7 +3372,7 @@ label a2_emi:
         emm "They were very close."
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         hi "I see."
 
@@ -3382,7 +3382,7 @@ label a2_emi:
 
         show meiko serious
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         emm "…Honestly, text messages?"
 
@@ -3391,22 +3391,22 @@ label a2_emi:
         hi "Hmm?"
 
         show meiko smile
-        with charachange
+        with persistent.charachange
 
         emm "Oh, nothing."
 
         show meiko wink
-        with charachange
+        with persistent.charachange
 
         emm "I've got to go meet up with a friend of mine."
 
         show meiko happy
-        with charachange
+        with persistent.charachange
 
         emm "Will you tell Emi I'm very proud of her and that I'll call her later tonight?"
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         hi "Of course."
 
@@ -3429,19 +3429,19 @@ label a2_emi:
         hi "I thought that Emi would be running the relay."
 
         show rin basic_deadpan
-        with charachange
+        with persistent.charachange
 
         rin "She runs anchor."
 
         show rin basic_deadpannormal
-        with charachange
+        with persistent.charachange
 
         rin "So she won't be running for a while yet."
 
         hi "Ah."
 
         show rin basic_deadpandelight
-        with charachange
+        with persistent.charachange
 
         rin "Did you see it?"
 
@@ -3452,7 +3452,7 @@ label a2_emi:
         hi "Maybe."
 
         show rin basic_deadpanupset
-        with charachange
+        with persistent.charachange
 
         rin "Hmm. Maybe this time."
 
@@ -3500,43 +3500,43 @@ label a2_emi:
         hi "Did she hurt herself, do you think?"
 
         show rin basic_surprised
-        with charachange
+        with persistent.charachange
 
         rin "You noticed it too?"
 
         show rin negative_confused
-        with charachange
+        with persistent.charachange
 
         rin "It must be bad."
 
         show rin negative_annoyed
-        with charachange
+        with persistent.charachange
 
         "She frowns, as if deciding on the next course of action."
 
         "Eventually that proves to be too tiresome, and she shrugs again."
 
         show rin basic_deadpanupset
-        with charachange
+        with persistent.charachange
 
         rin "Well, let's go down."
 
         rin "Gotta crown the victor."
 
         show rin basic_deadpanamused
-        with charachange
+        with persistent.charachange
 
         rin "See if you can find a laurel branch."
 
         hi "That's not going to be easy."
 
         show rin basic_deadpannormal
-        with charachange
+        with persistent.charachange
 
         "Rin shrugs."
 
         show rin basic_deadpan
-        with charachange
+        with persistent.charachange
 
         rin "At least we tried."
 
@@ -3578,34 +3578,34 @@ label a2_emi:
         emi "Hey, you showed up!"
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "Guess Rin owes me money, huh?"
 
         show rin basic_deadpanupset
-        with charachange
+        with persistent.charachange
 
         rin "We would have brought you a crown of laurels, but Hisao didn't find one."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         hi "Hey, neither did you."
 
         show rin basic_deadpan
-        with charachange
+        with persistent.charachange
 
         rin "It wasn't my job to look."
 
         hi "When did we assign jobs?"
 
         show rin basic_deadpannormal
-        with charachange
+        with persistent.charachange
 
         rin "When I said 'See if you can find a laurel branch.'"
 
         show rin basic_deadpandelight
-        with charachange
+        with persistent.charachange
 
         rin "Try to keep up."
 
@@ -3615,33 +3615,33 @@ label a2_emi:
 
         show emi basic_closedhappy_gym
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         "Emi laughs at Rin and me."
 
         show emi basic_happy_gym
-        with charachange
+        with persistent.charachange
 
         emi "It's okay, I'm sure you'll make it up to me somehow."
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         hi "Uh, sure."
 
         show rin basic_awayabsent
         show emi excited_amused_gym
-        with charachange
+        with persistent.charachange
 
         emi "Good! So, how'd I look?"
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         "I stop myself from blurting out 'beautiful' or 'amazing' and settle for the substantially safer 'very impressive.'"
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         "Emi seems pleased with this assessment."
 
@@ -3651,12 +3651,12 @@ label a2_emi:
 
         show emi basic_grin_gym
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         emi "Great to hear! I was worried that I looked a little slow on the relay, but I guess I did fine, huh?"
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         hi "Actually, I noticed—{w=.4}{nw}"
 
@@ -3668,22 +3668,22 @@ label a2_emi:
         "Rin kicks me and keeps me from finishing my sentence."
 
         show emi basic_confused_gym
-        with charachange
+        with persistent.charachange
 
         emi "What was that all about?"
 
         show rin basic_deadpancontemplation
-        with charachange
+        with persistent.charachange
 
         rin "He noticed it. At the end."
 
         show emi basic_annoyed_gym
-        with charachange
+        with persistent.charachange
 
         emi "Hmm, that's no good."
 
         show emi sad_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Guess the nurse will look at it for me later."
 
@@ -3710,64 +3710,64 @@ label a2_emi:
         emi "Hey, you look a little worried!"
 
         show emi basic_grin_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "I'm fine, really!"
 
         emi "Just sore from all the running, is all."
 
         show emi excited_proud_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "And come on, a little pain isn't going to stop me."
 
         hi "Oh no?"
 
         show emi basic_closedgrin_gym_close
-        with charachange
+        with persistent.charachange
 
         "Emi grins, and for a moment she looks like she did during her sprint, fierce and unconquerable."
 
         "Or to put it another way, really beautiful."
 
         show emi basic_grin_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "Hasn't yet."
 
         hi "Well then. I guess I shouldn't worry, huh?"
 
         show emi basic_closedhappy_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "Damn right! I'm Emi Ibarazaki, fastest thing on no legs! I don't stop for anything!"
 
         hi "Impressive."
 
         show emi basic_closedgrin_gym_close
-        with charachange
+        with persistent.charachange
 
         "Emi giggles, and then seems to remember something."
 
         show emi basic_grin_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "Oh, before I forget…"
 
         emi "Rin and I are going to do something next Sunday as a post-track meet celebration!"
 
         show emi excited_proud_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "You should come along!"
 
         show emi sad_grin_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "Normally we do it the day after, but since the track meet was on a Sunday, I've got homework and class and all that stuff to take care of."
 
         show emi basic_closedgrin_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "Plus our morning run, of course."
 
@@ -3778,17 +3778,17 @@ label a2_emi:
         hi "She'll call you later tonight."
 
         show emi basic_happy_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "I thought I saw her in the stands!"
 
         show emi basic_closedhappy_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "I'm glad she made it!"
 
         show emi sad_grin_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "Used to be my dad who showed up to my meets, but Mom's done a pretty good job of taking over."
 
@@ -3810,17 +3810,17 @@ label a2_emi:
         pause 0.5
 
         show emi basic_grin_gym_close
-        with charachange
+        with persistent.charachange
 
         "Emi jumps slightly and then grins at me."
 
         show emi basic_closedhappy_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "Hey, thanks!"
 
         show emi sad_grin_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "It's getting a little cold, I guess."
 
@@ -3831,7 +3831,7 @@ label a2_emi:
         "Teammate" "Hey, Emi! You're going to miss the medal ceremony!"
 
         show emi basic_closedgrin_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "Oh yeah, thanks!"
 
@@ -3844,23 +3844,23 @@ label a2_emi:
         emi "You don't have to stick around for this part. It takes forever."
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Besides, you should get cracking on your homework now if you don't want to be up late, Hisao."
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "Morning run tomorrow! Don't forget!"
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         hi "How could I?"
 
         show emi basic_closedhappy_gym
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         emi "Good point. I mean, it's spending time with {b}me{/b}, after all."
 
@@ -3892,19 +3892,19 @@ label a2_emi:
         "As I see her off, she speaks up."
 
         show rin basic_deadpan
-        with charachange
+        with persistent.charachange
 
         rin "You're probably not getting that coat back, I think."
 
         hi "I'm sure I'll get it back eventually."
 
         show rin basic_deadpannormal
-        with charachange
+        with persistent.charachange
 
         rin "Interesting. Take it as it comes, huh?"
 
         show rin basic_deadpandelight
-        with charachange
+        with persistent.charachange
 
         rin "Very Emi-ish."
 
@@ -4005,19 +4005,19 @@ label a2_emi:
         "The nurse seems to have an idea."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "Now where have I heard that before?"
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         "He laughs and pats me on the shoulder."
 
         nk "Ha! She's rubbing off on you, I guess."
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         "His expression changes again, and he's back in serious mode."
 
@@ -4028,7 +4028,7 @@ label a2_emi:
         nk "I'd prefer not to have any fatalities while I'm on staff here."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "A bit of a lofty goal, to be sure, but I'm always up for a challenge."
 
@@ -4039,12 +4039,12 @@ label a2_emi:
         hi "You're right. I'm sorry to worry you."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "Who's worried? You're a smart kid, right?"
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "I know you can be responsible, Hisao. A situation like yours, you've got to learn to be responsible fast."
 
@@ -4053,7 +4053,7 @@ label a2_emi:
         "His expression suddenly becomes devious."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "I suppose you've started to enjoy your runs with Emi then, eh?"
 
@@ -4066,14 +4066,14 @@ label a2_emi:
         hi "She was incredible!"
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         "The nurse nods, grinning all the while."
 
         nk "That she was, Hisao. I watched her first couple of races before I had some business to take care of, but she told me all about it."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "Kind of you to loan her your jacket, by the way."
 
@@ -4082,7 +4082,7 @@ label a2_emi:
         "I had honestly forgotten all about that. I still haven't gotten it back."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         "The nurse gets a smile that makes me feel like he's just made a joke."
 
@@ -4103,14 +4103,14 @@ label a2_emi:
         hi "What the heck does that mean?"
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         nk "Oh ho, you'd love to know, wouldn't you?"
 
         "He laughs in the style of evil megalomaniacs."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "No seriously, it's because you're her friend."
 
@@ -4123,14 +4123,14 @@ label a2_emi:
         nk "The point is, you're helping her, even if you don't know you are."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "And she's grateful for that, even if she never says it."
 
         hi "What do you mean 'even if she never says it?'"
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Emi doesn't talk a lot, but she and I have known each other long enough that I can read her most of the time."
 
@@ -4143,17 +4143,17 @@ label a2_emi:
         "The nurse suddenly realizes that he's been rambling and stops talking, looking a little embarrassed."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "Anyway, you don't have to stop your morning exercise."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Just walk the track instead of running for a few days. Let things calm down."
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         nk "And take your damned medicine!"
 
@@ -4174,24 +4174,24 @@ label a2_emi:
         hi "Whoops, sorry about that."
 
         show emi basic_hes_gym
-        with charachange
+        with persistent.charachange
 
         emi "Are you okay? What did the nurse say?"
 
         emi "Do you need to go to a hospital?"
 
         show emi basic_shock_gym
-        with charachange
+        with persistent.charachange
 
         emi "Omigosh, it was my fault, wasn't it?"
 
         show emi basic_closedsweat_gym
-        with charachange
+        with persistent.charachange
 
         emi "I've been pushing you too hard, haven't I?"
 
         show emi excited_sad_gym
-        with charachange
+        with persistent.charachange
 
         emi "I'm a horrible person!"
 
@@ -4215,7 +4215,7 @@ label a2_emi:
         hi "I'm fine, okay? No worries."
 
         show emi basic_hes_gym_close
-        with charachange
+        with persistent.charachange
 
         "I can feel Emi's body relax as I continue to assure her I'm fine."
 
@@ -4230,7 +4230,7 @@ label a2_emi:
         hi "Don't worry about it. It's not your fault."
 
         show emi sad_depressed_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "You're sure?"
 
@@ -4245,7 +4245,7 @@ label a2_emi:
         "I can feel Emi's heartbeat calming down, and I have to resist the urge to rest my chin on the top of her head."
 
         show emi sad_grin_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "Thank goodness."
 
@@ -4266,7 +4266,7 @@ label a2_emi:
         nk "Emi, you going to come in here any time soon?"
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         nk "…Oh, I'm sorry. Was I interrupting?"
 
@@ -4276,7 +4276,7 @@ label a2_emi:
         "The two of us spring apart as if the other just caught on fire."
 
         show emi basic_hes_gym
-        with charachange
+        with persistent.charachange
 
         "Emi brushes her hair back nervously and laughs."
 
@@ -4286,12 +4286,12 @@ label a2_emi:
 
         show emi sad_shy_gym
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         emi "I'll uh… see you later, okay?"
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Oh, and Hisao?"
 
@@ -4311,7 +4311,7 @@ label a2_emi:
         hi "See you later."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         "The nurse smiles again like he's in on some joke I don't know about and waves to me as I head for my room, feeling a burning in my cheeks."
 
@@ -4428,34 +4428,34 @@ label a2_emi:
         "Emi looms over me like only a short girl can, peering at me intently."
 
         show emi basic_closedgrin_close
-        with charachange
+        with persistent.charachange
 
         emi "Oh, you're awake. I guess we don't have to kick you then."
 
         show rin basic_deadpan
-        with charachange
+        with persistent.charachange
 
         rin "Was it part of your master plan?"
 
         hi "What are you talking about?"
 
         show emi basic_grin_close
-        with charachange
+        with persistent.charachange
 
         "Emi shrugs, her twin tails bouncing with the motion."
 
         show emi basic_closedhappy_close
-        with charachange
+        with persistent.charachange
 
         emi "I'm not sure either."
 
         show emi sad_grin_close
-        with charachange
+        with persistent.charachange
 
         emi "You must be pretty tired to fall asleep out here."
 
         show emi basic_closedgrin_close
-        with charachange
+        with persistent.charachange
 
         emi "Although it's pretty comfortable, I suppose."
 
@@ -4467,7 +4467,7 @@ label a2_emi:
         "She plops down next to me and begins to eat."
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         show rin:
             yanchor 0.77
@@ -4482,22 +4482,22 @@ label a2_emi:
         "Despite my best efforts, however, I still find myself glancing over at Emi whenever she speaks."
 
         show emi basic_grin_close
-        with charachange
+        with persistent.charachange
 
         "I notice how she purses her lips when she's thinking about something, squinting slightly as if that would improve her thinking ability."
 
         show rin basic_deadpan
-        with charachange
+        with persistent.charachange
 
         show emi basic_closedhappy_close at leftrock
-        with charachange
+        with persistent.charachange
 
         "Rin says something that makes Emi laugh, and I notice, perhaps for the first time, how she laughs with her whole body, rocking back and forth, head thrown back, almost like she's about to fall over."
 
         "I probably look like a creep."
 
         show emi basic_confused_close
-        with charachange
+        with persistent.charachange
 
         "It's about this time that I realize Emi's looking at me. Her voice raised slightly, so she's probably just asked me a question."
 
@@ -4505,21 +4505,21 @@ label a2_emi:
 
         show rin basic_deadpannormal
         show emi basic_annoyed_close
-        with charachange
+        with persistent.charachange
 
         "Emi rolls her eyes, while a slight quirk of the eyebrow is the only sign that Rin's even paying attention."
 
         emi "I said, did you get a career survey in your class too?"
 
         show emi basic_grin_close
-        with charachange
+        with persistent.charachange
 
         emi "You know, one of those 'What do you want to do after high school?' things?"
 
         hi "I don't… think so. Maybe we'll get one tomorrow."
 
         show emi excited_happy_close
-        with charachange
+        with persistent.charachange
 
         emi "What are you going to put down?"
 
@@ -4544,7 +4544,7 @@ label a2_emi:
         "I guess I don't really want to do anything."
 
         show emi basic_closedhappy_close
-        with charachange
+        with persistent.charachange
 
         emi "You don't sound very excited about that one, do you?"
 
@@ -4565,14 +4565,14 @@ label a2_emi:
         hi "I suppose that, these days, I've been more concerned with living one day at a time."
 
         show emi basic_grin_close
-        with charachange
+        with persistent.charachange
 
         "Emi considers this for a moment and grins."
 
         emi "That's a pretty good idea, Hisao!"
 
         show emi excited_proud_close
-        with charachange
+        with persistent.charachange
 
         emi "I just wrote down, 'Pirate.'"
 
@@ -4583,26 +4583,26 @@ label a2_emi:
         hi "You're… you're not actually serious, are you?"
 
         show emi sad_annoyed_close
-        with charachange
+        with persistent.charachange
 
         "Emi looks mock offended."
 
         emi "Well I've got the legs for it already, so I just kind of figured…"
 
         show rin basic_amused
-        with charachange
+        with persistent.charachange
 
         "Even Rin seems amused by this."
 
         show emi basic_annoyed_close
-        with charachange
+        with persistent.charachange
 
         emi "Just you wait, I'll be the terror of the high seas!"
 
         emi "I'll show you all!"
 
         show emi basic_closedhappy_close
-        with charachange
+        with persistent.charachange
 
         emi "I've even been working on my pirate voice!"
 
@@ -4625,22 +4625,22 @@ label a2_emi:
         emi "We'll wear their guts for garters!"
 
         show rin basic_deadpanamused
-        with charachange
+        with persistent.charachange
 
         rin "Do you even know what that means?"
 
         show emi basic_confused
-        with charachange
+        with persistent.charachange
 
         "Rin's unexpected interruption stops Emi in her tracks."
 
         show emi sad_shy
-        with charachange
+        with persistent.charachange
 
         emi "Not really."
 
         show emi basic_closedgrin
-        with charachange
+        with persistent.charachange
 
         emi "But it's all in the delivery!"
 
@@ -4648,7 +4648,7 @@ label a2_emi:
 
         show emi basic_hes
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         "The ringing of the bell prevents her from demonstrating her point further."
 
@@ -4665,21 +4665,21 @@ label a2_emi:
         with charamove
 
         show rin basic_deadpancontemplation
-        with charachange
+        with persistent.charachange
 
         "Rin stares at me intently for a few moments."
 
         hi "Is there… something wrong?"
 
         show rin basic_lucid
-        with charachange
+        with persistent.charachange
 
         "Rin considers this question closely for a moment."
 
         "After a lengthy pause, she shakes her head."
 
         show rin basic_deadpannormal
-        with charachange
+        with persistent.charachange
 
         rin "Nope."
 
@@ -4688,7 +4688,7 @@ label a2_emi:
         extend " why the staring, then?"
 
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         "Rin shakes her head again."
 
@@ -4697,7 +4697,7 @@ label a2_emi:
         hi "Get what?"
 
         show rin basic_deadpan
-        with charachange
+        with persistent.charachange
 
         rin "The staring thing. You two seem to, but I don't."
 
@@ -4710,14 +4710,14 @@ label a2_emi:
         hi "I wasn't staring, I was just tired."
 
         show rin basic_deadpancontemplation
-        with charachange
+        with persistent.charachange
 
         "Rin actually snorts at this, but she doesn't say anything."
 
         hi "No, really! I was just… distracted, is all."
 
         show rin basic_lucid
-        with charachange
+        with persistent.charachange
 
         rin "Mmm."
 
@@ -4741,32 +4741,32 @@ label a2_emi:
         play music music_shizune fadein 3.0
 
         show misha perky_smile
-        with charachange
+        with persistent.charachange
 
         mi "Up on the roof again, Hicchan?"
 
         show misha hips_frown
-        with charachange
+        with persistent.charachange
 
         mi "You know that's dangerous, don't you~?"
 
         show shizu basic_angry
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "That's right~!"
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "The school cannot be held responsible for any injury that comes from being up there, you know!"
 
         show misha cross_frown
-        with charachange
+        with persistent.charachange
 
         mi "Furthermore, we could report you for breaking the rules~!"
 
@@ -4777,12 +4777,12 @@ label a2_emi:
 
         show misha sign_smile_close
         show shizu behind_smile
-        with charachange
+        with persistent.charachange
 
         mi "But we won't, Hicchan!"
 
         show misha hips_grin_close
-        with charachange
+        with persistent.charachange
 
         mi "You three are too cute together~!"
 
@@ -4794,7 +4794,7 @@ label a2_emi:
         mi "Wahahaha~!"
 
         show misha cross_grin
-        with charachange
+        with persistent.charachange
 
         mi "You're too easy to tease, Hicchan~!"
 
@@ -4805,12 +4805,12 @@ label a2_emi:
         hi "Isn't it mean to pick on the newcomer like this?"
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Nope~!"
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "It's to help you get acclimated to your new surroundings!"
 
@@ -4819,12 +4819,12 @@ label a2_emi:
         hi "Well…do you have to be so overzealous about it?"
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Yep!"
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "Ah! That aside, Hicchan, we were looking for you this morning, but you weren't in your room!"
 
@@ -4834,7 +4834,7 @@ label a2_emi:
 
         show shizu basic_angry
         show misha hips_frown
-        with charachange
+        with persistent.charachange
 
         "Shizune looks peeved, and a beat later, so does Misha. Or she tries to, at any rate."
 
@@ -4845,14 +4845,14 @@ label a2_emi:
         "Not another attempt to rope me in to do their dirty work, I hope."
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "We had to give you something~ but since you weren't around, we dropped it off in your room!"
 
         hi "Something? Like what?"
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Oh, you'll find out when you get back, Hicchan~! Wahahaha~!"
 
@@ -4911,7 +4911,7 @@ label a2_emi:
         hi "I don't follow."
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         "Kenji sighs and adjusts his glasses, before what could be understood as an attempt at explaining himself patiently."
 
@@ -4920,7 +4920,7 @@ label a2_emi:
         ke "But if I were going to kill someone, I'd do it by throwing them off the roof and making it look like an accident."
 
         show kenji tsun
-        with charachange
+        with persistent.charachange
 
         ke "And if I've thought of it, you can be sure they've thought of it too."
 
@@ -4929,21 +4929,21 @@ label a2_emi:
         hi "I see."
 
         show kenji happy
-        with charachange
+        with persistent.charachange
 
         ke "Good!"
 
         ke "I'm glad we had this chat."
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "Loan me 500 yen."
 
         hi "…I'm sorry?"
 
         show kenji tsun
-        with charachange
+        with persistent.charachange
 
         ke "I need to get a drink, man!"
 
@@ -4952,7 +4952,7 @@ label a2_emi:
         ke "So I need to stock up on something canned, got it? But to do that, I need 500 yen."
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "And since I've just saved your life with my timely advice, you can at least spare me 500 yen."
 
@@ -4961,7 +4961,7 @@ label a2_emi:
         stop music fadeout 6.0
 
         show kenji happy
-        with charachange
+        with persistent.charachange
 
         show kenji:
             easeout 0.5 xanchor 0.2 alpha 0.0
@@ -5139,7 +5139,7 @@ label a2_emi:
         emi "Of course!"
 
         show emi basic_annoyed
-        with charachange
+        with persistent.charachange
 
         emi "What, the threat of rain's supposed to stop me?"
 
@@ -5167,34 +5167,34 @@ label a2_emi:
         hi "Well then, are we all ready to go?"
 
         show emi basic_closedhappy
-        with charachange
+        with persistent.charachange
 
         emi "I'm ready!"
 
         show rin basic_deadpannormal
-        with charachange
+        with persistent.charachange
 
         "Rin nods and says a single word."
 
         show rin basic_deadpan
-        with charachange
+        with persistent.charachange
 
         rin "Basket."
 
         hi "Beg pardon?"
 
         show rin basic_deadpannormal
-        with charachange
+        with persistent.charachange
 
         rin "The basket. In Emi's room. You should carry it."
 
         show emi basic_hes
-        with charachange
+        with persistent.charachange
 
         "Emi claps a hand to her mouth, embarrassed."
 
         show emi basic_closedsweat
-        with charachange
+        with persistent.charachange
 
         emi "Omigosh! I almost forgot all about it! Nice save, Rin!"
 
@@ -5217,12 +5217,12 @@ label a2_emi:
         hi "So, are we set to head out?"
 
         show emi basic_grin
-        with charachange
+        with persistent.charachange
 
         emi "Yep!"
 
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         "Rin gives another nod, and we head out of the dormitory."
 
@@ -5260,7 +5260,7 @@ label a2_emi:
         rin "There's a park in town near the art shop."
 
         show emi basic_closedhappy_rn
-        with charachange
+        with persistent.charachange
 
         emi "Great idea, Rin! I totally forgot all about that place!"
 
@@ -5269,17 +5269,17 @@ label a2_emi:
         hi "Do you know how to get there, Rin?"
 
         show rin basic_deadpannormal_rn
-        with charachange
+        with persistent.charachange
 
         "Rin shrugs."
 
         show rin basic_awayabsent_rn
-        with charachange
+        with persistent.charachange
 
         rin "It's pretty likely."
 
         show emi excited_amused_rn
-        with charachange
+        with persistent.charachange
 
         emi "Good enough for me!"
 
@@ -5311,45 +5311,45 @@ label a2_emi:
         emi "You wanna go in, Rin?"
 
         show rin basic_awayabsent_rn
-        with charachange
+        with persistent.charachange
 
         "Rin shrugs."
 
         show rin basic_deadpan_rn
-        with charachange
+        with persistent.charachange
 
         rin "Nothing I need."
 
         show emi excited_proud_rn
-        with charachange
+        with persistent.charachange
 
         emi "Are you suuure?"
 
         show rin basic_delight_rn
-        with charachange
+        with persistent.charachange
 
         show rin basic_deadpandelight_rn
-        with charachange
+        with persistent.charachange
 
         "There's the slightest flutter of a smile on Rin's face, quickly replaced with her usual expression."
 
         show rin basic_deadpan_rn
-        with charachange
+        with persistent.charachange
 
         rin "Life's uncertain, but on this at least I am pretty sure."
 
         show rin basic_deadpanamused_rn
-        with charachange
+        with persistent.charachange
 
         rin "Nice of you to offer."
 
         show emi basic_closedhappy_rn
-        with charachange
+        with persistent.charachange
 
         emi "Well it's not like I'm the one carrying the basket."
 
         show emi basic_grin_rn
-        with charachange
+        with persistent.charachange
 
         emi "But I'll bet Hisao wouldn't have minded anyway, right?"
 
@@ -5358,7 +5358,7 @@ label a2_emi:
         "I flex for emphasis."
 
         show emi excited_laugh_rn
-        with charachange
+        with persistent.charachange
 
         "Emi stifles a snort of laughter by pointing to the park at which we've suddenly arrived."
 
@@ -5371,7 +5371,7 @@ label a2_emi:
         emi "Oh, I remember this place!"
 
         show emi basic_closedhappy_rn at center
-        with charachange
+        with persistent.charachange
 
         emi "I ran into you here that one time, didn't I, Rin?"
 
@@ -5385,17 +5385,17 @@ label a2_emi:
         "Rin's eyebrow raises slightly."
 
         show rin basic_deadpan_rn
-        with charachange
+        with persistent.charachange
 
         rin "Maybe."
 
         show rin relaxed_boredom_rn
-        with charachange
+        with persistent.charachange
 
         rin "I'm unwilling to say for certain one way or the other."
 
         show rin relaxed_nonchalant_rn
-        with charachange
+        with persistent.charachange
 
         rin "Memory's a tricky thing, you know."
 
@@ -5450,12 +5450,12 @@ label a2_emi:
         "I very nearly believe she can do it. It's one heck of a glare."
 
         show emi basic_annoyed_rn
-        with charachange
+        with persistent.charachange
 
         emi "It had better cooperate."
 
         show emi sad_angry_rn
-        with charachange
+        with persistent.charachange
 
         emi "You hear me sky? You stop that raining right this instant!"
 
@@ -5469,34 +5469,34 @@ label a2_emi:
         "Instead, the rain seems to increase. Rin wrinkles her nose in distaste at this turn of events."
 
         show rin basic_deadpan_rn
-        with charachange
+        with persistent.charachange
 
         rin "Regrettable."
 
         show emi basic_confused_rn
-        with charachange
+        with persistent.charachange
 
         emi "What do you mean?"
 
         show rin basic_deadpannormal_rn
-        with charachange
+        with persistent.charachange
 
         "Rin shrugs."
 
         show rin relaxed_nonchalant_rn
-        with charachange
+        with persistent.charachange
 
         rin "I could paint this if I weren't out here. Shame to miss it, is all."
 
         "She doesn't seem angry or annoyed about it, just a little disappointed."
 
         show emi basic_closedhappy_rn
-        with charachange
+        with persistent.charachange
 
         "Emi laughs in response to Rin's comment."
 
         show emi basic_grin_rn
-        with charachange
+        with persistent.charachange
 
         emi "Guess we should have stopped in that art supply store after all, huh?"
 
@@ -5513,26 +5513,26 @@ label a2_emi:
 
         show emi basic_confused_rn
         show rin basic_absent_rn
-        with charachange
+        with persistent.charachange
 
         emi "We're already pretty wet, Hisao."
 
         hi "Yeah, but we can dry off this way and maybe wait out the storm. You don't want to catch a cold or anything, do you?"
 
         show emi basic_annoyed_rn
-        with charachange
+        with persistent.charachange
 
         "Emi considers this for a moment. I can tell that part of her wants to stay out in the rain just to spite the weather."
 
         "Unfortunately for her, the weather hardly cares about what we do."
 
         show emi basic_closedgrin_rn
-        with charachange
+        with persistent.charachange
 
         emi "I suppose you're right."
 
         show emi sad_grin_rn
-        with charachange
+        with persistent.charachange
 
         emi "Where could we go?"
 
@@ -5543,12 +5543,12 @@ label a2_emi:
         "All I know is the art supply store, and that's only because we've just passed it."
 
         show emi basic_closedgrin_rn
-        with charachange
+        with persistent.charachange
 
         "Fortunately, Emi soon snaps her fingers in triumph."
 
         show emi basic_happy_rn
-        with charachange
+        with persistent.charachange
 
         emi "That's it! There's a tea shop nearby!"
 
@@ -5559,22 +5559,22 @@ label a2_emi:
         hi "Great! You know where it is?"
 
         show emi basic_grin_rn
-        with charachange
+        with persistent.charachange
 
         "Emi nods, looking fairly confident."
 
         show emi basic_closedgrin_rn
-        with charachange
+        with persistent.charachange
 
         emi "Sure do!"
 
         show emi basic_hes_rn
-        with charachange
+        with persistent.charachange
 
         emi "I think."
 
         show emi excited_laugh_rn
-        with charachange
+        with persistent.charachange
 
         emi "But it'll be an adventure either way, right?"
 
@@ -5602,7 +5602,7 @@ label a2_emi:
         emi "Now, a left here…"
 
         show emi excited_joy_rn
-        with charachange
+        with persistent.charachange
 
         emi "There! The Shanghai!"
 
@@ -5633,7 +5633,7 @@ label a2_emi:
             yu "Welcome! Can I—"
 
             show yuukoshang happy_down
-            with charachange
+            with persistent.charachange
 
             yu "Oh, it's you."
 
@@ -5649,12 +5649,12 @@ label a2_emi:
             "Emi grins brightly, pleased to be remembered."
 
             show emi basic_grin
-            with charachange
+            with persistent.charachange
 
             emi "Hey Yuuko! Got room to seat us?"
 
             show yuukoshang neutral_down
-            with charachange
+            with persistent.charachange
         else:
             "It seems fairly crowded inside; a symptom of the sudden rain, I'm sure."
 
@@ -5682,7 +5682,7 @@ label a2_emi:
             "Does she work two jobs? I guess that must be it."
 
             show yuukoshang happy_down
-            with charachange
+            with persistent.charachange
 
             yu "Oh, it's you."
 
@@ -5698,41 +5698,41 @@ label a2_emi:
             "Emi grins brightly, pleased to be remembered."
 
             show emi basic_grin
-            with charachange
+            with persistent.charachange
 
             emi "Hey Yuuko!"
 
             hi "Hi, Yuuko. I didn't know you worked here too."
 
             show yuukoshang worried_down
-            with charachange
+            with persistent.charachange
 
             yu "Do I know you?"
 
             show yuukoshang worried_up
-            with charachange
+            with persistent.charachange
 
             yu "You seem awfully familiar, but I don't think I've ever seen you in here."
 
             hi "Er, we met at your other job. At the Yamaku library. Remember?"
 
             show yuukoshang happy_up
-            with charachange
+            with persistent.charachange
 
             "Her eyes widen in memory."
 
             show yuukoshang closedhappy_down
-            with charachange
+            with persistent.charachange
 
             yu "Yeah, that's it! Nice to see you again…"
 
             show yuukoshang panic_down
-            with charachange
+            with persistent.charachange
 
             yu "Oh no, this is bad!"
 
             show yuukoshang panic_up
-            with charachange
+            with persistent.charachange
 
             yu "I should have remembered a customer's face! I'm sorry… I'm terribly sorry!"
 
@@ -5745,61 +5745,61 @@ label a2_emi:
             "Not the best display of logic, but it seems to relax her a little."
 
             show yuukoshang worried_down
-            with charachange
+            with persistent.charachange
 
             yu "Do you really think so?"
 
             hi "Uh, yeah, I'm sure. Positive. Isn't that right, girls?"
 
             show emi basic_closedgrin
-            with charachange
+            with persistent.charachange
 
             "Emi has been watching this little drama unfold with considerable amusement."
 
             show emi excited_proud
-            with charachange
+            with persistent.charachange
 
             emi "Yep, it sure is!"
 
             show yuukoshang neutral_up
-            with charachange
+            with persistent.charachange
 
             yu "Well, okay…"
 
             show emi basic_happy
-            with charachange
+            with persistent.charachange
 
             emi "So Yuuko, got room to seat us?"
 
             show yuukoshang neutral_down
-            with charachange
+            with persistent.charachange
 
         $ renpy.music.set_volume(0.3, 3.0, channel="ambient")
 
         "Yuuko nods and leads us to a corner booth, providing us with some small towels before taking our order."
 
         show yuukoshang happy_down
-        with charachange
+        with persistent.charachange
 
         yu "What will you have?"
 
         show emi basic_closedhappy
-        with charachange
+        with persistent.charachange
 
         emi "Cake! And some tea too, I guess."
 
         show yuukoshang neutral_down
-        with charachange
+        with persistent.charachange
 
         yu "What kind of cake?"
 
         show emi excited_proud
-        with charachange
+        with persistent.charachange
 
         emi "Surprise me!"
 
         show yuukoshang worried_up
-        with charachange
+        with persistent.charachange
 
         "Yuuko looks uncomfortable at the thought of surprising anyone, but she gives a nod and turns to Rin."
 
@@ -5816,27 +5816,27 @@ label a2_emi:
         yu "And for you?"
 
         show rin negative_spaciness
-        with charachange
+        with persistent.charachange
 
         rin "I'll take a straw. My feet are all wet."
 
         show yuukoshang worried_up
-        with charachange
+        with persistent.charachange
 
         yu "Sorry?"
 
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         rin "The drinking kind of straw. One, please."
 
         show yuukoshang worried_down
-        with charachange
+        with persistent.charachange
 
         "Yuuko is obviously uncertain of what to think about this. She fiddles with her pen and stationery for a moment, looking like she's about to cry, before turning in my direction."
 
         show yuukoshang neutral_down
-        with charachange
+        with persistent.charachange
 
         yu "And you, sir?"
 
@@ -5845,7 +5845,7 @@ label a2_emi:
         "Emi would probably yell at me if I ordered cake."
 
         show emi sad_depressed
-        with charachange
+        with persistent.charachange
 
         emi "Aw, come on Hisao! Don't let me be the only one with food, I'll feel like a pig!"
 
@@ -5854,14 +5854,14 @@ label a2_emi:
         hi "Your orders, after all."
 
         show emi basic_closedgrin
-        with charachange
+        with persistent.charachange
 
         emi "Well… today is your day off! You can be healthy tomorrow!"
 
         hi "Well then, I suppose I will have some cake after all."
 
         show yuukoshang neurotic_up
-        with charachange
+        with persistent.charachange
 
         "Yuuko seems slightly irritated that I'm changing my mind."
 
@@ -5872,7 +5872,7 @@ label a2_emi:
         hi "Surprise me."
 
         show yuukoshang smile_down
-        with charachange
+        with persistent.charachange
 
         "Yuuko sighs and nods."
 
@@ -5886,7 +5886,7 @@ label a2_emi:
         "Despite the crowd, our order does indeed arrive quickly."
 
         show emi excited_joy
-        with charachange
+        with persistent.charachange
 
         emi "Thanks, Yuuko!"
 
@@ -5895,33 +5895,33 @@ label a2_emi:
         stop music fadeout 4.0
 
         show yuukoshang happy_down
-        with charachange
+        with persistent.charachange
 
         yu "This is a different guy than usual, isn't it?"
 
         "What? Different guy?"
 
         show emi basic_hes
-        with charachange
+        with persistent.charachange
 
         "Emi must notice my confusion, because she seems a little embarrassed."
 
         emi "W-what? Oh, yeah, I guess he is."
 
         show emi sad_grin
-        with charachange
+        with persistent.charachange
 
         emi "This is my friend Hisao."
 
         hi "We've met."
 
         show yuukoshang smile_down
-        with charachange
+        with persistent.charachange
 
         yu "Huh. Small world."
 
         show yuukoshang neutral_down
-        with charachange
+        with persistent.charachange
 
         yu "Well, let me know if you need anything."
 
@@ -5941,7 +5941,7 @@ label a2_emi:
         "This is stupid. I can just ask Emi."
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         play music music_comedy fadein 0.5
 
@@ -5949,24 +5949,24 @@ label a2_emi:
 
         show emi basic_closedhappy
         show rin basic_awayabsent
-        with charachange
+        with persistent.charachange
 
         "Emi laughs again, only I get the feeling it's from nervousness as much as anything else."
 
         show emi basic_grin
-        with charachange
+        with persistent.charachange
 
         emi "It's just the track team captain. He likes coming down here after practice sometimes."
 
         show emi basic_closedgrin
-        with charachange
+        with persistent.charachange
 
         emi "So if we have anything to discuss I tag along."
 
         "Hmm, sounds mighty suspicious to me…"
 
         show rin basic_absent
-        with charachange
+        with persistent.charachange
 
         hi "Oh, I see."
 
@@ -5977,19 +5977,19 @@ label a2_emi:
         hi "I knew it!"
 
         show rin basic_deadpanamused
-        with charachange
+        with persistent.charachange
 
         "Rin watches our play, seeming mildly amused before muttering something that I don't quite catch."
 
         rin "… y'anyway"
 
         show emi basic_confused
-        with charachange
+        with persistent.charachange
 
         call screen doublespeak(emi, _("What?"), hi, _("Huh?"))
 
         show rin basic_surprised
-        with charachange
+        with persistent.charachange
 
         "Rin jerks back from wherever her mind wandered off to."
 
@@ -5998,14 +5998,14 @@ label a2_emi:
         hi "What did you just say?"
 
         show rin basic_deadpan
-        with charachange
+        with persistent.charachange
 
         rin "Huh."
 
         hi "No, before that."
 
         show rin relaxed_nonchalant
-        with charachange
+        with persistent.charachange
 
         rin "No idea."
 
@@ -6015,7 +6015,7 @@ label a2_emi:
 
         show emi basic_grin
         show rin basic_deadpannormal
-        with charachange
+        with persistent.charachange
 
         "I let the matter drop, but I can't help notice that Emi seems relieved that Rin interrupted the conversation."
 
@@ -6073,7 +6073,7 @@ label a2_emi:
         "It's raspberry, and pretty good."
 
         show rin relaxed_boredom
-        with charachange
+        with persistent.charachange
 
         rin "The rain's let up."
 
@@ -6102,12 +6102,12 @@ label a2_emi:
         "In fact, I think I just felt some raindrops."
 
         show emi sad_grin_rn
-        with charachange
+        with persistent.charachange
 
         emi "Hmm… you may be right."
 
         show emi basic_closedgrin_rn
-        with charachange
+        with persistent.charachange
 
         emi "Well okay, I'll let you off the hook this time, but you owe me a picnic now. Got it?"
 
@@ -6116,7 +6116,7 @@ label a2_emi:
         hi "Fine, fine."
 
         show emi excited_proud_rn
-        with charachange
+        with persistent.charachange
 
         emi "Now hurry up! I wanted to get some laps in at the track, and it would be nice to do it without the rain."
 
@@ -6126,19 +6126,19 @@ label a2_emi:
         stop music fadeout 6.0
 
         show emi sad_depressed_rn
-        with charachange
+        with persistent.charachange
 
         emi "Well…"
 
         "Emi suddenly seems reluctant to explain herself."
 
         show emi sad_grin_rn
-        with charachange
+        with persistent.charachange
 
         emi "I need the practice."
 
         show emi basic_grin_rn
-        with charachange
+        with persistent.charachange
 
         emi "And I need to burn off that cake, anyway."
 
@@ -6147,7 +6147,7 @@ label a2_emi:
         hi "Are you sure? It wasn't that much cake…"
 
         show emi basic_closedgrin_rn
-        with charachange
+        with persistent.charachange
 
         emi "No, it wasn't that much cake for {b}you{/b}. I ate most of it."
 
@@ -6190,26 +6190,26 @@ label a2_emi:
         hi "Hey, it'll let up soon enough. You can go running then, right?"
 
         show emi basic_grin_rn
-        with charachange
+        with persistent.charachange
 
         "Emi snorts, seemingly amused."
 
         show emi excited_proud_rn
-        with charachange
+        with persistent.charachange
 
         emi "Like I'm not going to run in the rain."
 
         hi "Well you shouldn't! You could catch a cold!"
 
         show emi basic_grin_rn
-        with charachange
+        with persistent.charachange
 
         "Emi waves her hand airily."
 
         emi "Ridiculous! I don't get colds."
 
         show emi basic_closedgrin_rn
-        with charachange
+        with persistent.charachange
 
         emi "My immune system is far too strong for something like that."
 
@@ -6218,17 +6218,17 @@ label a2_emi:
         hi "Well, I'll see you tomorrow then, okay?"
 
         show emi basic_happy_rn
-        with charachange
+        with persistent.charachange
 
         emi "Yeah!"
 
         show emi basic_grin_rn
-        with charachange
+        with persistent.charachange
 
         emi "Thanks for coming! Oh, and for carrying the picnic basket!"
 
         show emi excited_amused_rn
-        with charachange
+        with persistent.charachange
 
         emi "I'll bring it for lunch tomorrow. We can have our picnic on the roof!"
 
@@ -6266,14 +6266,14 @@ label a2_emi:
         "The books are unceremoniously dumped into my arms as Kenji fumbles with his room key."
 
         show kenji happy
-        with charachange
+        with persistent.charachange
 
         ke "Thanks, you're a lifesaver."
 
         ke "If you weren't around I'd have to keep my door unlocked, and that's just begging for trouble."
 
         show kenji tsun
-        with charachange
+        with persistent.charachange
 
         ke "The perfect opportunity to set up an ambush, or maybe just plant a bomb if they don't want to get their hands too dirty."
 
@@ -6288,12 +6288,12 @@ label a2_emi:
         hi "Uh… huh."
 
         show kenji happy
-        with charachange
+        with persistent.charachange
 
         ke "Anyway, where have you been, man?"
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "I could have used some help carrying these back from the library!"
 
@@ -6306,7 +6306,7 @@ label a2_emi:
         hi "I was out with Emi and Rin."
 
         show kenji rage
-        with charachange
+        with persistent.charachange
 
         "Kenji staggers back in shock."
 
@@ -6315,7 +6315,7 @@ label a2_emi:
         ke "The limbless ladies again?"
 
         show kenji tsun
-        with charachange
+        with persistent.charachange
 
         ke "What'd you do this time?"
 
@@ -6348,7 +6348,7 @@ label a2_emi:
         ke "Wallet's gone. Bus pass? Gone. Identity? Fuckin' {b}gone{/b}, man!"
 
         show kenji tsun
-        with charachange
+        with persistent.charachange
 
         ke "Promise me you won't go there again!"
 
@@ -6361,12 +6361,12 @@ label a2_emi:
         "This seems to mollify my bespectacled companion."
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "Good, good."
 
         show kenji happy
-        with charachange
+        with persistent.charachange
 
         ke "Sorry to come on so strong, but I know the danger there too well to let you just wander into the lion's den again."
 
@@ -6375,12 +6375,12 @@ label a2_emi:
         hi "Yeah, well I need to get changed and uh, do homework. So… I'll see you later."
 
         show kenji tsun
-        with charachange
+        with persistent.charachange
 
         ke "Huh?"
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "Oh, sure. Whatever."
 
@@ -6556,7 +6556,7 @@ label a2_emi:
         hi "Is she okay?"
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         "While I try valiantly to conceal the anxiety in my voice, the nurse's expression suggests that I've failed miserably."
 
@@ -6567,7 +6567,7 @@ label a2_emi:
         hi "What? Sick?"
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         "The nurse shrugs."
 
@@ -6576,7 +6576,7 @@ label a2_emi:
         nk "To be honest I'm surprised she made it here."
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         nk "She was burning up when she arrived."
 
@@ -6585,7 +6585,7 @@ label a2_emi:
         stop music fadeout 2.0
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         "The nurse gives me a sheepish smile that seems at least partially sincere."
 
@@ -6594,7 +6594,7 @@ label a2_emi:
         play music music_nurse fadein 1.0
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "But we don't need to tell Emi I forgot, right?"
 
@@ -6607,7 +6607,7 @@ label a2_emi:
         hi "I'll save it for whenever I need a favor from you."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         "The nurse laughs."
 
@@ -6616,45 +6616,45 @@ label a2_emi:
         nk "But you know, I've got tons of blackmail on you that you're not even aware of."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "So don't push your luck, okay?"
 
         "My expression earns another laugh from the nurse."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         nk "I'm just kidding, Hisao."
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         nk "But seriously - don't tell Emi I forgot, okay?"
 
         hi "Your secret is safe with me."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Oh good. Now go on, get out of here."
 
         hi "Wait, I've got one more question."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "Shoot."
 
         hi "Is she going to be okay?"
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         nk "Oh yeah, definitely."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Her fever was high, but it was already starting to go down by the time she came by my office."
 
@@ -6665,21 +6665,21 @@ label a2_emi:
         "It takes me a second to realize I've spoken aloud."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         "The nurse raises an eyebrow and gives me a searching glance for a moment."
 
         nk "Hmm…"
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Well, it might not be a bad idea."
 
         nk "You could let me know if she'd taken a turn for the worse, I guess."
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         nk "But no funny business, you got it? I know what meds you're on, after all."
 
@@ -6747,31 +6747,31 @@ label a2_emi:
         hi "Er, excuse me."
 
         show yuuko neutral_down
-        with charachange
+        with persistent.charachange
 
         yu "Oh, can I help you?"
 
         hi "Actually, I was looking for a book…"
 
         show yuuko panic_up
-        with charachange
+        with persistent.charachange
 
         yu "So am I!"
 
         show yuuko smile_down
-        with charachange
+        with persistent.charachange
 
         yu "'Advanced Cryptography.' We just got it in, and now it's gone missing."
 
         show yuuko worried_up
-        with charachange
+        with persistent.charachange
 
         yu "I really, really wanted to read that one!"
 
         hi "Cryptography?"
 
         show yuuko neurotic_up
-        with charachange
+        with persistent.charachange
 
         yu "Yeah, my… er, that is…"
 
@@ -6782,14 +6782,14 @@ label a2_emi:
         hi "Skip to the end."
 
         show yuuko smile_down
-        with charachange
+        with persistent.charachange
 
         yu "He got me interested in cryptography only now the book's gone, and I think it's been stolen!"
 
         hi "Sounds pretty terrible."
 
         show yuuko worried_up
-        with charachange
+        with persistent.charachange
 
         yu "Yeah, especially because now I have to search the whole library for it!"
 
@@ -6798,7 +6798,7 @@ label a2_emi:
         hi "You seem… busy."
 
         show yuuko neurotic_up
-        with charachange
+        with persistent.charachange
 
         yu "A little."
 
@@ -6832,17 +6832,17 @@ label a2_emi:
         hi "Oh no, I should be apologizing. I didn't mean to make so much noise."
 
         show lilly basic_ara
-        with charachange
+        with persistent.charachange
 
         li "My, is that you Hisao?"
 
         show lilly basic_smile
-        with charachange
+        with persistent.charachange
 
         li "I've not heard from you in quite some time."
 
         show lilly basic_pout
-        with charachange
+        with persistent.charachange
 
         li "I was beginning to think you'd forgotten all about me."
 
@@ -6851,19 +6851,19 @@ label a2_emi:
         play music music_lilly fadein 4.0
 
         show lilly basic_giggle
-        with charachange
+        with persistent.charachange
 
         "Lilly laughs in that refined manner of hers and shakes her head."
 
         show lilly basic_smile
-        with charachange
+        with persistent.charachange
 
         li "I'm only teasing you, Hisao."
 
         li "From what I hear, you've been busy."
 
         show lilly basic_cheerful
-        with charachange
+        with persistent.charachange
 
         li "Morning runs with Emi Ibarazaki {b}and{/b} lunch on the rooftop, if I'm not mistaken."
 
@@ -6872,12 +6872,12 @@ label a2_emi:
         hi "Guess word gets around pretty quickly."
 
         show lilly basic_weaksmile
-        with charachange
+        with persistent.charachange
 
         li "That and I can't coax poor Hanako on the roof any more."
 
         show lilly basic_displeased
-        with charachange
+        with persistent.charachange
 
         li "You three are always up there, claiming the spot for yourselves."
 
@@ -6888,12 +6888,12 @@ label a2_emi:
         hi "Sorry, we could eat lunch somewhere else if it's a real problem—"
 
         show lilly basic_ara
-        with charachange
+        with persistent.charachange
 
         li "Oh no, I wouldn't worry about it."
 
         show lilly basic_smile
-        with charachange
+        with persistent.charachange
 
         li "Hanako and I have other things to do at lunch, too."
 
@@ -6902,14 +6902,14 @@ label a2_emi:
         hi "Oh, Hanako's here too? I didn't see her."
 
         show lilly basic_smileclosed
-        with charachange
+        with persistent.charachange
 
         "Lilly smiles, a bit enigmatically."
 
         li "Oh, she's around somewhere."
 
         show lilly basic_smile
-        with charachange
+        with persistent.charachange
 
         li "But I'm surprised, Hisao. You're in here, instead of up there."
 
@@ -6918,7 +6918,7 @@ label a2_emi:
         hi "Well, Emi's ill, so there's no lunch on the rooftop to keep me occupied…"
 
         show lilly basic_giggle
-        with charachange
+        with persistent.charachange
 
         "Lilly raises an eyebrow at my statement before giving another chuckle."
 
@@ -6927,12 +6927,12 @@ label a2_emi:
         hi "It's not like that!"
 
         show lilly basic_weaksmile
-        with charachange
+        with persistent.charachange
 
         li "Ah, but I'm sure it isn't. Emi tends to be the life of whatever group she's in."
 
         show lilly basic_sad
-        with charachange
+        with persistent.charachange
 
         li "It's a shame to hear she's fallen ill. Will she be okay?"
 
@@ -6941,7 +6941,7 @@ label a2_emi:
         hi "The nurse thinks so. I'm going to swing by and see how she's doing after school myself."
 
         show lilly basic_smileclosed
-        with charachange
+        with persistent.charachange
 
         "Another raised eyebrow."
 
@@ -6950,21 +6950,21 @@ label a2_emi:
         hi "It's nothing, really. Just checking up on my friend, after all."
 
         show lilly basic_planned
-        with charachange
+        with persistent.charachange
 
         li "Ah, so it's just friends, is it? How disappointing."
 
         "I blush, glad that Lilly can't see it."
 
         show lilly basic_giggle
-        with charachange
+        with persistent.charachange
 
         "But somehow she knows that I've been flustered by her comment anyway, and laughs."
 
         li "I'm sorry, Hisao. I'm teasing you again."
 
         show lilly basic_smile
-        with charachange
+        with persistent.charachange
 
         li "Please do tell Emi that I hope she feels better, won't you?"
 
@@ -6981,7 +6981,7 @@ label a2_emi:
         "Lilly, however, takes my gaffe in stride."
 
         show lilly basic_weaksmile
-        with charachange
+        with persistent.charachange
 
         stop music fadeout 3.0
 
@@ -7149,29 +7149,29 @@ label a2_emi:
         hi "Um, sorry."
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         "Emi giggles again and moves to sit up a little straighter."
 
         "I'm caught up in the movements of her shirt, very nearly losing myself."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "I was wondering what your reaction would be."
 
         show emi basic_closedhappy_gym
-        with charachange
+        with persistent.charachange
 
         emi "The nurse called and told me you were going to drop by, you see."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "And I know you haven't seen me… well, you know."
 
         show emi sad_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Without legs."
 
@@ -7229,7 +7229,7 @@ label a2_emi:
         hi "Gotcha!"
 
         show emi basic_hes_gym_close
-        with charachange
+        with persistent.charachange
 
         emi "Eep!"
 
@@ -7506,7 +7506,7 @@ label a2_emi:
         emi "Huh? What?"
 
         show emi basic_hes_gym_close_ni
-        with charachange
+        with persistent.charachange
 
         emi "Hisao?"
 
@@ -7515,7 +7515,7 @@ label a2_emi:
         hi "You had a nightmare. I think."
 
         show emi sad_shy_gym_close_ni
-        with charachange
+        with persistent.charachange
 
         "Emi shudders again and glances up at me a little cautiously, as if unsure whether or not she's actually up."
 
@@ -7528,14 +7528,14 @@ label a2_emi:
         "A speedy internal debate seems to be going on in her head, which resolves itself with a shrug."
 
         show emi basic_hes_gym_close_ni
-        with charachange
+        with persistent.charachange
 
         emi "Nah, I don't really remember much of it."
 
         "I'm pretty sure she's lying to me, but somehow I don't think I should press the issue."
 
         show emi sad_shyblush_gym_close_ni
-        with charachange
+        with persistent.charachange
 
         "Emi shudders again and turns toward me, looking a little sheepish."
 
@@ -7554,31 +7554,31 @@ label a2_emi:
         "Rin, maybe. But Emi's far too energetic."
 
         show emi basic_grin_gym_close_ni
-        with charachange
+        with persistent.charachange
 
         "Emi gives a half-smile at my response, and then just like that she's back to her old self."
 
         show emi basic_closedgrin_gym_close_ni
-        with charachange
+        with persistent.charachange
 
         emi "Well, prepare yourself for tomorrow morning Hisao!"
 
         show emi excited_proud_gym_close_ni
-        with charachange
+        with persistent.charachange
 
         emi "We'll have to go twice as hard to make up for today!"
 
         hi "But I went running this morning!"
 
         show emi basic_annoyed_gym_close_ni
-        with charachange
+        with persistent.charachange
 
         emi "No excuse!"
 
         hi "Oh fine, I'll be ready for you!"
 
         show emi basic_grin_gym_close_ni
-        with charachange
+        with persistent.charachange
 
         "Emi nods, satisfied."
 
@@ -7594,7 +7594,7 @@ label a2_emi:
         "I hop off the bed and head for the door."
 
         show emi sad_shy_gym_ni
-        with charachange
+        with persistent.charachange
 
         emi "Hey, Hisao…"
 
@@ -7603,14 +7603,14 @@ label a2_emi:
         "I pivot neatly on my heel and face Emi."
 
         show emi basic_hes_gym_ni
-        with charachange
+        with persistent.charachange
 
         "She opens her mouth to say something, and then in another first, I see her falter slightly."
 
         "She closes her mouth and opens it again."
 
         show emi sad_grin_gym_ni
-        with charachange
+        with persistent.charachange
 
         emi "…Thanks."
 
@@ -7623,26 +7623,26 @@ label a2_emi:
         "She's certainly popular enough, or so I thought. Always talking to people in the hallways."
 
         show emi sad_shy_gym_ni
-        with charachange
+        with persistent.charachange
 
         "Emi hesitates again."
 
         emi "And thanks for staying around after I… well."
 
         show emi sad_depressed_gym_ni
-        with charachange
+        with persistent.charachange
 
         "A look of pain flits across her face."
 
         emi "You know."
 
         show emi sad_grin_gym_ni
-        with charachange
+        with persistent.charachange
 
         emi "It helped."
 
         show emi basic_closedgrin_gym_ni
-        with charachange
+        with persistent.charachange
 
         "She brightens back up and waves cheerily at me."
 
@@ -7655,26 +7655,26 @@ label a2_emi:
         hi "Hey, Emi."
 
         show emi basic_grin_gym_ni
-        with charachange
+        with persistent.charachange
 
         emi "Hmm?"
 
         hi "Anytime you need to talk, let me know, okay?"
 
         show emi sad_shy_gym_ni
-        with charachange
+        with persistent.charachange
 
         "Emi seems taken aback by this offer."
 
         show emi basic_closedgrin_gym_ni
-        with charachange
+        with persistent.charachange
 
         "Her grin gets even wider."
 
         emi "Sure thing, Hisao."
 
         show emi basic_grin_gym_ni
-        with charachange
+        with persistent.charachange
 
         emi "See you in the morning!"
 
@@ -7886,7 +7886,7 @@ label a2_emi:
         emi "You're early again, Hisao!"
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "I'm impressed!"
 
@@ -7909,12 +7909,12 @@ label a2_emi:
         "I don't know if Emi realizes that I'm actually concerned about how well she slept last night, but the question does give her pause."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         "After a short moment of what seems like her genuinely pondering this, she nods."
 
         show emi basic_closedhappy_gym
-        with charachange
+        with persistent.charachange
 
         emi "Yep! Sure did!"
 
@@ -7927,19 +7927,19 @@ label a2_emi:
         hi "Good to hear."
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         "Emi grins and begins warming up."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "So, ready to begin?"
 
         hi "Pfft, am I ready? Of course I'm ready! I was born ready!"
 
         show emi basic_closedhappy_gym
-        with charachange
+        with persistent.charachange
 
         "Emi laughs at my bravado, and we take off running."
 
@@ -7966,7 +7966,7 @@ label a2_emi:
         emi "Nice job, Hisao! You're improving!"
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         emi "You'll be half as fast as me in no time!"
 
@@ -8008,29 +8008,29 @@ label a2_emi:
         emi "Bah! I'm just trying to make up for lost time, that's all."
 
         show emi excited_happy_gym
-        with charachange
+        with persistent.charachange
 
         emi "I went twice as hard today, you know."
 
         show emi excited_laugh_gym
-        with charachange
+        with persistent.charachange
 
         emi "A good run always gets the kinks out, you know."
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Clears the mind, too."
 
         hi "Oh?"
 
         show emi excited_happy_gym
-        with charachange
+        with persistent.charachange
 
         "Emi nods vigorously."
 
         show emi excited_amused_gym
-        with charachange
+        with persistent.charachange
 
         emi "Yep! It's a great outlet for that sort of thing."
 
@@ -8049,7 +8049,7 @@ label a2_emi:
         hi "I'm sure that comes in handy."
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "You have no idea."
 
@@ -8064,12 +8064,12 @@ label a2_emi:
         "Emi doesn't seem surprised by my question."
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         "Instead, she shrugs."
 
         show emi sad_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Nah, it's nothing worth getting worried about."
 
@@ -8088,19 +8088,19 @@ label a2_emi:
         hi "Yeah, I hear you."
 
         show emi basic_hes_gym
-        with charachange
+        with persistent.charachange
 
         emi "We'd better hurry to see the nurse. We're running short on time."
 
         hi "Aren't we always?"
 
         show emi basic_grin_gym
-        with charachange
+        with persistent.charachange
 
         "Emi laughs at this, a dry chuckle that seems most un-Emi-like."
 
         show emi sad_grin_gym
-        with charachange
+        with persistent.charachange
 
         emi "Too true."
 
@@ -8111,7 +8111,7 @@ label a2_emi:
         "And then she's back to being Emi again."
 
         show emi excited_proud_gym
-        with charachange
+        with persistent.charachange
 
         emi "Come on then Hisao. Race ya!"
 
@@ -8141,7 +8141,7 @@ label a2_emi:
         "Emi's waiting for me at the door as I arrive."
 
         show emi basic_closedhappy_gym
-        with charachange
+        with persistent.charachange
 
         emi "Well well, look who's finally shown up!"
 
@@ -8150,7 +8150,7 @@ label a2_emi:
         hi "Enjoy your victory while you can."
 
         show emi basic_closedgrin_gym
-        with charachange
+        with persistent.charachange
 
         "Emi grins as the nurse pokes his head out of the door."
 
@@ -8175,14 +8175,14 @@ label a2_emi:
         "In what has become a familiar routine by now, he checks my blood pressure and my heart rate."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "A bit fast today, isn't it?"
 
         hi "Yeah, I kind of raced Emi here."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         "The nurse laughs."
 
@@ -8206,12 +8206,12 @@ label a2_emi:
         hi "Really? She never mentioned it before!"
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         "The two of us share a laugh."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Did she do okay today?"
 
@@ -8220,14 +8220,14 @@ label a2_emi:
         hi "Why don't you ask her?"
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         "He rolls his eyes in exasperation."
 
         nk "Of course I'm going to ask her too, but she'll tell me that she didn't have any problems, regardless of whether or not she did."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "So I'm asking you, because you're her friend and would probably tell me if she had trouble today."
 
@@ -8238,7 +8238,7 @@ label a2_emi:
         hi "She was already feeling better when I dropped by yesterday, so I'm not that surprised."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         "The nurse nods, though I notice he tenses slightly when I mention yesterday's visit."
 
@@ -8251,7 +8251,7 @@ label a2_emi:
         hi "Are she and the track captain…? Well, you know."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         "A look of suspicion crosses his face."
 
@@ -8266,7 +8266,7 @@ label a2_emi:
         hi "Besides, I think they'd make a cute couple."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         "The nurse laughs."
 
@@ -8277,24 +8277,24 @@ label a2_emi:
         hi "Certainty?"
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Yep."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "Not that I could tell you, of course. Confidentiality and all that."
 
         hi "Yeah right, you just like holding a secret over my head."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         nk "That too."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Right. Get out of here. I'm a busy man, you know."
 
@@ -8381,7 +8381,7 @@ label a2_emi:
         emi "What do you mean, 'huh?'"
 
         show emi basic_grin
-        with charachange
+        with persistent.charachange
 
         emi "It's me! You know, Emi! We run in the mornings."
 
@@ -8392,7 +8392,7 @@ label a2_emi:
         hi "…Where's Rin?"
 
         show emi sad_depressed
-        with charachange
+        with persistent.charachange
 
         "Emi's grin is replaced by a rather guilty-looking expression."
 
@@ -8401,7 +8401,7 @@ label a2_emi:
         emi "I kind of… sort of…"
 
         show emi sad_shy
-        with charachange
+        with persistent.charachange
 
         emi "Gavehermycold."
 
@@ -8423,21 +8423,21 @@ label a2_emi:
         "Rin's just probably got a worse immune system than me."
 
         show emi basic_shock
-        with charachange
+        with persistent.charachange
 
         "Emi seems shocked by my comment, like she hadn't considered that before."
 
         emi "I hope not!"
 
         show emi excited_sad
-        with charachange
+        with persistent.charachange
 
         emi "I'll feel terrible if you get ill because of me, Hisao!"
 
         hi "Oh man, I think I feel a fever coming on…"
 
         show emi sad_annoyed
-        with charachange
+        with persistent.charachange
 
         "Emi looks horrified, and then quickly shifts into a more angry expression."
 
@@ -8446,7 +8446,7 @@ label a2_emi:
         emi "You stop getting sick this instant!"
 
         show emi basic_annoyed
-        with charachange
+        with persistent.charachange
 
         emi "I won't have it!"
 
@@ -8458,7 +8458,7 @@ label a2_emi:
         emi "Are you listening to me, Hisao's immune system?"
 
         show emi sad_angry_close
-        with charachange
+        with persistent.charachange
 
         emi "Get your ass in gear!"
 
@@ -8472,19 +8472,19 @@ label a2_emi:
         "Emi steps back and nods, satisfied."
 
         show emi basic_closedgrin
-        with charachange
+        with persistent.charachange
 
         emi "Good."
 
         show emi basic_happy
-        with charachange
+        with persistent.charachange
 
         emi "You are not allowed to miss any of our morning runs, after all."
 
         hi "But you missed a morning run!"
 
         show emi sad_annoyed
-        with charachange
+        with persistent.charachange
 
         "Emi crosses her arms and looks at me haughtily."
 
@@ -8493,52 +8493,52 @@ label a2_emi:
         hi "That's not an explanation at all."
 
         show emi basic_confused
-        with charachange
+        with persistent.charachange
 
         "Emi looks flabbergasted."
 
         emi "You're kidding, right?"
 
         show emi basic_annoyed
-        with charachange
+        with persistent.charachange
 
         emi "That explanation makes perfect sense!"
 
         hi "No it doesn't! It's a blatant double standard!"
 
         show emi sad_annoyed
-        with charachange
+        with persistent.charachange
 
         emi "I don't see what that has to do with anything."
 
         hi "Oh, fine."
 
         show emi basic_closedgrin
-        with charachange
+        with persistent.charachange
 
         "Emi seems pleased by her victory."
 
         hi "Anyway, is Rin going to be okay? She's not terribly ill, right?"
 
         show emi basic_grin
-        with charachange
+        with persistent.charachange
 
         "Emi shakes her head."
 
         emi "Nope! She'll be fine."
 
         show emi excited_proud
-        with charachange
+        with persistent.charachange
 
         emi "I got her some cold medicine that should help her."
 
         show emi basic_hes
-        with charachange
+        with persistent.charachange
 
         emi "Although I probably should have made sure she didn't try to take them all at once…"
 
         show emi basic_grin
-        with charachange
+        with persistent.charachange
 
         emi "She's done it before, you know."
 
@@ -8549,7 +8549,7 @@ label a2_emi:
         hi "You should probably check in on her later, then. Just to make sure."
 
         show emi sad_grin
-        with charachange
+        with persistent.charachange
 
         "Emi shrugs."
 
@@ -8578,12 +8578,12 @@ label a2_emi:
         nvl hide dissolve
 
         show emi basic_grin
-        with charachange
+        with persistent.charachange
 
         "Emi shakes her head."
 
         show emi basic_closedgrin
-        with charachange
+        with persistent.charachange
 
         emi "Nah, not for another couple weeks, I think. The season's winding down."
 
@@ -8594,7 +8594,7 @@ label a2_emi:
         hi "What do you do on weekends if there's not a meet?"
 
         show emi excited_proud
-        with charachange
+        with persistent.charachange
 
         "An eyebrow goes up, and Emi gets a teasing look on her face."
 
@@ -8607,26 +8607,26 @@ label a2_emi:
         hi "I don't know what it's like to be a track star, after all."
 
         show emi basic_closedgrin
-        with charachange
+        with persistent.charachange
 
         emi "Pfft, flattery."
 
         "She waves a hand idly."
 
         show emi basic_grin
-        with charachange
+        with persistent.charachange
 
         emi "I'm not actually that good, you know."
 
         show emi basic_closedhappy
-        with charachange
+        with persistent.charachange
 
         emi "You just so happened to see me on a good day, is all."
 
         hi "You liar."
 
         show emi sad_grin
-        with charachange
+        with persistent.charachange
 
         stop music fadeout 6.0
 
@@ -8635,7 +8635,7 @@ label a2_emi:
         emi "But humility is the sign of a good athlete."
 
         show emi sad_depressed
-        with charachange
+        with persistent.charachange
 
         emi "At least that's what my dad used to say."
 
@@ -8650,7 +8650,7 @@ label a2_emi:
         "Or if she actually just trusts me enough at this point to open up."
 
         show emi sad_shy
-        with charachange
+        with persistent.charachange
 
         play music music_comfort fadein 9.0
 
@@ -8659,7 +8659,7 @@ label a2_emi:
         "Do I ever. I settle for nodding, however."
 
         show emi sad_depressed
-        with charachange
+        with persistent.charachange
 
         emi "That's not the first time that's happened to me."
 
@@ -8674,14 +8674,14 @@ label a2_emi:
         emi "Well, not often, but…"
 
         show emi sad_shy
-        with charachange
+        with persistent.charachange
 
         emi "On occasion."
 
         emi "It's just been one of those weeks where that's what happens."
 
         show emi sad_depressed
-        with charachange
+        with persistent.charachange
 
         "A sigh escapes her, and she looks terribly frustrated."
 
@@ -8699,14 +8699,14 @@ label a2_emi:
         hi "You really can talk to me if stuff like this is bothering you. It's always difficult to do this sort of thing solo, you know?"
 
         show emi sad_grin_close
-        with charachange
+        with persistent.charachange
 
         "Emi smiles and breaks the embrace, but stays leaning on my shoulder."
 
         emi "Thanks, Hisao."
 
         show emi basic_grin_close
-        with charachange
+        with persistent.charachange
 
         emi "I'll be fine, I think."
 
@@ -8717,12 +8717,12 @@ label a2_emi:
         hi "So hey, given any more thought to that career survey?"
 
         show emi basic_closedgrin_close
-        with charachange
+        with persistent.charachange
 
         emi "Can't say I have."
 
         show emi basic_grin_close
-        with charachange
+        with persistent.charachange
 
         emi "I don't tend to plan very far ahead, you know."
 
@@ -8737,7 +8737,7 @@ label a2_emi:
         hi "Unless there's like, a pirate university out there somewhere."
 
         show emi basic_closedgrin_close
-        with charachange
+        with persistent.charachange
 
         "Emi giggles and starts to look a little like her old self, but there's a new element to her expression."
 
@@ -8746,7 +8746,7 @@ label a2_emi:
         "Emi looks impish, looking up at me with her head nestled into my shoulder."
 
         show emi sad_grin_close
-        with charachange
+        with persistent.charachange
 
         emi "Would you come with me if I ran off to be a pirate?"
 
@@ -8755,12 +8755,12 @@ label a2_emi:
         hi "Who in their right mind would pass up the opportunity to be pirates with you?"
 
         show emi basic_grin_close
-        with charachange
+        with persistent.charachange
 
         emi "Well, when you put it that way, I'm not sure."
 
         show emi basic_closedgrin_close
-        with charachange
+        with persistent.charachange
 
         "She giggles again."
 
@@ -8773,14 +8773,14 @@ label a2_emi:
         "She's happy again."
 
         show emi sad_shy_close
-        with charachange
+        with persistent.charachange
 
         emi "Hey, Hisao."
 
         hi "Hmm?"
 
         show emi sad_grin_close
-        with charachange
+        with persistent.charachange
 
         emi "If you're going to kiss me, you should probably do it soon. I think the lunch bell is about to ring."
 
@@ -8793,41 +8793,41 @@ label a2_emi:
         "All I can manage is a strangled 'Huh?'"
 
         show emi basic_closedgrin_close
-        with charachange
+        with persistent.charachange
 
         "This amuses Emi even more."
 
         show emi excited_proud_close
-        with charachange
+        with persistent.charachange
 
         emi "You were thinking about it, weren't you?"
 
         "She sits up, bringing her face level with mine."
 
         show emi basic_grin_close
-        with charachange
+        with persistent.charachange
 
         emi "I'd probably enjoy it, you know?"
 
         show emi sad_grin_close
-        with charachange
+        with persistent.charachange
 
         emi "You're a really…"
 
         show emi sad_shy_close
-        with charachange
+        with persistent.charachange
 
         emi "…Well."
 
         "She briefly composes herself, looking like she's about to say something important."
 
         show emi sad_grin_close
-        with charachange
+        with persistent.charachange
 
         emi "If you hadn't figured it out by now, I think I've developed a bit of a crush on you."
 
         show emi basic_grin_close
-        with charachange
+        with persistent.charachange
 
         emi "You're going to have to do something about that."
 
@@ -8909,12 +8909,12 @@ label a2_emi:
 
         show emi sad_grin_close
         hide overlay
-        with charachange
+        with persistent.charachange
 
         emi "So…"
 
         show emi basic_closedgrin_close
-        with charachange
+        with persistent.charachange
 
         emi "…Wanna grab dinner after I'm done with practice?"
 
@@ -8929,12 +8929,12 @@ label a2_emi:
         "Emi gives me a playful shove."
 
         show emi basic_happy_close
-        with charachange
+        with persistent.charachange
 
         emi "Yeah right."
 
         show emi basic_closedhappy_close
-        with charachange
+        with persistent.charachange
 
         emi "You were still in shock from how incredibly awesome I am at kissing."
 
@@ -8949,17 +8949,17 @@ label a2_emi:
         hi "Hey, I didn't see you talking immediately afterwards either."
 
         show emi basic_closedgrin
-        with charachange
+        with persistent.charachange
 
         emi "That I didn't."
 
         show emi basic_closedhappy
-        with charachange
+        with persistent.charachange
 
         emi "See you after practice, Hisao."
 
         show emi basic_closedgrin_close
-        with charachange
+        with persistent.charachange
 
         show emi:
             easeout 0.5 xpos 0.6 alpha 0.0
@@ -8981,12 +8981,12 @@ label a2_emi:
         hi "Er, actually I think it was the other way around."
 
         show misha cross_laugh
-        with charachange
+        with persistent.charachange
 
         "This sends Misha into a fresh fit of laughter."
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Young love is so unpredictable, isn't it~?"
 
@@ -9019,7 +9019,7 @@ label a2ec1o1:
     hi "I might as well, right?"
 
     show emi basic_annoyed_rn
-    with charachange
+    with persistent.charachange
 
     "Emi shakes her head emphatically."
 

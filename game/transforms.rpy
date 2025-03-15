@@ -426,8 +426,8 @@ define charadistant = dissolve
 
 define charachangealways = dissolve
 define charachangeev = dissolve
-define charachange = None # charachangealways (must be customizable)
-define charachangefast = None # Dissolve(0.2) (must be customizable)
+default persistent.charachange = { 'master' : dissolve } # Default because customizable
+default persistent.charachangefast = { 'master' : Dissolve(0.2) } # Default because customizable
 
 define charamovechange = Dissolvemove(2.0)
 

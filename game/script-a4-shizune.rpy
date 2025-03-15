@@ -26,28 +26,28 @@ label a4_shizune:
         "Yuuko bolts out of her chair with enough force to dislodge her glasses. She barely holds on to them."
 
         show yuuko neutral_up
-        with charachange
+        with persistent.charachange
 
         yu "Oh, hi."
 
         hi "Sorry. I'm here to return all those books I was supposed to."
 
         show yuuko worried_down
-        with charachange
+        with persistent.charachange
 
         yu "That's great, but I wish you had brought them back sooner. It wouldn't be a problem if the library had more copies of everything, but it doesn't… and they act like that's my fault."
 
         hi "'They?'"
 
         show yuuko panic_down
-        with charachange
+        with persistent.charachange
 
         yu "Other students. They can be… um, pretty pushy."
 
         hi "Sorry. It just kind of slipped my mind. It's been a pretty rough couple of days."
 
         show yuuko worried_down
-        with charachange
+        with persistent.charachange
 
         yu "Oh… Um, I suppose you don't want to talk about it…"
 
@@ -82,7 +82,7 @@ label a4_shizune:
         hi "Actually, I kind of want to."
 
         show yuuko worried_up
-        with charachange
+        with persistent.charachange
 
         yu "With whom?"
 
@@ -91,14 +91,14 @@ label a4_shizune:
         hi "With you."
 
         show yuuko neurotic_up
-        with charachange
+        with persistent.charachange
 
         yu "Ah… Really? Are you sure? W-why me?"
 
         hi "Because you're an adult."
 
         show yuuko neurotic_down
-        with charachange
+        with persistent.charachange
 
         yu "That's it? Ahhhh… that's…"
 
@@ -107,24 +107,24 @@ label a4_shizune:
         hi "Is it hard, being an adult?"
 
         show yuuko cry_down
-        with charachange
+        with persistent.charachange
 
         yu "Yes."
 
         show yuuko panic_down
-        with charachange
+        with persistent.charachange
 
         yu "I don't think I'm that old, though… It's surprising that students now, l-like Shizune and you, wear stuff like perfumes or cologne… I never did. I still don't use them…"
 
         show yuuko worried_up
-        with charachange
+        with persistent.charachange
 
         yu "Um, by the way, you're not wearing your grape cologne today."
 
         hi "Yeah, it wasn't working out for me."
 
         show yuuko worried_down
-        with charachange
+        with persistent.charachange
 
         yu "Oh, that's good. I thought the same thing… Sorry."
 
@@ -137,19 +137,19 @@ label a4_shizune:
         hi "I feel stupid that I could go so long and never think about these things. I've met a lot of great people, and I've never thought about what it's going to be like to graduate and maybe never see them again."
 
         show yuuko neutral_down
-        with charachange
+        with persistent.charachange
 
         yu "There are still ways you could keep in touch…"
 
         hi "Yeah, I guess. I feel childish. I know everyone is going through the same thing, probably. I bet you hear this kind of problem a lot."
 
         show yuuko worried_down
-        with charachange
+        with persistent.charachange
 
         yu "N-no… I haven't been working here that long…"
 
         show yuuko worried_up
-        with charachange
+        with persistent.charachange
 
         yu "I worried about the same thing when I graduated from high school. Um, I didn't go to school here, though. I also miss my friends… and I wish I had kept in touch with them better. I should have tried harder."
 
@@ -160,21 +160,21 @@ label a4_shizune:
         hi "I wonder if Shizune even thinks about that kind of stuff. Because she goes on sometimes, about how she doesn't want to live with any regrets."
 
         show yuuko panic_up
-        with charachange
+        with persistent.charachange
 
         yu "Wow… That sounds impossible, to me…"
 
         "I nod, only halfway wanting to agree."
 
         show yuuko closedhappy_up
-        with charachange
+        with persistent.charachange
 
         yu "Even so… I think that is kind of admirable, too… Kind of brave. Don't you think so?"
 
         hi "'Brave' is a new way to put it."
 
         show yuuko neutral_down
-        with charachange
+        with persistent.charachange
 
         "Yuuko shakes her head insistently."
 
@@ -183,7 +183,7 @@ label a4_shizune:
         hi "Geez. You shouldn't be intimidated by high schoolers."
 
         show yuuko worried_up
-        with charachange
+        with persistent.charachange
 
         yu "I'll try…"
 
@@ -204,12 +204,12 @@ label a4_shizune:
         yu "Um…"
 
         show yuuko smile_down
-        with charachange
+        with persistent.charachange
 
         yu "I don't think I really regret it. I thought, as long as I could remember the good times, that was enough."
 
         show yuuko worried_down
-        with charachange
+        with persistent.charachange
 
         yu "I don't know. …Sorry."
 
@@ -222,7 +222,7 @@ label a4_shizune:
         hi "I don't get how I'm supposed to handle this kind of situation. It doesn't seem like the kind of problem where I'll have to end up taking a side, but it could turn out that way, and then I have no idea what I'm going to do."
 
         show yuuko neutral_down
-        with charachange
+        with persistent.charachange
 
         yu "You should tell them they shouldn't fight."
 
@@ -231,7 +231,7 @@ label a4_shizune:
         hi "It's not Shizune and Misha, by the way."
 
         show yuuko worried_up
-        with charachange
+        with persistent.charachange
 
         yu "Okay… Um, I wasn't really thinking that, though…"
 
@@ -240,7 +240,7 @@ label a4_shizune:
         hi "Do you have any books about people who have to make hard decisions?"
 
         show yuuko happy_down
-        with charachange
+        with persistent.charachange
 
         yu "We have a lot of self-help books…"
 
@@ -249,7 +249,7 @@ label a4_shizune:
         hi "I meant 'about,' not 'for.' There aren't many, right?"
 
         show yuuko worried_down
-        with charachange
+        with persistent.charachange
 
         yu "Yes. Um, not many, I mean."
 
@@ -270,7 +270,7 @@ label a4_shizune:
         "Worryingly, Misha isn't with her. When Shizune notices me and looks up from her paperwork, the first thing I ask is where she is."
 
         show shizu basic_normal2
-        with charachange
+        with persistent.charachange
 
         ssh "I don't know."
 
@@ -279,127 +279,127 @@ label a4_shizune:
         his "She's missing a lot of school."
 
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         ssh "Are you the attendance police?"
 
         his "That's really strange, coming from the Student Council president."
 
         show shizu adjust_smug
-        with charachange
+        with persistent.charachange
 
         "Shizune hides a laugh behind a cupped hand, and I start to think that I might be worrying for nothing, but then her laughter slowly fades away to a more serious and pensive expression."
 
         show shizu basic_normal
-        with charachange
+        with persistent.charachange
 
         ssh "You're right."
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         ssh "Yesterday,"
 
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         "I catch the hint of a knowing smile on her face when she sees my poorly-hidden panic at the word. Despite her best efforts, she can't help being satisfied in eliciting surprise from everyone else, to the very end."
 
         "Even then, I can see that she has bigger concerns from how quickly her smile vanishes."
 
         show shizu basic_angry
-        with charachange
+        with persistent.charachange
 
         ssh "…before either of you noticed me, I saw what you were saying. I'm not stupid."
 
         show shizu behind_frown
-        with charachange
+        with persistent.charachange
 
         ssh "If I hadn't, I could still see through Misha while we were walking back. Even if she hadn't told me everything later. She didn't make a big deal out of it, but any way you look at it, it's my fault, isn't it?"
 
         his "What did she tell you?"
 
         show shizu adjust_frown
-        with charachange
+        with persistent.charachange
 
         "Shizune winces at the question, though it's clear she's been expecting it. She follows it up with a very grand gesture."
 
         show shizu basic_normal2
-        with charachange
+        with persistent.charachange
 
         ssh "A lot."
 
         show shizu adjust_frown
-        with charachange
+        with persistent.charachange
 
         ssh "Like, that I can be selfish, and confusing. I try too hard to bring people around me, and then push them away."
 
         show shizu basic_normal2
-        with charachange
+        with persistent.charachange
 
         ssh "I didn't know what I should do. I thought she was right to mention all of those things, so I just agreed with her, but that only made things worse."
 
         show shizu behind_sad
-        with charachange
+        with persistent.charachange
 
         ssh "I don't understand."
 
         "Adjusting her glasses, she looks pretty tired. I hope it isn't because she's been busy avoiding Misha, but I can't help considering the possibility, seeing where this conversation is going."
 
         show shizu adjust_smug
-        with charachange
+        with persistent.charachange
 
         ssh "It's true. Even the Student Council being this small, and us always being swamped with work, is my fault. I might have even ended up driving a lot of people off, and away from the Student Council, acting like that."
 
         "Shizune wags a finger mischievously, acknowledging that 'might' is an understatement. However, from how wearily she does it, it's obvious the humor is only to put me at ease, and therefore not genuine."
 
         show shizu basic_normal
-        with charachange
+        with persistent.charachange
 
         ssh "Like Lilly, for instance. She was the first person to join when I started trying to recruit people again after everyone else left, because they couldn't stand me, I guess."
 
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         ssh "We managed to put together the last festival, and even ran a booth together at the last minute."
 
         show shizu behind_frown
-        with charachange
+        with persistent.charachange
 
         ssh "But I didn't like her because I thought she was selfish, always holding us up in order to tend to one friend of hers or another, and leaving Misha and me alone to sort out things involving the whole school by ourselves."
 
         show shizu cross_angry
-        with charachange
+        with persistent.charachange
 
         ssh "If there were any problem she was going through, she would leave us high and dry while she panicked over it, and wouldn't come back until it was solved."
 
         show shizu adjust_angry
-        with charachange
+        with persistent.charachange
 
         ssh "She would focus on it one hundred percent, and be too preoccupied to focus on any student council work!"
 
         show shizu behind_frustrated
-        with charachange
+        with persistent.charachange
 
         ssh "That was the worst, to me, that she could be so nice and still take so many people for granted. Why even join the Student Council, then? It seemed so shortsighted and selfish, don't you think?"
 
         show shizu basic_normal2
-        with charachange
+        with persistent.charachange
 
         ssh "But, it's actually me who's that way."
 
         show shizu adjust_frown
-        with charachange
+        with persistent.charachange
 
         ssh "Like Misha said, always trying to pull people close to me and then shutting them out."
 
         show shizu behind_sad
-        with charachange
+        with persistent.charachange
 
         ssh "That is how I've treated her, which makes me a bad friend. And it feels like I did the same thing to you, then, so I guess I'm a bad girlfriend, too, even if Misha says that you might as well replace her."
 
         show shizu basic_normal2
-        with charachange
+        with persistent.charachange
 
         ssh "I'm angry that I screwed things up enough for it to get this out of hand. All I wanted was to…"
 
@@ -408,12 +408,12 @@ label a4_shizune:
         "She pauses to look for the right words, tenting her fingers in concentration."
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         ssh "Make people happy, I think."
 
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         ssh "Even though that seems like a simple way to put it."
 
@@ -432,7 +432,7 @@ label a4_shizune:
         "Despite how hard she tried, anyway. I continue to stare back into her eyes, as sharp as ever. The first time I saw them, they had seemed a bit intimidating to me. Like the eyes of a predator. That hasn't changed, which I find reassuring."
 
         show shizu basic_normal
-        with charachange
+        with persistent.charachange
 
         ssh "I still want to make everyone happy."
 
@@ -441,34 +441,34 @@ label a4_shizune:
         play music music_shizune fadein 6.0
 
         show shizu basic_frown
-        with charachange
+        with persistent.charachange
 
         "Shizune looks a bit annoyed that I would imply she would start with anyone else, and smiles confidently, as though a friend's sadness is a physical opponent she can just strangle into submission."
 
         show shizu behind_frustrated
-        with charachange
+        with persistent.charachange
 
         ssh "Of course; obviously; naturally."
 
         show shizu adjust_noglasses
-        with charachange
+        with persistent.charachange
 
         "Taking off her glasses, she leans back in her chair and lets out a sigh. It's the first time I've seen her without them on, but I don't get a good look before she slips them back on."
 
         show shizu behind_smile
-        with charachange
+        with persistent.charachange
 
         ssh "But, I'm too tired to start today. First thing tomorrow."
 
         show shizu basic_normal
-        with charachange
+        with persistent.charachange
 
         ssh "Do you want to help?"
 
         his "Yeah."
 
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         ssh "And… I have other student council stuff you could help me with, while you're at it."
 
@@ -519,17 +519,17 @@ label a4_shizune:
         his "What's that? Is it a surprise? I don't really like surprises."
 
         show shizu behind_frown
-        with charachange
+        with persistent.charachange
 
         "The displeased expression on her face says that she wants me to stop being such a wet blanket, but she's too busy fumbling with what's behind her back to sign it."
 
         show shizu adjust_smug
-        with charachange
+        with persistent.charachange
 
         "It must be frustrating for her, because seconds later, she swings the object out, proudly, and also a little dangerously."
 
         show shizu basic_happy
-        with charachange
+        with persistent.charachange
 
         ssh "Ta-da. A picnic basket. We can have lunch together, the three of us."
 
@@ -538,7 +538,7 @@ label a4_shizune:
         "There's a very diverse selection here, though. Even a tiny tin of caviar. I'm slowly becoming more impressed with this lunch. I pick a grape out of there and pop it in my mouth."
 
         show shizu adjust_frown
-        with charachange
+        with persistent.charachange
 
         ssh "Don't just take things like that! I spent all night perfecting this final weapon."
 
@@ -551,24 +551,24 @@ label a4_shizune:
 
         show shizu basic_normal:
             ease 0.5 center
-        with charachange
+        with persistent.charachange
 
         show shizu at center
 
         "Shizune places it down on the ground to free up her hands, and immediately starts playfully tapping it between her feet like a soccer ball. Definitely not what you should do to anything you're going to call a 'final weapon.'"
 
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         ssh "All part of my 'get-Misha-to-stop-being-so-depressed' plan. I stayed up all last night working on it."
 
         show shizu behind_smile
-        with charachange
+        with persistent.charachange
 
         ssh "When we tried to order in last time, Misha barely got anything, and used it as an excuse to leave early. I won't let her get off so easily this time. The food is already here. She'll have to sit down and eat with us."
 
         show shizu basic_happy
-        with charachange
+        with persistent.charachange
 
         ssh "It's the perfect bait. Doesn't everything look irresistible? I tried to make it myself, but I don't know how to make it look all fancy, so I ended up buying everything. Still looks delicious, doesn't it? It should be."
 
@@ -581,7 +581,7 @@ label a4_shizune:
         his "It's a little early, though…"
 
         show shizu adjust_frown
-        with charachange
+        with persistent.charachange
 
         ssh "It's already eight in the morning, that's late! Even Misha gets up at eight or nine. She goes to bed at 7:00 p.m., but that isn't important."
 
@@ -593,7 +593,7 @@ label a4_shizune:
         "Shizune ignores me, gagging my hands by taking them in hers instead of a more proper rebuttal. The way she lingers against me a moment longer than expected feels really comforting."
 
         show shizu adjust_happy_close
-        with charachange
+        with persistent.charachange
 
         ssh "The point is, she's awake right now, walking around somewhere. Let's go find her."
 
@@ -619,39 +619,39 @@ label a4_shizune:
         hi "We were just looking for you."
 
         show shizu behind_smile_close
-        with charachange
+        with persistent.charachange
 
         ssh "It's a good day for a picnic, you should join us. We even have caviar; not sturgeon, of course, but really tasty."
 
         show mishashort perky_confused
-        with charachange
+        with persistent.charachange
 
         mi "Caviar? Surgeon?"
 
         "Apparently finding it annoying to have to explain anything at length with only one hand, Shizune gives up quickly."
 
         show shizu adjust_frown_close
-        with charachange
+        with persistent.charachange
 
         ssh "Fish eggs."
 
         show mishashort sign_confused
-        with charachange
+        with persistent.charachange
 
         mi "What?"
 
         show shizu behind_smile_close
-        with charachange
+        with persistent.charachange
 
         ssh "It tastes good."
 
         show mishashort cross_smile
-        with charachange
+        with persistent.charachange
 
         mi "Sorry, Shicchan, I think I'll pass for today."
 
         show shizu basic_angry_close
-        with charachange
+        with persistent.charachange
 
         "When Misha starts to walk away, Shizune holds the bag out towards me, needing me to take it so that her hands can be free."
 
@@ -682,32 +682,32 @@ label a4_shizune:
         "As soon as it's out of her hands, she darts in front of Misha, cutting her off."
 
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         ssh "I made so much food, though."
 
         show mishashort perky_sad
-        with charachange
+        with persistent.charachange
 
         mi "Sorry, I'm just not hungry right now."
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show shizu behind_frown
-        with charachange
+        with persistent.charachange
 
         ssh "When are you going to be hungry, then?"
 
         show mishashort hips_frown
-        with charachange
+        with persistent.charachange
 
         mi "Shicchan, that's impossible to know~."
 
         show shizu adjust_frown
-        with charachange
+        with persistent.charachange
 
         ssh "You can guess."
 
@@ -746,36 +746,36 @@ label a4_shizune:
         his "Yeah."
 
         show shizu behind_sad
-        with charachange
+        with persistent.charachange
 
         ssh "That makes me mad."
 
         "Although it's obvious Shizune is more hurt than mad. The bag dangling from my hand feels like it's filled with lead."
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         call screen doublespeak(ssh, _("Let's go on a date."), his, _("Let's use it, then."))
 
         show shizu adjust_blush
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show shizu basic_normal
-        with charachange
+        with persistent.charachange
 
         ssh "Where do you want to go?"
 
         his "I don't know."
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         ssh "The roof."
 
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         ssh "It's my favorite spot."
 
@@ -792,35 +792,35 @@ label a4_shizune:
         his "Where are the toast points?"
 
         show shizu basic_normal2_close
-        with charachange
+        with persistent.charachange
 
         ssh "I didn't make any. Like I told you, I bought everything."
 
         his "Not toast points, though…"
 
         show shizu adjust_frown_close
-        with charachange
+        with persistent.charachange
 
         ssh "Why is that important? Anyway, they don't sell just toast points. That would be stupid."
 
         his "I bet they do."
 
         show shizu behind_blank_close
-        with charachange
+        with persistent.charachange
 
         ssh "Maybe in stores for the exceptionally lazy, but not here. Why don't you use a tortilla chip?"
 
         his "A tortilla chip is not the same."
 
         show shizu basic_frown_close
-        with charachange
+        with persistent.charachange
 
         ssh "They're both triangles. Stop being such a princess. I didn't know there was a proper way to eat caviar, this is the first I'm hearing of it."
 
         his "It's not the same thing at all."
 
         show shizu adjust_smug_close
-        with charachange
+        with persistent.charachange
 
         "I can't be decadent like this. And anyway, how can she not know? She lives in a huge mansion. Shizune takes the opportunity to scoop half the tin onto a single chip in the meantime."
 
@@ -829,14 +829,14 @@ label a4_shizune:
         "I'm sure it doesn't even taste good like that."
 
         show shizu behind_smile_close
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         "There is too much food here for two people. Because we can't communicate with each other while we eat, both Shizune and I have a lot of time to sit in silence and think about the fact that Misha, the person she set all this up for, isn't here."
 
         show shizu basic_angry_close
-        with charachange
+        with persistent.charachange
 
         ssh "It's annoying that she isn't here. I can't even enjoy my meal like this."
 
@@ -845,19 +845,19 @@ label a4_shizune:
         his "I thought you didn't want all this food to go to waste."
 
         show shizu adjust_frown_close
-        with charachange
+        with persistent.charachange
 
         ssh "I wanted Misha to be here, too. That was the whole point. I wasn't able to accomplish what I wanted to, so it doesn't taste good."
 
         show shizu behind_blank_close
-        with charachange
+        with persistent.charachange
 
         ssh "You should eat it. Eat more."
 
         his "I want the fried things, though. You keep eating them all, even though you say they don't taste good."
 
         show shizu basic_normal_close
-        with charachange
+        with persistent.charachange
 
         ssh "Fried things are always delicious. There is always an exception for them."
 
@@ -866,79 +866,79 @@ label a4_shizune:
         his "I think you're being too aggressive."
 
         show shizu behind_blank_close
-        with charachange
+        with persistent.charachange
 
         ssh "It's like I told you yesterday, I'm only trying to cheer her up."
 
         his "Yeah, but it seems more like you're planning a military campaign."
 
         show shizu basic_normal2_close
-        with charachange
+        with persistent.charachange
 
         ssh "I'm only trying to take it seriously."
 
         show shizu behind_sad_close
-        with charachange
+        with persistent.charachange
 
         ssh "…And this is the only way I know how to do it seriously."
 
         show shizu basic_normal2_close
-        with charachange
+        with persistent.charachange
 
         ssh "I feel so powerless. I hate it. I can't even yell at her, too, even though I want to. Yelling is for serious occasions, right?"
 
         his "Yeah."
 
         show shizu adjust_frown_close
-        with charachange
+        with persistent.charachange
 
         ssh "You should yell at Misha for me. You can tell her that I want her to stop being so down. Even if she feels sad and alone, it's no reason to stay gloomy forever."
 
         his "Why don't you?"
 
         show shizu basic_frown_close
-        with charachange
+        with persistent.charachange
 
         ssh "I already did."
 
         show shizu behind_blank_close
-        with charachange
+        with persistent.charachange
 
         ssh "Over a game of dice."
 
         show shizu basic_happy_close
-        with charachange
+        with persistent.charachange
 
         ssh "Under-Over, to be exact. I won! Five times!"
 
         "Only the two of them would take so much pride in winning games of pure chance."
 
         show shizu adjust_frown_close
-        with charachange
+        with persistent.charachange
 
         ssh "Then, I tried to talk to her, but it didn't go so well, obviously."
 
         his "Well, so did I. I tried and failed."
 
         show shizu basic_normal2_close
-        with charachange
+        with persistent.charachange
 
         ssh "My goal has always been to do everything better, though."
 
         his "Yeah, your one-upmanship is really something."
 
         show shizu behind_frustrated_close
-        with charachange
+        with persistent.charachange
 
         ssh "But I failed too…"
 
         show shizu basic_normal2_close
-        with charachange
+        with persistent.charachange
 
         ssh "That's why I want your help."
 
         show shizu behind_sad_close
-        with charachange
+        with persistent.charachange
 
         ssh "I don't understand what I'm supposed to do any more."
 
@@ -1030,17 +1030,17 @@ label a4_shizune:
         "When I get back to the dorm, I see Hideaki standing in front of my room from the entrance. I can think of few things more unexpected, and I can't help thinking I might have a heart attack just from the surprise. Fortunately, it doesn't happen."
 
         show hideaki normal
-        with charachange
+        with persistent.charachange
 
         "As soon as he sees me, he says hello in his usual detached way. I'm a little slow to reply to him, so he repeats the greeting, without missing a beat."
 
         show hideaki triangle
-        with charachange
+        with persistent.charachange
 
         hh "Hello."
 
         show hideaki normal
-        with charachange
+        with persistent.charachange
 
         hh "Is something wrong?"
 
@@ -1049,7 +1049,7 @@ label a4_shizune:
         "Not as surprised as I could have been, since it's impossible to mistake him for anyone else. I'd recognize those weird clothes anywhere. Come to think of it, I've really surrounded myself with distinctive-looking people lately."
 
         show hideaki confused
-        with charachange
+        with persistent.charachange
 
         "Hideaki's head lolls slightly to one side, a little too easily."
 
@@ -1072,21 +1072,21 @@ label a4_shizune:
         hi "I'd think that you'd have a reason, that's all."
 
         show hideaki triangle
-        with charachange
+        with persistent.charachange
 
         hh "There is one."
 
         hi "See? Anyway, we can talk while we're looking for her. That's why you're here, right?"
 
         show hideaki normal_up
-        with charachange
+        with persistent.charachange
 
         hh "Shizune is in the student council room. I was looking for you. We might take a trip soon, a family trip. Do you think she would want to come with us?"
 
         hi "Yeah, I don't know. She's kind of been on the warpath lately, with a lot of stuff. And once she's focused on something, she won't just drop it. …I guess you would know that."
 
         show hideaki closed_up
-        with charachange
+        with persistent.charachange
 
         hh "Mm."
 
@@ -1105,19 +1105,19 @@ label a4_shizune:
         hh "No, but this is the first time I could walk around so much. It is kind of weird here. I bumped into a person who told me women are not allowed in the dorms."
 
         show hideaki disapproves
-        with charachange
+        with persistent.charachange
 
         hh "After I told him I am not a woman, he told me I was misleading, and then accused me of being an assassin."
 
         show hideaki normal
-        with charachange
+        with persistent.charachange
 
         hh "I was warned that he was not only invincible, but strong enough to probably destroy the building with a punch, or at least knock over the painting hanging in the hallway. By the way, that painting is actually screwed to the wall."
 
         hi "Yeah, that's the guy across the hall from me. He's okay."
 
         show hideaki triangle
-        with charachange
+        with persistent.charachange
 
         hh "I see. Oh, you left your door open. It was unlocked when I came here."
 
@@ -1128,14 +1128,14 @@ label a4_shizune:
         hi "I have nothing to hide, or steal."
 
         show hideaki happy_up
-        with charachange
+        with persistent.charachange
 
         hh "Your soccer ball is really nice."
 
         hi "That's one of the things that doesn't matter."
 
         show hideaki serious
-        with charachange
+        with persistent.charachange
 
         hh "If you are a soccer player, a soccer ball is very important."
 
@@ -1152,7 +1152,7 @@ label a4_shizune:
         hi "…Why?"
 
         show hideaki bored
-        with charachange
+        with persistent.charachange
 
         hh "Just in case there is something wrong, or she needs anything."
 
@@ -1161,14 +1161,14 @@ label a4_shizune:
         hi "Even if she did, she probably wouldn't call."
 
         show hideaki triangle
-        with charachange
+        with persistent.charachange
 
         hh "That is how she is."
 
         hi "Well, if you know… Coming all the way here for that, though? He could have updated her via e-mail."
 
         show hideaki closed_up
-        with charachange
+        with persistent.charachange
 
         hh "He does not like using e-mails."
 
@@ -1190,12 +1190,12 @@ label a4_shizune:
         "The door to the student council room is open, and Hideaki and I walk in on Jigoro in mid-rant. He sees us, but decides that it's not something worth stopping rambling at Shizune over. This is really shaking my faith in my previous assumption."
 
         show jigoro angry
-        with charachange
+        with persistent.charachange
 
         hx "When I was in the Student Council, our room was smaller. Colder, too. Like working out of a meat locker. Not like you spoiled kids. What a waste. Sitting here in your giant room, doing nothing."
 
         show shizu behind_frown
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
@@ -1206,17 +1206,17 @@ label a4_shizune:
         "Now that I've arrived, he changes the subject, and starts talking about the reason he's here."
 
         show jigoro neutral
-        with charachange
+        with persistent.charachange
 
         hx "Hideaki and I are going on a trip."
 
         show shizu basic_normal2
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show jigoro angry
-        with charachange
+        with persistent.charachange
 
         hx "What are you doing? Does everyone who uses sign language mumble while they do it?"
 
@@ -1227,22 +1227,22 @@ label a4_shizune:
         "He turns back to Shizune just in time to catch her shaking her head from side to side."
 
         show jigoro neutral
-        with charachange
+        with persistent.charachange
 
         hx "Are you sure you won't be coming along?"
 
         show shizu adjust_frown
-        with charachange
+        with persistent.charachange
 
         "She reiterates the gesture."
 
         show jigoro angry
-        with charachange
+        with persistent.charachange
 
         hx "Fine."
 
         show jigoro neutral
-        with charachange
+        with persistent.charachange
 
         hx "Can you tell her to call me if she needs anything?"
 
@@ -1251,7 +1251,7 @@ label a4_shizune:
         hi "I really think sending an e-mail would have been easier, though."
 
         show jigoro angry
-        with charachange
+        with persistent.charachange
 
         hx "I'm not going to read e-mails on my phone. If she won't speak, she can call Hideaki. I suppose if I have to be reached, you would have to call me, or that other girl would have to call me. …Hmph. Actually, all three of you can just call Hideaki."
 
@@ -1277,50 +1277,50 @@ label a4_shizune:
         "When the door closes behind them, leaving Shizune and me by ourselves, she lets out a deep breath that seems to echo in the silence of the room."
 
         show shizu behind_frown
-        with charachange
+        with persistent.charachange
 
         ssh "It's totally ridiculous asking me to go on a trip. The timing couldn't be worse, it overlaps the student council elections, for one. Second, I haven't even cheered up Misha. If you consider that, it's annoying to even have anything else to think about."
 
         his "Yeah, but you might be too focused on all of that stuff right now."
 
         show shizu adjust_frown
-        with charachange
+        with persistent.charachange
 
         "Shizune adjusts her glasses roughly."
 
         show shizu behind_frown
-        with charachange
+        with persistent.charachange
 
         ssh "Completely, one hundred percent right. The minute I decided I was going to cheer up Misha, everything else went on the back burner, I suppose."
 
         his "I think your dad might care about you more than he lets on."
 
         show shizu basic_normal
-        with charachange
+        with persistent.charachange
 
         ssh "I know."
 
         his "So, then, it could be a good idea—"
 
         show shizu adjust_frown
-        with charachange
+        with persistent.charachange
 
         ssh "No."
 
         "And then again, more firmly, as if for both of us."
 
         show shizu cross_angry
-        with charachange
+        with persistent.charachange
 
         ssh "No."
 
         show shizu basic_frown
-        with charachange
+        with persistent.charachange
 
         ssh "After coming this far, I can't take a break. A vacation would be jarring. It would be like waking up in a different life. Yesterday was like my vacation. So now we have to go all-in."
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         ssh "I'm sorry, but it's just how I am."
 
@@ -1371,17 +1371,17 @@ label a4_shizune:
         his "Your cheer-up-Misha plan."
 
         show shizu basic_happy
-        with charachange
+        with persistent.charachange
 
         ssh "Of course. I was thinking about it the whole time I was being yelled at."
 
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         "Flicking her glasses up the bridge of her nose with an oddly triumphant air, she taps her finger against her temple."
 
         show shizu behind_smile
-        with charachange
+        with persistent.charachange
 
         ssh "It's multitasking!"
 
@@ -1426,7 +1426,7 @@ label a4_shizune:
         hi "You know, I think Mutou assigns a suspiciously large amount of group work and self-study, don't you think so?"
 
         show mishashort perky_smile_close
-        with charachange
+        with persistent.charachange
 
         mi "Hm~, but it's easy, so it's ok, right~?"
 
@@ -1435,12 +1435,12 @@ label a4_shizune:
         "Misha nods after each sentence, then brushes it all aside."
 
         show mishashort sign_confused_close
-        with charachange
+        with persistent.charachange
 
         mi "I thought about it, and~… I don't do enough work when I work with you and Shicchan! So, I'm going to try harder today. So~!, don't distract me, Hicchan~. I have to stay focused~."
 
         show shizu behind_frustrated
-        with charachange
+        with persistent.charachange
 
         "That was an annoyingly transparent dodge. Shizune doesn't look too happy either, since Misha didn't bother to sign any of it, opting to twirl a pen in her hands instead."
 
@@ -1451,24 +1451,24 @@ label a4_shizune:
         hi "Shizune wants to talk to you."
 
         show mishashort perky_sad_close
-        with charachange
+        with persistent.charachange
 
         mi "…"
 
         show mishashort perky_confused_close
-        with charachange
+        with persistent.charachange
 
         mi "Can't it wait until later, Hicchan?"
 
         show shizu basic_angry
-        with charachange
+        with persistent.charachange
 
         ssh "No."
 
         hi "Why not now?"
 
         show mishashort sign_confused_close
-        with charachange
+        with persistent.charachange
 
         mi "We're in the middle of class~…"
 
@@ -1499,29 +1499,29 @@ label a4_shizune:
         hi "Do you want to get something to eat?"
 
         show mishashort hips_frown_close
-        with charachange
+        with persistent.charachange
 
         mi "Why do you and Shicchan keep asking me if I want to eat something~? ~Hicchan?"
 
         hi "Because we're all headed to the cafeteria, and we haven't eaten together in a long time. So, why not?"
 
         show mishashort perky_confused_close
-        with charachange
+        with persistent.charachange
 
         mi "Is this about the Student Council?"
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show mishashort perky_sad_close
-        with charachange
+        with persistent.charachange
 
         "Taking Shizune's lack of a reply as admission, Misha sighs."
 
         show mishashort hips_frown_close
-        with charachange
+        with persistent.charachange
 
         mi "Shicchan, is that all you ever think about?"
 
@@ -1539,34 +1539,34 @@ label a4_shizune:
         "Neither of us were expecting it to go smoothly, but it would have been nice."
 
         show shizu adjust_frown
-        with charachange
+        with persistent.charachange
 
         "Reading my mind, Shizune curls a finger around her glasses for awhile before signing."
 
         show shizu basic_angry
-        with charachange
+        with persistent.charachange
 
         ssh "I know what you're thinking, but no, it's not that I think we should give her some space now. I told you I wouldn't give up so easily."
 
         his "Yeah, well, now I'm starting to wonder if it's not too soon."
 
         show shizu behind_frown
-        with charachange
+        with persistent.charachange
 
         ssh "Cold feet?"
 
         show shizu adjust_frown
-        with charachange
+        with persistent.charachange
 
         ssh "Well, I'm not going to. That would be giving up on her."
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         ssh "There's a fine line between helping someone and smothering them. But I just want Misha to pull herself together and stop acting so weird."
 
         show shizu basic_normal
-        with charachange
+        with persistent.charachange
 
         ssh "I know she can do it. Even if she wants to try, people don't change overnight. If they could, the world would be a much easier place."
 
@@ -1577,7 +1577,7 @@ label a4_shizune:
         "Though I'm the only one who is really supposed to find her."
 
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         play music music_tranquil fadein 3.0
 
@@ -1586,31 +1586,31 @@ label a4_shizune:
         "Smiling, Shizune takes out her cell phone, turning it on to prepare. I notice that she has an extremely high number of unread messages, and looking at her expression, so does she. Twirling it around by the strap a couple of times, she grimaces."
 
         show shizu behind_frown
-        with charachange
+        with persistent.charachange
 
         ssh "I don't like using this thing."
 
         show shizu basic_angry
-        with charachange
+        with persistent.charachange
 
         ssh "Why can't I just snap my fingers?"
 
         his "And then what? I'm not a dog. And it doesn't travel as far as a phone signal."
 
         show shizu behind_smile
-        with charachange
+        with persistent.charachange
 
         his "You're having a lot of fun with this, aren't you?"
 
         "Shaking her head from side to side, she continues."
 
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         ssh "It's obvious where she will go. You can't look for her on the school grounds, she would want to go as far away as she can."
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         ssh "Check the tea shop? It's usually empty this early; Misha loves to go there if she feels like skipping class, and she loves the parfaits they have there."
 
@@ -1624,7 +1624,7 @@ label a4_shizune:
         "I say instinctively, forgetting that she can't hear me."
 
         show shizu behind_smile_close
-        with charachange
+        with persistent.charachange
 
         ssh "It feels nice that I don't have to do it all by myself any more, because I can trust you. I'm really happy."
 
@@ -1655,7 +1655,7 @@ label a4_shizune:
         "Suddenly, Misha stops and spins around, catching me by surprise."
 
         show mishashort hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Surprise~, Hicchan~! Were you looking for me? I had a feeling~!"
 
@@ -1689,19 +1689,19 @@ label a4_shizune:
         hi "Where are you going now?"
 
         show mishashort sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "The Shanghai~."
 
         hi "Can I go with you, then?"
 
         show mishashort perky_confused
-        with charachange
+        with persistent.charachange
 
         "Waiting for her to answer feels like an eternity. It's almost as if I can hear my wristwatch ticking off the individual seconds."
 
         show mishashort hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "Okay, then, Hicchan."
 
@@ -1740,7 +1740,7 @@ label a4_shizune:
         hi "You ran off too fast. You could have at least waited to see what she was going to say."
 
         show mishashort hips_frown_close
-        with charachange
+        with persistent.charachange
 
         "Misha's angry reaction tells me it could be that she was afraid of what Shizune might say."
 
@@ -1749,7 +1749,7 @@ label a4_shizune:
         hi "Because Shizune still wants to be your friend. I guess that for her it's kinda like launching a nuclear missile from a submarine, you need two keys to do it."
 
         show mishashort perky_confused_close
-        with charachange
+        with persistent.charachange
 
         mi "…"
 
@@ -1760,7 +1760,7 @@ label a4_shizune:
         hi "If she tried to just talk it over, you wouldn't listen."
 
         show mishashort perky_sad_close
-        with charachange
+        with persistent.charachange
 
         play music music_night fadein 6.0
 
@@ -1769,12 +1769,12 @@ label a4_shizune:
         hi "Do you really hate Shizune that much?"
 
         show mishashort sign_confused_close
-        with charachange
+        with persistent.charachange
 
         mi "No, Hicchan. I told you that."
 
         show mishashort perky_confused_close
-        with charachange
+        with persistent.charachange
 
         "She answers without even flinching, idly playing with a spoon."
 
@@ -1789,7 +1789,7 @@ label a4_shizune:
         "Her parfait is starting to melt, the ingredients coming together in tiny rivers that remind me of the growing roots of a tree being shown through time-lapse photography."
 
         show mishashort cross_frown_close
-        with charachange
+        with persistent.charachange
 
         mi "That's stupid. Shicchan isn't that stupid, Hicchan. Don't be ridiculous~."
 
@@ -1798,7 +1798,7 @@ label a4_shizune:
         hi "I wasn't expecting you two to have a fight right after."
 
         show mishashort perky_confused_close
-        with charachange
+        with persistent.charachange
 
         mi "It wasn't a fight, Hicchan. It was just me yelling at her."
 
@@ -1807,7 +1807,7 @@ label a4_shizune:
         hi "Either way, I was happy, because I thought you and her could still be friends. Since she needs you."
 
         show mishashort sign_confused_close
-        with charachange
+        with persistent.charachange
 
         mi "Hm~. No she doesn't, Hicchan."
 
@@ -1818,14 +1818,14 @@ label a4_shizune:
         hi "Just because she didn't tell you doesn't mean she doesn't like you."
 
         show mishashort hips_frown_close
-        with charachange
+        with persistent.charachange
 
         mi "That doesn't make sense…"
 
         hi "Yes, it does. Otherwise, she would argue back."
 
         show mishashort hips_grin_close
-        with charachange
+        with persistent.charachange
 
         mi "Wahaha~."
 
@@ -1834,7 +1834,7 @@ label a4_shizune:
         hi "She's just awful at showing her feelings. Usually does it the wrong way, too. But she still likes you."
 
         show mishashort perky_confused_close
-        with charachange
+        with persistent.charachange
 
         mi "Hicchan, do you remember when I said I didn't want to hate Shicchan, or upset her? The truth is~, I ended up doing both. Now it's like there's, like, an awkwardness between us. It's hard to explain."
 
@@ -1845,7 +1845,7 @@ label a4_shizune:
         "And I'm sure that Misha interprets Shizune giving her space as a lack of caring."
 
         show mishashort perky_sad_close
-        with charachange
+        with persistent.charachange
 
         mi "I screwed up already, Hicchan. It'll happen again~, I'm sure. When I think about it that way, I don't know what I'm supposed to do. It feels like either way, I'll end up making things worse. Then, it might be better if I didn't do anything at all, right~?"
 
@@ -1854,26 +1854,26 @@ label a4_shizune:
         "'It should be easy for you,' I want to say, but that would be presumptuous."
 
         show mishashort hips_smile_close
-        with charachange
+        with persistent.charachange
 
         mi "Hicchan~, I never knew you were so optimistic. I never expected it."
 
         hi "…"
 
         show mishashort perky_smile_close
-        with charachange
+        with persistent.charachange
 
         mi "You always act so gloomy when I try and surprise you."
 
         hi "No, this is a recent thing. Really. I just hate it when people give up easily now."
 
         show mishashort cross_grin_close
-        with charachange
+        with persistent.charachange
 
         mi "Haha~."
 
         show mishashort perky_smile_close
-        with charachange
+        with persistent.charachange
 
         mi "'Now,' huh~…?"
 
@@ -1896,7 +1896,7 @@ label a4_shizune:
         "I grab her hand as I wave Yuuko over with the other to pay for our food. "
 
         show mishashort sign_confused_close
-        with charachange
+        with persistent.charachange
 
         mi "Where are we going now?"
 
@@ -1977,7 +1977,7 @@ label a4_shizune:
         hi "Do you ever miss the people you went to school with in elementary school, or middle school?"
 
         show mishashort perky_confused_close
-        with charachange
+        with persistent.charachange
 
         mi "No."
 
@@ -1998,7 +1998,7 @@ label a4_shizune:
         hi "But I didn't even think about it then. So, it was like I woke up one day and realized I had no friends. I just let myself lose all my friends, and it felt awful. I'd really hate it if you and Shizune ended up the same way. That's all."
 
         show mishashort perky_sad_close
-        with charachange
+        with persistent.charachange
 
         mi "'That's all~.'"
 
@@ -2007,7 +2007,7 @@ label a4_shizune:
         mi "Friend, hm~…"
 
         show mishashort perky_confused_close
-        with charachange
+        with persistent.charachange
 
         mi "Aren't you my friend, too, Hicchan?"
 
@@ -2026,49 +2026,49 @@ label a4_shizune:
         hi "You know what I'd never realized?"
 
         show mishashort perky_smile_close
-        with charachange
+        with persistent.charachange
 
         "She looks at me expectantly."
 
         hi "They're amazingly shiny."
 
         show mishashort hips_grin_close
-        with charachange
+        with persistent.charachange
 
         mi "Ahahaha~."
 
         hi "It's true."
 
         show mishashort perky_confused_close
-        with charachange
+        with persistent.charachange
 
         mi "Why're you doing this, Hicchan?"
 
         hi "Doing what?"
 
         show mishashort cross_frown_close
-        with charachange
+        with persistent.charachange
 
         mi "I'm not stupid."
 
         hi "I don't know. A bunch of reasons. Because you're Shizune's friend? And I liked how close you were? And maybe I'm trying to tell you that we all have our low points, but giving up is stupid. Anyway, it seems worth the trouble."
 
         show mishashort sign_smile_close
-        with charachange
+        with persistent.charachange
 
         mi "That's the only reason?"
 
         hi "And you're my friend."
 
         show mishashort hips_smile_close
-        with charachange
+        with persistent.charachange
 
         mi "That's it?"
 
         hi "Can't I do something for no reason?"
 
         show mishashort hips_grin_close
-        with charachange
+        with persistent.charachange
 
         mi "Wahaha~. You can, you can~, but~, I want to know."
 
@@ -2117,26 +2117,26 @@ label a4_shizune:
             "To be fair, most of the pieces afterwards do manage to fall into the trash can, but I'm pretty sure no one is so brazen that they would be aiming to do something like this on purpose."
 
             show kenji happy
-            with charachange
+            with persistent.charachange
 
             ke "Perfect shot!"
 
             show kenji neutral
-            with charachange
+            with persistent.charachange
 
             ke "Sup, roomie?"
 
             hi "I'm not your roomie, we don't live in the same room."
 
             show kenji tsun
-            with charachange
+            with persistent.charachange
 
             ke "It doesn't matter."
 
             hi "It does, you should at least know the difference between living in the same building and living in the same room."
 
             show kenji neutral
-            with charachange
+            with persistent.charachange
 
             ke "I need to use your room."
 
@@ -2145,19 +2145,19 @@ label a4_shizune:
             "I messed up, I should have said 'absolutely not.'"
 
             show kenji tsun
-            with charachange
+            with persistent.charachange
 
             ke "The Student Council keeps delivering my mail, even though I asked them to put it in my locker or something."
 
             ke "But they keep putting it under my door, delivering my mail without me noticing it, so today, I'm lying in wait to catch them in the act… like a detective, or a safari hunter."
 
             show kenji neutral
-            with charachange
+            with persistent.charachange
 
             ke "I need to chill in your room for today and look through the little peephole or I won't be able to catch them in the act. And maybe tomorrow, too."
 
             show kenji happy
-            with charachange
+            with persistent.charachange
 
             ke "It'll be awesome, we'll get pizza, on both days. Or should we get pizza on just one day, and something else on the other day? But what? And which day is pizza day?"
 
@@ -2168,42 +2168,42 @@ label a4_shizune:
             "But… No, I doubt it. There's no way he could plan something that elaborate."
 
             show kenji tsun
-            with charachange
+            with persistent.charachange
 
             ke "You know?"
 
             hi "When they deliver mail? Well, no. They just hand me my mail when I go to Student Council, usually. The point is, I could find out by asking them. Then I'd know and I could tell you. That's how people find things out, by asking."
 
             show kenji neutral
-            with charachange
+            with persistent.charachange
 
             ke "Not cavemen. Aw yeah, no response to that, right? Checkmate."
 
             hi "…Use your own peephole."
 
             show kenji tsun
-            with charachange
+            with persistent.charachange
 
             ke "What if they see me?"
 
             hi "They can't, that's how peepholes work. It's like a one-way glass."
 
             show kenji happy
-            with charachange
+            with persistent.charachange
 
             ke "For real? Well… No way. They'll be expecting me to be in my room, anyway. They'll sense my presence and know I'm there. They'd never expect me to actually be in the room across the hall."
 
             hi "I'm going to go to the student council room and go get your mail for you, right now."
 
             show kenji tsun
-            with charachange
+            with persistent.charachange
 
             ke "Then I guess I can't let you leave."
 
             hi "That's dumb. What if I have to use the toilet?"
 
             show kenji neutral
-            with charachange
+            with persistent.charachange
 
             ke "Your games won't work on me."
 
@@ -2222,45 +2222,45 @@ label a4_shizune:
             hi "Now."
 
             show kenji tsun
-            with charachange
+            with persistent.charachange
 
             ke "Why are women so slow?"
 
             hi "Why do you care so much about the mail anyway? Are you expecting something?"
 
             show kenji neutral
-            with charachange
+            with persistent.charachange
 
             ke "I'm always expecting something. …Not today, though."
 
             hi "Do you want them to send something? Do you even send mail?"
 
             show kenji tsun
-            with charachange
+            with persistent.charachange
 
             ke "Nope! That's how they get you. I haven't used the mail since I was eight. Sent a letter to Lego asking them to make Dragonball Legos."
 
             show kenji happy
-            with charachange
+            with persistent.charachange
 
             ke "They said they couldn't get the rights and gave me some coupons. Totally worth it, but after that I made sure to stay off the radar."
 
             show kenji neutral
-            with charachange
+            with persistent.charachange
 
             ke "You don't use mail, do you?"
 
             hi "I wrote to my parents last week."
 
             show kenji tsun
-            with charachange
+            with persistent.charachange
 
             ke "But that's how they get you!"
 
             hi "Yes, I should have known. Maybe that's why they put that microchip in me the next day."
 
             show kenji neutral
-            with charachange
+            with persistent.charachange
 
             ke "So… the rumors were true."
 
@@ -2269,7 +2269,7 @@ label a4_shizune:
             hi "I was kidding. It's a joke."
 
             show kenji tsun
-            with charachange
+            with persistent.charachange
 
             ke "Joke? Damn. You would joke on me? I guess this is how it feels… to have jokes cracked on. I never thought it'd happen to me. This is a serious issue. Man, I think you are not appreciating the depths of my dilemma."
 
@@ -2278,12 +2278,12 @@ label a4_shizune:
             hi "You're going to be paying for it. You still haven't paid me back, and I'm not hungry right now anyway."
 
             show kenji neutral
-            with charachange
+            with persistent.charachange
 
             ke "Not in the mood for pizza? That's just not possible, son."
 
             show kenji tsun
-            with charachange
+            with persistent.charachange
 
             ke "It's got to be pizza, anyway. I'm in the pizza stage of my life. Before I was in an ice cream stage, but my girlfriend kept eating all the strawberry out of my Neapolitan. It'll probably happen to you, too."
 
@@ -2292,24 +2292,24 @@ label a4_shizune:
             hi "I doubt that. Hey, you know that I do have a girlfriend, right? Not Iwanako, either. The Student Council president, actually."
 
             show kenji neutral
-            with charachange
+            with persistent.charachange
 
             ke "Old news."
 
             hi "What? Seriously?"
 
             show kenji happy
-            with charachange
+            with persistent.charachange
 
             ke "I have my sources."
 
             show kenji tsun
-            with charachange
+            with persistent.charachange
 
             ke "Anyway… Then it dawned on me that I'd gotten fat from all that ice cream. It was a rude awakening. Like sleeping on a beach and getting hit by a wave that destroys your sand castle."
 
             show kenji neutral
-            with charachange
+            with persistent.charachange
 
             ke "I started running. Had to lose the pounds. But maybe… I was really running away from myself."
 
@@ -2341,7 +2341,7 @@ label a4_shizune:
             hi "I'm not going to put salt in my doorway."
 
             show kenji happy
-            with charachange
+            with persistent.charachange
 
             ke "But… you're considering it. Good."
 
@@ -2352,12 +2352,12 @@ label a4_shizune:
             hi "Good morning. Are you here to deliver the mail?"
 
             show shizu adjust_happy
-            with charachange
+            with persistent.charachange
 
             "Nodding, Shizune waves a couple envelopes between our faces. I take them from her, freeing up her hands for conversation."
 
             show shizu basic_normal2
-            with charachange
+            with persistent.charachange
 
             ssh "How did you know, how did you know?"
 
@@ -2378,7 +2378,7 @@ label a4_shizune:
             pause 0.2
 
             show shizu adjust_smug
-            with charachange
+            with persistent.charachange
 
             ssh "It's okay, I wasn't trying very hard to hide it in the first place."
 
@@ -2389,12 +2389,12 @@ label a4_shizune:
             ke "I spit literary gold and you women just steal it and wear it out like a two-for-one sundress. You're all like the Picard to my Kirk. Or you could even be Janeway."
 
             show shizu behind_frown
-            with charachange
+            with persistent.charachange
 
             ssh "Not all the time. Are you making fun of me?"
 
             show shizu adjust_happy
-            with charachange
+            with persistent.charachange
 
             "Finally noticing Kenji, she gives him a wave."
 
@@ -2405,7 +2405,7 @@ label a4_shizune:
             hi "Hey, Kenji, the Student Council president says hi."
 
             show kenji neutral
-            with charachange
+            with persistent.charachange
 
             ke "Hi."
 
@@ -2420,7 +2420,7 @@ label a4_shizune:
             hi "I already did. I even introduced you by title. This is Kenji, he's the guy across the hall. His room is right behind you. Anyway, do you have his mail too?"
 
             show shizu adjust_happy
-            with charachange
+            with persistent.charachange
 
             ssh "I'm only delivering your mail because it was there. I have early access! It's all about location. Consider it as a perk of being in the Student Council."
 
@@ -2434,7 +2434,7 @@ label a4_shizune:
                 ssh "I never got to enter your room before. It's interesting."
 
             show shizu basic_frown
-            with charachange
+            with persistent.charachange
 
             ssh "Why does he get to see your room and I can't? Is it a guy thing?"
 
@@ -2443,7 +2443,7 @@ label a4_shizune:
             ke "It should be. With rings. Rings with big-ass emblems. And gold!"
 
             show shizu adjust_smug
-            with charachange
+            with persistent.charachange
 
             ssh "Are you sure? Are you really sure? I always thought that there was a secret brotherhood of men."
 
@@ -2456,7 +2456,7 @@ label a4_shizune:
             hi "No, stay out of this. I'll have to translate anything you say to her, and I'm not sure if I could even handle it. And she'll probably misunderstand it, and then you'll probably misunderstand the reply, and I'll have to translate your rebuttal."
 
             show kenji happy
-            with charachange
+            with persistent.charachange
 
             ke "Rebuttal? Why would I rebutt? I like my butt."
 
@@ -2469,7 +2469,7 @@ label a4_shizune:
             hi "He says he has no rebuttal."
 
             show shizu basic_normal
-            with charachange
+            with persistent.charachange
 
             ssh "Rebuttal to what? I haven't even begun to challenge him yet."
 
@@ -2478,7 +2478,7 @@ label a4_shizune:
             hi "Don't pick fights where there are none."
 
             show shizu adjust_frown
-            with charachange
+            with persistent.charachange
 
             ssh "I've never met your friends. Why can't I? It looks like he's… being passionate."
 
@@ -2495,31 +2495,31 @@ label a4_shizune:
             "Shizune snaps her fingers in mock frustration. It's as cringe-inducingly loud as ever."
 
             show shizu basic_normal
-            with charachange
+            with persistent.charachange
 
             ssh "You're right."
 
             show shizu behind_smile
-            with charachange
+            with persistent.charachange
 
             ssh "Let's go somewhere again."
 
             hi "Do you have somewhere in mind already?"
 
             show shizu adjust_smug
-            with charachange
+            with persistent.charachange
 
             ssh "You're right again. Let's go to the usual place."
 
             "She whips out a bag of neatly wrapped containers from just outside of the doorframe. I'm guessing they're filled with food, and this time, it doesn't look store-bought. Setting it down between her feet, she continues."
 
             show shizu behind_smile
-            with charachange
+            with persistent.charachange
 
             call screen doublespeak(ke, _("Is that for me?"), ssh, _("This was the real surprise. See?"))
 
             show shizu adjust_smug
-            with charachange
+            with persistent.charachange
 
             ssh "I have to have something over everyone at the very end."
 
@@ -2657,21 +2657,21 @@ label a4_shizune:
             "I nod, but we don't return to sitting beside each other. Naturally, being alone with Shizune is going to involve a lot of silence, but I only start to notice it now. The typical sign of awkwardness. Again, she's the one to break the ice."
 
             show shizu behind_smile_close
-            with charachange
+            with persistent.charachange
 
             ssh "I was expecting you to try something dirty."
 
             hi "…"
 
             show shizu behind_sad_close
-            with charachange
+            with persistent.charachange
 
             "And now the mood is back to awkward."
 
             his "How's Misha?"
 
             show shizu basic_normal_close
-            with charachange
+            with persistent.charachange
 
             play music music_twinkle fadein 6.0
 
@@ -2682,22 +2682,22 @@ label a4_shizune:
             his "You think too much like a businesswoman."
 
             show shizu behind_blank_close
-            with charachange
+            with persistent.charachange
 
             ssh "I can't help it, it's how I've been taught to do things."
 
             show shizu adjust_happy_close
-            with charachange
+            with persistent.charachange
 
             ssh "It makes me happy that you're asking about Misha. It would be more accurate to say 'back to her real self.' She would only be back to her old self to you."
 
             show shizu basic_normal_close
-            with charachange
+            with persistent.charachange
 
             ssh "The Misha you know is completely different from the one I think of, when I think of the first time we met. Even though I think she looks better cheerful and smiling, that isn't how she typically is."
 
             show shizu behind_blank_close
-            with charachange
+            with persistent.charachange
 
             ssh "I wonder if it's true for you, too?"
 
@@ -2708,36 +2708,36 @@ label a4_shizune:
             his "You knew her just as well as you said. You knew everything she would say. If your idea was just that I'd speak for you, though, doesn't that just make me your puppet? I didn't do anything, then."
 
             show shizu cross_angry_close
-            with charachange
+            with persistent.charachange
 
             ssh "Not true. It was your idea first."
 
             show shizu basic_frown_close
-            with charachange
+            with persistent.charachange
 
             ssh "I was wrong. I have a way of seeing things that is very flawed, now that I've thought about it. I'm sure you know. Sometimes, I treat everything like a competition between myself and everyone else. Even when it doesn't make sense to."
 
             "Sometimes?"
 
             show shizu behind_blank_close
-            with charachange
+            with persistent.charachange
 
             ssh "I know very well how easy it is to ignore someone if they can only communicate with you through sign. I should have asked for help. But I was so sure I could do it on my own. It was actually a brave thing you did. Even if you won't take credit for it."
 
             show shizu basic_normal_close
-            with charachange
+            with persistent.charachange
 
             ssh "Aside from that, you've really become kind of admirable lately."
 
             "It's strange having her compliment me while her facial expression hasn't changed in the slightest."
 
             show shizu adjust_frown_close
-            with charachange
+            with persistent.charachange
 
             ssh "But!"
 
             show shizu basic_happy_close
-            with charachange
+            with persistent.charachange
 
             ssh "'People don't change so easily.' According to you. Am I right?"
 
@@ -2746,50 +2746,50 @@ label a4_shizune:
             his "Does Misha tell you everything?"
 
             show shizu behind_blank_close
-            with charachange
+            with persistent.charachange
 
             ssh "Almost everything."
 
             his "I guess you're going to tell me that I'm wrong about that, aren't you?"
 
             show shizu basic_normal2_close
-            with charachange
+            with persistent.charachange
 
             ssh "Yes and no."
 
             show shizu adjust_frown_close
-            with charachange
+            with persistent.charachange
 
             ssh "I'm the one who told Misha that before anyone else. But she took it too far, and changed the meaning. It's not easy, but she acts like that makes it impossible."
 
             show shizu basic_normal_close
-            with charachange
+            with persistent.charachange
 
             ssh "It's possible, if you go little by little. I'm considering trying to be less competitive."
 
             his "I thought you enjoyed that, though."
 
             show shizu behind_smile_close
-            with charachange
+            with persistent.charachange
 
             ssh "Maybe just a little. That's why I specifically used 'less.'"
 
             "She leans against the fence. I have things I want to say to her, but it doesn't seem like the right time for it, somehow. It's a feeling I have. I can tell she isn't done just yet."
 
             show shizu basic_normal2_close
-            with charachange
+            with persistent.charachange
 
             ssh "A lot of people think I try too hard."
 
             show shizu adjust_happy_close
-            with charachange
+            with persistent.charachange
 
             ssh "Well… I've always thought that I try to try just enough."
 
             "The sound the fence makes as she pushes against it, and the delicate clink of her sleeve buttons scraping against the links, are oddly soothing. So is the breeze gently picking up behind me. I can hear people below us."
 
             show shizu basic_normal_close
-            with charachange
+            with persistent.charachange
 
             "Shizune's eyes dart below us as well, and I wonder if she still thinks about what she might be missing out on. The attention-grabbing way she tends to snap her fingers proves she has an understanding of how other people perceive sound."
 
@@ -2812,43 +2812,43 @@ label a4_shizune:
             "I sort of zone out in thought while she does, and am rudely snapped out of it when she circles around completely and taps me on the shoulder."
 
             show shizu behind_blank_close
-            with charachange
+            with persistent.charachange
 
             ssh "Do you remember what we were talking about?"
 
             his "When? Now? Of course, it just happened."
 
             show shizu basic_angry_close
-            with charachange
+            with persistent.charachange
 
             ssh "It's been almost ten minutes."
 
             show shizu adjust_frown_close
-            with charachange
+            with persistent.charachange
 
             ssh "When I first saw you, you seemed like you were very attached to the idea of feeling sorry for yourself."
 
             "That stings, even if it is true."
 
             show shizu behind_smile_close
-            with charachange
+            with persistent.charachange
 
             ssh "Sorry, sorry."
 
             show shizu basic_normal_close
-            with charachange
+            with persistent.charachange
 
             ssh "It made me want to cheer you up at first sight. I was scared it would be for nothing, though. I couldn't help thinking it would be hard to change your mind."
 
             show shizu behind_smile_close
-            with charachange
+            with persistent.charachange
 
             ssh "But you did. I thought that was very surprising, and also that you might be kind of easily influenced. Still, I was surprised. It made me reconsider a lot of things. Like… that maybe everything was worth it in the end."
 
             his "Everything?"
 
             show shizu adjust_happy_close
-            with charachange
+            with persistent.charachange
 
             stop music fadeout 4.0
 
@@ -2879,24 +2879,24 @@ label a4_shizune:
             hi "…And remember, you have to take this job seriously. Too many people think you can just slack off, and that it isn't important. That is a dangerous way of thinking."
 
             show mishashort cross_frown_close_ss
-            with charachange
+            with persistent.charachange
 
             mi "Definitely~. You can't take it too seriously~! If you aren't always thinking big, thinking positive, and if you show any signs of weakness, people will start to think you're incompetent, you know~."
 
             show mishashort sign_confused_close_ss
-            with charachange
+            with persistent.charachange
 
             mi "And soon you won't be able to do anything because your power is going to be delegated off to others piece by piece, and you'll be left with nothing. That's what happened last time~."
 
             show mishashort hips_grin_close_ss
-            with charachange
+            with persistent.charachange
 
             mi "So~! Remember~, it may seem like an easy job, but a lot of carnage can happen in this room. Ahaha~. And~, out of it. Dealing with school staff, too! Even trying to get a budget report from a class rep can be a fight to the death~, sometimes."
 
             hi "…Yeah. It's kill or be killed. There are no friends in the pits and you take no prisoners. …Are you sure about this? Is this right?"
 
             show shizu basic_angry_close_ss
-            with charachange
+            with persistent.charachange
 
             ssh "You don't seem excited enough, I have to make sure it's getting through properly. Once more, with feeling!"
 
@@ -2982,19 +2982,19 @@ label a4_shizune:
             ssh "They still have a long way to go! Right now, they're a joke."
 
             show mishashort sign_confused_ss
-            with charachange
+            with persistent.charachange
 
             mi "Eh?"
 
             hi "What?"
 
             show shizu behind_frustrated_ss
-            with charachange
+            with persistent.charachange
 
             ssh "They think they can be the new Student Council? They're so unfocused. You can really see the lack of experience. This was our best year yet; I don't think they have what it takes to be our follow-up act."
 
             show shizu basic_frown_ss
-            with charachange
+            with persistent.charachange
 
             ssh "And I know there are more of them than those two girls. Where are they? They're like the heavily-marketed but mediocre, big-budget, critically-panned sequel to the acclaimed, low-budget sleeper hit."
 
@@ -3008,56 +3008,56 @@ label a4_shizune:
             hi "Are you going to miss it?"
 
             show shizu basic_normal_ss
-            with charachange
+            with persistent.charachange
 
             ssh "Obviously."
 
             show mishashort perky_sad_ss
-            with charachange
+            with persistent.charachange
 
             mi "Hm~… I'd be happier if I didn't have to leave, too."
 
             show mishashort hips_smile_ss
-            with charachange
+            with persistent.charachange
 
             mi "I like being in the Student Council, even if it can be tiring, too."
 
             hi "Yeah, it's definitely tiring."
 
             show mishashort hips_grin_ss
-            with charachange
+            with persistent.charachange
 
             mi "Only because Shicchan is always trying to do more than she has to~."
 
             show shizu adjust_frown_ss
-            with charachange
+            with persistent.charachange
 
             ssh "You're forgetting that if I did the bare minimum, we wouldn't do anything all year except hand out flyers, collect surveys, and plan the next student council election so the next Student Council could sit around for another year of doing nothing."
 
             show shizu behind_frown_ss
-            with charachange
+            with persistent.charachange
 
             ssh "Asking me to let that happen? Don't be ridiculous. In a Student Council like that there wouldn't even be any power to play around with."
 
             show shizu adjust_happy_ss
-            with charachange
+            with persistent.charachange
 
             ssh "I'm just happy that even though I clearly need to ride them harder, those two aren't bad. Not there yet, but the new Student Council should be in good hands."
 
             hi "How can you tell?"
 
             show shizu behind_smile_ss
-            with charachange
+            with persistent.charachange
 
             ssh "After the festival, they asked me if we could also organize a Halloween event, like a haunted house or something along those lines. They had a bunch of other ideas, as well."
 
             show shizu adjust_smug_ss
-            with charachange
+            with persistent.charachange
 
             ssh "Of course my response was 'no.' I had Misha tell them to do it themselves, if they wanted it so badly. They were angry, for some reason."
 
             show mishashort cross_laugh_ss
-            with charachange
+            with persistent.charachange
 
             mi "Ahaha~."
 
@@ -3067,37 +3067,37 @@ label a4_shizune:
 
             show mishashort cross_smile_ss
             show shizu behind_blank_ss
-            with charachange
+            with persistent.charachange
 
             ssh "I was angry too."
 
             show shizu basic_frown_ss
-            with charachange
+            with persistent.charachange
 
             ssh "All of a sudden, they want so much. If they wanted a haunted house, or a traditional-style café, or a trip to the beach, or whatever other cliché thing, why didn't they try to organize it before? It was like they were taking advantage of me."
 
             show shizu behind_frown_ss
-            with charachange
+            with persistent.charachange
 
             ssh "I worked hard to organize those festivals, and in return they came to me with 'That was nice, but can you do this now? How about doing this? It's what I really want.'"
 
             show mishashort sign_smile_ss
-            with charachange
+            with persistent.charachange
 
             mi "Shicchan was wrong~, though."
 
             show shizu basic_happy_ss
-            with charachange
+            with persistent.charachange
 
             ssh "Right. They wanted to join the Student Council so they could make it happen. I made them feel jealous and riled them up. That can be a kind of motivation too."
 
             show shizu adjust_happy_ss
-            with charachange
+            with persistent.charachange
 
             ssh "The desire to do something great spreads, even if it's to show me up. They decided to take me up on the challenge nonetheless."
 
             show shizu behind_blank_ss
-            with charachange
+            with persistent.charachange
 
             ssh "I'm impressed. Well, for now. I would have to see how it plays out a little longer in order to know for sure."
 
@@ -3112,68 +3112,68 @@ label a4_shizune:
             "She snaps her fingers suddenly, which sends Misha almost bolting out of her seat. Interesting, I guess it is impossible to get used to."
 
             show shizu basic_happy_ss
-            with charachange
+            with persistent.charachange
 
             ssh "That's right! We were going to have a party to celebrate passing the reins to the new Student Council, weren't we? Why not have that now? Or at least plan it now, and have it tomorrow."
 
             hi "But they're not even in charge yet. In fact, that's the first thing you told them: 'You're not in charge yet.' It seems premature."
 
             show shizu adjust_frown_ss
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show shizu behind_blank_ss
-            with charachange
+            with persistent.charachange
 
             ssh "Misha, what do you think?"
 
             show mishashort hips_smile_ss
-            with charachange
+            with persistent.charachange
 
             mi "Hmmm~, I agree, it's too early. Plus~, I don't think I could go anyway. Sorry~! In fact, I was going to leave right now."
 
             ssh "Why not?"
 
             show mishashort hips_grin_ss
-            with charachange
+            with persistent.charachange
 
             mi "No~ comment~!"
 
             show shizu adjust_frown_ss
-            with charachange
+            with persistent.charachange
 
             ssh "Come on, tell me."
 
             show mishashort perky_confused_ss
-            with charachange
+            with persistent.charachange
 
             mi "Well… okay~!"
 
             "Way to not crack under pressure, Misha."
 
             show mishashort sign_confused_ss
-            with charachange
+            with persistent.charachange
 
             mi "I thought about it, and~… Even if I didn't want to go, I would say yes~! Usually~. It's the kind of person I am. I really should stop doing that, and this is a good place to start, I think."
 
             show mishashort perky_sad_ss
-            with charachange
+            with persistent.charachange
 
             mi "If it's a celebration to say goodbye, I don't want it. It would be too sad~. I want to do something else instead. And after all, Hicchan, you and Shicchan will still be here tomorrow. It doesn't seem right."
 
             show mishashort hips_grin_ss
-            with charachange
+            with persistent.charachange
 
             mi "Besides, I have other school things I have to do today~! I can't drop them just like that."
 
             show shizu adjust_frown_ss
-            with charachange
+            with persistent.charachange
 
             ssh "We can postpone it."
 
             show mishashort hips_frown_ss
-            with charachange
+            with persistent.charachange
 
             mi "No. No early goodbyes~!"
 
@@ -3182,7 +3182,7 @@ label a4_shizune:
             hi "Aren't you going to go now, though?"
 
             show mishashort hips_grin_ss
-            with charachange
+            with persistent.charachange
 
             mi "Hm~? Oh, that's right~! Wahaha~!"
 
@@ -3195,12 +3195,12 @@ label a4_shizune:
             mi "Okay, besides now, no too-early goodbyes, okay?"
 
             show shizu behind_blank_ss
-            with charachange
+            with persistent.charachange
 
             ssh "I get it."
 
             show mishashort hips_grin_ss
-            with charachange
+            with persistent.charachange
 
             mi "Okay, later~!"
 
@@ -3240,7 +3240,7 @@ label a4_shizune:
             his "Yeah. I didn't think about it like that, but Misha's right. Parties set a mood, and it would be a sad one. A sad party doesn't sound like a whole lot of fun."
 
             show shizu basic_angry
-            with charachange
+            with persistent.charachange
 
             ssh "Why would it be sad?"
 
@@ -3253,19 +3253,19 @@ label a4_shizune:
             his "I had a thought that when you graduate, that's it. It's going to be the end of the Student Council. I was wondering if you had the same idea."
 
             show shizu behind_frown
-            with charachange
+            with persistent.charachange
 
             ssh "Don't be stupid. I look forward to it. I won't be a student any more, so the expectations are going to be completely different. People's expectations of me, and my expectations about everything else. It seems exciting!"
 
             show shizu adjust_frown
-            with charachange
+            with persistent.charachange
 
             ssh "As for the Student Council, it should be in good enough hands. I don't have anything to be sad about."
 
             his "I don't think you're being honest. You looked upset about having to give the Student Council up not even a few weeks ago. It wasn't about leaving it to a bunch of newbies either, it was having to stop doing student council work at all."
 
             show shizu behind_smile
-            with charachange
+            with persistent.charachange
 
             "Unexpectedly, Shizune smiles."
 
@@ -3274,19 +3274,19 @@ label a4_shizune:
             his "Then it doesn't make sense. Why would you want to have a party about it?"
 
             show shizu basic_normal
-            with charachange
+            with persistent.charachange
 
             ssh "I'm trying to get over it. Besides… Goodbye celebrations are very important. People say the first step is the most crucial, but following it through and finishing cleanly are just as important, right?"
 
             his "I guess that is true."
 
             show shizu adjust_smug
-            with charachange
+            with persistent.charachange
 
             ssh "Anyway, I don't consider it goodbye. But it's still an event. You still have to go through the proper motions."
 
             show shizu behind_blank
-            with charachange
+            with persistent.charachange
 
             stop music fadeout 4.0
 
@@ -3295,21 +3295,21 @@ label a4_shizune:
             his "Aren't I going to what?"
 
             show shizu basic_normal
-            with charachange
+            with persistent.charachange
 
             ssh "Kiss me, of course."
 
             his "Is that 'the proper motions?'"
 
             show shizu behind_blank
-            with charachange
+            with persistent.charachange
 
             ssh "It would be normal, wouldn't it? The natural thing to do."
 
             "It's time to act decisively. If I don't, I'm sure my heart will explode."
 
             show shizu adjust_blush_close
-            with charachange
+            with persistent.charachange
 
             "I kiss her immediately, so quickly that I don't even have time to enjoy it. Even though she was prepared for it, Shizune blushes a deep red. I feel a similar heat rising in my neck and cheeks."
 
@@ -3463,12 +3463,12 @@ label a4_shizune:
             his "I'm glad you can take things so lightly."
 
             show shizu behind_frown_nak
-            with charachange
+            with persistent.charachange
 
             ssh "I didn't do it on purpose. Why don't you take the lead, then?"
 
             show shizu behind_smilelow_nak
-            with charachange
+            with persistent.charachange
 
             ssh "Come on."
 
@@ -3506,7 +3506,7 @@ label a4_shizune:
             "Her hands writhe across the surface of the table, and grabbing onto it, she hooks her legs around my back, pressing us closer together, connecting us even more closely and entrapping me inside her."
 
             scene evh shizu_table_comeopen
-            with charachange
+            with persistent.charachange
 
             "Her inner walls are so hot and tight, and with her pushing up against me, the friction only increases, sending me over the top."
 
@@ -3536,7 +3536,7 @@ label a4_shizune:
             his "I wonder what she had to do."
 
             show shizu behind_blank_nak
-            with charachange
+            with persistent.charachange
 
             "Shizune traces the air lazily with a finger and points to the door."
 
@@ -3545,14 +3545,14 @@ label a4_shizune:
             his "Why don't you just tell me?"
 
             show shizu behind_smile_nak
-            with charachange
+            with persistent.charachange
 
             ssh "It's more interesting if you see for yourself. Seeing is believing."
 
             his "Sure. Clever. Maybe I will. What about you, are you going to stay here all day? It's getting late."
 
             show shizu behind_blank_nak
-            with charachange
+            with persistent.charachange
 
             ssh "It feels like my last day as Student Council president, so maybe I'll sleep here tonight. It could be the last chance I have to sleep at my desk, like after a long day trying to meet a deadline."
 
@@ -3612,7 +3612,7 @@ label a4_shizune:
             "I'm so relieved that I forget to sign it."
 
             show shizu adjust_frown_close_ni
-            with charachange
+            with persistent.charachange
 
             "Shizune puts a finger up to her lips. I guess even though she can't hear, she has some idea of what loudness is, and can tell from my expression that I was being loud. And apparently, being loud isn't a good thing right now."
 
@@ -3621,19 +3621,19 @@ label a4_shizune:
             his "Oh, very funny. Why are you here?"
 
             show shizu basic_normal_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "I was waiting for you to come see. I knew you would show up. It took you a while, though."
 
             his "You've been waiting here?"
 
             show shizu behind_blank_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "Yes, but that isn't important. We have to be stealthy, if we don't want Misha to detect us. Tell me if I'm not being stealthy enough, okay?"
 
             show shizu basic_normal_close_ni
-            with charachange
+            with persistent.charachange
 
             "With that, Shizune starts slowly tiptoeing through the middle of the hall. I pat her on the shoulder to get her attention."
 
@@ -3642,7 +3642,7 @@ label a4_shizune:
             his "Why do we have to be stealthy?"
 
             show shizu behind_frustrated_close_ni
-            with charachange
+            with persistent.charachange
 
             "She refuses to answer, probably because signing and walking stealthily at the same time doesn't look easy."
 
@@ -3697,7 +3697,7 @@ label a4_shizune:
             "She must know, since she understands well enough to want me to see it too, but I have to wonder if she ever feels like she's missing out on something, having to work that much harder to understand what she's observing."
 
             show shizu basic_normal_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "It looks like she is taking supplementary lessons. Is she?"
 
@@ -3706,28 +3706,28 @@ label a4_shizune:
             "I answer, despite knowing the question is completely rhetorical."
 
             show shizu behind_smile_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "Misha told me she really wants to be a sign language teacher in the future. If she can get a recommendation, she can study overseas for it. That is why she is working so hard. Her grades were always kind of on the low side."
 
             his "Now I feel guilty. I haven't even thought about what I'm going to do yet."
 
             show shizu adjust_smug_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "Neither have I!"
 
             "The cheerful way that she signs it is very unlike her, and is very obviously false."
 
             show shizu basic_normal2_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "Let's get out of here, we don't want to be seen. It would be a problem if we were caught standing out here like idiots."
 
             his "Where? The student council room?"
 
             show shizu adjust_happy_close_ni
-            with charachange
+            with persistent.charachange
 
             stop music fadeout 3.0
 
@@ -3762,14 +3762,14 @@ label a4_shizune:
             "I close the door behind us, prompting Shizune to laugh soundlessly as she slides into a chair. For a second, it depresses me. I want to hear her real laugh."
 
             show shizu behind_smile_ni
-            with charachange
+            with persistent.charachange
 
             play music music_innocence fadein 10.0
 
             ssh "I was. I've been looking down on Misha. I didn't think she had a goal at all. But it turns out that I was wrong, I made a careless assumption. I thought Misha was as aimless as I was. I was stupid. I lost."
 
             show shizu basic_normal_close_ni
-            with charachange
+            with persistent.charachange
 
             "Shizune pauses to crack her knuckles, then folds her hands over each other, and leans forward in her chair. In the abnormal quiet of the building, I can hear Mutou yelling at Misha again even across a hallway and through two doors."
 
@@ -3784,90 +3784,90 @@ label a4_shizune:
             "That sounds remarkably paranoid. Even Kenji would think so. Unfortunately, I'm so caught up in thinking about it that I forget to give her an answer. She takes it as there not being one. There was an invisible time limit to this test, shorter than usual."
 
             show shizu adjust_smug_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "Just as I thought."
 
             his "What do you mean?"
 
             show shizu behind_blank_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "You don't agree?"
 
             his "Not really, it's not that. I don't get it."
 
             show shizu basic_normal2_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "I want to force my will on people."
 
             "How refreshingly honest."
 
             show shizu behind_frown_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "Don't give me a weird look like that. It's not like that was always my intention."
 
             show shizu basic_normal_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "At first, I was just bored. I wanted to see someone's passion for something. Then I could try and beat them. I wanted to test their ability or their convictions."
 
             show shizu adjust_frown_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "But it was impossible, no one has any passion for anything in this school. They just want to keep to themselves."
 
             show shizu behind_frustrated_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "I can't believe it. It's too boring that way. I thought that there was no way these drab people could be for real. It goes beyond not wanting to make waves."
 
             show shizu adjust_angry_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "They had to have some interests. They had to be hiding something. I wanted to expose it, and reveal it, and drag it out."
 
             show shizu behind_blank_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "One of the most successful ways to get people to open up to you, and cheer them up, is to open up with a story about yourself. And then you ease them into telling you about themselves."
 
             show shizu adjust_happy_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "It's like give and take, but with an element of manipulation, which makes it interesting."
 
             show shizu behind_blank_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "I can't do that. If I attempt to have Misha talk about me, for me, it makes me seem arrogant. The message has to go through a messenger. I'm standing next to Misha, telling her to tell someone about me."
 
             show shizu adjust_frown_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "You don't have to be able to read sign language to see that. If I were forced to sit through that, I would think I was arrogant, too."
 
             show shizu basic_angry_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "I was frustrated; I couldn't figure out a way to have a conversation with anyone but Misha. No one would open up to me."
 
             show shizu behind_frown_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "I came to the conclusion that I can't make people confide in me, or believe in me. I can only hope to create things, and show them to people, and hope they make them happy. Or I could be more forceful and hope it would eventually stick to someone."
 
             "I guess that would be me. Feels vaguely depressing."
 
             show shizu basic_normal_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "Somewhere along the line, I think I started to ignore Misha, or see her as less of a person, or something like that. I took her for granted, I think would be the best way to put it. It was like she was just an extension of myself."
 
             show shizu behind_sad_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "I forgot that the whole time, Misha was there, opening up to me, and giving a hundred percent every day."
 
@@ -3881,30 +3881,30 @@ label a4_shizune:
             "If you got her to hold two wires I'm sure Shizune could power a light bulb. It's odd that I could have such a lighthearted thought while she's being so serious."
 
             show shizu adjust_frown_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "And in spite of that, Misha tells me that I'm her inspiration. Isn't that ridiculous? I'm not the kind of person who can inspire others."
 
             show shizu behind_blank_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "Even if a person who inspires you is flawed, it can be acceptable. I've thought about this. There is even acceptable hypocrisy."
 
             show shizu basic_normal2_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "For instance… If your hero was an athlete, but unsportsmanlike, they could still be respected for their athletic ability, even if they had shortcomings as a person."
 
             play sound sfx_snap
             show shizu adjust_angry_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "However,"
 
             "She snaps her fingers briskly. It sounds like a thunderclap in the empty room, and Shizune takes a few seconds to stretch her fingers. Come to think of it, this is the most she has ever signed."
 
             show shizu cross_angry_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "If someone like me has no goals, it would be totally unacceptable. It'd be the worst kind of hypocrisy. And hypocrites don't deserve responsibility over anything, they can't even manage themselves."
 
@@ -3919,7 +3919,7 @@ label a4_shizune:
             his "You're the leader anyway."
 
             show shizu behind_frown_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "That is only because no one else wants to be."
 
@@ -3930,64 +3930,64 @@ label a4_shizune:
             his "I read that in a book somewhere."
 
             show shizu basic_normal_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "That's clever."
 
             "Shizune only seems to show what she's feeling on her face when she wants to, but I don't think she's being sarcastic."
 
             show shizu adjust_frown_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "I don't want to 'tame' anyone, though."
 
             his "Being the leader and being looked up to, then. Same thing."
 
             show shizu behind_frustrated_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "I never wanted to be the leader, it just ends up that way."
 
             his "I don't believe that, all you do is try to grab more and more responsibility."
 
             show shizu adjust_frown_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "Wait, wait. I wasn't going to tell you that I don't enjoy it. I don't care about being the leader, but I don't mind. I don't care about being the best, but I don't mind. You're right, though, about me wanting responsibility."
 
             show shizu basic_happy_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "Of course I want more responsibility. Having responsibility makes me feel alive. That's why I joined the Student Council: If there is no pressure, I just can't stand it."
 
             show shizu behind_blank_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "Even so, now I'm the leader. I always thought being the leader meant you give orders, but it really is more."
 
             show shizu adjust_frown_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "It's about having a goal. If I don't have a goal, then it's pointless. People would only be following me for my own enjoyment. It would be selfish."
 
             "It's a strangely moral viewpoint for a person who seems to love one-upping others so much."
 
             show shizu basic_normal2_close_ni
-            with charachange
+            with persistent.charachange
 
             "Resting her chin on her tented fingers, Shizune looks disarmingly childish as she thinks hard about her problem. The expression on her face is a little comical, because it's too obvious, and therefore, very unlike her."
 
             his "It comes with the job. I think you'd have to be a leader. You wouldn't be satisfied with anything else, you would just get bored."
 
             show shizu basic_frown_close_ni
-            with charachange
+            with persistent.charachange
 
             "Shizune doesn't reply, but from her annoyed expression, I think I've guessed correctly."
 
             his "I've been thinking that I need a little direction, too."
 
             show shizu adjust_happy_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "Were you told that it's important to contribute to society?"
 
@@ -3998,7 +3998,7 @@ label a4_shizune:
             his "Why do you say that?"
 
             show shizu behind_blank_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "Just because."
 
@@ -4007,12 +4007,12 @@ label a4_shizune:
             his "I guess that's right, though."
 
             show shizu basic_normal_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "I see."
 
             show shizu adjust_frown_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "I don't know if it's the same for me. I hate it."
 
@@ -4023,14 +4023,14 @@ label a4_shizune:
             "I want to say that this is why she feels the need to turn everything into a competition, but… that's probably just how she is. Having a goal to put that energy towards is just the next level."
 
             show shizu behind_blank_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "How about this? I could go into business. My family is well connected, so it shouldn't be too hard. …That comes off sounding a little unethical and nepotistic, doesn't it?"
 
             his "A little."
 
             show shizu adjust_frown_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "I won't coast, though. I'll work hard, until I'm at the very apex."
 
@@ -4039,19 +4039,19 @@ label a4_shizune:
             his "You want to be…?"
 
             show shizu basic_happy_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "A philanthropist!"
 
             hi "…"
 
             show shizu adjust_smug_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "Tsk tsk. What were you thinking? That I want to be a miser?"
 
             show shizu behind_blank_close_ni
-            with charachange
+            with persistent.charachange
 
             ssh "Well, it's true, it is a part of the plan. Don't sell me short and stop there, though."
 
@@ -4110,7 +4110,7 @@ label a4_shizune:
             ke "They said I would have to graduate eventually. Well, I showed them. I've lived here rent free for more than long enough. If you take into account the rising cost of land, I think you could say I've won in the end."
 
             show kenji happy
-            with charachange
+            with persistent.charachange
 
             ke "No, you know what? I did win. History will acknowledge me as the victor."
 
@@ -4127,21 +4127,21 @@ label a4_shizune:
             hi "So, what you're basically saying is, you won't miss it?"
 
             show kenji neutral
-            with charachange
+            with persistent.charachange
 
             ke "Miss what?"
 
             hi "School, dummy."
 
             show kenji tsun
-            with charachange
+            with persistent.charachange
 
             ke "No. I told you, this place is too filled with feminists. It's beyond saving. But at least I'll be able to get out before it reaches critical mass. I'll only come back, years later, when they build a statue to honor me."
 
             hi "Do they do the ten year later reunion thing here?"
 
             show kenji neutral
-            with charachange
+            with persistent.charachange
 
             ke "How would I know that? Probably. Anyway, I have to start packing now. Take care of yourself, man."
 
@@ -4150,19 +4150,19 @@ label a4_shizune:
             "Not that I had much to pack."
 
             show kenji tsun
-            with charachange
+            with persistent.charachange
 
             ke "That's not how it goes. You're supposed to do everything at the last minute. Men are better at doing everything at the last minute, the last minute can have more productivity than like, the entire week before it. It's how we keep shit fair."
 
             show kenji neutral
-            with charachange
+            with persistent.charachange
 
             ke "Pffft, you'll never understand our manly ways."
 
             hi "You take care of yourself, too."
 
             show kenji happy
-            with charachange
+            with persistent.charachange
 
             show kenji:
                 ease 1.0 right alpha 0.0
@@ -4259,21 +4259,21 @@ label a4_shizune:
             hi "What are you doing?"
 
             show mishashort cross_smile
-            with charachange
+            with persistent.charachange
 
             mi "You first~."
 
             hi "I was looking for Shizune."
 
             show mishashort cross_grin
-            with charachange
+            with persistent.charachange
 
             mi "Me, too~! I thought she would be here, but I got Hicchan instead~!"
 
             hi "Gee, thanks."
 
             show mishashort sign_smile
-            with charachange
+            with persistent.charachange
 
             mi "Wahaha! Well~, this is good. Really, really~. I wanted to talk to you, anyway~."
 
@@ -4282,58 +4282,58 @@ label a4_shizune:
             "I take the time to glance around the room a little more. I see a hot plate. They are really living high."
 
             show mishashort perky_sad
-            with charachange
+            with persistent.charachange
 
             mi "I wanted to say sorry~, of course~, for all the trouble I made for you and Shicchan."
 
             hi "Don't call it 'trouble.'"
 
             show mishashort sign_confused
-            with charachange
+            with persistent.charachange
 
             mi "Right~, right~."
 
             hi "Don't apologize to Shizune."
 
             show mishashort hips_smile
-            with charachange
+            with persistent.charachange
 
             mi "Ahaha~. Right~, right~. But that isn't why I'm here, Hicchan. I wouldn't apologize to Shicchan. Since you're here, I want to ask you a question."
 
             show mishashort perky_confused
-            with charachange
+            with persistent.charachange
 
             mi "Hicchan, what do you think it would take for Shicchan to be happy?"
 
             hi "World domination, obviously."
 
             show mishashort cross_laugh
-            with charachange
+            with persistent.charachange
 
             mi "Wahaha~!"
 
             show mishashort hips_smile
-            with charachange
+            with persistent.charachange
 
             mi "Even though you're joking, Hicchan~… No, even if she could, it wouldn't make Shicchan happy. Only for a little while."
 
             show mishashort sign_smile
-            with charachange
+            with persistent.charachange
 
             mi "Hicchan, have you ever heard of artists who tear up their paintings as soon as they finish them? Such people really exist in the world, you know~!"
 
             show mishashort perky_smile
-            with charachange
+            with persistent.charachange
 
             mi "I remembered it all of a sudden. It's just like Shicchan, now that I think about it. Whenever Shicchan sets up a challenge for herself and completes it, she acts like her skills have no meaning any more."
 
             show mishashort perky_confused
-            with charachange
+            with persistent.charachange
 
             mi "I wonder~, is it because she can't create anything permanent?"
 
             show mishashort perky_sad
-            with charachange
+            with persistent.charachange
 
             mi "It's just like those artists, and how they want to create a piece of art to leave behind~, a really great one~, but can't do it. It's really obvious when I look back at it~, but~, I didn't see it before. Now, I'm scared. I wonder if Shicchan will ever be happy."
 
@@ -4356,39 +4356,39 @@ label a4_shizune:
             "Misha sighs, arms stiff at her sides, hands tapping the air softly."
 
             show mishashort sign_sad
-            with charachange
+            with persistent.charachange
 
             mi "Before, I still thought… hm~… I might be able to make Shizune happy; and I was in a good place to do it before. Since I was her interpreter, I could always be with her. Maybe…"
 
             show mishashort perky_confused
-            with charachange
+            with persistent.charachange
 
             mi "And~, I thought I would do it by becoming like… Shicchan's shadow."
 
             show mishashort perky_sad
-            with charachange
+            with persistent.charachange
 
             mi "I kept trying even when she rejected me. It felt like I was stuck and I couldn't do anything but watch Shicchan's back getting smaller while she kept going. I was scared, even though I should have just accepted it."
 
             mi "It's hard. Maybe I could have at least understood Shicchan~."
 
             show mishashort cross_smile
-            with charachange
+            with persistent.charachange
 
             mi "But it looks like I was completely wrong after all~… I didn't even know that, or think about it… Shicchan would call it a complete loss."
 
             show mishashort cross_frown
-            with charachange
+            with persistent.charachange
 
             mi "Okay~, I'm done. That's it, Hicchan~. But~! Since you're the one who knows Shicchan best of all, you can't make her cry. Or I'll be angry~!"
 
             show mishashort hips_smile
-            with charachange
+            with persistent.charachange
 
             mi "I'm going to go overseas after this. I even have letters of recommendation, or I don't think I would be able to normally~! Maybe I'll study and become a sign language teacher over there? Who knows~!"
 
             show mishashort hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "That means~! You have to look after Shicchan, okay?"
 
@@ -4422,17 +4422,17 @@ label a4_shizune:
             mi "Hi~ hi~!"
 
             show mishashort cross_smile
-            with charachange
+            with persistent.charachange
 
             mi "What are you doing~?"
 
             show yuuko closedhappy_down
-            with charachange
+            with persistent.charachange
 
             yu "I'm just taking photos of everyone."
 
             show mishashort hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "That's obvious~!"
 
@@ -4441,24 +4441,24 @@ label a4_shizune:
             hi "Where's my photo?"
 
             show yuuko worried_up
-            with charachange
+            with persistent.charachange
 
             yu "Y-you want a copy? I… don't know. Well… Only if you promise to keep it a secret, or else everyone will want one too."
 
             show mishashort cross_smile
-            with charachange
+            with persistent.charachange
 
             mi "That happened to me in elementary school, only it was with candy~!"
 
             show yuuko smile_up
-            with charachange
+            with persistent.charachange
 
             yu "Okay… I'll take a photo of you now, then…"
 
             hi "Ah, wait, I'm not ready. I was just kidding."
 
             show mishashort sign_smile
-            with charachange
+            with persistent.charachange
 
             mi "Hicchan, make a peace sign~!"
 
@@ -4471,7 +4471,7 @@ label a4_shizune:
 
             show mishashort perky_confused
             show yuuko worried_down
-            with charachange
+            with persistent.charachange
 
             "Yuuko shields herself behind it, letting out a moan of frustration. You're not supposed to turn the flash on outdoors."
 
@@ -4498,12 +4498,12 @@ label a4_shizune:
             yu "Yes?"
 
             show mishashort sign_smile
-            with charachange
+            with persistent.charachange
 
             mi "Did you see Shicchan around here~?"
 
             show yuuko neutral_up
-            with charachange
+            with persistent.charachange
 
             yu "Yes… In front of the gate."
 
@@ -4523,7 +4523,7 @@ label a4_shizune:
             $ renpy.music.set_volume(0.3, 1.0, channel="ambient")
 
             show shizu adjust_frown
-            with charachange
+            with persistent.charachange
 
             hide crowd
             with charaexit
@@ -4570,14 +4570,14 @@ label a4_shizune:
             hi "Boring philosophical things that I don't want to talk about. Don't worry, I'm not thinking about it too hard."
 
             show shizu adjust_smug
-            with charachange
+            with persistent.charachange
 
             ssh "Good. Getting philosophical at a time like this would be the worst thing you could do."
 
             hi "Yeah. I just want to stand here for a bit. It's relaxing."
 
             show mishashort hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "Wahaha~! It was~ a busy week."
 
@@ -4614,7 +4614,7 @@ label a4_shizune:
             nvl clear
 
             show mishashort perky_smile
-            with charachange
+            with persistent.charachange
 
             mi "What did the new Student Council want, Shicchan~?"
 
@@ -4623,59 +4623,59 @@ label a4_shizune:
             hi "I didn't know that they had someone who knew sign language."
 
             show shizu behind_smile
-            with charachange
+            with persistent.charachange
 
             ssh "They don't. I think it was most likely just a goodbye, so I appreciate it, even though I couldn't tell them."
 
             show shizu basic_normal
-            with charachange
+            with persistent.charachange
 
             ssh "How did you know I was here?"
 
             hi "Is it supposed to be a secret? Anyway, we just asked Yuuko. Did she take a photo of you, too?"
 
             show shizu behind_blank
-            with charachange
+            with persistent.charachange
 
             ssh "Yes, without asking me first. Since Yuuko doing anything spur-of-the-moment is rare, though, I'll let it go."
 
             play sound sfx_snap
             show shizu basic_sparkle
-            with charachange
+            with persistent.charachange
 
             "She snaps her fingers, more because I think she likes it, than out of realization of an idea."
 
             show shizu behind_smile
-            with charachange
+            with persistent.charachange
 
             ssh "We should take a photo of the three of us."
 
             show shizu adjust_happy
-            with charachange
+            with persistent.charachange
 
             ssh "We haven't taken a student council photo yet. Now's the perfect chance."
 
             show shizu basic_normal
-            with charachange
+            with persistent.charachange
 
             ssh "But, if I have to look at this picture a year from now, I don't want us staring back at me."
 
             mi "Hm~? What does that mean, Shicchan?"
 
             show shizu adjust_frown
-            with charachange
+            with persistent.charachange
 
             ssh "Pictures are supposed to capture the moment, isn't that right? Without a doubt. They're not portraits. Just standing around would be so stiff. It wouldn't even capture how I feel."
 
             show shizu behind_smile
-            with charachange
+            with persistent.charachange
 
             ssh "I feel like we'll meet again. So, this isn't an occasion to take such a serious photo. It should be a 'see you later' type of photo; not a big deal. It should be something more… festive."
 
             hi "Oh boy."
 
             show shizu basic_happy
-            with charachange
+            with persistent.charachange
 
             ssh "Like this. Follow me."
 
@@ -4688,19 +4688,19 @@ label a4_shizune:
             "Shizune poses like a musketeer, so quickly that I'm sure even she knows it's silly."
 
             show mishashort cross_laugh
-            with charachange
+            with persistent.charachange
 
             mi "Ahahaha~!"
 
             hi "Do we really have to do… such a cheesy pose?"
 
             show shizu adjust_happy
-            with charachange
+            with persistent.charachange
 
             ssh "I can think of no better pose. Misha, go find Yuuko!"
 
             show mishashort sign_smile
-            with charachange
+            with persistent.charachange
 
             mi "I don't like this pose either, but I think it's kind of nice~."
 
@@ -4772,39 +4772,39 @@ label a4_shizune:
             hi "Do they do that reunion thing here?"
 
             show shizu adjust_happy_close
-            with charachange
+            with persistent.charachange
 
             ssh "Of course they do."
 
             show mishashort sign_smile
-            with charachange
+            with persistent.charachange
 
             mi "A Student Council member should know that~!"
 
             show shizu behind_smile_close
-            with charachange
+            with persistent.charachange
 
             ssh "Sooner than that, though, okay?"
 
             show shizu adjust_happy_close
-            with charachange
+            with persistent.charachange
 
             ssh "Both of you."
 
             show mishashort hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "Right~!"
 
             hi "Yeah."
 
             show shizu basic_happy_close
-            with charachange
+            with persistent.charachange
 
             ssh "Yuuko! You do the pose, too!"
 
             show shizu adjust_happy_close
-            with charachange
+            with persistent.charachange
 
             ssh "Afterwards, we can go for tea."
 
@@ -4850,14 +4850,14 @@ label a4_shizune:
             "On turning the lights on, however, I find out that this one isn't empty either. Lilly's head turns in my direction, which freaks me out before I realize she probably heard me flipping the light switch."
 
             show lilly basic_listen
-            with charachange
+            with persistent.charachange
 
             li "Hello."
 
             hi "Hey, Lilly. I didn't think anyone else would be here."
 
             show lilly basic_weaksmile
-            with charachange
+            with persistent.charachange
 
             li "Is that you, Hisao?"
 
@@ -4866,7 +4866,7 @@ label a4_shizune:
             "I turn to leave, which prompts Lilly to quickly speak up."
 
             show lilly basic_smile
-            with charachange
+            with persistent.charachange
 
             li "You don't have to leave so quickly. We can both have lunch in the same room. As a matter of fact, I would prefer to eat with someone else."
 
@@ -4886,14 +4886,14 @@ label a4_shizune:
             "On her desk there are just a few cookies and a thermos of tea. She must be one of those light lunch types. I bite into my sandwich. Some of the ingredients spill out the back end."
 
             show lilly basic_ara_close
-            with charachange
+            with persistent.charachange
 
             li "We haven't spoken in a long time, I'm surprised that you still remember my name."
 
             hi "Mmphffmm?"
 
             show lilly basic_smileclosed_close
-            with charachange
+            with persistent.charachange
 
             li "It must be very busy in the Student Council."
 
@@ -4902,7 +4902,7 @@ label a4_shizune:
             "Hold on, Lilly, I need a second to catch my breath from inhaling that sandwich."
 
             show lilly basic_smile_close
-            with charachange
+            with persistent.charachange
 
             li "And how has it been lately?"
 
@@ -4916,14 +4916,14 @@ label a4_shizune:
             "I snap my fingers, which, from her facial expression, upsets her a lot."
 
             show lilly basic_reminisce_close
-            with charachange
+            with persistent.charachange
 
             li "I think that you have been hanging out around those two too much."
 
             hi "I guess it is one of Shizune's trademarks. Personally, I like it."
 
             show lilly basic_displeased_close
-            with charachange
+            with persistent.charachange
 
             li "I ignore it."
 
@@ -4932,7 +4932,7 @@ label a4_shizune:
             hi "Doesn't seem like it would be easy to. I've been trying to figure out how she can make it so loud, but I think I'm damaging my knuckles."
 
             show lilly behind_displeased_close
-            with charachange
+            with persistent.charachange
 
             li "Even if it were loud enough to break the windows, I would ignore it. I'm not a trained seal; I have that luxury."
 
@@ -4941,29 +4941,29 @@ label a4_shizune:
             "I ask the question as carefully and diplomatically as possible, although in the end I'm only asking to satisfy my curiosity."
 
             show lilly basic_weaksmile_close
-            with charachange
+            with persistent.charachange
 
             li "No, of course not, although I don't like Shizune."
 
             show lilly basic_reminisce_close
-            with charachange
+            with persistent.charachange
 
             li "We were in the Student Council together for a brief time."
 
             hi "I heard."
 
             show lilly basic_sleepy_close
-            with charachange
+            with persistent.charachange
 
             li "I wish you hadn't been so quick to join."
 
             show lilly basic_listen_close
-            with charachange
+            with persistent.charachange
 
             li "I don't like the way Shizune runs the Student Council. Did you know that she scared off most of the old members? That is why I think she tries to surround herself with people who won't oppose her."
 
             show lilly basic_reminisce_close
-            with charachange
+            with persistent.charachange
 
             li "And they don't. It's like a dependency bubble."
 
@@ -4974,14 +4974,14 @@ label a4_shizune:
             hi "Did you tell her that?"
 
             show lilly basic_displeased_close
-            with charachange
+            with persistent.charachange
 
             li "Very often."
 
             "Lilly stops to polish off the last of her tea. I'm running behind on finishing my own lunch and take advantage of the pause to eat as much as possible."
 
             show lilly basic_sleepy_close
-            with charachange
+            with persistent.charachange
 
             li "All of her friends are related to the Student Council, like Misha."
 
@@ -4990,36 +4990,36 @@ label a4_shizune:
             hi "Not really."
 
             show lilly basic_surprised_close
-            with charachange
+            with persistent.charachange
 
             li "Is that so?"
 
             show lilly basic_reminisce_close
-            with charachange
+            with persistent.charachange
 
             li "Either way, there is no point in attempting to force them to make up. Always try to confront everything head-on is what Shizune would do, but it doesn't work in the real world. At some point, it's just being stubborn, not bravery or good intentions."
 
             hi "That's a little general, don't you think?"
 
             show lilly basic_smileclosed_close
-            with charachange
+            with persistent.charachange
 
             li "Hm, I suppose."
 
             show lilly basic_weaksmile_close
-            with charachange
+            with persistent.charachange
 
             li "What do you think is the best to have with tea? Cookies, or scones? I like them both, in different ways. I couldn't possibly choose."
 
             show lilly basic_displeased_close
-            with charachange
+            with persistent.charachange
 
             li "I don't like people who constantly force me to pick sides or want to turn everything into a contest."
 
             li "When I joined the Student Council, I thought it would just mean helping everything run smoothly and helping people out, like being the class representative."
 
             show lilly basic_reminisce_close
-            with charachange
+            with persistent.charachange
 
             li "Instead, every day consisted of having Shizune stomp around, using Misha like a megaphone, to talk about how we had to outdo the last Student Council, and create more and more events, and make them increasingly larger."
 
@@ -5032,7 +5032,7 @@ label a4_shizune:
             hi "Anyway, I want that too, now. It's got its share of pointless busywork, but there are moments that make it worth it when everything comes together. It gives me something to do. If I were to just go to school day in, day out, I think I'd explode."
 
             show lilly basic_weaksmile_close
-            with charachange
+            with persistent.charachange
 
             li "I think Yamaku is much more easygoing than other schools."
 
@@ -5051,14 +5051,14 @@ label a4_shizune:
             hi "The point is, I think I understand what it's all about now. You're really giving Shizune too much of a hard time."
 
             show lilly basic_sleepy_close
-            with charachange
+            with persistent.charachange
 
             li "That might be true, but when it comes to how she treats individual people, she doesn't do very well."
 
             "Unfortunately, that one is a little harder to argue."
 
             show lilly basic_smile_close
-            with charachange
+            with persistent.charachange
 
             li "Do you have the time? I like to go to class ten minutes before the bell."
 
@@ -5115,7 +5115,7 @@ label a4_shizune:
             "But after that, she immediately goes back to tapping her pen against the desk and staring into a checklist as if it held the meaning of life itself in it."
 
             show shizu adjust_frown
-            with charachange
+            with persistent.charachange
 
             ssh "What do you need?"
 
@@ -5124,7 +5124,7 @@ label a4_shizune:
             "I point to the medium-sized stack of folders beside her, but she waves her hand dismissively."
 
             show shizu behind_blank
-            with charachange
+            with persistent.charachange
 
             ssh "I can handle it myself."
 
@@ -5133,12 +5133,12 @@ label a4_shizune:
             his "Also, where's Misha?"
 
             show shizu behind_sad
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             show shizu basic_normal2
-            with charachange
+            with persistent.charachange
 
             ssh "It's going okay. And I told Misha that I was going to handle everything myself."
 
@@ -5147,14 +5147,14 @@ label a4_shizune:
             "Shizune spins a pen in her hand slowly, working it between each of her fingers, like a needle through a patch of cloth."
 
             show shizu behind_blank
-            with charachange
+            with persistent.charachange
 
             ssh "No reason."
 
             his "Really?"
 
             show shizu adjust_frown
-            with charachange
+            with persistent.charachange
 
             ssh "No reason."
 
@@ -5193,31 +5193,31 @@ label a4_shizune:
             hi "Why are you better at finding me than I am at finding you?"
 
             show mishashort hips_smile
-            with charachange
+            with persistent.charachange
 
             mi "You were looking for me, Hicchan?"
 
             show mishashort hips_grin
-            with charachange
+            with persistent.charachange
 
             mi "Hm~… Who knows~? I think it's just coincidence."
 
             hi "You know, the whole point of coincidences is that they aren't consistent."
 
             show mishashort cross_laugh
-            with charachange
+            with persistent.charachange
 
             mi "Hahaha~."
 
             hi "Are you having a really late lunch?"
 
             show mishashort sign_smile
-            with charachange
+            with persistent.charachange
 
             mi "I didn't get to eat at lunchtime, so yeah~! But~, not too much, so I can still have dinner."
 
             show mishashort perky_smile
-            with charachange
+            with persistent.charachange
 
             mi "Did you want to talk to me about something, Hicchan?"
 
@@ -5226,19 +5226,19 @@ label a4_shizune:
             hi "Yeah. The reason I'm here… Did you notice Shizune has been kind of moody today?"
 
             show mishashort perky_confused
-            with charachange
+            with persistent.charachange
 
             mi "I wanted to ask you the same thing, Hicchan~."
 
             show mishashort perky_sad
-            with charachange
+            with persistent.charachange
 
             mi "Well~, except, she's been this way for a couple of days now."
 
             hi "I see."
 
             show mishashort sign_confused
-            with charachange
+            with persistent.charachange
 
             mi "Hicchan, do you think it's because of something I did? Do you think I got upset at Shicchan, like last time?"
 
@@ -5291,14 +5291,14 @@ label a4_shizune:
             hi "What the hell? Do you just creep up on people at night and casually go 'hey' a lot?"
 
             show kenji neutral_ni
-            with charachange
+            with persistent.charachange
 
             ke "No, that'd be weird. I knew it was you. I have extremely good night vision. Maybe it's because I'm superhuman."
 
             hi "What are you doing here, then?"
 
             show kenji tsun_ni
-            with charachange
+            with persistent.charachange
 
             ke "I could ask you the same thing. What are YOU doing here?"
 
@@ -5307,7 +5307,7 @@ label a4_shizune:
             hi "Howling at the moon."
 
             show kenji neutral_ni
-            with charachange
+            with persistent.charachange
 
             ke "I do that too, sometimes. The moon isn't out tonight, though."
 
@@ -5334,7 +5334,7 @@ label a4_shizune:
             ke "…So I realized that I could use the cover of darkness to buy milk. Usually, I only go out when it's raining or I can shroud myself in a sea of bikers, or tourists. This is much more consistent… I'm spending too much money on milk now, though."
 
             show kenji happy_ni
-            with charachange
+            with persistent.charachange
 
             ke "You seem kind of mopey or out of it or something. Don't think too hard, a man has to be all about action! You can think about stuff all day, but changing the situation around by doing something is the best way."
 
@@ -5343,7 +5343,7 @@ label a4_shizune:
             hi "I'm not really in the mood."
 
             show kenji neutral_ni
-            with charachange
+            with persistent.charachange
 
             ke "Having a bad day?"
 
@@ -5385,7 +5385,7 @@ label a4_shizune:
             "It turns out to be Shizune."
 
             show shizu behind_blank
-            with charachange
+            with persistent.charachange
 
             ssh "Misha told me that you were looking for me."
 
@@ -5394,33 +5394,33 @@ label a4_shizune:
             his "I was."
 
             show shizu basic_normal2
-            with charachange
+            with persistent.charachange
 
             ssh "But you found me yesterday."
 
             "Shizune's fingers trace a crack in the wall. It seems like she's trying her best to look distant."
 
             show shizu adjust_smug
-            with charachange
+            with persistent.charachange
 
             ssh "Well, I didn't make it easy, did I?"
 
             his "It's all right."
 
             show shizu behind_blank
-            with charachange
+            with persistent.charachange
 
             ssh "That's why I'm here. We can talk today. Although… I kind of want to go somewhere else."
 
             his "What about class?"
 
             show shizu adjust_smug
-            with charachange
+            with persistent.charachange
 
             ssh "It's fine, it's fine."
 
             show shizu basic_normal2
-            with charachange
+            with persistent.charachange
 
             ssh "How about we take a walk around the school? Everywhere except the main building is going to be deserted. The first period bell should be ringing right now."
 
@@ -5431,14 +5431,14 @@ label a4_shizune:
             stop music fadeout 6.0
 
             show shizu basic_angry
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
             his "Is there something wrong?"
 
             show shizu behind_blank
-            with charachange
+            with persistent.charachange
 
             ssh "Why do you think there is something wrong?"
 
@@ -5447,12 +5447,12 @@ label a4_shizune:
             his "It's what I wanted to talk to you about."
 
             show shizu basic_normal2
-            with charachange
+            with persistent.charachange
 
             "Shizune quickly cracks her knuckles while I sign to her."
 
             show shizu behind_blank
-            with charachange
+            with persistent.charachange
 
             ssh "Apparently, I'm easier to read than I'd thought. I was trying hard to hide it. Can you tell what I'm thinking right now?"
 
@@ -5481,85 +5481,85 @@ label a4_shizune:
             play music music_sadness fadein 8.0
 
             show shizu behind_blank_close
-            with charachange
+            with persistent.charachange
 
             ssh "There is a saying. 'You don't know how much you've screwed up until you screw up.'"
 
             his "Who says that?"
 
             show shizu basic_normal2_close
-            with charachange
+            with persistent.charachange
 
             ssh "I guess it's me."
 
             show shizu basic_angry_close
-            with charachange
+            with persistent.charachange
 
             "Reconsidering her train of thought, she waves her hands in frustration."
 
             show shizu behind_blank_close
-            with charachange
+            with persistent.charachange
 
             ssh "Okay, I'll put it differently."
 
             show shizu basic_normal_close
-            with charachange
+            with persistent.charachange
 
             ssh "When I was younger, we had to make posters for Earth Day in school. There was another girl in my class whom everyone considered the best artist."
 
             show shizu behind_blank_close
-            with charachange
+            with persistent.charachange
 
             ssh "It wasn't because she could draw better than everyone else, it was how much she could fit into a single picture."
 
             show shizu adjust_frown_close
-            with charachange
+            with persistent.charachange
 
             ssh "I wanted to be better than her, so I made countless posters until I ended up with the best possible one. I had to be the best and have the greatest one. In the end, everyone liked my poster the most of all, even the teacher."
 
             show shizu basic_normal_close
-            with charachange
+            with persistent.charachange
 
             ssh "A week later, it was meaningless. I threw it in the trash."
 
             show shizu behind_blank_close
-            with charachange
+            with persistent.charachange
 
             ssh "I think I've told you something like this before."
 
             his "Yeah."
 
             show shizu basic_angry_close
-            with charachange
+            with persistent.charachange
 
             ssh "When I feel like I'm finished, I wish I could just wipe the slate clean. Whether I succeed or not. I put Misha through a lot, and even dragged you into it."
 
             show shizu adjust_frown_close
-            with charachange
+            with persistent.charachange
 
             ssh "And every point where I could have solved this silly situation, or prevented it from happening in the first place, keeps coming back to me."
 
             show shizu behind_sad_close
-            with charachange
+            with persistent.charachange
 
             ssh "It's the worst feeling. Especially when I feel like I've done nothing right and everything wrong. Like recently. It's the worst kind of failure. I feel like a failure on every level."
 
             show shizu basic_normal2_close
-            with charachange
+            with persistent.charachange
 
             ssh "I wish I could wipe away everything I've done and just be alone, since all I've done is mess with Misha for two years. And jerk you around for a year for selfish reasons."
 
             his "It's fine."
 
             show shizu adjust_frown_close
-            with charachange
+            with persistent.charachange
 
             ssh "No, it's not. You don't understand. I was just thinking about it; everything I do feels like I have to beat someone else. Everyone else, even. If that is how it is, then what are my relationships with people? They almost feel the same."
 
             "I can see where this is going."
 
             show shizu behind_sad_close
-            with charachange
+            with persistent.charachange
 
             ssh "The point is that I've messed up so many people by being selfish, and now I want to be away from other people for a while."
 
@@ -5568,7 +5568,7 @@ label a4_shizune:
             "There's a pause."
 
             show shizu basic_normal_close
-            with charachange
+            with persistent.charachange
 
             ssh "Yes."
 
@@ -5581,7 +5581,7 @@ label a4_shizune:
             his "It's just you making another decision by yourself."
 
             show shizu basic_normal2_close
-            with charachange
+            with persistent.charachange
 
             shi "…"
 
@@ -5592,12 +5592,12 @@ label a4_shizune:
             "All my emotions simmer inside me. I see a kettle in front of me, water rolling inside it, so close that I can touch it and feel the heat radiating off of it. I'm glad for the distraction, because I know there's no recourse or bargaining possible."
 
             show shizu adjust_frown_close
-            with charachange
+            with persistent.charachange
 
             ssh "You told me that everything was fine, but it wasn't true, was it?"
 
             show shizu behind_sad_close
-            with charachange
+            with persistent.charachange
 
             ssh "I can't believe it ever again, then."
 

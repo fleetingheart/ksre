@@ -544,7 +544,7 @@ label a1_monday:
         hi "Nakai."
 
         show muto smile
-        with charachange
+        with persistent.charachange
 
         mu_ "So you are. Excellent. I'm your homeroom and science teacher. My name is Mutou."
 
@@ -553,14 +553,14 @@ label a1_monday:
         "We exchange a handshake that is neither firm nor sloppy, and he looks at his watch."
 
         show muto irritated
-        with charachange
+        with persistent.charachange
 
         mu "The head nurse asked you for a brief check-in visit, but there's no time for that now."
 
         hi "Oh. Should I go later?"
 
         show muto normal
-        with charachange
+        with persistent.charachange
 
         mu "Yes, afternoon is probably fine. We should get going and introduce you to the rest of the class. They're waiting already."
 
@@ -706,7 +706,7 @@ label a1_monday:
         hi "Yeah, it's fine with me."
 
         show muto smile
-        with charachange
+        with persistent.charachange
 
         mu "That's good, you can work with Hakamichi. She is the class representative."
 
@@ -733,14 +733,14 @@ label a1_monday:
         stop music fadeout 1.0
 
         show misha cross_laugh
-        with charachange
+        with persistent.charachange
 
         mi_shi "Hahaha~!"
 
         "What? I'm caught off guard by her laughter."
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi_shi "It's nice to meet you, too!{w=0.5} But~!"
 
@@ -762,7 +762,7 @@ label a1_monday:
         hi "It's nice to meet you."
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
@@ -788,24 +788,24 @@ label a1_monday:
         "I start to wonder if the teacher was messing with me, saying things like 'you'll be able to talk to people' and 'who better to explain things to you.'"
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "I can see you're a little confused, right?, right? But, I understand why you would think I was Shicchan!"
 
         mi "Shicchan is deaf, so I'm the person who translates things back and forth for her."
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "I'm like an interpreter~! She says it's nice to meet you, too!"
 
         show shizu basic_normal2
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha perky_smile
-        with charachange
+        with persistent.charachange
 
         mi "You're the new student, aren't you? Well, Shicchan, of course he is! If he wasn't, he would have been standing up there for no reason, right? Right~!"
 
@@ -823,7 +823,7 @@ label a1_monday:
         "Hicchan…?"
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Yup~! It fits, doesn't it?"
 
@@ -832,18 +832,18 @@ label a1_monday:
         hi "I don't really see how."
 
         show misha cross_grin
-        with charachange
+        with persistent.charachange
 
         mi "It fits~! You look just like I imagined!"
 
         show shizu adjust_smug
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha cross_laugh
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         mi "Hahahaha~! Yeah, you look just like a Hicchan!"
 
@@ -868,32 +868,32 @@ label a1_monday:
         "Misha seems a little overwhelmed."
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Ahaha~! Er, sorry about that!"
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "Shicchan wants you to know that she's the class rep, so if there is anything you need to know, you can feel free to ask her."
 
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "Do you like the school so far? We can show you around a little if you haven't had the time to walk around and…{w=0.5}{nw}"
 
         show misha perky_smile:
-            "misha perky_confused" with charachange
+            "misha perky_confused" with persistent.charachange
 
         extend " familiarize?{w=0.5}{nw}"
 
         show misha perky_confused:
-            "misha perky_smile" with charachange
+            "misha perky_smile" with persistent.charachange
 
         extend " yourself with it!"
 
@@ -902,28 +902,28 @@ label a1_monday:
         hi "Thanks, that would be pretty helpful. Yeah, I just kind of came straight to class today."
 
         show shizu behind_frown
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_laugh
-        with charachange
+        with persistent.charachange
 
         mi "Hahaha~!"
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "That's no good! You should always try to learn as much as you can about where you're going before you go there. Not just with school, either~!"
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Always! Even if it's a trip to the convenience store! Really, Shicchan? Hahaha~!"
 
         show misha perky_smile
         show shizu behind_smile
-        with charachange
+        with persistent.charachange
 
         "Learn about where you're going? I guess I didn't bother to do that, or just didn't care enough to do so."
 
@@ -934,58 +934,58 @@ label a1_monday:
         "I feel like slumping over in my seat. Both of them are smiling, but that shrug hit me unexpectedly deeply."
 
         show misha perky_sad
-        with charachange
+        with persistent.charachange
 
         mi "You look down, are you okay?"
 
         show shizu basic_normal
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha perky_smile
-        with charachange
+        with persistent.charachange
 
         mi "Don't take it the wrong way, please~! I hate it when people are afraid to ask questions! That's how people learn things, by asking~!"
 
         mi "Asking for help is perfectly normal, as much as needing help! Stop looking like you just failed a test!"
 
         show misha cross_laugh
-        with charachange
+        with persistent.charachange
 
         mi "Wahahaha~!"
 
         hi "All right."
 
         show shizu adjust_happy
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha perky_smile
-        with charachange
+        with persistent.charachange
 
         mi "Ah, and another thing, you don't have to call Shicchan something so formal like 'Hakamichi' or 'class rep' all the time! Just call her Shicchan~!"
 
         stop music fadeout 0.5
 
         show shizu adjust_blush
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_smile
-        with charachange
+        with persistent.charachange
 
         mi "Ahaha~! Okay, maybe that's too casual. Maybe 'Shizune' would be more appropriate?"
 
         show shizu basic_normal2
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         play music music_shizune fadein 5.0
 
@@ -998,24 +998,24 @@ label a1_monday:
         "Well, she still seems like that. Just less so, I guess."
 
         show shizu behind_frown
-        with charachange
+        with persistent.charachange
 
         shi "…!"
 
         show misha perky_confused
-        with charachange
+        with persistent.charachange
 
         mi "Huh? Oh, right, we haven't even touched the assignment! We should start work now, or Shicchan will get mad."
 
         hi "The assignment is also kind of long, so we should start now if we want to finish it before the end of class."
 
         show misha hips_laugh
-        with charachange
+        with persistent.charachange
 
         mi "Wahaha~! That too!"
 
         show shizu basic_frown
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
@@ -1024,12 +1024,12 @@ label a1_monday:
         hi "Okay, okay, I get the message."
 
         show shizu basic_normal
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha perky_smile
-        with charachange
+        with persistent.charachange
 
         mi "After class, we can take a walk around the grounds together. It's a nice day today! Okay~?"
 
@@ -1099,7 +1099,7 @@ label a1_monday:
 
         show misha perky_smile
         show shizu basic_frown
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
@@ -1109,14 +1109,14 @@ label a1_monday:
 
         show misha hips_smile
         show shizu behind_blank
-        with charachange
+        with persistent.charachange
 
         mi "Do you want to know something?"
 
         hi "What?"
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "About anything! We're your guides so you should ask if there is something~!"
 
@@ -1210,7 +1210,7 @@ label a1_monday:
         mi "Unfortunately we can't stay and show you around today, Hicchan. We've got to hurry already, since there is a lot of work for us to do."
 
         show shizu basic_normal2
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
@@ -1220,7 +1220,7 @@ label a1_monday:
 
         show shizu behind_smile
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Is that so? We can at least show you that much~!"
 
@@ -1253,23 +1253,23 @@ label a1_monday:
         hi "How is that official?"
 
         show shizu behind_frustrated
-        with charachange
+        with persistent.charachange
 
         shi "…"
 
         show misha hips_grin
-        with charachange
+        with persistent.charachange
 
         mi "Don't be silly, Hicchan! It's for physical therapy of course."
 
         show misha sign_smile
-        with charachange
+        with persistent.charachange
 
         mi "Anyway, all the nursing staff facilities are in there too. The head nurse's office is on the first floor."
 
         show misha hips_smile
         show shizu behind_smile
-        with charachange
+        with persistent.charachange
 
         mi "You'll be fine from here, right~? We'll be going, then! See you tomorrow!"
 
@@ -1319,7 +1319,7 @@ label a1_monday:
         hi "Erm, are you the nurse?"
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         "He smiles like a person who has heard this very same question hundreds of times."
 
@@ -1336,7 +1336,7 @@ label a1_monday:
         "His eyes light up with revelation and he snaps his fingers."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "Oh you're THAT Nakai. I was just reading your file in the morning."
 
@@ -1347,7 +1347,7 @@ label a1_monday:
         hi "Eh, yes."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Good. Well, you've probably been briefed about the school enough, so I'll just go over this quickly."
 
@@ -1380,14 +1380,14 @@ label a1_monday:
         "Even the ridiculous educational posters are hanging on all four walls, reminding me to eat properly - three times a day and from all the food groups."
 
         show nurse grin
-        with charachange
+        with persistent.charachange
 
         "Smiling, the nurse draws a thick file from a stack of similarly thick files and opens it."
 
         nk "So, you already have medication for the arrhythmia, just remember to take your pills every morning and evening or it won't be much help."
 
         show nurse fabulous
-        with charachange
+        with persistent.charachange
 
         nk "Apart from that… do you do any sports? Rash stuff like… I don't know, boxing?"
 
@@ -1410,7 +1410,7 @@ label a1_monday:
         hi "Err… not exactly."
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         "I sidestep the question acceptably, and he glances at me over his papers, with a more serious expression on his face."
 
@@ -1425,7 +1425,7 @@ label a1_monday:
         hi "So I was told."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "You were? Very good."
 
@@ -1434,7 +1434,7 @@ label a1_monday:
         "He wags his finger to emphasize the point. No need really, I've heard this a thousand times already."
 
         show nurse concern
-        with charachange
+        with persistent.charachange
 
         nk "Absolutely no unnecessary risks. Take care of yourself."
 
@@ -1443,7 +1443,7 @@ label a1_monday:
         "He goes over my papers one more time and sets them on the desk, obviously content."
 
         show nurse neutral
-        with charachange
+        with persistent.charachange
 
         nk "Good. That's it, then. Come meet me if you ever need something."
 
@@ -1572,7 +1572,7 @@ label a1_monday:
         hi "It was probably my parents."
 
         show kenji tsun
-        with charachange
+        with persistent.charachange
 
         ke "Your parents? You sure? 'Cause they could've been some other people, too. You can't judge a book by its cover."
 
@@ -1583,12 +1583,12 @@ label a1_monday:
         "He shudders and makes some exaggerated hand gestures."
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "You're a brave man, Hisao."
 
         show kenji tsun
-        with charachange
+        with persistent.charachange
 
         ke "Me, I don't think I could trust the chances."
 
@@ -1599,12 +1599,12 @@ label a1_monday:
         "He thinks about this for a while."
 
         show kenji neutral
-        with charachange
+        with persistent.charachange
 
         ke "A wise decision."
 
         show kenji happy
-        with charachange
+        with persistent.charachange
 
         ke "Damn, you are smarter than you look."
 
@@ -1788,7 +1788,7 @@ label a1c2o3:
     hi "I can't think of anything, really."
 
     show misha sign_smile
-    with charachange
+    with persistent.charachange
 
     mi "Ooh! That means we've been good guides, doesn't it, doesn't it~?"
 
@@ -1797,10 +1797,10 @@ label a1c2o3:
     hi "Eeh… if you say so."
 
     show misha hips_grin
-    with charachange
+    with persistent.charachange
 
     show shizu behind_smile
-    with charachange
+    with persistent.charachange
 
     "Misha positively beams, and so does Shizune after a quick translation."
 
