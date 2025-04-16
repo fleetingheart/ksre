@@ -888,12 +888,12 @@ label a1_monday:
         mi "Do you like the school so far? We can show you around a little if you haven't had the time to walk around and…{w=0.5}{nw}"
 
         show misha perky_smile:
-            "misha perky_confused" with persistent.charachange
+            "misha perky_confused" with Dissolve(0.5)
 
         extend " familiarize?{w=0.5}{nw}"
 
         show misha perky_confused:
-            "misha perky_smile" with persistent.charachange
+            "misha perky_smile" with Dissolve(0.5)
 
         extend " yourself with it!"
 

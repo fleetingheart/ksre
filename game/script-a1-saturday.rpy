@@ -3736,7 +3736,7 @@ label a1_saturday:
             mi "And here's how much it all costs: 3685 yen!"
 
             show misha:
-                "misha cross_laugh" with persistent.charachange
+                "misha cross_laugh" with Dissolve(0.5)
 
             extend " Wahahahaha~!"
 

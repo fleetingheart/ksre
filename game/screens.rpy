@@ -268,7 +268,7 @@ screen prefs():
 
                 textbutton _("Blinking arrow") action ToggleVariable("persistent.blinking_arrow", True, False)
 
-                textbutton _("Disable expression transitions") action [ToggleVariable("persistent.charachange", Dissolve(0.0), { 'master' : Dissolve(0.5) }), ToggleVariable("persistent.charachangefast", Dissolve(0.0), { 'master' : Dissolve(0.2) })]
+                textbutton _("Disable expression transitions") action [ToggleVariable("persistent.charachange", { 'master': None }, { 'master' : Dissolve(0.5) }), ToggleVariable("persistent.charachangefast", { 'master': None }, { 'master' : Dissolve(0.2) })]
 
             vbox:
                 style_prefix "slider"
