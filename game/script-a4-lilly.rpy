@@ -6179,8 +6179,6 @@ label a4_lilly:
 
         "But even so, it feels like there's a certain missing part in both of our lives now. Something that can never be replaced."
 
-        $ ach("lillyneutral_achieve")
-
         scene black
         with Dissolve(2.0)
 
@@ -6188,6 +6186,7 @@ label a4_lilly:
             return
 
     if not (want_true and address_it and mention_the_letter):
+        $ ach("lillyneutral_achieve")
         return
 
     call timeskip
