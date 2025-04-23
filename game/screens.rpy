@@ -161,7 +161,7 @@ screen game_menu():
 
         textbutton _("Saves") action ShowMenu("file_slots")
 
-        if not renpy.emscripten and not renpy.ios:
+        if not renpy.emscripten:
             textbutton _("Mods") action ShowMenu("mods")
 
         textbutton _("Main menu") action MainMenu(True, False)
@@ -200,7 +200,7 @@ screen main_menu():
 
         textbutton _("Accessibility") action ShowMenu("accessibility")
 
-        if not renpy.emscripten and not renpy.ios:
+        if not renpy.emscripten:
             textbutton _("Mods") action ShowMenu("mods")
 
         if not renpy.android and not renpy.ios and not renpy.emscripten:
