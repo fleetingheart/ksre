@@ -8,7 +8,7 @@ on:
 env:
   SDL_AUDIODRIVER: dummy
   SDL_VIDEODRIVER: dummy
-  RENPY_VERSION: 8.3.4
+  RENPY_VERSION: 8.3.7
   RENKIT_VERSION: 5.0.0
 jobs:
   build:
