@@ -64,22 +64,24 @@ label act_op(svideo):
 
 label watch_gallery(images):
     $ i = 0
-    $ processing = True
+    $ locked_count = 0
 
-    while processing:
+    while i < len(images):
         scene black
         if is_seen(images[i]) or config.developer:
             show expression (images[i].image if isinstance(images[i], Trigger) else images[i])
+            with dissolve
+            pause
         else:
-            $ processing = False
-            show gallery_locked
-            show expression Text("{} further images locked!".format(len(images) - i), color="#000") at truecenter
+            $ locked_count += 1
+
+        $ i += 1
+
+    if locked_count > 0:
+        show gallery_locked
+        show expression Text("{} further images locked!".format(locked_count), color="#000") at truecenter
         with dissolve
         pause
-
-        if processing:
-            $ i += 1
-            $ processing = i < len(images)
 
     scene black
     show screen gallery
