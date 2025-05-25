@@ -19,7 +19,7 @@ steps:
     commands:
       - mkdir ./dists
       - echo ${RENPY_VERSION}
-      - sed -i 's#RENPY_VERSION#$${RENPY_VERSION}#' renconstruct/linux.toml
+      - sed -i "s#RENPY_VERSION#$${RENPY_VERSION}#" renconstruct/linux.toml
       - renconstruct build -c renconstruct/linux.toml . ./dists
       - ls -lah # check files
     when:
