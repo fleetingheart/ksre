@@ -12,12 +12,9 @@ when:
 steps:
   build:
     image: source.hodakov.me/containers/renkit:latest
-    environment:
-      SDL_AUDIODRIVER: dummy
-      SDL_VIDEODRIVER: dummy
-      RENPY_VERSION: 8.3.7
     commands:
       - mkdir ./dists
+      - source renconstruct/.env
       - sed -i 's#RENPY_VERSION#${RENPY_VERSION}#' renconstruct/linux.toml
       - renconstruct build -c renconstruct/linux.toml . ./dists
       - ls -lah # check files
