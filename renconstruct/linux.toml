@@ -1,9 +1,13 @@
-[tasks.keystore]
-  type = "keystore"
-  enabled = false
-
 [build]
+  pc = false
+  win = false
   linux = true
+  mac = false
+  web = false
+  steam = false
+  market = false
+  android_apk = false
+  android_aab = false
 
 [renutil]
   version = "RENPY_VERSION"
