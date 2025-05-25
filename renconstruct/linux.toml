@@ -3,5 +3,5 @@
 
 [renutil]
   version = "{RENPY_VERSION}"
-  registry = "cache"
+  registry = "linux"
   update_pickle = true

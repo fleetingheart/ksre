@@ -17,7 +17,8 @@ steps:
       SDL_VIDEODRIVER: dummy
       RENPY_VERSION: 8.3.7
     commands:
-      - renconstruct build -c renconstruct/linux.toml .
+      - mkdir ./dists
+      - renconstruct build -c renconstruct/linux.toml . ./dists
       - ls -lah # check files
     when:
       event: push
