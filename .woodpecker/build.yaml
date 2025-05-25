@@ -1,5 +1,9 @@
+depends_on:
+  - sync
+
 when:
   event: push
+  platform: linux/arm64 # because this worker is faster
 
 steps:
   build:
@@ -10,13 +14,10 @@ steps:
       RENPY_VERSION: 8.3.7
       KEYSTORE_APK:
         from_secret: keystore_apk
-      KEYSTORE_ALIAS:
-        from_secret: keystore_alias
       KEYSTORE_PASS:
         from_secret: keystore_pass
     commands:
       - mkdir ./dists
-      - echo ${RENPY_VERSION}
       - sed -i "s#KEYSTORE_APK#$${KEYSTORE_APK}#" renconstruct.toml
       - sed -i "s#KEYSTORE_ALIAS#$${KEYSTORE_ALIAS}#" renconstruct.toml
       - sed -i "s#KEYSTORE_PASS#$${KEYSTORE_PASS}#" renconstruct.toml

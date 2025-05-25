@@ -1,0 +1,19 @@
+when:
+  event: push
+
+steps:
+  clone:
+    image: alpine:latest
+    environment:
+      CI_PRIVATE_SSH_KEY:
+        from_secret: ssh_key
+    commands:
+      - set -eux
+      - apk update && apk add openssh-client 
+      - eval $(ssh-agent -s)
+      - echo "$${CI_PRIVATE_SSH_KEY}" | ssh-add -
+      - mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+      - cd /tmp && git clone ssh://git@codeberg.org/fhs/katawa-shoujo-re-engineered.git
+      - cd /tmp/katawa-shoujo-re-engineered && git remote add github git@github.com:fleetingheart/ksre.git
+      - git remote update origin
+      - git push --mirror github
