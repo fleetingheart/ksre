@@ -1,9 +1,6 @@
 when:
   event: push
 
-labels:
-  platform: linux/arm64 # it goes faster that way uwu
-
 steps:
   build:
     image: source.hodakov.me/containers/renkit:latest
@@ -22,6 +19,9 @@ steps:
       - sed -i "s#KEYSTORE_PASS#$${KEYSTORE_PASS}#" renconstruct.toml
       - sed -i "s#RENPY_VERSION#$${RENPY_VERSION}#" renconstruct.toml
       - renconstruct build -c renconstruct.toml . ./dists
-      - ls -lah ./dists # check files
+      - mkdir /data/ci/${CI_COMMIT_SHA:0:10}/
+      - cp -Rv ./dists/* /data/ci/${CI_COMMIT_SHA:0:10}/
     when:
       event: push
+    volumes:
+      - "/data/ci/:/data"
