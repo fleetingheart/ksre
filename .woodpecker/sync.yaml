@@ -9,7 +9,7 @@ steps:
         from_secret: ssh_key
     commands:
       - set -eux
-      - apk update && apk add openssh-client 
+      - apk update && apk add openssh-client git
       - eval $(ssh-agent -s)
       - echo "$${CI_PRIVATE_SSH_KEY}" | ssh-add -
       - mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
