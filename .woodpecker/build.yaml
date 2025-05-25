@@ -13,13 +13,12 @@ steps:
       KEYSTORE_PASS:
         from_secret: keystore_pass
     commands:
-      - mkdir ./dists
+      - mkdir ./dists /data/ci/${CI_COMMIT_SHA:0:10}/
       - sed -i "s#KEYSTORE_APK#$${KEYSTORE_APK}#" renconstruct.toml
       - sed -i "s#KEYSTORE_ALIAS#$${KEYSTORE_ALIAS}#" renconstruct.toml
       - sed -i "s#KEYSTORE_PASS#$${KEYSTORE_PASS}#" renconstruct.toml
       - sed -i "s#RENPY_VERSION#$${RENPY_VERSION}#" renconstruct.toml
       - renconstruct build -c renconstruct.toml . ./dists
-      - mkdir /data/ci/${CI_COMMIT_SHA:0:10}/
       - cp -Rv ./dists/* /data/ci/${CI_COMMIT_SHA:0:10}/
     when:
       event: push
