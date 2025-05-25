@@ -1,3 +1,7 @@
+[tasks.keystore]
+  type = "keystore"
+  enabled = false
+
 [build]
   linux = true
 
