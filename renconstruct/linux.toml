@@ -1,0 +1,7 @@
+[build]
+  linux = true
+
+[renutil]
+  version = "{RENPY_VERSION}"
+  registry = "cache"
+  update_pickle = true

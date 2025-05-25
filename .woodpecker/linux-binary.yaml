@@ -1,0 +1,23 @@
+matrix:
+  platform:
+    - linux/amd64
+    - linux/arm64
+
+labels:
+  platform: ${platform}
+
+when:
+  event: push
+
+steps:
+  build:
+    image: source.hodakov.me/containers/renkit:latest
+    environment:
+      SDL_AUDIODRIVER: dummy
+      SDL_VIDEODRIVER: dummy
+      RENPY_VERSION: 8.3.7
+    commands:
+      - renconstruct build -c renconstruct/linux.toml .
+      - ls -lah # check files
+    when:
+      event: push
