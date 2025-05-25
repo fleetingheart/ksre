@@ -2,7 +2,7 @@ when:
   event: push
 
 steps:
-  clone:
+  sync:
     image: alpine:latest
     environment:
       CI_PRIVATE_SSH_KEY:

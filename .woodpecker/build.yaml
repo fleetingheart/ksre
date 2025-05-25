@@ -3,7 +3,9 @@ depends_on:
 
 when:
   event: push
-  platform: linux/arm64 # because this worker is faster
+
+labels:
+  platform: linux/arm64 # it goes faster that way uwu
 
 steps:
   build:
