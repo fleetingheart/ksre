@@ -1,6 +1,15 @@
 when:
   event: push
 
+clone:
+  git:
+    image: woodpeckerci/plugin-git
+    settings:
+      depth: 0
+      lfs: false
+      tags: true
+      partial: false
+
 steps:
   sync:
     image: alpine:latest
@@ -8,12 +17,10 @@ steps:
       CI_PRIVATE_SSH_KEY:
         from_secret: ssh_key
     commands:
-      - set -eux
       - apk update && apk add openssh-client git
       - eval $(ssh-agent -s)
       - echo "$${CI_PRIVATE_SSH_KEY}" | ssh-add -
       - mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
-      - cd /tmp && git clone ssh://git@codeberg.org/fhs/katawa-shoujo-re-engineered.git
-      - cd /tmp/katawa-shoujo-re-engineered && git remote add github git@github.com:fleetingheart/ksre.git
+      - git remote add github git@github.com:fleetingheart/ksre.git
       - git remote update origin
       - git push --mirror github
