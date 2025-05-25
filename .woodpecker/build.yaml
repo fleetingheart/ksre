@@ -1,6 +1,9 @@
 when:
   event: push
 
+labels:
+  platform: linux/amd64 # it doesn't build on arm64, unfortuantely
+
 steps:
   build:
     image: source.hodakov.me/containers/renkit:latest
