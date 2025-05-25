@@ -2,6 +2,6 @@
   linux = true
 
 [renutil]
-  version = "{RENPY_VERSION}"
+  version = "RENPY_VERSION"
   registry = "linux"
   update_pickle = true

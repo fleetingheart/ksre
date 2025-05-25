@@ -18,6 +18,7 @@ steps:
       RENPY_VERSION: 8.3.7
     commands:
       - mkdir ./dists
+      - sed -i 's#RENPY_VERSION#$${RENPY_VERSION}#' renconstruct/linux.toml
       - renconstruct build -c renconstruct/linux.toml . ./dists
       - ls -lah # check files
     when:
