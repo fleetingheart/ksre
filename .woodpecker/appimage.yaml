@@ -8,9 +8,13 @@ labels:
   platform: linux/amd64 # it doesn't build on arm64, unfortuantely
 
 steps:
+  extend_env:
+    image: woodpeckerci/plugin-extend-env
+
   build:
     image: alpine:latest
     commands:
+      - cat .env
       - sed -i "s#TARBALL_DIR#/data/${CI_COMMIT_SHA:0:10}#" ./.woodpecker/appimage.sh
       - apk update && apk add bash
       - chmod +x ./.woodpecker/appimage.sh
@@ -20,3 +24,5 @@ steps:
       event: push
     volumes:
       - "/data/ci/:/data"
+    depends_on:
+      - extend_env
