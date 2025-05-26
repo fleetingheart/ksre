@@ -13,7 +13,7 @@
   win = true # Windows
   linux = true # Linux
   mac = true # macOS
-  web = false # Web
+  web = true # Web
   steam = false # Steam
   market = false # Multiple Markets (i.e. Itch.io)
   android_apk = true # Android Universal APK
