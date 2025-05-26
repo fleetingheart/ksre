@@ -12,6 +12,7 @@ steps:
     image: alpine:latest
     commands:
       - sed -i "s#TARBALL_DIR#/data/${CI_COMMIT_SHA:0:10}#" ./.woodpecker/appimage.sh
+      - apk update && apk add bash
       - chmod +x ./.woodpecker/appimage.sh
       - ./.woodpecker/appimage.sh
       - cp -v ./dists/sh.fhs.ksre-x86_64.AppImage /data/${CI_COMMIT_SHA:0:10}/
