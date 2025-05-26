@@ -6,7 +6,7 @@ labels:
 
 steps:
   extend_env:
-    image: woodpeckerci/plugin-extend-env
+    image: woodpeckerci/plugin-extend-env:next
 
   build:
     image: source.hodakov.me/containers/renkit:latest
