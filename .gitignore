@@ -12,3 +12,5 @@ android.keystore
 bundle.keystore
 .DS_Store
 /tl_script/tmp
+dists
+build

@@ -1,0 +1,19 @@
+when:
+  event: push
+
+depends_on:
+  - build
+
+labels:
+  platform: linux/amd64 # it doesn't build on arm64, unfortuantely
+
+steps:
+  build:
+    image: alpine:latest
+    commands:
+      - sed -i "s#TARBALL_DIR#/data/${CI_COMMIT_SHA:0:10}#" ./.woodpecker/appimage.sh
+      - cp -v ./dists/sh.fhs.ksre-x86_64.AppImage /data/${CI_COMMIT_SHA:0:10}/
+    when:
+      event: push
+    volumes:
+      - "/data/ci/:/data"
