@@ -5,6 +5,9 @@ labels:
   platform: linux/amd64 # it doesn't build on arm64, unfortuantely
 
 steps:
+  extend_env:
+    image: woodpeckerci/plugin-extend-env
+
   build:
     image: source.hodakov.me/containers/renkit:latest
     environment:
@@ -16,6 +19,7 @@ steps:
       KEYSTORE_PASS:
         from_secret: keystore_pass
     commands:
+      - cat .env
       - mkdir ./dists /data/${CI_COMMIT_SHA:0:10}/
       - sed -i "s#KEYSTORE_APK#$${KEYSTORE_APK}#" renconstruct.toml
       - sed -i "s#KEYSTORE_ALIAS#$${KEYSTORE_ALIAS}#" renconstruct.toml
@@ -27,3 +31,5 @@ steps:
       event: push
     volumes:
       - "/data/ci/:/data"
+    depends_on:
+      - extend_env
