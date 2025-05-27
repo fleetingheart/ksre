@@ -19,13 +19,13 @@ steps:
       - chmod +x ./scripts/*.sh
       - ./scripts/prepare_env.sh
       - source .env
-      - mkdir ./dists /data/${CI_PRETTY_VERSION}/
+      - mkdir ./dists /data/$${CI_PRETTY_VERSION}/
       - sed -i "s#KEYSTORE_APK#$${KEYSTORE_APK}#" renconstruct.toml
       - sed -i "s#KEYSTORE_ALIAS#$${KEYSTORE_ALIAS}#" renconstruct.toml
       - sed -i "s#KEYSTORE_PASS#$${KEYSTORE_PASS}#" renconstruct.toml
       - sed -i "s#RENPY_VERSION#$${RENPY_VERSION}#" renconstruct.toml
       - renconstruct build -c renconstruct.toml . ./dists
-      - cp -Rv ./dists/* /data/${CI_PRETTY_VERSION}/
+      - cp -Rv ./dists/* /data/$${CI_PRETTY_VERSION}/
     when:
       event: push
     volumes:

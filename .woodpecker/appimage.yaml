@@ -11,12 +11,13 @@ steps:
   build:
     image: alpine:latest
     commands:
-      - cat .env
-      - sed -i "s#TARBALL_DIR#/data/${CI_COMMIT_SHA:0:10}#" ./.woodpecker/appimage.sh
+      - chmod +x ./scripts/*.sh
+      - ./scripts/prepare_env.sh
+      - source .env
+      - sed -i "s#TARBALL_DIR#/data/$${CI_PRETTY_VERSION}#" ./scripts/appimage.sh
       - apk update && apk add bash
-      - chmod +x ./.woodpecker/appimage.sh
-      - ./.woodpecker/appimage.sh
-      - cp -v ./dists/sh.fhs.ksre-x86_64.AppImage /data/${CI_COMMIT_SHA:0:10}/
+      - ./scripts/appimage.sh
+      - cp -v ./dists/sh.fhs.ksre-x86_64.AppImage /data/${CI_PRETTY_VERSION}/
     when:
       event: push
     volumes:
