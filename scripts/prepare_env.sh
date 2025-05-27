@@ -19,5 +19,5 @@ else
     GAME_VERSION=$CI_COMMIT_TAG
 fi
 
-echo "export CI_PRETTY_VERSION=${VERSION}" | tee -a .env
-echo "export CI_KSRE_VERSION=${GAME_VERSION}" | tee -a .env
+echo "CI_PRETTY_VERSION=${VERSION}" | tee -a .env
+echo "CI_KSRE_VERSION=${GAME_VERSION}" | tee -a .env

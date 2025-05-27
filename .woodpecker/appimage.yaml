@@ -18,8 +18,7 @@ steps:
   build:
     image: alpine:latest
     commands:
-      - chmod +x ./scripts/*.sh
-      - . .env
+      - export $(grep -v '^#' .env | xargs)
       - sed -i "s#TARBALL_DIR#/data/$${CI_PRETTY_VERSION}#" ./scripts/appimage.sh
       - apk update && apk add bash
       - ./scripts/appimage.sh

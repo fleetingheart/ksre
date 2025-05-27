@@ -23,7 +23,7 @@ steps:
       KEYSTORE_PASS:
         from_secret: keystore_pass
     commands:
-      - . .env
+      - export $(grep -v '^#' .env | xargs)
       - mkdir ./dists /data/$${CI_PRETTY_VERSION}/
       - sed -i "s#v0.0.0-localbuild#$${CI_KSRE_VERSION}#" game/config.rpy
       - sed -i "s#KEYSTORE_APK#$${KEYSTORE_APK}#" renconstruct.toml
