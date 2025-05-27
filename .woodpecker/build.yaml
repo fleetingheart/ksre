@@ -31,5 +31,3 @@ steps:
     volumes:
       - "/data/ci/:/data"
     entrypoint: ["/bin/bash", "-c", "echo $CI_SCRIPT | base64 -d | /bin/bash -e"]
-    depends_on:
-      - prepare_env
