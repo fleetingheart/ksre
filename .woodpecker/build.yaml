@@ -8,7 +8,7 @@ steps:
   prepare_env:
     image: debian:latest
     commands:
-      - apt install -y bash
+      - apt install -y git
       - chmod +x ./.woodpecker/semver-from-git.sh
       - ./.woodpecker/semver-from-git.sh > .env
       - cat .env
