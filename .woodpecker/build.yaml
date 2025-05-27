@@ -16,7 +16,7 @@ steps:
       KEYSTORE_PASS:
         from_secret: keystore_pass
     commands:
-      - chmod +x ./scripts
+      - chmod +x ./scripts/*.sh
       - ./scripts/prepare_env.sh
       - source .env
       - mkdir ./dists /data/${CI_COMMIT_SHA:0:10}/
