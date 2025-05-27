@@ -8,4 +8,4 @@ else
     VERSION=$CI_COMMIT_TAG
 fi
 
-echo "VERSION=${VERSION}" | tee .env
+echo "CI_PRETTY_VERSION=${VERSION}" | tee .env
