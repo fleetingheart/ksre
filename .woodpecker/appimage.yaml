@@ -9,8 +9,9 @@ labels:
 
 steps:
   prepare-env:
-    image: bitnami/git:latest
+    image: alpine:latest
     commands:
+      - apk update && apk add git
       - chmod +x ./scripts/*.sh
       - ./scripts/prepare_env.sh
 
@@ -27,6 +28,6 @@ steps:
     when:
       event: push
     volumes:
-      - "/data/ci/:/data"
+      - "/data/ci/builds:/data"
     depends_on:
       - prepare-env

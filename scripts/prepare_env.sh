@@ -12,8 +12,8 @@ if [ -z "${CI_COMMIT_TAG}"]; then
     MINOR=`echo $PREVIOUS_TAG | sed -e "s#$RE#\2#"`
     PATCH=`echo $PREVIOUS_TAG | sed -e "s#$RE#\3#"`
     let PATCH+=1
-    VERSION="${MAJOR}.${MINOR}.${PATCH}-$(date +%s)-${CI_COMMIT_SHA:0:10}"
-    GAME_VERSION="${MAJOR}.${MINOR}.${PATCH}-${CI_COMMIT_SHA:0:10}"
+    VERSION="v${MAJOR}.${MINOR}.${PATCH}-$(date +%s)-${CI_COMMIT_SHA:0:10}"
+    GAME_VERSION="v${MAJOR}.${MINOR}.${PATCH}-${CI_COMMIT_SHA:0:10}"
 else
     VERSION=$CI_COMMIT_TAG
     GAME_VERSION=$CI_COMMIT_TAG
