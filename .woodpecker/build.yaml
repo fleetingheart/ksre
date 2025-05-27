@@ -4,6 +4,14 @@ when:
 labels:
   platform: linux/amd64 # it doesn't build on arm64, unfortuantely
 
+clone:
+  - name: clone
+    image: woodpeckerci/plugin-git
+    settings:
+      partial: false
+      depth: 0
+      lfs: false
+
 steps:
   prepare_env:
     image: debian:latest
@@ -24,7 +32,8 @@ steps:
       KEYSTORE_PASS:
         from_secret: keystore_pass
     commands:
-      - source .env
+      - env
+      - exit 1
       - mkdir ./dists /data/${CI_COMMIT_SHA:0:10}/
       - sed -i "s#KEYSTORE_APK#$${KEYSTORE_APK}#" renconstruct.toml
       - sed -i "s#KEYSTORE_ALIAS#$${KEYSTORE_ALIAS}#" renconstruct.toml
