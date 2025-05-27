@@ -25,6 +25,7 @@ steps:
     commands:
       - source .env
       - mkdir ./dists /data/$${CI_PRETTY_VERSION}/
+      - sed -i "s#v0.0.0-localbuild#$${CI_KSRE_VERSION}#" game/config.rpy
       - sed -i "s#KEYSTORE_APK#$${KEYSTORE_APK}#" renconstruct.toml
       - sed -i "s#KEYSTORE_ALIAS#$${KEYSTORE_ALIAS}#" renconstruct.toml
       - sed -i "s#KEYSTORE_PASS#$${KEYSTORE_PASS}#" renconstruct.toml
