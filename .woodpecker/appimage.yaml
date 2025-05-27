@@ -22,7 +22,7 @@ steps:
       - sed -i "s#TARBALL_DIR#/data/$${CI_PRETTY_VERSION}#" ./scripts/appimage.sh
       - apk update && apk add bash
       - ./scripts/appimage.sh
-      - cp -v ./dists/sh.fhs.ksre-x86_64.AppImage /data/${CI_PRETTY_VERSION}/
+      - cp -v ./dists/sh.fhs.ksre-x86_64.AppImage /data/$${CI_PRETTY_VERSION}/
     when:
       event: push
     volumes:
