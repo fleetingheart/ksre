@@ -1,4 +1,4 @@
-#/bin/bash
+#/bin/sh
 
 VERSION="v0.0.0-unknown"
 
