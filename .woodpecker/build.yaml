@@ -19,8 +19,10 @@ steps:
       KEYSTORE_PASS:
         from_secret: keystore_pass
     commands:
-      - ls -lah .
+      - chmod +x ./.woodpecker/semver-from-git.sh
+      - ./.woodpecker/semver-from-git.sh > .env
       - cat .env
+      - source .env
       - mkdir ./dists /data/${CI_COMMIT_SHA:0:10}/
       - sed -i "s#KEYSTORE_APK#$${KEYSTORE_APK}#" renconstruct.toml
       - sed -i "s#KEYSTORE_ALIAS#$${KEYSTORE_ALIAS}#" renconstruct.toml
