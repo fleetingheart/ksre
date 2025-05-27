@@ -19,7 +19,7 @@ steps:
     image: alpine:latest
     commands:
       - chmod +x ./scripts/*.sh
-      - source .env
+      - . .env
       - sed -i "s#TARBALL_DIR#/data/$${CI_PRETTY_VERSION}#" ./scripts/appimage.sh
       - apk update && apk add bash
       - ./scripts/appimage.sh
