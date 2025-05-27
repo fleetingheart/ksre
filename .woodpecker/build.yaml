@@ -35,8 +35,7 @@ steps:
     when:
       event: push
     volumes:
-      - "/data/ci/builds:/data"
-      - "/data/ci/cache:/cache"
+      - "/data/ci:/data"
     entrypoint: ["/bin/bash", "-c", "echo $CI_SCRIPT | base64 -d | /bin/bash -e"]
     depends_on:
       - prepare-env

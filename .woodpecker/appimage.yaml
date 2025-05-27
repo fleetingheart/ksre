@@ -27,6 +27,6 @@ steps:
     when:
       event: push
     volumes:
-      - "/data/ci/builds:/data"
+      - "/data/ci:/data"
     depends_on:
       - prepare-env
