@@ -4,23 +4,7 @@ when:
 labels:
   platform: linux/amd64 # it doesn't build on arm64, unfortuantely
 
-clone:
-  - name: clone
-    image: woodpeckerci/plugin-git
-    settings:
-      partial: false
-      depth: 0
-      lfs: false
-      tags: true
-
 steps:
-  prepare_env:
-    image: bitnami/git:latest
-    commands:
-      - chmod +x ./.woodpecker/semver-from-git.sh
-      - ./.woodpecker/semver-from-git.sh > .env
-      - cat .env
-
   build:
     image: source.hodakov.me/containers/renkit:latest
     environment:
@@ -32,6 +16,8 @@ steps:
       KEYSTORE_PASS:
         from_secret: keystore_pass
     commands:
+      - chmod +x ./scripts
+      - ./scripts/prepare_env.sh
       - source .env
       - mkdir ./dists /data/${CI_COMMIT_SHA:0:10}/
       - sed -i "s#KEYSTORE_APK#$${KEYSTORE_APK}#" renconstruct.toml
