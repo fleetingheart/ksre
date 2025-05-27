@@ -5,8 +5,13 @@ labels:
   platform: linux/amd64 # it doesn't build on arm64, unfortuantely
 
 steps:
-  extend_env:
-    image: woodpeckerci/plugin-extend-env:next
+  prepare_env:
+    image: alpine:latest
+    commands:
+      - apk add git bash
+      - chmod +x ./.woodpecker/semver-from-git.sh
+      - ./.woodpecker/semver-from-git.sh > .env
+      - cat .env
 
   build:
     image: source.hodakov.me/containers/renkit:latest
@@ -19,9 +24,6 @@ steps:
       KEYSTORE_PASS:
         from_secret: keystore_pass
     commands:
-      - chmod +x ./.woodpecker/semver-from-git.sh
-      - ./.woodpecker/semver-from-git.sh > .env
-      - cat .env
       - source .env
       - mkdir ./dists /data/${CI_COMMIT_SHA:0:10}/
       - sed -i "s#KEYSTORE_APK#$${KEYSTORE_APK}#" renconstruct.toml
@@ -35,4 +37,4 @@ steps:
     volumes:
       - "/data/ci/:/data"
     depends_on:
-      - extend_env
+      - prepare_env

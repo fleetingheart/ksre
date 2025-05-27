@@ -8,9 +8,6 @@ labels:
   platform: linux/amd64 # it doesn't build on arm64, unfortuantely
 
 steps:
-  extend_env:
-    image: woodpeckerci/plugin-extend-env:next
-
   build:
     image: alpine:latest
     commands:
@@ -24,5 +21,3 @@ steps:
       event: push
     volumes:
       - "/data/ci/:/data"
-    depends_on:
-      - extend_env
