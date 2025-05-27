@@ -6,9 +6,9 @@ labels:
 
 steps:
   prepare_env:
-    image: alpine:latest
+    image: debian:latest
     commands:
-      - apk add git bash
+      - apt install -y bash
       - chmod +x ./.woodpecker/semver-from-git.sh
       - ./.woodpecker/semver-from-git.sh > .env
       - cat .env
