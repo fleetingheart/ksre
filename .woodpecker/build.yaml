@@ -5,6 +5,12 @@ labels:
   platform: linux/amd64 # it doesn't build on arm64, unfortuantely
 
 steps:
+  prepare-env:
+    image: bitnami/git:latest
+    commands:
+      - chmod +x ./scripts/*.sh
+      - ./scripts/prepare_env.sh
+
   build:
     image: source.hodakov.me/containers/renkit:latest
     environment:
@@ -16,8 +22,6 @@ steps:
       KEYSTORE_PASS:
         from_secret: keystore_pass
     commands:
-      - chmod +x ./scripts/*.sh
-      - ./scripts/prepare_env.sh
       - source .env
       - mkdir ./dists /data/$${CI_PRETTY_VERSION}/
       - sed -i "s#KEYSTORE_APK#$${KEYSTORE_APK}#" renconstruct.toml
@@ -31,3 +35,5 @@ steps:
     volumes:
       - "/data/ci/:/data"
     entrypoint: ["/bin/bash", "-c", "echo $CI_SCRIPT | base64 -d | /bin/bash -e"]
+    depends_on:
+      - prepare-env
