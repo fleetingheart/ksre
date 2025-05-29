@@ -37,6 +37,7 @@ EOF
 cp flatpak/sh.fhs.ksre.svg $APP_DIR/icon.svg
 
 echo "Compiling AppImage..."
+sed 's|AI\x02|\x00\x00\x00|g' -i ./build/$APPIMAGETOOL
 ARCH=x86_64 ./build/$APPIMAGETOOL $APP_DIR ./dists/sh.fhs.ksre-x86_64.AppImage
 
 echo "AppImage creation completed!"
