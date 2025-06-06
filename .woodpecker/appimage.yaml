@@ -16,11 +16,10 @@ steps:
       - ./scripts/prepare_env.sh
 
   build:
-    image: alpine:latest
+    image: debian:latest
     commands:
       - export $(grep -v '^#' .env | xargs)
       - sed -i "s#TARBALL_DIR#/data/$${CI_PRETTY_VERSION}#" ./scripts/appimage.sh
-      - apk update && apk add bash
       - ./scripts/appimage.sh
       - cp -v ./dists/sh.fhs.ksre-x86_64.AppImage /data/$${CI_PRETTY_VERSION}/
     when:
