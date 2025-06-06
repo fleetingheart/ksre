@@ -17,8 +17,7 @@ steps:
     environment:
       SDL_AUDIODRIVER: dummy
       SDL_VIDEODRIVER: dummy
-      RENPY_VERSION: 8.3.7
     commands:
       - export $(grep -v '^#' .env | xargs)
-      - renutil launch -- lint --error-code --no-orphan-tl
+      - renutil launch -v 8.3.7 -- lint --error-code --no-orphan-tl
     failure: ignore
