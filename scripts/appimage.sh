@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 APP_DIR="build/appimage"
 APP_IMAGE_TOOLKIT_URL="https://github.com/AppImage/AppImageKit/releases/latest/download/appimagetool-x86_64.AppImage"
 APPIMAGETOOL="appimagetool-x86_64.AppImage"
@@ -8,7 +10,7 @@ EXECUTABLE_FILE="KSRE-linux/Katawa Shoujo Re-Engineered.sh"
 APPIMAGE_EXTRACT_AND_RUN=true
 
 
-mkdir -p $APP_DIR/opt ./dists
+mkdir -p $APP_DIR/opt
 
 wget -O ./build/$APPIMAGETOOL $APP_IMAGE_TOOLKIT_URL
 chmod +x ./build/$APPIMAGETOOL
