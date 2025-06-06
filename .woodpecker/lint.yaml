@@ -1,0 +1,24 @@
+when:
+  event: push
+
+labels:
+  platform: linux/amd64 # it doesn't build on arm64, unfortuantely
+
+steps:
+  prepare-env:
+    image: alpine:latest
+    commands:
+      - apk update && apk add git
+      - chmod +x ./scripts/*.sh
+      - ./scripts/prepare_env.sh
+
+  lint:
+    image: source.hodakov.me/containers/renkit:latest
+    environment:
+      SDL_AUDIODRIVER: dummy
+      SDL_VIDEODRIVER: dummy
+      RENPY_VERSION: 8.3.7
+    commands:
+      - export $(grep -v '^#' .env | xargs)
+      - renutil launch -v 8.3.7 -- lint --error-code --no-orphan-tl
+    failure: ignore
