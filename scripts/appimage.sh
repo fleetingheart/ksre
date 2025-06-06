@@ -10,7 +10,7 @@ EXECUTABLE_FILE="KSRE-linux/Katawa Shoujo Re-Engineered.sh"
 APPIMAGE_EXTRACT_AND_RUN=true
 
 
-mkdir -p $APP_DIR/opt
+mkdir -p $APP_DIR/opt ./dists
 
 wget -O ./build/$APPIMAGETOOL $APP_IMAGE_TOOLKIT_URL
 chmod +x ./build/$APPIMAGETOOL
