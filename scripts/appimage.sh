@@ -3,8 +3,8 @@
 set -e
 
 APP_DIR="build/appimage"
-APP_IMAGE_TOOLKIT_URL="https://github.com/AppImage/AppImageKit/releases/latest/download/appimagetool-x86_64.AppImage"
-APPIMAGETOOL="appimagetool-x86_64.AppImage"
+APP_IMAGE_TOOLKIT_URL="https://github.com/AppImage/appimagetool/releases/download/continuous/appimagetool-$(uname -m).AppImage"
+APPIMAGETOOL="appimagetool-$(uname -m).AppImage"
 TARBALL="TARBALL_DIR/KSRE-linux.tar.bz2"
 EXECUTABLE_FILE="KSRE-linux/Katawa Shoujo Re-Engineered.sh"
 
@@ -38,6 +38,6 @@ EOF
 cp flatpak/sh.fhs.ksre.svg $APP_DIR/icon.svg
 
 echo "Compiling AppImage..."
-ARCH=x86_64 ./build/$APPIMAGETOOL --appimage-extract-and-run $APP_DIR ./dists/sh.fhs.ksre-x86_64.AppImage
+ARCH=$(uname -m) ./build/$APPIMAGETOOL --appimage-extract-and-run $APP_DIR ./dists/sh.fhs.ksre-$(uname -m).AppImage
 
 echo "AppImage creation completed!"

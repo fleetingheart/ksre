@@ -1,11 +1,16 @@
+matrix:
+  platform:
+    - linux/amd64
+    - linux/arm64
+
+labels:
+  platform: ${platform}
+
 when:
   event: push
 
 depends_on:
   - build
-
-labels:
-  platform: linux/amd64 # it doesn't build on arm64, unfortuantely
 
 steps:
   prepare-env:
