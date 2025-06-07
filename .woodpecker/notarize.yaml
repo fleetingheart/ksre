@@ -49,7 +49,7 @@ steps:
       SDL_VIDEODRIVER: dummy
       RENPY_VERSION: 8.3.7
       MACOS_APPSTORE_KEY:
-        from_secret: macos_appstore_key
+        from_secret: macos_app_store_key
       MACOS_NOTARIZE_CERTIFICATE:
         from_secret: macos_notarize_certificate
       MACOS_NOTARIZE_DEVELOPER_ID:
