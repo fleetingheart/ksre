@@ -27,7 +27,7 @@ steps:
       - sed -i "s#TARBALL_DIR#/data/$${CI_PRETTY_VERSION}#" ./scripts/appimage.sh
       - apt update && apt install -y wget bzip2 file
       - ./scripts/appimage.sh
-      - cp -v ./dists/sh.fhs.ksre-x86_64.AppImage /data/$${CI_PRETTY_VERSION}/
+      - cp -v ./dists/sh.fhs.ksre-*.AppImage /data/$${CI_PRETTY_VERSION}/
     when:
       event: push
     volumes:
