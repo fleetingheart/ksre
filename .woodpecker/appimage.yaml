@@ -46,7 +46,7 @@ steps:
       - *ssh_setup_import_key
       - *ssh_setup_configure
       - mkdir ./dists/
-      - scp -v -P $${CI_SSH_PORT} "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}/KSRE-linux.tar.bz2" ./dists/
+      - scp -P $${CI_SSH_PORT} "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}/KSRE-linux.tar.bz2" ./dists/
     depends_on:
       - prepare-env
 
@@ -54,10 +54,8 @@ steps:
     image: debian:latest
     commands:
       - export $(grep -v '^#' .env | xargs)
-      - sed -i "s#TARBALL_DIR#/data/$${CI_PRETTY_VERSION}#" ./scripts/appimage.sh
       - apt update && apt install -y wget bzip2 file
       - ./scripts/appimage.sh
-      - cp -v ./dists/sh.fhs.ksre-*.AppImage /data/$${CI_PRETTY_VERSION}/
     depends_on:
       - prepare-env
       - prepare-storage
@@ -81,7 +79,7 @@ steps:
       - *ssh_setup_start_agent
       - *ssh_setup_import_key
       - *ssh_setup_configure
-      - scp -v -P $${CI_SSH_PORT} ./dists/* "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
+      - scp -P $${CI_SSH_PORT} ./dists/*.AppImage "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}/"
     depends_on:
       - prepare-env
       - prepare-storage

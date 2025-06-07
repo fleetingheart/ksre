@@ -5,7 +5,7 @@ set -e
 APP_DIR="build/appimage"
 APP_IMAGE_TOOLKIT_URL="https://github.com/AppImage/appimagetool/releases/download/continuous/appimagetool-$(uname -m).AppImage"
 APPIMAGETOOL="appimagetool-$(uname -m).AppImage"
-TARBALL="TARBALL_DIR/KSRE-linux.tar.bz2"
+TARBALL="./dists/KSRE-linux.tar.bz2"
 EXECUTABLE_FILE="KSRE-linux/Katawa Shoujo Re-Engineered.sh"
 
 
