@@ -84,7 +84,9 @@ steps:
       - *ssh_setup_start_agent
       - *ssh_setup_import_key
       - *ssh_setup_configure
-      - scp -P $${CI_SSH_PORT} ./dists/* "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
+      - ssh -p $${CI_SSH_PORT} $${CI_SSH_USER}@$${CI_SSH_HOST} -- "rm $${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}/KSRE-mac.zip"
+      - scp -P $${CI_SSH_PORT} ./dists/KSRE-mac.dmg "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
+      - scp -P $${CI_SSH_PORT} ./dists/KSRE-mac.zip "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
     depends_on:
       - prepare-env
       - prepare-storage
