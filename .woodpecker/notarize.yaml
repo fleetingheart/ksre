@@ -57,9 +57,9 @@ steps:
     commands:
       - export $(grep -v '^#' .env | xargs)
       - mkdir ./certs
-      - echo "$${MACOS_APPSTORE_KEY}" | base64 -d -o ./certs/app-store-key.json
-      - echo "$${MACOS_NOTARIZE_DEVELOPER_ID}" | base64 -d -o ./certs/developerID_application.cer
-      - echo "$${MACOS_NOTARIZE_CERTIFICATE}" | base64 -d -o ./certs/private-key.pem
+      - echo "$${MACOS_APPSTORE_KEY}" | base64 -d > ./certs/app-store-key.json
+      - echo "$${MACOS_NOTARIZE_DEVELOPER_ID}" | base64 -d > ./certs/developerID_application.cer
+      - echo "$${MACOS_NOTARIZE_CERTIFICATE}" | base64 -d > ./certs/private-key.pem
       - renotize full-run ./dists/KSRE-mac.zip sh.fhs.ksre ./certs/private-key.pem ./certs/developerID_application.cer ./certs/app-store-key.json
     depends_on:
       - prepare-env

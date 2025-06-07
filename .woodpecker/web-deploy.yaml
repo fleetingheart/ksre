@@ -56,6 +56,7 @@ steps:
       CI_PRIVATE_SSH_KEY:
         from_secret: web_ssh_key
     commands:
+      - export $(grep -v '^#' .env | xargs)
       - *install_packages
       - *ssh_setup_start_agent
       - *ssh_setup_import_key
