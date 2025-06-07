@@ -16,7 +16,7 @@ variables:
   .ssh_setup_start_agent: &ssh_setup_start_agent eval $(ssh-agent -s)
   .ssh_setup_import_key: &ssh_setup_import_key echo "$${CI_PRIVATE_SSH_KEY}" | ssh-add -
   .ssh_setup_configure: &ssh_setup_configure mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
-  .install_ssh: &install_packages apk update && apk add openssh-client
+  .install_ssh: &install_ssh apk update && apk add openssh-client
 
 steps:
   prepare-env:
