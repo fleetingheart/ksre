@@ -2,7 +2,7 @@ when:
   event: push
 
 labels:
-  platform: linux/amd64 # it doesn't build on arm64, unfortuantely
+  platform: linux/arm64
 
 steps:
   prepare-env:
