@@ -47,6 +47,8 @@ steps:
       - *ssh_setup_configure
       - mkdir ./dists/
       - scp -v -P $${CI_SSH_PORT} "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}/KSRE-linux.tar.bz2" ./dists/
+    depends_on:
+      - prepare-env
 
   build:
     image: debian:latest
@@ -56,10 +58,9 @@ steps:
       - apt update && apt install -y wget bzip2 file
       - ./scripts/appimage.sh
       - cp -v ./dists/sh.fhs.ksre-*.AppImage /data/$${CI_PRETTY_VERSION}/
-    when:
-      event: push
     depends_on:
       - prepare-env
+      - prepare-storage
 
   upload-assets:
     image: alpine:latest
@@ -81,3 +82,7 @@ steps:
       - *ssh_setup_import_key
       - *ssh_setup_configure
       - scp -v -P $${CI_SSH_PORT} ./dists/* "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
+    depends_on:
+      - prepare-env
+      - prepare-storage
+      - build

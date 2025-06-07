@@ -42,6 +42,8 @@ steps:
       - *ssh_setup_configure
       - mkdir ./dists/
       - ssh -p $${CI_SSH_PORT} $${CI_SSH_USER}@$${CI_SSH_HOST} -- "mkdir $${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
+    depends_on:
+      - prepare-env
 
   build:
     image: source.hodakov.me/containers/renkit:latest
@@ -61,10 +63,9 @@ steps:
       - sed -i "s#KEYSTORE_PASS#$${KEYSTORE_PASS}#" renconstruct.toml
       - sed -i "s#RENPY_VERSION#$${RENPY_VERSION}#" renconstruct.toml
       - renconstruct build -c renconstruct.toml . ./dists
-    when:
-      event: push
     depends_on:
       - prepare-env
+      - prepare-storage
 
   upload-assets:
     image: alpine:latest
@@ -86,3 +87,7 @@ steps:
       - *ssh_setup_import_key
       - *ssh_setup_configure
       - scp -v -P $${CI_SSH_PORT} ./dists/* "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
+    depends_on:
+      - prepare-env
+      - prepare-storage
+      - build
