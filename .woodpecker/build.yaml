@@ -1,9 +1,6 @@
 when:
   event: push
 
-depends_on:
-  - lint
-
 labels:
   platform: linux/amd64 # it doesn't work on arm64 unfortunately
 
