@@ -1,10 +1,6 @@
 when:
   event: push
 
-labels:
-  platform: darwin/amd64
-  backend: local
-
 depends_on:
   - build
 
@@ -12,17 +8,18 @@ variables:
   .ssh_setup_start_agent: &ssh_setup_start_agent eval $(ssh-agent -s)
   .ssh_setup_import_key: &ssh_setup_import_key echo "$${CI_PRIVATE_SSH_KEY}" | ssh-add -
   .ssh_setup_configure: &ssh_setup_configure mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
-  .install_packages: &install_packages brew update && brew install git && brew install kobaltcore/renkit/renkit
+  .install_ssh: &install_ssh apk update && apk add openssh-client
 
 steps:
   prepare-env:
-    image: bash
+    image: alpine:latest
     commands:
+      - apk update && apk add git
       - chmod +x ./scripts/*.sh
       - ./scripts/prepare_env.sh
 
   prepare-storage:
-    image: bash
+    image: alpine:latest
     environment:
       CI_SSH_HOST:
         from_secret: storage_ssh_host
@@ -36,7 +33,7 @@ steps:
         from_secret: storage_directory_prefix
     commands:
       - export $(grep -v '^#' .env | xargs)
-      - *install_packages
+      - *install_ssh
       - *ssh_setup_start_agent
       - *ssh_setup_import_key
       - *ssh_setup_configure
@@ -46,7 +43,7 @@ steps:
       - prepare-env
 
   notarize:
-    image: bash
+    image: source.hodakov.me/containers/renkit:latest
     environment:
       SDL_AUDIODRIVER: dummy
       SDL_VIDEODRIVER: dummy
@@ -69,7 +66,7 @@ steps:
       - prepare-storage
 
   upload-assets:
-    image: bash
+    image: alpine:latest
     environment:
       CI_SSH_HOST:
         from_secret: storage_ssh_host
@@ -83,12 +80,11 @@ steps:
         from_secret: storage_directory_prefix
     commands:
       - export $(grep -v '^#' .env | xargs)
-      - *install_packages
+      - *install_ssh
       - *ssh_setup_start_agent
       - *ssh_setup_import_key
       - *ssh_setup_configure
       - ssh -p $${CI_SSH_PORT} $${CI_SSH_USER}@$${CI_SSH_HOST} -- "rm $${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}/KSRE-mac.zip"
-      - scp -P $${CI_SSH_PORT} ./dists/KSRE-mac.dmg "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
       - scp -P $${CI_SSH_PORT} ./dists/KSRE-mac.zip "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
     depends_on:
       - prepare-env
