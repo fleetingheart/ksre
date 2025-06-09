@@ -10,7 +10,7 @@ variables:
 skip_clone: true
 
 steps:
-  prepare-env:
+  sync-mirror:
     image: alpine:latest
     environment:
       CI_PRIVATE_SSH_KEY:

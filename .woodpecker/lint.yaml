@@ -4,9 +4,6 @@ when:
 labels:
   platform: linux/arm64
 
-depends_on:
-  - git-sync
-
 steps:
   prepare-env:
     image: alpine:latest
