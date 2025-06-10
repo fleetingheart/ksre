@@ -1,5 +1,5 @@
 when:
-  event: push
+  event: tag
 
 variables:
   .ssh_setup_start_agent: &ssh_setup_start_agent eval $(ssh-agent -s)

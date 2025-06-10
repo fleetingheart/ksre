@@ -7,7 +7,7 @@ labels:
   platform: ${platform}
 
 when:
-  event: push
+  event: tag
 
 depends_on:
   - build

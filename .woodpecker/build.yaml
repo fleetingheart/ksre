@@ -1,11 +1,8 @@
 when:
-  event: push
+  event: tag
 
 labels:
   platform: linux/amd64 # it doesn't work on arm64 unfortunately
-
-depends_on:
-  - git-sync
 
 variables:
   .ssh_setup_start_agent: &ssh_setup_start_agent eval $(ssh-agent -s)
