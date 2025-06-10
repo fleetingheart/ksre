@@ -1,5 +1,5 @@
 when:
-  event: push
+  event: [push, tag]
 
 labels:
   platform: linux/arm64
