@@ -53,11 +53,11 @@ steps:
     settings:
       files:
         - 'dists/*'
+      file-exists: fail
       api_key:
         from_secret: github_token
       draft: true
-      base-url: 
-        from_secret: github_baseurl
+      base-url: https://github.com
       title: "Next release"
       note: "Next release notes"
     depends_on:
