@@ -49,10 +49,12 @@ steps:
       - prepare-env
 
   release:
-    image: woodpeckerci/plugin-release
+    image: golang:1.24
     settings:
       files:
         - 'dists/*'
+      owner: fleetingheart
+      repo: ksre
       file-exists: fail
       api_key:
         from_secret: github_token
@@ -60,5 +62,12 @@ steps:
       base-url: https://github.com
       title: "Next release"
       note: "Next release notes"
+    commands:
+      - git clone https://codeberg.org/hdkv/release.git
+      - cd release
+      - make build
+      - mv ./plugin-release ../
+      - cd ..
+      - ./plugin-release
     depends_on:
       - prepare-storage
