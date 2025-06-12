@@ -56,11 +56,12 @@ steps:
     settings:
       api_key:
         from_secret: github_token
+      owner: fleetingheart
       repo: ksre
+      forge-type: github
       file-exists: fail
       files:
         - 'dists/*'
-      owner: fleetingheart
       draft: true
       base-url: https://github.com
       title: "Next release"
