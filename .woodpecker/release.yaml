@@ -6,6 +6,9 @@ depends_on:
   - appimage
   - notarize
 
+labels:
+  platform: linux/arm64
+
 variables:
   .ssh_setup_start_agent: &ssh_setup_start_agent eval $(ssh-agent -s)
   .ssh_setup_import_key: &ssh_setup_import_key echo "$${CI_PRIVATE_SSH_KEY}" | ssh-add -
@@ -49,7 +52,7 @@ steps:
       - prepare-env
 
   release:
-    image: golang:1.24
+    image: source.hodakov.me/containers/release:latest
     settings:
       files:
         - 'dists/*'
@@ -62,12 +65,3 @@ steps:
       base-url: https://github.com
       title: "Next release"
       note: "Next release notes"
-    commands:
-      - git clone https://codeberg.org/hdkv/release.git
-      - cd release
-      - make build
-      - mv ./plugin-release ../
-      - cd ..
-      - ./plugin-release
-    depends_on:
-      - prepare-storage
