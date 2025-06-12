@@ -54,13 +54,13 @@ steps:
   release:
     image: source.hodakov.me/containers/release:latest
     settings:
+      api_key:
+        from_secret: github_token
+      repo: ksre
+      file-exists: fail
       files:
         - 'dists/*'
       owner: fleetingheart
-      repo: ksre
-      file-exists: fail
-      api_key:
-        from_secret: github_token
       draft: true
       base-url: https://github.com
       title: "Next release"
