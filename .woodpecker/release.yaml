@@ -65,3 +65,7 @@ steps:
       base-url: https://github.com
       title: "Next release"
       note: "Next release notes"
+      checksum: ["sha256"]
+      checksum-flatten: true
+    depends_on:
+      - prepare-storage
