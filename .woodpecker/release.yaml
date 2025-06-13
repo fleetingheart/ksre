@@ -52,21 +52,18 @@ steps:
       - prepare-env
 
   release:
-    image: source.hodakov.me/containers/release:latest
-    settings:
-      api_key:
+    image: source.hodakov.me/hdkv/github-release:0.1.0
+    environment:
+      RELEASER_API_KEY:
         from_secret: github_token
-      owner: fleetingheart
-      repo: ksre
-      forge-type: github
-      file-exists: fail
-      files:
-        - 'dists/*'
-      draft: true
-      base-url: https://github.com
-      title: "Next release"
-      note: "Next release notes"
-      checksum: ["sha256"]
-      checksum-flatten: true
+      RELEASER_OWNER: fleetingheart
+      RELEASER_REPO: ksre
+      RELEASER_STORAGE: "./dists/"
+      RELEASER_DRAFT: "true"
+      RELEASER_TITLE: "Next release"
+      RELEASER_DESCRIPTION: "Next release notes"
+    commands:
+      - export RELEASER_TAG=$CI_COMMIT_TAG
+      - /bin/github-release
     depends_on:
       - prepare-storage
