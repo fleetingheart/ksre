@@ -52,7 +52,7 @@ steps:
       - prepare-env
 
   release:
-    image: source.hodakov.me/hdkv/github-release:0.1.0
+    image: source.hodakov.me/hdkv/github-release:0.2.0
     environment:
       RELEASER_API_KEY:
         from_secret: github_token
@@ -63,7 +63,6 @@ steps:
       RELEASER_TITLE: "Next release"
       RELEASER_DESCRIPTION: "Next release notes"
     commands:
-      - export RELEASER_TAG=$CI_COMMIT_TAG
       - /bin/github-release
     depends_on:
       - prepare-storage
