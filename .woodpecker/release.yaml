@@ -59,7 +59,6 @@ steps:
       RELEASER_DRAFT: "true"
       RELEASER_TITLE: "Next release"
       RELEASER_DESCRIPTION: "Next release notes"
-    commands:
-      - /bin/github-release
+    entrypoint: /bin/github-release
     depends_on:
       - prepare-storage
