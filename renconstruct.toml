@@ -3,21 +3,21 @@
   enabled = true
   priorities = { pre_build = 0 } # the priority that determines the orders tasks will run in, defaults to 0
   on_builds = ["android_apk"] # builds this task should run for, defaults to all android builds
-  keystore_apk = "{KEYSTORE_APK}" # the base-64 encoded binary keystore file for the APK bundles
+  keystore_apk = "KEYSTORE_APK" # the base-64 encoded binary keystore file for the APK bundles
   keystore_aab = "" # the base-64 encoded binary keystore file for the AAB bundles
-  alias = "{KEYSTORE_ALIAS}" # the optional alias for both keystores
-  password = "{KEYSTORE_PASS}" # the optional password for both keystores
+  alias = "android" # the optional alias for both keystores
+  password = "KEYSTORE_PASS" # the optional password for both keystores
 
 [build] # required, at least one item must be 'true'
   pc = false  # Windows + Linux
   win = true # Windows
   linux = true # Linux
   mac = true # macOS
-  web = false # Web
+  web = true # Web
   steam = false # Steam
   market = false # Multiple Markets (i.e. Itch.io)
   android_apk = true # Android Universal APK
   android_aab = false # Android Play Store Bundle
 
 [renutil]
-  version = "{RENPY_VERSION}" # the Ren'Py version to use (required)
+  version = "RENPY_VERSION" # the Ren'Py version to use (required)

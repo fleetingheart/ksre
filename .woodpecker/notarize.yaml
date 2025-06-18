@@ -1,0 +1,92 @@
+when:
+  event: tag
+
+depends_on:
+  - build
+
+variables:
+  .ssh_setup_start_agent: &ssh_setup_start_agent eval $(ssh-agent -s)
+  .ssh_setup_import_key: &ssh_setup_import_key echo "$${CI_PRIVATE_SSH_KEY}" | ssh-add -
+  .ssh_setup_configure: &ssh_setup_configure mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+  .install_ssh: &install_ssh apk update && apk add openssh-client
+
+steps:
+  prepare-env:
+    image: alpine:latest
+    commands:
+      - apk update && apk add git
+      - chmod +x ./scripts/*.sh
+      - ./scripts/prepare_env.sh
+
+  prepare-storage:
+    image: alpine:latest
+    environment:
+      CI_SSH_HOST:
+        from_secret: storage_ssh_host
+      CI_SSH_PORT:
+        from_secret: storage_ssh_port
+      CI_SSH_USER:
+        from_secret: storage_ssh_user
+      CI_PRIVATE_SSH_KEY:
+        from_secret: storage_ssh_key
+      CI_STORAGE_PREFIX:
+        from_secret: storage_directory_prefix
+    commands:
+      - export $(grep -v '^#' .env | xargs)
+      - *install_ssh
+      - *ssh_setup_start_agent
+      - *ssh_setup_import_key
+      - *ssh_setup_configure
+      - mkdir ./dists/
+      - scp -P $${CI_SSH_PORT} "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}/KSRE-mac.zip" ./dists/
+    depends_on:
+      - prepare-env
+
+  notarize:
+    image: source.hodakov.me/containers/renkit:latest
+    environment:
+      SDL_AUDIODRIVER: dummy
+      SDL_VIDEODRIVER: dummy
+      RENPY_VERSION: 8.3.7
+      MACOS_APPSTORE_KEY:
+        from_secret: macos_app_store_key
+      MACOS_NOTARIZE_CERTIFICATE:
+        from_secret: macos_notarize_certificate
+      MACOS_NOTARIZE_DEVELOPER_ID:
+        from_secret: macos_notarize_developer_id
+    commands:
+      - export $(grep -v '^#' .env | xargs)
+      - mkdir ./certs
+      - echo "$${MACOS_APPSTORE_KEY}" | base64 -d > ./certs/app-store-key.json
+      - echo "$${MACOS_NOTARIZE_DEVELOPER_ID}" | base64 -d > ./certs/developerID_application.cer
+      - echo "$${MACOS_NOTARIZE_CERTIFICATE}" | base64 -d > ./certs/private-key.pem
+      - renotize full-run ./dists/KSRE-mac.zip sh.fhs.ksre ./certs/private-key.pem ./certs/developerID_application.cer ./certs/app-store-key.json
+    depends_on:
+      - prepare-env
+      - prepare-storage
+
+  upload-assets:
+    image: alpine:latest
+    environment:
+      CI_SSH_HOST:
+        from_secret: storage_ssh_host
+      CI_SSH_PORT:
+        from_secret: storage_ssh_port
+      CI_SSH_USER:
+        from_secret: storage_ssh_user
+      CI_PRIVATE_SSH_KEY:
+        from_secret: storage_ssh_key
+      CI_STORAGE_PREFIX:
+        from_secret: storage_directory_prefix
+    commands:
+      - export $(grep -v '^#' .env | xargs)
+      - *install_ssh
+      - *ssh_setup_start_agent
+      - *ssh_setup_import_key
+      - *ssh_setup_configure
+      - ssh -p $${CI_SSH_PORT} $${CI_SSH_USER}@$${CI_SSH_HOST} -- "rm $${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}/KSRE-mac.zip"
+      - scp -P $${CI_SSH_PORT} ./dists/KSRE-mac.zip "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
+    depends_on:
+      - prepare-env
+      - prepare-storage
+      - notarize

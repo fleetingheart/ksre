@@ -1,0 +1,33 @@
+when:
+  event: tag
+
+variables:
+  .ssh_setup_start_agent: &ssh_setup_start_agent eval $(ssh-agent -s)
+  .ssh_setup_import_key: &ssh_setup_import_key echo "$${CI_PRIVATE_SSH_KEY}" | ssh-add -
+  .ssh_setup_configure: &ssh_setup_configure mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+  .install_packages: &install_packages apk update && apk add openssh-client git
+
+skip_clone: true
+
+steps:
+  sync-mirror:
+    image: alpine:latest
+    environment:
+      CI_PRIVATE_SSH_KEY:
+        from_secret: storage_ssh_key
+      CI_UPSTREAM_URL:
+        from_secret: ksre_upstream_url
+      CI_MIRROR_URL:
+        from_secret: ksre_mirror_url
+    commands:
+      - *install_packages
+      - *ssh_setup_start_agent
+      - *ssh_setup_import_key
+      - *ssh_setup_configure
+      - git clone $${CI_UPSTREAM_URL} ksre
+      - cd ksre
+      - git fetch --prune --all
+      - git remote add github $${CI_MIRROR_URL}
+      - git push github master
+      - git push github --tags
+
