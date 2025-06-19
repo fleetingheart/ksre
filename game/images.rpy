@@ -211,30 +211,30 @@ init python:
             return rv
 
     def roofcomposite(comppath):
-        return im.Composite(
-            None,
+        return Composite(
+            (1920, 1080),
             (0, 0), "event/rin_roof/rin_roof_boredom.png",
             (720, 300), comppath)
 
     def rin_trueend_comp(list_in):
-        baselist = [None, (0, 0), "event/rin_trueend/rin_trueend_gone.png"]
+        baselist = [(1920, 1080), (0, 0), "event/rin_trueend/rin_trueend_gone.png"]
         for item in list_in:
             baselist.append((0, 0))
             baselist.append("event/rin_trueend/rin_trueend_" + item + ".png")
-        return im.Composite(*baselist)
+        return Composite(*baselist)
 
     def rin_h_comp(im_in, is_close=False):
         closer = ""
         if is_close:
             closer = "_close"
-        return im.Composite(
-            None,
+        return Composite(
+            (1920, 1080),
             (0, 0), "event/rin_h/rin_h_closed"+closer+".png",
             (0, 0), "event/rin_h/rin_h_"+im_in+closer+".png")
 
     def traincomposite(comppath):
-        return im.Composite(
-            None,
+        return Composite(
+            (1920, 1080),
             (0, 0), "event/lilly_train/lilly_trainride_ni_norm.png",
             (0, 0), comppath)
 
@@ -948,8 +948,8 @@ image ev rin_wet_towel_down = "event/rin_wet/rin_wet_towel_down.png"
 image ev rin_wet_towel_touch = "event/rin_wet/rin_wet_towel_touch.png"
 
 image ev rin_pair_base = "event/rin_pair/rin_pair_base.png"
-image ev rin_pair_base_clothes = im.Composite(
-    None,
+image ev rin_pair_base_clothes = Composite(
+    (1920, 1080),
     (0, 0), "event/rin_pair/rin_pair_base.png",
     (0, 0), "event/rin_pair/rin_pair_hisao_clothes.png")
 
@@ -1079,8 +1079,8 @@ image train_scenery_fg:
     repeat
 
 image evfg lilly_trainride = "event/lilly_train/lilly_trainride.png"
-image evfg lilly_trainride_smiles = im.Composite(
-    None,
+image evfg lilly_trainride_smiles = Composite(
+    (1920, 1080),
     (0, 0), "event/lilly_train/lilly_trainride.png",
     (0, 0), "event/lilly_train/lilly_trainride_smile.png",
     (0, 0), "event/lilly_train/lilly_trainride_hanasmile.png")
@@ -1226,26 +1226,26 @@ image ev hanako_presents2 = "event/hanako_presents2.png"
 
 image evbg hanako_breakdown = "event/hanako_breakdown/hanako_breakdown_bg.png"
 image evfg hanako_breakdown_down = "event/hanako_breakdown/hanako_breakdown_down.png"
-image evfg hanako_breakdown_up = im.Composite(
-    None,
+image evfg hanako_breakdown_up = Composite(
+    (1920, 1080),
     (0, 0),"event/hanako_breakdown/hanako_breakdown_down.png",
     (1411, 141),"event/hanako_breakdown/hanako_breakdown_up.png")
-image evfg hanako_breakdown_closed = im.Composite(
-    None,
+image evfg hanako_breakdown_closed = Composite(
+    (1920, 1080),
     (0, 0),"event/hanako_breakdown/hanako_breakdown_down.png",
     (1411, 141),"event/hanako_breakdown/hanako_breakdown_closed.png")
 
-image evul hanako_breakdown_down = im.Composite(
-    None,
+image evul hanako_breakdown_down = Composite(
+    (1920, 1080),
     (0, 0), "event/hanako_breakdown/hanako_breakdown_bg.png",
     (0, 0),"event/hanako_breakdown/hanako_breakdown_down.png")
-image evul hanako_breakdown_up = im.Composite(
-    None,
+image evul hanako_breakdown_up = Composite(
+    (1920, 1080),
     (0, 0), "event/hanako_breakdown/hanako_breakdown_bg.png",
     (0, 0),"event/hanako_breakdown/hanako_breakdown_down.png",
     (1411, 141),"event/hanako_breakdown/hanako_breakdown_up.png")
-image evul hanako_breakdown_closed = im.Composite(
-    None,
+image evul hanako_breakdown_closed = Composite(
+    (1920, 1080),
     (0, 0), "event/hanako_breakdown/hanako_breakdown_bg.png",
     (0, 0),"event/hanako_breakdown/hanako_breakdown_down.png",
     (1411, 141),"event/hanako_breakdown/hanako_breakdown_closed.png")
@@ -1295,8 +1295,8 @@ image ev hanako_billiards_timid_med:
     "event/hanako_billiards_timid.png"
     yanchor 0.0 ypos 0.0 xalign 1.0
 
-image evul hanako_emptyclassroom = Transform(im.Composite(
-    None,
+image evul hanako_emptyclassroom = Transform(Composite(
+    (1920, 1080),
     (0, 0), "event/hanako_emptyclassroom_bg.png",
     (0, 0), "event/hanako_emptyclassroom_fg.png"), zoom=0.8)
 
@@ -1407,35 +1407,35 @@ image ev shizu_fishing_ah = "event/shizu_fishing_ah.png"
 image ev shizu_couch = "event/shizu_couch.png"
 
 image ev shizu_roof = "event/shizu_roof/shizu_roof.png"
-image ev shizu_roof_towardsangry = im.Composite(
-    None,
+image ev shizu_roof_towardsangry = Composite(
+    (1920, 1080),
     (0, 0), "event/shizu_roof/shizu_roof.png",
     (0, 0), "event/shizu_roof/shizu_roof_towardsangry.png")
-image ev shizu_roof_towardsnormal = im.Composite(
-    None,
+image ev shizu_roof_towardsnormal = Composite(
+    (1920, 1080),
     (0, 0),  "event/shizu_roof/shizu_roof.png",
     (0, 0), "event/shizu_roof/shizu_roof_towardsnormal.png")
-image ev shizu_roof_smile = im.Composite(
-    None,
+image ev shizu_roof_smile = Composite(
+    (1920, 1080),
     (0, 0),  "event/shizu_roof/shizu_roof.png",
     (0, 0), "event/shizu_roof/shizu_roof_smile.png")
 
-image ev shizu_roof2 = im.Composite(
-    None,
+image ev shizu_roof2 = Composite(
+    (1920, 1080),
     (0, 0), "event/shizu_roof/shizu_roof.png",
     (0, 0), "event/shizu_roof/shizu_roof_hisao2.png")
-image ev shizu_roof2_towardsangry = im.Composite(
-    None,
+image ev shizu_roof2_towardsangry = Composite(
+    (1920, 1080),
     (0, 0), "event/shizu_roof/shizu_roof.png",
     (0, 0), "event/shizu_roof/shizu_roof_hisao2.png",
     (0, 0), "event/shizu_roof/shizu_roof_towardsangry.png")
-image ev shizu_roof2_towardsnormal = im.Composite(
-    None,
+image ev shizu_roof2_towardsnormal = Composite(
+    (1920, 1080),
     (0,0),  "event/shizu_roof/shizu_roof.png",
     (0, 0), "event/shizu_roof/shizu_roof_hisao2.png",
     (0, 0), "event/shizu_roof/shizu_roof_towardsnormal.png")
-image ev shizu_roof2_smile = im.Composite(
-    None,
+image ev shizu_roof2_smile = Composite(
+    (1920, 1080),
     (0,0), "event/shizu_roof/shizu_roof.png",
     (0, 0), "event/shizu_roof/shizu_roof_hisao2.png",
     (0, 0), "event/shizu_roof/shizu_roof_smile.png")

@@ -52,6 +52,7 @@ define config.gestures = {
 }
 
 define config.history_length = 250
+define config.check_conflicting_properties = True
 
 default preferences.afm_time = 15
 default preferences.text_cps = 40

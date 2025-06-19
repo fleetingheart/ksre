@@ -1,6 +1,6 @@
 define config.steam_appid = "3068300"
 
-init -9999 python:
+init -999 python:
     
     achdata = {
         "prologue_achieve",

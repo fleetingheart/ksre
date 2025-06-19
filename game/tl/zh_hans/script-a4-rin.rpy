@@ -10554,13 +10554,13 @@ translate zh_hans a4_rin_proof_of_existence_a1f16ab2:
     # nb "Even though existence will go on even if you forget about it for a while, it's good to seize the day at least every once in a while."
     nb "虽然就算你有片刻忘记了自己，也会继续存在下去，但至少还是应该偶尔去把握住当下的。"
 
-# game/script-a4-rin.rpy:5518
-translate zh_hans a4_rin_proof_of_existence_0799c3cd:
+# # game/script-a4-rin.rpy:5518
+# translate zh_hans a4_rin_proof_of_existence_0799c3cd:
 
-    # nvl clear
-    # centered_alive "That way… you can confirm that you are, in fact…"
-    nvl clear
-    centered_alive "这样一来……你才能向自己证明，你确实……"
+#     # nvl clear
+#     # centered_alive "That way… you can confirm that you are, in fact…"
+#     nvl clear
+#     centered_alive "这样一来……你才能向自己证明，你确实……"
 
 # game/script-a4-rin.rpy:5540
 translate zh_hans a4_rin_proof_of_existence_7460cbe0:
