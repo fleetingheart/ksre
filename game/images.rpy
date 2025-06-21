@@ -239,7 +239,7 @@ init python:
             (0, 0), comppath)
 
     def silhouette(disp, color=0):
-        return im.Map(disp, rmap=im.ramp(color, color), gmap=im.ramp(color, color), bmap=im.ramp(color, color))
+        return Transform(disp, matrixcolor=TintMatrix((color, color, color)))
 
     def rainAnim(my_offset=0.0, zoom=1.0, alpha=1.0):
         return rainAnim_tf(my_offset, zoom, alpha)
@@ -1362,33 +1362,33 @@ image ev shizuconfess_closed = "event/shizu_yukata/shizuconfess_closed.png"
 
 image evbg kenji_glasses = "event/kenji_glasses/kenji_glasses_bg.png"
 image evmg kenji_glasses_normal = "event/kenji_glasses/kenji_glasses_mg.png"
-image evmg kenji_glasses_frown = im.Composite(
-    None,
+image evmg kenji_glasses_frown = Composite(
+    (2400, 1800),
     (0, 0), "event/kenji_glasses/kenji_glasses_mg.png",
     (960, 456), "event/kenji_glasses/kenji_glasses_frown.png")
-image evmg kenji_glasses_closed = im.Composite(
-    None,
+image evmg kenji_glasses_closed = Composite(
+    (2400, 1800),
     (0, 0), "event/kenji_glasses/kenji_glasses_mg.png",
     (960, 456), "event/kenji_glasses/kenji_glasses_closed.png")
 image evfg kenji_glasses = "event/kenji_glasses/kenji_glasses_fg.png"
 
-image evul kenji_glasses_normal = Transform(im.Composite(
-    None,
+image evul kenji_glasses_normal = Transform(Composite(
+    (2400, 1800),
     (0, 0), "event/kenji_glasses/kenji_glasses_bg.png",
     (0, 0), "event/kenji_glasses/kenji_glasses_mg.png",
-    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), zoom=0.8)
-image evul kenji_glasses_frown = Transform(im.Composite(
-    None,
+    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), zoom=0.8, yalign=0.5)
+image evul kenji_glasses_frown = Transform(Composite(
+    (2400, 1800),
     (0, 0), "event/kenji_glasses/kenji_glasses_bg.png",
     (0, 0), "event/kenji_glasses/kenji_glasses_mg.png",
     (960, 456), "event/kenji_glasses/kenji_glasses_frown.png",
-    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), zoom=0.8)
-image evul kenji_glasses_closed = Transform(im.Composite(
-    None,
+    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), zoom=0.8, yalign=0.5)
+image evul kenji_glasses_closed = Transform(Composite(
+    (2400, 1800),
     (0, 0), "event/kenji_glasses/kenji_glasses_bg.png",
     (0, 0), "event/kenji_glasses/kenji_glasses_mg.png",
     (960, 456), "event/kenji_glasses/kenji_glasses_closed.png",
-    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), zoom=0.8)
+    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), zoom=0.8, yalign=0.5)
 
 image ev shizutanabata = "event/shizu_yukata/shizutanabata.png"
 
@@ -1791,7 +1791,7 @@ image letterbox = Composite(
     (0, 525), Solid("#000", ymaximum=75))
 
 image snowfg = SnowBlossom("vfx/snowflake.png", start=3.0, count=20, border=50, xspeed=(20, 50), yspeed=(216, 324), fast=True)
-image snowbg = SnowBlossom(im.Scale("vfx/snowflake.png", 5, 5), count=30, yspeed=(144, 216), start=3.0, border=50, xspeed=(20, 50), fast=True)
+image snowbg = SnowBlossom(Transform("vfx/snowflake.png", size=(5, 5)), count=30, yspeed=(144, 216), start=3.0, border=50, xspeed=(20, 50), fast=True)
 image snow = Composite(
     (1920, 1080),
     (0, 0), "snowbg",
@@ -1800,7 +1800,7 @@ image snow = Composite(
 image sakura = SnowBlossom(anim.Filmstrip("vfx/sakura.png", (20, 20), (2, 1), .25), xspeed=(150, 100), yspeed=(135, 270), count=80, fast=True)
 image hospitalmask = "vfx/hospitalroommask_new.png"
 
-image dandeliontbg = SnowBlossom(im.Scale("vfx/dandelion.png",13,16), count=20, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=False, horizontal=True)
+image dandeliontbg = SnowBlossom(Transform("vfx/dandelion.png", size=(13, 16)), count=20, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=False, horizontal=True)
 image dandeliontfg = SnowBlossom("vfx/dandelion.png", count=10, border=25, xspeed=(100, 200), yspeed=(-72, -27), start=8.0, fast=False, horizontal=True)
 image dandelions thin = Composite(
     (1920, 1080),
@@ -1815,7 +1815,7 @@ image kslogo words = "gui/logo/large.png"
 
 image credits mask = "gui/bg/roll_mask.png"
 
-image dandeliondbg = SnowBlossom(im.Scale("vfx/dandelion.png", 13, 16), count=40, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=True, horizontal=True)
+image dandeliondbg = SnowBlossom(Transform("vfx/dandelion.png", size=(13, 16)), count=40, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=True, horizontal=True)
 image dandeliondfg = SnowBlossom("vfx/dandelion.png", count=20, border=25, xspeed=(100, 200), yspeed=(-72, -27), start=8.0, fast=True, horizontal=True)
 image dandelions dense = Composite(
     (1920, 1080),
@@ -1825,7 +1825,7 @@ image dandelions dense = Composite(
 image dandelionsbg dense = "dandeliondbg"
 image dandelionsfg dense = "dandeliondfg"
 
-image dandelions_blurbg = SnowBlossom(im.Scale("vfx/dandelion_blur.png", 13, 16), count=40, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=True, horizontal=True)
+image dandelions_blurbg = SnowBlossom(Transform("vfx/dandelion_blur.png", size=(13, 16)), count=40, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=True, horizontal=True)
 image dandelions_blurfg = SnowBlossom("vfx/dandelion_blur.png", count=20, border=25, xspeed=(100, 200), yspeed=(-72, -27), start=8.0, fast=True, horizontal=True)
 
 image steam:
