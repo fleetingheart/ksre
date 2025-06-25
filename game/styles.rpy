@@ -15,6 +15,10 @@ define default_font = "font/playtime.ttf"
 translate zh_hans python:
     default_font = FontGroup().add("font/XiaolaiSC-Regular.ttf", 0x2e80, 0xffff).add("font/playtime.ttf", 0x0000, 0xffff)
     gui.text_size = 36 + mobile_ts_add * is_mobile
+
+translate jp python:
+    default_font = FontGroup().add("font/NotoSansJP-VariableFont_wght.ttf", 0x2e80, 0xffff).add("font/playtime.ttf", 0x0000, 0xffff)
+
 style default:
     font default_font
     size 36 + mobile_ts_add * is_mobile
@@ -22,6 +26,9 @@ style default:
 style gui_text is default:
     size 42 + mobile_ts_add * is_mobile
     color "#00000066"
+
+translate jp style gui_text:
+    size 32 + mobile_ts_add * is_mobile
 
 style gui_button_text is gui_text:
     hover_color "#000"
@@ -75,6 +82,9 @@ style say_label:
     size 40
     bold True
 
+translate jp style say_label:
+    size 36
+
 style say_namebox:
     xpos -0.019
     xsize 0.33
@@ -97,6 +107,9 @@ style say_window:
 style say_dialogue is default:
     size 42 + (mobile_ts_add - 6) * is_mobile
     line_spacing 2
+
+translate jp style say_dialogue:
+    size 38 + (mobile_ts_add - 6) * (renpy.android or renpy.ios)
 
 style doublespeak_namebox1 is say_namebox:
     xpos 0.008
@@ -184,11 +197,17 @@ style game_menu_vbox is vbox:
     yalign 0.56
     spacing 12
 
+translate jp style game_menu_vbox:
+    spacing 8
+
 style game_menu_button is gui_button:
     xalign 0.5
 
 style game_menu_button_text is gui_button_text:
     size 54 + mobile_ts_add * is_mobile
+
+translate jp style game_menu_button_text:
+    size 42 + mobile_ts_add * (renpy.android or renpy.ios)
 
 style prefs_interface is interface_frame
 
@@ -331,6 +350,12 @@ style centered_text:
     size (36 + mobile_ts_add * is_mobile) * 1.5
     outlines [ (1,"#000C") ]
 
+translate jp style centered_text:
+    size (32 + (mobile_ts_add - 6) * is_mobile) * 1.5
+
 style alive_text:
     size 42 + (mobile_ts_add - 6) * is_mobile
     outlines []
+
+translate jp style alive_text:
+    size 38 + (mobile_ts_add - 6) * is_mobile

@@ -194,7 +194,10 @@ init python:
                 if word.alpha < 255:
                     word.alpha = min(((st - i * self.timeperword) / self.fadeintime) * 255, 255)
 
-                    disp = Text(word.payload, size=word.size, color=(0, 0, 0, word.alpha), font="font/gentium.ttf")
+                    if _preferences.language == "jp":
+                        disp = Text(word.payload, size=word.size, color=(0, 0, 0, word.alpha), font="font/NotoSansJP-VariableFont_wght.ttf")
+                    else:
+                        disp = Text(word.payload, size=word.size, color=(0, 0, 0, word.alpha), font="font/gentium.ttf")
 
                     render = renpy.render(disp, width, height, st, at)
 
@@ -356,6 +359,7 @@ ykhima
 DrSimp
 ZenMaruki
 Valdemar «Vavan» Andrade
+Nikolai «neparij» Laptev
 """), color="#ffffff", text_align=0.5, size=47, xalign=0.8)
 
 image credits_text = Text(_("""
@@ -460,6 +464,7 @@ LuK1337
 ykhima
 DrSimp
 ZenMaruki
+Nikolai «neparij» Laptev
 """), color="#ffffff", text_align=0.5, size=47, xalign=0.5)
 
 image emi credits = Movie(play="video/credits_emi.mkv", loop=False)
