@@ -1,0 +1,102 @@
+when:
+  event: tag
+
+depends_on:
+  - build
+
+variables:
+  .ssh_setup_start_agent: &ssh_setup_start_agent eval $(ssh-agent -s)
+  .ssh_setup_import_key: &ssh_setup_import_key echo "$${CI_PRIVATE_SSH_KEY}" | ssh-add -
+  .ssh_setup_configure: &ssh_setup_configure mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+  .install_packages: &install_packages apk update && apk add openssh-client gettext
+
+steps:
+  prepare-env:
+    image: alpine:latest
+    commands:
+      - apk update && apk add git
+      - chmod +x ./scripts/*.sh
+      - ./scripts/prepare_env.sh
+
+  prepare-storage:
+    image: alpine:latest
+    environment:
+      CI_SSH_HOST:
+        from_secret: storage_ssh_host
+      CI_SSH_PORT:
+        from_secret: storage_ssh_port
+      CI_SSH_USER:
+        from_secret: storage_ssh_user
+      CI_PRIVATE_SSH_KEY:
+        from_secret: storage_ssh_key
+      CI_STORAGE_PREFIX:
+        from_secret: storage_directory_prefix
+    commands:
+      - export $(grep -v '^#' .env | xargs)
+      - *install_packages
+      - *ssh_setup_start_agent
+      - *ssh_setup_import_key
+      - *ssh_setup_configure
+      - mkdir ./dists/
+      - scp -P $${CI_SSH_PORT} "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}/web.zip" ./dists/
+    depends_on:
+      - prepare-env
+
+  upload-web:
+    image: alpine:latest
+    environment:
+      CI_SSH_HOST:
+        from_secret: web_ssh_host
+      CI_SSH_PORT:
+        from_secret: web_ssh_port
+      CI_SSH_USER:
+        from_secret: web_ssh_user
+      CI_DESTINATION_DIRECTORY:
+        from_secret: web_destination_directory
+      CI_PRIVATE_SSH_KEY:
+        from_secret: web_ssh_key
+    commands:
+      - export $(grep -v '^#' .env | xargs)
+      - *install_packages
+      - *ssh_setup_start_agent
+      - *ssh_setup_import_key
+      - *ssh_setup_configure
+      - scp -P $${CI_SSH_PORT} -r ./dists/web.zip $${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_DESTINATION_DIRECTORY}/
+      - ssh -p $${CI_SSH_PORT} $${CI_SSH_USER}@$${CI_SSH_HOST} -- "mkdir $${CI_DESTINATION_DIRECTORY}/$${CI_KSRE_VERSION} && cd $${CI_DESTINATION_DIRECTORY}/$${CI_KSRE_VERSION} && unzip ../web.zip && rm ../web.zip"
+    depends_on:
+      - prepare-storage
+
+  render_caddy_config:
+    image: alpine:latest
+    environment:
+      CI_SSH_HOST:
+        from_secret: web_ssh_host
+      CI_SSH_PORT:
+        from_secret: web_ssh_port
+      CI_SSH_USER:
+        from_secret: web_ssh_user
+      CI_DESTINATION_DIRECTORY:
+        from_secret: web_destination_directory
+      CI_PRIVATE_SSH_KEY:
+        from_secret: web_ssh_key
+      DOMAIN_NAME:
+        from_secret: web_domain_name
+      TLS_EMAIL:
+        from_secret: web_tls_email
+      CADDY_ROOT_PREFIX:
+        from_secret: web_caddy_root_prefix
+      LOG_PATH:
+        from_secret: web_log_path
+      CADDY_CONFIG_PREFIX:
+        from_secret: caddy_config_prefix
+    commands:
+      - export $(grep -v '^#' .env | xargs)
+      - *install_packages
+      - *ssh_setup_start_agent
+      - *ssh_setup_import_key
+      - *ssh_setup_configure
+      - export CADDY_ROOT=$${CADDY_ROOT_PREFIX}/$${CI_KSRE_VERSION}/
+      - cat caddy.conf.template | envsubst > $${DOMAIN_NAME}.conf
+      - scp -P $${CI_SSH_PORT} $${DOMAIN_NAME}.conf $${CI_SSH_USER}@$${CI_SSH_HOST}:$${CADDY_CONFIG_PREFIX}/
+    depends_on:
+      - upload-web

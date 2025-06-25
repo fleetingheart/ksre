@@ -10555,12 +10555,12 @@ translate es a4_rin_proof_of_existence_a1f16ab2:
     nb "Aunque la existencia seguirá adelante aun si te olvidas de ella por un tiempo, es bueno aprovechar el día por lo menos una vez cada tanto."
 
 # game/script-a4-rin.rpy:5510
-translate es a4_rin_proof_of_existence_0799c3cd:
+# translate es a4_rin_proof_of_existence_0799c3cd:
 
-    # nvl clear
-    # centered_alive "That way… you can confirm that you are, in fact…"
-    nvl clear
-    centered_alive "De ese modo… puedes confirmar que estás, de hecho…"
+#     # nvl clear
+#     # centered_alive "That way… you can confirm that you are, in fact…"
+#     nvl clear
+#     centered_alive "De ese modo… puedes confirmar que estás, de hecho…"
 
 # game/script-a4-rin.rpy:5532
 translate es a4_rin_proof_of_existence_7460cbe0:

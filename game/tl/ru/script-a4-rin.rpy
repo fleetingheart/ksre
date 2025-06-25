@@ -10554,13 +10554,13 @@ translate ru a4_rin_proof_of_existence_a1f16ab2:
     # nb "Even though existence will go on even if you forget about it for a while, it's good to seize the day at least every once in a while."
     nb "Хотя жизнь продолжается, даже если мы об этом ненадолго забываем, всё равно ловить момент порой оказывается неплохо."
 
-# game/script-a4-rin.rpy:5503
-translate ru a4_rin_proof_of_existence_0799c3cd:
+# # game/script-a4-rin.rpy:5503
+# translate ru a4_rin_proof_of_existence_0799c3cd:
 
-    # nvl clear
-    # centered_alive "That way… you can confirm that you are, in fact…"
-    nvl clear
-    centered_alive "Ведь так… ты можешь доказать, что ты по-настоящему…"
+#     # nvl clear
+#     # centered_alive "That way… you can confirm that you are, in fact…"
+#     nvl clear
+#     centered_alive "Ведь так… ты можешь доказать, что ты по-настоящему…"
 
 # game/script-a4-rin.rpy:5569
 translate ru a4_rin_proof_of_existence_7460cbe0:
@@ -12796,5 +12796,5 @@ translate ru strings:
 
     # game/script-a4-rin.rpy:5559
     old "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
-    new "Ведь так… ты можешь доказать, что ты по-настоящему…  {color=#fff}живёшь.{/color}"
+    new "Ведь так… ты можешь доказать, что ты по-настоящему… {color=#fff}живёшь.{/color}"
 

@@ -10554,13 +10554,13 @@ translate fr a4_rin_proof_of_existence_a1f16ab2:
     # nb "Even though existence will go on even if you forget about it for a while, it's good to seize the day at least every once in a while."
     nb "Même si cette existence continuera même si on l'oublie pendant un moment, il est bon de vivre le jour au moins une fois de temps en temps."
 
-# game/script-a4-rin.rpy:5503
-translate fr a4_rin_proof_of_existence_0799c3cd:
+# # game/script-a4-rin.rpy:5503
+# translate fr a4_rin_proof_of_existence_0799c3cd:
 
-    # nvl clear
-    # centered_alive "That way… you can confirm that you are, in fact…"
-    nvl clear
-    centered_alive "De cette façon... tu peux confirmer que tu es, vraiment..."
+#     # nvl clear
+#     # centered_alive "That way… you can confirm that you are, in fact…"
+#     nvl clear
+#     centered_alive "De cette façon... tu peux confirmer que tu es, vraiment..."
 
 # game/script-a4-rin.rpy:5529
 translate fr a4_rin_proof_of_existence_7460cbe0:

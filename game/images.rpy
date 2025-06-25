@@ -214,35 +214,35 @@ init python:
             return rv
 
     def roofcomposite(comppath):
-        return im.Composite(
-            None,
+        return Composite(
+            (1920, 1080),
             (0, 0), "event/rin_roof/rin_roof_boredom.png",
             (720, 300), comppath)
 
     def rin_trueend_comp(list_in):
-        baselist = [None, (0, 0), "event/rin_trueend/rin_trueend_gone.png"]
+        baselist = [(1920, 1080), (0, 0), "event/rin_trueend/rin_trueend_gone.png"]
         for item in list_in:
             baselist.append((0, 0))
             baselist.append("event/rin_trueend/rin_trueend_" + item + ".png")
-        return im.Composite(*baselist)
+        return Composite(*baselist)
 
     def rin_h_comp(im_in, is_close=False):
         closer = ""
         if is_close:
             closer = "_close"
-        return im.Composite(
-            None,
+        return Composite(
+            (1920, 1080),
             (0, 0), "event/rin_h/rin_h_closed"+closer+".png",
             (0, 0), "event/rin_h/rin_h_"+im_in+closer+".png")
 
     def traincomposite(comppath):
-        return im.Composite(
-            None,
+        return Composite(
+            (1920, 1080),
             (0, 0), "event/lilly_train/lilly_trainride_ni_norm.png",
             (0, 0), comppath)
 
     def silhouette(disp, color=0):
-        return im.Map(disp, rmap=im.ramp(color, color), gmap=im.ramp(color, color), bmap=im.ramp(color, color))
+        return Transform(disp, matrixcolor=TintMatrix((color, color, color)))
 
     def rainAnim(my_offset=0.0, zoom=1.0, alpha=1.0):
         return rainAnim_tf(my_offset, zoom, alpha)
@@ -953,8 +953,8 @@ image ev rin_wet_towel_down = "event/rin_wet/rin_wet_towel_down.png"
 image ev rin_wet_towel_touch = "event/rin_wet/rin_wet_towel_touch.png"
 
 image ev rin_pair_base = "event/rin_pair/rin_pair_base.png"
-image ev rin_pair_base_clothes = im.Composite(
-    None,
+image ev rin_pair_base_clothes = Composite(
+    (1920, 1080),
     (0, 0), "event/rin_pair/rin_pair_base.png",
     (0, 0), "event/rin_pair/rin_pair_hisao_clothes.png")
 
@@ -1084,8 +1084,8 @@ image train_scenery_fg:
     repeat
 
 image evfg lilly_trainride = "event/lilly_train/lilly_trainride.png"
-image evfg lilly_trainride_smiles = im.Composite(
-    None,
+image evfg lilly_trainride_smiles = Composite(
+    (1920, 1080),
     (0, 0), "event/lilly_train/lilly_trainride.png",
     (0, 0), "event/lilly_train/lilly_trainride_smile.png",
     (0, 0), "event/lilly_train/lilly_trainride_hanasmile.png")
@@ -1231,26 +1231,26 @@ image ev hanako_presents2 = "event/hanako_presents2.png"
 
 image evbg hanako_breakdown = "event/hanako_breakdown/hanako_breakdown_bg.png"
 image evfg hanako_breakdown_down = "event/hanako_breakdown/hanako_breakdown_down.png"
-image evfg hanako_breakdown_up = im.Composite(
-    None,
+image evfg hanako_breakdown_up = Composite(
+    (1920, 1080),
     (0, 0),"event/hanako_breakdown/hanako_breakdown_down.png",
     (1411, 141),"event/hanako_breakdown/hanako_breakdown_up.png")
-image evfg hanako_breakdown_closed = im.Composite(
-    None,
+image evfg hanako_breakdown_closed = Composite(
+    (1920, 1080),
     (0, 0),"event/hanako_breakdown/hanako_breakdown_down.png",
     (1411, 141),"event/hanako_breakdown/hanako_breakdown_closed.png")
 
-image evul hanako_breakdown_down = im.Composite(
-    None,
+image evul hanako_breakdown_down = Composite(
+    (1920, 1080),
     (0, 0), "event/hanako_breakdown/hanako_breakdown_bg.png",
     (0, 0),"event/hanako_breakdown/hanako_breakdown_down.png")
-image evul hanako_breakdown_up = im.Composite(
-    None,
+image evul hanako_breakdown_up = Composite(
+    (1920, 1080),
     (0, 0), "event/hanako_breakdown/hanako_breakdown_bg.png",
     (0, 0),"event/hanako_breakdown/hanako_breakdown_down.png",
     (1411, 141),"event/hanako_breakdown/hanako_breakdown_up.png")
-image evul hanako_breakdown_closed = im.Composite(
-    None,
+image evul hanako_breakdown_closed = Composite(
+    (1920, 1080),
     (0, 0), "event/hanako_breakdown/hanako_breakdown_bg.png",
     (0, 0),"event/hanako_breakdown/hanako_breakdown_down.png",
     (1411, 141),"event/hanako_breakdown/hanako_breakdown_closed.png")
@@ -1300,8 +1300,8 @@ image ev hanako_billiards_timid_med:
     "event/hanako_billiards_timid.png"
     yanchor 0.0 ypos 0.0 xalign 1.0
 
-image evul hanako_emptyclassroom = Transform(im.Composite(
-    None,
+image evul hanako_emptyclassroom = Transform(Composite(
+    (1920, 1080),
     (0, 0), "event/hanako_emptyclassroom_bg.png",
     (0, 0), "event/hanako_emptyclassroom_fg.png"), zoom=0.8)
 
@@ -1367,33 +1367,33 @@ image ev shizuconfess_closed = "event/shizu_yukata/shizuconfess_closed.png"
 
 image evbg kenji_glasses = "event/kenji_glasses/kenji_glasses_bg.png"
 image evmg kenji_glasses_normal = "event/kenji_glasses/kenji_glasses_mg.png"
-image evmg kenji_glasses_frown = im.Composite(
-    None,
+image evmg kenji_glasses_frown = Composite(
+    (2400, 1800),
     (0, 0), "event/kenji_glasses/kenji_glasses_mg.png",
     (960, 456), "event/kenji_glasses/kenji_glasses_frown.png")
-image evmg kenji_glasses_closed = im.Composite(
-    None,
+image evmg kenji_glasses_closed = Composite(
+    (2400, 1800),
     (0, 0), "event/kenji_glasses/kenji_glasses_mg.png",
     (960, 456), "event/kenji_glasses/kenji_glasses_closed.png")
 image evfg kenji_glasses = "event/kenji_glasses/kenji_glasses_fg.png"
 
-image evul kenji_glasses_normal = Transform(im.Composite(
-    None,
+image evul kenji_glasses_normal = Transform(Composite(
+    (2400, 1800),
     (0, 0), "event/kenji_glasses/kenji_glasses_bg.png",
     (0, 0), "event/kenji_glasses/kenji_glasses_mg.png",
-    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), zoom=0.8)
-image evul kenji_glasses_frown = Transform(im.Composite(
-    None,
+    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), zoom=0.8, yalign=0.5)
+image evul kenji_glasses_frown = Transform(Composite(
+    (2400, 1800),
     (0, 0), "event/kenji_glasses/kenji_glasses_bg.png",
     (0, 0), "event/kenji_glasses/kenji_glasses_mg.png",
     (960, 456), "event/kenji_glasses/kenji_glasses_frown.png",
-    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), zoom=0.8)
-image evul kenji_glasses_closed = Transform(im.Composite(
-    None,
+    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), zoom=0.8, yalign=0.5)
+image evul kenji_glasses_closed = Transform(Composite(
+    (2400, 1800),
     (0, 0), "event/kenji_glasses/kenji_glasses_bg.png",
     (0, 0), "event/kenji_glasses/kenji_glasses_mg.png",
     (960, 456), "event/kenji_glasses/kenji_glasses_closed.png",
-    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), zoom=0.8)
+    (0, 0), "event/kenji_glasses/kenji_glasses_fg.png"), zoom=0.8, yalign=0.5)
 
 image ev shizutanabata = "event/shizu_yukata/shizutanabata.png"
 
@@ -1412,35 +1412,35 @@ image ev shizu_fishing_ah = "event/shizu_fishing_ah.png"
 image ev shizu_couch = "event/shizu_couch.png"
 
 image ev shizu_roof = "event/shizu_roof/shizu_roof.png"
-image ev shizu_roof_towardsangry = im.Composite(
-    None,
+image ev shizu_roof_towardsangry = Composite(
+    (1920, 1080),
     (0, 0), "event/shizu_roof/shizu_roof.png",
     (0, 0), "event/shizu_roof/shizu_roof_towardsangry.png")
-image ev shizu_roof_towardsnormal = im.Composite(
-    None,
+image ev shizu_roof_towardsnormal = Composite(
+    (1920, 1080),
     (0, 0),  "event/shizu_roof/shizu_roof.png",
     (0, 0), "event/shizu_roof/shizu_roof_towardsnormal.png")
-image ev shizu_roof_smile = im.Composite(
-    None,
+image ev shizu_roof_smile = Composite(
+    (1920, 1080),
     (0, 0),  "event/shizu_roof/shizu_roof.png",
     (0, 0), "event/shizu_roof/shizu_roof_smile.png")
 
-image ev shizu_roof2 = im.Composite(
-    None,
+image ev shizu_roof2 = Composite(
+    (1920, 1080),
     (0, 0), "event/shizu_roof/shizu_roof.png",
     (0, 0), "event/shizu_roof/shizu_roof_hisao2.png")
-image ev shizu_roof2_towardsangry = im.Composite(
-    None,
+image ev shizu_roof2_towardsangry = Composite(
+    (1920, 1080),
     (0, 0), "event/shizu_roof/shizu_roof.png",
     (0, 0), "event/shizu_roof/shizu_roof_hisao2.png",
     (0, 0), "event/shizu_roof/shizu_roof_towardsangry.png")
-image ev shizu_roof2_towardsnormal = im.Composite(
-    None,
+image ev shizu_roof2_towardsnormal = Composite(
+    (1920, 1080),
     (0,0),  "event/shizu_roof/shizu_roof.png",
     (0, 0), "event/shizu_roof/shizu_roof_hisao2.png",
     (0, 0), "event/shizu_roof/shizu_roof_towardsnormal.png")
-image ev shizu_roof2_smile = im.Composite(
-    None,
+image ev shizu_roof2_smile = Composite(
+    (1920, 1080),
     (0,0), "event/shizu_roof/shizu_roof.png",
     (0, 0), "event/shizu_roof/shizu_roof_hisao2.png",
     (0, 0), "event/shizu_roof/shizu_roof_smile.png")
@@ -1796,7 +1796,7 @@ image letterbox = Composite(
     (0, 525), Solid("#000", ymaximum=75))
 
 image snowfg = SnowBlossom("vfx/snowflake.png", start=3.0, count=20, border=50, xspeed=(20, 50), yspeed=(216, 324), fast=True)
-image snowbg = SnowBlossom(im.Scale("vfx/snowflake.png", 5, 5), count=30, yspeed=(144, 216), start=3.0, border=50, xspeed=(20, 50), fast=True)
+image snowbg = SnowBlossom(Transform("vfx/snowflake.png", size=(5, 5)), count=30, yspeed=(144, 216), start=3.0, border=50, xspeed=(20, 50), fast=True)
 image snow = Composite(
     (1920, 1080),
     (0, 0), "snowbg",
@@ -1805,7 +1805,7 @@ image snow = Composite(
 image sakura = SnowBlossom(anim.Filmstrip("vfx/sakura.png", (20, 20), (2, 1), .25), xspeed=(150, 100), yspeed=(135, 270), count=80, fast=True)
 image hospitalmask = "vfx/hospitalroommask_new.png"
 
-image dandeliontbg = SnowBlossom(im.Scale("vfx/dandelion.png",13,16), count=20, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=False, horizontal=True)
+image dandeliontbg = SnowBlossom(Transform("vfx/dandelion.png", size=(13, 16)), count=20, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=False, horizontal=True)
 image dandeliontfg = SnowBlossom("vfx/dandelion.png", count=10, border=25, xspeed=(100, 200), yspeed=(-72, -27), start=8.0, fast=False, horizontal=True)
 image dandelions thin = Composite(
     (1920, 1080),
@@ -1820,7 +1820,7 @@ image kslogo words = "gui/logo/large.png"
 
 image credits mask = "gui/bg/roll_mask.png"
 
-image dandeliondbg = SnowBlossom(im.Scale("vfx/dandelion.png", 13, 16), count=40, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=True, horizontal=True)
+image dandeliondbg = SnowBlossom(Transform("vfx/dandelion.png", size=(13, 16)), count=40, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=True, horizontal=True)
 image dandeliondfg = SnowBlossom("vfx/dandelion.png", count=20, border=25, xspeed=(100, 200), yspeed=(-72, -27), start=8.0, fast=True, horizontal=True)
 image dandelions dense = Composite(
     (1920, 1080),
@@ -1830,7 +1830,7 @@ image dandelions dense = Composite(
 image dandelionsbg dense = "dandeliondbg"
 image dandelionsfg dense = "dandeliondfg"
 
-image dandelions_blurbg = SnowBlossom(im.Scale("vfx/dandelion_blur.png", 13, 16), count=40, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=True, horizontal=True)
+image dandelions_blurbg = SnowBlossom(Transform("vfx/dandelion_blur.png", size=(13, 16)), count=40, border=25, xspeed=(50, 100), yspeed=(-54, -18), start=8.0, fast=True, horizontal=True)
 image dandelions_blurfg = SnowBlossom("vfx/dandelion_blur.png", count=20, border=25, xspeed=(100, 200), yspeed=(-72, -27), start=8.0, fast=True, horizontal=True)
 
 image steam:

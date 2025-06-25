@@ -1023,7 +1023,7 @@ screen accessibility():
                 textbutton _("Default") action Preference("font transform", "none")
 
                 # TODO: Do not allow "Deja Vu Sans" in current language is "jp"
-                textbutton "Deja Vu Sans" action Preference("font transform", "dejavusans")
+                textbutton "DejaVu Sans" action Preference("font transform", "dejavusans")
 
                 textbutton "OpenDyslexic" action Preference("font transform", "opendyslexic")
 
@@ -1058,7 +1058,7 @@ screen accessibility():
 
                 textbutton _("Skip hurtful adult scenes") action ToggleVariable("persistent.disable_disturbing_content", True, False)
 
-            text _("Colorblind Filter"):
+            text _("Colorblind filter"):
                 bold True
                 size bold_size
 

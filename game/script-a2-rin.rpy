@@ -5726,7 +5726,7 @@ label a2_rin:
 
         show ev rin_rain_away_close behind rain at top
         show ovl rin_rain_hisaotowards_close behind rain:
-            xalign 1.0 xpos 1.0
+            xalign 1.0
         with charachangeev
 
         "I feel that mood in myself too, enhanced by her words."

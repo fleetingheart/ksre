@@ -1,0 +1,11 @@
+${DOMAIN_NAME} {
+    tls ${TLS_EMAIL}
+
+    root * ${CADDY_ROOT}
+    file_server
+
+    log {
+        output file ${LOG_PATH}
+        format json
+    }
+}

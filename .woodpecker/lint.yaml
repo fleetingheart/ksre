@@ -1,0 +1,23 @@
+when:
+  event: [push, tag]
+
+labels:
+  platform: linux/arm64
+
+steps:
+  prepare-env:
+    image: alpine:latest
+    commands:
+      - apk update && apk add git
+      - chmod +x ./scripts/*.sh
+      - ./scripts/prepare_env.sh
+
+  lint:
+    image: source.hodakov.me/containers/renkit:latest
+    environment:
+      SDL_AUDIODRIVER: dummy
+      SDL_VIDEODRIVER: dummy
+    commands:
+      - export $(grep -v '^#' .env | xargs)
+      - renutil launch -v 8.3.7 -d . -- lint --error-code --no-orphan-tl
+    failure: ignore
