@@ -570,8 +570,8 @@ drugs["ataxia"] = "失調症"
 drugs["asthma"] = "喘息"
 
 # Append KV to translates
-translates["“"] = "『"
-translates["”"] = "』"
+translates["“"] = "「"
+translates["”"] = "」"
 translates["(replay)"] = "(リプレイ)"
 translates["No scene"] = "シーンなし"
 translates["Nothing"] = "何もない"
@@ -616,9 +616,9 @@ for i in range(len(tl)):
         else:
             print(f"missing: {tl_key}")
             exit(1)
-
-tl.append("\n")
-for drug_key in drugs.keys():
-    tl.append(f"{pre}drug \"{drug_key}\" \"{drugs[drug_key]}\"\n")
+#
+# tl.append("\n")
+# for drug_key in drugs.keys():
+#     tl.append(f"{pre}drug \"{drug_key}\" \"{drugs[drug_key]}\"\n")
 
 open("tl-" + sys.argv[1], "w", encoding="utf8").write("".join(tl))

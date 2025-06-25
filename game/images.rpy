@@ -195,7 +195,7 @@ init python:
                     word.alpha = min(((st - i * self.timeperword) / self.fadeintime) * 255, 255)
 
                     if _preferences.language == "jp":
-                        disp = Text(word.payload, size=word.size, color=(0, 0, 0, word.alpha), font="font/NotoSansJP-VariableFont_wght.ttf")
+                        disp = Text(word.payload, size=word.size, color=(0, 0, 0, word.alpha), font="font/VL-PGothic-Regular.ttf")
                     else:
                         disp = Text(word.payload, size=word.size, color=(0, 0, 0, word.alpha), font="font/gentium.ttf")
 

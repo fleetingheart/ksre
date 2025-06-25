@@ -17,7 +17,7 @@ translate zh_hans python:
     gui.text_size = 36 + mobile_ts_add * is_mobile
 
 translate jp python:
-    default_font = FontGroup().add("font/NotoSansJP-VariableFont_wght.ttf", 0x2e80, 0xffff).add("font/playtime.ttf", 0x0000, 0xffff)
+    default_font = FontGroup().add("font/VL-PGothic-Regular.ttf", 0x2e80, 0xffff).add("font/playtime.ttf", 0x0000, 0xffff)
 
 style default:
     font default_font
@@ -82,9 +82,6 @@ style say_label:
     size 40
     bold True
 
-translate jp style say_label:
-    size 36
-
 style say_namebox:
     xpos -0.019
     xsize 0.33
@@ -107,9 +104,6 @@ style say_window:
 style say_dialogue is default:
     size 42 + (mobile_ts_add - 6) * is_mobile
     line_spacing 2
-
-translate jp style say_dialogue:
-    size 38 + (mobile_ts_add - 6) * (renpy.android or renpy.ios)
 
 style doublespeak_namebox1 is say_namebox:
     xpos 0.008
@@ -350,12 +344,6 @@ style centered_text:
     size (36 + mobile_ts_add * is_mobile) * 1.5
     outlines [ (1,"#000C") ]
 
-translate jp style centered_text:
-    size (32 + (mobile_ts_add - 6) * is_mobile) * 1.5
-
 style alive_text:
     size 42 + (mobile_ts_add - 6) * is_mobile
     outlines []
-
-translate jp style alive_text:
-    size 38 + (mobile_ts_add - 6) * is_mobile

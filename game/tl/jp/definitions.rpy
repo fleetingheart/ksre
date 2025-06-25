@@ -1876,11 +1876,11 @@ translate jp strings:
 
     # game/definitions.rpy:733
     old "“"
-    new "『"
+    new "「"
 
     # game/definitions.rpy:733
     old "”"
-    new "』"
+    new "」"
 
     # game/definitions.rpy:737
     old "Hisao"
@@ -2001,3 +2001,4 @@ translate jp strings:
     # game/definitions.rpy:779
     old "Woman with braid"
     new "三つ編みの女性"
+
