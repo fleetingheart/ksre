@@ -154,6 +154,9 @@ translate es strings:
     old "Japanese"
     new "Japonés"
 
+    old "Italian"
+    new "Italiana"
+
     # game/screens.rpy:376
     old "Simplified Chinese"
     new "Chino Simplificado"
@@ -295,5 +298,5 @@ translate es strings:
     new "Desactivar transiciones de expresión"
 
     # game/screens.rpy:841
-    old "Completion: "
-    new "Completado: "
+    old "Completion: [completion_percentage]"
+    new "Completado: [completion_percentage]"

@@ -150,6 +150,9 @@ translate ru strings:
     old "Japanese"
     new "Японский"
 
+    old "Italian"
+    new "Итальянский"
+
     # game/screens.rpy:401
     old "Playtime"
     new "Наиграно"

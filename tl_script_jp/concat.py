@@ -8,6 +8,7 @@ tl = open(sys.argv[2], "r").readlines()
 
 if len(og) != len(tl):
     print(f"Error: The number of original lines ({len(og)}) does not match the number of translated lines ({len(tl)}).")
+    print(f"Lines remains to solve: {abs(len(og) - len(tl))}", flush=True)
 
     exp_block = re.compile(r"\A(?:(?P<actor>[a-zA-Z0-9_]+) \".*)|.*\Z")
     with open(sys.argv[1], "r") as og_f, open(sys.argv[2], "r") as tl_f:

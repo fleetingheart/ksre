@@ -355,6 +355,7 @@ screen language():
             textbutton _("English") action Language(None)
             textbutton _("Russian") action Language("ru")
             textbutton _("French") action Language("fr")
+            textbutton _("Italian") action Language("it")
             textbutton _("Spanish") action Language("es")
             textbutton _("German") action Language("de")
             textbutton _("Japanese") action Language("jp")
@@ -838,7 +839,7 @@ screen library(page=0):
 
         null height 16
 
-        text _("Completion: ") + completion_percentage
+        text __("Completion: [completion_percentage]")
 
         textbutton _("Return"):
             style "return_button"
