@@ -1,0 +1,10 @@
+video: ../game/video/tc_act3_rin.mkv
+segments:
+  - mask_from: assets/tc_act3_rin_mask_0.png
+    mask_to: assets/tc_act3_rin_mask_0.png
+    start_frame: 205
+    end_frame: 360
+  - mask_from: assets/tc_act3_rin_mask_0.png
+    mask_to: assets/tc_act3_rin_mask_1.png
+    start_frame: 361
+    end_frame: 445

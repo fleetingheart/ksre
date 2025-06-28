@@ -1,0 +1,55 @@
+audio_source: ../game/video/tc_act3_rin.mkv
+output: ../game/video/tc_act3_rin_jp.mkv
+segments:
+  - font: ../game/font/playtime_bold.ttf
+    size: 52
+    text: "Act 3:"
+    align: center
+    colors:
+      - color_from: [ 65, 55, 40, 0 ]
+        color_to: [ 65, 55, 40, 255 ]
+        start_frame: 205
+        end_frame: 230
+      - color_from: [ 65, 55, 40, 255 ]
+        color_to: [ 65, 55, 40, 0 ]
+        start_frame: 361
+        end_frame: 445
+    effects:
+      - blur_from: 16
+        blur_to: 0
+        start_frame: 205
+        end_frame: 230
+      - blur_from: 0
+        blur_to: 16
+        start_frame: 361
+        end_frame: 445
+    position_from: [ 0.51, 0.2 ]
+    position_to: [ 0.49, 0.2 ]
+    start_frame: 205
+    end_frame: 445
+  - font: ../game/font/VL-PGothic-Regular.ttf
+    size: 52
+    text: "たんぽぽ"
+    align: center
+    colors:
+      - color_from: [ 65, 55, 40, 0 ]
+        color_to: [ 65, 55, 40, 255 ]
+        start_frame: 205
+        end_frame: 230
+      - color_from: [ 65, 55, 40, 255 ]
+        color_to: [ 65, 55, 40, 0 ]
+        start_frame: 361
+        end_frame: 445
+    effects:
+      - blur_from: 16
+        blur_to: 0
+        start_frame: 205
+        end_frame: 230
+      - blur_from: 0
+        blur_to: 16
+        start_frame: 361
+        end_frame: 445
+    position_from: [ 0.49, 0.275 ]
+    position_to: [ 0.51, 0.275 ]
+    start_frame: 205
+    end_frame: 445
