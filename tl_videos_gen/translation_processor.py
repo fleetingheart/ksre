@@ -13,6 +13,12 @@ import subprocess
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import argparse
+from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
+import multiprocessing
+
+
+# Global font cache to avoid reloading fonts
+_font_cache = {}
 
 
 def load_config(config_path):
@@ -30,6 +36,18 @@ def get_frame_files(frames_dir):
     """Get sorted list of frame files."""
     frame_files = list(frames_dir.glob('frame_*.png'))
     return sorted(frame_files)
+
+
+def get_cached_font(font_path, font_size):
+    """Get font from cache or load and cache it."""
+    cache_key = (font_path, font_size)
+    if cache_key not in _font_cache:
+        try:
+            _font_cache[cache_key] = ImageFont.truetype(font_path, font_size)
+        except (OSError, IOError):
+            print(f"Warning: Could not load font {font_path}, using default")
+            _font_cache[cache_key] = ImageFont.load_default()
+    return _font_cache[cache_key]
 
 
 def interpolate_value(value_from, value_to, alpha):
@@ -109,25 +127,13 @@ def get_interpolated_effect(effects_config, effect_type, frame_num):
     return 0  # Default value
 
 
-def apply_blur_to_text(text_image, blur_radius):
-    """Apply gaussian blur to text image."""
-    if blur_radius <= 0:
-        return text_image
-    
-    return text_image.filter(ImageFilter.GaussianBlur(radius=blur_radius))
-
-
 def create_text_layer(text, font_path, font_size, color, position, frame_size, align='center', blur_radius=0):
     """Create a text layer with specified properties."""
-    # Supersampling factor for smoother text rendering
+    # High quality supersampling for smooth animation
     supersample = 4
     
-    try:
-        # Load font with increased size for supersampling
-        font = ImageFont.truetype(font_path, font_size * supersample)
-    except (OSError, IOError):
-        print(f"Warning: Could not load font {font_path}, using default")
-        font = ImageFont.load_default()
+    # Get cached font
+    font = get_cached_font(font_path, font_size * supersample)
     
     # Create a transparent layer for text at higher resolution
     high_res_size = (frame_size[0] * supersample, frame_size[1] * supersample)
@@ -167,8 +173,10 @@ def create_text_layer(text, font_path, font_size, color, position, frame_size, a
     return text_layer
 
 
-def process_frame(frame_path, segments_config, frame_num, output_path):
-    """Process a single frame by adding text according to configuration."""
+def process_frame_task(args):
+    """Process a single frame - designed for multiprocessing."""
+    frame_path, segments_config, frame_num, output_path = args
+    
     try:
         # Load the frame
         frame = Image.open(frame_path).convert('RGBA')
@@ -215,13 +223,20 @@ def process_frame(frame_path, segments_config, frame_num, output_path):
             # Composite text layer onto frame
             frame = Image.alpha_composite(frame, text_layer)
         
-        # Save processed frame
-        frame.save(output_path, 'PNG')
+        # Save processed frame with optimized settings
+        frame.save(output_path, 'PNG', optimize=True)
+        return True
         
     except Exception as e:
         print(f"Error processing frame {frame_path}: {e}")
         # In case of error, copy original frame
         shutil.copy2(frame_path, output_path)
+        return False
+
+
+def process_frame(frame_path, segments_config, frame_num, output_path):
+    """Process a single frame by adding text according to configuration."""
+    return process_frame_task((frame_path, segments_config, frame_num, output_path))
 
 
 def process_frames(config, frames_dir, output_dir):
@@ -241,22 +256,81 @@ def process_frames(config, frames_dir, output_dir):
     
     segments_config = config.get('segments', [])
     if not segments_config:
-        print("No text segments found in configuration")
+        print("No text segments found in configuration - copying all frames")
+        # If no segments, just copy all frames using threading
+        def copy_task(frame_file):
+            output_path = output_dir / frame_file.name
+            shutil.copy2(frame_file, output_path)
+        
+        with ThreadPoolExecutor(max_workers=multiprocessing.cpu_count()) as executor:
+            list(executor.map(copy_task, frame_files))
         return
     
-    # Process each frame
-    processed = 0
+    # Pre-calculate which frames need text processing
+    frames_with_text = set()
+    for segment in segments_config:
+        start_frame = segment['start_frame']
+        end_frame = segment['end_frame']
+        for frame_num in range(start_frame, end_frame + 1):
+            frames_with_text.add(frame_num)
+    
+    print(f"Frames requiring text processing: {len(frames_with_text)}")
+    print(f"Frames to copy unchanged: {len(frame_files) - len(frames_with_text)}")
+    
+    # Pre-load all fonts to cache
+    print("Pre-loading fonts...")
+    unique_fonts = set()
+    for segment in segments_config:
+        unique_fonts.add((segment['font'], segment['size'] * 4))  # 4x supersample
+    
+    for font_path, font_size in unique_fonts:
+        get_cached_font(font_path, font_size)
+    print(f"Loaded {len(unique_fonts)} unique fonts")
+    
+    # Separate frames for processing vs copying
+    frames_to_process = []
+    frames_to_copy = []
+    
     for i, frame_file in enumerate(frame_files, 1):
-        frame_num = i  # Frame number starts from 1
+        frame_num = i
         output_path = output_dir / frame_file.name
         
-        process_frame(frame_file, segments_config, frame_num, output_path)
-        
-        processed += 1
-        if processed % 100 == 0:
-            print(f"Processed frames: {processed}/{len(frame_files)}")
+        if frame_num in frames_with_text:
+            frames_to_process.append((frame_file, segments_config, frame_num, output_path))
+        else:
+            frames_to_copy.append((frame_file, output_path))
     
-    print(f"Text processing completed. Total frames: {processed}")
+    processed = 0
+    text_processed = 0
+    copied = 0
+    total_frames = len(frame_files)
+    
+    # Process text frames with threading (CPU-bound but PIL has GIL, so threading works well)
+    if frames_to_process:
+        print(f"Processing {len(frames_to_process)} frames with text...")
+        with ThreadPoolExecutor(max_workers=min(16, multiprocessing.cpu_count())) as executor:
+            for success in executor.map(process_frame_task, frames_to_process):
+                text_processed += 1
+                processed += 1
+                if processed % 50 == 0 or processed == len(frames_to_process):
+                    print(f"Text processing: {text_processed}/{len(frames_to_process)} frames")
+    
+    # Copy unchanged frames with threading
+    if frames_to_copy:
+        print(f"Copying {len(frames_to_copy)} unchanged frames...")
+        def copy_task(args):
+            frame_file, output_path = args
+            shutil.copy2(frame_file, output_path)
+        
+        with ThreadPoolExecutor(max_workers=multiprocessing.cpu_count()) as executor:
+            for _ in executor.map(copy_task, frames_to_copy):
+                copied += 1
+                if copied % 100 == 0 or copied == len(frames_to_copy):
+                    print(f"Copying: {copied}/{len(frames_to_copy)} frames")
+    
+    total_processed = text_processed + copied
+    print(f"Processing completed. Total: {total_processed}/{total_frames}, Text processed: {text_processed}, Copied: {copied}")
+    print(f"Font cache size: {len(_font_cache)} fonts loaded")
 
 
 def get_video_framerate(video_path):

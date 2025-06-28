@@ -1,9 +1,9 @@
 audio_source: ../game/video/tc_act3_rin.mkv
-output: ../game/video/tc_act3_rin_it.mkv
+output: ../game/video/tc_act3_rin_ru.mkv
 segments:
-  - font: ../game/font/playtime_bold.ttf
+  - font: ../game/font/playtime.ttf
     size: 52
-    text: "Atto 3:"
+    text: "Акт 3:"
     align: center
     colors:
       - color_from: [ 65, 55, 40, 0 ]
@@ -29,7 +29,7 @@ segments:
     end_frame: 445
   - font: ../game/font/playtime.ttf
     size: 52
-    text: "Denti di Leone"
+    text: "Расстояние"
     align: center
     colors:
       - color_from: [ 65, 55, 40, 0 ]
