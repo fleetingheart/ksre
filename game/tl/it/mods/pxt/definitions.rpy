@@ -1,24 +1,24 @@
-﻿# TODO: Translation updated at 2025-06-27 23:10
+﻿# TODO: Translation updated at 2024-12-18 15:22
 
 translate it strings:
 
     # game/mods/pxt/definitions.rpy:21
     old "Act 5 Scene 1"
-    new ""
+    new "Act 5 Scene 1"
 
     # game/mods/pxt/definitions.rpy:22
     old "Close Your Eyes"
-    new ""
+    new "Close Your Eyes"
 
     # game/mods/pxt/definitions.rpy:23
     old "Moon Drops"
-    new ""
+    new "Moon Drops"
 
     # game/mods/pxt/definitions.rpy:24
     old "Walking Path"
-    new ""
+    new "Walking Path"
 
     # game/mods/pxt/definitions.rpy:25
     old "Sunbathing"
-    new ""
+    new "Sunbathing"
 
