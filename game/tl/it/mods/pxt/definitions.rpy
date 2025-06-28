@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2024-12-18 15:22
 
-translate jp strings:
+translate it strings:
 
     # game/mods/pxt/definitions.rpy:21
     old "Act 5 Scene 1"

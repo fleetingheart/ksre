@@ -154,6 +154,9 @@ translate fr strings:
     old "Japanese"
     new "Japonais"
 
+    old "Italian"
+    new "Italien"
+
     # game/screens.rpy:364
     old "Scene"
     new "Scène"
@@ -293,5 +296,5 @@ translate fr strings:
 
     # game/screens.rpy:376
     old "Simplified Chinese"
-    new "Simplified Chinese"
+    new "Chinois simplifié"
 

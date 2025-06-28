@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2024-12-18 15:16
 
-translate jp strings:
+translate it strings:
 
     # game/mods/pxt/screens.rpy:15
     old "Mods > pXt"

@@ -150,6 +150,9 @@ translate jp strings:
     old "Japanese"
     new "日本語"
 
+    old "Italian"
+    new "イタリア語"
+
     # game/screens.rpy:401
     old "Playtime"
     new "経過時間"
@@ -302,3 +305,8 @@ translate jp strings:
     old "Simplified Chinese"
     new "簡体字中国語"
 
+translate jp strings:
+
+    # game/screens.rpy:841
+    old "Completion: [completion_percentage]"
+    new "進捗率: [completion_percentage]"
