@@ -139,6 +139,9 @@ label start:
     with config.game_main_transition
     pause 2.0
 
+    $ config.skipping = False
+    $ config.allow_skipping = True
+
     call a1_monday
     call a1_tuesday
     call a1_wednesday
@@ -332,7 +335,7 @@ label credits:
 
     pause 1.0
 
-    $ config.skipping = True
+    $ config.skipping = False
     $ config.allow_skipping = True
 
     return
