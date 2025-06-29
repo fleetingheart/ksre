@@ -8,3 +8,4 @@ source venv/bin/activate
 python3 ./video_processor.py --output-dir clean_frames tc_act3_rin.yaml
 python3 ./text_processor.py --frames-dir clean_frames --output-dir tl_frames tc_act3_rin_jp.yaml
 python3 ./text_processor.py --frames-dir clean_frames --output-dir tl_frames tc_act3_rin_it.yaml
+python3 ./text_processor.py --frames-dir clean_frames --output-dir tl_frames tc_act3_rin_ru.yaml
