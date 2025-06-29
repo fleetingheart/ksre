@@ -421,9 +421,19 @@ screen file_slots():
                             hovered Function(local_saves_items.add, i)
                             unhovered Function(local_saves_items.remove, i)
                             if main_menu:
-                                action Function(renpy.load, save[0])
+                                action [
+                                    Function(setattr, config, "skipping", False),
+                                    Function(setattr, config, "allow_skipping", True),
+                                    Function(renpy.load, save[0])
+                                ]
                             else:
-                                action Show("confirm", config.intra_transition, _("Are you sure you want to\nload this save?"), Function(renpy.load, save[0]))
+                                action Show("confirm", config.intra_transition, _("Are you sure you want to\nload this save?"),
+                                    [
+                                        Function(setattr, config, "skipping", False),
+                                        Function(setattr, config, "allow_skipping", True),
+                                        Function(renpy.load, save[0])
+                                    ]
+                                )
 
                             if i in local_saves_items:
                                 background "button_scribble"
