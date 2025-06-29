@@ -18,6 +18,8 @@ The game currently supports the following languages:
 * French
 * Spanish
 * German
+* Italian
+* Japanese
 * Simplified Chinese
 
 ## Features
