@@ -288,159 +288,159 @@ translate jp strings:
 
     # game/definitions.rpy:349
     old "No Recovery"
-    new "緩やかな回復"
+    new "回復不可能"
 
     # game/definitions.rpy:349
     old "Hisao struggles to class after his hijacking by the Student Council."
-    new "心臓の動悸から回復し、久夫はようやく授業に出席する。"
-
-    # game/definitions.rpy:349
-    old "Slow Recovery"
-    new "回復不可能"
-
-    # game/definitions.rpy:349
-    old "Recovering from his heart flutter, Hisao eventually makes it to class."
-    new "False"
-
-    # game/definitions.rpy:349
-    old "No Free Lunch"
-    new "回復不可能"
-
-    # game/definitions.rpy:349
-    old "Hisao is escorted to the student council office for his first official day there."
     new "生徒会に連れ去られた後、久夫は授業に戻ろうと悪戦苦闘する。"
 
     # game/definitions.rpy:349
-    old "Foot and Mouth"
+    old "Slow Recovery"
+    new "緩やかな回復"
+
+    # game/definitions.rpy:349
+    old "Recovering from his heart flutter, Hisao eventually makes it to class."
+    new "心臓の動悸から回復し、久夫はようやく授業に出席する。"
+
+    # game/definitions.rpy:349
+    old "No Free Lunch"
     new "無料の昼食なんてない"
 
     # game/definitions.rpy:349
-    old "Emi drags Hisao to the roof to have lunch with Rin."
+    old "Hisao is escorted to the student council office for his first official day there."
     new "正式なメンバーとして初めて、久夫は生徒会室に行く。"
 
     # game/definitions.rpy:349
-    old "Mind Your Step"
+    old "Foot and Mouth"
     new "足と口"
 
     # game/definitions.rpy:349
-    old "Hisao and Lilly go shopping, meeting a very confused Rin on the way back."
+    old "Emi drags Hisao to the roof to have lunch with Rin."
     new "笑美は久夫を屋上まで連れて行き、琳と一緒に昼食をとる。"
 
     # game/definitions.rpy:349
-    old "Support"
+    old "Mind Your Step"
     new "足元に注意"
 
     # game/definitions.rpy:349
-    old "Hisao has his first Saturday lesson, complete with a talking to from Mutou."
+    old "Hisao and Lilly go shopping, meeting a very confused Rin on the way back."
     new "久夫とリリーは買い物に行き、帰り道で混乱状態の琳と会う。"
 
     # game/definitions.rpy:349
-    old "An Aesthetics"
+    old "Support"
     new "支え"
 
     # game/definitions.rpy:349
-    old "Emi finds Hisao slacking around after class and recruits him to help Rin once again."
+    old "Hisao has his first Saturday lesson, complete with a talking to from Mutou."
     new "久夫にとって初めての土曜日の授業は、武藤の説教でしめくくられる。"
 
     # game/definitions.rpy:349
-    old "Creative Pain"
+    old "An Aesthetics"
     new "美学"
 
     # game/definitions.rpy:349
-    old "Hisao meets the art teacher, Nomiya, as Rin paints her mural."
+    old "Emi finds Hisao slacking around after class and recruits him to help Rin once again."
     new "笑美は放課後に暇を持て余している久夫を見つけ、またしても琳の手伝いに駆り出す。"
 
     # game/definitions.rpy:349
-    old "Proper Exercise"
+    old "Creative Pain"
     new "産みの苦しみ"
 
     # game/definitions.rpy:349
-    old "Emi and Hisao discuss the importance of being in shape."
+    old "Hisao meets the art teacher, Nomiya, as Rin paints her mural."
     new "琳が壁画を描いている間に、久夫は美術教師の野宮と出会う。"
 
     # game/definitions.rpy:349
-    old "Sip (Part 2)"
+    old "Proper Exercise"
     new "適度な運動"
 
     # game/definitions.rpy:349
-    old "In an attempt to kill time, Hisao goes for a walk around the school."
+    old "Emi and Hisao discuss the importance of being in shape."
     new "笑美と久夫は、健康維持の大切さについて話し合う。"
 
     # game/definitions.rpy:349
-    old "Shanghaied"
+    old "Sip (Part 2)"
     new "ティータイム (その2)"
 
     # game/definitions.rpy:349
-    old "Tea, cake and competitions with Shizune and Misha at the Shanghai."
+    old "In an attempt to kill time, Hisao goes for a walk around the school."
     new "暇をつぶすため、久夫は学園の周りを散歩する。"
 
     # game/definitions.rpy:349
-    old "Quiet"
+    old "Shanghaied"
     new "上海航路"
 
     # game/definitions.rpy:349
-    old "Hanako and Hisao read books for the festival."
+    old "Tea, cake and competitions with Shizune and Misha at the Shanghai."
     new "静音とミーシャと一緒に『上海』へ。お茶、ケーキ、そして勝負。"
 
     # game/definitions.rpy:349
-    old "Don't Panic"
+    old "Quiet"
     new "お静かに"
 
     # game/definitions.rpy:349
-    old "After waking up on the day of the festival, Hisao is greeted by a ranting Kenji."
+    old "Hanako and Hisao read books for the festival."
     new "学園祭の前日、華子と久夫は読書をする。"
 
     # game/definitions.rpy:349
-    old "Is Carnival!"
+    old "Don't Panic"
     new "あわてるな"
 
     # game/definitions.rpy:349
-    old "Emi catches Hisao eating fried food and makes him accompany her as punishment."
+    old "After waking up on the day of the festival, Hisao is greeted by a ranting Kenji."
     new "学園祭当日、目を覚ました久夫はやかましく騒ぐ健二に迎えられる。"
 
     # game/definitions.rpy:349
-    old "Clouds in My Head"
-    new "時の約束"
+    old "Is Carnival!"
+    new "学園祭 !"
 
     # game/definitions.rpy:349
-    old "Hisao keeps Rin and her now-finished mural company."
-    new "リリーの屋台で骨の折れる午前を過ごした後、久夫は彼女といっしょに華子を探す。"
-
-    # game/definitions.rpy:349
-    old "Promise of Time"
-    new "ムーブメント"
-
-    # game/definitions.rpy:349
-    old "After a trying morning at her stall, Hisao takes Lilly to find Hanako."
-    new "リリーは自分の仕事を終えて、華子と久夫を上海のお茶でもてなす。"
-
-    # game/definitions.rpy:349
-    old "Unable to help Lilly at her stall, Hisao searches for Hanako at the festival."
+    old "Emi catches Hisao eating fried food and makes him accompany her as punishment."
     new "笑美は久夫が揚げ物を食べているところを捕まえ、罰として久夫にお供をさせる。"
 
     # game/definitions.rpy:349
-    old "Movement"
-    new "チェックメイト"
-
-    # game/definitions.rpy:349
-    old "Lilly finishes her duties and treats Hanako and Hisao to tea at the Shanghai."
-    new "リリーの屋台を手伝えなかった久夫は、学園祭の中で華子を探す。"
-
-    # game/definitions.rpy:349
-    old "Throwing Balls"
+    old "Clouds in My Head"
     new "私の頭の中の雲"
 
     # game/definitions.rpy:349
-    old "True to his word, Hisao spends the day with Shizune and Misha."
+    old "Hisao keeps Rin and her now-finished mural company."
     new "久夫は、琳と完成した壁画のそばで過ごす。"
 
     # game/definitions.rpy:349
-    old "The Deep End"
+    old "Promise of Time"
+    new "時の約束"
+
+    # game/definitions.rpy:349
+    old "After a trying morning at her stall, Hisao takes Lilly to find Hanako."
+    new "リリーの屋台で骨の折れる午前を過ごした後、久夫は彼女といっしょに華子を探す。"
+
+    # game/definitions.rpy:349
+    old "Unable to help Lilly at her stall, Hisao searches for Hanako at the festival."
+    new "リリーの屋台を手伝えなかった久夫は、学園祭の中で華子を探す。"
+
+    # game/definitions.rpy:349
+    old "Movement"
+    new "ムーブメント"
+
+    # game/definitions.rpy:349
+    old "Lilly finishes her duties and treats Hanako and Hisao to tea at the Shanghai."
+    new "リリーは自分の仕事を終えて、華子と久夫を上海のお茶でもてなす。"
+
+    # game/definitions.rpy:349
+    old "Throwing Balls"
     new "ボール投げ"
 
     # game/definitions.rpy:349
-    old "Kenji and Hisao share a manly picnic on the roof instead of going to the festival."
+    old "True to his word, Hisao spends the day with Shizune and Misha."
     new "約束通りに、久夫は静音とミーシャと一緒に一日を過ごす。"
+
+    # game/definitions.rpy:349
+    old "The Deep End"
+    new "どん底"
+
+    # game/definitions.rpy:349
+    old "Kenji and Hisao share a manly picnic on the roof instead of going to the festival."
+    new "学園祭を楽しむかわりに、健二と久夫は屋上で男らしいピクニックをする。"
 
     # game/definitions.rpy:349
     old "Emi"
@@ -448,255 +448,255 @@ translate jp strings:
 
     # game/definitions.rpy:349
     old "Act 2: Form"
-    new "どん底"
-
-    # game/definitions.rpy:349
-    old "Morning Run"
     new "Act 2: フォーム"
 
     # game/definitions.rpy:349
-    old "The first of Hisao's many morning runs with Emi."
-    new "None"
-
-    # game/definitions.rpy:349
-    old "Clouds, Time Travel, and Thou"
+    old "Morning Run"
     new "朝練"
 
     # game/definitions.rpy:349
-    old "Another rooftop lunch with Emi and Rin. Emi extracts from Hisao a promise to come see the track meet."
+    old "The first of Hisao's many morning runs with Emi."
     new "笑美とのたくさんのランニングのはじまり。"
 
     # game/definitions.rpy:349
-    old "Questions That Need Answering!"
+    old "Clouds, Time Travel, and Thou"
     new "雲と時間旅行と汝"
 
     # game/definitions.rpy:349
-    old "Idle chat between Emi and Hisao. Hisao asks Emi a few more questions about her relationship with Rin."
+    old "Another rooftop lunch with Emi and Rin. Emi extracts from Hisao a promise to come see the track meet."
     new "再び笑美と琳と一緒の屋上の昼食。笑美は久夫に、陸上競技会を見に行くと約束させる。"
 
     # game/definitions.rpy:349
-    old "Second Time's the Worst"
+    old "Questions That Need Answering!"
     new "答えの必要な質問 !"
 
     # game/definitions.rpy:349
-    old "The second morning run. Hisao is almost dragged kicking and screaming around the track."
+    old "Idle chat between Emi and Hisao. Hisao asks Emi a few more questions about her relationship with Rin."
     new "笑美と久夫のたわいないおしゃべり。久夫は笑美に琳との関係をもっと詳しくたずねる。"
 
     # game/definitions.rpy:349
-    old "An Apple a Day"
+    old "Second Time's the Worst"
     new "2度目が一番最悪"
 
     # game/definitions.rpy:349
-    old "Hisao pays a visit to the nurse along with Emi, finding out that the two have known each other for a while."
+    old "The second morning run. Hisao is almost dragged kicking and screaming around the track."
     new "2度目の朝のランニング。久夫はじたばた叫びながらトラックのまわりを半ばひきずられていく。"
 
     # game/definitions.rpy:349
-    old "Track Meeting"
+    old "An Apple a Day"
     new "一日一個のリンゴ"
 
     # game/definitions.rpy:349
-    old "The day of the track meet. Another facet of Emi's personality is revealed."
+    old "Hisao pays a visit to the nurse along with Emi, finding out that the two have known each other for a while."
     new "久夫は笑美とともにナースを訪問し、以前から2人が知り合い同士だということを知る。"
 
     # game/definitions.rpy:349
-    old "Down that Medicine Now"
+    old "Track Meeting"
     new "陸上競技会"
 
     # game/definitions.rpy:349
-    old "Hisao mentions a pain in his chest during a visit to the nurse and receives a lecture."
+    old "The day of the track meet. Another facet of Emi's personality is revealed."
     new "陸上競技会の日。笑美の性格の別の側面が明らかになる。"
 
     # game/definitions.rpy:349
-    old "Piracy on the High Seas"
+    old "Down that Medicine Now"
     new "その薬、今すぐ飲め"
 
     # game/definitions.rpy:349
-    old "Hisao discusses his future as a pirate with Emi on the rooftop, then a letter from Iwanako spoils his day."
+    old "Hisao mentions a pain in his chest during a visit to the nurse and receives a lecture."
     new "ナースの診察の際に久夫は胸の痛みのことを話し、説教を食らう。"
 
     # game/definitions.rpy:349
-    old "Famous Last Words"
+    old "Piracy on the High Seas"
     new "大海原の海賊稼業"
 
     # game/definitions.rpy:349
-    old "Emi and Rin take Hisao along for a picnic, soon to be spoiled by rain."
+    old "Hisao discusses his future as a pirate with Emi on the rooftop, then a letter from Iwanako spoils his day."
     new "久夫は屋上で笑美と海賊稼業について話し合うが、岩魚子からの手紙が彼の一日を台無しにする。"
 
     # game/definitions.rpy:349
-    old "Tracking Absences"
+    old "Famous Last Words"
     new "名台詞"
 
     # game/definitions.rpy:349
-    old "Hisao goes to the track as usual, but Emi is missing."
+    old "Emi and Rin take Hisao along for a picnic, soon to be spoiled by rain."
     new "笑美、琳、久夫の3人でピクニックに出かけるが、すぐに雨によって台無しになってしまう。"
 
     # game/definitions.rpy:349
-    old "Dropping By"
+    old "Tracking Absences"
     new "欠席調査"
 
     # game/definitions.rpy:349
-    old "A bedside visit for a sick Emi, which quickly changes to something else entirely."
+    old "Hisao goes to the track as usual, but Emi is missing."
     new "久夫は普段通りにトラックに行くが、笑美は来ない。"
 
     # game/definitions.rpy:349
-    old "The First Morning After"
+    old "Dropping By"
     new "立ち寄り"
 
     # game/definitions.rpy:349
-    old "Hisao reminisces about last evening, deciding to do something to help Emi."
+    old "A bedside visit for a sick Emi, which quickly changes to something else entirely."
     new "病気の笑美を見舞いに行ったとたん、事態は急展開する。"
 
     # game/definitions.rpy:349
-    old "The (Real) Beginning"
+    old "The First Morning After"
     new "事後の朝"
 
     # game/definitions.rpy:349
-    old "Another lunchtime on the rooftop, sans Rin."
+    old "Hisao reminisces about last evening, deciding to do something to help Emi."
     new "久夫は昨日の出来事を回想し、笑美を助けるためになにかしようと決意する。"
 
     # game/definitions.rpy:349
-    old "Act 3: Perspective"
+    old "The (Real) Beginning"
     new "（本当の）始まり"
 
     # game/definitions.rpy:349
-    old "Eet Ees… Scienca"
+    old "Another lunchtime on the rooftop, sans Rin."
+    new "いつも通りの、しかし琳のいない、屋上でのランチタイム。"
+
+    # game/definitions.rpy:349
+    old "Act 3: Perspective"
     new "Act 3: パースペクティブ"
 
     # game/definitions.rpy:349
-    old "Mutou pulls Hisao into a short discussion about his future."
-    new "None"
-
-    # game/definitions.rpy:349
-    old "Definitions"
+    old "Eet Ees… Scienca"
     new "それは……科学です"
 
     # game/definitions.rpy:349
-    old "Emi and Hisao attempt another picnic, this time without any intervention from Mother Nature."
+    old "Mutou pulls Hisao into a short discussion about his future."
     new "武藤は久夫に、将来について短い議論をする。"
 
     # game/definitions.rpy:349
-    old "Invisible Rock"
+    old "Definitions"
     new "定義"
 
     # game/definitions.rpy:349
-    old "Back to the track in the morning, with business as usual… or so it seems."
+    old "Emi and Hisao attempt another picnic, this time without any intervention from Mother Nature."
     new "笑美と久夫はもう一度ピクニックを試みる、今度は母なる自然からの邪魔は入らない。"
 
     # game/definitions.rpy:349
-    old "Lunch and Science"
+    old "Invisible Rock"
     new "目に見えない岩"
 
     # game/definitions.rpy:349
-    old "Hisao sees Mutou again about his future in the sciences."
+    old "Back to the track in the morning, with business as usual… or so it seems."
     new "いつも通りの、朝のトラックでの走り込み……と思いきや。"
 
     # game/definitions.rpy:349
-    old "Up, Down, and Up Again"
+    old "Lunch and Science"
     new "お昼ご飯と科学"
 
     # game/definitions.rpy:349
-    old "A frantic call from Emi brings Hisao to her room, where two surprises await him."
+    old "Hisao sees Mutou again about his future in the sciences."
     new "久夫は科学の道に進むことについて、武藤に再び相談する。"
 
     # game/definitions.rpy:349
-    old "Storage Space"
+    old "Up, Down, and Up Again"
     new "上がって、下がって、また上がり"
 
     # game/definitions.rpy:349
-    old "Emi coaxes Hisao into the track storage shed."
+    old "A frantic call from Emi brings Hisao to her room, where two surprises await him."
     new "笑美からの取り乱した電話で久夫は笑美の部屋へ急ぐ。そこで2つの驚きが待っている。"
 
     # game/definitions.rpy:349
-    old "After-School Plans"
+    old "Storage Space"
     new "体育倉庫"
 
     # game/definitions.rpy:349
-    old "Emi has a serious talk with Hisao about the incoming exams."
+    old "Emi coaxes Hisao into the track storage shed."
     new "笑美は久夫を陸上倉庫へと誘い込む。"
 
     # game/definitions.rpy:349
-    old "Detached"
+    old "After-School Plans"
     new "放課後の予定"
 
     # game/definitions.rpy:349
-    old "Hisao broods about his relationship with Emi."
+    old "Emi has a serious talk with Hisao about the incoming exams."
     new "次の試験について笑美は久夫と真剣な話をする。"
 
     # game/definitions.rpy:349
-    old "Phantom Pain"
+    old "Detached"
     new "切り離されて"
 
     # game/definitions.rpy:349
-    old "Hisao's attempt to show Emi his concern doesn't go nearly as well as he hoped."
+    old "Hisao broods about his relationship with Emi."
     new "久夫は笑美との関係についてあれこれ考え込む。"
 
     # game/definitions.rpy:349
-    old "Debate Expresses Doubt"
+    old "Phantom Pain"
     new "幻肢痛"
 
     # game/definitions.rpy:349
-    old "Hisao is confused by Emi's behavior and by an invitation to her house."
+    old "Hisao's attempt to show Emi his concern doesn't go nearly as well as he hoped."
     new "久夫が笑美に心配していることを伝えようとするが、不本意な結果に終わる。"
 
     # game/definitions.rpy:349
-    old "Guess Who's Coming… Never Mind"
+    old "Debate Expresses Doubt"
     new "議論は疑念の現れ"
 
     # game/definitions.rpy:349
-    old "Dinner at the Ibarazaki's."
+    old "Hisao is confused by Emi's behavior and by an invitation to her house."
     new "久夫は、笑美の振る舞いと笑美の家への招待に混乱する。"
 
     # game/definitions.rpy:349
-    old "Instant Replay"
+    old "Guess Who's Coming… Never Mind"
     new "お客さんは……やっぱりなし"
 
     # game/definitions.rpy:349
-    old "Things finally come to a head at the track."
+    old "Dinner at the Ibarazaki's."
     new "茨崎家での夕食。"
 
     # game/definitions.rpy:349
-    old "Act 4: Motion"
+    old "Instant Replay"
     new "リプレイ映像"
 
     # game/definitions.rpy:349
-    old "A Swing and a Miss"
+    old "Things finally come to a head at the track."
+    new "ついにトラックで事情が明らかになる。"
+
+    # game/definitions.rpy:349
+    old "Act 4: Motion"
     new "Act 4: モーション"
 
     # game/definitions.rpy:349
-    old "Hisao wonders if Emi is purposefully avoiding him."
-    new "None"
-
-    # game/definitions.rpy:349
-    old "Saving Throw"
+    old "A Swing and a Miss"
     new "空振り"
 
     # game/definitions.rpy:349
-    old "Things finally come to a head on the rooftop."
+    old "Hisao wonders if Emi is purposefully avoiding him."
     new "久夫は笑美に避けられているのではと怪しむ。"
 
     # game/definitions.rpy:349
-    old "Whispers of the Past"
+    old "Saving Throw"
     new "セービングスロー"
 
     # game/definitions.rpy:349
-    old "Hisao, Emi and her mom go for a graveside visit."
+    old "Things finally come to a head on the rooftop."
     new "ついに屋上で事情が明らかになる。"
 
     # game/definitions.rpy:349
-    old "Hooray for Socks"
+    old "Whispers of the Past"
     new "過去のささやき"
 
     # game/definitions.rpy:349
-    old "Sex, drugs, but no rock and roll."
+    old "Hisao, Emi and her mom go for a graveside visit."
     new "久夫、笑美、そして笑美の母親は墓参りに出かける。"
 
     # game/definitions.rpy:349
-    old "Clean Teeth"
+    old "Hooray for Socks"
     new "靴下バンザイ"
 
     # game/definitions.rpy:349
-    old "Hisao wakes up, finding Emi sleeping next to him."
+    old "Sex, drugs, but no rock and roll."
     new "セックス、ドラッグ、しかしロックンロールはなし。"
+
+    # game/definitions.rpy:349
+    old "Clean Teeth"
+    new "きれいな歯"
+
+    # game/definitions.rpy:349
+    old "Hisao wakes up, finding Emi sleeping next to him."
+    new "久夫が目を覚ますと、笑美が自分の隣で眠っている。"
 
     # game/definitions.rpy:349
     old "Hanako"
@@ -704,255 +704,255 @@ translate jp strings:
 
     # game/definitions.rpy:349
     old "Act 2: Hide and Seek"
-    new "きれいな歯"
-
-    # game/definitions.rpy:349
-    old "To Town, To Town"
     new "Act 2: かくれんぼ"
 
     # game/definitions.rpy:349
-    old "A shopping trip at the convenience store with Hanako."
-    new "None"
-
-    # game/definitions.rpy:349
-    old "Tea Leaves"
+    old "To Town, To Town"
     new "町へ、町へ"
 
     # game/definitions.rpy:349
-    old "Hanako invites Hisao to have lunch with her and Lilly."
+    old "A shopping trip at the convenience store with Hanako."
     new "華子と一緒にコンビニまでお買いもの。"
 
     # game/definitions.rpy:349
-    old "Office Confessional"
+    old "Tea Leaves"
     new "茶葉"
 
     # game/definitions.rpy:349
-    old "Hisao and Misha discuss the plight of Hanako."
+    old "Hanako invites Hisao to have lunch with her and Lilly."
     new "華子は、リリーと一緒に昼食を食べようと久夫を誘う。"
 
     # game/definitions.rpy:349
-    old "Chess and Slides"
+    old "Office Confessional"
     new "懺悔の生徒会室"
 
     # game/definitions.rpy:349
-    old "Hisao ditches the Student Council to read with Hanako."
+    old "Hisao and Misha discuss the plight of Hanako."
     new "久夫とミーシャは華子の苦境について話し合う。"
 
     # game/definitions.rpy:349
-    old "Rise and Shine"
+    old "Chess and Slides"
     new "チェスとジェットコースター"
 
     # game/definitions.rpy:349
-    old "An invitation from Lilly to a tea party after hours."
+    old "Hisao ditches the Student Council to read with Hanako."
     new "久夫は生徒会を放り出して、華子と一緒に本を読む。"
 
     # game/definitions.rpy:349
-    old "Mad Hatter"
+    old "Rise and Shine"
     new "朝の目覚め"
 
     # game/definitions.rpy:349
-    old "Hanako, Hisao and Lilly meet together to have tea in Lilly's room."
+    old "An invitation from Lilly to a tea party after hours."
     new "リリーからの放課後ティーパーティーへの誘い。"
 
     # game/definitions.rpy:349
-    old "Small Change"
+    old "Mad Hatter"
     new "マッド・ハッター"
 
     # game/definitions.rpy:349
-    old "Kenji is forced to repay his loan."
+    old "Hanako, Hisao and Lilly meet together to have tea in Lilly's room."
     new "華子、久夫そしてリリーは一緒に集まって、リリーの部屋で紅茶を飲む。"
 
     # game/definitions.rpy:349
-    old "Absenteeism"
+    old "Small Change"
     new "小さな変化"
 
     # game/definitions.rpy:349
-    old "Hisao and Lilly discuss Hanako's school attendance."
+    old "Kenji is forced to repay his loan."
     new "健二は借金の返済を強いられる。"
 
     # game/definitions.rpy:349
-    old "Equivalent Exchange"
+    old "Absenteeism"
     new "無断欠席"
 
     # game/definitions.rpy:349
-    old "In return for learning about his heart, Hanako reveals part of her past to Hisao."
+    old "Hisao and Lilly discuss Hanako's school attendance."
     new "久夫とリリーは華子の出席状況について話し合う。"
 
     # game/definitions.rpy:349
-    old "Act 3: Castling"
+    old "Equivalent Exchange"
     new "等価交換"
 
     # game/definitions.rpy:349
-    old "Invitation"
+    old "In return for learning about his heart, Hanako reveals part of her past to Hisao."
+    new "久夫の心臓について知ったことのお返しに、華子は久夫に自分の過去の一部を打ち明ける。"
+
+    # game/definitions.rpy:349
+    old "Act 3: Castling"
     new "Act 3: キャスリング"
 
     # game/definitions.rpy:349
-    old "Lilly finds Hisao cleaning up the Tea Room and tells him about Hanako's birthday."
-    new "None"
-
-    # game/definitions.rpy:349
-    old "Shady Encounter"
+    old "Invitation"
     new "招待"
 
     # game/definitions.rpy:349
-    old "An unexpected chat with Miki while reminiscing about the past."
+    old "Lilly finds Hisao cleaning up the Tea Room and tells him about Hanako's birthday."
     new "リリーは久夫が紅茶部屋を片付けているのを見つけ、華子の誕生日のことを話す。"
 
     # game/definitions.rpy:349
-    old "Antiques and Pie"
+    old "Shady Encounter"
     new "怪しい邂逅"
 
     # game/definitions.rpy:349
-    old "Lilly and Hisao shop for a present in the city."
+    old "An unexpected chat with Miki while reminiscing about the past."
     new "過去への回想と、思いがけない美貴との雑談。"
 
     # game/definitions.rpy:349
-    old "Falling"
+    old "Antiques and Pie"
     new "アンティークとパイ"
 
     # game/definitions.rpy:349
-    old "Hanako has a panic attack during class."
+    old "Lilly and Hisao shop for a present in the city."
     new "リリーと久夫は、街でプレゼントのための買い物をする。"
 
     # game/definitions.rpy:349
-    old "Treading Softly"
+    old "Falling"
     new "落下"
 
     # game/definitions.rpy:349
-    old "Lilly has bad news to discuss with Hisao and Hanako."
+    old "Hanako has a panic attack during class."
     new "華子が授業中にパニック発作を起こす。"
 
     # game/definitions.rpy:349
-    old "Reaching Out"
+    old "Treading Softly"
     new "ゆっくりと前へ"
 
     # game/definitions.rpy:349
-    old "Hisao reaches out to a withdrawn Hanako."
+    old "Lilly has bad news to discuss with Hisao and Hanako."
     new "リリーは久夫と華子に悪い知らせを伝える。"
 
     # game/definitions.rpy:349
-    old "One More Year"
+    old "Reaching Out"
     new "手を伸ばして"
 
     # game/definitions.rpy:349
-    old "Our trio is joined by an unexpected guest as they celebrate Hanako's birthday party."
+    old "Hisao reaches out to a withdrawn Hanako."
     new "久夫は引きこもる華子に手を差し伸べる。"
 
     # game/definitions.rpy:349
-    old "One Piece of Paper"
+    old "One More Year"
     new "もう一年"
 
     # game/definitions.rpy:349
-    old "Hisao enjoys his first hangover, before receiving a troubling letter."
+    old "Our trio is joined by an unexpected guest as they celebrate Hanako's birthday party."
     new "華子の誕生日を祝っていると、我らが三人衆に意外なゲストが加わる。"
 
     # game/definitions.rpy:349
-    old "Stripes and Solids"
+    old "One Piece of Paper"
     new "一枚の紙片"
 
     # game/definitions.rpy:349
-    old "Heart-to-heart during a game of pool."
+    old "Hisao enjoys his first hangover, before receiving a troubling letter."
     new "久夫は初めての二日酔いを味わったあと、やっかいな手紙を受け取る。"
 
     # game/definitions.rpy:349
-    old "Beginning of the End"
+    old "Stripes and Solids"
     new "ソリッドとストライプ"
 
     # game/definitions.rpy:349
-    old "Lilly's departure for her trip."
+    old "Heart-to-heart during a game of pool."
     new "ポケットビリヤードで遊ぶ間の、率直な話し合い。"
 
     # game/definitions.rpy:349
-    old "Act 4: Scars"
+    old "Beginning of the End"
     new "終わりの始まり"
 
     # game/definitions.rpy:349
-    old "Truancy"
+    old "Lilly's departure for her trip."
+    new "リリーの旅立ち。"
+
+    # game/definitions.rpy:349
+    old "Act 4: Scars"
     new "Act 4: キズアト"
 
     # game/definitions.rpy:349
-    old "Lunch with the Student Council and worry about Hanako shutting herself in."
-    new "None"
-
-    # game/definitions.rpy:349
-    old "Faraway Presence"
+    old "Truancy"
     new "ずる休み"
 
     # game/definitions.rpy:349
-    old "Hisao phones Lilly for advice after Hanako secludes herself for another day."
+    old "Lunch with the Student Council and worry about Hanako shutting herself in."
     new "生徒会との昼食、そして閉じこもる華子への憂慮。"
 
     # game/definitions.rpy:349
-    old "Misstep"
+    old "Faraway Presence"
     new "遠くにありて"
 
     # game/definitions.rpy:349
-    old "Hisao tries to pull Hanako out of her room, with startling results."
+    old "Hisao phones Lilly for advice after Hanako secludes herself for another day."
     new "華子はさらに一日引きこもり、久夫はリリーに助言を求めて電話する。"
 
     # game/definitions.rpy:349
-    old "Cut Petals"
+    old "Misstep"
     new "つまずき"
 
     # game/definitions.rpy:349
-    old "Hisao finds his future relationship with Hanako prematurely ended."
+    old "Hisao tries to pull Hanako out of her room, with startling results."
     new "久夫は華子を部屋から引き出そうとするが、驚愕する結果になる。"
 
     # game/definitions.rpy:349
-    old "Continuing Melody"
+    old "Cut Petals"
     new "切られた花弁"
 
     # game/definitions.rpy:349
-    old "Hanako returns to class, to Hisao's relief."
+    old "Hisao finds his future relationship with Hanako prematurely ended."
     new "久夫は、華子との自分の未来の関係が、早すぎる終わりを告げたことを知る。"
 
     # game/definitions.rpy:349
-    old "Shanghai Studiousness"
+    old "Continuing Melody"
     new "続くメロディ"
 
     # game/definitions.rpy:349
-    old "Attempting to avoid distractions, Hisao tries studying at the Shanghai."
+    old "Hanako returns to class, to Hisao's relief."
     new "華子はクラスに戻り、久夫は安心する。"
 
     # game/definitions.rpy:349
-    old "His Past"
+    old "Shanghai Studiousness"
     new "上海で勉強"
 
     # game/definitions.rpy:349
-    old "In an attempt to come closer to Hanako, Hisao shares a part of his past with her."
+    old "Attempting to avoid distractions, Hisao tries studying at the Shanghai."
     new "気が散らないように、久夫は上海で勉強しようとする。"
 
     # game/definitions.rpy:349
-    old "City Rendezvous"
+    old "His Past"
     new "彼の過去"
 
     # game/definitions.rpy:349
-    old "The two share a date in the city."
+    old "In an attempt to come closer to Hanako, Hisao shares a part of his past with her."
     new "華子ともっと親しくなるために、久夫は自分の過去を華子と分かち合う。"
 
     # game/definitions.rpy:349
-    old "Whispered Touch"
+    old "City Rendezvous"
     new "シティ・ランデブー"
 
     # game/definitions.rpy:349
-    old "Hisao and Hanako spend the night together."
+    old "The two share a date in the city."
     new "2人は街でデートする。"
 
     # game/definitions.rpy:349
-    old "Indeterminate Future"
+    old "Whispered Touch"
     new "ささやきと接触"
 
     # game/definitions.rpy:349
-    old "The events of the previous night weigh heavily on Hisao."
+    old "Hisao and Hanako spend the night together."
     new "久夫と華子は一夜を共に過ごす。"
 
     # game/definitions.rpy:349
-    old "Adulthood"
+    old "Indeterminate Future"
     new "不確かな未来"
 
     # game/definitions.rpy:349
-    old "The end of two children, the beginning of two adults."
+    old "The events of the previous night weigh heavily on Hisao."
     new "昨夜の出来事が久夫に重くのしかかる。"
+
+    # game/definitions.rpy:349
+    old "Adulthood"
+    new "成熟"
+
+    # game/definitions.rpy:349
+    old "The end of two children, the beginning of two adults."
+    new "2人の子供たちの終わり、2人の大人たちの始まり。"
 
     # game/definitions.rpy:349
     old "Lilly"
@@ -960,279 +960,279 @@ translate jp strings:
 
     # game/definitions.rpy:349
     old "Act 2: Past"
-    new "成熟"
-
-    # game/definitions.rpy:349
-    old "Earl Grey"
     new "Act 2: 過去"
 
     # game/definitions.rpy:349
-    old "Hisao shares the first of many lunchbreaks with Hanako and Lilly, recovering from the day before."
-    new "None"
-
-    # game/definitions.rpy:349
-    old "A Pound Sterling"
+    old "Earl Grey"
     new "アールグレイ"
 
     # game/definitions.rpy:349
-    old "Questioned by Kenji on Lilly's nationality, Hisao decides to investigate and finds out a great deal more."
+    old "Hisao shares the first of many lunchbreaks with Hanako and Lilly, recovering from the day before."
     new "昨日の疲れから回復し、久夫は華子とリリーと一緒の昼休みの最初の一日を、共に過ごす。"
 
     # game/definitions.rpy:349
-    old "Presents and Presence"
+    old "A Pound Sterling"
     new "1ポンド貨"
 
     # game/definitions.rpy:349
-    old "While out in search of a present for Hanako, Lilly and Hisao meet Akira and her cousin."
+    old "Questioned by Kenji on Lilly's nationality, Hisao decides to investigate and finds out a great deal more."
     new "健二からリリーの国籍を問われた久夫は、それよりもっと詳しく調べようとする。"
 
     # game/definitions.rpy:349
-    old "Unidentified Drinking Object"
+    old "Presents and Presence"
     new "プレゼントと存在"
 
     # game/definitions.rpy:349
-    old "The trio hold a birthday party for Hanako, interrupted by the surprise appearance of a sibling."
+    old "While out in search of a present for Hanako, Lilly and Hisao meet Akira and her cousin."
     new "華子のプレゼントを探している間、リリーと久夫は晃と彼女のいとこに出会う。"
 
     # game/definitions.rpy:349
-    old "The Day After"
+    old "Unidentified Drinking Object"
     new "未確認飲料物体"
 
     # game/definitions.rpy:349
-    old "Hisao and Lilly awaken and try to recuperate from the previous evening's events."
+    old "The trio hold a birthday party for Hanako, interrupted by the surprise appearance of a sibling."
     new "3人は華子のために誕生日パーティーを開くが、きょうだいの突然の登場に中断される。"
 
     # game/definitions.rpy:349
-    old "A Brief History of Thyme"
+    old "The Day After"
     new "あくる日"
 
     # game/definitions.rpy:349
-    old "Hisao and Lilly go to get some groceries."
+    old "Hisao and Lilly awaken and try to recuperate from the previous evening's events."
     new "目覚めた久夫とリリーは、昨夜の出来事から回復しようとする。"
 
     # game/definitions.rpy:349
-    old "Little Wing"
+    old "A Brief History of Thyme"
     new "華子、『タイム』を所望する"
 
     # game/definitions.rpy:349
-    old "A shared lunch on the roof takes an unfortunate turn."
+    old "Hisao and Lilly go to get some groceries."
     new "久夫とリリーは食料品を買いに出かける。"
 
     # game/definitions.rpy:349
-    old "Bon Voyage"
+    old "Little Wing"
     new "小さな翼"
 
     # game/definitions.rpy:349
-    old "Lilly and Akira get seen off as they leave for a trip to their family in Scotland."
+    old "A shared lunch on the roof takes an unfortunate turn."
     new "屋上でみんなと分け合う昼食は残念な展開になる。"
 
     # game/definitions.rpy:349
-    old "Act 3: Present"
+    old "Bon Voyage"
     new "旅立ち"
 
     # game/definitions.rpy:349
-    old "Day by Day"
+    old "Lilly and Akira get seen off as they leave for a trip to their family in Scotland."
+    new "リリーと晃は見送られながら、スコットランドの家族に会いに旅立つ。"
+
+    # game/definitions.rpy:349
+    old "Act 3: Present"
     new "Act 3: 現在"
 
     # game/definitions.rpy:349
-    old "Hisao idly lets a day without Lilly slip by, having a talk with Mutou about Yamaku."
-    new "None"
-
-    # game/definitions.rpy:349
-    old "Minor Discord"
+    old "Day by Day"
     new "一日、一日"
 
     # game/definitions.rpy:349
-    old "Hisao has lunch with Kenji, then gives some handouts to an alarmingly silent Hanako."
+    old "Hisao idly lets a day without Lilly slip by, having a talk with Mutou about Yamaku."
     new "久夫はぼんやりと、リリーのいない日々が過ぎるにまかせ、山久について武藤と話す。"
 
     # game/definitions.rpy:349
-    old "Dissonance"
+    old "Minor Discord"
     new "小さな諍い"
 
     # game/definitions.rpy:349
-    old "With Hanako withdrawing into herself completely, Hisao offers what little help he can before calling Lilly."
+    old "Hisao has lunch with Kenji, then gives some handouts to an alarmingly silent Hanako."
     new "久夫は健二と昼食をとり、気がかりなほど黙りこくっている華子にプリントを渡す。"
 
     # game/definitions.rpy:349
-    old "A World Away"
+    old "Dissonance"
     new "不協和音"
 
     # game/definitions.rpy:349
-    old "Hisao's reassured mind begins to wonder about the relationship between he and Lilly."
+    old "With Hanako withdrawing into herself completely, Hisao offers what little help he can before calling Lilly."
     new "完全に引きこもる華子。久夫はできる限りの助けを申し出てから、リリーに電話する。"
 
     # game/definitions.rpy:349
-    old "Renewal"
+    old "A World Away"
     new "遠い世界"
 
     # game/definitions.rpy:349
-    old "Hisao, Hanako, and Hideaki welcome Akira and Lilly after their return from Scotland."
+    old "Hisao's reassured mind begins to wonder about the relationship between he and Lilly."
     new "久夫は安心する一方、自分とリリーの関係について思いを巡らせる。"
 
     # game/definitions.rpy:349
-    old "Northern Sojourn"
+    old "Renewal"
     new "再生"
 
     # game/definitions.rpy:349
-    old "The trio begins their holiday in Hokkaido."
+    old "Hisao, Hanako, and Hideaki welcome Akira and Lilly after their return from Scotland."
     new "久夫、華子、そして秀明は、スコットランドから帰ってきた晃とリリーを出迎える。"
 
     # game/definitions.rpy:349
-    old "Prelude"
+    old "Northern Sojourn"
     new "北への旅"
 
     # game/definitions.rpy:349
-    old "A morning walk begins a chain of events."
+    old "The trio begins their holiday in Hokkaido."
     new "3人で、北海道での休暇。"
 
     # game/definitions.rpy:349
-    old "Crescendo"
+    old "Prelude"
     new "前奏"
 
     # game/definitions.rpy:349
-    old "Lilly's true feelings are told in the endless gold of the wheat fields."
+    old "A morning walk begins a chain of events."
     new "朝の散歩から、一連の出来事が始まる。"
 
     # game/definitions.rpy:349
-    old "Diminuendo"
+    old "Crescendo"
     new "クレッシェンド"
 
     # game/definitions.rpy:349
-    old "Our couple shares their first night together."
+    old "Lilly's true feelings are told in the endless gold of the wheat fields."
     new "リリーの本当の気持ちが、果てしない黄金色の小麦畑で語られる。"
 
     # game/definitions.rpy:349
-    old "Gray Outlook"
+    old "Diminuendo"
     new "ディミニュエンド"
 
     # game/definitions.rpy:349
-    old "Confined to the summerhouse, Lilly and Hisao are forced to come to terms with their relationship."
+    old "Our couple shares their first night together."
     new "一緒に過ごす初めての夜。"
 
     # game/definitions.rpy:349
-    old "Rhapsody in Blue"
+    old "Gray Outlook"
     new "前途は灰色"
 
     # game/definitions.rpy:349
-    old "A bathing Hisao reflects on where he and Lilly are in life, before being joined by someone."
+    old "Confined to the summerhouse, Lilly and Hisao are forced to come to terms with their relationship."
     new "夏の別荘に閉じ込められ、リリーと久夫は自分たちの関係を受け入れざるをえない。"
 
     # game/definitions.rpy:349
-    old "The Momentary Present"
+    old "Rhapsody in Blue"
     new "ラプソディ・イン・ブルー"
 
     # game/definitions.rpy:349
-    old "Traveling back to Yamaku, Hisao and Lilly idly talk between themselves."
+    old "A bathing Hisao reflects on where he and Lilly are in life, before being joined by someone."
     new "久夫が風呂に入りながらリリーとの関係を考えていると、何者かが一緒に入ってくる。"
 
     # game/definitions.rpy:349
-    old "Act 4: Future"
+    old "The Momentary Present"
     new "一瞬の今"
 
     # game/definitions.rpy:349
-    old "Slow Steps 'Fore a Waltz"
+    old "Traveling back to Yamaku, Hisao and Lilly idly talk between themselves."
+    new "山久に戻る旅路の間、久夫とリリーはぼんやりと2人で話す。"
+
+    # game/definitions.rpy:349
+    old "Act 4: Future"
     new "Act 4: 未来"
 
     # game/definitions.rpy:349
-    old "Back at the school, the events of Hokkaido come to the fore."
-    new "None"
-
-    # game/definitions.rpy:349
-    old "Pajamas and Suits"
+    old "Slow Steps 'Fore a Waltz"
     new "ワルツの前のスローステップ"
 
     # game/definitions.rpy:349
-    old "Settling back into daily life. Akira joins the trio during one of their tea parties."
+    old "Back at the school, the events of Hokkaido come to the fore."
     new "学校に戻ると、北海道での出来事が話題になる。"
 
     # game/definitions.rpy:349
-    old "Correct Procedure"
+    old "Pajamas and Suits"
     new "パジャマとスーツ"
 
     # game/definitions.rpy:349
-    old "Hisao and Lilly arrange a date, before Akira swings by."
+    old "Settling back into daily life. Akira joins the trio during one of their tea parties."
     new "日常生活に戻る。お茶会の間、晃が3人に加わる。"
 
     # game/definitions.rpy:349
-    old "Out and About"
+    old "Correct Procedure"
     new "正しい手順"
 
     # game/definitions.rpy:349
-    old "Hisao and Lilly go on their first date, finding out about each other's pasts."
+    old "Hisao and Lilly arrange a date, before Akira swings by."
     new "久夫とリリーはデートの約束をする。その後、晃が顔を出す。"
 
     # game/definitions.rpy:349
-    old "A Morning's Reverie"
+    old "Out and About"
     new "外出"
 
     # game/definitions.rpy:349
-    old "Hisao and Lilly discuss their ambitions for the future."
+    old "Hisao and Lilly go on their first date, finding out about each other's pasts."
     new "久夫とリリーは初めてのデートに行き、お互いの過去について知る。"
 
     # game/definitions.rpy:349
-    old "Blackout"
+    old "A Morning's Reverie"
     new "朝のまどろみ"
 
     # game/definitions.rpy:349
-    old "The trio muse on the upcoming holidays, before Hisao experiences sight as Lilly does."
+    old "Hisao and Lilly discuss their ambitions for the future."
     new "久夫とリリーは将来の抱負について話し合う。"
 
     # game/definitions.rpy:349
-    old "Context"
+    old "Blackout"
     new "ブラックアウト"
 
     # game/definitions.rpy:349
-    old "Hisao gets called out by Akira and the two talk about her sibling."
+    old "The trio muse on the upcoming holidays, before Hisao experiences sight as Lilly does."
     new "3人は、近々やってくる休みについて考えにふけり、久夫はリリーの見ている視界を経験する。"
 
     # game/definitions.rpy:349
-    old "A Faraway Future"
+    old "Context"
     new "ことの成り行き"
 
     # game/definitions.rpy:349
-    old "Lilly reveals her family's offer to join them in Scotland."
+    old "Hisao gets called out by Akira and the two talk about her sibling."
     new "久夫は晃に呼び出され、2人はリリーのことについて話す。"
 
     # game/definitions.rpy:349
-    old "Farewell"
+    old "A Faraway Future"
     new "遠い未来"
 
     # game/definitions.rpy:349
-    old "Farewells to Akira and Lilly the evening before they leave Japan."
+    old "Lilly reveals her family's offer to join them in Scotland."
     new "リリーはスコットランドの家族と一緒に暮らそうという家族の申し出を明らかにする。"
 
     # game/definitions.rpy:349
-    old "False Cadence"
+    old "Farewell"
     new "別れ"
 
     # game/definitions.rpy:349
-    old "Hisao rushes to confront Lilly, realizing her conflict."
+    old "Farewells to Akira and Lilly the evening before they leave Japan."
     new "2人が日本を離れる前の晩、晃とリリーにお別れを告げる。"
 
     # game/definitions.rpy:349
-    old "Under a Maudlin Sky"
+    old "False Cadence"
     new "偽終止"
 
     # game/definitions.rpy:349
-    old "Waking in the hospital ward, Hisao struggles to come to terms with his life."
+    old "Hisao rushes to confront Lilly, realizing her conflict."
     new "リリーの葛藤に気付いた久夫は、リリーに正面から向き合うために駆けつける。"
 
     # game/definitions.rpy:349
-    old "Under a Bright Sky"
+    old "Under a Maudlin Sky"
     new "涙降る空の下で"
 
     # game/definitions.rpy:349
-    old "Lilly rejoins Hisao, the two beginning their life together anew."
+    old "Waking in the hospital ward, Hisao struggles to come to terms with his life."
     new "病院で目覚めた久夫は、自分の人生を受け入れようとして葛藤する。"
 
     # game/definitions.rpy:349
-    old "Forwards, with Gusto!"
+    old "Under a Bright Sky"
     new "輝く空の下で"
 
     # game/definitions.rpy:349
-    old "Lilly and Hisao see off Akira."
+    old "Lilly rejoins Hisao, the two beginning their life together anew."
     new "リリーは久夫の元に戻り、2人は一緒の人生を新しく歩み始める。"
+
+    # game/definitions.rpy:349
+    old "Forwards, with Gusto!"
+    new "元気に前へ !"
+
+    # game/definitions.rpy:349
+    old "Lilly and Hisao see off Akira."
+    new "リリーと久夫は晃を見送る。"
 
     # game/definitions.rpy:349
     old "Rin"
@@ -1240,351 +1240,351 @@ translate jp strings:
 
     # game/definitions.rpy:349
     old "Act 2: Disconnect"
-    new "元気に前へ !"
-
-    # game/definitions.rpy:349
-    old "A Wider Field of Vision"
     new "Act 2: すれ違い"
 
     # game/definitions.rpy:349
-    old "Hisao spends a lunch break with Rin watching clouds on the rooftop."
-    new "None"
-
-    # game/definitions.rpy:349
-    old "Studies in Grayscale"
+    old "A Wider Field of Vision"
     new "広い視野"
 
     # game/definitions.rpy:349
-    old "Rin and Hisao draw portraits of each other at his first art club meeting."
+    old "Hisao spends a lunch break with Rin watching clouds on the rooftop."
     new "久夫は昼休みを屋上で雲を見ながら琳と過ごす。"
 
     # game/definitions.rpy:349
-    old "Interstitial"
+    old "Studies in Grayscale"
     new "灰色の研究"
 
     # game/definitions.rpy:349
-    old "Kenji lends a “borrowed” book to Hisao."
+    old "Rin and Hisao draw portraits of each other at his first art club meeting."
     new "初めての美術部の活動で、琳と久夫はお互いのポートレートを描く。"
 
     # game/definitions.rpy:349
-    old "Self Study"
+    old "Interstitial"
     new "割り込み"
 
     # game/definitions.rpy:349
-    old "Misha and Shizune catch Hisao meditatively doodling during class."
+    old "Kenji lends a “borrowed” book to Hisao."
     new "健二は久夫に「借りた」本を貸す。"
 
     # game/definitions.rpy:349
-    old "Hisao's Smile"
+    old "Self Study"
     new "自習"
 
     # game/definitions.rpy:349
-    old "Rin talks to Hisao about his happy expressions, or lack of them."
+    old "Misha and Shizune catch Hisao meditatively doodling during class."
     new "ミーシャと静音は授業の間、瞑想にふけりながらいたずら書きをしている久夫を捕まえる。"
 
     # game/definitions.rpy:349
-    old "Things You Like"
+    old "Hisao's Smile"
     new "久夫の笑顔"
 
     # game/definitions.rpy:349
-    old "Brief musings with Yuuko about books and Yamaku."
+    old "Rin talks to Hisao about his happy expressions, or lack of them."
     new "琳は久夫に、彼の幸福な表情、あるいはその欠落について話す。"
 
     # game/definitions.rpy:349
-    old "Target Audience"
+    old "Things You Like"
     new "好きなもの"
 
     # game/definitions.rpy:349
-    old "The day of the track meet. Facets of Emi's and Rin's personalities get revealed."
+    old "Brief musings with Yuuko about books and Yamaku."
     new "本と山久について、優子との簡単な物思い。"
 
     # game/definitions.rpy:349
-    old "Eternity In an Hour"
+    old "Target Audience"
     new "対象視聴者"
 
     # game/definitions.rpy:349
-    old "Nomiya incites discussion of art during a club meeting."
+    old "The day of the track meet. Facets of Emi's and Rin's personalities get revealed."
     new "陸上競技会の日。笑美のいろいろな面と琳のいろいろな性格が明らかになる。"
 
     # game/definitions.rpy:349
-    old "Underwater and a Maple with a Name"
+    old "Eternity In an Hour"
     new "永遠の1時間"
 
     # game/definitions.rpy:349
-    old "Rin leads Hisao into the woods, where they ponder their immediate future."
+    old "Nomiya incites discussion of art during a club meeting."
     new "野宮が部活動で芸術について議論を喚起する。"
 
     # game/definitions.rpy:349
-    old "Iwanako's Regret"
+    old "Underwater and a Maple with a Name"
     new "水の中、名を持つ楓"
 
     # game/definitions.rpy:349
-    old "A letter from Iwanako arrives."
+    old "Rin leads Hisao into the woods, where they ponder their immediate future."
     new "琳は久夫を森林へといざない、そこで2人は近い将来のことをじっくり考える。"
 
     # game/definitions.rpy:349
-    old "In Her Own Image"
+    old "Iwanako's Regret"
     new "岩魚子の後悔"
 
     # game/definitions.rpy:349
-    old "Hisao pushes Rin to have her own art exhibition."
+    old "A letter from Iwanako arrives."
     new "岩魚子からの手紙が届く。"
 
     # game/definitions.rpy:349
-    old "Umbrella Logic Cake"
+    old "In Her Own Image"
     new "彼女自身のイメージで"
 
     # game/definitions.rpy:349
-    old "Emi, Hisao and Rin get rained on and seek refuge in the Shanghai."
+    old "Hisao pushes Rin to have her own art exhibition."
     new "久夫は琳が自分の作品の展覧会を開くのを後押しする。"
 
     # game/definitions.rpy:349
-    old "Six Meters Closer to Heaven"
+    old "Umbrella Logic Cake"
     new "傘と論理とケーキ"
 
     # game/definitions.rpy:349
-    old "Rin and Hisao DON'T eat lunch on the roof, due to a distinct lack of Emi."
+    old "Emi, Hisao and Rin get rained on and seek refuge in the Shanghai."
     new "笑美、久夫そして琳は雨に降られて、上海に避難する。"
 
     # game/definitions.rpy:349
-    old "Indecision"
+    old "Six Meters Closer to Heaven"
     new "天国に6メートル近く"
 
     # game/definitions.rpy:349
-    old "Emi gets rid of her cold, while Rin catches her own."
+    old "Rin and Hisao DON'T eat lunch on the roof, due to a distinct lack of Emi."
     new "琳と久夫は、笑美がいないのが明らかなので、屋上で昼食を食べ「ない」。"
 
     # game/definitions.rpy:349
-    old "Signal Interference"
+    old "Indecision"
     new "優柔不断"
 
     # game/definitions.rpy:349
-    old "Hisao goes visit Rin in her room."
+    old "Emi gets rid of her cold, while Rin catches her own."
     new "笑美は風邪を治すが、今度は琳が風邪を引いてしまう。"
 
     # game/definitions.rpy:349
-    old "Dandelions"
+    old "Signal Interference"
     new "シグナル・インタフェース"
 
     # game/definitions.rpy:349
-    old "Conclusions get drawn on a hilltop."
+    old "Hisao goes visit Rin in her room."
     new "久夫は琳を部屋に訪ねる。"
 
     # game/definitions.rpy:349
-    old "Act 3: Distance"
+    old "Dandelions"
     new "たんぽぽ"
 
     # game/definitions.rpy:349
-    old "22nd Corner"
+    old "Conclusions get drawn on a hilltop."
+    new "丘の上で結論が下される。"
+
+    # game/definitions.rpy:349
+    old "Act 3: Distance"
     new "Act 3: 溝"
 
     # game/definitions.rpy:349
-    old "The art club team checks out the gallery for Rin's future exhibition."
-    new "None"
-
-    # game/definitions.rpy:349
-    old "The Scent of Light"
+    old "22nd Corner"
     new "22番目の角"
 
     # game/definitions.rpy:349
-    old "Hisao happens upon a sleeping Rin in the art room."
+    old "The art club team checks out the gallery for Rin's future exhibition."
     new "美術部チームは琳の将来の展覧会のために画廊を下見する。"
 
     # game/definitions.rpy:349
-    old "Things You Can't Give Up"
+    old "The Scent of Light"
     new "光の薫り"
 
     # game/definitions.rpy:349
-    old "Emi and Hisao discuss Rin's personality."
+    old "Hisao happens upon a sleeping Rin in the art room."
     new "久夫は美術室で眠っている琳に偶然遭遇する。"
 
     # game/definitions.rpy:349
-    old "BADAAN!"
+    old "Things You Can't Give Up"
     new "諦められないもの"
 
     # game/definitions.rpy:349
-    old "Yuuko's thoughts on motivation."
+    old "Emi and Hisao discuss Rin's personality."
     new "笑美と久夫は琳の人となりについて話し合う。"
 
     # game/definitions.rpy:349
-    old "Rose-Tinted Glasses"
+    old "BADAAN!"
     new "バターン !"
 
     # game/definitions.rpy:349
-    old "Nomiya expounds at length about art as a career."
+    old "Yuuko's thoughts on motivation."
     new "モチベーションについての、優子の考察。"
 
     # game/definitions.rpy:349
-    old "The Edge of the World"
+    old "Rose-Tinted Glasses"
     new "バラ色メガネを通して"
 
     # game/definitions.rpy:349
-    old "Hisao confesses to Rin and gets shot down. Or does he?"
+    old "Nomiya expounds at length about art as a career."
     new "野宮は芸術を職業とすることについて長々と説明する。"
 
     # game/definitions.rpy:349
-    old "The Context of Rin"
+    old "The Edge of the World"
     new "世界の果て"
 
     # game/definitions.rpy:349
-    old "An awkward and silent afternoon at the atelier."
+    old "Hisao confesses to Rin and gets shot down. Or does he?"
     new "久夫は琳に告白して、振られる。本当に？"
 
     # game/definitions.rpy:349
-    old "Fast Forward"
+    old "The Context of Rin"
     new "琳の状況"
 
     # game/definitions.rpy:349
-    old "The preparations for the exhibition settle into a strange routine."
+    old "An awkward and silent afternoon at the atelier."
     new "アトリエの奇妙でしんとした午後。"
 
     # game/definitions.rpy:349
-    old "Self-Destruction"
+    old "Fast Forward"
     new "早送り"
 
     # game/definitions.rpy:349
-    old "Rin experiments with smoking to get a fresh look at creativity."
+    old "The preparations for the exhibition settle into a strange routine."
     new "展覧会の準備は奇妙なパターンにはまる。"
 
     # game/definitions.rpy:349
-    old "Reverse Escapism"
+    old "Self-Destruction"
     new "自己破壊"
 
     # game/definitions.rpy:349
-    old "Hisao takes Rin on a walk through the night streets."
+    old "Rin experiments with smoking to get a fresh look at creativity."
     new "琳は創造性について新鮮な見方をするために、たばこを試す。"
 
     # game/definitions.rpy:349
-    old "Boundless"
+    old "Reverse Escapism"
     new "非現実逃避"
 
     # game/definitions.rpy:349
-    old "Sae and Nomiya give Hisao some insight on artists' lives."
+    old "Hisao takes Rin on a walk through the night streets."
     new "久夫は琳を夜道の散歩へと連れ出す。"
 
     # game/definitions.rpy:349
-    old "Delirium"
+    old "Boundless"
     new "限界の欠如"
 
     # game/definitions.rpy:349
-    old "Hisao surprises a desperate Rin in the atelier."
+    old "Sae and Nomiya give Hisao some insight on artists' lives."
     new "さえと野宮は久夫に芸術家の生き様についていくつかの見識を説く。"
 
     # game/definitions.rpy:349
-    old "Things You Hate"
+    old "Delirium"
     new "錯乱"
 
     # game/definitions.rpy:349
-    old "Unpleasant aftermath of an incredible night."
+    old "Hisao surprises a desperate Rin in the atelier."
     new "久夫はアトリエで自暴自棄になっている琳を驚かす。"
 
     # game/definitions.rpy:349
-    old "Shards of Ire"
+    old "Things You Hate"
     new "大嫌いなもの"
 
     # game/definitions.rpy:349
-    old "The strained relationship between the two blows apart."
+    old "Unpleasant aftermath of an incredible night."
     new "信じられない夜の不愉快な結末。"
 
     # game/definitions.rpy:349
-    old "Act 4: Dream"
+    old "Shards of Ire"
     new "怒りのかけら"
 
     # game/definitions.rpy:349
-    old "Illusions for People"
+    old "The strained relationship between the two blows apart."
+    new "緊迫した2人の関係はバラバラに吹き飛ぶ。"
+
+    # game/definitions.rpy:349
+    old "Act 4: Dream"
     new "Act 4: 夢"
 
     # game/definitions.rpy:349
-    old "Hisao talks about his misgivings to Nomiya, to little effect."
-    new "None"
-
-    # game/definitions.rpy:349
-    old "Demused"
+    old "Illusions for People"
     new "人々のための幻想"
 
     # game/definitions.rpy:349
-    old "Hisao's patience comes to an end."
+    old "Hisao talks about his misgivings to Nomiya, to little effect."
     new "久夫は自分の不安を野宮に伝えるが、ほとんど効果はない。"
 
     # game/definitions.rpy:349
-    old "The Scene"
+    old "Demused"
     new "物思いから醒まされて"
 
     # game/definitions.rpy:349
-    old "Meeting with Rin at the exhibition opening."
+    old "Hisao's patience comes to an end."
     new "久夫の忍耐は終わりを迎える。"
 
     # game/definitions.rpy:349
-    old "Wavelength"
+    old "The Scene"
     new "問題のシーン"
 
     # game/definitions.rpy:349
-    old "Hisao lethargically whiles away the last day of exams."
+    old "Meeting with Rin at the exhibition opening."
     new "展覧会のオープニングでの、琳との遭遇。"
 
     # game/definitions.rpy:349
-    old "Blue Period"
+    old "Wavelength"
     new "波長"
 
     # game/definitions.rpy:349
-    old "A rainy day, the 22nd Corner, and a brief history of Picasso."
+    old "Hisao lethargically whiles away the last day of exams."
     new "久夫は、試験の最終日、無気力にダラダラと過ごす。"
 
     # game/definitions.rpy:349
-    old "The World Only You Can See"
+    old "Blue Period"
     new "青の時代"
 
     # game/definitions.rpy:349
-    old "Rin and Hisao part after the rain."
+    old "A rainy day, the 22nd Corner, and a brief history of Picasso."
     new "雨の降る日、22nd Corner、そしてピカソの略史。"
 
     # game/definitions.rpy:349
-    old "Desperate Glory"
+    old "The World Only You Can See"
     new "君だけに見える世界"
 
     # game/definitions.rpy:349
-    old "A frantic Nomiya queries Hisao about Rin's whereabouts."
+    old "Rin and Hisao part after the rain."
     new "琳と久夫は雨のあとで、別れる。"
 
     # game/definitions.rpy:349
-    old "Problems of Self-Referential Logic"
+    old "Desperate Glory"
     new "絶望的な栄光"
 
     # game/definitions.rpy:349
-    old "Hisao finds Rin in her hiding place, and convinces her to reconcile with Nomiya."
+    old "A frantic Nomiya queries Hisao about Rin's whereabouts."
     new "取り乱した野宮は久夫に琳の居場所について問いただす。"
 
     # game/definitions.rpy:349
-    old "Measuring Shadows"
+    old "Problems of Self-Referential Logic"
     new "自己参照論理の問題"
 
     # game/definitions.rpy:349
-    old "Rin's apology to the art teacher isn't well-received."
+    old "Hisao finds Rin in her hiding place, and convinces her to reconcile with Nomiya."
     new "久夫は琳が隠れているのを見つけ、野宮に謝るよう説得する。"
 
     # game/definitions.rpy:349
-    old "Raison d'être"
+    old "Measuring Shadows"
     new "影を測る"
 
     # game/definitions.rpy:349
-    old "Hisao comforts an upset Rin."
+    old "Rin's apology to the art teacher isn't well-received."
     new "琳の美術教師への謝罪は、歓迎されない。"
 
     # game/definitions.rpy:349
-    old "Without Breathing, Without a Sound"
+    old "Raison d'être"
     new "レゾンデートル"
 
     # game/definitions.rpy:349
-    old "On the first day of summer vacation, Rin comes to Hisao's room."
+    old "Hisao comforts an upset Rin."
     new "久夫は動転する琳をなぐさめる。"
 
     # game/definitions.rpy:349
-    old "Proof of Existence"
+    old "Without Breathing, Without a Sound"
     new "息もなく、音もなく"
 
     # game/definitions.rpy:349
-    old "Everything comes together on that dandelion-covered hilltop."
+    old "On the first day of summer vacation, Rin comes to Hisao's room."
     new "夏休みの初めの日に、琳が久夫の部屋にやってくる。"
+
+    # game/definitions.rpy:349
+    old "Proof of Existence"
+    new "存在の証明"
+
+    # game/definitions.rpy:349
+    old "Everything comes together on that dandelion-covered hilltop."
+    new "たんぽぽに覆われた丘の上で、すべてがあるべき場所に収まる。"
 
     # game/definitions.rpy:349
     old "Shizune"
@@ -1592,287 +1592,287 @@ translate jp strings:
 
     # game/definitions.rpy:349
     old "Act 2: Learning to Read"
-    new "存在の証明"
-
-    # game/definitions.rpy:349
-    old "Message Passing"
     new "Act 2: 読む練習"
 
     # game/definitions.rpy:349
-    old "Shizune and Hisao explore methods of communication."
-    new "None"
-
-    # game/definitions.rpy:349
-    old "Talk to the Hand"
+    old "Message Passing"
     new "伝言のやりとり"
 
     # game/definitions.rpy:349
-    old "Hisao begins studying a new language, and a tutor appears."
+    old "Shizune and Hisao explore methods of communication."
     new "静音と久夫はコミュニケーションの手段を探る。"
 
     # game/definitions.rpy:349
-    old "Chinese Whispers"
+    old "Talk to the Hand"
     new "手に向かって話しかけて"
 
     # game/definitions.rpy:349
-    old "Kenji manages to coerce Hisao to do a favor for him, but Hisao runs into trouble in many forms."
+    old "Hisao begins studying a new language, and a tutor appears."
     new "久夫は新しい言語を勉強し始め、個人指導者が登場する。"
 
     # game/definitions.rpy:349
-    old "Advanced Game Theory"
+    old "Chinese Whispers"
     new "伝言ゲーム"
 
     # game/definitions.rpy:349
-    old "RISK isn't enough any more to satiate Shizune's hunger. What's worse, a new opponent makes her appearance."
+    old "Kenji manages to coerce Hisao to do a favor for him, but Hisao runs into trouble in many forms."
     new "健二は久夫に無理矢理頼み事をするが、久夫はさまざまな困難に見舞われる。"
 
     # game/definitions.rpy:349
-    old "Bread, Scissors, Paper"
+    old "Advanced Game Theory"
     new "上級ゲーム理論"
 
     # game/definitions.rpy:349
-    old "A lazy afternoon becomes dramatic as suddenly a piece of bread becomes an object of extreme interest."
+    old "RISK isn't enough any more to satiate Shizune's hunger. What's worse, a new opponent makes her appearance."
     new "もうリスクゲームでは静音の飢えを満たせない。さらに新しい敵までもが登場する。"
 
     # game/definitions.rpy:349
-    old "Interface"
+    old "Bread, Scissors, Paper"
     new "じゃん・けん・パン"
 
     # game/definitions.rpy:349
-    old "Shizune and Hisao find a connection."
+    old "A lazy afternoon becomes dramatic as suddenly a piece of bread becomes an object of extreme interest."
     new "一切れのパンが突然強烈な興味の対象になり、けだるげな午後が劇的なものに変わる。"
 
     # game/definitions.rpy:349
-    old "Spring into Action"
+    old "Interface"
     new "インターフェイス"
 
     # game/definitions.rpy:349
-    old "Hisao has to mediate between Lilly and Shizune, but luckily things work out in the end."
+    old "Shizune and Hisao find a connection."
     new "静音と久夫はつながりを見出す。"
 
     # game/definitions.rpy:349
-    old "Past Imperfective"
+    old "Spring into Action"
     new "即時対応"
 
     # game/definitions.rpy:349
-    old "The Student Council reminisces about past years while relaxing at the Shanghai."
+    old "Hisao has to mediate between Lilly and Shizune, but luckily things work out in the end."
     new "久夫はリリーと静音の仲裁をするはめになるが、幸い最後には丸く収まる。"
 
     # game/definitions.rpy:349
-    old "When Stars Embrace"
+    old "Past Imperfective"
     new "過去不完全型"
 
     # game/definitions.rpy:349
-    old "It's finally time for Tanabata!"
+    old "The Student Council reminisces about past years while relaxing at the Shanghai."
     new "上海でくつろいでいる間、生徒会は過去の年月を回想する。"
 
     # game/definitions.rpy:349
-    old "Act 3: Sleight of Hand"
+    old "When Stars Embrace"
     new "星々が抱き合うとき"
 
     # game/definitions.rpy:349
-    old "Force Feedback"
+    old "It's finally time for Tanabata!"
+    new "ついに七夕の日が来た！"
+
+    # game/definitions.rpy:349
+    old "Act 3: Sleight of Hand"
     new "Act 3: 器用な手つき"
 
     # game/definitions.rpy:349
-    old "Hisao finds out that Shizune is going to visit her family, and manages to come along."
-    new "None"
-
-    # game/definitions.rpy:349
-    old "United Nations"
+    old "Force Feedback"
     new "フォースフィードバック"
 
     # game/definitions.rpy:349
-    old "The trip to Shizune's house, meeting her little brother, and a sudden fishing contest."
+    old "Hisao finds out that Shizune is going to visit her family, and manages to come along."
     new "久夫は静音が実家に戻るのを知って、ついて行くことに成功する。"
 
     # game/definitions.rpy:349
-    old "Use-Mention Distinction"
+    old "United Nations"
     new "国際連合"
 
     # game/definitions.rpy:349
-    old "Hideaki tries to entertain Hisao for a day, meeting with little success."
+    old "The trip to Shizune's house, meeting her little brother, and a sudden fishing contest."
     new "静音の実家への旅、彼女の弟との出会い、そして突然の魚釣り競争。"
 
     # game/definitions.rpy:349
-    old "Family Plot"
+    old "Use-Mention Distinction"
     new "使用と言及の区別"
 
     # game/definitions.rpy:349
-    old "Our trio meets Shizune's father and immediately beats a hasty retreat."
+    old "Hideaki tries to entertain Hisao for a day, meeting with little success."
     new "秀明は久夫をもてなそうとするが、あまりうまくいかない。"
 
     # game/definitions.rpy:349
-    old "Pangrammatic Window"
+    old "Family Plot"
     new "家族陰謀"
 
     # game/definitions.rpy:349
-    old "A request from Hideaki to learn sign language unexpectedly escalates into a shouting match with Jigoro."
+    old "Our trio meets Shizune's father and immediately beats a hasty retreat."
     new "我らが三人衆は静音の父に会い、すぐさま早々に引き上げる。"
 
     # game/definitions.rpy:349
-    old "Closer"
+    old "Pangrammatic Window"
     new "パングラム"
 
     # game/definitions.rpy:349
-    old "Shizune and Hisao join together for the first time."
+    old "A request from Hideaki to learn sign language unexpectedly escalates into a shouting match with Jigoro."
     new "秀明の手話を学びたいという要望は、治五郎との怒鳴りあいという予想外の事態に発展する。"
 
     # game/definitions.rpy:349
-    old "Confrontation"
+    old "Closer"
     new "もっとそばに"
 
     # game/definitions.rpy:349
-    old "Jigoro belittles the Student Council and Hisao rises up to the challenge."
+    old "Shizune and Hisao join together for the first time."
     new "静音と久夫は、はじめて、ひとつになる。"
 
     # game/definitions.rpy:349
-    old "The Anchor"
+    old "Confrontation"
     new "対決"
 
     # game/definitions.rpy:349
-    old "Back to Yamaku. A letter from Iwanako prompts a lengthy discussion from Kenji on the finer points of girlfriends."
+    old "Jigoro belittles the Student Council and Hisao rises up to the challenge."
     new "治五郎が生徒会を過小評価するので、久夫はその挑戦を受けて立つ。"
 
     # game/definitions.rpy:349
-    old "Roadmap"
+    old "The Anchor"
     new "錨"
 
     # game/definitions.rpy:349
-    old "The Student Council worries about their replacement, and Hisao ends up treating Misha to a parfait somehow."
+    old "Back to Yamaku. A letter from Iwanako prompts a lengthy discussion from Kenji on the finer points of girlfriends."
     new "山久に戻る。岩魚子からの手紙と、ガールフレンドの詳細について健二の長話。"
 
     # game/definitions.rpy:349
-    old "Acute Triangle"
+    old "Roadmap"
     new "ロードマップ"
 
     # game/definitions.rpy:349
-    old "An afternoon of work with Shizune shows Hisao that something is amiss between the girls."
+    old "The Student Council worries about their replacement, and Hisao ends up treating Misha to a parfait somehow."
     new "生徒会は自分たちの後任について心配し、久夫はなぜかミーシャにパフェをおごるはめになる。"
 
     # game/definitions.rpy:349
-    old "Dewey Decimated"
+    old "Acute Triangle"
     new "鋭角三角関係"
 
     # game/definitions.rpy:349
-    old "Yuuko gets Hisao to watch the library for her. The arrival of Kenji makes the attempt meet with mixed success."
+    old "An afternoon of work with Shizune shows Hisao that something is amiss between the girls."
     new "静音との午後の仕事で、久夫は静音とミーシャの仲がぎくしゃくしていることを見て取る。"
 
     # game/definitions.rpy:349
-    old "Tongue-Tied"
+    old "Dewey Decimated"
     new "十進分類法"
 
     # game/definitions.rpy:349
-    old "Misha visits Hisao in his room, and things go in an unexpected direction."
+    old "Yuuko gets Hisao to watch the library for her. The arrival of Kenji makes the attempt meet with mixed success."
     new "優子は久夫に図書室の番を頼む。健二の到着で、その試みは半分失敗、半分成功する。"
 
     # game/definitions.rpy:349
-    old "Look Aside"
+    old "Tongue-Tied"
     new "もつれる舌"
 
     # game/definitions.rpy:349
-    old "Hisao meets a depressed Misha on the roof. He ends up pushing her and Shizune together."
+    old "Misha visits Hisao in his room, and things go in an unexpected direction."
     new "ミーシャは久夫を部屋に訪ねる。そして物事は予想しない方向へ向かう。"
 
     # game/definitions.rpy:349
-    old "Look Ahead"
+    old "Look Aside"
     new "脇を見て"
 
     # game/definitions.rpy:349
-    old "Hisao meets a depressed Misha on the roof. Shizune joins them and pulls the whole council back to work."
+    old "Hisao meets a depressed Misha on the roof. He ends up pushing her and Shizune together."
     new "久夫は落ち込んだミーシャと屋上で出会う。そしてミーシャと静音を無理矢理引き合わせる。"
 
     # game/definitions.rpy:349
-    old "Act 4: To My Other Self"
+    old "Look Ahead"
     new "正面を見て"
 
     # game/definitions.rpy:349
-    old "Grand Strategy"
+    old "Hisao meets a depressed Misha on the roof. Shizune joins them and pulls the whole council back to work."
+    new "久夫は落ち込んだミーシャと屋上で出会う。静音は2人に合流し、みんなを仕事にひき戻す。"
+
+    # game/definitions.rpy:349
+    old "Act 4: To My Other Self"
     new "Act 4: もう一人の私へ"
 
     # game/definitions.rpy:349
-    old "Shizune confesses to Hisao some of her goals and failures."
-    new "None"
-
-    # game/definitions.rpy:349
-    old "Off by One"
+    old "Grand Strategy"
     new "大戦略"
 
     # game/definitions.rpy:349
-    old "A failed attempt to cheer up Misha gets converted into an impromptu date for Hisao and Shizune."
+    old "Shizune confesses to Hisao some of her goals and failures."
     new "静音は久夫に自身の目標と失敗を告白する。"
 
     # game/definitions.rpy:349
-    old "Invasion"
+    old "Off by One"
     new "わずかなずれ"
 
     # game/definitions.rpy:349
-    old "Jigoro and Hideaki pay Shizune an unexpected and somewhat unpleasant visit."
+    old "A failed attempt to cheer up Misha gets converted into an impromptu date for Hisao and Shizune."
     new "ミーシャを元気づけようという失敗した試みは、久夫と静音の即興デートに変化する。"
 
     # game/definitions.rpy:349
-    old "Parfait"
+    old "Invasion"
     new "侵略"
 
     # game/definitions.rpy:349
-    old "Hisao and Shizune stalk Misha. Hisao finally manages to corner her and discuss things properly."
+    old "Jigoro and Hideaki pay Shizune an unexpected and somewhat unpleasant visit."
     new "治五郎と秀明が突然静音を訪れるが、どこか不愉快なものに終わる。"
 
     # game/definitions.rpy:349
-    old "The Summit"
-    new "終焉"
-
-    # game/definitions.rpy:349
-    old "Kenji and Shizune meet in Hisao's room. Miraculously, nothing explodes."
-    new "沈黙の学園で静音と早朝の会話。"
-
-    # game/definitions.rpy:349
-    old "Succession"
-    new "頂点"
-
-    # game/definitions.rpy:349
-    old "The current Student Council shapes up their successors before engaging in “extracurricular activities.”"
-    new "健二と静音が久夫の部屋で邂逅する。奇跡的に、何も爆発しない。"
-
-    # game/definitions.rpy:349
-    old "Sneaking Mission"
-    new "引き継ぎ"
-
-    # game/definitions.rpy:349
-    old "The show of Misha's determination spurs Shizune to set her sights on greater things."
-    new "課外活動に従事する前に、在任中の生徒会が後任を鍛え上げる。"
-
-    # game/definitions.rpy:349
-    old "Infinity"
-    new "隠密行動"
-
-    # game/definitions.rpy:349
-    old "Our trio renews their friendship, with their graduation looming close ahead."
-    new "ミーシャが示した決意は、静音がより広い物事に目を向けるのに拍車をかける。"
-
-    # game/definitions.rpy:349
-    old "Present Tense"
+    old "Parfait"
     new "パフェ"
 
     # game/definitions.rpy:349
-    old "Hisao stumbles into Lilly at lunch, and the two talk about Shizune."
+    old "Hisao and Shizune stalk Misha. Hisao finally manages to corner her and discuss things properly."
     new "久夫と静音はミーシャのあとをつける。久夫はとうとうミーシャを追い詰め、きちんと話をする。"
 
     # game/definitions.rpy:349
-    old "Spiral"
+    old "The Summit"
+    new "頂点"
+
+    # game/definitions.rpy:349
+    old "Kenji and Shizune meet in Hisao's room. Miraculously, nothing explodes."
+    new "健二と静音が久夫の部屋で邂逅する。奇跡的に、何も爆発しない。"
+
+    # game/definitions.rpy:349
+    old "Succession"
+    new "引き継ぎ"
+
+    # game/definitions.rpy:349
+    old "The current Student Council shapes up their successors before engaging in “extracurricular activities.”"
+    new "課外活動に従事する前に、在任中の生徒会が後任を鍛え上げる。"
+
+    # game/definitions.rpy:349
+    old "Sneaking Mission"
+    new "隠密行動"
+
+    # game/definitions.rpy:349
+    old "The show of Misha's determination spurs Shizune to set her sights on greater things."
+    new "ミーシャが示した決意は、静音がより広い物事に目を向けるのに拍車をかける。"
+
+    # game/definitions.rpy:349
+    old "Infinity"
+    new "無限"
+
+    # game/definitions.rpy:349
+    old "Our trio renews their friendship, with their graduation looming close ahead."
+    new "卒業を間近に控え、我らが3人は友情を新しくする。"
+
+    # game/definitions.rpy:349
+    old "Present Tense"
     new "現在形"
 
     # game/definitions.rpy:349
-    old "Runaround, stonewalling, and Kenji nighttime ambush."
+    old "Hisao stumbles into Lilly at lunch, and the two talk about Shizune."
     new "久夫は昼食の時、リリーに偶然出会い、2人は静音について話す。"
 
     # game/definitions.rpy:349
-    old "Terminal"
+    old "Spiral"
     new "らせん"
 
     # game/definitions.rpy:349
-    old "An early-morning talk with Shizune in the silent school."
+    old "Runaround, stonewalling, and Kenji nighttime ambush."
     new "その場しのぎの言い逃れ、はぐらかし、そして健二の夜襲。"
+
+    # game/definitions.rpy:349
+    old "Terminal"
+    new "終焉"
+
+    # game/definitions.rpy:349
+    old "An early-morning talk with Shizune in the silent school."
+    new "沈黙の学園で静音と早朝の会話。"
 
     # game/definitions.rpy:733
     old "“"
