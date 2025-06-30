@@ -278,7 +278,6 @@ s_scenes_new = (("プロローグ", rp_actmark, rp_actmark, ("Act 1","Prologue")
     ("運動", "A25", "早朝、久夫と笑美はふたたび一緒にトラックを走る。", "Act 1"),
     ("透明帽子", "A26", "健二は久夫に、人付き合いの仕方についての秘訣を伝授する。", "Act 1"),
     ("ホームグラウンドの利点", "A26_1", "静音とミーシャは、授業に行こうと部屋を出る久夫を拉致する。", "Act 1"),
-    ("回復不可能", "A27", False, "Act 1"),
     ("緩やかな回復", "A27_1", "心臓の動悸から回復し、久夫はようやく授業に出席する。", "Act 1"),
     ("回復不可能", "A27_2", "生徒会に連れ去られた後、久夫は授業に戻ろうと悪戦苦闘する。", "Act 1"),
     ("無料の昼食なんてない", "A28", "正式なメンバーとして初めて、久夫は生徒会室に行く。", "Act 1"),
@@ -591,6 +590,9 @@ def cleanup_key(key: str):
             .replace("’", "'"))
 
 for old, new in zip(s_scenes_old, s_scenes_new):
+    if old[1] != new[1]:
+        print(f"Scene ID mismatch: {old[1]} != {new[1]}")
+        exit(1)
     translates[cleanup_key(old[0])] = new[0]
     if old[2] is not None:
         translates[cleanup_key(old[2])] = new[2]
