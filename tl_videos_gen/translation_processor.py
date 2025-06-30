@@ -221,10 +221,8 @@ def create_text_layer(text, font_path, font_size, color, position, frame_size, a
     # Draw text at high resolution with float coordinates and optional stroke
     if stroke_width > 0:
         stroke_width_scaled = stroke_width * supersample
-        # Use black stroke for better visibility and bold effect
-        stroke_color = (0, 0, 0, color[3]) if len(color) >= 4 else (0, 0, 0, 255)
         draw.text((x, y), text, font=font, fill=color,
-                  stroke_width=stroke_width_scaled, stroke_fill=stroke_color)
+                  stroke_width=stroke_width_scaled, stroke_fill=color)
     else:
         draw.text((x, y), text, font=font, fill=color)
 
@@ -279,7 +277,7 @@ def process_frame_task(args):
             font_size = segment['size'] // 4 if preview_mode else segment['size']
             stroke_width = segment.get('stroke', 0)
             if preview_mode and stroke_width > 0:
-                stroke_width = stroke_width // 4
+                stroke_width = stroke_width / 4.0
             if preview_mode and blur_radius > 0:
                 blur_radius = blur_radius / 4.0
 

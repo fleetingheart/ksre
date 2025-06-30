@@ -1,18 +1,18 @@
-video: ../game/video/tc_act3_rin.mkv
-output_template: ../game/video/tc_act3_rin_{lang}.mkv
+video: ../game/video/tc_act1.mkv
+output_template: ../game/video/tc_act1_{lang}.mkv
 
 masks:
-  - mask_from: assets/tc_act3_rin_mask_0.png
-    mask_to: assets/tc_act3_rin_mask_0.png
+  - mask_from: assets/tc_act1_mask_0.png
+    mask_to: assets/tc_act1_mask_0.png
     start_frame: 205
     end_frame: 360
-  - mask_from: assets/tc_act3_rin_mask_0.png
-    mask_to: assets/tc_act3_rin_mask_1.png
+  - mask_from: assets/tc_act1_mask_0.png
+    mask_to: assets/tc_act1_mask_1.png
     start_frame: 361
     end_frame: 445
 
 segments:
-  - align: center
+  - align: right
     colors:
       - color_from: [ 65, 55, 40, 0 ]
         color_to: [ 65, 55, 40, 255 ]
@@ -31,8 +31,8 @@ segments:
         blur_to: 16
         start_frame: 361
         end_frame: 445
-    position_from: [ 0.51, 0.2 ]
-    position_to: [ 0.49, 0.2 ]
+    position_from: [ 0.68, 0.74 ]
+    position_to: [ 0.66, 0.74 ]
     start_frame: 205
     end_frame: 445
   - align: center
@@ -54,8 +54,8 @@ segments:
         blur_to: 16
         start_frame: 361
         end_frame: 445
-    position_from: [ 0.49, 0.275 ]
-    position_to: [ 0.51, 0.275 ]
+    position_from: [ 0.67, 0.825 ]
+    position_to: [ 0.69, 0.825 ]
     start_frame: 205
     end_frame: 445
 
@@ -63,51 +63,51 @@ translations:
   de:
     - font: ../game/font/playtime_bold.ttf
       size: 52
-      text: "Akt 3:"
+      text: "Akt 1:"
     - font: ../game/font/playtime.ttf
       size: 52
-      text: "Distanziert"
+      text: "Lebenserwartung"
   es:
     - font: ../game/font/playtime_bold.ttf
       size: 52
-      text: "Acto 3:"
+      text: "Acto 1:"
     - font: ../game/font/playtime.ttf
       size: 52
-      text: "Distancia"
+      text: "Esperanza de Vida"
   fr:
     - font: ../game/font/playtime_bold.ttf
       size: 52
-      text: "Acte 3:"
+      text: "Acte 1:"
     - font: ../game/font/playtime.ttf
       size: 52
-      text: "Distance"
+      text: "Espérance de Vie"
   it:
     - font: ../game/font/playtime_bold.ttf
       size: 52
-      text: "Atto 3:"
+      text: "Atto 1:"
     - font: ../game/font/playtime.ttf
       size: 52
-      text: "Distanza"
+      text: "Durata Della Vita"
   jp:
     - font: ../game/font/playtime_bold.ttf
       size: 52
-      text: "Act 3:"
+      text: "Act 1:"
     - font: ../game/font/VL-PGothic-Regular.ttf
       size: 52
-      text: "溝"
+      text: "推定寿命"
   ru:
     - font: ../game/font/playtime.ttf
       size: 52
       stroke: 1.5
-      text: "Акт 3:"
+      text: "Акт 1:"
     - font: ../game/font/playtime.ttf
-      size: 52
-      text: "Расстояние"
+      size: 44
+      text: "Продолжительность жизни"
   zh_hans:
     - font: ../game/font/XiaolaiSC-Regular.ttf
       size: 52
       stroke: 1.0
-      text: "第三章:"
+      text: "第一章:"
     - font: ../game/font/XiaolaiSC-Regular.ttf
       size: 52
-      text: "距离"
+      text: "展望余生"

@@ -77,7 +77,7 @@ def main():
     print("=" * 50)
     print("✓ Virtual environment created")
     print("✓ Python dependencies installed")
-    print("\n�� Setup complete!")
+    print("\nSetup complete!")
 
 
 if __name__ == '__main__':
