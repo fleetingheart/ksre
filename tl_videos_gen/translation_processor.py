@@ -3,6 +3,8 @@
 Translation Processor for Video Frames
 Adds animated text to video frames with interpolation support for position, color, and blur effects.
 Then assembles the frames back into video with original audio.
+
+Author: Nikolai "neparij" Laptev
 """
 
 import os
@@ -20,11 +22,64 @@ import multiprocessing
 _font_cache = {}
 
 
-def load_config(config_path):
-    """Load configuration from YAML file."""
+def load_config(config_path, translation_lang=None):
+    """Load configuration from YAML file and merge with selected translation."""
     try:
         with open(config_path, 'r', encoding='utf-8') as file:
             config = yaml.safe_load(file)
+
+        # Check for required multilingual format
+        if 'translations' not in config:
+            print("Error: Config must contain 'translations' section for multilingual support")
+            sys.exit(1)
+
+        if not translation_lang:
+            available_langs = list(config['translations'].keys())
+            print(f"Error: --translation parameter is required. Available translations: {', '.join(available_langs)}")
+            sys.exit(1)
+
+        if translation_lang not in config['translations']:
+            available_langs = list(config['translations'].keys())
+            print(f"Error: Translation '{translation_lang}' not found in config.")
+            print(f"Available translations: {', '.join(available_langs)}")
+            sys.exit(1)
+
+        segments = config.get('segments', [])
+        translations = config['translations'][translation_lang]
+
+        # Validate segment count matches translation count
+        if len(segments) != len(translations):
+            print(
+                f"Error: Segment count ({len(segments)}) doesn't match translation count ({len(translations)}) for language '{translation_lang}'")
+            sys.exit(1)
+
+        # Merge segments with translations
+        merged_segments = []
+        for i, segment in enumerate(segments):
+            merged_segment = segment.copy()
+            translation = translations[i]
+
+            # Add translation-specific fields
+            merged_segment['font'] = translation['font']
+            merged_segment['size'] = translation['size']
+            merged_segment['text'] = translation['text']
+            # Optional stroke parameter
+            if 'stroke' in translation:
+                merged_segment['stroke'] = translation['stroke']
+
+            merged_segments.append(merged_segment)
+
+        # Update config
+        config['segments'] = merged_segments
+
+        # Handle output path template
+        if 'output_template' in config:
+            config['output'] = config['output_template'].format(lang=translation_lang)
+            del config['output_template']
+
+        # Remove translations section as it's no longer needed
+        del config['translations']
+
         return config
     except Exception as e:
         print(f"Error loading configuration: {e}")
@@ -126,10 +181,11 @@ def get_interpolated_effect(effects_config, effect_type, frame_num):
     return 0  # Default value
 
 
-def create_text_layer(text, font_path, font_size, color, position, frame_size, align='center', blur_radius=0):
+def create_text_layer(text, font_path, font_size, color, position, frame_size, align='center', blur_radius=0,
+                      stroke_width=0, preview_mode=False):
     """Create a text layer with specified properties."""
-    # High quality supersampling for smooth animation
-    supersample = 4
+    # High quality supersampling for smooth animation, or no supersampling for preview
+    supersample = 1 if preview_mode else 4
 
     # Get cached font
     font = get_cached_font(font_path, font_size * supersample)
@@ -139,8 +195,13 @@ def create_text_layer(text, font_path, font_size, color, position, frame_size, a
     high_res_layer = Image.new('RGBA', high_res_size, (0, 0, 0, 0))
     draw = ImageDraw.Draw(high_res_layer)
 
-    # Get text bounding box at high resolution
-    bbox = draw.textbbox((0, 0), text, font=font)
+    # Get text bounding box at high resolution (including stroke if present)
+    if stroke_width > 0:
+        stroke_width_scaled = stroke_width * supersample
+        bbox = draw.textbbox((0, 0), text, font=font, stroke_width=stroke_width_scaled)
+    else:
+        bbox = draw.textbbox((0, 0), text, font=font)
+
     text_width = bbox[2] - bbox[0]
     text_height = bbox[3] - bbox[1]
 
@@ -157,8 +218,15 @@ def create_text_layer(text, font_path, font_size, color, position, frame_size, a
         x -= text_width
     # For 'left' alignment, no adjustment needed
 
-    # Draw text at high resolution with float coordinates
-    draw.text((x, y), text, font=font, fill=color)
+    # Draw text at high resolution with float coordinates and optional stroke
+    if stroke_width > 0:
+        stroke_width_scaled = stroke_width * supersample
+        # Use black stroke for better visibility and bold effect
+        stroke_color = (0, 0, 0, color[3]) if len(color) >= 4 else (0, 0, 0, 255)
+        draw.text((x, y), text, font=font, fill=color,
+                  stroke_width=stroke_width_scaled, stroke_fill=stroke_color)
+    else:
+        draw.text((x, y), text, font=font, fill=color)
 
     # Apply blur at high resolution if specified
     if blur_radius > 0:
@@ -174,7 +242,7 @@ def create_text_layer(text, font_path, font_size, color, position, frame_size, a
 
 def process_frame_task(args):
     """Process a single frame - designed for multiprocessing."""
-    frame_path, segments_config, frame_num, output_path = args
+    frame_path, segments_config, frame_num, output_path, preview_mode = args
 
     try:
         # Load the frame
@@ -207,16 +275,25 @@ def process_frame_task(args):
             # Get interpolated blur
             blur_radius = get_interpolated_effect(segment.get('effects', []), 'blur', frame_num)
 
-            # Create text layer
+            # Create text layer with adjusted font size, stroke and blur for preview mode
+            font_size = segment['size'] // 4 if preview_mode else segment['size']
+            stroke_width = segment.get('stroke', 0)
+            if preview_mode and stroke_width > 0:
+                stroke_width = stroke_width // 4
+            if preview_mode and blur_radius > 0:
+                blur_radius = blur_radius / 4.0
+
             text_layer = create_text_layer(
                 text=segment['text'],
                 font_path=segment['font'],
-                font_size=segment['size'],
+                font_size=font_size,
                 color=color,
                 position=current_position,
                 frame_size=frame_size,
                 align=segment.get('align', 'center'),
-                blur_radius=blur_radius
+                blur_radius=blur_radius,
+                stroke_width=stroke_width,
+                preview_mode=preview_mode
             )
 
             # Composite text layer onto frame
@@ -233,14 +310,16 @@ def process_frame_task(args):
         return False
 
 
-def process_frame(frame_path, segments_config, frame_num, output_path):
+def process_frame(frame_path, segments_config, frame_num, output_path, preview_mode=False):
     """Process a single frame by adding text according to configuration."""
-    return process_frame_task((frame_path, segments_config, frame_num, output_path))
+    return process_frame_task((frame_path, segments_config, frame_num, output_path, preview_mode))
 
 
-def process_frames(config, frames_dir, output_dir):
+def process_frames(config, frames_dir, output_dir, preview_mode=False):
     """Process all frames according to configuration."""
     print("Processing frames with text overlay...")
+    if preview_mode:
+        print("Preview mode: using 1/4 resolution and no supersampling")
 
     # Create output directory
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -280,8 +359,11 @@ def process_frames(config, frames_dir, output_dir):
     # Pre-load all fonts to cache
     print("Pre-loading fonts...")
     unique_fonts = set()
+    supersample_multiplier = 1 if preview_mode else 4
     for segment in segments_config:
-        unique_fonts.add((segment['font'], segment['size'] * 4))  # 4x supersample
+        # Adjust font size for preview mode
+        actual_font_size = segment['size'] // 4 if preview_mode else segment['size']
+        unique_fonts.add((segment['font'], actual_font_size * supersample_multiplier))
 
     for font_path, font_size in unique_fonts:
         get_cached_font(font_path, font_size)
@@ -296,7 +378,7 @@ def process_frames(config, frames_dir, output_dir):
         output_path = output_dir / frame_file.name
 
         if frame_num in frames_with_text:
-            frames_to_process.append((frame_file, segments_config, frame_num, output_path))
+            frames_to_process.append((frame_file, segments_config, frame_num, output_path, preview_mode))
         else:
             frames_to_copy.append((frame_file, output_path))
 
@@ -321,6 +403,7 @@ def process_frames(config, frames_dir, output_dir):
 
         def copy_task(args):
             frame_file, output_path = args
+            # In preview mode, frames are already resized by FFmpeg, so just copy
             shutil.copy2(frame_file, output_path)
 
         with ThreadPoolExecutor(max_workers=multiprocessing.cpu_count()) as executor:
@@ -414,6 +497,74 @@ def get_video_info(video_path):
 def get_video_framerate(video_path):
     """Get framerate of the source video (legacy function for compatibility)."""
     return get_video_info(video_path)['framerate']
+
+
+def preview_video(frames_dir, audio_source, verbose=False):
+    """Preview frames as video with audio using FFmpeg pipe to ffplay."""
+    print(f"Starting preview with ffplay...")
+    print(f"Audio source: {audio_source}")
+    print("Press 'q' to quit preview, SPACE to pause/unpause")
+
+    # Get comprehensive video information
+    video_info = get_video_info(audio_source)
+    print(f"Source video info:")
+    print(f"  Framerate: {video_info['framerate']}fps")
+
+    try:
+        print("Opening preview window...")
+
+        # Use FFmpeg to combine frames with audio and pipe to ffplay
+        ffmpeg_cmd = [
+            'ffmpeg',
+            '-r', str(video_info['framerate']),  # Input framerate
+            '-i', str(frames_dir / 'frame_%05d.png'),  # Input frames
+            '-i', str(audio_source),  # Audio source
+            '-map', '0:v',  # Use video from first input (frames)
+            '-map', '1:a',  # Use audio from second input (original video)
+            '-c:v', 'libx264',  # Video codec
+            '-c:a', 'copy',  # Copy audio
+            '-pix_fmt', 'yuv420p',  # Pixel format
+            '-f', 'matroska',  # Container format for pipe
+            '-'  # Output to stdout
+        ]
+
+        ffplay_cmd = [
+            'ffplay',
+            '-window_title', 'Preview - Press q to quit',
+            '-'  # Read from stdin
+        ]
+
+        if not verbose:
+            ffmpeg_cmd.insert(1, '-loglevel')
+            ffmpeg_cmd.insert(2, 'error')
+            ffplay_cmd.insert(1, '-loglevel')
+            ffplay_cmd.insert(2, 'error')
+
+        if verbose:
+            print("FFmpeg command:", ' '.join(ffmpeg_cmd))
+            print("ffplay command:", ' '.join(ffplay_cmd))
+
+        # Create pipe between ffmpeg and ffplay
+        ffmpeg_proc = subprocess.Popen(ffmpeg_cmd, stdout=subprocess.PIPE)
+        ffplay_proc = subprocess.Popen(ffplay_cmd, stdin=ffmpeg_proc.stdout)
+
+        # Close ffmpeg stdout in parent to allow pipe to work properly
+        ffmpeg_proc.stdout.close()
+
+        # Wait for ffplay to finish
+        ffplay_proc.wait()
+        ffmpeg_proc.wait()
+
+        if ffplay_proc.returncode != 0:
+            print(f"Preview failed with return code {ffplay_proc.returncode}")
+        else:
+            print("Preview completed!")
+
+    except KeyboardInterrupt:
+        print("\nPreview interrupted by user")
+    except Exception as e:
+        print(f"Error starting preview: {e}")
+        raise
 
 
 def assemble_video(frames_dir, audio_source, output_path, verbose=False):
@@ -538,14 +689,18 @@ def main():
                         help='Keep processed frames after video assembly')
     parser.add_argument('--verbose', '-v', action='store_true',
                         help='Enable verbose FFmpeg output for debugging')
+    parser.add_argument('--translation', '-t', required=True,
+                        help='Translation language code (required)')
+    parser.add_argument('--preview', action='store_true',
+                        help='Generate preview at 1/4 resolution and play with FFmpeg')
 
     args = parser.parse_args()
 
-    # Load configuration
-    config = load_config(args.config)
+    # Load configuration with translation support
+    config = load_config(args.config, args.translation)
 
     # Check required fields
-    required_fields = ['audio_source', 'output']
+    required_fields = ['video', 'output']
     for field in required_fields:
         if field not in config:
             print(f"Error: '{field}' field missing in configuration")
@@ -553,7 +708,7 @@ def main():
 
     frames_dir = Path(args.frames_dir)
     temp_dir = Path(args.temp_dir)
-    audio_source = Path(config['audio_source'])
+    audio_source = Path(config['video'])
     output_path = Path(config['output'])
 
     # Check if frames directory exists
@@ -568,17 +723,24 @@ def main():
 
     try:
         # Process frames with text overlay
-        process_frames(config, frames_dir, temp_dir)
+        process_frames(config, frames_dir, temp_dir, preview_mode=args.preview)
 
-        # Assemble video with audio, preserving original codecs
-        assemble_video(temp_dir, audio_source, output_path, verbose=args.verbose)
+        if args.preview:
+            # Show preview with FFmpeg SDL output
+            preview_video(temp_dir, audio_source, verbose=args.verbose)
+        else:
+            # Assemble video with audio, preserving original codecs
+            assemble_video(temp_dir, audio_source, output_path, verbose=args.verbose)
 
         # Clean up temporary frames if not specified otherwise
-        if not args.keep_frames:
+        if not args.keep_frames and not args.preview:
             print("Removing temporary frames...")
             shutil.rmtree(temp_dir, ignore_errors=True)
 
-        print(f"Translation processing complete! Output saved to: {output_path}")
+        if args.preview:
+            print(f"Preview processing complete!")
+        else:
+            print(f"Translation processing complete! Output saved to: {output_path}")
 
     except KeyboardInterrupt:
         print("\nProcessing interrupted by user")

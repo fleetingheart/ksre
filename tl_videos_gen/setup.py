@@ -2,6 +2,8 @@
 """
 Setup script for video processor
 Creates virtual environment and installs Python dependencies
+
+Author: Nikolai "neparij" Laptev
 """
 
 import subprocess
@@ -76,15 +78,6 @@ def main():
     print("✓ Virtual environment created")
     print("✓ Python dependencies installed")
     print("\n�� Setup complete!")
-
-    print("\nTo use the script:")
-    print("   source venv/bin/activate")
-    print("   python video_processor.py config.yaml")
-    print("   deactivate")
-
-    print("\nExample:")
-    print("   source venv/bin/activate")
-    print("   python video_processor.py config_example.yaml --keep-frames")
 
 
 if __name__ == '__main__':

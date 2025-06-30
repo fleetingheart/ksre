@@ -5,6 +5,8 @@ venv/
 frames/
 output/
 temp_frames/
+clean_frames/
+tl_frames/
 
 # Python cache
 __pycache__/

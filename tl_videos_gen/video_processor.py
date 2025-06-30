@@ -3,6 +3,8 @@
 Video Frame Processor with Mask Overlay
 Processes video according to YAML configuration,
 overlaying PNG masks on frames in specified ranges with interpolation support.
+
+Author: Nikolai "neparij" Laptev
 """
 
 import os
@@ -13,6 +15,8 @@ import shutil
 from pathlib import Path
 from PIL import Image
 import argparse
+from concurrent.futures import ThreadPoolExecutor
+import multiprocessing
 
 
 def load_config(config_path):
@@ -26,9 +30,11 @@ def load_config(config_path):
         sys.exit(1)
 
 
-def extract_frames(video_path, frames_dir, verbose=False):
+def extract_frames(video_path, frames_dir, verbose=False, preview_mode=False):
     """Extract all frames from video to frames/ directory."""
     print(f"Extracting frames from video: {video_path}")
+    if preview_mode:
+        print("Preview mode: using 1/4 resolution for faster processing")
 
     # Create frames directory
     frames_dir.mkdir(parents=True, exist_ok=True)
@@ -38,9 +44,16 @@ def extract_frames(video_path, frames_dir, verbose=False):
         'ffmpeg',
         '-v', 'verbose' if verbose else 'info',  # Add verbose control
         '-i', str(video_path),
+    ]
+
+    # Add scale filter for preview mode (1/4 resolution)
+    if preview_mode:
+        cmd.extend(['-vf', 'scale=iw/4:ih/4'])
+
+    cmd.extend([
         '-y',  # overwrite without confirmation
         str(frames_dir / 'frame_%05d.png')
-    ]
+    ])
 
     try:
         if verbose:
@@ -148,8 +161,37 @@ def apply_mask_to_frame(frame_path, mask_path, output_path):
         shutil.copy2(frame_path, output_path)
 
 
+def process_frame_task(args):
+    """Process a single frame - designed for multiprocessing."""
+    frame_path, output_path, segment_info = args
+
+    try:
+        if segment_info['type'] == 'interpolated':
+            # Apply interpolated mask
+            apply_interpolated_mask_to_frame(
+                frame_path,
+                segment_info['mask_from'],
+                segment_info['mask_to'],
+                segment_info['alpha'],
+                output_path
+            )
+        elif segment_info['type'] == 'single':
+            # Apply single mask (backward compatibility)
+            apply_mask_to_frame(frame_path, segment_info['mask'], output_path)
+        else:
+            # Just copy frame
+            shutil.copy2(frame_path, output_path)
+
+        return True
+    except Exception as e:
+        print(f"Error processing frame {frame_path}: {e}")
+        # In case of error, copy original frame
+        shutil.copy2(frame_path, output_path)
+        return False
+
+
 def process_frames(config, frames_dir, output_dir):
-    """Process frames according to configuration."""
+    """Process frames according to configuration using multithreading."""
     print("Processing frames...")
 
     # Create output directory
@@ -165,7 +207,7 @@ def process_frames(config, frames_dir, output_dir):
 
     # Create dictionary for segment information by frame number
     frame_segments = {}
-    for segment in config.get('segments', []):
+    for segment in config.get('masks', []):
         start_frame = segment['start_frame']
         end_frame = segment['end_frame']
 
@@ -213,8 +255,15 @@ def process_frames(config, frames_dir, output_dir):
         else:
             print(f"Warning: segment missing mask information: {segment}")
 
-    # Process each frame
-    processed = 0
+    # Pre-calculate which frames need mask processing
+    frames_with_masks = set(frame_segments.keys())
+    print(f"Frames requiring mask processing: {len(frames_with_masks)}")
+    print(f"Frames to copy unchanged: {total_frames - len(frames_with_masks)}")
+
+    # Separate frames for processing vs copying
+    frames_to_process = []
+    frames_to_copy = []
+
     for frame_num in range(1, total_frames + 1):
         frame_filename = f'frame_{frame_num:05d}.png'
         frame_path = frames_dir / frame_filename
@@ -223,30 +272,40 @@ def process_frames(config, frames_dir, output_dir):
         if not frame_path.exists():
             continue
 
-        if frame_num in frame_segments:
+        if frame_num in frames_with_masks:
             segment_info = frame_segments[frame_num]
-
-            if segment_info['type'] == 'interpolated':
-                # Apply interpolated mask
-                apply_interpolated_mask_to_frame(
-                    frame_path,
-                    segment_info['mask_from'],
-                    segment_info['mask_to'],
-                    segment_info['alpha'],
-                    output_path
-                )
-            elif segment_info['type'] == 'single':
-                # Apply single mask (backward compatibility)
-                apply_mask_to_frame(frame_path, segment_info['mask'], output_path)
+            frames_to_process.append((frame_path, output_path, segment_info))
         else:
-            # Just copy frame
-            shutil.copy2(frame_path, output_path)
+            # Create 'copy' segment info for frames without masks
+            segment_info = {'type': 'copy'}
+            frames_to_copy.append((frame_path, output_path, segment_info))
 
-        processed += 1
-        if processed % 100 == 0:
-            print(f"Processed frames: {processed}/{total_frames}")
+    processed = 0
+    mask_processed = 0
+    copied = 0
 
-    print(f"Processing completed. Total frames: {processed}")
+    # Process mask frames with threading
+    if frames_to_process:
+        print(f"Processing {len(frames_to_process)} frames with masks...")
+        with ThreadPoolExecutor(max_workers=min(16, multiprocessing.cpu_count())) as executor:
+            for success in executor.map(process_frame_task, frames_to_process):
+                mask_processed += 1
+                processed += 1
+                if processed % 50 == 0 or processed == len(frames_to_process):
+                    print(f"Mask processing: {mask_processed}/{len(frames_to_process)} frames")
+
+    # Copy unchanged frames with threading
+    if frames_to_copy:
+        print(f"Copying {len(frames_to_copy)} unchanged frames...")
+        with ThreadPoolExecutor(max_workers=multiprocessing.cpu_count()) as executor:
+            for success in executor.map(process_frame_task, frames_to_copy):
+                copied += 1
+                if copied % 100 == 0 or copied == len(frames_to_copy):
+                    print(f"Copying: {copied}/{len(frames_to_copy)} frames")
+
+    total_processed = mask_processed + copied
+    print(
+        f"Processing completed. Total: {total_processed}/{total_frames}, Mask processed: {mask_processed}, Copied: {copied}")
 
 
 def main():
@@ -260,6 +319,8 @@ def main():
                         help='Keep extracted frames after processing')
     parser.add_argument('--verbose', '-v', action='store_true',
                         help='Enable verbose FFmpeg output for debugging')
+    parser.add_argument('--preview', action='store_true',
+                        help='Preview mode: process at 1/4 resolution for faster preview')
 
     args = parser.parse_args()
 
@@ -281,13 +342,13 @@ def main():
 
     try:
         # Extract frames from video
-        extract_frames(video_path, frames_dir, verbose=args.verbose)
+        extract_frames(video_path, frames_dir, verbose=args.verbose, preview_mode=args.preview)
 
         # Process frames
         process_frames(config, frames_dir, output_dir)
 
         # Remove temporary frames if not specified otherwise
-        if not args.keep_frames:
+        if not args.keep_frames and not args.preview:
             print("Removing temporary frames...")
             shutil.rmtree(frames_dir, ignore_errors=True)
 
