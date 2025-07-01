@@ -7,6 +7,7 @@ output/
 temp_frames/
 clean_frames/
 tl_frames/
+extracted/
 
 # Python cache
 __pycache__/

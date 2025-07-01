@@ -1,0 +1,121 @@
+video: ../game/video/tc_act2_rin.mkv
+output_template: ../game/tl/{lang}/video/tc_act2_rin.mkv
+
+#1390 - blur_start
+# -- 25 frames
+#1415 - blur_end
+# -- 125 frames
+#1540 - blur_start, fade_start
+# -- 80 frames
+#1620 - blur_end, fade_end
+
+masks:
+  - mask_from: assets/tc_act2_rin_mask_0.png
+    mask_to: assets/tc_act2_rin_mask_0.png
+    start_frame: 1390
+    end_frame: 1540
+  - mask_from: assets/tc_act2_rin_mask_0.png
+    mask_to: assets/tc_act2_rin_mask_1.png
+    start_frame: 1541
+    end_frame: 1620
+
+segments:
+  - align: left
+    colors:
+      - color_from: [ 65, 55, 40, 0 ]
+        color_to: [ 65, 55, 40, 255 ]
+        start_frame: 1390
+        end_frame: 1415
+      - color_from: [ 65, 55, 40, 255 ]
+        color_to: [ 65, 55, 40, 0 ]
+        start_frame: 1540
+        end_frame: 1620
+    effects:
+      - blur_from: 16
+        blur_to: 0
+        start_frame: 1390
+        end_frame: 1415
+      - blur_from: 0
+        blur_to: 16
+        start_frame: 1540
+        end_frame: 1620
+    position_from: [ 0.234, 0.745 ]
+    position_to: [ 0.214, 0.745 ]
+    start_frame: 1390
+    end_frame: 1620
+  - align: left
+    colors:
+      - color_from: [ 65, 55, 40, 0 ]
+        color_to: [ 65, 55, 40, 255 ]
+        start_frame: 1390
+        end_frame: 1415
+      - color_from: [ 65, 55, 40, 255 ]
+        color_to: [ 65, 55, 40, 0 ]
+        start_frame: 1540
+        end_frame: 1620
+    effects:
+      - blur_from: 16
+        blur_to: 0
+        start_frame: 1390
+        end_frame: 1415
+      - blur_from: 0
+        blur_to: 16
+        start_frame: 1540
+        end_frame: 1620
+    position_from: [ 0.214, 0.815 ]
+    position_to: [ 0.234, 0.815 ]
+    start_frame: 1390
+    end_frame: 1620
+
+translations:
+  de:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Akt 2:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Losgelöst"
+  es:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Acto 2:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Desconexión"
+  fr:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Acte 2:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Déconnecté"
+  it:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Atto 2:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Disconnessione"
+  jp:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Act 2:"
+    - font: ../game/font/VL-PGothic-Regular.ttf
+      size: 52
+      text: "すれ違い"
+  ru:
+    - font: ../game/font/playtime.ttf
+      size: 52
+      stroke: 1.5
+      text: "Акт 2:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Потеря связи"
+  zh_hans:
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      stroke: 1.0
+      text: "第二章:"
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      text: "断开"

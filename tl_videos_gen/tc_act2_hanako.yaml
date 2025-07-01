@@ -1,0 +1,121 @@
+video: ../game/video/tc_act2_hanako.mkv
+output_template: ../game/tl/{lang}/video/tc_act2_hanako.mkv
+
+#1855 - blur_start
+# -- 30 frames
+#1885 - blur_end
+# -- 130 frames
+#2015 - blur_start, fade_start
+# -- 80 frames
+#2095 - blur_end, fade_end
+
+masks:
+  - mask_from: assets/tc_act2_hanako_mask_0.png
+    mask_to: assets/tc_act2_hanako_mask_0.png
+    start_frame: 1855
+    end_frame: 2015
+  - mask_from: assets/tc_act2_hanako_mask_0.png
+    mask_to: assets/tc_act2_hanako_mask_1.png
+    start_frame: 2016
+    end_frame: 2095
+
+segments:
+  - align: left
+    colors:
+      - color_from: [ 65, 55, 40, 0 ]
+        color_to: [ 65, 55, 40, 255 ]
+        start_frame: 1855
+        end_frame: 1885
+      - color_from: [ 65, 55, 40, 255 ]
+        color_to: [ 65, 55, 40, 0 ]
+        start_frame: 2015
+        end_frame: 2095
+    effects:
+      - blur_from: 16
+        blur_to: 0
+        start_frame: 1855
+        end_frame: 1885
+      - blur_from: 0
+        blur_to: 16
+        start_frame: 2015
+        end_frame: 2095
+    position_from: [ 0.244, 0.745 ]
+    position_to: [ 0.224, 0.745 ]
+    start_frame: 1855
+    end_frame: 2095
+  - align: center
+    colors:
+      - color_from: [ 65, 55, 40, 0 ]
+        color_to: [ 65, 55, 40, 255 ]
+        start_frame: 1855
+        end_frame: 1885
+      - color_from: [ 65, 55, 40, 255 ]
+        color_to: [ 65, 55, 40, 0 ]
+        start_frame: 2015
+        end_frame: 2095
+    effects:
+      - blur_from: 16
+        blur_to: 0
+        start_frame: 1855
+        end_frame: 1885
+      - blur_from: 0
+        blur_to: 16
+        start_frame: 2015
+        end_frame: 2095
+    position_from: [ 0.30, 0.815 ]
+    position_to: [ 0.32, 0.815 ]
+    start_frame: 1855
+    end_frame: 2095
+
+translations:
+  de:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Akt 2:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Versteckspiel"
+  es:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Acto 2:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Las Escondidas"
+  fr:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Acte 2:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Cache-Cache"
+  it:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Atto 2:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Nascondino"
+  jp:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Act 2:"
+    - font: ../game/font/VL-PGothic-Regular.ttf
+      size: 52
+      text: "かくれんぼ"
+  ru:
+    - font: ../game/font/playtime.ttf
+      size: 52
+      stroke: 1.5
+      text: "Акт 2:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Игра в прятки"
+  zh_hans:
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      stroke: 1.0
+      text: "第二章:"
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      text: "捉迷藏"

@@ -1,18 +1,18 @@
-video: ../game/video/tc_act3_rin.mkv
-output_template: ../game/tl/{lang}/video/tc_act3_rin.mkv
+video: ../game/video/tc_act4_lilly.mkv
+output_template: ../game/tl/{lang}/video/tc_act4_lilly.mkv
 
 masks:
-  - mask_from: assets/tc_act3_rin_mask_0.png
-    mask_to: assets/tc_act3_rin_mask_0.png
+  - mask_from: assets/tc_act4_lilly_mask_0.png
+    mask_to: assets/tc_act4_lilly_mask_0.png
     start_frame: 205
     end_frame: 360
-  - mask_from: assets/tc_act3_rin_mask_0.png
-    mask_to: assets/tc_act3_rin_mask_1.png
+  - mask_from: assets/tc_act4_lilly_mask_0.png
+    mask_to: assets/tc_act4_lilly_mask_1.png
     start_frame: 361
     end_frame: 445
 
 segments:
-  - align: center
+  - align: left
     colors:
       - color_from: [ 65, 55, 40, 0 ]
         color_to: [ 65, 55, 40, 255 ]
@@ -31,11 +31,11 @@ segments:
         blur_to: 16
         start_frame: 361
         end_frame: 445
-    position_from: [ 0.51, 0.2 ]
-    position_to: [ 0.49, 0.2 ]
+    position_from: [ 0.6975, 0.745 ]
+    position_to: [ 0.6775, 0.745 ]
     start_frame: 205
     end_frame: 445
-  - align: center
+  - align: left
     colors:
       - color_from: [ 65, 55, 40, 0 ]
         color_to: [ 65, 55, 40, 255 ]
@@ -54,8 +54,8 @@ segments:
         blur_to: 16
         start_frame: 361
         end_frame: 445
-    position_from: [ 0.49, 0.275 ]
-    position_to: [ 0.51, 0.275 ]
+    position_from: [ 0.6775, 0.815 ]
+    position_to: [ 0.6975, 0.815 ]
     start_frame: 205
     end_frame: 445
 
@@ -63,51 +63,51 @@ translations:
   de:
     - font: ../game/font/playtime_bold.ttf
       size: 52
-      text: "Akt 3:"
+      text: "Akt 4:"
     - font: ../game/font/playtime.ttf
       size: 52
-      text: "Distanziert"
+      text: "Zukunft"
   es:
     - font: ../game/font/playtime_bold.ttf
       size: 52
-      text: "Acto 3:"
+      text: "Acto 4:"
     - font: ../game/font/playtime.ttf
       size: 52
-      text: "Distancia"
+      text: "Futuro"
   fr:
     - font: ../game/font/playtime_bold.ttf
       size: 52
-      text: "Acte 3:"
+      text: "Acte 4:"
     - font: ../game/font/playtime.ttf
       size: 52
-      text: "Distance"
+      text: "Futur"
   it:
     - font: ../game/font/playtime_bold.ttf
       size: 52
-      text: "Atto 3:"
+      text: "Atto 4:"
     - font: ../game/font/playtime.ttf
       size: 52
-      text: "Distanza"
+      text: "Futuro"
   jp:
     - font: ../game/font/playtime_bold.ttf
       size: 52
-      text: "Act 3:"
+      text: "Act 4:"
     - font: ../game/font/VL-PGothic-Regular.ttf
       size: 52
-      text: "溝"
+      text: "未来"
   ru:
     - font: ../game/font/playtime.ttf
       size: 52
       stroke: 1.5
-      text: "Акт 3:"
+      text: "Акт 4:"
     - font: ../game/font/playtime.ttf
       size: 52
-      text: "Расстояние"
+      text: "Будущее"
   zh_hans:
     - font: ../game/font/XiaolaiSC-Regular.ttf
       size: 52
       stroke: 1.0
-      text: "第三章:"
+      text: "第四章:"
     - font: ../game/font/XiaolaiSC-Regular.ttf
       size: 52
-      text: "距离"
+      text: "未来"

@@ -1,5 +1,5 @@
 video: ../game/video/tc_act1.mkv
-output_template: ../game/video/tc_act1_{lang}.mkv
+output_template: ../game/tl/{lang}/video/tc_act1.mkv
 
 masks:
   - mask_from: assets/tc_act1_mask_0.png
@@ -31,8 +31,8 @@ segments:
         blur_to: 16
         start_frame: 361
         end_frame: 445
-    position_from: [ 0.68, 0.74 ]
-    position_to: [ 0.66, 0.74 ]
+    position_from: [ 0.68, 0.745 ]
+    position_to: [ 0.66, 0.745 ]
     start_frame: 205
     end_frame: 445
   - align: center
@@ -54,8 +54,8 @@ segments:
         blur_to: 16
         start_frame: 361
         end_frame: 445
-    position_from: [ 0.67, 0.825 ]
-    position_to: [ 0.69, 0.825 ]
+    position_from: [ 0.67, 0.815 ]
+    position_to: [ 0.69, 0.815 ]
     start_frame: 205
     end_frame: 445
 
