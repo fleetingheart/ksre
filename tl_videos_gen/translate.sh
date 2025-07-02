@@ -9,22 +9,23 @@ source venv/bin/activate
 PREVIEW=${PREVIEW:-false}
 
 VIDEOS=$(cat <<EOF
-#op_1
+opening_schema
 tc_act1
-#tc_act2_hanako
-#tc_act2_lilly
-#tc_act2_rin
-#tc_act2_shizune
-#tc_act3_emi
-#tc_act3_hanako
-#tc_act3_lilly
+tc_act2_emi
+tc_act2_hanako
+tc_act2_lilly
+tc_act2_rin
+tc_act2_shizune
+tc_act3_emi
+tc_act3_hanako
+tc_act3_lilly
 tc_act3_rin
-#tc_act3_shizune
-#tc_act4_emi
-#tc_act4_hanako
-#tc_act4_lilly
-#tc_act4_rin
-#tc_act4_shizune
+tc_act3_shizune
+tc_act4_emi
+tc_act4_hanako
+tc_act4_lilly
+tc_act4_rin
+tc_act4_shizune
 EOF
 )
 
@@ -84,6 +85,11 @@ for video in $VIDEOS; do
         python3 ./video_processor.py --output-dir clean_frames "${video}".yaml
     fi
 
+    if [[ $? -ne 0 ]]; then
+        log_bold_colored "196" "Processing failed for $video. Exiting."
+        exit 1
+    fi
+
     for lang in $LANGUAGES; do
         if [[ "$lang" == \#* ]]; then
             log_bold "Skipping language: $lang"
@@ -96,6 +102,11 @@ for video in $VIDEOS; do
             python3 ./translation_processor.py --frames-dir clean_frames --temp-dir tl_frames --translation "$lang" "$video.yaml" --preview
         else
             python3 ./translation_processor.py --frames-dir clean_frames --temp-dir tl_frames --translation "$lang" "$video.yaml"
+        fi
+
+        if [[ $? -ne 0 ]]; then
+            log_bold_colored "196" "Translation failed for $lang in video $video. Exiting."
+            exit 1
         fi
     done
 done

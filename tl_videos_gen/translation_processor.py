@@ -21,6 +21,214 @@ import multiprocessing
 # Global font cache to avoid reloading fonts
 _font_cache = {}
 
+def blocks_config_add_tl(config, lang, text, font, size, stroke=0):
+    """Add translation entry for a static block in blocks configuration."""
+    if 'translations' not in config:
+        config['translations'] = {}
+
+    if lang not in config['translations']:
+        config['translations'][lang] = []
+
+    config['translations'][lang].append({
+        'text': text,
+        'font': font,
+        'size': size,
+        'stroke': stroke
+    })
+
+def blocks_config_get_tl_or_default(values, lang):
+    """Get translation value for a specific language or return default if not found."""
+    if lang in values:
+        return values[lang]
+    elif 'default' in values:
+        return values['default']
+    else:
+        print(f"Error: No translation found for language '{lang}' and no default specified")
+        sys.exit(1)
+
+def parse_as_blocks_config(config):
+    config['segments'] = []
+    config['translations'] = {}
+
+    languages_list = config.get('langs', [])
+    if len(languages_list) == 0:
+        print("Error: No languages specified in configuration")
+        sys.exit(1)
+
+    fade_in_frames = config.get('fade_in_frames', 0)
+    fade_out_frames = config.get('fade_out_frames', 0)
+    blur_radius = config.get('blur_radius', 0)
+    font_size = config.get('font_size', 24)
+
+    if 'fonts' not in config or len(config['fonts']) <= 1 or 'default' not in config['fonts']:
+        print(f"Error: No default font specified in configuration")
+        sys.exit(1)
+
+    for block in config.get('blocks', []):
+        if 'type' not in block or 'position' not in block or 'timeline' not in block:
+            print(f"Error: Each block must have 'type', 'position', and 'timeline' fields")
+            sys.exit(1)
+
+        if block['type'] == 'static':
+            config['segments'].append({
+                'align': block.get('align', 'center'),
+                'start_frame': block['timeline'][0],
+                'end_frame': block['timeline'][1],
+                'position_from': [ block['position'][0] / 1920.0, block['position'][1] / 1080.0 ],
+                'position_to': [ block['position'][0] / 1920.0, block['position'][1] / 1080.0 ],
+                'colors': [
+                    {
+                        'start_frame': block['timeline'][0],
+                        'end_frame': block['timeline'][0] + fade_in_frames,
+                        'color_from': [255, 255, 255, 0],
+                        'color_to': [255, 255, 255, 255]
+                    },
+                    {
+                        'start_frame': block['timeline'][1] - fade_out_frames,
+                        'end_frame': block['timeline'][1],
+                        'color_from': [255, 255, 255, 255],
+                        'color_to': [255, 255, 255, 0]
+                    }
+                ],
+                'effects': [
+                    {
+                        'start_frame': block['timeline'][0],
+                        'end_frame': block['timeline'][0] + fade_in_frames,
+                        'blur_from': blur_radius,
+                        'blur_to': 0
+                    },
+                    {
+                        'start_frame': block['timeline'][1] - fade_out_frames,
+                        'end_frame': block['timeline'][1],
+                        'blur_from': 0,
+                        'blur_to': blur_radius
+                    }
+                ]
+            })
+            for lang in languages_list:
+                blocks_config_add_tl(config, lang,
+                                     blocks_config_get_tl_or_default(block['values'], lang),
+                                     blocks_config_get_tl_or_default(config['fonts'], lang),
+                                     font_size,
+                                     stroke=1)
+
+
+        elif block['type'] == 'credits_block':
+            items_idx = 0
+            for item in block['items']:
+                config['segments'].append({
+                    'align': block.get('align', 'left'),
+                    'start_frame': block['timeline'][0],
+                    'end_frame': block['timeline'][1],
+                    'position_from': [(4 + block['position'][0]) / 1920.0, (6 + block['position'][1]) / 1080.0] if items_idx == 0
+                                else [(4 + (block['position'][0] - 60 + 10 * items_idx)) / 1920.0, (6 + (block['position'][1] + 15 + items_idx * 45)) / 1080.0],
+                    'position_to':   [(4 + (block['position'][0] - 50)) / 1920.0, (6 + block['position'][1]) / 1080.0] if items_idx == 0
+                                else [(4 + block['position'][0]) / 1920.0, (6 + (block['position'][1] + 15 + items_idx * 45)) / 1080.0],
+                    'colors': [
+                        {
+                            'start_frame': block['timeline'][0],
+                            'end_frame': block['timeline'][0] + fade_in_frames,
+                            'color_from': [0, 0, 0, 0],
+                            'color_to': [0, 0, 0, 64]
+                        },
+                        {
+                            'start_frame': block['timeline'][1] - fade_out_frames,
+                            'end_frame': block['timeline'][1],
+                            'color_from': [0, 0, 0, 64],
+                            'color_to': [0, 0, 0, 0]
+                        }
+                    ],
+                    'effects': [
+                        {
+                            'start_frame': block['timeline'][0],
+                            'end_frame': block['timeline'][0] + fade_in_frames,
+                            'blur_from': font_size / 4 + blur_radius,
+                            'blur_to': font_size / 4
+                        },
+                        {
+                            'start_frame': block['timeline'][0] + fade_in_frames,
+                            'end_frame': block['timeline'][1] - fade_out_frames,
+                            'blur_from': font_size / 4,
+                            'blur_to': font_size / 4
+                        },
+                        {
+                            'start_frame': block['timeline'][1] - fade_out_frames,
+                            'end_frame': block['timeline'][1],
+                            'blur_from': font_size / 4,
+                            'blur_to': font_size / 4 + blur_radius
+                            # 'blur_to': 0
+                        }
+                    ]
+                })
+                config['segments'].append({
+                    'align': block.get('align', 'left'),
+                    'start_frame': block['timeline'][0],
+                    'end_frame': block['timeline'][1],
+                    'position_from': [block['position'][0] / 1920.0, block['position'][1] / 1080.0] if items_idx == 0
+                    else [(block['position'][0] - 60 + 10 * items_idx) / 1920.0,
+                          (block['position'][1] + 15 + items_idx * 45) / 1080.0],
+                    'position_to': [(block['position'][0] - 50) / 1920.0,
+                                    block['position'][1] / 1080.0] if items_idx == 0
+                    else [block['position'][0] / 1920.0, (block['position'][1] + 15 + items_idx * 45) / 1080.0],
+                    'colors': [
+                        {
+                            'start_frame': block['timeline'][0],
+                            'end_frame': block['timeline'][0] + fade_in_frames,
+                            'color_from': [255, 255, 255, 0],
+                            'color_to': [255, 255, 255, 255]
+                        },
+                        {
+                            'start_frame': block['timeline'][1] - fade_out_frames,
+                            'end_frame': block['timeline'][1],
+                            'color_from': [255, 255, 255, 255],
+                            'color_to': [255, 255, 255, 0]
+                        }
+                    ],
+                    'effects': [
+                        {
+                            'start_frame': block['timeline'][0],
+                            'end_frame': block['timeline'][0] + fade_in_frames,
+                            'blur_from': blur_radius,
+                            'blur_to': 0
+                        },
+                        {
+                            'start_frame': block['timeline'][1] - fade_out_frames,
+                            'end_frame': block['timeline'][1],
+                            'blur_from': 0,
+                            'blur_to': blur_radius
+                        }
+                    ]
+                })
+                for lang in languages_list:
+                    blocks_config_add_tl(config, lang,
+                                         blocks_config_get_tl_or_default(item, lang),
+                                         blocks_config_get_tl_or_default(config['fonts'], lang),
+                                         font_size,
+                                         stroke=(1 if items_idx == 0 else 0))
+                    blocks_config_add_tl(config, lang,
+                                         blocks_config_get_tl_or_default(item, lang),
+                                         blocks_config_get_tl_or_default(config['fonts'], lang),
+                                         font_size,
+                                         stroke=(1 if items_idx == 0 else 0))
+                items_idx += 1
+
+        else:
+            print(f"Error: Unsupported block type '{block['type']}' in configuration")
+            sys.exit(1)
+
+    del config['blocks']
+    del config['langs']
+    del config['fade_in_frames']
+    del config['fade_out_frames']
+    del config['blur_radius']
+    del config['font_size']
+    del config['fonts']
+
+    # print(f"Configuration (stringified): {yaml.dump(config, allow_unicode=True)}")
+    #
+    # sys.exit(0)
+    return config
+
 
 def load_config(config_path, translation_lang=None):
     """Load configuration from YAML file and merge with selected translation."""
@@ -30,8 +238,12 @@ def load_config(config_path, translation_lang=None):
 
         # Check for required multilingual format
         if 'translations' not in config:
-            print("Error: Config must contain 'translations' section for multilingual support")
-            sys.exit(1)
+            if 'blocks' in config:
+                print("Found blocks configuration, converting to multilingual format...")
+                config = parse_as_blocks_config(config)
+            else:
+                print("Error: Config must contain 'translations' section for multilingual support")
+                sys.exit(1)
 
         if not translation_lang:
             available_langs = list(config['translations'].keys())
@@ -213,7 +425,6 @@ def create_text_layer(text, font_path, font_size, color, position, frame_size, a
     # Adjust position based on alignment with float precision
     if align == 'center':
         x -= text_width / 2.0
-        y -= text_height / 2.0
     elif align == 'right':
         x -= text_width
     # For 'left' alignment, no adjustment needed
@@ -321,6 +532,13 @@ def process_frames(config, frames_dir, output_dir, preview_mode=False):
 
     # Create output directory
     output_dir.mkdir(parents=True, exist_ok=True)
+
+    # Clean output directory if it exists
+    for file in output_dir.glob('frame_*.png'):
+        try:
+            file.unlink()
+        except Exception as e:
+            print(f"Error removing existing frame file {file}: {e}")
 
     # Get frame files
     frame_files = get_frame_files(frames_dir)

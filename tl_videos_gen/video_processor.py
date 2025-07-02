@@ -39,6 +39,13 @@ def extract_frames(video_path, frames_dir, verbose=False, preview_mode=False):
     # Create frames directory
     frames_dir.mkdir(parents=True, exist_ok=True)
 
+    # Clean frames directory if it already exists
+    for file in frames_dir.glob('frame_*.png'):
+        try:
+            file.unlink()
+        except Exception as e:
+            print(f"Error removing existing frame file {file}: {e}")
+
     # FFmpeg command to extract frames
     cmd = [
         'ffmpeg',
@@ -115,16 +122,18 @@ def apply_interpolated_mask_to_frame(frame_path, mask_from_path, mask_to_path, a
 
         # Load masks
         mask_from = Image.open(mask_from_path).convert('RGBA')
-        mask_to = Image.open(mask_to_path).convert('RGBA')
-
-        # Resize masks to frame size if necessary
         if mask_from.size != frame.size:
             mask_from = mask_from.resize(frame.size, Image.Resampling.LANCZOS)
-        if mask_to.size != frame.size:
-            mask_to = mask_to.resize(frame.size, Image.Resampling.LANCZOS)
 
-        # Interpolate between masks
-        interpolated_mask = interpolate_masks(mask_from, mask_to, alpha)
+        if mask_to_path != mask_from_path:
+            mask_to = Image.open(mask_to_path).convert('RGBA')
+            if mask_to.size != frame.size:
+                mask_to = mask_to.resize(frame.size, Image.Resampling.LANCZOS)
+
+            # Interpolate between masks
+            interpolated_mask = interpolate_masks(mask_from, mask_to, alpha)
+        else:
+            interpolated_mask = mask_from
 
         # Overlay interpolated mask on top of frame
         result = Image.alpha_composite(frame, interpolated_mask)
@@ -218,11 +227,11 @@ def process_frames(config, frames_dir, output_dir):
 
             # Check if mask files exist
             if not os.path.exists(mask_from_path):
-                print(f"Warning: mask_from file not found: {mask_from_path}")
-                continue
+                print(f"Error: mask_from file not found: {mask_from_path}")
+                quit(1)
             if not os.path.exists(mask_to_path):
-                print(f"Warning: mask_to file not found: {mask_to_path}")
-                continue
+                print(f"Error: mask_to file not found: {mask_to_path}")
+                quit(1)
 
             # Store segment info for each frame in range
             for frame_num in range(start_frame, end_frame + 1):
@@ -239,19 +248,6 @@ def process_frames(config, frames_dir, output_dir):
                     'alpha': alpha
                 }
 
-        elif 'mask' in segment:
-            # Old format - single mask
-            mask_path = segment['mask']
-
-            if not os.path.exists(mask_path):
-                print(f"Warning: mask file not found: {mask_path}")
-                continue
-
-            for frame_num in range(start_frame, end_frame + 1):
-                frame_segments[frame_num] = {
-                    'type': 'single',
-                    'mask': mask_path
-                }
         else:
             print(f"Warning: segment missing mask information: {segment}")
 
@@ -337,15 +333,28 @@ def main():
         print(f"Error: video file not found: {video_path}")
         sys.exit(1)
 
+    frames_source = None
+    if 'frames_source' in config:
+        frames_source = Path(config['frames_source'])
+        if not frames_source.exists():
+            print(f"Error: frames source file not found: {frames_source}")
+            sys.exit(1)
+        else:
+            print(f"Using existing frames from: {frames_source}")
+            args.frames_dir = frames_source
+
     frames_dir = Path(args.frames_dir)
     output_dir = Path(args.output_dir)
 
     try:
-        # Extract frames from video
-        extract_frames(video_path, frames_dir, verbose=args.verbose, preview_mode=args.preview)
+        if frames_source is not None:
+            extract_frames(frames_source, output_dir, verbose=args.verbose, preview_mode=args.preview)
+        else:
+            # Extract frames from video
+            extract_frames(video_path, frames_dir, verbose=args.verbose, preview_mode=args.preview)
 
-        # Process frames
-        process_frames(config, frames_dir, output_dir)
+            # Process frames
+            process_frames(config, frames_dir, output_dir)
 
         # Remove temporary frames if not specified otherwise
         if not args.keep_frames and not args.preview:
