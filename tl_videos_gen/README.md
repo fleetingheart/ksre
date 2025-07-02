@@ -12,7 +12,7 @@ Tools for adding translated text to videos with mask overlays and effects.
 
 2. **Process video with masks** (remove original text):
    ```bash
-   python3 video_processor.py video_config_name.yaml --output-dir clean_frames
+   python3 video_processor.py --output-dir clean_frames video_config_name.yaml
    ```
 
 3. **Add translated text**:
