@@ -393,7 +393,7 @@ def get_interpolated_effect(effects_config, effect_type, frame_num):
     return 0  # Default value
 
 
-def create_text_layer(text, font_path, font_size, color, position, frame_size, align='center', blur_radius=0,
+def create_text_layer(text, font_path, font_size, color: tuple[4], position, frame_size, align='center', blur_radius=0,
                       stroke_width=0, preview_mode=False):
     """Create a text layer with specified properties."""
     # High quality supersampling for smooth animation, or no supersampling for preview
@@ -404,7 +404,7 @@ def create_text_layer(text, font_path, font_size, color, position, frame_size, a
 
     # Create a transparent layer for text at higher resolution
     high_res_size = (frame_size[0] * supersample, frame_size[1] * supersample)
-    high_res_layer = Image.new('RGBA', high_res_size, (0, 0, 0, 0))
+    high_res_layer = Image.new('RGBA', high_res_size, (color[0], color[1], color[2], 0))
     draw = ImageDraw.Draw(high_res_layer)
 
     # Get text bounding box at high resolution (including stroke if present)
