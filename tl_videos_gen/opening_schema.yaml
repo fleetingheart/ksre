@@ -19,7 +19,7 @@ langs:
 blocks:
   - type: "static"
     position: [ 1330, 675 ]
-    timeline: [ 199, 320 ]
+    timeline: [ 197, 314 ]
     values:
       default: "Four Leaf Studios presents"
       de: "Four Leaf Studios präsentiert"
@@ -31,7 +31,7 @@ blocks:
       zh_hans: "Four Leaf Studios 出品"
   - type: "credits_block"
     position: [ 1290, 670 ]
-    timeline: [ 545, 655 ]
+    timeline: [ 544, 659 ]
     items:
       - default: "Inspiration"
         de: "Inspiration"
@@ -44,7 +44,7 @@ blocks:
       - default: "RAITA"
   - type: "credits_block"
     position: [ 1290, 670 ]
-    timeline: [ 680, 790 ]
+    timeline: [ 679, 795 ]
     items:
       - default: "Writing"
         de: "Autoren"
@@ -61,7 +61,7 @@ blocks:
       - default: "TheHivemind"
   - type: "credits_block"
     position: [ 1290, 670 ]
-    timeline: [ 815, 925 ]
+    timeline: [ 816, 933 ]
     items:
       - default: "Editing"
         de: "Editoren"
@@ -76,7 +76,7 @@ blocks:
       - default: "Silentcook"
   - type: "credits_block"
     position: [ 1290, 670 ]
-    timeline: [ 955, 1060 ]
+    timeline: [ 954, 1071 ]
     items:
       - default: "Music"
         de: "Musik"
@@ -90,7 +90,7 @@ blocks:
       - default: "NicolArmarfi"
   - type: "credits_block"
     position: [ 1290, 780 ]
-    timeline: [ 1095, 1200 ]
+    timeline: [ 1094, 1211 ]
     items:
       - default: "Art"
         de: "Künstler"
@@ -105,7 +105,7 @@ blocks:
       - default: "pimmy"
   - type: "credits_block"
     position: [ 1290, 780 ]
-    timeline: [ 1232, 1337 ]
+    timeline: [ 1230, 1349 ]
     items:
       - default: "Art"
         de: "Künstler"
@@ -120,7 +120,7 @@ blocks:
       - default: "Raide"
   - type: "credits_block"
     position: [ 1290, 780 ]
-    timeline: [ 1370, 1475 ]
+    timeline: [ 1368, 1487 ]
     items:
       - default: "Additional Art"
         de: "Zusätzliches Material"
@@ -135,7 +135,7 @@ blocks:
       - default: "yujovi"
   - type: "credits_block"
     position: [ 1290, 780 ]
-    timeline: [ 1507, 1613 ]
+    timeline: [ 1506, 1628 ]
     items:
       - default: "FMV Animation"
         de: "FMV Animation"
@@ -148,7 +148,7 @@ blocks:
       - default: "Mike Inel"
   - type: "credits_block"
     position: [ 1290, 780 ]
-    timeline: [ 1645, 1750 ]
+    timeline: [ 1647, 1766 ]
     items:
       - default: "Directing"
         de: "Regie"
@@ -163,7 +163,7 @@ blocks:
       - default: "yujovi"
   - type: "credits_block"
     position: [ 1290, 780 ]
-    timeline: [ 1785, 1890 ]
+    timeline: [ 1785, 1904 ]
     items:
       - default: "Engineering"
         de: "Technik"
@@ -176,7 +176,7 @@ blocks:
       - default: "delta"
   - type: "credits_block"
     position: [ 1290, 780 ]
-    timeline: [ 1925, 2030 ]
+    timeline: [ 1923, 2042 ]
     items:
       - default: "Production"
         de: "Produktion"
@@ -191,5 +191,5 @@ blocks:
 
 fonts:
   default: ../game/font/playtime.ttf
-  jp: ../game/font/VL-PGothic-Regular.ttf
-  zh_hans: ../game/font/XiaolaiSC-Regular.ttf
+  jp: assets/jp.ttf
+  zh_hans: assets/zh_hans.ttf

@@ -110,7 +110,7 @@ def parse_as_blocks_config(config):
                                      blocks_config_get_tl_or_default(block['values'], lang),
                                      blocks_config_get_tl_or_default(config['fonts'], lang),
                                      font_size,
-                                     stroke=1)
+                                     stroke=0)
 
 
         elif block['type'] == 'credits_block':
