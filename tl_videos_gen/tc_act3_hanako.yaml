@@ -1,0 +1,113 @@
+video: ../game/video/tc_act3_hanako.mkv
+output_template: ../game/tl/{lang}/video/tc_act3_hanako.mkv
+
+masks:
+  - mask_from: assets/tc_act3_hanako_mask_0.png
+    mask_to: assets/tc_act3_hanako_mask_0.png
+    start_frame: 205
+    end_frame: 360
+  - mask_from: assets/tc_act3_hanako_mask_0.png
+    mask_to: assets/tc_act3_hanako_mask_1.png
+    start_frame: 361
+    end_frame: 445
+
+segments:
+  - align: left
+    colors:
+      - color_from: [ 65, 55, 40, 0 ]
+        color_to: [ 65, 55, 40, 255 ]
+        start_frame: 205
+        end_frame: 230
+      - color_from: [ 65, 55, 40, 255 ]
+        color_to: [ 65, 55, 40, 0 ]
+        start_frame: 361
+        end_frame: 445
+    effects:
+      - blur_from: 16
+        blur_to: 0
+        start_frame: 205
+        end_frame: 230
+      - blur_from: 0
+        blur_to: 16
+        start_frame: 361
+        end_frame: 445
+    position_from: [ 0.65, 0.2 ]
+    position_to: [ 0.63, 0.2 ]
+    start_frame: 205
+    end_frame: 445
+  - align: center
+    colors:
+      - color_from: [ 65, 55, 40, 0 ]
+        color_to: [ 65, 55, 40, 255 ]
+        start_frame: 205
+        end_frame: 230
+      - color_from: [ 65, 55, 40, 255 ]
+        color_to: [ 65, 55, 40, 0 ]
+        start_frame: 361
+        end_frame: 445
+    effects:
+      - blur_from: 16
+        blur_to: 0
+        start_frame: 205
+        end_frame: 230
+      - blur_from: 0
+        blur_to: 16
+        start_frame: 361
+        end_frame: 445
+    position_from: [ 0.70, 0.26 ]
+    position_to: [ 0.72, 0.26 ]
+    start_frame: 205
+    end_frame: 445
+
+translations:
+  de:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Akt 3:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Rochaden"
+  es:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Acto 3:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Enroque"
+  fr:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Acte 3:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Roque"
+  it:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Atto 3:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Arrocco"
+  jp:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Act 3:"
+    - font: ../game/font/VL-PGothic-Regular.ttf
+      size: 52
+      text: "キャスリング"
+  ru:
+    - font: ../game/font/playtime.ttf
+      size: 52
+      stroke: 1.5
+      text: "Акт 3:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Рокировка"
+  zh_hans:
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      stroke: 1.0
+      text: "第三章:"
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      text: "王车易位"

@@ -1,0 +1,15 @@
+# Open the second font and set its em size to 2048, then save as a temp file
+Open($2)
+ScaleToEm(0,2000)
+Generate("temp-merge-font.ttf")
+Close()
+
+# Open the first font
+Open($1)
+
+# Merge the modified second font
+MergeFonts("temp-merge-font.ttf")
+
+# Generate the output
+Generate($4)
+Quit()

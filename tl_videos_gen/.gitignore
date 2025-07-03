@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Temporary processing directories
+frames/
+output/
+temp_frames/
+clean_frames/
+tl_frames/
+extracted/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo 

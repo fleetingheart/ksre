@@ -22,6 +22,8 @@ init python:
     build.classify("**.psd", None)
     build.classify("/tl_script/*.*", None)
     build.classify("/tl_script_jp/*.*", None)
+    build.classify("/tl_videos_gen/assets/*.*", None)
+    build.classify("/tl_videos_gen/*.*", None)
     build.classify("/fastlane/*.*", None)
     build.classify("/flatpak/*.*", None)
     build.classify("/steamdeck/*.*", None)

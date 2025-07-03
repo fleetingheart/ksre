@@ -1,0 +1,113 @@
+video: ../game/video/tc_act1.mkv
+output_template: ../game/tl/{lang}/video/tc_act1.mkv
+
+masks:
+  - mask_from: assets/tc_act1_mask_0.png
+    mask_to: assets/tc_act1_mask_0.png
+    start_frame: 205
+    end_frame: 360
+  - mask_from: assets/tc_act1_mask_0.png
+    mask_to: assets/tc_act1_mask_1.png
+    start_frame: 361
+    end_frame: 445
+
+segments:
+  - align: right
+    colors:
+      - color_from: [ 65, 55, 40, 0 ]
+        color_to: [ 65, 55, 40, 255 ]
+        start_frame: 205
+        end_frame: 230
+      - color_from: [ 65, 55, 40, 255 ]
+        color_to: [ 65, 55, 40, 0 ]
+        start_frame: 361
+        end_frame: 445
+    effects:
+      - blur_from: 16
+        blur_to: 0
+        start_frame: 205
+        end_frame: 230
+      - blur_from: 0
+        blur_to: 16
+        start_frame: 361
+        end_frame: 445
+    position_from: [ 0.68, 0.745 ]
+    position_to: [ 0.66, 0.745 ]
+    start_frame: 205
+    end_frame: 445
+  - align: center
+    colors:
+      - color_from: [ 65, 55, 40, 0 ]
+        color_to: [ 65, 55, 40, 255 ]
+        start_frame: 205
+        end_frame: 230
+      - color_from: [ 65, 55, 40, 255 ]
+        color_to: [ 65, 55, 40, 0 ]
+        start_frame: 361
+        end_frame: 445
+    effects:
+      - blur_from: 16
+        blur_to: 0
+        start_frame: 205
+        end_frame: 230
+      - blur_from: 0
+        blur_to: 16
+        start_frame: 361
+        end_frame: 445
+    position_from: [ 0.67, 0.815 ]
+    position_to: [ 0.69, 0.815 ]
+    start_frame: 205
+    end_frame: 445
+
+translations:
+  de:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Akt 1:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Lebenserwartung"
+  es:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Acto 1:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Esperanza de Vida"
+  fr:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Acte 1:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Espérance de Vie"
+  it:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Atto 1:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Durata Della Vita"
+  jp:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Act 1:"
+    - font: ../game/font/VL-PGothic-Regular.ttf
+      size: 52
+      text: "推定寿命"
+  ru:
+    - font: ../game/font/playtime.ttf
+      size: 52
+      stroke: 1.5
+      text: "Акт 1:"
+    - font: ../game/font/playtime.ttf
+      size: 44
+      text: "Продолжительность жизни"
+  zh_hans:
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      stroke: 1.0
+      text: "第一章:"
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      text: "展望余生"

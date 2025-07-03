@@ -1,0 +1,195 @@
+video: ../game/video/op_1.mkv
+output_template: ../game/tl/{lang}/video/op_1.mkv
+frames_source: assets/op_1_cleanup.mkv
+
+fade_in_frames: 10
+fade_out_frames: 45
+blur_radius: 16
+font_size: 42
+
+langs:
+  - de
+  - es
+  - fr
+  - it
+  - jp
+  - ru
+  - zh_hans
+
+blocks:
+  - type: "static"
+    position: [ 1330, 675 ]
+    timeline: [ 197, 314 ]
+    values:
+      default: "Four Leaf Studios presents"
+      de: "Four Leaf Studios präsentiert"
+      es: "Four Leaf Studios presenta"
+      fr: "Four Leaf Studios présente"
+      it: "Four Leaf Studios presenta"
+      jp: "Four Leaf Studios が贈る"
+      ru: "Four Leaf Studios представляет"
+      zh_hans: "Four Leaf Studios 出品"
+  - type: "credits_block"
+    position: [ 1290, 670 ]
+    timeline: [ 544, 659 ]
+    items:
+      - default: "Inspiration"
+        de: "Inspiration"
+        es: "Inspiración"
+        fr: "Inspiration"
+        it: "Ispirazione"
+        jp: "インスピレーション"
+        ru: "Вдохновение"
+        zh_hans: "灵感来源"
+      - default: "RAITA"
+  - type: "credits_block"
+    position: [ 1290, 670 ]
+    timeline: [ 679, 795 ]
+    items:
+      - default: "Writing"
+        de: "Autoren"
+        es: "Escrito por"
+        fr: "Écriture"
+        it: "Scrittori"
+        jp: "ライター"
+        ru: "Авторы"
+        zh_hans: "剧本"
+      - default: "Anonymous22"
+      - default: "Aura"
+      - default: "cpl_crud"
+      - default: "Suriko"
+      - default: "TheHivemind"
+  - type: "credits_block"
+    position: [ 1290, 670 ]
+    timeline: [ 816, 933 ]
+    items:
+      - default: "Editing"
+        de: "Editoren"
+        es: "Edición"
+        fr: "Édition"
+        it: "Editori"
+        jp: "編集"
+        ru: "Редакторы"
+        zh_hans: "编辑"
+      - default: "Kagami"
+      - default: "Losstarot"
+      - default: "Silentcook"
+  - type: "credits_block"
+    position: [ 1290, 670 ]
+    timeline: [ 954, 1071 ]
+    items:
+      - default: "Music"
+        de: "Musik"
+        es: "Música"
+        fr: "Musique"
+        it: "Musica"
+        jp: "音楽"
+        ru: "Музыка"
+        zh_hans: "音乐"
+      - default: "Blue123"
+      - default: "NicolArmarfi"
+  - type: "credits_block"
+    position: [ 1290, 780 ]
+    timeline: [ 1094, 1211 ]
+    items:
+      - default: "Art"
+        de: "Künstler"
+        es: "Arte"
+        fr: "Visuels"
+        it: "Artisti"
+        jp: "美術"
+        ru: "Художники"
+        zh_hans: "美工"
+      - default: "gebyy-terar"
+      - default: "Kamifish"
+      - default: "pimmy"
+  - type: "credits_block"
+    position: [ 1290, 780 ]
+    timeline: [ 1230, 1349 ]
+    items:
+      - default: "Art"
+        de: "Künstler"
+        es: "Arte"
+        fr: "Visuels"
+        it: "Artisti"
+        jp: "美術"
+        ru: "Художники"
+        zh_hans: "美工"
+      - default: "moekki"
+      - default: "raemz"
+      - default: "Raide"
+  - type: "credits_block"
+    position: [ 1290, 780 ]
+    timeline: [ 1368, 1487 ]
+    items:
+      - default: "Additional Art"
+        de: "Zusätzliches Material"
+        es: "Arte Adicional"
+        fr: "Visuels supplémentaires"
+        it: "Artisti Addizionali"
+        jp: "美術補"
+        ru: "Доп. художники"
+        zh_hans: "客串美工"
+      - default: "climatic"
+      - default: "Doomfest"
+      - default: "yujovi"
+  - type: "credits_block"
+    position: [ 1290, 780 ]
+    timeline: [ 1506, 1628 ]
+    items:
+      - default: "FMV Animation"
+        de: "FMV Animation"
+        es: "Animación FMV"
+        fr: "Animation FMV"
+        it: "Animazioni FMV"
+        jp: "アニメーション"
+        ru: "FMV-анимация"
+        zh_hans: "FMV 动画"
+      - default: "Mike Inel"
+  - type: "credits_block"
+    position: [ 1290, 780 ]
+    timeline: [ 1647, 1766 ]
+    items:
+      - default: "Directing"
+        de: "Regie"
+        es: "Dirección"
+        fr: "Direction"
+        it: "Direttori"
+        jp: "ディレクション"
+        ru: "Проектирование"
+        zh_hans: "导演"
+      - default: "delta"
+      - default: "Raide"
+      - default: "yujovi"
+  - type: "credits_block"
+    position: [ 1290, 780 ]
+    timeline: [ 1785, 1904 ]
+    items:
+      - default: "Engineering"
+        de: "Technik"
+        es: "Ingeniería"
+        fr: "Programmation"
+        it: "Programmatore"
+        jp: "技術"
+        ru: "Тех. обеспечение"
+        zh_hans: "程序"
+      - default: "delta"
+  - type: "credits_block"
+    position: [ 1290, 780 ]
+    timeline: [ 1923, 2042 ]
+    items:
+      - default: "Production"
+        de: "Produktion"
+        es: "Producción"
+        fr: "Production"
+        it: "Produttori"
+        jp: "翻訳"
+        ru: "Продюсеры"
+        zh_hans: "制作"
+      - default: "cpl_crud"
+      - default: "Suriko"
+
+fonts:
+  default: ../game/font/playtime.ttf
+  jp: assets/jp.ttf
+  zh_hans: assets/zh_hans.ttf
