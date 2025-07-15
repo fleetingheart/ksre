@@ -19,5 +19,5 @@ steps:
       SDL_VIDEODRIVER: dummy
     commands:
       - export $(grep -v '^#' .env | xargs)
-      - renutil launch -v 8.3.7 -d . -- lint --error-code --no-orphan-tl
+      - renutil launch -v 8.4.0 -d . -- lint --error-code --no-orphan-tl
     failure: ignore

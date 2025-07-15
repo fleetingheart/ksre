@@ -47,7 +47,7 @@ steps:
     environment:
       SDL_AUDIODRIVER: dummy
       SDL_VIDEODRIVER: dummy
-      RENPY_VERSION: 8.3.7
+      RENPY_VERSION: 8.4.0
       MACOS_APPSTORE_KEY:
         from_secret: macos_app_store_key
       MACOS_NOTARIZE_CERTIFICATE:
