@@ -47,7 +47,7 @@ steps:
     environment:
       SDL_AUDIODRIVER: dummy
       SDL_VIDEODRIVER: dummy
-      RENPY_VERSION: 8.4.0
+      RENPY_VERSION: 8.4.1
       KEYSTORE_APK:
         from_secret: keystore_apk
       KEYSTORE_PASS:
