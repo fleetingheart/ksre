@@ -9,7 +9,7 @@ define config.developer = "auto"
 define config.window = "auto"
 
 define config.name = "Katawa Shoujo: Re-Engineered"
-define config.version = "v0.0.0-localbuild"
+define config.version = "0.0.0-localbuild"
 
 define config.save_directory = "sh.fhs.ksre"
 
