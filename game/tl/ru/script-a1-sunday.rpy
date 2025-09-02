@@ -5080,229 +5080,229 @@ translate ru a1_sunday_nc5xb3_fe1fb39b:
 translate ru a1_sunday_movement_c34054ec:
 
     # "As we are setting up the pieces, there is a noise at the door."
-    label ru_H2:
+    "Только мы расставляем фигуры, как вдруг до нас доносится стук в дверь."
 
 # game/script-a1-sunday.rpy:2802
 translate ru a1_sunday_movement_be82313e:
 
     # li "Good afternoon."
-    "Только мы расставляем фигуры, как вдруг до нас доносится стук в дверь."
+    li "Добрый день."
 
 # game/script-a1-sunday.rpy:2809
 translate ru a1_sunday_movement_eee002c4:
 
     # ha "Lilly…"
-    li "Добрый день."
+    ha "Лилли…"
 
 # game/script-a1-sunday.rpy:2811
 translate ru a1_sunday_movement_1ed233ad:
 
     # hi "Oh, hey there Lilly. Are you finished?"
-    ha "Лилли…"
+    hi "О… С возвращением, Лилли. Ты уже закончила?"
 
 # game/script-a1-sunday.rpy:2816
 translate ru a1_sunday_movement_33ca3ef5:
 
     # li "You both are here? Wonderful. At any rate, our teacher managed to round up some extra help, so I was able to leave. Have you been here since you left?"
-    hi "О… С возвращением, Лилли. Ты уже закончила?"
+    li "Значит, вы здесь? Чудесно. Учитель попросил помочь других ребят, так что мне наконец-то удалось освободиться. Вы тут с тех пор, как ты ушёл, Хисао?"
 
 # game/script-a1-sunday.rpy:2818
 translate ru a1_sunday_movement_0200ab03:
 
     # hi "Pretty much, we've just been playing a bit of chess."
-    li "Значит, вы здесь? Чудесно. Учитель попросил помочь других ребят, так что мне наконец-то удалось освободиться. Вы тут с тех пор, как ты ушёл, Хисао?"
+    hi "Большую часть времени. Мы немножко поиграли в шахматы."
 
 # game/script-a1-sunday.rpy:2823
 translate ru a1_sunday_movement_885decce:
 
     # ha "W-would you like a cup of tea?"
-    hi "Большую часть времени. Мы немножко поиграли в шахматы."
+    ha "Н-не хочешь выпить чашечку чая?"
 
 # game/script-a1-sunday.rpy:2828
 translate ru a1_sunday_movement_d936a0ba:
 
     # li "Actually, I think it may be a good idea to go outside for a little while…"
-    ha "Н-не хочешь выпить чашечку чая?"
+    li "Если честно, у меня появилась, как мне кажется, довольно неплохая идея: прогуляться за пределы школы…"
 
 # game/script-a1-sunday.rpy:2833
 translate ru a1_sunday_movement_8984c137:
 
     # "The instant drop in Hanako's face shows her objection to this plan, even though she says nothing."
-    li "Если честно, у меня появилась, как мне кажется, довольно неплохая идея: прогуляться за пределы школы…"
+    "Ханако мгновенно падает духом, что сразу же отражается на её лице, хоть она ничего и не говорит."
 
 # game/script-a1-sunday.rpy:2835
 translate ru a1_sunday_movement_94c8be61:
 
     # "I feel strangely compelled to voice what is plainly in view on her face, but Lilly can't see."
-    "Ханако мгновенно падает духом, что сразу же отражается на её лице, хоть она ничего и не говорит."
+    "Я почему-то чувствую себя обязанным озвучить отражённые на лице Ханако мысли, которые ясно вижу я, но не может увидеть Лилли."
 
 # game/script-a1-sunday.rpy:2837
 translate ru a1_sunday_movement_6c2192f8:
 
     # hi "I… I kinda think that we should just stay here…"
-    "Я почему-то чувствую себя обязанным озвучить отражённые на лице Ханако мысли, которые ясно вижу я, но не может увидеть Лилли."
+    hi "Мне… мне кажется, что нам стоит остаться здесь…"
 
 # game/script-a1-sunday.rpy:2842
 translate ru a1_sunday_movement_97537cd5:
 
     # li "Really? It's so crowded here that I was thinking we should leave the school and head for the local teahouse."
-    hi "Мне… мне кажется, что нам стоит остаться здесь…"
+    li "В самом деле? Сейчас в школе слишком людно, и поэтому я подумала, что мы могли бы сходить в расположенный неподалёку чайный дом."
 
 # game/script-a1-sunday.rpy:2847
 translate ru a1_sunday_movement_ceaba2eb:
 
     # ha "You mean the S-Shanghai?"
-    li "В самом деле? Сейчас в школе слишком людно, и поэтому я подумала, что мы могли бы сходить в расположенный неподалёку чайный дом."
+    ha "Ты имеешь в виду «Ш-Шанхай»?"
 
 # game/script-a1-sunday.rpy:2852
 translate ru a1_sunday_movement_2de7eece:
 
     # li "Of course; with everyone at the festival it should be practically empty."
-    ha "Ты имеешь в виду «Ш-Шанхай»?"
+    li "Именно. Пока все на фестивале, там должно быть практически пусто."
 
 # game/script-a1-sunday.rpy:2854
 translate ru a1_sunday_movement_ac86271c:
 
     # hi "Teahouse?"
-    li "Именно. Пока все на фестивале, там должно быть практически пусто."
+    hi "Чайный дом?"
 
 # game/script-a1-sunday.rpy:2859
 translate ru a1_sunday_movement_f8c832f7:
 
     # li "Oh, that's right, you probably don't know of it."
-    hi "Чайный дом?"
+    li "Ах да, кажется, мы тебе о нём ещё не рассказывали."
 
 # game/script-a1-sunday.rpy:2864
 translate ru a1_sunday_movement_43ea994d:
 
     # li "There is a teahouse not far from here, which we go to every so often."
-    li "Ах да, кажется, мы тебе о нём ещё не рассказывали."
+    li "Этот чайный дом находится совсем неподалёку отсюда, и мы посещаем его время от времени."
 
 # game/script-a1-sunday.rpy:2866
 translate ru a1_sunday_movement_9a2d8685:
 
     # hi "Sounds like a plan. Hanako, what do you think?"
-    li "Этот чайный дом находится совсем неподалёку отсюда, и мы посещаем его время от времени."
+    hi "А что, неплохая идея. Ханако, как думаешь?"
 
 # game/script-a1-sunday.rpy:2874
 translate ru a1_sunday_movement_4210c793:
 
     # "Hanako jumps a little at being forced into the conversation, but at least she seems less distraught than before."
-    hi "А что, неплохая идея. Ханако, как думаешь?"
+    "Вовлечённая в разговор против своей воли, Ханако слегка вздрагивает, но зато сосредотачивается."
 
 # game/script-a1-sunday.rpy:2879
 translate ru a1_sunday_movement_186391c4:
 
     # ha "If… if it's the Shanghai, I think it'll be nice."
-    "Вовлечённая в разговор против своей воли, Ханако слегка вздрагивает, но зато сосредотачивается."
+    ha "Ес… если в «Шанхай», то ладно."
 
 # game/script-a1-sunday.rpy:2884
 translate ru a1_sunday_movement_726c4283:
 
     # li "Well then, it's settled. Let's be on our way."
-    ha "Ес… если в «Шанхай», то ладно."
+    li "В таком случае решено. Пойдёмте."
 
 # game/script-a1-sunday.rpy:2889
 translate ru a1_sunday_movement_9b5991a9:
 
     # "Hanako and I rise from the table and our preempted chess game."
-    li "В таком случае решено. Пойдёмте."
+    "Мы с Ханако встаём из-за стола, прерывая шахматную партию."
 
 # game/script-a1-sunday.rpy:2891
 translate ru a1_sunday_movement_d42ef27f:
 
     # "Before I can do anything, Hanako has poured the pieces into a small container and placed the board away."
-    "Мы с Ханако встаём из-за стола, прерывая шахматную партию."
+    "Не успеваю я и глазом моргнуть, как Ханако собирает фигурки в маленький ящичек и убирает доску."
 
 # game/script-a1-sunday.rpy:2893
 translate ru a1_sunday_movement_1194027a:
 
     # hi "Looks like we're ready now. Please, lead on."
-    "Не успеваю я и глазом моргнуть, как Ханако собирает фигурки в маленький ящичек и убирает доску."
+    hi "Похоже, теперь мы готовы. Пожалуйста, ведите."
 
 # game/script-a1-sunday.rpy:2904
 translate ru a1_sunday_movement_bc1b3da4:
 
     # "Hanako moves to Lilly's side and we venture onto the school's corridors."
-    hi "Похоже, теперь мы готовы. Пожалуйста, ведите."
+    "Ханако встаёт рядом с Лилли, и мы выходим в коридор."
 
 # game/script-a1-sunday.rpy:2913
 translate ru a1_sunday_movement_f0f0f736:
 
     # "The pair leads me through a series of unfamiliar doors, and we emerge on the side of the building opposite of the festival grounds."
-    "Ханако встаёт рядом с Лилли, и мы выходим в коридор."
+    "Девушки проводят меня через несколько незнакомых дверей, и мы выходим на улицу с противоположной от места проведения фестиваля стороны."
 
 # game/script-a1-sunday.rpy:2915
 translate ru a1_sunday_movement_71f3b542:
 
     # "Insulated by the heavy stone of the building, the noise from the crowd has faded to a murmur."
-    "Девушки проводят меня через несколько незнакомых дверей, и мы выходим на улицу с противоположной от места проведения фестиваля стороны."
+    "Приглушённый толстыми каменными стенами здания шум, исходящий от столпотворения людей, затухает до невнятного шёпота."
 
 # game/script-a1-sunday.rpy:2917
 translate ru a1_sunday_movement_4e65537f:
 
     # hi "Strange; I thought that most people would be beginning to leave by now…"
-    "Приглушённый толстыми каменными стенами здания шум, исходящий от столпотворения людей, затухает до невнятного шёпота."
+    hi "Странно, я думал, что в такое-то время люди уже начнут расходиться…"
 
 # game/script-a1-sunday.rpy:2923
 translate ru a1_sunday_movement_0dc02169:
 
     # li "They're probably here to view the fireworks."
-    hi "Странно, я думал, что в такое-то время люди уже начнут расходиться…"
+    li "Они, наверное, всё ещё здесь из-за фейерверка."
 
 # game/script-a1-sunday.rpy:2925
 translate ru a1_sunday_movement_0b36e291:
 
     # hi "Fireworks?"
-    li "Они, наверное, всё ещё здесь из-за фейерверка."
+    hi "Фейерверка?"
 
 # game/script-a1-sunday.rpy:2930
 translate ru a1_sunday_movement_4a3ffb93:
 
     # li "Yes, apparently the school puts on quite a show. A lot of people come from town just to watch them."
-    hi "Фейерверка?"
+    li "Да. Похоже, школа приготовила настоящее представление. Множество горожан прибыло именно ради того, чтобы на него посмотреть."
 
 # game/script-a1-sunday.rpy:2932
 translate ru a1_sunday_movement_2609725b:
 
     # "Lilly's decision to leave the school grounds seems to make sense now. Hanako would probably have a hard time with the whole town descending onto the school. Or ascending, as the case may be."
-    li "Да. Похоже, школа приготовила настоящее представление. Множество горожан прибыло именно ради того, чтобы на него посмотреть."
+    "Теперь мне становится понятным решение Лилли покинуть территорию школы. Сложно представить, как Ханако справилась бы с тем, что население всего города свалилось на школу как снег на голову. Или, применительно к «Ямаку», поднялось."
 
 # game/script-a1-sunday.rpy:2940
 translate ru a1_sunday_movement_40d96c46:
 
     # "For the second time since arriving at Yamaku I find myself walking down this road with Lilly."
-    "Теперь мне становится понятным решение Лилли покинуть территорию школы. Сложно представить, как Ханако справилась бы с тем, что население всего города свалилось на школу как снег на голову. Или, применительно к «Ямаку», поднялось."
+    "С момента моего перевода сюда мы с Лилли уже во второй раз спускаемся по этой дороге."
 
 # game/script-a1-sunday.rpy:2942
 translate ru a1_sunday_movement_39abfb00:
 
     # "Only now that I can barely hear the incessant noise of the festival do I realize how loud it was. I can hear my ears ringing slightly in the still evening air as they recover from the day's assault on them."
-    "С момента моего перевода сюда мы с Лилли уже во второй раз спускаемся по этой дороге."
+    "Лишь теперь, когда я едва могу слышать оставшийся позади непрекращающийся гул фестиваля, становится понятно, насколько же он был оглушительным. В тишине вечернего воздуха я замечаю незначительный звон в ушах, восстанавливающихся от оказанного на них днём давления."
 
 # game/script-a1-sunday.rpy:2948
 translate ru a1_sunday_movement_8ef8fbf8:
 
     # "Hanako clings to Lilly, but still manages to guide her along the road. That, and avoiding the occasional gaze from curious pedestrians, appears to completely sap her constitution."
-    "Лишь теперь, когда я едва могу слышать оставшийся позади непрекращающийся гул фестиваля, становится понятно, насколько же он был оглушительным. В тишине вечернего воздуха я замечаю незначительный звон в ушах, восстанавливающихся от оказанного на них днём давления."
+    "Ханако, пусть и вцепившись в Лилли, всё-таки умудряется вести её по дороге. Поэтому, а также из-за любопытных взглядов случайных прохожих, она вновь полностью замыкается."
 
 # game/script-a1-sunday.rpy:2950
 translate ru a1_sunday_movement_cf4c2777:
 
     # "She rarely raises her focus from the ground in front of her, nor does she utter a word."
-    "Ханако, пусть и вцепившись в Лилли, всё-таки умудряется вести её по дороге. Поэтому, а также из-за любопытных взглядов случайных прохожих, она вновь полностью замыкается."
+    "Она редко отрывает взгляд от дороги перед собой, и от неё не слышно ни слова."
 
 # game/script-a1-sunday.rpy:2952
 translate ru a1_sunday_movement_fa3136a6:
 
     # "Lilly, on the other hand, maintains her prim and proper persona just as she does in school. It's obvious she purposely puts effort into her appearance, rather than hiding it as Hanako does."
-    "Она редко отрывает взгляд от дороги перед собой, и от неё не слышно ни слова."
+    "С другой стороны, Лилли, как и в школе, придерживается своего обычного чопорного и благопристойного образа. Очевидно, что она намеренно выставляет свою внешность напоказ, а не старается её скрыть, подобно Ханако."
 
 # game/script-a1-sunday.rpy:2954
 translate ru a1_sunday_movement_f8dca8a3:
 
     # "It's striking how different they are in their way of holding themselves outside of Yamaku's grounds. That said, it's obvious in both their cases that they do visibly change."
-    "С другой стороны, Лилли, как и в школе, придерживается своего обычного чопорного и благопристойного образа. Очевидно, что она намеренно выставляет свою внешность напоказ, а не старается её скрыть, подобно Ханако."
+    "Удивительно, насколько же по-разному они держатся за пределами «Ямаку». И очевидно, что они обе существенно изменяются."
 
 # game/script-a1-sunday.rpy:2958
 translate ru a1_sunday_movement_76b2fe88:
@@ -5314,31 +5314,31 @@ translate ru a1_sunday_movement_76b2fe88:
 translate ru a1_sunday_movement_6c50a58e:
 
     # n "{vspace=90}Inside Yamaku, everyone is 'special,' which negates the 'special-ness' of it."
-    "Удивительно, насколько же по-разному они держатся за пределами «Ямаку». И очевидно, что они обе существенно изменяются."
+    n "{vspace=90}Каждый в «Ямаку» – «особенный», что сводит на нет всю эту «особенность»."
 
 # game/script-a1-sunday.rpy:2968
 translate ru a1_sunday_movement_3889aadd:
 
     # n "But once we venture outside the school gates, we are returned to the status of 'outsider' and generic labels."
-    n "{vspace=90}Каждый в «Ямаку» – «особенный», что сводит на нет всю эту «особенность»."
+    n "Однако, стоит лишь выйти за пределы школьных ворот, мы вновь ощущаем себя «изгоями»."
 
 # game/script-a1-sunday.rpy:2970
 translate ru a1_sunday_movement_1e896e9d:
 
     # n "Especially when we are still in school uniform. It's like hanging a sign around your neck challenging people to figure out what is wrong with you."
-    n "Однако, стоит лишь выйти за пределы школьных ворот, мы вновь ощущаем себя «изгоями»."
+    n "Особенно если мы идём в своей школьной форме. Будто вешаем себе на шею объявление, побуждающее людей заинтересоваться, что же с нами не так."
 
 # game/script-a1-sunday.rpy:2972
 translate ru a1_sunday_movement_716f1f1e:
 
     # n "I'm surprised that so many of the students keep it on. Then again, with canes and wheelchairs common among the students, I guess it's not really that much of a giveaway."
-    n "Особенно если мы идём в своей школьной форме. Будто вешаем себе на шею объявление, побуждающее людей заинтересоваться, что же с нами не так."
+    n "Я удивляюсь тому, что большинство учеников выходит за пределы школы, не снимая её. Правда, многие из них передвигаются с помощью трости или инвалидной коляски, поэтому она поясняет то, что и так очевидно."
 
 # game/script-a1-sunday.rpy:2974
 translate ru a1_sunday_movement_7f115645:
 
     # n "{vspace=30}Or maybe I'm the only one that sees this as a stigma? Maybe you get used to it after a time, like any other school uniform."
-    n "Я удивляюсь тому, что большинство учеников выходит за пределы школы, не снимая её. Правда, многие из них передвигаются с помощью трости или инвалидной коляски, поэтому она поясняет то, что и так очевидно."
+    n "{vspace=30}Или, быть может, я единственный, кто воспринимает нашу форму как клеймо? Возможно, я привыкну к ней через некоторое время, как и к любой другой школьной форме."
 
 # game/script-a1-sunday.rpy:2980
 translate ru a1_sunday_movement_76b2fe88_1:
@@ -5350,949 +5350,949 @@ translate ru a1_sunday_movement_76b2fe88_1:
 translate ru a1_sunday_movement_26cf3622:
 
     # "The teahouse seems fairly standard from the outside; just an ordinary building with typical signs decorating the entrance."
-    n "{vspace=30}Или, быть может, я единственный, кто воспринимает нашу форму как клеймо? Возможно, я привыкну к ней через некоторое время, как и к любой другой школьной форме."
+    "Снаружи чайный дом выглядит довольно обыкновенно: кафе с типичной вывеской над входом."
 
 # game/script-a1-sunday.rpy:2987
 translate ru a1_sunday_movement_27d2f2f8:
 
     # "It looks like the type of place you'd walk by without a thought, just another generic café in a sea of thousands."
-    "Снаружи чайный дом выглядит довольно обыкновенно: кафе с типичной вывеской над входом."
+    "Оно похоже на одно из тех мест, мимо которого вы пройдёте не задумываясь, не обратив внимания на очередное заурядное кафе средь морской пучины тысяч подобных заведений."
 
 # game/script-a1-sunday.rpy:2989
 translate ru a1_sunday_movement_6bc4afea:
 
     # "If Hanako hadn't steered Lilly into the entrance I would have continued on down the road without ever knowing that it existed."
-    "Оно похоже на одно из тех мест, мимо которого вы пройдёте не задумываясь, не обратив внимания на очередное заурядное кафе средь морской пучины тысяч подобных заведений."
+    "Если бы Ханако не направила Лилли ко входу, я бы продолжил идти по дороге, так и не узнав о его существовании."
 
 # game/script-a1-sunday.rpy:2998
 translate ru a1_sunday_movement_47981cff:
 
     # "Inside the teahouse it takes on a more traditional feel. Everything seems to have been made from the same lump of timber, from the counter and benches to the high-backed booths around the walls."
-    "Если бы Ханако не направила Лилли ко входу, я бы продолжил идти по дороге, так и не узнав о его существовании."
+    "Интерьер выполнен в традиционном стиле. Всё выглядит так, словно выпилено из одного бруска дерева, начиная с прилавка и скамеек и заканчивая креслами с высокими спинками вдоль стен."
 
 # game/script-a1-sunday.rpy:3000
 translate ru a1_sunday_movement_dd78b4c4:
 
     # "But the most striking feature of the room is the lack of life. I think I can faintly hear something bubbling away in the background, but otherwise the room is silent."
-    "Интерьер выполнен в традиционном стиле. Всё выглядит так, словно выпилено из одного бруска дерева, начиная с прилавка и скамеек и заканчивая креслами с высокими спинками вдоль стен."
+    "Но самой поразительной особенностью этого помещения является его безлюдность. На кухне за стеной вроде бы что-то кипит, но помимо этого стоит тишина."
 
 # game/script-a1-sunday.rpy:3002
 translate ru a1_sunday_movement_ef442f8c:
 
     # "Without any direction, we simply wait near the entrance, politely obeying the 'Please wait to be seated' sign."
-    "Но самой поразительной особенностью этого помещения является его безлюдность. На кухне за стеной вроде бы что-то кипит, но помимо этого стоит тишина."
+    "Не услышав какого-либо приветствия, мы просто стоим рядом со входом, вежливо повинуясь надписи «Пожалуйста, подождите, вас проводят»."
 
 # game/script-a1-sunday.rpy:3004
 translate ru a1_sunday_movement_2a721a68:
 
     # hi "Er, is this place closed or something?"
-    "Не услышав какого-либо приветствия, мы просто стоим рядом со входом, вежливо повинуясь надписи «Пожалуйста, подождите, вас проводят»."
+    hi "Э-э, тут что, сегодня закрыто?"
 
 # game/script-a1-sunday.rpy:3015
 translate ru a1_sunday_movement_5d85304a:
 
     # "The sound of a chair falling over echoes throughout the empty room, and a head shoots up from inside a booth."
-    hi "Э-э, тут что, сегодня закрыто?"
+    "Звук упавшего стула эхом разносится по помещению, и тут же из-за стойки появляется голова."
 
 # game/script-a1-sunday.rpy:3023
 translate ru a1_sunday_movement_fc984c6d:
 
     # yu "I wasn't asleep and welcome to the Shanghai!"
-    "Звук упавшего стула эхом разносится по помещению, и тут же из-за стойки появляется голова."
+    yu "Я не спала, и добро пожаловать в «Шанхай»!"
 
 # game/script-a1-sunday.rpy:3025
 translate ru a1_sunday_movement_5738ec83:
 
     # "Yuuko, dressed in a pastel apron and clutching a menu, rushes to greet us. Her misaligned glasses and ruffled hair cast suspicion on her previous statement."
-    yu "Я не спала, и добро пожаловать в «Шанхай»!"
+    "Юко, одетая в пастельный передник и держащая в руках меню, бросается нам навстречу. Съехавшие очки и растрёпанные волосы заставляют усомниться в её предыдущем утверждении."
 
 # game/script-a1-sunday.rpy:3027
 translate ru a1_sunday_movement_7cc94470:
 
     # "But whether she was asleep or not isn't the first question that leaps to my mind."
-    "Юко, одетая в пастельный передник и держащая в руках меню, бросается нам навстречу. Съехавшие очки и растрёпанные волосы заставляют усомниться в её предыдущем утверждении."
+    "Но спала она или нет – отнюдь не первый вопрос, что возникает у меня в голове."
 
 # game/script-a1-sunday.rpy:3029
 translate ru a1_sunday_movement_e090f735:
 
     # hi "You work here now? What happened to the library?"
-    "Но спала она или нет – отнюдь не первый вопрос, что возникает у меня в голове."
+    hi "Ты теперь здесь работаешь? А как же библиотека?"
 
 # game/script-a1-sunday.rpy:3034
 translate ru a1_sunday_movement_b1f0294c:
 
     # yu "What? Lilly? Hisao?"
-    hi "Ты теперь здесь работаешь? А как же библиотека?"
+    yu "А? Лилли? Хисао?"
 
 # game/script-a1-sunday.rpy:3039
 translate ru a1_sunday_movement_0317a797:
 
     # yu "Welcome to the Shanghai!"
-    yu "А? Лилли? Хисао?"
+    yu "Добро пожаловать в «Шанхай»!"
 
 # game/script-a1-sunday.rpy:3051
 translate ru a1_sunday_movement_acd01465:
 
     # "Yuuko, still waking up, jerks into a violent bow, dislodging her glasses in the process."
-    yu "Добро пожаловать в «Шанхай»!"
+    "Ещё просыпающаяся Юко в неистовом поклоне сбивает с себя очки."
 
 # game/script-a1-sunday.rpy:3053
 translate ru a1_sunday_movement_3d6041db:
 
     # yu "Uweh!? My glasses…"
-    "Ещё просыпающаяся Юко в неистовом поклоне сбивает с себя очки."
+    yu "А?! Мои очки…"
 
 # game/script-a1-sunday.rpy:3055
 translate ru a1_sunday_movement_c9a1d76f:
 
     # "As I pick up her spectacles off the floor, Lilly offers an explanation."
-    yu "А?! Мои очки…"
+    "Пока я поднимаю их с пола, Лилли всё объясняет."
 
 # game/script-a1-sunday.rpy:3064
 translate ru a1_sunday_movement_5d91fdb3:
 
     # li "Yuuko works here part-time as well as at the library. It's one of the reasons we like to come here."
-    "Пока я поднимаю их с пола, Лилли всё объясняет."
+    li "Юко работает здесь на полставки, как и в библиотеке. И это одна из причин, по которой мы любим проводить здесь время."
 
 # game/script-a1-sunday.rpy:3069
 translate ru a1_sunday_movement_c081a803:
 
     # "Yuuko takes her glasses from my hands, shakily putting them back on."
-    li "Юко работает здесь на полставки, как и в библиотеке. И это одна из причин, по которой мы любим проводить здесь время."
+    "Юко забирает у меня очки и дрожащими руками возвращает их на место."
 
 # game/script-a1-sunday.rpy:3071
 translate ru a1_sunday_movement_c7a0a95b:
 
     # yu "Yes… that's right… thanks…"
-    "Юко забирает у меня очки и дрожащими руками возвращает их на место."
+    yu "Да… это так… спасибо…"
 
 # game/script-a1-sunday.rpy:3076
 translate ru a1_sunday_movement_816c3178:
 
     # yu "Shall I show you to your table?"
-    yu "Да… это так… спасибо…"
+    yu "Могу я проводить вас к столику?"
 
 # game/script-a1-sunday.rpy:3081
 translate ru a1_sunday_movement_d80beb12:
 
     # yu "There's no-one else here so you can choose your table and order whatever you like, but there may be a delay as I will have to make it myself…"
-    yu "Могу я проводить вас к столику?"
+    yu "Посетителей сейчас больше нет, так что вы можете занять любой понравившийся вам столик и сразу же сделать заказ. Но всё же вам придётся немного подождать, потому что готовить буду я сама…"
 
 # game/script-a1-sunday.rpy:3086
 translate ru a1_sunday_movement_1c307b6d:
 
     # li "It's all right, Yuuko. Just a pot of black tea and a plate of sandwiches will be fine."
-    yu "Посетителей сейчас больше нет, так что вы можете занять любой понравившийся вам столик и сразу же сделать заказ. Но всё же вам придётся немного подождать, потому что готовить буду я сама…"
+    li "Ничего, Юко. Нам чайничек чёрного чая и тарелку бутербродов, пожалуйста."
 
 # game/script-a1-sunday.rpy:3091
 translate ru a1_sunday_movement_c6e8da86:
 
     # yu "Right! I'll get right onto that!"
-    li "Ничего, Юко. Нам чайничек чёрного чая и тарелку бутербродов, пожалуйста."
+    yu "Хорошо! Я сейчас же займусь!"
 
 # game/script-a1-sunday.rpy:3100
 translate ru a1_sunday_movement_ac44f06a:
 
     # "Yuuko hurries off to the back of the café, leaving us still standing at the entrance."
-    yu "Хорошо! Я сейчас же займусь!"
+    "Юко устремляется во внутреннюю часть кафе, оставив нас стоять у входа."
 
 # game/script-a1-sunday.rpy:3102
 translate ru a1_sunday_movement_2979573b:
 
     # "She pushes the swinging half-doors open before realizing that she hasn't seated us."
-    "Юко устремляется во внутреннюю часть кафе, оставив нас стоять у входа."
+    "Она раздвигает дверки-половинки, когда вспоминает, что так и не усадила нас."
 
 # game/script-a1-sunday.rpy:3104
 translate ru a1_sunday_movement_e00fb94b:
 
     # yu "I'm sorry! I'm sorry! Please, sit wherever you'd like! I'll be right back!"
-    "Она раздвигает дверки-половинки, когда вспоминает, что так и не усадила нас."
+    yu "Извините! Извините! Пожалуйста, усаживайтесь там, где понравится! Я скоро вернусь!"
 
 # game/script-a1-sunday.rpy:3114
 translate ru a1_sunday_movement_f29a27e8:
 
     # "Following her advice, I lead Lilly to the nearest booth as Hanako follows."
-    yu "Извините! Извините! Пожалуйста, усаживайтесь там, где понравится! Я скоро вернусь!"
+    "Последовав её совету, я подвожу Лилли к ближайшей кабинке. Ханако шагает следом."
 
 # game/script-a1-sunday.rpy:3124
 translate ru a1_sunday_movement_a0c5543b:
 
     # "As I begin to sit next to Lilly, I realize how appropriate this place is for Hanako."
-    "Последовав её совету, я подвожу Лилли к ближайшей кабинке. Ханако шагает следом."
+    "Присаживаясь рядом с Лилли, я понимаю, насколько это место подходит Ханако."
 
 # game/script-a1-sunday.rpy:3126
 translate ru a1_sunday_movement_848c0fde:
 
     # "The high-backed booths totally separate you from the rest of the room, and it doesn't look like it gets all that many customers."
-    "Присаживаясь рядом с Лилли, я понимаю, насколько это место подходит Ханако."
+    "Высокие стенки кабинки полностью отделяют нас от остального помещения, и не похоже, что здесь бывает много посетителей."
 
 # game/script-a1-sunday.rpy:3128
 translate ru a1_sunday_movement_a9654a20:
 
     # "All of the furnishings, from the cushions on the benches to the condiment holders, look dated but aren't overly worn."
-    "Высокие стенки кабинки полностью отделяют нас от остального помещения, и не похоже, что здесь бывает много посетителей."
+    "Все предметы обстановки, от подушек на скамейках до подставок для приправ, выглядят старыми, но не изношенными."
 
 # game/script-a1-sunday.rpy:3130
 translate ru a1_sunday_movement_7fb7f71f:
 
     # "I wonder if Lilly deliberately selects places like this to take Hanako? She seems like the type that would go to lengths to cater to Hanako's unique predicament."
-    "Все предметы обстановки, от подушек на скамейках до подставок для приправ, выглядят старыми, но не изношенными."
+    "Интересно, осознанно ли Лилли выбирает подобные места для провождения времени с Ханако? Создаётся впечатление, что она готова пойти куда угодно, лишь бы её подруга не испытывала дискомфорта."
 
 # game/script-a1-sunday.rpy:3138
 translate ru a1_sunday_movement_5f1419e3:
 
     # li "So, Hisao, I didn't know you played chess…"
-    "Интересно, осознанно ли Лилли выбирает подобные места для провождения времени с Ханако? Создаётся впечатление, что она готова пойти куда угодно, лишь бы её подруга не испытывала дискомфорта."
+    li "Итак, Хисао, я и не знала, что ты играешь в шахматы…"
 
 # game/script-a1-sunday.rpy:3140
 translate ru a1_sunday_movement_534713e9:
 
     # hi "Well, not very well, but I do know how to play."
-    li "Итак, Хисао, я и не знала, что ты играешь в шахматы…"
+    hi "Не сказать, что я мастер, но правила знаю."
 
 # game/script-a1-sunday.rpy:3145
 translate ru a1_sunday_movement_bf522883:
 
     # li "I suppose the obvious question would now be… who won?"
-    hi "Не сказать, что я мастер, но правила знаю."
+    li "Полагаю, логично будет спросить… кто победил?"
 
 # game/script-a1-sunday.rpy:3147
 translate ru a1_sunday_movement_75cfb0bd:
 
     # "Lilly's innocent smile makes me hesitate. I don't really want to look like I'm lording my victory over Hanako."
-    li "Полагаю, логично будет спросить… кто победил?"
+    "Невинная улыбка Лилли ставит меня в тупик. Я совершенно не желаю кичиться своей победой над Ханако."
 
 # game/script-a1-sunday.rpy:3153
 translate ru a1_sunday_movement_a7fc18fa:
 
     # ha "H-Hisao did."
-    "Невинная улыбка Лилли ставит меня в тупик. Я совершенно не желаю кичиться своей победой над Ханако."
+    ha "Х-хисао."
 
 # game/script-a1-sunday.rpy:3155
 translate ru a1_sunday_movement_3db8419f:
 
     # hi "Yes… but, uh, not by much…"
-    ha "Х-хисао."
+    hi "Да… но, м-м, с небольшим преимуществом…"
 
 # game/script-a1-sunday.rpy:3157
 translate ru a1_sunday_movement_26918f89:
 
     # "Damn. Saying that out loud makes me feel like I've done something terrible."
-    hi "Да… но, м-м, с небольшим преимуществом…"
+    "Проклятие. Теперь я чувствую себя так, словно совершил что-то ужасное."
 
 # game/script-a1-sunday.rpy:3162
 translate ru a1_sunday_movement_bf8dfb0f:
 
     # li "Well done, Hisao. You've accomplished something I've only ever failed at."
-    "Проклятие. Теперь я чувствую себя так, словно совершил что-то ужасное."
+    li "Отлично, Хисао. Ты сделал то, в чём я постоянно терпела неудачу."
 
 # game/script-a1-sunday.rpy:3164
 translate ru a1_sunday_movement_f38e6fec:
 
     # hi "Er, thanks. I haven't played in ages, so it felt good to play again."
-    li "Отлично, Хисао. Ты сделал то, в чём я постоянно терпела неудачу."
+    hi "Э-э, спасибо. Я давным-давно не играл, потому было здорово сыграть вновь."
 
 # game/script-a1-sunday.rpy:3169
 translate ru a1_sunday_movement_0f6f54af:
 
     # ha "Y… yes… It did."
-    hi "Э-э, спасибо. Я давным-давно не играл, потому было здорово сыграть вновь."
+    ha "Д… да… Было здорово."
 
 # game/script-a1-sunday.rpy:3171
 translate ru a1_sunday_movement_94d3f473:
 
     # "Hanako fidgets with her hair a little and looks away as she replies, but a small smile emerges."
-    ha "Д… да… Было здорово."
+    "Ханако в волнении поправляет волосы и отводит взгляд, но лёгкая улыбка всё же появляется на её лице."
 
 # game/script-a1-sunday.rpy:3173
 translate ru a1_sunday_movement_83f25d54:
 
     # "It's a little more extreme of a reaction than I expected, but still kind of cute in that Hanako way."
-    "Ханако в волнении поправляет волосы и отводит взгляд, но лёгкая улыбка всё же появляется на её лице."
+    "Реакция несколько более яркая, чем я ожидал, но по-своему милая."
 
 # game/script-a1-sunday.rpy:3182
 translate ru a1_sunday_movement_1aaa0d7d:
 
     # "It throws me a little off guard, and only Yuuko's cataclysmic re-entry shocks me back into conversation."
-    "Реакция несколько более яркая, чем я ожидал, но по-своему милая."
+    "Она застигает меня врасплох. И лишь подобное стихийному бедствию появление Юко возвращает мне дар речи."
 
 # game/script-a1-sunday.rpy:3184
 translate ru a1_sunday_movement_9d3f1306:
 
     # hi "Are you all right there, Yuuko? Do you need a hand?"
-    "Она застигает меня врасплох. И лишь подобное стихийному бедствию появление Юко возвращает мне дар речи."
+    hi "Ты в порядке, Юко? Может, тебе помочь?"
 
 # game/script-a1-sunday.rpy:3190
 translate ru a1_sunday_movement_71cc8473:
 
     # yu "I'm fine I'm fine I'm fine. I have to do this properly, it's my job."
-    hi "Ты в порядке, Юко? Может, тебе помочь?"
+    yu "Всё в порядке, всё в порядке, всё в порядке. Я всё сделаю, это моя работа."
 
 # game/script-a1-sunday.rpy:3195
 translate ru a1_sunday_movement_0b81c00c:
 
     # "Concentration plays across her face while she stares at the tray in her hands, as if simply looking at its contents will hold them in place."
-    yu "Всё в порядке, всё в порядке, всё в порядке. Я всё сделаю, это моя работа."
+    "С крайне сосредоточенным лицом Юко устремляет взгляд на поднос, который несёт, словно просто лишь глядя на него она способна удержать его содержимое на месте."
 
 # game/script-a1-sunday.rpy:3200
 translate ru a1_sunday_movement_b3873f3a:
 
     # "Sadly, this doesn't prove all that effective; the cups and saucers slowly dance around, occasionally clattering as they collide with one another."
-    "С крайне сосредоточенным лицом Юко устремляет взгляд на поднос, который несёт, словно просто лишь глядя на него она способна удержать его содержимое на месте."
+    "К сожалению, это не производит никакого эффекта: чашки и блюдца медленно начинают танцевать по кругу, позвякивая при каждом столкновении друг с другом."
 
 # game/script-a1-sunday.rpy:3208
 translate ru a1_sunday_movement_27837391:
 
     # "Taking great care, Yuuko sets the tray down on the table with only the subtlest of crashes."
-    "К сожалению, это не производит никакого эффекта: чашки и блюдца медленно начинают танцевать по кругу, позвякивая при каждом столкновении друг с другом."
+    "С большой осторожностью Юко ставит поднос на стол. В итоге посуда на нём лишь слегка дзынькает."
 
 # game/script-a1-sunday.rpy:3213
 translate ru a1_sunday_movement_511427b5:
 
     # yu "There, see!"
-    "С большой осторожностью Юко ставит поднос на стол. В итоге посуда на нём лишь слегка дзынькает."
+    yu "Вот видите!"
 
 # game/script-a1-sunday.rpy:3215
 translate ru a1_sunday_movement_9bfe88dc:
 
     # hi "Er, well done?"
-    yu "Вот видите!"
+    hi "Э-эм, молодец."
 
 # game/script-a1-sunday.rpy:3220
 translate ru a1_sunday_movement_bcfc619d:
 
     # li "Thank you, Yuuko."
-    hi "Э-эм, молодец."
+    li "Спасибо, Юко."
 
 # game/script-a1-sunday.rpy:3230
 translate ru a1_sunday_movement_13b1b2e9:
 
     # "Yuuko's head rockets downwards in her distinctive bow before answering."
-    li "Спасибо, Юко."
+    "Прежде чем ответить, Юко склоняет голову в фирменном поклоне."
 
 # game/script-a1-sunday.rpy:3235
 translate ru a1_sunday_movement_35facfb4:
 
     # yu "You're very welcome."
-    "Прежде чем ответить, Юко склоняет голову в фирменном поклоне."
+    yu "Всегда пожалуйста."
 
 # game/script-a1-sunday.rpy:3240
 translate ru a1_sunday_movement_25256784:
 
     # li "Would you like to join us? There's something else I'd like to discuss about that recent order, if I may…"
-    yu "Всегда пожалуйста."
+    li "Может, присоединишься к нам? Я хотела бы обсудить с тобой мой недавний заказ, если можно…"
 
 # game/script-a1-sunday.rpy:3242
 translate ru a1_sunday_movement_b8c5ae0a:
 
     # "Ah, that's right. Lilly and Yuuko were discussing a pile of books when I first met Hanako."
-    li "Может, присоединишься к нам? Я хотела бы обсудить с тобой мой недавний заказ, если можно…"
+    "А ведь и правда, когда я впервые встретился с Ханако, Лилли и Юко обсуждали какие-то книги."
 
 # game/script-a1-sunday.rpy:3244
 translate ru a1_sunday_movement_4881d85e:
 
     # "Something about Lilly helping with the Braille…"
-    "А ведь и правда, когда я впервые встретился с Ханако, Лилли и Юко обсуждали какие-то книги."
+    "Какую-то литературу для Лилли на Брайле…"
 
 # game/script-a1-sunday.rpy:3249
 translate ru a1_sunday_movement_c5ef5938:
 
     # yu "Ah… yes. We didn't get the chance to go through them, did we?"
-    "Какую-то литературу для Лилли на Брайле…"
+    yu "Ах… да. У нас так и не было возможности перебрать их, так ведь?"
 
 # game/script-a1-sunday.rpy:3254
 translate ru a1_sunday_movement_fa46b2a5:
 
     # "Yuuko hastily sits down next to Hanako."
-    yu "Ах… да. У нас так и не было возможности перебрать их, так ведь?"
+    "Юко спешно садится рядом с Ханако."
 
 # game/script-a1-sunday.rpy:3256
 translate ru a1_sunday_movement_f06b8f5a:
 
     # "Apparently her dedication to this job only goes as far as her concentration; once it is broken, she suddenly loses it."
-    "Юко спешно садится рядом с Ханако."
+    "Очевидно, преданность Юко работе не сильнее сосредоточенности; стоит ей лишь немного пошатнуться, и она тут же забывает про неё."
 
 # game/script-a1-sunday.rpy:3261
 translate ru a1_sunday_movement_52e54e36:
 
     # yu "I'll be in the library tomorrow afternoon if you'd like to try again…"
-    "Очевидно, преданность Юко работе не сильнее сосредоточенности; стоит ей лишь немного пошатнуться, и она тут же забывает про неё."
+    yu "Я буду в библиотеке завтра днём, если захочешь попробовать ещё раз…"
 
 # game/script-a1-sunday.rpy:3266
 translate ru a1_sunday_movement_dceb800f:
 
     # li "That sounds perfect, I'll meet you there after classes."
-    yu "Я буду в библиотеке завтра днём, если захочешь попробовать ещё раз…"
+    li "Замечательно, тогда я встречусь там с тобой после уроков."
 
 # game/script-a1-sunday.rpy:3271
 translate ru a1_sunday_movement_966b04cf:
 
     # ha "Um… L-Lilly…"
-    li "Замечательно, тогда я встречусь там с тобой после уроков."
+    ha "М-м… Л-Лилли…"
 
 # game/script-a1-sunday.rpy:3276
 translate ru a1_sunday_movement_e9d84f6a:
 
     # li "Oh dear, that's right. Tomorrow is Monday, how could I have forgotten?"
-    ha "М-м… Л-Лилли…"
+    li "Боже мой, точно. Завтра понедельник, как я могла забыть?"
 
 # game/script-a1-sunday.rpy:3278
 translate ru a1_sunday_movement_0c2a2ff6:
 
     # "I'm starting to feel a little left out of the loop here. Then again that's to be expected; I have been here for barely a week, so it's impossible to know everyone's schedule."
-    li "Боже мой, точно. Завтра понедельник, как я могла забыть?"
+    "Не совсем понимаю, о чём они толкуют. Что и неудивительно: я здесь всего неделю, так что с распорядком каждого ученика едва ли могу быть знаком."
 
 # game/script-a1-sunday.rpy:3283
 translate ru a1_sunday_movement_e65685a8:
 
     # li "Well, perhaps we could come to some other arrangement."
-    "Не совсем понимаю, о чём они толкуют. Что и неудивительно: я здесь всего неделю, так что с распорядком каждого ученика едва ли могу быть знаком."
+    li "В таком случае нам стоит заново договориться."
 
 # game/script-a1-sunday.rpy:3288
 translate ru a1_sunday_movement_c2cd1e86:
 
     # li "Yuuko, will you be in the library later in the week?"
-    li "В таком случае нам стоит заново договориться."
+    li "Юко, а ты будешь в библиотеке в другие дни недели?"
 
 # game/script-a1-sunday.rpy:3293
 translate ru a1_sunday_movement_53f45b5f:
 
     # yu "Hmm, maybe, but this is already overdue…"
-    li "Юко, а ты будешь в библиотеке в другие дни недели?"
+    yu "Хм, может быть, но будет слишком поздно…"
 
 # game/script-a1-sunday.rpy:3298
 translate ru a1_sunday_movement_a7f0abb8:
 
     # ha "A-and there are some… things I n-need…"
-    yu "Хм, может быть, но будет слишком поздно…"
+    ha "И-и мне кое… кое-что надо…"
 
 # game/script-a1-sunday.rpy:3303
 translate ru a1_sunday_movement_026ce1fe:
 
     # li "This might be a problem…"
-    ha "И-и мне кое… кое-что надо…"
+    li "Это может быть проблематично…"
 
 # game/script-a1-sunday.rpy:3305
 translate ru a1_sunday_movement_c16e48e2:
 
     # "Lilly ponders for a second before discovering the answer."
-    li "Это может быть проблематично…"
+    "Лилли на секунду задумывается, но затем отвечает."
 
 # game/script-a1-sunday.rpy:3310
 translate ru a1_sunday_movement_2c3ad4c7:
 
     # li "I wonder, might we be able to enlist the help of another, if need be…?"
-    "Лилли на секунду задумывается, но затем отвечает."
+    li "Интересно, сможем ли мы попросить кого-нибудь нам помочь, если будет нужно?.."
 
 # game/script-a1-sunday.rpy:3312
 translate ru a1_sunday_movement_8879c33d:
 
     # hi "Um, to do what? You lost me quite some time ago…"
-    li "Интересно, сможем ли мы попросить кого-нибудь нам помочь, если будет нужно?.."
+    hi "М-м, что будет нужно? Я как-то потерял нить разговора…"
 
 # game/script-a1-sunday.rpy:3314
 translate ru a1_sunday_movement_0ce2af3e:
 
     # "Being volunteered for something without even having the slightest idea what is going on isn't really my thing."
-    hi "М-м, что будет нужно? Я как-то потерял нить разговора…"
+    "Не люблю, когда меня в добровольно-принудительном порядке заставляют заниматься чем-то, о чём я не имею ни малейшего понятия."
 
 # game/script-a1-sunday.rpy:3316
 translate ru a1_sunday_movement_15918ee0:
 
     # "And here I thought I had finally escaped the clutches of the Student Council and their repeated attempts to recruit me."
-    "Не люблю, когда меня в добровольно-принудительном порядке заставляют заниматься чем-то, о чём я не имею ни малейшего понятия."
+    "А я-то думал, что мне удалось вырваться из объятий Школьного совета и их неоднократных попыток меня завербовать."
 
 # game/script-a1-sunday.rpy:3321
 translate ru a1_sunday_movement_745607ca:
 
     # li "Oh, of course. The other day I was helping Yuuko sort the new Braille books in the library."
-    "А я-то думал, что мне удалось вырваться из объятий Школьного совета и их неоднократных попыток меня завербовать."
+    li "О, конечно. Как-то на днях я помогала Юко сортировать новые книги на Брайле, поступившие в библиотеку."
 
 # game/script-a1-sunday.rpy:3326
 translate ru a1_sunday_movement_ca748634:
 
     # li "But Hanako and I usually go shopping on Monday afternoons; it's quieter on that day than on weekends."
-    li "О, конечно. Как-то на днях я помогала Юко сортировать новые книги на Брайле, поступившие в библиотеку."
+    li "Но по понедельникам мы с Ханако обычно ходим по магазинам: меньше народа, чем в выходные."
 
 # game/script-a1-sunday.rpy:3328
 translate ru a1_sunday_movement_91b29a8e:
 
     # li "Last week we couldn't go because I was busy with the festival. I managed to slip away later in the week, but Hanako couldn't make it."
-    li "Но по понедельникам мы с Ханако обычно ходим по магазинам: меньше народа, чем в выходные."
+    li "На прошлой неделе мы не смогли пойти, потому что я была занята подготовкой к фестивалю. И хотя мне удалось вырваться в конце недели, но тогда уже не смогла Ханако."
 
 # game/script-a1-sunday.rpy:3330
 translate ru a1_sunday_movement_c3cce205:
 
     # hi "Well, since I can't read Braille, I'm assuming you'd like me to go shopping with Hanako?"
-    li "На прошлой неделе мы не смогли пойти, потому что я была занята подготовкой к фестивалю. И хотя мне удалось вырваться в конце недели, но тогда уже не смогла Ханако."
+    hi "И, так как я всё равно не понимаю шрифт Брайля, полагаю, ты хотела бы, чтобы я сходил с Ханако по магазинам?"
 
 # game/script-a1-sunday.rpy:3336
 translate ru a1_sunday_movement_f3049004:
 
     # li "Correct. You were a great help to me the other day."
-    hi "И, так как я всё равно не понимаю шрифт Брайля, полагаю, ты хотела бы, чтобы я сходил с Ханако по магазинам?"
+    li "Правильно. Ты бы очень мне этим помог."
 
 # game/script-a1-sunday.rpy:3338
 translate ru a1_sunday_movement_e11f82f9:
 
     # hi "I think I can handle that. Hanako, what do you think?"
-    li "Правильно. Ты бы очень мне этим помог."
+    hi "Думаю, мне это по плечу. Ханако, что скажешь?"
 
 # game/script-a1-sunday.rpy:3343
 translate ru a1_sunday_movement_f8074f93:
 
     # ha "I-if you wouldn't mind…"
-    hi "Думаю, мне это по плечу. Ханако, что скажешь?"
+    ha "Е-если ты не против…"
 
 # game/script-a1-sunday.rpy:3345
 translate ru a1_sunday_movement_f88aa085:
 
     # hi "Of course not. I'm still not familiar with all the stores in the area, so it sounds like a good idea."
-    ha "Е-если ты не против…"
+    hi "Конечно же нет. Я всё ещё не знаком с магазинами в округе, так что, думаю, это неплохая идея."
 
 # game/script-a1-sunday.rpy:3350
 translate ru a1_sunday_movement_57db572d:
 
     # ha "O-okay."
-    hi "Конечно же нет. Я всё ещё не знаком с магазинами в округе, так что, думаю, это неплохая идея."
+    ha "Х-хорошо."
 
 # game/script-a1-sunday.rpy:3355
 translate ru a1_sunday_movement_f5fb1474:
 
     # li "Now that we have that arranged, shall we have some tea?"
-    ha "Х-хорошо."
+    li "Теперь, когда мы всё решили, может быть чаю?"
 
 # game/script-a1-sunday.rpy:3357
 translate ru a1_sunday_movement_ee8376eb:
 
     # "It's now that I realize our tea has been sitting idly by all this time, getting no hotter."
-    li "Теперь, когда мы всё решили, может быть чаю?"
+    "И тут я понимаю, что мой чай за время беседы отнюдь не становился горячее."
 
 # game/script-a1-sunday.rpy:3362
 translate ru a1_sunday_movement_ed7be484:
 
     # yu "It's my fault! Let me pour that for you…"
-    "И тут я понимаю, что мой чай за время беседы отнюдь не становился горячее."
+    yu "Это моя вина! Позволь налить тебе другой…"
 
 # game/script-a1-sunday.rpy:3364
 translate ru a1_sunday_movement_d073dc19:
 
     # "Yuuko reaches out with shaking hands, but I intercept her; she looks in no state to be handling hot liquids."
-    yu "Это моя вина! Позволь налить тебе другой…"
+    "Юко протягивает дрожащие руки, но я останавливаю её: не похоже, что она в состоянии управиться с кипятком."
 
 # game/script-a1-sunday.rpy:3366
 translate ru a1_sunday_movement_0651b30f:
 
     # hi "It's all right, I've got it. Since you've already made the tea and sandwiches, you've fulfilled your waitress duties, right?"
-    "Юко протягивает дрожащие руки, но я останавливаю её: не похоже, что она в состоянии управиться с кипятком."
+    hi "Всё в порядке, оставь. Раз ты уже сделала чай и бутерброды, то выполнила свои обязанности официантки, верно?"
 
 # game/script-a1-sunday.rpy:3371
 translate ru a1_sunday_movement_93bfe294:
 
     # yu "I… I guess."
-    hi "Всё в порядке, оставь. Раз ты уже сделала чай и бутерброды, то выполнила свои обязанности официантки, верно?"
+    yu "П… полагаю, что да."
 
 # game/script-a1-sunday.rpy:3373
 translate ru a1_sunday_movement_4fd2aefb:
 
     # "Yuuko relaxes a little, but still watches eagerly as I share out the assortment."
-    yu "П… полагаю, что да."
+    "Юко немного успокаивается, но всё ещё напряжённо наблюдает, как я делю бутерброды."
 
 # game/script-a1-sunday.rpy:3388
 translate ru a1_sunday_movement_95291c6a:
 
     # "As I am about to bite into the sandwich, a low, loud rumble can be heard, along with a flash of light from outside."
-    "Юко немного успокаивается, но всё ещё напряжённо наблюдает, как я делю бутерброды."
+    "Я собираюсь откусить кусок бутерброда, но тут снаружи раздаётся громкий низкий грохот одновременно со вспышкой света."
 
 # game/script-a1-sunday.rpy:3395
 translate ru a1_sunday_movement_1ce96251:
 
     # li "Ah, I take it the show has started."
-    "Я собираюсь откусить кусок бутерброда, но тут снаружи раздаётся громкий низкий грохот одновременно со вспышкой света."
+    li "А, полагаю, фейерверк начался."
 
 # game/script-a1-sunday.rpy:3402
 translate ru a1_sunday_movement_6243b9e5:
 
     # "Only now looking outside, I realize that dusk has come and gone, leaving us in the peak of twilight."
-    li "А, полагаю, фейерверк начался."
+    "Взглянув в окно, только сейчас я понимаю, что на смену сумеркам на город опустилась ночь."
 
 # game/script-a1-sunday.rpy:3404
 translate ru a1_sunday_movement_51fc9770:
 
     # "Sparking tracers arc upwards ready to explode in the floral shapes of fireworks."
-    "Взглянув в окно, только сейчас я понимаю, что на смену сумеркам на город опустилась ночь."
+    "Искры взрывающихся снарядов образуют фонтаны фейерверков, напоминающие огромные цветы."
 
 # game/script-a1-sunday.rpy:3412
 translate ru a1_sunday_movement_652b3dc3:
 
     # yu "Let's go watch!"
-    "Искры взрывающихся снарядов образуют фонтаны фейерверков, напоминающие огромные цветы."
+    yu "Пойдёмте посмотрим!"
 
 # game/script-a1-sunday.rpy:3417
 translate ru a1_sunday_movement_8fb2f064:
 
     # yu "Oh… sorry Lilly…"
-    yu "Пойдёмте посмотрим!"
+    yu "Ой… извини, Лилли…"
 
 # game/script-a1-sunday.rpy:3429
 translate ru a1_sunday_movement_3d9071b3:
 
     # li "Please, don't miss the show on my account. From what I've heard, this isn't a bad location to watch them from."
-    yu "Ой… извини, Лилли…"
+    li "Пожалуйста, обо мне не беспокойтесь. Я слышала, что из этого кафе на салют открывается довольно неплохой вид."
 
 # game/script-a1-sunday.rpy:3440
 translate ru a1_sunday_movement_6f890264:
 
     # "With the exception of Lilly, we rush to the window of the small teahouse to watch the show."
-    li "Пожалуйста, обо мне не беспокойтесь. Я слышала, что из этого кафе на салют открывается довольно неплохой вид."
+    "Мы все, за исключением Лилли, несёмся к окну небольшой чайной, чтобы посмотреть фейерверк."
 
 # game/script-a1-sunday.rpy:3442
 translate ru a1_sunday_movement_d40bd6fd:
 
     # "The strobe of colored lights plays across Hanako and Yuuko's smiling faces, and for a second I forget to look out the window."
-    "Мы все, за исключением Лилли, несёмся к окну небольшой чайной, чтобы посмотреть фейерверк."
+    "Вспышки цветных огней играют на лицах Ханако и улыбающейся Юко, и я даже на секунду забываю о том, что собирался смотреть на происходящее за окном."
 
 # game/script-a1-sunday.rpy:3444
 translate ru a1_sunday_movement_2c17e195:
 
     # "In this totally new world, there are a few things that don't change."
-    "Вспышки цветных огней играют на лицах Ханако и улыбающейся Юко, и я даже на секунду забываю о том, что собирался смотреть на происходящее за окном."
+    "Даже в этом совершенно новом мире есть несколько вещей, что остаются неизменными."
 
 # game/script-a1-sunday.rpy:3446
 translate ru a1_sunday_movement_4513c5a0:
 
     # "I think that's why the school makes such a fuss over this festival. It's a chance to show the similarities between everyone."
-    "Даже в этом совершенно новом мире есть несколько вещей, что остаются неизменными."
+    "Наверное, потому школа и создала такой ажиотаж вокруг этого фестиваля, что он даёт шанс показать сходство между всеми людьми."
 
 # game/script-a1-sunday.rpy:3453
 translate ru a1_sunday_movement_434f301c:
 
     # "The show is over all too quickly; fireworks are expensive, even for the most well-funded schools."
-    "Наверное, потому школа и создала такой ажиотаж вокруг этого фестиваля, что он даёт шанс показать сходство между всеми людьми."
+    "Представление заканчивается слишком быстро; фейерверки дорогие и бьют по карману даже хорошо финансируемым школам."
 
 # game/script-a1-sunday.rpy:3458
 translate ru a1_sunday_movement_eb7bb07f:
 
     # "Before we return to our tea and sandwiches, Hanako turns to me."
-    "Представление заканчивается слишком быстро; фейерверки дорогие и бьют по карману даже хорошо финансируемым школам."
+    "Прежде чем вернуться к чаю с бутербродами, Ханако поворачивается ко мне."
 
 # game/script-a1-sunday.rpy:3463
 translate ru a1_sunday_movement_cdacd300:
 
     # ha "Um, t-thanks for today."
-    "Прежде чем вернуться к чаю с бутербродами, Ханако поворачивается ко мне."
+    ha "М-м, с-спасибо за сегодняшний день…"
 
 # game/script-a1-sunday.rpy:3468
 translate ru a1_sunday_movement_2c7b3fa6:
 
     # ha "…and tomorrow."
-    ha "М-м, с-спасибо за сегодняшний день…"
+    ha "…и за завтрашний."
 
 # game/script-a1-sunday.rpy:3470
 translate ru a1_sunday_movement_a747b41a:
 
     # hi "That's okay; I don't think that I could have faced those crowds either."
-    ha "…и за завтрашний."
+    hi "Всё хорошо. Не думаю, что я и сам любитель потолкаться в толпе народа."
 
 # game/script-a1-sunday.rpy:3472
 translate ru a1_sunday_movement_9a09cac5:
 
     # hi "On days like this it's more relaxing to spend some time away from everyone, don't you think?"
-    hi "Всё хорошо. Не думаю, что я и сам любитель потолкаться в толпе народа."
+    hi "Такой день, как этот, намного приятнее проводить где-нибудь далеко ото всех, правда же?"
 
 # game/script-a1-sunday.rpy:3477
 translate ru a1_sunday_movement_3959e7b8:
 
     # ha "Y-yeah."
-    hi "Такой день, как этот, намного приятнее проводить где-нибудь далеко ото всех, правда же?"
+    ha "А-ага."
 
 # game/script-a1-sunday.rpy:3479
 translate ru a1_sunday_movement_d91582b4:
 
     # hi "Anyway, we've been delaying this tea for far too long now, let's get back."
-    ha "А-ага."
+    hi "Однако наше чаепитие слишком затянулось, поэтому давай вернёмся к столу."
 
 # game/script-a1-sunday.rpy:3484
 translate ru a1_sunday_movement_ff70d1cd:
 
     # ha "S-sure."
-    hi "Однако наше чаепитие слишком затянулось, поэтому давай вернёмся к столу."
+    ha "Т-точно."
 
 # game/script-a1-sunday.rpy:3505
 translate ru a1_sunday_movement_8ba50e80:
 
     # "We return to the booth and our light meal."
-    ha "Т-точно."
+    "Мы возвращаемся в нашу кабинку, к бутербродам."
 
 # game/script-a1-sunday.rpy:3510
 translate ru a1_sunday_movement_a0d041c7:
 
     # li "That sounded impressive. Bigger than last year's at least."
-    "Мы возвращаемся в нашу кабинку, к бутербродам."
+    li "Звучало впечатляюще. По меньшей мере громче, чем в прошлом году."
 
 # game/script-a1-sunday.rpy:3515
 translate ru a1_sunday_movement_d60e5974:
 
     # yu "Yeah it was great! I've never seen them put on such a show."
-    li "Звучало впечатляюще. По меньшей мере громче, чем в прошлом году."
+    yu "Ага, было здорово! Ни разу не видела, чтобы они организовывали такое представление."
 
 # game/script-a1-sunday.rpy:3517
 translate ru a1_sunday_movement_cc132f25:
 
     # yu "It gets better every year!"
-    yu "Ага, было здорово! Ни разу не видела, чтобы они организовывали такое представление."
+    yu "С каждым годом оно становится всё лучше."
 
 # game/script-a1-sunday.rpy:3522
 translate ru a1_sunday_movement_00d23be2:
 
     # li "I'm afraid, however, that during that time, the tea has gone cold."
-    yu "С каждым годом оно становится всё лучше."
+    li "Всё же боюсь, что за это время чай остыл."
 
 # game/script-a1-sunday.rpy:3529
 translate ru a1_sunday_movement_00c5d1e3:
 
     # yu "Oh no! Let me make some more! This is my fault!"
-    li "Всё же боюсь, что за это время чай остыл."
+    yu "О нет! Позволь мне налить новый! Это моя вина!"
 
 # game/script-a1-sunday.rpy:3531
 translate ru a1_sunday_movement_7e845234:
 
     # hi "Calm down, Yuuko, it's nobody's fault."
-    yu "О нет! Позволь мне налить новый! Это моя вина!"
+    hi "Успокойся, Юко, в этом никто не виноват."
 
 # game/script-a1-sunday.rpy:3533
 translate ru a1_sunday_movement_713396ae:
 
     # "I take a sip from my cup, just to prove the point."
-    hi "Успокойся, Юко, в этом никто не виноват."
+    "Я делаю глоток из своей чашки, просто чтобы подтвердить её слова."
 
 # game/script-a1-sunday.rpy:3535
 translate ru a1_sunday_movement_3460f5d5:
 
     # hi "This tea isn't too bad cool, anyway. It's like an iced tea."
-    "Я делаю глоток из своей чашки, просто чтобы подтвердить её слова."
+    hi "Остыв, этот чай не стал плохим. Лишь стал похож на чай со льдом."
 
 # game/script-a1-sunday.rpy:3540
 translate ru a1_sunday_movement_68d170e9:
 
     # yu "Really?"
-    hi "Остыв, этот чай не стал плохим. Лишь стал похож на чай со льдом."
+    yu "Правда?"
 
 # game/script-a1-sunday.rpy:3542
 translate ru a1_sunday_movement_584cd9e4:
 
     # hi "Yes, really. If you add a bit of sugar it's kinda nice."
-    yu "Правда?"
+    hi "Да, правда. А если ты добавишь немного сахара, то станет просто отличным."
 
 # game/script-a1-sunday.rpy:3547
 translate ru a1_sunday_movement_5d08e4a4:
 
     # yu "Are you sure?"
-    hi "Да, правда. А если ты добавишь немного сахара, то станет просто отличным."
+    yu "Ты уверен?"
 
 # game/script-a1-sunday.rpy:3549
 translate ru a1_sunday_movement_f24885aa:
 
     # hi "I'm positive. Now why don't you sit down and we'll finish this together?"
-    yu "Ты уверен?"
+    hi "Абсолютно. Давай ты присядешь и попьёшь его с нами?"
 
 # game/script-a1-sunday.rpy:3554
 translate ru a1_sunday_movement_669791aa:
 
     # yu "O-okay."
-    hi "Абсолютно. Давай ты присядешь и попьёшь его с нами?"
+    yu "Х-хорошо."
 
 # game/script-a1-sunday.rpy:3559
 translate ru a1_sunday_movement_c4c01574:
 
     # "Yuuko doesn't seem convinced, but sits down regardless."
-    yu "Х-хорошо."
+    "Не похоже, что я убедил Юко, но она всё же садится."
 
 # game/script-a1-sunday.rpy:3561
 translate ru a1_sunday_movement_1690904f:
 
     # "She carefully measures out about five teaspoons of sugar and adds them to her tea."
-    "Не похоже, что я убедил Юко, но она всё же садится."
+    "Она аккуратно насыпает пять чайных ложечек сахара себе в чашку."
 
 # game/script-a1-sunday.rpy:3563
 translate ru a1_sunday_movement_9f133c3d:
 
     # hi "Er, I said a bit of sugar…"
-    "Она аккуратно насыпает пять чайных ложечек сахара себе в чашку."
+    hi "Э-э, я сказал «немного» сахара…"
 
 # game/script-a1-sunday.rpy:3568
 translate ru a1_sunday_movement_30bc445e:
 
     # yu "I know but I like my tea sweet anyway."
-    hi "Э-э, я сказал «немного» сахара…"
+    yu "Знаю, но мне нравится, когда чай сладкий."
 
 # game/script-a1-sunday.rpy:3570
 translate ru a1_sunday_movement_953c874d:
 
     # "Curiously I peer into her cup. As expected, hardly any of the sugar dissolves in the cold liquid."
-    yu "Знаю, но мне нравится, когда чай сладкий."
+    "Я с любопытством заглядываю в её чашку. Как я и предполагал, такое количество сахара отказывается растворяться в остывшей жидкости."
 
 # game/script-a1-sunday.rpy:3572
 translate ru a1_sunday_movement_978ab7b4:
 
     # "She stirs it twice before upturning the cup and drinking the contents, sugar and all, in a single mouthful."
-    "Я с любопытством заглядываю в её чашку. Как я и предполагал, такое количество сахара отказывается растворяться в остывшей жидкости."
+    "Дважды помешав ложечкой, она поднимает чашку и одним глотком выпивает всё содержимое."
 
 # game/script-a1-sunday.rpy:3577
 translate ru a1_sunday_movement_7694c86c:
 
     # yu "You're right! That's not bad at all!"
-    "Дважды помешав ложечкой, она поднимает чашку и одним глотком выпивает всё содержимое."
+    yu "Ты прав, он не так уж и плох!"
 
 # game/script-a1-sunday.rpy:3579
 translate ru a1_sunday_movement_f00abd9e:
 
     # hi "Er, good…"
-    yu "Ты прав, он не так уж и плох!"
+    hi "Э-э, хорошо…"
 
 # game/script-a1-sunday.rpy:3581
 translate ru a1_sunday_movement_e5378a2f:
 
     # "I look back to Lilly and Hanako, both of whom have finished their meal as I witnessed Yuuko's personality in action."
-    hi "Э-э, хорошо…"
+    "Я поворачиваюсь к Лилли и Ханако. Пока я наблюдал за Юко, они уже закончили есть."
 
 # game/script-a1-sunday.rpy:3583
 translate ru a1_sunday_movement_dc97c8ab:
 
     # "Not wanting to hold anyone up, I use her tactic and finish the remainder of my tea in a single swill."
-    "Я поворачиваюсь к Лилли и Ханако. Пока я наблюдал за Юко, они уже закончили есть."
+    "Не желая всех задерживать, я следую примеру Юко и допиваю остатки своего чая одним глотком."
 
 # game/script-a1-sunday.rpy:3585
 translate ru a1_sunday_movement_e99c457b:
 
     # hi "Well then, it seems we're all finished."
-    "Не желая всех задерживать, я следую примеру Юко и допиваю остатки своего чая одним глотком."
+    hi "Кажется, теперь мы закончили."
 
 # game/script-a1-sunday.rpy:3590
 translate ru a1_sunday_movement_d4addad6:
 
     # li "Should we head back now or do we want seconds?"
-    hi "Кажется, теперь мы закончили."
+    li "Возвращаемся, или кто-то хочет повторить?"
 
 # game/script-a1-sunday.rpy:3595
 translate ru a1_sunday_movement_9fbba49f:
 
     # "Yuuko's expression shows that this is quite clearly not a good idea."
-    li "Возвращаемся, или кто-то хочет повторить?"
+    "На лице Юко ясно отражается, что это плохая идея."
 
 # game/script-a1-sunday.rpy:3597
 translate ru a1_sunday_movement_84ff9f73:
 
     # hi "I think that it would be best if we got back soon."
-    "На лице Юко ясно отражается, что это плохая идея."
+    hi "Думаю, лучше бы нам уже возвращаться в школу."
 
 # game/script-a1-sunday.rpy:3599
 translate ru a1_sunday_movement_faab51b2:
 
     # hi "We do have to get back before curfew, after all."
-    hi "Думаю, лучше бы нам уже возвращаться в школу."
+    hi "В конце концов, мы должны вернуться до отбоя."
 
 # game/script-a1-sunday.rpy:3604
 translate ru a1_sunday_movement_ed2213e5:
 
     # li "Oh, that is a good point."
-    hi "В конце концов, мы должны вернуться до отбоя."
+    li "Ох, в этом определённо есть смысл."
 
 # game/script-a1-sunday.rpy:3609
 translate ru a1_sunday_movement_2a33b967:
 
     # li "I'll meet you tomorrow, Yuuko."
-    li "Ох, в этом определённо есть смысл."
+    li "Встретимся завтра, Юко."
 
 # game/script-a1-sunday.rpy:3614
 translate ru a1_sunday_movement_5a5a996d:
 
     # yu "I'll be looking forward to it, Lilly. Goodbye, everyone."
-    li "Встретимся завтра, Юко."
+    yu "Буду ждать, Лилли. До свидания, ребята."
 
 # game/script-a1-sunday.rpy:3624
 translate ru a1_sunday_movement_57fe8a62:
 
     # "We make our way out of the small teahouse and into the dark of the night."
-    yu "Буду ждать, Лилли. До свидания, ребята."
+    "Мы выходим из маленькой чайной, погружаясь в ночную темноту."
 
 # game/script-a1-sunday.rpy:3630
 translate ru a1_sunday_movement_24b82e31:
 
     # "Lilly and Hanako once again take point, but under the cover of darkness Hanako seems slightly less stressed than she did on the trip here."
-    "Мы выходим из маленькой чайной, погружаясь в ночную темноту."
+    "Ханако вновь цепляется за Лилли. Сейчас, под покровом темноты, она кажется не такой напряжённой, как по пути сюда."
 
 # game/script-a1-sunday.rpy:3632
 translate ru a1_sunday_movement_4661f8a0:
 
     # "We move against the occasional group of people emptying the school grounds, but Hanako seems to lead us along a few minor roads, avoiding the bulk of the crowd."
-    "Ханако вновь цепляется за Лилли. Сейчас, под покровом темноты, она кажется не такой напряжённой, как по пути сюда."
+    "Навстречу нам начинают попадаться группы людей, покидающих территорию школы. Чтобы избежать встречи с ними, Ханако ведёт нас в обход."
 
 # game/script-a1-sunday.rpy:3639
 translate ru a1_sunday_movement_75df3554:
 
     # "Outside the dorms, the school seems strangely quiet when compared to the noise of the day."
-    "Навстречу нам начинают попадаться группы людей, покидающих территорию школы. Чтобы избежать встречи с ними, Ханако ведёт нас в обход."
+    "Дойдя до общежитий, мы замечаем, что школа кажется необычайно тихой в сравнении с гулом фестивального дня."
 
 # game/script-a1-sunday.rpy:3641
 translate ru a1_sunday_movement_cb0b3142:
 
     # hi "Well then, thank you both for today. I think I learned a lot."
-    "Дойдя до общежитий, мы замечаем, что школа кажется необычайно тихой в сравнении с гулом фестивального дня."
+    hi "Спасибо за сегодня. Думаю, я узнал много нового."
 
 # game/script-a1-sunday.rpy:3647
 translate ru a1_sunday_movement_7ef1c6f7:
 
     # li "You're most welcome, but I'm afraid that I really must be going. Today's been a long day."
-    hi "Спасибо за сегодня. Думаю, я узнал много нового."
+    li "Всегда пожалуйста. А теперь, боюсь, мне пора откланяться. Сегодня был длинный день."
 
 # game/script-a1-sunday.rpy:3649
 translate ru a1_sunday_movement_ac935e94:
 
     # "That's right; Lilly spent all of today on her feet, and I can imagine that walking outside of the school would be pretty tiring for her."
-    li "Всегда пожалуйста. А теперь, боюсь, мне пора откланяться. Сегодня был длинный день."
+    "И правда, Лилли весь день провела на ногах; представляю, как должна была утомить её прогулка за пределы школы."
 
 # game/script-a1-sunday.rpy:3651
 translate ru a1_sunday_movement_e37b09b4:
 
     # "I feel a pang of guilt as I remember that I was probably the only one in the school that got up around ten this morning."
-    "И правда, Лилли весь день провела на ногах; представляю, как должна была утомить её прогулка за пределы школы."
+    "Я ощущаю укол вины, вспомнив, что я, наверное, единственный в школе, кто встал сегодня около десяти."
 
 # game/script-a1-sunday.rpy:3653
 translate ru a1_sunday_movement_0527a675:
 
     # hi "Sure thing."
-    "Я ощущаю укол вины, вспомнив, что я, наверное, единственный в школе, кто встал сегодня около десяти."
+    hi "Без проблем."
 
 # game/script-a1-sunday.rpy:3655
 translate ru a1_sunday_movement_efbc00b4:
 
     # hi "Well, I'll see you both tomorrow. Good night."
-    hi "Без проблем."
+    hi "В таком случае увидимся с вами завтра. Спокойной ночи."
 
 # game/script-a1-sunday.rpy:3660
 translate ru a1_sunday_movement_5606c1a8:
 
     # li "Good night, Hisao."
-    hi "В таком случае увидимся с вами завтра. Спокойной ночи."
+    li "Спокойной ночи, Хисао."
 
 # game/script-a1-sunday.rpy:3665
 translate ru a1_sunday_movement_f2bb6c69:
 
     # ha "N… night."
-    li "Спокойной ночи, Хисао."
+    ha "С… спокойной."
 
 # game/script-a1-sunday.rpy:3671
 translate ru a1_sunday_movement_d6117fd4:
 
     # "The girls return to their dorm, and I to mine."
-    ha "С… спокойной."
+    "Мы с девушками расходимся по общежитиям."
 
 # game/script-a1-sunday.rpy:3673
 translate ru a1_sunday_movement_45cfedb2:
 
     # "Actually, now that I consider it, today tired me out as well."
-    "Мы с девушками расходимся по общежитиям."
+    "Только сейчас я понимаю, насколько сильно меня вымотал сегодняшний день."
 
 # game/script-a1-sunday.rpy:3685
 translate ru a1_sunday_throwing_balls_63839cf5:
