@@ -14,7 +14,7 @@ steps:
     image: alpine:latest
     environment:
       CI_PRIVATE_SSH_KEY:
-        from_secret: storage_ssh_key
+        from_secret: github_ssh_key
       CI_UPSTREAM_URL:
         from_secret: ksre_upstream_url
       CI_MIRROR_URL:
