@@ -157,6 +157,9 @@ translate fr strings:
     old "Italian"
     new "Italien"
 
+    old "Traditional Chinese"
+    new "Chinois traditionnel"
+
     # game/screens.rpy:364
     old "Scene"
     new "Scène"

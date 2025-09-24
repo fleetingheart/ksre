@@ -15,6 +15,7 @@ langs:
   - jp
   - ru
   - zh_hans
+  - zh_hant
 
 blocks:
   - type: "static"
@@ -29,6 +30,7 @@ blocks:
       jp: "Four Leaf Studios が贈る"
       ru: "Four Leaf Studios представляет"
       zh_hans: "Four Leaf Studios 出品"
+      zh_hant: "Four Leaf Studios 出品"
   - type: "credits_block"
     position: [ 1290, 670 ]
     timeline: [ 544, 659 ]
@@ -41,6 +43,7 @@ blocks:
         jp: "インスピレーション"
         ru: "Вдохновение"
         zh_hans: "灵感来源"
+        zh_hant: "靈感來源"
       - default: "RAITA"
   - type: "credits_block"
     position: [ 1290, 670 ]
@@ -54,6 +57,7 @@ blocks:
         jp: "ライター"
         ru: "Авторы"
         zh_hans: "剧本"
+        zh_hant: "劇本"
       - default: "Anonymous22"
       - default: "Aura"
       - default: "cpl_crud"
@@ -71,6 +75,7 @@ blocks:
         jp: "編集"
         ru: "Редакторы"
         zh_hans: "编辑"
+        zh_hant: "編輯"
       - default: "Kagami"
       - default: "Losstarot"
       - default: "Silentcook"
@@ -86,6 +91,7 @@ blocks:
         jp: "音楽"
         ru: "Музыка"
         zh_hans: "音乐"
+        zh_hant: "音樂"
       - default: "Blue123"
       - default: "NicolArmarfi"
   - type: "credits_block"
@@ -100,6 +106,7 @@ blocks:
         jp: "美術"
         ru: "Художники"
         zh_hans: "美工"
+        zh_hant: "美工"
       - default: "gebyy-terar"
       - default: "Kamifish"
       - default: "pimmy"
@@ -115,6 +122,7 @@ blocks:
         jp: "美術"
         ru: "Художники"
         zh_hans: "美工"
+        zh_hant: "美工"
       - default: "moekki"
       - default: "raemz"
       - default: "Raide"
@@ -130,6 +138,7 @@ blocks:
         jp: "美術補"
         ru: "Доп. художники"
         zh_hans: "客串美工"
+        zh_hant: "客串美工"
       - default: "climatic"
       - default: "Doomfest"
       - default: "yujovi"
@@ -145,6 +154,7 @@ blocks:
         jp: "アニメーション"
         ru: "FMV-анимация"
         zh_hans: "FMV 动画"
+        zh_hant: "FMV 動畫"
       - default: "Mike Inel"
   - type: "credits_block"
     position: [ 1290, 780 ]
@@ -158,6 +168,7 @@ blocks:
         jp: "ディレクション"
         ru: "Проектирование"
         zh_hans: "导演"
+        zh_hant: "導演"
       - default: "delta"
       - default: "Raide"
       - default: "yujovi"
@@ -173,6 +184,7 @@ blocks:
         jp: "技術"
         ru: "Тех. обеспечение"
         zh_hans: "程序"
+        zh_hant: "程式"
       - default: "delta"
   - type: "credits_block"
     position: [ 1290, 780 ]
@@ -186,6 +198,7 @@ blocks:
         jp: "翻訳"
         ru: "Продюсеры"
         zh_hans: "制作"
+        zh_hant: "製作"
       - default: "cpl_crud"
       - default: "Suriko"
 
@@ -193,3 +206,4 @@ fonts:
   default: ../game/font/playtime.ttf
   jp: assets/jp.ttf
   zh_hans: assets/zh_hans.ttf
+  zh_hant: assets/jp.ttf

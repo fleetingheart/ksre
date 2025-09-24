@@ -111,3 +111,11 @@ translations:
     - font: ../game/font/XiaolaiSC-Regular.ttf
       size: 52
       text: "展望余生"
+  zh_hant:
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      stroke: 1.0
+      text: "第一章:"
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      text: "預期壽命"

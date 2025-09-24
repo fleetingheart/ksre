@@ -153,6 +153,9 @@ translate jp strings:
     old "Italian"
     new "イタリア語"
 
+    old "Traditional Chinese"
+    new "繁体字中国語"
+
     # game/screens.rpy:401
     old "Playtime"
     new "経過時間"

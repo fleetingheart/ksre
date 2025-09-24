@@ -111,3 +111,11 @@ translations:
     - font: ../game/font/XiaolaiSC-Regular.ttf
       size: 52
       text: "熟悉手法"
+  zh_hant:
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      stroke: 1.0
+      text: "第三章:"
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      text: "巧妙手法"
