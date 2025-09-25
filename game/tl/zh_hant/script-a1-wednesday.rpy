@@ -268,7 +268,7 @@ translate zh_hant a1_wednesday_lunch_evolution_theory_f03e66c1:
 translate zh_hant a1_wednesday_lunch_evolution_theory_ed98d606:
 
     # "We finish with time to spare, and I decide to ask if there are any alternatives to the cafeteria, as frankly, the food so far has been subpar."
-    "我們提前做完了作業，我決定趁此機會問問她們還有沒有可以替代食堂的地方，說實話那裡的食物並不怎麼樣。"
+    "我們提前做完了作業，我決定趁此機會問問她們還有沒有可以替代餐廳的地方，說實話那裡的食物並不怎麼樣。"
 
 # game/script-a1-wednesday.rpy:179
 translate zh_hant a1_wednesday_lunch_evolution_theory_cc0f4f94:
@@ -754,7 +754,7 @@ translate zh_hant a1_wednesday_short_sharp_shock_1d77aa46:
 translate zh_hant a1_wednesday_short_sharp_shock_a5aa1387:
 
     # "I read most of the book I had started yesterday, and eat some of the mostly inedible offerings of the cafeteria."
-    "昨天開始讀的書已經快要讀完了。我今天還在食堂吃了他們能做出的最難吃的東西。"
+    "昨天開始讀的書已經快要讀完了。我今天還在餐廳吃了他們能做出的最難吃的東西。"
 
 # game/script-a1-wednesday.rpy:536
 translate zh_hant a1_wednesday_short_sharp_shock_dc25fb5b:
@@ -4192,7 +4192,7 @@ translate zh_hant a1_wednesday_waylay_709d07d3:
 translate zh_hant a1_wednesday_waylay_7bb19a71:
 
     # "Two flights of stairs below, trouble appears in the form of the head nurse and his fox-like grin."
-    "下了兩層樓之後，校醫長帶著他那充滿狡詐的笑容出現在我的面前。"
+    "下了兩層樓之後，校醫帶著他那充滿狡詐的笑容出現在我的面前。"
 
 # game/script-a1-wednesday.rpy:2636
 translate zh_hant a1_wednesday_waylay_c86a21e6:
@@ -5284,7 +5284,7 @@ translate zh_hant a1c6o1_e330cec5:
 translate zh_hant a1c6o1_528a7c4f:
 
     # "I find it hard to focus on the book, and besides, the lunch break beckons me to leave the dullness of the classroom. I do so, heading down for the cafeteria."
-    "我發覺自己不能把注意力集中在書上，再說了，午休時間懇求著我離開這無聊的教室。我站起身來，向著食堂走去。"
+    "我發覺自己不能把注意力集中在書上，再說了，午休時間懇求著我離開這無聊的教室。我站起身來，向著餐廳走去。"
 
 # game/script-a1-wednesday.rpy:3319
 translate zh_hant a1c6o1_3866485a:

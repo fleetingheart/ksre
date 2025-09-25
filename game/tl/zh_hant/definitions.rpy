@@ -20,7 +20,7 @@ translate zh_hant strings:
 
     # game/definitions.rpy:179
     old "Watching video"
-    new "觀看視頻"
+    new "觀看影片"
 
     # game/definitions.rpy:182
     old "In main menu"
@@ -64,7 +64,7 @@ translate zh_hant strings:
 
     # game/definitions.rpy:228
     old "Hisao steps into Yamaku Academy for the first time, and meets his homeroom teacher, Mutou."
-    new "久夫第一次踏入山久學院的大門，並且與他的班主任武藤見了面。"
+    new "久夫第一次踏入山久學院的大門，並且與他的班導師武藤見了面。"
 
     # game/definitions.rpy:228
     old "Enter Stage Left"
@@ -80,7 +80,7 @@ translate zh_hant strings:
 
     # game/definitions.rpy:228
     old "Misha and Shizune show Hisao the cafeteria, after which he goes to see the nurse."
-    new "米莎和靜音帶久夫去食堂，然後去見了校醫長。"
+    new "米莎和靜音帶久夫去餐廳，然後去見了校醫。"
 
     # game/definitions.rpy:228
     old "Nobody's Room"

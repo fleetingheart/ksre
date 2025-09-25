@@ -1744,7 +1744,7 @@ translate zh_hant a3_emi_definitions_7613d788:
 translate zh_hant a3_emi_definitions_a0b31930:
 
     # "Everything from running, to school, to the peculiar way that one of the cafeteria workers smells."
-    "涉及的話題有從跑步到課堂，甚至還有食堂的某個員工的體味。"
+    "涉及的話題有從跑步到課堂，甚至還有餐廳的某個員工的體味。"
 
 # game/script-a3-emi.rpy:953
 translate zh_hant a3_emi_definitions_7197d70c:
@@ -13250,7 +13250,7 @@ translate zh_hant a3_emi_guess_whos_coming_never_mind_7bdb99ee:
 translate zh_hant a3_emi_guess_whos_coming_never_mind_c7bc167c:
 
     # hi "That sounds great! I can only handle cafeteria food for so long. Something home-cooked would be a welcome change of pace."
-    hi "好啊！食堂飯菜早就吃膩了。能來些家常飯菜，我表示贊成。"
+    hi "好啊！餐廳飯菜早就吃膩了。能來些家常飯菜，我表示贊成。"
 
 # game/script-a3-emi.rpy:7430
 translate zh_hant a3_emi_guess_whos_coming_never_mind_e9653c2d:
@@ -13808,7 +13808,7 @@ translate zh_hant a3_emi_instant_replay_368a2055:
 translate zh_hant a3_emi_instant_replay_f2af4db5:
 
     # "A similar mental conversation repeats itself when it comes time to go to lunch, and I eat in the cafeteria, alone."
-    "午飯時間，又一次類似的心理對話。我一個人在食堂裡吃了午飯。"
+    "午飯時間，又一次類似的心理對話。我一個人在餐廳裡吃了午飯。"
 
 # game/script-a3-emi.rpy:7782
 translate zh_hant a3_emi_instant_replay_aef0cd7d:
@@ -14006,7 +14006,7 @@ translate zh_hant a3_emi_instant_replay_4b326df0:
 translate zh_hant a3_emi_instant_replay_d600b3ca:
 
     # "That afternoon, as I get ready to head to the cafeteria for another solo lunch (I've got a new book about a couple of con men in ancient Persia that I'm pretty excited about reading) I am suddenly cornered by Misha and…"
-    "那天下午，我正準備去食堂再一次獨自吃飯時（借到了一本關於在古波斯的兩個騙子的書，看起來很有趣），突然被米莎逮住，並……"
+    "那天下午，我正準備去餐廳再一次獨自吃飯時（借到了一本關於在古波斯的兩個騙子的書，看起來很有趣），突然被米莎逮住，並……"
 
 # game/script-a3-emi.rpy:7903
 translate zh_hant a3_emi_instant_replay_4567b99b:

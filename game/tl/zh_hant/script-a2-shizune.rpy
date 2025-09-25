@@ -8414,7 +8414,7 @@ translate zh_hant a2_shizune_when_stars_embrace_c7ed0915:
 translate zh_hant a2_shizune_when_stars_embrace_e8577c02:
 
     # hi "It didn't seem like anyone was working in the kitchen when I entered the building, but I don't know for sure."
-    hi "我進來的時候沒感覺食堂開工了，不過我也不清楚。"
+    hi "我進來的時候沒感覺餐廳開工了，不過我也不清楚。"
 
 # game/script-a2-shizune.rpy:5428
 translate zh_hant a2_shizune_when_stars_embrace_b20375e3:

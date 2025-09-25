@@ -100,7 +100,7 @@ translate zh_hant a1_saturday_support_52bfa7aa:
 translate zh_hant a1_saturday_support_5cd581f5:
 
     # mu "I heard from the school's head nurse that you had an incident the other day."
-    mu "我聽校醫長說你昨天出了點意外。"
+    mu "我聽校醫說你昨天出了點意外。"
 
 # game/script-a1-saturday.rpy:92
 translate zh_hant a1_saturday_support_d6dacc57:

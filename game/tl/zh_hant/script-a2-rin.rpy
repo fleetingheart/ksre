@@ -1930,7 +1930,7 @@ translate zh_hant a2_rin_interstitial_4a4d82c9:
 translate zh_hant a2_rin_interstitial_b22b1d2c:
 
     # "My growling stomach reminds me that I am absolutely ravenous. I'm so hungry that I'd dare to try anything the cafeteria staff has deemed edible."
-    "我的胃咕咕叫著，提醒我自己已經飢腸轆轆了。我簡直餓得可以嚥下食堂員工給出的任何東西，只要它們看上去貌似能吃。"
+    "我的胃咕咕叫著，提醒我自己已經飢腸轆轆了。我簡直餓得可以嚥下餐廳員工給出的任何東西，只要它們看上去貌似能吃。"
 
 # game/script-a2-rin.rpy:1247
 translate zh_hant a2_rin_interstitial_6c547889:
@@ -6286,7 +6286,7 @@ translate zh_hant a2_rin_iwanakos_regret_b4d9e490:
 translate zh_hant a2_rin_iwanakos_regret_7f6487e7:
 
     # "The classes for the day are over. Still feeling pretty full from the big lunch that I had unexpectedly eaten at the cafeteria, I returned to my dorm, planning on finishing my homework and probably skipping dinner, or at least just eating light."
-    "今天已經沒課了，我在食堂裡不小心吃下的那頓午餐讓我現在依舊很飽，所以我回了寢室，打算跳過晚飯，直接做完作業，或者至少少吃一點。"
+    "今天已經沒課了，我在餐廳裡不小心吃下的那頓午餐讓我現在依舊很飽，所以我回了寢室，打算跳過晚飯，直接做完作業，或者至少少吃一點。"
 
 # game/script-a2-rin.rpy:4178
 translate zh_hant a2_rin_iwanakos_regret_db2c1b23:
@@ -9724,7 +9724,7 @@ translate zh_hant a2_rin_indecision_0c7a6676:
 translate zh_hant a2_rin_indecision_dfe75ccf:
 
     # "I feel more active in class as well, delighting our science/homeroom teacher, Mr. Mutou, with correct and promptly delivered answers."
-    "我在課堂上也變得更加活躍，能夠快速準確地回答問題，讓我們的科學老師兼班主任武藤先生非常愉快。"
+    "我在課堂上也變得更加活躍，能夠快速準確地回答問題，讓我們的科學老師兼班導師武藤先生非常愉快。"
 
 # game/script-a2-rin.rpy:6506
 translate zh_hant a2_rin_indecision_32a72467:
@@ -11962,7 +11962,7 @@ translate zh_hant strings:
 
     # game/script-a2-rin.rpy:4234
     old "The mood among the third-years seems to be very anxious about the final exams, even though they are so far away. The teachers are badgering us about it all the time - even old Mr. Tachibana who is, by the way, our homeroom teacher this year. Would you believe it? I was sure that he'd retire after our second year, but here he is, nagging everyone about studying for exams.\n"
-    new "因為期末考試，第三年變得很緊張，雖然那些考試其實很遠。老師們時刻不停地用它們來煩我們——就連老橘慶太先生也不例外，順便提一句，他是我們今年的班主任。你能相信嗎？我還以為他在我們讀完二年級後就要退休了呢，不過他就在這兒，對著每個人嘮叨期末考試的事。\n"
+    new "因為期末考試，第三年變得很緊張，雖然那些考試其實很遠。老師們時刻不停地用它們來煩我們——就連老橘慶太先生也不例外，順便提一句，他是我們今年的班導師。你能相信嗎？我還以為他在我們讀完二年級後就要退休了呢，不過他就在這兒，對著每個人嘮叨期末考試的事。\n"
 
     # game/script-a2-rin.rpy:4243
     old "There are other things I want to say. I'm writing to you because I felt that there are things I should've said after the incident back in winter. I really regret that I wasn't able to say them in person, and I have no excuse for it.{vspace=150}"

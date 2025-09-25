@@ -1030,7 +1030,7 @@ translate zh_hant a2_emi_clouds_time_travel_and_thou_4bcb1d82:
 translate zh_hant a2_emi_clouds_time_travel_and_thou_75e4d9e1:
 
     # "I'm halfway down the hallway to the cafeteria when I remember that I've got my lunch with me."
-    "我向著食堂走去，到半路上才想起我帶了午餐。"
+    "我向著餐廳走去，到半路上才想起我帶了午餐。"
 
 # game/script-a2-emi.rpy:672
 translate zh_hant a2_emi_clouds_time_travel_and_thou_c03d6341:
@@ -1042,7 +1042,7 @@ translate zh_hant a2_emi_clouds_time_travel_and_thou_c03d6341:
 translate zh_hant a2_emi_clouds_time_travel_and_thou_21262c67:
 
     # "The hallway is packed with students headed for the cafeteria."
-    "走廊當中擠滿了向著食堂方向走的學生。"
+    "走廊當中擠滿了向著餐廳方向走的學生。"
 
 # game/script-a2-emi.rpy:676
 translate zh_hant a2_emi_clouds_time_travel_and_thou_dcaec1c2:
@@ -1060,7 +1060,7 @@ translate zh_hant a2_emi_clouds_time_travel_and_thou_892e4ffc:
 translate zh_hant a2_emi_clouds_time_travel_and_thou_ad164af0:
 
     # "In fact, I think I saw Emi among the bodies in the hallway headed for the cafeteria."
-    "事實上，我覺得我看見了笑美就在擠向食堂的那人羣當中。"
+    "事實上，我覺得我看見了笑美就在擠向餐廳的那人羣當中。"
 
 # game/script-a2-emi.rpy:694
 translate zh_hant a2_emi_clouds_time_travel_and_thou_0e22f9a4:
@@ -1630,7 +1630,7 @@ translate zh_hant a2_emi_clouds_time_travel_and_thou_8d91fc52:
 translate zh_hant a2_emi_clouds_time_travel_and_thou_d436935d:
 
     # mi "Didn't see you in the cafeteria, Hicchan."
-    mi "小久，可沒在食堂看見你呀."
+    mi "小久，可沒在餐廳看見你呀."
 
 # game/script-a2-emi.rpy:1061
 translate zh_hant a2_emi_clouds_time_travel_and_thou_a64709d8:
@@ -10712,7 +10712,7 @@ translate zh_hant a2_emi_tracking_absences_3686ca7b:
 translate zh_hant a2_emi_tracking_absences_55fef60b:
 
     # "Unfortunately, I don't really feel like heading to the cafeteria either."
-    "但很可惜的是，我也不怎麼想去食堂。"
+    "但很可惜的是，我也不怎麼想去餐廳。"
 
 # game/script-a2-emi.rpy:6712
 translate zh_hant a2_emi_tracking_absences_390f848e:
@@ -13644,7 +13644,7 @@ translate zh_hant a2_emi_the_real_beginning_f13dba25:
 translate zh_hant a2_emi_the_real_beginning_8288ee4f:
 
     # "I wonder if she decided to accompany Emi to the cafeteria for once. That seems pretty unlikely, but it's all I can think of right now."
-    "她是心血來潮了決定跟笑美去食堂了嗎？或許可能，但我除了那之外就想不出什麼其它的可能性了。"
+    "她是心血來潮了決定跟笑美去餐廳了嗎？或許可能，但我除了那之外就想不出什麼其它的可能性了。"
 
 # game/script-a2-emi.rpy:8353
 translate zh_hant a2_emi_the_real_beginning_0321709c:
@@ -14920,7 +14920,7 @@ translate zh_hant strings:
 
     # game/script-a2-emi.rpy:5046
     old "The mood among the third-years seems to be very anxious about the final exams, even though they are so far away. The teachers are badgering us about it all the time - even old Mr. Tachibana who is, by the way, our homeroom teacher this year. Would you believe it? I was sure that he'd retire after our second year, but here he is, nagging everyone about studying for exams.{vspace=30}"
-    new "因為是三年級了，大家都對考試十分緊張，儘管我們離到那還有一段時間。老師們已經開始給我們跟我們做心理攻勢了 - 就連今年的班主任立花老師也在這麼做，你能相信嗎？我還以為他教完我們二年級後肯定會退休，但他現在可沒有走的意思，在那裡緊緊督促我們好好為考試做準備。{vspace=30}"
+    new "因為是三年級了，大家都對考試十分緊張，儘管我們離到那還有一段時間。老師們已經開始給我們跟我們做心理攻勢了 - 就連今年的班導師立花老師也在這麼做，你能相信嗎？我還以為他教完我們二年級後肯定會退休，但他現在可沒有走的意思，在那裡緊緊督促我們好好為考試做準備。{vspace=30}"
 
     # game/script-a2-emi.rpy:5048
     old "I think things like that are the main reason why the mood among the third-years is so nervous. I must admit that I'm somehow losing confidence in myself as well, even though I've always fared reasonably well in exams.{vspace=150}"

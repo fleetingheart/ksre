@@ -8158,7 +8158,7 @@ translate zh_hant a3_shizune_dewey_decimated_64243eff:
 translate zh_hant a3_shizune_dewey_decimated_61dcf54e:
 
     # "Settling for a can of orange soda, I decide on drinking it here instead of waiting until I get to the cafeteria, when the library door opens next to me."
-    "最後我以橙汁汽水作為妥協。正當我在考慮是否在進食堂之前就在這裡喝了的時候，旁邊圖書館的門打開了。"
+    "最後我以橙汁汽水作為妥協。正當我在考慮是否在進餐廳之前就在這裡喝了的時候，旁邊圖書館的門打開了。"
 
 # game/script-a3-shizune.rpy:5223
 translate zh_hant a3_shizune_dewey_decimated_131743dc:
@@ -9496,7 +9496,7 @@ translate zh_hant a3_shizune_tongue_tied_97918700:
 translate zh_hant a3_shizune_tongue_tied_59cb7ce8:
 
     # his "Not from the cafeteria. There wasn't anything good at lunch, so I really doubt there will be anything good left over. Order something?"
-    his "順帶一提不是去食堂。午餐的時候就沒什麼好的，所以現在也不可能會有什麼好吃的剩下來。要不要叫什麼外賣？"
+    his "順帶一提不是去餐廳。午餐的時候就沒什麼好的，所以現在也不可能會有什麼好吃的剩下來。要不要叫什麼外賣？"
 
 # game/script-a3-shizune.rpy:6032
 translate zh_hant a3_shizune_tongue_tied_b05bf450:

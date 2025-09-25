@@ -4300,7 +4300,7 @@ translate zh_hant a1_thursday_paint_by_numbers_f34450c1:
 translate zh_hant a1_thursday_paint_by_numbers_ec784675:
 
     # "So she must have been trying to get in the cafeteria."
-    "原來她剛才是想去食堂。"
+    "原來她剛才是想去餐廳。"
 
 # game/script-a1-thursday.rpy:2743
 translate zh_hant a1_thursday_paint_by_numbers_c500451c:
@@ -4348,7 +4348,7 @@ translate zh_hant a1_thursday_paint_by_numbers_5258ce5b:
 translate zh_hant a1_thursday_paint_by_numbers_a4be9382:
 
     # "By the time we arrive at the cafeteria, there is not much of a crowd there, but Lilly is nowhere to be seen."
-    "我們抵達食堂時，人潮已經散去了不少，但莉莉卻還不見人影。"
+    "我們抵達餐廳時，人潮已經散去了不少，但莉莉卻還不見人影。"
 
 # game/script-a1-thursday.rpy:2773
 translate zh_hant a1_thursday_paint_by_numbers_2c22f641:

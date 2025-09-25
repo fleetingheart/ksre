@@ -106,7 +106,7 @@ translate zh_hant a4_hanako_truancy_a4006c05:
 translate zh_hant a4_hanako_truancy_c9a5d6b1:
 
     # "The cafeteria hums with activity, much like my old school's did. Yamaku is different, though, in how… strangely civilized the lunchtime rush is."
-    "食堂裡十分忙碌，和我以前的學校很像。但山久有點不同，比如……午餐高峯期時，大家有秩序得不可思議。"
+    "餐廳裡十分忙碌，和我以前的學校很像。但山久有點不同，比如……午餐高峯期時，大家有秩序得不可思議。"
 
 # game/script-a4-hanako.rpy:93
 translate zh_hant a4_hanako_truancy_1bdb3b4a:
@@ -2998,7 +2998,7 @@ translate zh_hant a4_hanako_continuing_melody_f5ecee92:
 translate zh_hant a4_hanako_continuing_melody_83b84a5f:
 
     # hi "Want to go come with me and grab something from the cafeteria? I'm pretty hungry."
-    hi "想跟我去食堂吃點東西吃嗎？我挺餓的。"
+    hi "想跟我去餐廳吃點東西吃嗎？我挺餓的。"
 
 # game/script-a4-hanako.rpy:1718
 translate zh_hant a4_hanako_continuing_melody_c8c223de:

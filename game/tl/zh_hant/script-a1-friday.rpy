@@ -778,7 +778,7 @@ translate zh_hant a1_friday_no_recovery_ce3bc0ba:
 translate zh_hant a1_friday_foot_and_mouth_f7788298:
 
     # "Normally, I'd join the flow and grab a lunch myself, but today is different."
-    "通常，我會加入食堂吃飯人羣，然後午飯自己就對付了，但是今天不同。"
+    "通常，我會加入餐廳吃飯人羣，然後午飯自己就對付了，但是今天不同。"
 
 # game/script-a1-friday.rpy:600
 translate zh_hant a1_friday_foot_and_mouth_f214a940:
@@ -874,7 +874,7 @@ translate zh_hant a1_friday_foot_and_mouth_5ecd4f3b:
 translate zh_hant a1_friday_foot_and_mouth_bb90412e:
 
     # emi "So how about it? You're probably really lonely and would eat that awful cafeteria food all alone, otherwise."
-    emi "所以怎麼樣啊？你或許真的很孤獨，要不是我啊，你還不得自己去吃食堂的那些破飯菜啊。"
+    emi "所以怎麼樣啊？你或許真的很孤獨，要不是我啊，你還不得自己去吃餐廳的那些破飯菜啊。"
 
 # game/script-a1-friday.rpy:665
 translate zh_hant a1_friday_foot_and_mouth_121fcf67:
@@ -1156,7 +1156,7 @@ translate zh_hant a1_friday_foot_and_mouth_f37e1693:
 translate zh_hant a1_friday_foot_and_mouth_ab75bf7b:
 
     # "Students are strolling in pairs and groups around the quadrangle and at the cafeteria."
-    "學生們三五成羣地在操場和食堂四周走動。"
+    "學生們三五成羣地在操場和餐廳四周走動。"
 
 # game/script-a1-friday.rpy:838
 translate zh_hant a1_friday_foot_and_mouth_f6ac3200:
@@ -1984,7 +1984,7 @@ translate zh_hant a1_friday_foot_and_mouth_86cca162:
 translate zh_hant a1_friday_mind_your_step_14d63eff:
 
     # "I guess I need to buy some supplies. I can't live off cafeteria food and eating out for my entire stay here."
-    "我覺得我應該買點補給了。在這兒待著我不能總是吃食堂和到外面吃。"
+    "我覺得我應該買點補給了。在這兒待著我不能總是吃餐廳和到外面吃。"
 
 # game/script-a1-friday.rpy:1322
 translate zh_hant a1_friday_mind_your_step_e6213912:
@@ -5278,7 +5278,7 @@ translate zh_hant a1c11o1_63120938:
 translate zh_hant a1c11o1_dd713f8d:
 
     # hi "I had a heart attack first thing in the morning and then hung out with the head nurse for a few hours for kicks."
-    hi "我一大早就心臟病爆發，然後去校醫長那兒待了幾個小時，爽翻天了。"
+    hi "我一大早就心臟病爆發，然後去校醫那兒待了幾個小時，爽翻天了。"
 
 # game/script-a1-friday.rpy:3292
 translate zh_hant a1c11o1_3d2297b2:

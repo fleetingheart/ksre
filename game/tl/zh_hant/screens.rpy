@@ -44,7 +44,7 @@ translate zh_hant strings:
 
     # game/screens.rpy:184
     old "Main menu"
-    new "主菜單"
+    new "主選單"
 
     # game/screens.rpy:187
     old "Quit"
@@ -72,23 +72,23 @@ translate zh_hant strings:
 
     # game/screens.rpy:259
     old "Adult content is disabled."
-    new "已禁用成人內容。"
+    new "已關閉成人內容。"
 
     # game/screens.rpy:261
     old "Adult content is enabled."
-    new "已啓用成人內容。"
+    new "已開放成人內容。"
 
     # game/screens.rpy:263
     old "Disable adult content"
-    new "禁用成人內容"
+    new "關閉成人內容"
 
     # game/screens.rpy:266
     old "Fullscreen mode"
-    new "全屏模式"
+    new "全螢幕模式"
 
     # game/screens.rpy:268
     old "Skip unread text"
-    new "跳過未讀文本"
+    new "跳過未讀文字"
 
     # game/screens.rpy:270
     old "Skip after choices"
@@ -104,15 +104,15 @@ translate zh_hant strings:
 
     # game/screens.rpy:279
     old "Hardware cursor"
-    new "硬件光標"
+    new "硬體鼠標"
 
     # game/screens.rpy:286
     old "Blinking arrow"
-    new "箭頭閃爍"
+    new "閃爍鼠標"
 
     # game/screens.rpy:296
     old "Text speed"
-    new "文本速度"
+    new "文字速度"
 
     # game/screens.rpy:305
     old "Auto mode delay"
@@ -245,7 +245,7 @@ translate zh_hant strings:
 
     # game/screens.rpy:1031
     old "Default"
-    new "默認"
+    new "預設值"
 
     # game/screens.rpy:1037
     old "High contrast"
@@ -269,11 +269,11 @@ translate zh_hant strings:
 
     # game/screens.rpy:1153
     old "You must be 18+ to see adult content within this game.\nDo you meet these requirements?"
-    new "你必須年滿 18 歲才能觀看此遊戲中的成人內容。\n你滿足要求嗎？"
+    new "你必須年滿 18 歲才能觀看此遊戲中的成人內容。\n你滿足條件嗎？"
 
     # game/screens.rpy:1154
     old "Note: answering \"No\" does NOT prevent you from playing the game."
-    new "注意：回答“否”不影響你遊玩此遊戲。"
+    new "注意：回答“否”並不會影響你玩這個遊戲。"
 
     # game/screens.rpy:1155
     old "This question will not be shown again after you start playing."

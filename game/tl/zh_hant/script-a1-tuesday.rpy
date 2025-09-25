@@ -622,7 +622,7 @@ translate zh_hant a1_tuesday_smalltalk_566c8029:
 translate zh_hant a1_tuesday_smalltalk_a8bbd3ac:
 
     # hi "The cafeteria?"
-    hi "食堂？"
+    hi "餐廳？"
 
 # game/script-a1-tuesday.rpy:410
 translate zh_hant a1_tuesday_smalltalk_84822b35:
@@ -652,7 +652,7 @@ translate zh_hant a1_tuesday_smalltalk_da4c3bf7:
 translate zh_hant a1_tuesday_smalltalk_0c611461:
 
     # "Shizune and Misha pull me towards the cafeteria, which is surprisingly not packed. Maybe some students favor eating in classroom or outdoors. I saw some of my classmates had boxed lunches."
-    "靜音和米莎把我帶到食堂，那裡居然不是很擠，或許有的學生喜歡在教室裡吃或者到室外去吃。我看到過一些同學有帶盒飯。"
+    "靜音和米莎把我帶到餐廳，那裡居然不是很擠，或許有的學生喜歡在教室裡吃或者到室外去吃。我看到過一些同學有帶盒飯。"
 
 # game/script-a1-tuesday.rpy:425
 translate zh_hant a1_tuesday_smalltalk_d12016d0:
@@ -2032,7 +2032,7 @@ translate zh_hant a1_tuesday_pseudo_tea_cosy_f6c65dc5:
 translate zh_hant a1_tuesday_pseudo_tea_cosy_46525503:
 
     # li "Correct, I'm in class 3-2; which is on the third floor, same as yours. It's taught by Miyagi, and is specifically for both blind and partially blind students."
-    li "正確，我在3-2班，和你一樣也在三樓。那是個專門為失明和部分失明的學生而設的班，班主任是宮城。"
+    li "正確，我在3-2班，和你一樣也在三樓。那是個專門為失明和部分失明的學生而設的班，班導師是宮城。"
 
 # game/script-a1-tuesday.rpy:1239
 translate zh_hant a1_tuesday_pseudo_tea_cosy_9c529648:

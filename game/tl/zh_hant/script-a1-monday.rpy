@@ -1048,7 +1048,7 @@ translate zh_hant a1_monday_gateway_effect_379f1eff:
 translate zh_hant a1_monday_gateway_effect_7d56ca54:
 
     # mu_ "So you are. Excellent. I'm your homeroom and science teacher. My name is Mutou."
-    mu_ "那就是你了。非常好。我是你的班主任兼科學老師，我叫武藤。"
+    mu_ "那就是你了。非常好。我是你的班導師兼科學老師，我叫武藤。"
 
 # game/script-a1-monday.rpy:548
 translate zh_hant a1_monday_gateway_effect_266ecf56:
@@ -1066,7 +1066,7 @@ translate zh_hant a1_monday_gateway_effect_903ab41f:
 translate zh_hant a1_monday_gateway_effect_7585988e:
 
     # mu "The head nurse asked you for a brief check-in visit, but there's no time for that now."
-    mu "校醫長要你做一個簡短的入住問詢，但是我們現在沒有時間。"
+    mu "校醫要你做一個簡短的入住問詢，但是我們現在沒有時間。"
 
 # game/script-a1-monday.rpy:557
 translate zh_hant a1_monday_gateway_effect_c3708bb8:
@@ -1870,7 +1870,7 @@ translate zh_hant a1_monday_in_the_nursery_8ea3432e:
 translate zh_hant a1_monday_in_the_nursery_1bffb9a8:
 
     # "Just like everything in this school, the cafeteria seems too spacious and oddly modern in contrast to the classic exterior."
-    "這個食堂和學校其他部分一樣，空間看起來過於寬敞，而且和古典風格的外牆相比，室內裝修顯得過於現代化。"
+    "這個餐廳和學校其他部分一樣，空間看起來過於寬敞，而且和古典風格的外牆相比，室內裝修顯得過於現代化。"
 
 # game/script-a1-monday.rpy:1071
 translate zh_hant a1_monday_in_the_nursery_2747dc72:
@@ -1882,7 +1882,7 @@ translate zh_hant a1_monday_in_the_nursery_2747dc72:
 translate zh_hant a1_monday_in_the_nursery_b6f3f127:
 
     # mi "It's the cafeteria~!"
-    mi "這裡就是食堂～！"
+    mi "這裡就是餐廳～！"
 
 # game/script-a1-monday.rpy:1080
 translate zh_hant a1_monday_in_the_nursery_1a2cf4d9:
@@ -2152,7 +2152,7 @@ translate zh_hant a1_monday_in_the_nursery_a22f7b7b:
 translate zh_hant a1_monday_in_the_nursery_d286341c:
 
     # mi "Anyway, all the nursing staff facilities are in there too. The head nurse's office is on the first floor."
-    mi "總之，所有醫療設備也在裡面了。校醫長的辦公室在一樓。"
+    mi "總之，所有醫療設備也在裡面了。校醫的辦公室在一樓。"
 
 # game/script-a1-monday.rpy:1271
 translate zh_hant a1_monday_in_the_nursery_58989557:
@@ -2188,7 +2188,7 @@ translate zh_hant a1_monday_in_the_nursery_d0aa6077:
 translate zh_hant a1_monday_in_the_nursery_057ab20a:
 
     # "On a white door on the left is a green cross with the text 'Head Nurse' and a nameplate."
-    "左邊一扇白色門上，標記著綠色的十字，還有“校醫長”的字樣和一個名牌。"
+    "左邊一扇白色門上，標記著綠色的十字，還有“校醫”的字樣和一個名牌。"
 
 # game/script-a1-monday.rpy:1294
 translate zh_hant a1_monday_in_the_nursery_dd35dbc8:
@@ -2260,7 +2260,7 @@ translate zh_hant a1_monday_in_the_nursery_045b0ede:
 translate zh_hant a1_monday_in_the_nursery_f2b2aaa7:
 
     # hi "Right… err, I'm a new student and my homeroom teacher told me to come and meet you. My name is Hisao Nakai."
-    hi "對了……呃，我是新來的學生，我的班主任讓我到這裡來見你。我的名字是中井久夫。"
+    hi "對了……呃，我是新來的學生，我的班導師讓我到這裡來見你。我的名字是中井久夫。"
 
 # game/script-a1-monday.rpy:1333
 translate zh_hant a1_monday_in_the_nursery_c87430cb:

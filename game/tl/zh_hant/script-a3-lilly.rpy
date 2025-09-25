@@ -562,7 +562,7 @@ translate zh_hant a3_lilly_minor_discord_d2c39406:
 translate zh_hant a3_lilly_minor_discord_2804340f:
 
     # "I step inside, my eyes scanning the expanse of the cafeteria in search of a suitable place to take a seat. It's a task made more difficult by the groups of students moving about and busily talking."
-    "我走進餐廳裡面，用眼睛掃視這片廣闊的食堂，看看有沒有合適的地方可以坐下來，到處走動的一羣羣學生和四周忙亂的對話讓這成了一個艱鉅的任務。"
+    "我走進餐廳裡面，用眼睛掃視這片廣闊的餐廳，看看有沒有合適的地方可以坐下來，到處走動的一羣羣學生和四周忙亂的對話讓這成了一個艱鉅的任務。"
 
 # game/script-a3-lilly.rpy:374
 translate zh_hant a3_lilly_minor_discord_c4cb2fa5:

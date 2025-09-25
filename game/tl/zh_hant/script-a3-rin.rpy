@@ -1120,7 +1120,7 @@ translate zh_hant a3_rin_the_scent_of_light_90b7273f:
 translate zh_hant a3_rin_the_scent_of_light_8dee1647:
 
     # "Perhaps she went to the art club room for some last minute things instead, or got held back by her strict homeroom teacher."
-    "或許她突發奇想去了趟美術社的教室，也可能是被她那嚴厲的班主任給扣留了。"
+    "或許她突發奇想去了趟美術社的教室，也可能是被她那嚴厲的班導師給扣留了。"
 
 # game/script-a3-rin.rpy:796
 translate zh_hant a3_rin_the_scent_of_light_ff1683bc:

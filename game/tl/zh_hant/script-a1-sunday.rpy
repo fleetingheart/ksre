@@ -9934,7 +9934,7 @@ translate zh_hant lilly_and_hanako_union_714114b3:
 translate zh_hant lilly_and_hanako_union_95bd9916:
 
     # "Steam seems to be rising from everywhere, as pots and pans simmer away. The most blind of the students are unpacking ingredients while being helped by someone who is probably the teacher of 3-2."
-    "隨著咕咕作響的鍋，蒸汽四處飄散。失明最嚴重的學生們在看起來是3-2班班主任的人的協助下拆著食物原料的包裝。"
+    "隨著咕咕作響的鍋，蒸汽四處飄散。失明最嚴重的學生們在看起來是3-2班班導師的人的協助下拆著食物原料的包裝。"
 
 # game/script-a1-sunday.rpy:5988
 translate zh_hant lilly_and_hanako_union_39d4ea4c:

@@ -2262,7 +2262,7 @@ translate zh_hant a4_shizune_parfait_3c8931f5:
 translate zh_hant a4_shizune_parfait_565745e4:
 
     # hi "Because we're all headed to the cafeteria, and we haven't eaten together in a long time. So, why not?"
-    hi "因為我們都要去食堂了，而且我們也都餓了。為什麼不去呢？"
+    hi "因為我們都要去餐廳了，而且我們也都餓了。為什麼不去呢？"
 
 # game/script-a4-shizune.rpy:1510
 translate zh_hant a4_shizune_parfait_0c467274:
@@ -2958,7 +2958,7 @@ translate zh_hant a4_shizune_parfait_46989666:
 translate zh_hant a4_shizune_parfait_8a9b3ea1:
 
     # hi "…Following me to the cafeteria, or trying to corner me after half my classes."
-    hi "……跟我到食堂，或者是在下課後不讓我離開。"
+    hi "……跟我到餐廳，或者是在下課後不讓我離開。"
 
 # game/script-a4-shizune.rpy:1946
 translate zh_hant a4_shizune_parfait_1f6f68ec:
@@ -7920,7 +7920,7 @@ translate zh_hant a4_shizune_spiral_472616cb:
 translate zh_hant a4_shizune_spiral_8690fedc:
 
     # "By the time I reach the cafeteria, where Misha has apparently been this entire time, I've been around the whole school twice, and am very tired. I realize I've passed by her before, and just didn't see her behind a pillar."
-    "等到了米莎顯然一直在那裡的食堂，我已經圍著學校找了兩圈，快累死了。我想起來剛才就在她身邊路過，只是沒看見柱子後面的她。"
+    "等到了米莎顯然一直在那裡的餐廳，我已經圍著學校找了兩圈，快累死了。我想起來剛才就在她身邊路過，只是沒看見柱子後面的她。"
 
 # game/script-a4-shizune.rpy:5190
 translate zh_hant a4_shizune_spiral_f05434a4:
