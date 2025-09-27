@@ -360,6 +360,7 @@ screen language():
             textbutton _("German") action Language("de")
             textbutton _("Japanese") action Language("jp")
             textbutton _("Simplified Chinese") action Language("zh_hans")
+            textbutton _("Traditional Chinese") action Language("zh_hant")
 
         textbutton _("Return"):
             style "return_button"

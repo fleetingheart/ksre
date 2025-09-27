@@ -169,6 +169,9 @@ translate de strings:
     old "Italian"
     new "Italienisch"
 
+    old "Traditional Chinese"
+    new "Chinesisch (traditionell)"
+
     # game/screens.rpy:439
     old "Are you sure you want to\nload this save?"
     new "Sind Sie sicher, dass Sie\ndiesen Spielstand laden möchten?"

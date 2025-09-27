@@ -173,6 +173,9 @@ translate it strings:
     old "Italian"
     new "Italiano"
 
+    old "Traditional Chinese"
+    new "Cinese Tradizionale"
+
     # game/screens.rpy:425
     old "Are you sure you want to\nload this save?"
     new "Vuoi davvero scartare\ni tuoi progressi?"

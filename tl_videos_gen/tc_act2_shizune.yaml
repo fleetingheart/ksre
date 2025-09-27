@@ -119,3 +119,11 @@ translations:
     - font: ../game/font/XiaolaiSC-Regular.ttf
       size: 52
       text: "学习阅读"
+  zh_hant:
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      stroke: 1.0
+      text: "第二章:"
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      text: "學習閱讀"

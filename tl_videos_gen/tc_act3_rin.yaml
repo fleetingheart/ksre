@@ -111,3 +111,11 @@ translations:
     - font: ../game/font/XiaolaiSC-Regular.ttf
       size: 52
       text: "距离"
+  zh_hant:
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      stroke: 1.0
+      text: "第三章:"
+    - font: ../game/font/XiaolaiSC-Regular.ttf
+      size: 52
+      text: "距離"

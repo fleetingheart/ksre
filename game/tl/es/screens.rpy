@@ -161,6 +161,9 @@ translate es strings:
     old "Simplified Chinese"
     new "Chino Simplificado"
 
+    old "Traditional Chinese"
+    new "Chino Tradicional"
+
     # game/screens.rpy:414
     old "Scene"
     new "Escena"

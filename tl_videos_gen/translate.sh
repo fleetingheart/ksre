@@ -37,6 +37,7 @@ it
 jp
 ru
 zh_hans
+zh_hant
 EOF
 )
 

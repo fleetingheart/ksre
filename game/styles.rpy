@@ -16,6 +16,10 @@ translate zh_hans python:
     default_font = FontGroup().add("font/XiaolaiSC-Regular.ttf", 0x2e80, 0xffff).add("font/playtime.ttf", 0x0000, 0xffff)
     gui.text_size = 36 + mobile_ts_add * is_mobile
 
+translate zh_hant python:
+    default_font = FontGroup().add("font/XiaolaiSC-Regular.ttf", 0x2e80, 0xffff).add("font/playtime.ttf", 0x0000, 0xffff)
+    gui.text_size = 36 + mobile_ts_add * is_mobile
+
 translate jp python:
     default_font = FontGroup().add("font/VL-PGothic-Regular.ttf", 0x2e80, 0xffff).add("font/playtime.ttf", 0x0000, 0xffff)
 

@@ -153,6 +153,9 @@ translate ru strings:
     old "Italian"
     new "Итальянский"
 
+    old "Traditional Chinese"
+    new "Традиционный китайский"
+
     # game/screens.rpy:401
     old "Playtime"
     new "Наиграно"
