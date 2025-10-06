@@ -2176,7 +2176,7 @@ translate zh_hant a1_friday_mind_your_step_16b2d15b:
 translate zh_hant a1_friday_mind_your_step_12e79126:
 
     # li "Well, hopefully everything should settle down for you. The festival's got everyone in a spin right now, and you've been plopped right in the middle of things."
-    li "那個，希望你一切都好起來吧。校園祭搞得大家現在都忙得團團轉，而你正趕上呢。"
+    li "那個，希望你一切都好起來吧。園遊會搞得大家現在都忙得團團轉，而你正趕上呢。"
 
 # game/script-a1-friday.rpy:1428
 translate zh_hant a1_friday_mind_your_step_571cc6c7:
@@ -2446,7 +2446,7 @@ translate zh_hant a1_friday_mind_your_step_8e2bfe59:
 translate zh_hant a1_friday_mind_your_step_70c5b197:
 
     # li "The festival preparations have been complete chaos. Shizune breathing down my neck doesn't exactly help things, either."
-    li "校園祭的準備工作全亂套了。靜音一味催我，其實也沒幫上什麼忙。"
+    li "園遊會的準備工作全亂套了。靜音一味催我，其實也沒幫上什麼忙。"
 
 # game/script-a1-friday.rpy:1584
 translate zh_hant a1_friday_mind_your_step_f5964e51:
@@ -2464,7 +2464,7 @@ translate zh_hant a1_friday_mind_your_step_29b85bfd:
 translate zh_hant a1_friday_mind_your_step_d4602b78:
 
     # "I guess the festival preparations must be taking their toll on both of them."
-    "我猜校園祭的準備工作一定讓她們都費盡心思。"
+    "我猜園遊會的準備工作一定讓她們都費盡心思。"
 
 # game/script-a1-friday.rpy:1596
 translate zh_hant a1_friday_mind_your_step_b4b75df3:
@@ -3370,7 +3370,7 @@ translate zh_hant a1_friday_no_free_lunch_ef2b123c_5:
 translate zh_hant a1_friday_no_free_lunch_8bbe86f5:
 
     # mi "Hicchan, do you have any plans for the festival?"
-    mi "小久，校園祭你有什麼打算嗎？"
+    mi "小久，園遊會你有什麼打算嗎？"
 
 # game/script-a1-friday.rpy:2141
 translate zh_hant a1_friday_no_free_lunch_46ecdf4d:
@@ -3634,19 +3634,19 @@ translate zh_hant class_goes_lazily_5d8a4c18:
 translate zh_hant class_goes_lazily_332b057d:
 
     # "Mutou finishes his lecture about electricity early, but continues without a pause about the festival."
-    "武藤早早講完電學的內容，緊接著就談到了校園祭的事情。"
+    "武藤早早講完電學的內容，緊接著就談到了園遊會的事情。"
 
 # game/script-a1-friday.rpy:2312
 translate zh_hant class_goes_lazily_b032cdfb:
 
     # mu "So, as you know, the festival is on the day after tomorrow. I hope everyone's projects are going to be successful this year."
-    mu "那麼，你們大概知道，校園祭在後天舉行。我希望大家今年的項目能搞得成功。"
+    mu "那麼，你們大概知道，園遊會在後天舉行。我希望大家今年的項目能搞得成功。"
 
 # game/script-a1-friday.rpy:2317
 translate zh_hant class_goes_lazily_4526da28:
 
     # mu "Have a good time, but also come Sunday, please keep the meaning of this festival in your minds…"
-    mu "記得星期天要來，也祝你們玩得開心，不過也請大家記住這個校園祭的意義……"
+    mu "記得星期天要來，也祝你們玩得開心，不過也請大家記住這個園遊會的意義……"
 
 # game/script-a1-friday.rpy:2319
 translate zh_hant class_goes_lazily_b0169987:
@@ -5080,7 +5080,7 @@ translate zh_hant a1c10o1_8ef5a995:
 translate zh_hant a1c10o1_bedba1a5:
 
     # "The festival is practically here. That means there are only two possible reasons that my help is required."
-    "校園祭實際上已經開始了。也就是說，只有兩種情況下才需要我幫忙。"
+    "園遊會實際上已經開始了。也就是說，只有兩種情況下才需要我幫忙。"
 
 # game/script-a1-friday.rpy:3176
 translate zh_hant a1c10o1_e404ecbd:
@@ -5584,7 +5584,7 @@ translate zh_hant a1c12o2_865e5fc9:
 translate zh_hant a1c12o2_bedba1a5:
 
     # "The festival is practically here. That means there are only two possible reasons that my help is required."
-    "校園祭實際上已經開始了。也就是說，只有兩種情況下才需要我幫忙。"
+    "園遊會實際上已經開始了。也就是說，只有兩種情況下才需要我幫忙。"
 
 # game/script-a1-friday.rpy:3503
 translate zh_hant a1c12o2_e404ecbd:

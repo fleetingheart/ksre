@@ -5134,11 +5134,11 @@ translate zh_hant a2_rin_eternity_in_an_hour_ea234abd:
     # no "To see a world in a grain of sand"
     no "以一沙一礫見世界，"
 
-# game/script-a2-rin.rpy:3434
-translate zh_hant a2_rin_eternity_in_an_hour_f89897c0:
+# game/script-a2-rin.rpy:3445
+translate zh_hant a2_rin_eternity_in_an_hour_3bd0996d:
 
-    # extend "{vspace=30}And a heaven in a wild flower,"
-    extend "{vspace=30}繪野花荒草為天堂，"
+    # extend "\nAnd a heaven in a wild flower,"
+    extend "\n繪野花荒草為天堂，"
 
 # game/script-a2-rin.rpy:3436
 translate zh_hant a2_rin_eternity_in_an_hour_9233a1f4:
@@ -5146,11 +5146,11 @@ translate zh_hant a2_rin_eternity_in_an_hour_9233a1f4:
     # no "Hold infinity in the palm of your hand"
     no "握無垠之境於掌間，"
 
-# game/script-a2-rin.rpy:3438
-translate zh_hant a2_rin_eternity_in_an_hour_5deed391:
+# game/script-a2-rin.rpy:3449
+translate zh_hant a2_rin_eternity_in_an_hour_83447599:
 
-    # extend "{vspace=30}And eternity in an hour."
-    extend "{vspace=30}融亙古萬世入一時。"
+    # extend "\nAnd eternity in an hour."
+    extend "\n融亙古萬世入一時。"
 
 # game/script-a2-rin.rpy:3440
 translate zh_hant a2_rin_eternity_in_an_hour_12e73d27:

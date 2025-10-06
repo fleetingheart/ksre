@@ -208,7 +208,7 @@ translate zh_hant a1_tuesday_smalltalk_c284cbd4:
 translate zh_hant a1_tuesday_smalltalk_50e1751d:
 
     # mi "There are also school events, like the festival coming up in a few days. Almost every student in the school tends to help out with it, doing whatever."
-    mi "學校也會搞活動，比如過幾天的校園祭。幾乎每個學生都會參與到準備當中。"
+    mi "學校也會搞活動，比如過幾天的園遊會。幾乎每個學生都會參與到準備當中。"
 
 # game/script-a1-tuesday.rpy:128
 translate zh_hant a1_tuesday_smalltalk_909609cd:
@@ -226,7 +226,7 @@ translate zh_hant a1_tuesday_smalltalk_21ce94c5:
 translate zh_hant a1_tuesday_smalltalk_eb92af49:
 
     # hi "What's the festival about?"
-    hi "校園祭要搞些什麼？"
+    hi "園遊會要搞些什麼？"
 
 # game/script-a1-tuesday.rpy:137
 translate zh_hant a1_tuesday_smalltalk_3df33b3e:
@@ -238,7 +238,7 @@ translate zh_hant a1_tuesday_smalltalk_3df33b3e:
 translate zh_hant a1_tuesday_smalltalk_454f80ca:
 
     # mi "…Wahahaha~! I don't know, Hicchan, the truth is it's a local event, and I'm not from this area, so…"
-    mi "……哇哈哈哈～！我不清楚，小久，事實上校園祭原來是個本地祭典，我不是本地人，所以……"
+    mi "……哇哈哈哈～！我不清楚，小久，事實上園遊會原來是個本地祭典，我不是本地人，所以……"
 
 # game/script-a1-tuesday.rpy:156
 translate zh_hant a1_tuesday_smalltalk_34224b19:

@@ -5158,7 +5158,7 @@ translate zh_hant a1_sunday_movement_ceaba2eb:
 translate zh_hant a1_sunday_movement_2de7eece:
 
     # li "Of course; with everyone at the festival it should be practically empty."
-    li "當然了。所有人都在校園祭，那裡應該相當空閒吧。"
+    li "當然了。所有人都在園遊會，那裡應該相當空閒吧。"
 
 # game/script-a1-sunday.rpy:2917
 translate zh_hant a1_sunday_movement_ac86271c:
@@ -5962,7 +5962,7 @@ translate zh_hant a1_sunday_movement_2c17e195:
 translate zh_hant a1_sunday_movement_4513c5a0:
 
     # "I think that's why the school makes such a fuss over this festival. It's a chance to show the similarities between everyone."
-    "學校如此重視他們的校園祭，也許就是這個原因吧。人與人之間總會有相似的地方，這正是一個將其展現出來的好機會。"
+    "學校如此重視他們的園遊會，也許就是這個原因吧。人與人之間總會有相似的地方，這正是一個將其展現出來的好機會。"
 
 # game/script-a1-sunday.rpy:3538
 translate zh_hant a1_sunday_movement_434f301c:

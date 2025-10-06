@@ -22,7 +22,7 @@ translate zh_hant a2_shizune_message_passing_f8ec4968:
 translate zh_hant a2_shizune_message_passing_9f6d1f3d:
 
     # n "Ah, it's so unfair. How can they do this? They hold a festival that is the culmination of what has to be at least a few weeks' worth of work on a Sunday, and then follow up with exams starting the very next morning?"
-    n "唉，這也太不厚道了。學校怎麼能這樣？把耗費了至少幾周時間準備的文化祭安排在星期天，緊接著就在第二天上午安排考試？"
+    n "唉，這也太不厚道了。學校怎麼能這樣？把耗費了至少幾周時間準備的園遊會安排在星期天，緊接著就在第二天上午安排考試？"
 
 # game/script-a2-shizune.rpy:24
 translate zh_hant a2_shizune_message_passing_288c3239:
@@ -58,7 +58,7 @@ translate zh_hant a2_shizune_message_passing_a8e10ab2:
 translate zh_hant a2_shizune_message_passing_e3c899a0:
 
     # n "I put down the notes I'm reviewing for a second and stare out at the school grounds, still littered with festival stalls."
-    n "不一會兒我便放下了手中的筆記，出神地望著學校操場，文化祭的攤位仍雜亂地散落著。"
+    n "不一會兒我便放下了手中的筆記，出神地望著學校操場，園遊會的攤位仍雜亂地散落著。"
 
 # game/script-a2-shizune.rpy:43
 translate zh_hant a2_shizune_message_passing_9194aafc:
@@ -3884,13 +3884,13 @@ translate zh_hant a2_shizune_bread_scissors_paper_86bdb112:
 translate zh_hant a2_shizune_bread_scissors_paper_05b4d0da:
 
     # ssh "It wouldn't have made sense to bore you with cleanup duty after you enjoyed the festival so much."
-    ssh "如果讓你那麼享受了文化祭之後給你這種無聊的清理工作，那也太不合理了。"
+    ssh "如果讓你那麼享受了園遊會之後給你這種無聊的清理工作，那也太不合理了。"
 
 # game/script-a2-shizune.rpy:2521
 translate zh_hant a2_shizune_bread_scissors_paper_1cf0b984:
 
     # mi "It wouldn't have made sense to bore you with making you clean up right after the festival, it would have ruined the fun."
-    mi "剛過完文化祭就讓你幹那麼無聊的清理工作也太不合理了，那樣會毀掉節日的歡樂。"
+    mi "剛過完園遊會就讓你幹那麼無聊的清理工作也太不合理了，那樣會毀掉節日的歡樂。"
 
 # game/script-a2-shizune.rpy:2526
 translate zh_hant a2_shizune_bread_scissors_paper_43558f05:
@@ -9326,7 +9326,7 @@ translate zh_hant strings:
 
     # game/script-a2-shizune.rpy:164
     old "You are here very early; most people sleep in late after the festival. That means you are abnormal."
-    new "你這麼早就起來了，大多數人在昨天的文化祭後都睡得很晚的，像你這樣的很奇怪呢。"
+    new "你這麼早就起來了，大多數人在昨天的園遊會後都睡得很晚的，像你這樣的很奇怪呢。"
 
     # game/script-a2-shizune.rpy:168
     old "You're here too."

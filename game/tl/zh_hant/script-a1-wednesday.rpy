@@ -706,7 +706,7 @@ translate zh_hant a1_wednesday_short_sharp_shock_ef2b123c_9:
 translate zh_hant a1_wednesday_short_sharp_shock_3a915296:
 
     # mi "We have to run now, there is an important student council meeting regarding the festival. And we finally decided where to eat~!"
-    mi "我們要出發了，學生會還有一個關於校園祭的重要會議要進行。而且我們終於說定了去哪兒開飯～！"
+    mi "我們要出發了，學生會還有一個關於園遊會的重要會議要進行。而且我們終於說定了去哪兒開飯～！"
 
 # game/script-a1-wednesday.rpy:502
 translate zh_hant a1_wednesday_short_sharp_shock_ef2b123c_10:
@@ -1414,7 +1414,7 @@ translate zh_hant a1_wednesday_detour_ahead_ef2b123c_14:
 translate zh_hant a1_wednesday_detour_ahead_b4f561fc:
 
     # mi "Wahaha~! Hicchan, that isn't important. What matters is that the number is low, and that is why we would appreciate you giving us a hand, especially with the festival coming up so soon, and it looking to be a busy year ahead in general."
-    mi "哇哈哈～！小久，這個可不重要喲。重要的是我們缺人呀，這就是為什麼我們感謝你能給我們幫忙，特別是在校園祭就要開幕的時刻，而且以後看起來也會很忙的呀。"
+    mi "哇哈哈～！小久，這個可不重要喲。重要的是我們缺人呀，這就是為什麼我們感謝你能給我們幫忙，特別是在園遊會就要開幕的時刻，而且以後看起來也會很忙的呀。"
 
 # game/script-a1-wednesday.rpy:1003
 translate zh_hant a1_wednesday_detour_ahead_2789216d:
@@ -1528,7 +1528,7 @@ translate zh_hant a1_wednesday_detour_ahead_4871b854:
 translate zh_hant a1_wednesday_detour_ahead_bdcefa20:
 
     # mi "Yeah, it would be great if you could just file some papers for us, and… the festival is coming up, and we have to build some stalls for the games and food, just a few, so if you were there, it would be a lot easier for us…"
-    mi "耶，如果你能幫我們處理文件檔案的話就太好了，而且……校園祭就要開始了，我們要給那些賣食品的和佈置遊戲的販子做些攤子，只有幾個而已，如果你在的話，我們就能很快做完嘛……"
+    mi "耶，如果你能幫我們處理文件檔案的話就太好了，而且……園遊會就要開始了，我們要給那些賣食品的和佈置遊戲的販子做些攤子，只有幾個而已，如果你在的話，我們就能很快做完嘛……"
 
 # game/script-a1-wednesday.rpy:1077
 translate zh_hant a1_wednesday_detour_ahead_fc392e91:
@@ -2140,7 +2140,7 @@ translate zh_hant a1_wednesday_detour_ahead_b25c7766:
 translate zh_hant a1_wednesday_detour_ahead_c424f0f4:
 
     # mi "Please, Hicchan? We need these things to build stalls for the festival, and you said you would help out a little, right?, right?"
-    mi "求求你了，小久？我們需要給校園祭準備那些東西，你說過你會幫忙的吧，對吧？對吧？"
+    mi "求求你了，小久？我們需要給園遊會準備那些東西，你說過你會幫忙的吧，對吧？對吧？"
 
 # game/script-a1-wednesday.rpy:1479
 translate zh_hant a1_wednesday_detour_ahead_7c5c94ef:
@@ -2776,7 +2776,7 @@ translate zh_hant a1_wednesday_it_builds_character_5ab9085a:
 translate zh_hant a1_wednesday_it_builds_character_bb8deac5:
 
     # mi "I… we need help! We are running out of supplies for the festival stands!"
-    mi "我……我們需要幫忙！我們缺少製作校園祭攤位的材料！"
+    mi "我……我們需要幫忙！我們缺少製作園遊會攤位的材料！"
 
 # game/script-a1-wednesday.rpy:1859
 translate zh_hant a1_wednesday_it_builds_character_fe632aad:
@@ -3160,7 +3160,7 @@ translate zh_hant a1_wednesday_a_private_lunch_4ccd1e5c:
 translate zh_hant a1_wednesday_a_private_lunch_67569e56:
 
     # hi "Umm… hello. I was told to pick up some supplies from here. For some festival stalls I think. I didn't think there would be someone here."
-    hi "呃……你好。有人讓我來這兒拿些校園祭需要的材料。我還以為這裡沒人呢。"
+    hi "呃……你好。有人讓我來這兒拿些園遊會需要的材料。我還以為這裡沒人呢。"
 
 # game/script-a1-wednesday.rpy:2050
 translate zh_hant a1_wednesday_a_private_lunch_f1ed90b4:
@@ -3994,7 +3994,7 @@ translate zh_hant a1_wednesday_waylay_ef2b123c_2:
 translate zh_hant a1_wednesday_waylay_6048f3eb:
 
     # mi "Anyway, how is your project going? Will it be done for the festival?"
-    mi "無論如何，你的項目怎麼樣了？你能在校園祭之前完成嗎？"
+    mi "無論如何，你的項目怎麼樣了？你能在園遊會之前完成嗎？"
 
 # game/script-a1-wednesday.rpy:2511
 translate zh_hant a1_wednesday_waylay_791a8567:
