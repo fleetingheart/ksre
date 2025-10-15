@@ -580,13 +580,13 @@ translate jp a1_monday_bundle_of_hisao_84464266:
 translate jp a1_monday_bundle_of_hisao_d20e71ba:
 
     # "The doctor hands a sheet of paper to my dad, whose expression turns wooden as he reads it quickly."
-    "父" "こんなに多いんですか……"
+    "医師は一枚の紙を父さんに渡す。それを一読して、表情が木のように固まる。"
 
 # game/script-a1-monday.rpy:353
 translate jp a1_monday_bundle_of_hisao_b9806ad0:
 
     # "Dad" "So many…"
-    "医師は一枚の紙を父さんに渡す。それを一読して、表情が木のように固まる。"
+    "父" "こんなに多いんですか……"
 
 # game/script-a1-monday.rpy:355
 translate jp a1_monday_bundle_of_hisao_36ab31f4:
