@@ -4,7 +4,7 @@ translate es strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "Auto-voz desactivada."
+    new "Narración automática desactivada."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
@@ -12,7 +12,7 @@ translate es strings:
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "Auto-voz activada."
+    new "Narración automática activada."
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
@@ -52,7 +52,7 @@ translate es strings:
 
     # renpy/common/00accessibility.rpy:138
     old "Font Override"
-    new "Anulación de la fuente"
+    new "Reemplazo de fuente"
 
     # renpy/common/00accessibility.rpy:146
     old "DejaVu Sans"
@@ -64,7 +64,7 @@ translate es strings:
 
     # renpy/common/00accessibility.rpy:156
     old "Text Size Scaling"
-    new "Escala del tamaño del texto"
+    new "Escala del texto"
 
     # renpy/common/00accessibility.rpy:162
     old "Reset"
@@ -72,7 +72,7 @@ translate es strings:
 
     # renpy/common/00accessibility.rpy:168
     old "Line Spacing Scaling"
-    new "Escala de espacio entre líneas"
+    new "Espaciado entre líneas"
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
@@ -84,7 +84,7 @@ translate es strings:
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
-    new "Autovoz"
+    new "Narración automática"
 
     # renpy/common/00accessibility.rpy:197
     old "Off"
@@ -104,7 +104,7 @@ translate es strings:
 
     # renpy/common/00accessibility.rpy:215
     old "Self-Voicing Volume Drop"
-    new "Bajar el volumen de la autovoz"
+    new "Bajar el volumen de la Narración automática"
 
     # renpy/common/00accessibility.rpy:224
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
@@ -280,7 +280,7 @@ translate es strings:
 
     # renpy/common/00action_file.rpy:577
     old "File page auto"
-    new "Archivo página auto"
+    new "Página de archivo automática"
 
     # renpy/common/00action_file.rpy:579
     old "File page quick"
@@ -288,7 +288,7 @@ translate es strings:
 
     # renpy/common/00action_file.rpy:581
     old "File page [text]"
-    new "Archivo página [text]"
+    new "Página de archivo [text]"
 
     # renpy/common/00action_file.rpy:639
     old "Page {}"
@@ -316,11 +316,11 @@ translate es strings:
 
     # renpy/common/00action_file.rpy:931
     old "Quick save."
-    new "Guardado rápido."
+    new "Guardado R."
 
     # renpy/common/00action_file.rpy:950
     old "Quick load."
-    new "Carga rápida."
+    new "Carga R."
 
     # renpy/common/00action_other.rpy:381
     old "Language [text]"
@@ -348,7 +348,7 @@ translate es strings:
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
-    new "(declaración)"
+    new "(instrucción)"
 
     # renpy/common/00director.rpy:1562
     old "(tag)"
@@ -452,15 +452,15 @@ translate es strings:
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to begin skipping?"
-    new "¿Estás seguro de que quieres empezar a saltar?"
+    new "¿Estás seguro de que quieres empezar a omitir?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to skip to the next choice?"
-    new "¿Está seguro de que quiere saltar a la siguiente opción?"
+    new "¿Está seguro de que quiere omitir a la siguiente opción?"
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "¿Está seguro de que quiere saltar el diálogo no visto a la siguiente opción?"
+    new "¿Está seguro de que quiere omitir el diálogo no visto a la siguiente opción?"
 
     # renpy/common/00keymap.rpy:310
     old "Failed to save screenshot as %s."
@@ -488,7 +488,7 @@ translate es strings:
 
     # renpy/common/00preferences.rpy:280
     old "skip transitions"
-    new "saltar transiciones"
+    new "omitir transiciones"
 
     # renpy/common/00preferences.rpy:282
     old "video sprites"
@@ -512,19 +512,19 @@ translate es strings:
 
     # renpy/common/00preferences.rpy:315
     old "skip"
-    new "saltar"
+    new "omitir"
 
     # renpy/common/00preferences.rpy:318
     old "skip unseen [text]"
-    new "saltar lo no visto [text]"
+    new "omitir lo no visto [text]"
 
     # renpy/common/00preferences.rpy:323
     old "skip unseen text"
-    new "saltar texto no visto"
+    new "omitir texto no visto"
 
     # renpy/common/00preferences.rpy:325
     old "begin skipping"
-    new "empezar a saltar"
+    new "empezar a omitir"
 
     # renpy/common/00preferences.rpy:329
     old "after choices"
@@ -532,7 +532,7 @@ translate es strings:
 
     # renpy/common/00preferences.rpy:336
     old "skip after choices"
-    new "saltar después de decidir"
+    new "omitir después de decidir"
 
     # renpy/common/00preferences.rpy:338
     old "auto-forward time"
@@ -568,7 +568,7 @@ translate es strings:
 
     # renpy/common/00preferences.rpy:407
     old "self voicing volume drop"
-    new "auto voz bajada de volumen"
+    new "reducir volumen durante narración automática"
 
     # renpy/common/00preferences.rpy:415
     old "clipboard voicing"
@@ -580,7 +580,7 @@ translate es strings:
 
     # renpy/common/00preferences.rpy:433
     old "emphasize audio"
-    new "enfatizar audio"
+    new "resaltar audio"
 
     # renpy/common/00preferences.rpy:442
     old "rollback side"
@@ -596,7 +596,7 @@ translate es strings:
 
     # renpy/common/00preferences.rpy:461
     old "gl tearing"
-    new "gl desgarro"
+    new "Desgarro de pantalla"
 
     # renpy/common/00preferences.rpy:464
     old "font transform"
@@ -616,7 +616,7 @@ translate es strings:
 
     # renpy/common/00preferences.rpy:492
     old "renderer menu"
-    new "menú renderizador"
+    new "menú del renderizador"
 
     # renpy/common/00preferences.rpy:495
     old "accessibility menu"
@@ -672,11 +672,11 @@ translate es strings:
 
     # renpy/common/00preferences.rpy:618
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "Autovoz diría \"[renpy.display.tts.last]\". Pulsa 'alt+mayúsculas+V' para desactivar."
+    new "Narración automática diría \"[renpy.display.tts.last]\". Pulsa 'alt+mayúsculas+V' para desactivar."
 
     # renpy/common/00preferences.rpy:620
     old "Self-voicing enabled. Press 'v' to disable."
-    new "La Autovoz está activada. Pulsa 'v' para desactivarla."
+    new "La Narración automática está activada. Pulsa 'v' para desactivarla."
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
@@ -804,7 +804,7 @@ translate es strings:
 
     # renpy/common/_developer/inspector.rpym:38
     old "Displayable Inspector"
-    new "Inspector visualizable"
+    new "Inspector de pantallas"
 
     # renpy/common/_developer/inspector.rpym:61
     old "Size"
@@ -892,7 +892,7 @@ translate es strings:
 
     # renpy/common/00updater.rpy:1631
     old "An error has occured:"
-    new "Se ha producido un error:"
+    new "Ocurrió un error:"
 
     # renpy/common/00updater.rpy:1633
     old "Checking for updates."
@@ -936,7 +936,7 @@ translate es strings:
 
     # renpy/common/00updater.rpy:1666
     old "Proceed"
-    new "Continúe con"
+    new "Continuar"
 
     # renpy/common/00compat.rpy:371
     old "Fullscreen"
@@ -1092,7 +1092,7 @@ translate es strings:
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
-    new "Saltar (A)"
+    new "Omitir (A)"
 
     # renpy/common/00gamepad.rpy:71
     old "Back (B)"
@@ -1196,7 +1196,7 @@ translate es strings:
 
     # renpy/common/00preferences.rpy:528
     old "audio when unfocused"
-    new "audio al desenfocar"
+    new "audio en segundo plano"
 
     # renpy/common/00preferences.rpy:537
     old "web cache preload"
@@ -1285,119 +1285,153 @@ translate es strings:
     # renpy/common/00sync.rpy:634
     old "Sync Error"
     new "Error de sincronización"
-# TODO: Translation updated at 2024-12-18 15:06
 
 translate es strings:
 
     # renpy/common/00accessibility.rpy:121
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "Menú de accesibilidad. Usa las flechas arriba y abajo para navegar, y Enter para activar botones y barras."
 
     # renpy/common/00accessibility.rpy:198
     old "Self-voicing support is limited when using a touch screen."
-    new "Self-voicing support is limited when using a touch screen."
+    new "El soporte de narración automática es limitado cuando se usa una pantalla táctil."
 
     # renpy/common/00director.rpy:1777
     old "Customize director.transforms to add more transforms."
-    new "Customize director.transforms to add more transforms."
+    new "Personaliza director.transforms para agregar más transformaciones."
 
     # renpy/common/00director.rpy:1822
     old "Click to set."
-    new "Click to set."
+    new "Haz clic para establecer."
 
     # renpy/common/00director.rpy:1823
     old "Customize director.transitions to add more transitions."
-    new "Customize director.transitions to add more transitions."
+    new "Personaliza director.transitions para agregar más transiciones."
 
     # renpy/common/00director.rpy:1846
     old "Customize director.audio_channels to add more channels."
-    new "Customize director.audio_channels to add more channels."
+    new "Personaliza director.audio_channels para agregar más canales de audio."
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new "Are you sure you want to continue where you left off?"
+    new "¿Seguro que quieres continuar desde donde lo dejaste?"
 
     # renpy/common/00preferences.rpy:440
     old "self voicing enable"
-    new "self voicing enable"
+    new "activar narración automática"
 
     # renpy/common/00preferences.rpy:442
     old "self voicing disable"
-    new "self voicing disable"
+    new "desactivar narración automática"
 
     # renpy/common/00preferences.rpy:457
     old "clipboard voicing enable"
-    new "clipboard voicing enable"
+    new "activar narración del portapapeles"
 
     # renpy/common/00preferences.rpy:459
     old "clipboard voicing disable"
-    new "clipboard voicing disable"
+    new "desactivar narración del portapapeles"
 
     # renpy/common/00preferences.rpy:466
     old "debug voicing enable"
-    new "debug voicing enable"
+    new "activar narración de depuración"
 
     # renpy/common/00preferences.rpy:468
     old "debug voicing disable"
-    new "debug voicing disable"
+    new "desactivar narración de depuración"
 
     # renpy/common/00preferences.rpy:588
     old "restore window position"
-    new "restore window position"
+    new "restaurar posición de la ventana"
 
     # renpy/common/00preferences.rpy:597
     old "reset"
-    new "reset"
+    new "restablecer"
 
     # renpy/common/00speechbubble.rpy:432
     old "(clear retained bubbles)"
-    new "(clear retained bubbles)"
+    new "(borrar globos guardados)"
 
     # renpy/common/00translation.rpy:63
     old "Translation identifier: [identifier]"
-    new "Translation identifier: [identifier]"
+    new "Identificador de traducción: [identifier]"
 
     # renpy/common/00translation.rpy:84
     old " translates [tl.filename]:[tl.linenumber]"
-    new " translates [tl.filename]:[tl.linenumber]"
+    new " traduce [tl.filename]:[tl.linenumber]"
 
     # renpy/common/00translation.rpy:101
     old "\n{color=#fff}Copied to clipboard.{/color}"
-    new "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}Copiado al portapapeles.{/color}"
 
     # renpy/common/00updater.rpy:505
     old "No update methods found."
-    new "No update methods found."
+    new "No se encontraron métodos de actualización."
 
     # renpy/common/00updater.rpy:552
     old "Could not download file list: "
-    new "Could not download file list: "
+    new "No se pudo descargar la lista de archivos: "
 
     # renpy/common/00updater.rpy:555
     old "File list digest does not match."
-    new "File list digest does not match."
+    new "El resumen de la lista de archivos no coincide."
 
     # renpy/common/00updater.rpy:2080
     old "Preparing to download the game data."
-    new "Preparing to download the game data."
+    new "Preparando la descarga de los datos del juego."
 
     # renpy/common/00updater.rpy:2082
     old "Downloading the game data."
-    new "Downloading the game data."
+    new "Descargando los datos del juego."
 
     # renpy/common/00updater.rpy:2084
     old "The game data has been downloaded."
-    new "The game data has been downloaded."
+    new "Los datos del juego se han descargado."
 
     # renpy/common/00updater.rpy:2086
     old "An error occured when trying to download game data:"
-    new "An error occured when trying to download game data:"
+    new "Ocurrió un error al intentar descargar los datos del juego:"
 
     # renpy/common/00updater.rpy:2091
     old "This game cannot be run until the game data has been downloaded."
-    new "This game cannot be run until the game data has been downloaded."
+    new "El juego no puede ejecutarse hasta que se descarguen los datos necesarios."
 
     # renpy/common/00updater.rpy:2098
     old "Retry"
-    new "Retry"
+    new "Reintentar"
 
+    # renpy/common/000statements.rpy:28
+    old "Click to play the video."
+    new "Haz clic para reproducir el video."
+
+    # renpy/common/00accessibility.rpy:180
+    old "Mono Audio"
+    new "Audio mono"
+
+    # renpy/common/00accessibility.rpy:246
+    old "Kerning"
+    new "Ajuste de espaciado"
+
+    # renpy/common/00accessibility.rpy:288
+    old "Self-Voicing and Audio"
+    new "Narración automática y audio"
+
+    # renpy/common/00accessibility.rpy:292
+    old "Text"
+    new "Texto"
+
+    # renpy/common/00preferences.rpy:602
+    old "mono audio"
+    new "audio mono"
+
+    # renpy/common/00preferences.rpy:611
+    old "font kerning"
+    new "espaciado de fuente"
+
+    # renpy/common/00updater.rpy:1935
+    old "An error has occurred:"
+    new "Ha ocurrido un error:"
+
+    # renpy/common/00updater.rpy:1992
+    old "An error occurred when trying to download game data:"
+    new "Ocurrió un error al intentar descargar los datos del juego:"
