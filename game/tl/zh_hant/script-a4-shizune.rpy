@@ -3102,13 +3102,13 @@ translate zh_hant a4_shizune_parfait_142d50b9:
 translate zh_hant a4_shizune_parfait_318a3fa9:
 
     # hi "You slept through all of it, but the fireworks were really nice way back, at the festival."
-    hi "當時你睡著了，可是那次學園祭的焰火，真的好漂亮。"
+    hi "當時你睡著了，可是那次學園祭的煙火，真的好漂亮。"
 
 # game/script-a4-shizune.rpy:2017
 translate zh_hant a4_shizune_parfait_c8d1bbfe:
 
     # hi "My first time seeing fireworks like that. And my first time really seeing the sky in a while. And, I'd never really looked at the stars before then, either."
-    hi "我第一次看到那樣的焰火。也是我很久以來第一次好好地仰望天空。還有，在那以前，我也沒有真正好好看過星星。"
+    hi "我第一次看到那樣的煙火。也是我很久以來第一次好好地仰望天空。還有，在那以前，我也沒有真正好好看過星星。"
 
 # game/script-a4-shizune.rpy:2019
 translate zh_hant a4_shizune_parfait_a8474f55:
@@ -7650,7 +7650,7 @@ translate zh_hant a4_shizune_present_tense_0462e7e0:
 translate zh_hant a4_shizune_present_tense_2bc2909e:
 
     # hi "But then the two of you basically want the same thing. All that stuff makes things exciting. I didn't really get it at first, but it's not some ego project. People like fireworks, and soba huts, candied apples, and dress-up days, or whatever."
-    hi "但你們兩位追求的都是同樣的事。這些活動都很讓人興奮。一開始我也不怎麼理解，但這也並非是為她自己。大家都很喜歡焰火，蕎麥麵小攤，蘋果糖，cosplay什麼的。"
+    hi "但你們兩位追求的都是同樣的事。這些活動都很讓人興奮。一開始我也不怎麼理解，但這也並非是為她自己。大家都很喜歡煙火，蕎麥麵小攤，蘋果糖，cosplay什麼的。"
 
 # game/script-a4-shizune.rpy:5025
 translate zh_hant a4_shizune_present_tense_bc3ffefe:

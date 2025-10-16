@@ -64,7 +64,7 @@ translate zh_hant a3_hanako_invitation_6d9602dd:
 translate zh_hant a3_hanako_invitation_632418ff:
 
     # "Chess seems to have become a popular pastime for the two of us; hiding away in the tea room, playing a game or two after classes."
-    "國際象棋成為了我們兩個喜愛的消遣，躲在茶室裡下課後下上一兩盤旗。"
+    "西洋棋成為了我們兩個喜愛的消遣，躲在茶室裡下課後下上一兩盤旗。"
 
 # game/script-a3-hanako.rpy:44
 translate zh_hant a3_hanako_invitation_f281bae4:
@@ -2710,7 +2710,7 @@ translate zh_hant a3_hanako_antiques_and_pie_64a984ff:
 translate zh_hant a3_hanako_antiques_and_pie_4aad474b:
 
     # sk "That's a really nice item. It's a chess set from overseas."
-    sk "這個很不錯，是來自海外的國際象棋棋具。"
+    sk "這個很不錯，是來自海外的西洋棋棋具。"
 
 # game/script-a3-hanako.rpy:1783
 translate zh_hant a3_hanako_antiques_and_pie_bdc4d44b:
@@ -6322,7 +6322,7 @@ translate zh_hant a3_hanako_one_more_year_deb18981:
 translate zh_hant a3_hanako_one_more_year_421fe8b8:
 
     # "I reach into my bag and remove the wrapped chess set."
-    "我從袋子裡拿出包裝好的國際象棋。"
+    "我從袋子裡拿出包裝好的西洋棋。"
 
 # game/script-a3-hanako.rpy:4110
 translate zh_hant a3_hanako_one_more_year_0a8172cc:
@@ -6340,7 +6340,7 @@ translate zh_hant a3_hanako_one_more_year_e0da6840:
 translate zh_hant a3_hanako_one_more_year_c6757e60:
 
     # "Before long, the checkered squares of the chessboard are visible, and Hanako gently runs her fingers across the carved surfaces."
-    "不久之後，國際象棋棋盤的黑白方塊顯現出來，華子用手指撫過表面的雕紋。"
+    "不久之後，西洋棋棋盤的黑白方塊顯現出來，華子用手指撫過表面的雕紋。"
 
 # game/script-a3-hanako.rpy:4122
 translate zh_hant a3_hanako_one_more_year_a67c923e:

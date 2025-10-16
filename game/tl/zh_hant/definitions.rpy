@@ -732,7 +732,7 @@ translate zh_hant strings:
 
     # game/definitions.rpy:228
     old "Chess and Slides"
-    new "國際象棋與幻燈片"
+    new "西洋棋與幻燈片"
 
     # game/definitions.rpy:228
     old "Hisao ditches the Student Council to read with Hanako."

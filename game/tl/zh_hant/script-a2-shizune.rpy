@@ -2976,7 +2976,7 @@ translate zh_hant a2_shizune_advanced_game_theory_e54d4f59:
 translate zh_hant a2_shizune_advanced_game_theory_9737896c:
 
     # "They pull a chessboard from behind them with a flourish like two junior magicians. Well, magic does require some deft sleight of hand, and they've got that in spades."
-    "她們從身後拿出來一張國際象棋棋盤，動作誇張得如同兩個見習魔術師一樣。好吧，魔術的確需要雙快手，而她倆的手速肯定算得上是專家級別了。"
+    "她們從身後拿出來一張西洋棋棋盤，動作誇張得如同兩個見習魔術師一樣。好吧，魔術的確需要雙快手，而她倆的手速肯定算得上是專家級別了。"
 
 # game/script-a2-shizune.rpy:1885
 translate zh_hant a2_shizune_advanced_game_theory_87044b7c:
@@ -3108,7 +3108,7 @@ translate zh_hant a2_shizune_advanced_game_theory_ef2b123c_9:
 translate zh_hant a2_shizune_advanced_game_theory_8bb7dcda:
 
     # mi "Do you like chess?"
-    mi "你喜歡下國際象棋嗎？"
+    mi "你喜歡下西洋棋嗎？"
 
 # game/script-a2-shizune.rpy:1988
 translate zh_hant a2_shizune_advanced_game_theory_fea36490:
@@ -3464,7 +3464,7 @@ translate zh_hant a2_shizune_advanced_game_theory_e7420011:
 translate zh_hant a2_shizune_advanced_game_theory_6bb2c755:
 
     # "It's the fastest game I've seen in my life."
-    "同時，這也是我人生中見過的下得最快的一局國際象棋。"
+    "同時，這也是我人生中見過的下得最快的一局西洋棋。"
 
 # game/script-a2-shizune.rpy:2228
 translate zh_hant a2_shizune_advanced_game_theory_89f57718:

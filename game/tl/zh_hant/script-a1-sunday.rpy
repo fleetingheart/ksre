@@ -3274,7 +3274,7 @@ translate zh_hant a1_sunday_clouds_in_my_head_705d4475:
 translate zh_hant a1_sunday_clouds_in_my_head_2d1de708:
 
     # "She gradually opens her eyes but keeps them half-closed, letting the light from the fireworks sneak just past her eyelashes so that her green irises mirror the bright flashes of the explosions, then looks up at me and frowns."
-    "她悠悠地睜開眼睛，但只睜了一半，任由焰火的光芒偷偷滲過睫毛，在綠色的瞳仁中反射出來。接著她抬起頭，對我皺了皺眉。"
+    "她悠悠地睜開眼睛，但只睜了一半，任由煙火的光芒偷偷滲過睫毛，在綠色的瞳仁中反射出來。接著她抬起頭，對我皺了皺眉。"
 
 # game/script-a1-sunday.rpy:1813
 translate zh_hant a1_sunday_clouds_in_my_head_a43d8986:
@@ -3394,7 +3394,7 @@ translate zh_hant a1_sunday_clouds_in_my_head_8ab47ccd:
 translate zh_hant a1_sunday_clouds_in_my_head_365f08d6:
 
     # "It's a lie, she weighs next to nothing, but I have to get a jab back at her, even if it's under the belt. My mock protest fails to draw any reaction as Rin's attention is drawn upwards, to the flashes of the fireworks."
-    "我沒說實話，其實她輕得幾乎感覺不到重量，但我還是得以牙還牙，雖然招數有些陰險。可惜我的嘲諷沒有激起琳的回應，她已經完全被天上的焰火吸引了。"
+    "我沒說實話，其實她輕得幾乎感覺不到重量，但我還是得以牙還牙，雖然招數有些陰險。可惜我的嘲諷沒有激起琳的回應，她已經完全被天上的煙火吸引了。"
 
 # game/script-a1-sunday.rpy:1878
 translate zh_hant a1_sunday_clouds_in_my_head_bc7373cd:
@@ -3412,7 +3412,7 @@ translate zh_hant a1_sunday_clouds_in_my_head_60f95b98:
 translate zh_hant a1_sunday_clouds_in_my_head_1b3509ae:
 
     # "More and more rockets rise up to the sky, the bright colors of their explosions reflecting from the clouds."
-    "越來越多的焰火飛上天空，爆炸產生的亮麗光芒映射在了雲間。"
+    "越來越多的煙火飛上天空，爆炸產生的亮麗光芒映射在了雲間。"
 
 # game/script-a1-sunday.rpy:1884
 translate zh_hant a1_sunday_clouds_in_my_head_4460ad2d:
@@ -8368,25 +8368,25 @@ translate zh_hant a1_sunday_throwing_balls_a60be1e5:
 translate zh_hant a1_sunday_throwing_balls_2a26c8b8:
 
     # "With faint pops, fireworks begin to go off in the sky, each one spreading a shower of bright colors that slowly fade into the dark."
-    "隨著微弱的爆破聲，焰火開始在空中爆炸，每一條焰火都綻放成五光十色的花雨，又緩緩消逝在夜幕當中。"
+    "隨著微弱的爆破聲，煙火開始在空中爆炸，每一條煙火都綻放成五光十色的花雨，又緩緩消逝在夜幕當中。"
 
 # game/script-a1-sunday.rpy:5074
 translate zh_hant a1_sunday_throwing_balls_55c9f88a:
 
     # "I can't even recall the last time I saw fireworks at all, much less a display this large. Not to mention it seems that they're being launched from the school; it's almost impossible to believe."
-    "我連上次看焰火是什麼時候都記不起來，也從未見過規模那麼大的。更別提這些焰火是在學校裡發射的了，實在讓人難以置信。"
+    "我連上次看煙火是什麼時候都記不起來，也從未見過規模那麼大的。更別提這些煙火是在學校裡發射的了，實在讓人難以置信。"
 
 # game/script-a1-sunday.rpy:5076
 translate zh_hant a1_sunday_throwing_balls_43b6acbf:
 
     # "The lights in the sky mingle with a second salvo from the town below, and they seem timed to complement each other like two parts of a duet."
-    "天空中的焰火和城鎮中齊射的焰火交織在一起，兩邊準確地相互配合，就像二重唱中的兩個聲部。"
+    "天空中的煙火和城鎮中齊射的煙火交織在一起，兩邊準確地相互配合，就像二重唱中的兩個聲部。"
 
 # game/script-a1-sunday.rpy:5078
 translate zh_hant a1_sunday_throwing_balls_03a09d1d:
 
     # "They continue for maybe fifteen more minutes, and then stop."
-    "焰火持續了大概十五分鐘。"
+    "煙火持續了大概十五分鐘。"
 
 # game/script-a1-sunday.rpy:5080
 translate zh_hant a1_sunday_throwing_balls_7473f790:
@@ -8680,7 +8680,7 @@ translate zh_hant a1_sunday_the_deep_end_1570b6d6:
 translate zh_hant a1_sunday_the_deep_end_d370124e:
 
     # "It turns out to be noodles."
-    "原來是賣拉麪的。"
+    "原來是賣拉麵的。"
 
 # game/script-a1-sunday.rpy:5237
 translate zh_hant a1_sunday_the_deep_end_cc6b87e1:
@@ -8698,7 +8698,7 @@ translate zh_hant a1_sunday_the_deep_end_4502552a:
 translate zh_hant a1_sunday_the_deep_end_36ba31f8:
 
     # "As I stir my disagreeable noodles, I idly wonder what the others are doing right now."
-    "我攪和著沒有味道的麪條，無聊地想著別人都在做些什麼。"
+    "我攪和著沒有味道的麵條，無聊地想著別人都在做些什麼。"
 
 # game/script-a1-sunday.rpy:5248
 translate zh_hant a1_sunday_the_deep_end_466855aa:

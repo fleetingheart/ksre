@@ -2308,7 +2308,7 @@ translate zh_hant a3_shizune_use_mention_distinction_7c3fd7b1:
 translate zh_hant a3_shizune_use_mention_distinction_a19be5f4:
 
     # hh "No, come on. It will be fun. We can play chess."
-    hh "不要這麼說。這會很有趣的。我們可以下國際象棋。"
+    hh "不要這麼說。這會很有趣的。我們可以下西洋棋。"
 
 # game/script-a3-shizune.rpy:1535
 translate zh_hant a3_shizune_use_mention_distinction_9c7479cc:
@@ -7510,13 +7510,13 @@ translate zh_hant a3_shizune_acute_triangle_6539c869:
 translate zh_hant a3_shizune_acute_triangle_2c621a27:
 
     # his "Not chess?"
-    his "不下國際象棋麼？"
+    his "不下西洋棋麼？"
 
 # game/script-a3-shizune.rpy:4856
 translate zh_hant a3_shizune_acute_triangle_4d7ef23e:
 
     # ssh "Chess has boring promotions, this is better."
-    ssh "國際象棋的升級規則太無聊了。這個更好玩。"
+    ssh "西洋棋的升級規則太無聊了。這個更好玩。"
 
 # game/script-a3-shizune.rpy:4858
 translate zh_hant a3_shizune_acute_triangle_09b39d05:

@@ -2664,7 +2664,7 @@ translate zh_hant a2_hanako_chess_and_slides_a1444200:
 translate zh_hant a2_hanako_chess_and_slides_a35342ac:
 
     # yu "Chess! She's looking for a chess book!"
-    yu "象棋！她在找國際象棋的書！"
+    yu "象棋！她在找西洋棋的書！"
 
 # game/script-a2-hanako.rpy:1832
 translate zh_hant a2_hanako_chess_and_slides_d080932a:
@@ -2718,7 +2718,7 @@ translate zh_hant a2_hanako_chess_and_slides_059633e4:
 translate zh_hant a2_hanako_chess_and_slides_562360bb:
 
     # "Towards the end of the aisle, between a book on card tricks and some book on kid's games, stands a single book bearing the title 'Chess Tactics for Champions'."
-    "在快到過道的盡頭的地方，在一本關於紙牌戲法的書和一些兒童遊戲的書之間，豎著一本“國際象棋冠軍戰術”。"
+    "在快到過道的盡頭的地方，在一本關於紙牌戲法的書和一些兒童遊戲的書之間，豎著一本“西洋棋冠軍戰術”。"
 
 # game/script-a2-hanako.rpy:1869
 translate zh_hant a2_hanako_chess_and_slides_30cddeef:
