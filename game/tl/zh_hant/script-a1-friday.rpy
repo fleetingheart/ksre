@@ -2410,7 +2410,7 @@ translate zh_hant a1_friday_mind_your_step_efb676c2:
 translate zh_hant a1_friday_mind_your_step_99685fd4:
 
     # "With a quick side trip to the bakery section, we make our way to the registers."
-    "在麪包區快速逛了一下之後，我們便去結賬。"
+    "在麵包區快速逛了一下之後，我們便去結賬。"
 
 # game/script-a1-friday.rpy:1560
 translate zh_hant a1_friday_mind_your_step_4f09c8bf:

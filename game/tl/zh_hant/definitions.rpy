@@ -1628,11 +1628,11 @@ translate zh_hant strings:
 
     # game/definitions.rpy:228
     old "Bread, Scissors, Paper"
-    new "麪包，剪刀，紙"
+    new "麵包，剪刀，紙"
 
     # game/definitions.rpy:228
     old "A lazy afternoon becomes dramatic as suddenly a piece of bread becomes an object of extreme interest."
-    new "一片面包成為極度感興趣的對象，使得懶散的午後突然變得戲劇性起來。"
+    new "一片麵包成為極度感興趣的對象，使得懶散的午後突然變得戲劇性起來。"
 
     # game/definitions.rpy:228
     old "Interface"

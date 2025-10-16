@@ -310,7 +310,7 @@ translate zh_hant a2_rin_a_wider_field_of_vision_0a2703ce:
 translate zh_hant a2_rin_a_wider_field_of_vision_dab306b1:
 
     # hi "OK, I'll go pick up some bread or something first."
-    hi "好吧，我先去拿點東西，麪包什麼的。"
+    hi "好吧，我先去拿點東西，麵包什麼的。"
 
 # game/script-a2-rin.rpy:187
 translate zh_hant a2_rin_a_wider_field_of_vision_044d4aeb:
@@ -322,7 +322,7 @@ translate zh_hant a2_rin_a_wider_field_of_vision_044d4aeb:
 translate zh_hant a2_rin_a_wider_field_of_vision_894d2ff6:
 
     # emi "No no, I'll go and deliver these super-quick, and then go buy lunch for us. And Rin, too, of course. What kind of bread do you like?"
-    emi "不用，不用，我馬上就把這些送過去，超級快的，然後就去買我們的午飯。當然，還有琳的。你想要哪種麪包？"
+    emi "不用，不用，我馬上就把這些送過去，超級快的，然後就去買我們的午飯。當然，還有琳的。你想要哪種麵包？"
 
 # game/script-a2-rin.rpy:194
 translate zh_hant a2_rin_a_wider_field_of_vision_3607cb27:
@@ -862,7 +862,7 @@ translate zh_hant a2_rin_a_wider_field_of_vision_deb3b0cd:
 translate zh_hant a2_rin_a_wider_field_of_vision_fa41b580:
 
     # "Emi's voice is scandalized, but she quickly takes a step backward, pressing her hands against the front of her skirt so abruptly that the parcels of bread she was carrying fall."
-    "笑美的聲音非常憤慨，她迅速地向後跳了一步，雙手捂住裙子的前部，整個動作非常突然，讓她手上的幾袋麪包掉了。"
+    "笑美的聲音非常憤慨，她迅速地向後跳了一步，雙手捂住裙子的前部，整個動作非常突然，讓她手上的幾袋麵包掉了。"
 
 # game/script-a2-rin.rpy:489
 translate zh_hant a2_rin_a_wider_field_of_vision_00210662:
@@ -898,7 +898,7 @@ translate zh_hant a2_rin_a_wider_field_of_vision_b4b26cfb:
 translate zh_hant a2_rin_a_wider_field_of_vision_3c198e5f:
 
     # emi "Anyway, here's your bread. Sorry it took a while."
-    emi "總之，這是你們的麪包。抱歉久等了。"
+    emi "總之，這是你們的麵包。抱歉久等了。"
 
 # game/script-a2-rin.rpy:526
 translate zh_hant a2_rin_a_wider_field_of_vision_2a5fb438:
@@ -910,19 +910,19 @@ translate zh_hant a2_rin_a_wider_field_of_vision_2a5fb438:
 translate zh_hant a2_rin_a_wider_field_of_vision_1e3bdb0b:
 
     # "I pull myself up into a sitting position and gratefully accept the bread Emi is offering."
-    "我把自己撐坐起來，感激地接過了笑美遞來的麪包。"
+    "我把自己撐坐起來，感激地接過了笑美遞來的麵包。"
 
 # game/script-a2-rin.rpy:530
 translate zh_hant a2_rin_a_wider_field_of_vision_08bde833:
 
     # "All three of us ravenously dig into the simple meal. The bread is surprisingly decent and readily fills my stomach."
-    "我們三人都狼吞虎嚥地吃著自己的簡餐。讓人吃驚，這些麪包的品質非常好，輕易就填飽了我的肚子。"
+    "我們三人都狼吞虎嚥地吃著自己的簡餐。讓人吃驚，這些麵包的品質非常好，輕易就填飽了我的肚子。"
 
 # game/script-a2-rin.rpy:548
 translate zh_hant a2_rin_a_wider_field_of_vision_fc36005f:
 
     # "I follow from the corner of my eye the skill with which Rin handles her bread between her feet."
-    "我用餘光向一旁瞟去，看琳是怎麼用腳去抓取麪包的。"
+    "我用餘光向一旁瞟去，看琳是怎麼用腳去抓取麵包的。"
 
 # game/script-a2-rin.rpy:553
 translate zh_hant a2_rin_a_wider_field_of_vision_ad26ca92:

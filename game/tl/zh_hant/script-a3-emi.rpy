@@ -976,7 +976,7 @@ translate zh_hant a3_emi_definitions_2975f30b:
 translate zh_hant a3_emi_definitions_931be06b:
 
     # "We wind up buying some bread and instant noodles, realizing too late that we cannot actually cook the latter in the park."
-    "最後，我們買了一些麪包和方便麪，但當我們反應過來後者沒辦法在公園食用時已經太晚了。"
+    "最後，我們買了一些麵包和方便麵，但當我們反應過來後者沒辦法在公園食用時已經太晚了。"
 
 # game/script-a3-emi.rpy:507
 translate zh_hant a3_emi_definitions_c0b1087b:
@@ -1036,13 +1036,13 @@ translate zh_hant a3_emi_definitions_6e7ddf6e:
 translate zh_hant a3_emi_definitions_d856fafa:
 
     # "Emi tosses me a package of bread and we dig in."
-    "笑美將一小袋麪包扔給我，我們於是開動了。"
+    "笑美將一小袋麵包扔給我，我們於是開動了。"
 
 # game/script-a3-emi.rpy:555
 translate zh_hant a3_emi_definitions_9c52b46c:
 
     # "Curry bread. Interesting."
-    "咖喱麪包……這真有意思。"
+    "咖喱麵包……這真有意思。"
 
 # game/script-a3-emi.rpy:557
 translate zh_hant a3_emi_definitions_e0d3cfe1:
@@ -1090,7 +1090,7 @@ translate zh_hant a3_emi_definitions_340c3bb1:
 translate zh_hant a3_emi_definitions_6440aad7:
 
     # "Emi laughs and swallows the last of her bread."
-    "笑美笑著嚥下了她的最後一點麪包。"
+    "笑美笑著嚥下了她的最後一點麵包。"
 
 # game/script-a3-emi.rpy:585
 translate zh_hant a3_emi_definitions_70f1afd2:
@@ -1108,7 +1108,7 @@ translate zh_hant a3_emi_definitions_e4fd05f9:
 translate zh_hant a3_emi_definitions_283f3afa:
 
     # "Emi mock-pouts, causing me to nearly choke on my bread with laughter."
-    "笑美做了個鬼臉，害得我差點被自己的麪包嗆住。"
+    "笑美做了個鬼臉，害得我差點被自己的麵包嗆住。"
 
 # game/script-a3-emi.rpy:594
 translate zh_hant a3_emi_definitions_674ffc1d:
@@ -1468,7 +1468,7 @@ translate zh_hant a3_emi_definitions_b1c20091:
 translate zh_hant a3_emi_definitions_6f8f5ce2:
 
     # "It is at this point I notice that Emi has stolen the remainder of my curry bread while I was otherwise occupied with images of teachers wielding clipboards."
-    "這時我才發現，笑美已經趁我在構思拿著清單的武藤老師時將我剩下的咖喱麪包偷走了。"
+    "這時我才發現，笑美已經趁我在構思拿著清單的武藤老師時將我剩下的咖喱麵包偷走了。"
 
 # game/script-a3-emi.rpy:786
 translate zh_hant a3_emi_definitions_d5322af5:
@@ -1480,7 +1480,7 @@ translate zh_hant a3_emi_definitions_d5322af5:
 translate zh_hant a3_emi_definitions_16bdb200:
 
     # "Emi tries to look innocent, but considering she's just crammed the last bits of my bread into her mouth it does not appear to be working."
-    "笑美試圖裝無辜，但嘴角的那點麪包渣讓她沒能成功。"
+    "笑美試圖裝無辜，但嘴角的那點麵包渣讓她沒能成功。"
 
 # game/script-a3-emi.rpy:793
 translate zh_hant a3_emi_definitions_5124487e:
@@ -1540,7 +1540,7 @@ translate zh_hant a3_emi_definitions_469cb850:
 translate zh_hant a3_emi_definitions_2838d1b0:
 
     # hi "That doesn't change your thievery."
-    hi "但你偷了我麪包的事實還是不會變哦。"
+    hi "但你偷了我麵包的事實還是不會變哦。"
 
 # game/script-a3-emi.rpy:828
 translate zh_hant a3_emi_definitions_830b4959:
@@ -1552,7 +1552,7 @@ translate zh_hant a3_emi_definitions_830b4959:
 translate zh_hant a3_emi_definitions_5006dc3c:
 
     # emi "Fine, you can have the instant noodles."
-    emi "好啦，方便麪給你就是了。"
+    emi "好啦，方便麵給你就是了。"
 
 # game/script-a3-emi.rpy:835
 translate zh_hant a3_emi_definitions_2cf5043f:
@@ -1852,7 +1852,7 @@ translate zh_hant a3_emi_definitions_0ec3426f:
 translate zh_hant a3_emi_definitions_793f8f55:
 
     # emi "You've gotta run off that bread, after all."
-    emi "吃下去的那點麪包要給我跑出來哦。"
+    emi "吃下去的那點麵包要給我跑出來哦。"
 
 # game/script-a3-emi.rpy:1013
 translate zh_hant a3_emi_definitions_ffe65bfb:

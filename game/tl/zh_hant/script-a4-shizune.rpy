@@ -7650,7 +7650,7 @@ translate zh_hant a4_shizune_present_tense_0462e7e0:
 translate zh_hant a4_shizune_present_tense_2bc2909e:
 
     # hi "But then the two of you basically want the same thing. All that stuff makes things exciting. I didn't really get it at first, but it's not some ego project. People like fireworks, and soba huts, candied apples, and dress-up days, or whatever."
-    hi "但你們兩位追求的都是同樣的事。這些活動都很讓人興奮。一開始我也不怎麼理解，但這也並非是為她自己。大家都很喜歡焰火，蕎麥麪小攤，蘋果糖，cosplay什麼的。"
+    hi "但你們兩位追求的都是同樣的事。這些活動都很讓人興奮。一開始我也不怎麼理解，但這也並非是為她自己。大家都很喜歡焰火，蕎麥麵小攤，蘋果糖，cosplay什麼的。"
 
 # game/script-a4-shizune.rpy:5025
 translate zh_hant a4_shizune_present_tense_bc3ffefe:

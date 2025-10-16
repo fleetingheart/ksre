@@ -6052,7 +6052,7 @@ translate zh_hant a3_shizune_roadmap_34fd288d:
 translate zh_hant a3_shizune_roadmap_f34112b1:
 
     # ssh "With the money left over, we can get a pizza, or maybe Chinese, or a cake, or three bowls of the new ramen bowl I want to try."
-    ssh "省下來的經費我們可以拿來買比薩餅，或者中式料理，或者蛋糕，或者三碗我一直想要試的那個新拉麪。"
+    ssh "省下來的經費我們可以拿來買比薩餅，或者中式料理，或者蛋糕，或者三碗我一直想要試的那個新拉麵。"
 
 # game/script-a3-shizune.rpy:3964
 translate zh_hant a3_shizune_roadmap_19b9cd7f:
@@ -7468,7 +7468,7 @@ translate zh_hant a3_shizune_acute_triangle_fb8392f8:
 translate zh_hant a3_shizune_acute_triangle_21095b57:
 
     # "She produces a cinnamon bun from under her desk, raising it to head level slowly, like a magician levitating a rock."
-    "她從桌子底下掏出了一個肉桂麪包卷，然後慢慢地舉過頭頂，像是魔術師在表演懸浮石頭那樣。"
+    "她從桌子底下掏出了一個肉桂麵包卷，然後慢慢地舉過頭頂，像是魔術師在表演懸浮石頭那樣。"
 
 # game/script-a3-shizune.rpy:4833
 translate zh_hant a3_shizune_acute_triangle_e8d2124e:
@@ -7726,7 +7726,7 @@ translate zh_hant a3_shizune_acute_triangle_148514c7:
 translate zh_hant a3_shizune_acute_triangle_2dad8f60:
 
     # "I return to working, kind of wanting to eat that cinnamon bun more as time drags on, but when I count the shogi pieces still left out on Shizune's table, I can tell at a glance she would win."
-    "我繼續回去工作，然而隨著時間的流逝愈發地想吃那塊麪包。然而稍微數了下靜音那邊的棋子就應該明白，很明顯，贏的是她。"
+    "我繼續回去工作，然而隨著時間的流逝愈發地想吃那塊麵包。然而稍微數了下靜音那邊的棋子就應該明白，很明顯，贏的是她。"
 
 # game/script-a3-shizune.rpy:4974
 translate zh_hant a3_shizune_acute_triangle_5962ac2c:

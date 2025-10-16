@@ -5614,7 +5614,7 @@ translate zh_hant a2_lilly_a_brief_history_of_thyme_b953049b:
 translate zh_hant a2_lilly_a_brief_history_of_thyme_d1f78157:
 
     # hi "Let's see here… eggs, bread, cereal, thyme, lettuce, shaved ham…"
-    hi "讓我看看……雞蛋、麪包、麥片、百里香、生菜、火腿……"
+    hi "讓我看看……雞蛋、麵包、麥片、百里香、生菜、火腿……"
 
 # game/script-a2-lilly.rpy:3879
 translate zh_hant a2_lilly_a_brief_history_of_thyme_7d23dc59:
@@ -7224,7 +7224,7 @@ translate zh_hant a2_lilly_little_wing_080fb3ab:
 translate zh_hant a2_lilly_little_wing_7bfcf171:
 
     # "I can't help raising an eyebrow as she walks over to us and sits next to me, doing her utmost to avoid looking up even as she brings her cafeteria bread to her mouth."
-    "她在我身邊坐下，就連把她從餐廳買來的麪包送進嘴裡的時候都在盡力不抬頭看。看到這一幕，我不禁抬起一條眉毛。"
+    "她在我身邊坐下，就連把她從餐廳買來的麵包送進嘴裡的時候都在盡力不抬頭看。看到這一幕，我不禁抬起一條眉毛。"
 
 # game/script-a2-lilly.rpy:4938
 translate zh_hant a2_lilly_little_wing_de5cae52:
@@ -8668,7 +8668,7 @@ translate zh_hant strings:
 
     # game/script-a2-lilly.rpy:3693
     old "{vspace=30}Eggs x2\nBread loaf x1\nWhole-grain cereal x1\nThyme x1\n"
-    new "{vspace=30}雞蛋 x2\n條狀麪包 x1\n全谷麥片 x1\n百里香 x1\n"
+    new "{vspace=30}雞蛋 x2\n條狀麵包 x1\n全谷麥片 x1\n百里香 x1\n"
 
     # game/script-a2-lilly.rpy:4219
     old "Ah, now I've piqued her curiosity. It feels kind of overly personal to talk about though…"

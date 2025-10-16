@@ -2365,7 +2365,7 @@ translate zh_hant a4_lilly_correct_procedure_76727672:
 translate zh_hant a4_lilly_correct_procedure_12cc3121:
 
     # "An old photo of… what looks to be a younger Lilly and Shizune operating a noodle stall, with some other girl in the background. She looks vaguely familiar, but I can't quite pinpoint why."
-    "一張舊照片，好像是更年輕的莉莉和靜音在麪攤裡工作，還有一個女孩在後面。不知道為什麼，她好像很面熟，但不知道是誰。"
+    "一張舊照片，好像是更年輕的莉莉和靜音在麵攤裡工作，還有一個女孩在後面。不知道為什麼，她好像很面熟，但不知道是誰。"
 
 # game/script-a4-lilly.rpy:1563
 translate zh_hant a4_lilly_correct_procedure_f06c36af:

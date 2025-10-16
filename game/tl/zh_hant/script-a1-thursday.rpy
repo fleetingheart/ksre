@@ -4870,13 +4870,13 @@ translate zh_hant a1_thursday_paint_by_numbers_aee3306b:
 translate zh_hant a1_thursday_paint_by_numbers_d5ff6ce1:
 
     # "Class 3-2… noodle stall?"
-    "3-2班……麪攤？"
+    "3-2班……麵攤？"
 
 # game/script-a1-thursday.rpy:3069
 translate zh_hant a1_thursday_paint_by_numbers_e81a5add:
 
     # hi "You guys selling noodles at the festival on Sunday?"
-    hi "你們在星期天園遊會裡面賣麪條？"
+    hi "你們在星期天園遊會裡面賣麵條？"
 
 # game/script-a1-thursday.rpy:3074
 translate zh_hant a1_thursday_paint_by_numbers_5a0d1a3f:

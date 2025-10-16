@@ -142,7 +142,7 @@ translate zh_hant a4_hanako_truancy_d4d4da08:
 translate zh_hant a4_hanako_truancy_ae6b7db7:
 
     # "Sweet bread and strawberry milk for Misha, a bowl of ramen and juice for Shizune. I heave a sigh of relief as I put it all down, after the significant difficulty I had carrying it all in addition to my own lunch."
-    "米莎點了甜麪包和草莓牛奶，靜音要了一碗拉麪和果汁。我把這些餐點都放到桌子上，如釋重負地吐了口氣，一個人要拿她們兩個點的飯，還要端自己的午餐，實在是太高難度了。"
+    "米莎點了甜麵包和草莓牛奶，靜音要了一碗拉麵和果汁。我把這些餐點都放到桌子上，如釋重負地吐了口氣，一個人要拿她們兩個點的飯，還要端自己的午餐，實在是太高難度了。"
 
 # game/script-a4-hanako.rpy:121
 translate zh_hant a4_hanako_truancy_6995e597:
@@ -154,13 +154,13 @@ translate zh_hant a4_hanako_truancy_6995e597:
 translate zh_hant a4_hanako_truancy_926f33bc:
 
     # "Misha claps her hands together before popping open the wrapper and digging into her bread ravenously. Shizune simply gives an appreciative nod before giving her steaming ramen a stir and blowing on it a little to cool it down."
-    "米莎擊掌合十，接著，馬上打開外包裝，如狼似虎地吃起她的麪包來。靜音則僅僅是感激地點了下頭，攪拌了下熱氣騰騰的拉麪，吹了幾口氣來使它冷下來。"
+    "米莎擊掌合十，接著，馬上打開外包裝，如狼似虎地吃起她的麵包來。靜音則僅僅是感激地點了下頭，攪拌了下熱氣騰騰的拉麵，吹了幾口氣來使它冷下來。"
 
 # game/script-a4-hanako.rpy:128
 translate zh_hant a4_hanako_truancy_b0f7def6:
 
     # "I open my own lunch, another packet of sweet bread, and take a bite before washing it down with some juice. The bread is very sweet, so much so that I end up forcing myself to stomach it just to get the experience over with."
-    "我打開自己的午餐，也是一個甜麪包，咬了口後蘸著果汁吃下去。麪包太甜了，我得強迫自己繼續吃下去，熬過這次微妙的體驗。"
+    "我打開自己的午餐，也是一個甜麵包，咬了口後蘸著果汁吃下去。麵包太甜了，我得強迫自己繼續吃下去，熬過這次微妙的體驗。"
 
 # game/script-a4-hanako.rpy:130
 translate zh_hant a4_hanako_truancy_7bff6a0f:
@@ -184,13 +184,13 @@ translate zh_hant a4_hanako_truancy_94e00372:
 translate zh_hant a4_hanako_truancy_78fe05e4:
 
     # "Her mouth is full of sweet bread as she speaks. It's a pretty unpleasant sight. Shizune looks a little grossed out, before going back to eating her ramen."
-    "她說話時滿嘴的甜麪包，看起來實在是不雅。靜音好像有點不滿，停了會兒後，又接著吃她的拉麪了。"
+    "她說話時滿嘴的甜麵包，看起來實在是不雅。靜音好像有點不滿，停了會兒後，又接著吃她的拉麵了。"
 
 # game/script-a4-hanako.rpy:148
 translate zh_hant a4_hanako_truancy_43974f9e:
 
     # "I wait until Misha swallows what she has in her mouth before speaking again."
-    "我等米莎吞下她嘴裡的麪包，繼續說了下去。"
+    "我等米莎吞下她嘴裡的麵包，繼續說了下去。"
 
 # game/script-a4-hanako.rpy:150
 translate zh_hant a4_hanako_truancy_2464e669:
@@ -232,7 +232,7 @@ translate zh_hant a4_hanako_truancy_4af75150:
 translate zh_hant a4_hanako_truancy_fead0a76:
 
     # "Shizune looks unimpressed as Misha finishes signing our conversation, and sucks in the last of a long noodle as she signs her own thoughts."
-    "靜音在米莎示意我們的談話結束後不為所動，吸入了最後一根麪條，然後打了個手勢來傳遞她的想法。"
+    "靜音在米莎示意我們的談話結束後不為所動，吸入了最後一根麵條，然後打了個手勢來傳遞她的想法。"
 
 # game/script-a4-hanako.rpy:176
 translate zh_hant a4_hanako_truancy_ef2b123c_2:
@@ -364,7 +364,7 @@ translate zh_hant a4_hanako_truancy_5f5daf43:
 translate zh_hant a4_hanako_truancy_31818ba9:
 
     # "It isn't long before I finish the last of my bread and start on the last of my juice, and as I do so, I find my mind wandering back to what I'd been thinking about before the two interrupted my train of thought."
-    "沒用多久，我就把自己的麪包吃完了，開始解決最後一點果汁。正當我這麼做時，突然想起她們倆在打斷我思路之前，我在考慮的事。"
+    "沒用多久，我就把自己的麵包吃完了，開始解決最後一點果汁。正當我這麼做時，突然想起她們倆在打斷我思路之前，我在考慮的事。"
 
 # game/script-a4-hanako.rpy:258
 translate zh_hant a4_hanako_truancy_68f90db8:

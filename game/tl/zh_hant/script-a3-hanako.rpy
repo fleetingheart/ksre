@@ -838,7 +838,7 @@ translate zh_hant a3_hanako_invitation_09d2bd6c:
 translate zh_hant a3_hanako_invitation_510130a5:
 
     # "With a nod and a bow, Yuuko turns on the ball of her foot and returns behind the counter, where she busies herself fishing out bread and condiments and working the machine to make our drinks."
-    "點頭鞠躬後優子扭轉腳跟回到櫃檯尋找麪包和配料並操作飲料機器。"
+    "點頭鞠躬後優子扭轉腳跟回到櫃檯尋找麵包和配料並操作飲料機器。"
 
 # game/script-a3-hanako.rpy:627
 translate zh_hant a3_hanako_invitation_d5eafa95:

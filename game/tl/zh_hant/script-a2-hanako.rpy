@@ -562,7 +562,7 @@ translate zh_hant a2_hanako_to_town_to_town_61eb7fc0:
 translate zh_hant a2_hanako_to_town_to_town_d0ae944a:
 
     # "Bread, milk, tea… thyme?"
-    "麪包，牛奶，茶葉……百里香？"
+    "麵包，牛奶，茶葉……百里香？"
 
 # game/script-a2-hanako.rpy:389
 translate zh_hant a2_hanako_to_town_to_town_b57613d1:
@@ -1182,7 +1182,7 @@ translate zh_hant a2_hanako_tea_leaves_262dc552:
 translate zh_hant a2_hanako_tea_leaves_fdcddff6:
 
     # "At the door, Lilly smiles while holding up a bag stocked with various buns and bread rolls. I can't help but do the same."
-    "在們那邊，莉莉微笑著舉起了一帶裝著各種小圓麪包和麪包卷的袋子。見此我也忍不住露出了笑容。"
+    "在們那邊，莉莉微笑著舉起了一帶裝著各種小圓麵包和麵包卷的袋子。見此我也忍不住露出了笑容。"
 
 # game/script-a2-hanako.rpy:731
 translate zh_hant a2_hanako_tea_leaves_404768e6:
@@ -1200,7 +1200,7 @@ translate zh_hant a2_hanako_tea_leaves_c7d1e465:
 translate zh_hant a2_hanako_tea_leaves_e986c8d0:
 
     # "With a little guidance, Lilly's bread assortment joins Hanako's rice-less platter. I hastily make some tea to complete the picture."
-    "在我的一點引導下，莉莉帶著各種各樣的麪包加入了華子的這場沒有米飯的午餐。我匆忙倒了些茶，讓場面變得更加完美。"
+    "在我的一點引導下，莉莉帶著各種各樣的麵包加入了華子的這場沒有米飯的午餐。我匆忙倒了些茶，讓場面變得更加完美。"
 
 # game/script-a2-hanako.rpy:741
 translate zh_hant a2_hanako_tea_leaves_a6d37fd9:
@@ -1344,7 +1344,7 @@ translate zh_hant a2_hanako_tea_leaves_59b45e71:
 translate zh_hant a2_hanako_tea_leaves_6dde9eb9:
 
     # ha "N-no… thank you for the bread…"
-    ha "不……謝謝你的麪包。"
+    ha "不……謝謝你的麵包。"
 
 # game/script-a2-hanako.rpy:823
 translate zh_hant a2_hanako_tea_leaves_b68f1c55:
