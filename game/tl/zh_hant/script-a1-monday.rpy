@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-04-23 17:26
+# TODO: Translation updated at 2024-04-23 17:26
 
 # game/script-a1-monday.rpy:13
 translate zh_hant a1_monday_out_cold_99711a67:
@@ -10,7 +10,7 @@ translate zh_hant a1_monday_out_cold_99711a67:
 translate zh_hant a1_monday_out_cold_0ca9b69a:
 
     # "This is a popular retreat for couples in the summer. The deciduous trees provide a beautiful green canopy, far out of sight of teachers and fellow students."
-    "這裡是夏天情侶們的約會勝地。茂盛的落葉林為情侶們準備了華美的綠簾，使雙雙對對的人們遠離老師和同學們的視線。"
+    "夏天時，這裡是情侶們的約會聖地。落葉樹形成了一道美麗的綠色屏障，完全隔絕了老師和同學們的視線。"
 
 # game/script-a1-monday.rpy:17
 translate zh_hant a1_monday_out_cold_808f86a6:
@@ -22,97 +22,97 @@ translate zh_hant a1_monday_out_cold_808f86a6:
 translate zh_hant a1_monday_out_cold_dff2025d:
 
     # "I breathe into my cupped hands and rub them together furiously to prevent them from numbing in this cold."
-    "我攥起手不斷地哈氣，手掌同時使勁搓著以防被凍僵。"
+    "我舉起手不斷地哈氣，手掌同時使勁搓著以防被凍僵。"
 
 # game/script-a1-monday.rpy:21
 translate zh_hant a1_monday_out_cold_48c2e508:
 
     # hi "Just how long am I expected to wait out here, anyway? I'm sure the note said 4:00 PM."
-    "我到底還要在這裡等多久啊？紙條上明明寫的是下午4點。"
+    "我到底還要在這裡等多久啊？紙條上明明寫著下午四點。"
 
 # game/script-a1-monday.rpy:23
 translate zh_hant a1_monday_out_cold_d39923ee:
 
     # "Ah yes… the note… slipped between the pages of my math book while I wasn't looking."
-    "想起來……那張紙條……是有人趁我不注意的時候夾在了我的數學課本里。"
+    "想起來……那張紙條……是有人趁我不注意的時候夾在了我的數學課本裡。"
 
 # game/script-a1-monday.rpy:25
 translate zh_hant a1_monday_out_cold_63f623d0:
 
     # "As far as clichés go, I'm more a fan of the letter-in-the-locker, but at least this way shows a bit of initiative."
-    "說起這類老套的做法，其實我更喜歡在置物櫃裡找到情書的感覺，不過這樣做起碼也稍微顯示出了對方的主動性。"
+    "相較這類老套的做法，其實我更喜歡在置物櫃裡找到情書的感覺。不過這樣做至少顯示出一些主動。"
 
 # game/script-a1-monday.rpy:27
 translate zh_hant a1_monday_out_cold_e1a8950a:
 
     # "As I ponder the meaning of the note, the snowfall gradually thickens."
-    "就在我腦補這張紙條的意義時，雪慢慢大了起來。"
+    "就在我思索紙條的意義時，雪勢逐漸增強。"
 
 # game/script-a1-monday.rpy:29
 translate zh_hant a1_monday_out_cold_7413796f:
 
     # "The snowflakes silently falling from the white-painted sky are the only sign of time passing in this stagnant world."
-    "雪花從白色的天穹上無聲飄落，在這個靜止的世界中標識著時間流逝。"
+    "雪花從乳白色的天空中靜靜飄落，是這靜止的世界中時間流逝的跡象。"
 
 # game/script-a1-monday.rpy:31
 translate zh_hant a1_monday_out_cold_950e1e4b:
 
     # "Their slow descent upon the frozen forest makes it seem like time has slowed to a crawl."
-    "片片雪花緩緩地落在冰封的樹林中，似乎使時間的腳步變得躊躇起來。"
+    "它們緩緩地降落在結凍的樹林上，讓世界彷彿也慢了下來。"
 
 # game/script-a1-monday.rpy:35
 translate zh_hant a1_monday_out_cold_2eef6555:
 
     # "The rustling of dry snow underfoot startles me, interrupting the quiet mood. Someone is approaching me from behind."
-    "幹雪上瑟瑟的腳步聲打破了靜謐，我不禁吃了一驚。一個人影從身後向我走來。"
+    "乾雪上瑟瑟的腳步聲嚇了我一跳，也打破了這一片寧靜。有個人從身後向我走來。"
 
 # game/script-a1-monday.rpy:37
 translate zh_hant a1_monday_out_cold_520d792a:
 
     # mystery "Hi… Hisao? You came?"
-    mystery "啊……久夫？你來了？"
+    mystery "嗨……久夫？你來了？"
 
 # game/script-a1-monday.rpy:39
 translate zh_hant a1_monday_out_cold_d8f7b97d:
 
     # "A hesitating, barely audible question."
-    "她語氣略帶猶豫，我幾乎聽不清她的話。"
+    "一個猶豫、幾乎聽不見的問句。"
 
 # game/script-a1-monday.rpy:41
 translate zh_hant a1_monday_out_cold_e9d15ede:
 
     # "However, I recognize the owner of that dainty voice instantly."
-    "但是，我馬上認出了這動聽聲音的主人。"
+    "但我立刻就認出了那個悅耳聲音的主人。"
 
 # game/script-a1-monday.rpy:43
 translate zh_hant a1_monday_out_cold_ee887742:
 
     # "I feel my heart skip a beat."
-    "我感到自己的心跳停頓了一下。"
+    "我感覺自己的心漏跳了一拍。"
 
 # game/script-a1-monday.rpy:45
 translate zh_hant a1_monday_out_cold_58c40c96:
 
     # "It's a voice I've listened to hundreds of times, but never as more than an eavesdropper to a conversation."
-    "這個聲音我聽過何止千百次，但從來只是在她交談時不自覺地偷聽了一下而已。"
+    "這個聲音我聽過數百次，但都只是在偷聽別人對話時聽到的。"
 
 # game/script-a1-monday.rpy:47
 translate zh_hant a1_monday_out_cold_7b25dee1:
 
     # "I turn to face this voice, the voice of my dreams, and my heart begins to race…"
-    "我轉過身來，面對這個不知曾多少次縈繞在我夢中的聲音，心跳開始加速……"
+    "我轉過身，面對這個我夢寐以求的聲音，心跳開始加速……"
 
 # game/script-a1-monday.rpy:53
 translate zh_hant a1_monday_out_cold_4a5ac0e4:
 
     # hi "Iwanako? I got a note telling me to wait here… it was yours?"
-    hi "巖魚子？有人放了張紙條要我在這裡見面……是你？"
+    hi "巖魚子？有張紙條要我在這裡等……是妳的嗎？"
 
 # game/script-a1-monday.rpy:55
 translate zh_hant a1_monday_out_cold_10578e26:
 
     # "Dammit. I spent all afternoon trying to come up with a good line and that was the result."
-    "糟糕。整個下午絞盡腦汁想找出一句好的開場白，結果口中卻蹦出這句話。"
+    "可惡。我花了一整個下午，試著想一句好的開場白，結果就只是這樣。"
 
 # game/script-a1-monday.rpy:57
 translate zh_hant a1_monday_out_cold_04cf4a2b:
@@ -124,37 +124,37 @@ translate zh_hant a1_monday_out_cold_04cf4a2b:
 translate zh_hant a1_monday_out_cold_dc34d5c5:
 
     # "Iwanako" "Ahmm… yes. I asked a friend to give you that note… I'm so glad you got it."
-    "巖魚子" "啊……是啊。我拜託別人捎那張紙給你的……你拿到就太好了。"
+    "巖魚子" "啊……嗯。我請一個朋友把紙條拿給你的……還好你收到了。"
 
 # game/script-a1-monday.rpy:61
 translate zh_hant a1_monday_out_cold_9865b953:
 
     # "A shy, joyous smile that makes me so tense I couldn't move a single muscle even if I tried."
-    "眼前那張羞澀卻洋溢著幸福的笑臉使我緊張得全身緊繃。"
+    "一個害羞又開心的微笑，讓我緊張得動彈不得。"
 
 # game/script-a1-monday.rpy:85
 translate zh_hant a1_monday_out_cold_16882f25:
 
     # "My heart is pounding now, as if it were trying to burst out from my chest and claim this girl for itself."
-    "我的心臟熱烈地鼓動著，似乎想自己跳出來擁抱眼前的這個女孩。"
+    "我的心臟正劇烈地跳動著，彷彿想從我胸口掙脫，自己去擁抱這個女孩。"
 
 # game/script-a1-monday.rpy:91
 translate zh_hant a1_monday_out_cold_b27fb624:
 
     # hi "So… ah… here we are. Out in the cold…"
-    hi "那麼……嗯……既然你已經來了……"
+    hi "所以……啊……我們在這裡。在這寒風中……"
 
 # game/script-a1-monday.rpy:93
 translate zh_hant a1_monday_out_cold_2aedc789:
 
     # "Once again, the wind stirs up the branches. The cacophonous noise is music to my ears."
-    "凜冽的寒風再次搖曳著樹枝。粗糙的摩擦聲此刻在我耳中也化作了美妙的音樂。"
+    "風再次吹動樹枝。粗糙的摩擦聲在我耳裡卻像美妙的音樂。"
 
 # game/script-a1-monday.rpy:95
 translate zh_hant a1_monday_out_cold_33f42f60:
 
     # "Iwanako flinches ever so softly against the gust of wind."
-    "巖魚子在凜冽的寒風中柔弱地哆嗦起來。"
+    "巖魚子在一陣凜冽的寒風中輕輕地顫抖。"
 
 # game/script-a1-monday.rpy:97
 translate zh_hant a1_monday_out_cold_b991226f:
@@ -220,7 +220,7 @@ translate zh_hant a1_monday_out_cold_8c200948:
 translate zh_hant a1_monday_out_cold_2c1773f6:
 
     # "I reach up to try to massage my throat, but this only sends spikes of blinding pain along my arms."
-    "我伸手想按摩下喉嚨，整個手臂卻發出針蜇般的痛感。"
+    "我伸手想按摩下喉嚨，整個手臂卻發出針蟄般的刺痛。"
 
 # game/script-a1-monday.rpy:150
 translate zh_hant a1_monday_out_cold_5de9e5a4:
@@ -232,7 +232,7 @@ translate zh_hant a1_monday_out_cold_5de9e5a4:
 translate zh_hant a1_monday_out_cold_b126c492:
 
     # "My whole body freezes, save for my eyes, which shoot open in terror."
-    "我全身僵硬，兩眼在恐懼中張大。"
+    "我全身都僵住了，除了因恐懼而睜大的雙眼。"
 
 # game/script-a1-monday.rpy:195
 translate zh_hant a1_monday_out_cold_c2d52363:
@@ -256,7 +256,7 @@ translate zh_hant a1_monday_out_cold_e91b5073:
 translate zh_hant a1_monday_out_cold_3fd9ad67:
 
     # n "{vspace=30}The last things I remember before slipping away are the sounds of Iwanako screaming for help and the incessant clatter of the branches above…"
-    n "{vspace=30}在失去意識前，我記住的最後一件事就是巖魚子的驚叫和頭頂樹枝的嘩嘩聲……"
+    n "{vspace=30}在失去意識前，我記得的最後一件事就是巖魚子的驚叫和頭頂樹枝的嘩嘩聲……"
 
 # game/script-a1-monday.rpy:209
 translate zh_hant a1_monday_out_cold_76b2fe88:
@@ -292,7 +292,7 @@ translate zh_hant a1_monday_bundle_of_hisao_0b1ec2a4:
 translate zh_hant a1_monday_bundle_of_hisao_0e96e733:
 
     # n "A strange word. A foreign, alien one. One that you don't want to be in the same room with."
-    n "一個奇怪的詞。一個外來的陌生詞彙。你會感到不想和這個詞扯上關係。"
+    n "一個奇怪的詞。一個外來的陌生詞彙。你不會想和這個詞扯上任何關係。"
 
 # game/script-a1-monday.rpy:243
 translate zh_hant a1_monday_bundle_of_hisao_96ac1846:
@@ -304,7 +304,7 @@ translate zh_hant a1_monday_bundle_of_hisao_96ac1846:
 translate zh_hant a1_monday_bundle_of_hisao_4b86e3cb:
 
     # n "Apparently, I've had it for a long time. They said it was a miracle that I was able to go on so long without anything happening."
-    n "很明顯，我一直以來就有這個毛病。他們說我活了那麼久都還沒發生過問題簡直就是奇蹟。"
+    n "很明顯，我一直以來就有這個毛病。他們說我活了那麼久都沒發作過簡直就是奇蹟。"
 
 # game/script-a1-monday.rpy:247
 translate zh_hant a1_monday_bundle_of_hisao_ad0a9930:
@@ -324,19 +324,19 @@ translate zh_hant a1_monday_bundle_of_hisao_40bfb4d0:
     # nvl clear
     # n "{vspace=150}My parents, I think, were hit harder by the news than I was. They practically had two hemorrhages apiece."
     nvl clear
-    n "{vspace=150}我想我父母得到消息後受到的打擊比我還大，就像他們自己大出血兩次一樣。"
+    n "{vspace=150}我想我父母得到消息後受到的打擊比我還大，就像他們自己大出血一樣。"
 
 # game/script-a1-monday.rpy:255
 translate zh_hant a1_monday_bundle_of_hisao_faed1ade:
 
     # n "{vspace=30}I had already had a full day by then to digest everything. To them, it was all fresh. They were even willing to sell our house in order to pay for a cure."
-    n "{vspace=30}當時已經過去了一整天，我有足夠的時間來消化所有的資訊。對他們來說，卻是始料未及的情況。他們甚至想賣掉房子來湊錢支付治療費。"
+    n "{vspace=30}當時已經過去了一整天，我有足夠的時間來消化所有的資訊。對他們來說，卻是始料未及的情況。他們甚至考慮賣掉房子來湊錢支付治藥費。"
 
 # game/script-a1-monday.rpy:257
 translate zh_hant a1_monday_bundle_of_hisao_4aa0947a:
 
     # n "{vspace=60}Of course there isn't a cure."
-    n "{vspace=60}不過，現在還沒有完全治癒的方法。"
+    n "{vspace=60}但是，這個病是治不好的。"
 
 # game/script-a1-monday.rpy:259
 translate zh_hant a1_monday_bundle_of_hisao_9651b812:
@@ -350,7 +350,7 @@ translate zh_hant a1_monday_bundle_of_hisao_9651b812:
 translate zh_hant a1_monday_bundle_of_hisao_b8f7da43:
 
     # n "When I was first admitted, it felt as if I was missed…"
-    n "當我剛住進醫院時，我以為大家都很想念我……"
+    n "當我剛住進醫院時，我以為大家很想念我……"
 
 # game/script-a1-monday.rpy:265
 translate zh_hant a1_monday_bundle_of_hisao_34e8419d:
@@ -362,19 +362,19 @@ translate zh_hant a1_monday_bundle_of_hisao_34e8419d:
 translate zh_hant a1_monday_bundle_of_hisao_090f9328:
 
     # n "But, the visitors soon dwindled and all the get-well gifts began trickling down to nothing shortly after."
-    n "但很快，來探病的人慢慢變少了，慰問禮物也在一段時間後完全消失了。"
+    n "但很快的，來探病的人慢慢變少了，慰問的禮物也在一段時間後完全消失了。"
 
 # game/script-a1-monday.rpy:269
 translate zh_hant a1_monday_bundle_of_hisao_909d8632:
 
     # n "I realized that the only reason I had gotten so many cards and flowers was because sending me their sympathy had been turned into a class project."
-    n "我突然意識到，最初能得到那麼多卡片和鮮花，是因為他們把慰問病情當成了一項班級活動。"
+    n "我突然意識到，最初能得到那麼多卡片和鮮花，是因為他們把慰問送禮當成了一項班級活動。"
 
 # game/script-a1-monday.rpy:271
 translate zh_hant a1_monday_bundle_of_hisao_b5c56144:
 
     # n "Maybe some people were genuinely concerned, but I doubt it. Even in the beginning, I barely had visitors. By the end of the first month, only my parents came by on a regular basis."
-    n "也許有些人最初確實是擔心我的，但我無法相信。即使最初也沒幾個人來探病。到了第一個月月底，只剩下我父母會定期來看我了。"
+    n "也許有些人最初確實是擔心我的，但我不太相信。最初也沒幾個人來探病。到了第一個月月底，只剩下我父母會定期來看我了。"
 
 # game/script-a1-monday.rpy:273
 translate zh_hant a1_monday_bundle_of_hisao_928fd142:
@@ -412,25 +412,25 @@ translate zh_hant a1_monday_bundle_of_hisao_91226342:
 translate zh_hant a1_monday_bundle_of_hisao_1bf6fc5e:
 
     # n "The doctors and nurses feel so impersonal and faceless."
-    n "醫生和校醫們都給人很陌生和冰冷的感覺。"
+    n "醫生和護理師們都給人很陌生和冰冷的感覺。"
 
 # game/script-a1-monday.rpy:287
 translate zh_hant a1_monday_bundle_of_hisao_ccb3302d:
 
     # n "I guess it's because they are in a hurry and they have a million other patients waiting for them, but it makes me feel uncomfortable."
-    n "我猜他們都很忙，有很多的病人在等著他們，但是他們給我的感覺很不好。"
+    n "我想他們都很忙，還有成千上萬的其他病人在等著他們，但我感覺不太舒服。"
 
 # game/script-a1-monday.rpy:289
 translate zh_hant a1_monday_bundle_of_hisao_ecf33f47:
 
     # n "For the first month or so, I asked the head cardiologist every time I saw him for a rough estimate of when I'd be able to leave."
-    n "第一個月，每次我看見心臟科主治醫師都要問一問什麼時候能出院。"
+    n "第一個月，我每次見到心臟科主任，都會問他我大概什麼時候可以出院。"
 
 # game/script-a1-monday.rpy:291
 translate zh_hant a1_monday_bundle_of_hisao_baa2d8b8:
 
     # n "He never answered anything in a straightforward way, but told me to wait and see if the treatment and surgeries worked."
-    n "他從來沒直接回答過，只是告訴我要耐心等待，要觀察療程和手術的效果如何。"
+    n "他從來沒有直接回答，只是告訴我等等看，看治療和手術是否有效。"
 
 # game/script-a1-monday.rpy:293
 translate zh_hant a1_monday_bundle_of_hisao_ab6e12e7:
@@ -442,7 +442,7 @@ translate zh_hant a1_monday_bundle_of_hisao_ab6e12e7:
 translate zh_hant a1_monday_bundle_of_hisao_4a32222f:
 
     # n "I still ask the head cardiologist about leaving, but my expectations are low enough now that I'm not disappointed any more when I don't get a reply. The way he shuffles around the answer shows that there is at least some hope."
-    n "我沒放棄問主治醫師關於出院的問題，但我已經不抱什麼期望，反而不會像以前那樣失落。他支吾著應付我，表明起碼還有一線希望。"
+    n "我沒放棄問心臟科主任關於出院的事，但現在我的期望已經不高了，反而不會像以前那樣失落。他迴避問題的方式，表明至少還有一些希望。"
 
 # game/script-a1-monday.rpy:297
 translate zh_hant a1_monday_bundle_of_hisao_e0fa902a:
@@ -456,25 +456,25 @@ translate zh_hant a1_monday_bundle_of_hisao_e0fa902a:
 translate zh_hant a1_monday_bundle_of_hisao_2a59d03b:
 
     # n "Maybe it was the wrong kind of escapism for my situation."
-    n "或許電視對我這種情況不是一種恰當的逃避方式。"
+    n "或許電視對我這種情況不是一種適合的逃避方式。"
 
 # game/script-a1-monday.rpy:303
 translate zh_hant a1_monday_bundle_of_hisao_6a2081cc:
 
     # n "{vspace=30}I started reading instead. There was a small 'library' at the hospital, although it was more like a storeroom for books. I began working my way through it, one small stack at a time. After consuming them, I would go back for more."
-    n "{vspace=30}我開始去讀書。醫院裡有個小型“圖書館”，其實更像個藏書室。我開始讀裡面的書，一次只拿一小摞。讀完以後又回去換另一摞。"
+    n "{vspace=30}我開始閱讀。醫院裡有一個小小的「圖書館」，雖然它更像是一個書的儲藏室。我開始一本一本地讀，一次一小疊。讀完後，我會回去拿更多。"
 
 # game/script-a1-monday.rpy:305
 translate zh_hant a1_monday_bundle_of_hisao_aefc9b82:
 
     # n "I found that I liked reading and I think I even became a bit addicted. I started feeling naked without a book in my hands."
-    n "我覺得自己愛上了讀書，甚至還有些上癮。如果手上不捧著一本，我就會覺得渾身不自在。"
+    n "我發現我喜歡閱讀，甚至有點上癮。我開始覺得手上沒有書就渾身不自在。"
 
 # game/script-a1-monday.rpy:307
 translate zh_hant a1_monday_bundle_of_hisao_eb6d0c5d:
 
     # n "{vspace=30}But I loved the stories."
-    n "{vspace=30}但我很喜歡書裡講的故事。"
+    n "{vspace=30}但我喜歡那些故事。"
 
 # game/script-a1-monday.rpy:309
 translate zh_hant a1_monday_bundle_of_hisao_b319e002:
@@ -538,13 +538,13 @@ translate zh_hant a1_monday_bundle_of_hisao_f77d5b5d:
 translate zh_hant a1_monday_bundle_of_hisao_145a949c:
 
     # "My parents are here. It's been a few days since I've last seen them. Both of them are even sort of dressed up. Is this supposed to be some kind of special occasion? It's not a party."
-    "我的父母也來了。前幾天他們都沒來過，而且兩人的裝束有點太正式了。難道今天是什麼節日？又不是開派對。"
+    "我父母在這裡。我已經好幾天沒見到他們了。他們倆甚至還穿得有點正式。這算是什麼特別的場合嗎？又不是派對。"
 
 # game/script-a1-monday.rpy:337
 translate zh_hant a1_monday_bundle_of_hisao_bcb11816:
 
     # "There is this ritual the head cardiologist has. He takes his time, sorting his papers, then setting them aside as if to make a point of the pointlessness of what he just did."
-    "這個主治醫生有個習慣。他總是悠哉遊哉，逐頁翻完病歷，然後把那堆紙擱在一旁，似乎想為剛才自己做的無意義動作尋找一點意義。"
+    "心臟科主任有這個慣例。他不疾不徐地整理文件，然後把它們放在一邊，彷彿在強調他剛才所做之事的徒勞。"
 
 # game/script-a1-monday.rpy:339
 translate zh_hant a1_monday_bundle_of_hisao_645ccc5e:
@@ -556,13 +556,13 @@ translate zh_hant a1_monday_bundle_of_hisao_645ccc5e:
 translate zh_hant a1_monday_bundle_of_hisao_ae1dc4a1:
 
     # "Doctor" "Hello, Hisao. How are you today?"
-    "醫生" "你好，久夫，你感覺如何？"
+    "醫生" "你好，久夫。你今天好嗎？"
 
 # game/script-a1-monday.rpy:343
 translate zh_hant a1_monday_bundle_of_hisao_74264518:
 
     # "I don't answer him but I smile a little, back at him."
-    "我不想回答，但是我還是對他笑了一下。"
+    "我沒有回答他，只是對他笑了笑。"
 
 # game/script-a1-monday.rpy:345
 translate zh_hant a1_monday_bundle_of_hisao_a9872b53:
@@ -574,13 +574,13 @@ translate zh_hant a1_monday_bundle_of_hisao_a9872b53:
 translate zh_hant a1_monday_bundle_of_hisao_84464266:
 
     # "Doctor" "We have all your medication sorted out. I'll give your father the prescription."
-    "醫生" "我們把你要吃的藥都決定好了。我會把處方交給你的父親。"
+    "醫生" "我們已經把你所有的藥都整理好了。我會把處方給你父親。"
 
 # game/script-a1-monday.rpy:349
 translate zh_hant a1_monday_bundle_of_hisao_d20e71ba:
 
     # "The doctor hands a sheet of paper to my dad, whose expression turns wooden as he reads it quickly."
-    "醫生把一張單遞給我的父親，後者迅速瀏覽著，臉色變得很難看。"
+    "醫生遞給一張紙給我的父親，後者迅速地瀏覽著，表情變得僵硬。"
 
 # game/script-a1-monday.rpy:351
 translate zh_hant a1_monday_bundle_of_hisao_b9806ad0:
@@ -610,7 +610,7 @@ translate zh_hant a1_monday_bundle_of_hisao_a91ebedb:
 translate zh_hant a1_monday_bundle_of_hisao_e1582878:
 
     # "Side effects, adverse effects, contraindications and dosages are listed line after line with cold precision."
-    "副作用，用藥禁忌和每服劑量等一行一行冷冰冰地羅列在上面。"
+    "副作用、不良反應、禁忌症和劑量都一行一行地以冷酷的精確度列出。"
 
 # game/script-a1-monday.rpy:370
 translate zh_hant a1_monday_bundle_of_hisao_43634d79:
@@ -670,7 +670,7 @@ translate zh_hant a1_monday_bundle_of_hisao_8b741e48:
 translate zh_hant a1_monday_bundle_of_hisao_10489774:
 
     # "Calm down? The way he says it tells me he knew full well that I wouldn't like it. Am I going to be home schooled?"
-    "冷靜？他說話的方式表明了他完全明白我肯定會不爽這個安排。難道我非要被留在家中自學？"
+    "冷靜？他那樣說，就表示他很清楚我不會想要這種安排。難道我要在家自學？"
 
 # game/script-a1-monday.rpy:397
 translate zh_hant a1_monday_bundle_of_hisao_e5f6e2c7:
@@ -700,43 +700,43 @@ translate zh_hant a1_monday_bundle_of_hisao_6aa50d84:
 translate zh_hant a1_monday_bundle_of_hisao_e8fc164c:
 
     # "Doctor" "It's a school called Yamaku Academy that specializes in dealing with disabled students."
-    "醫生" "那是一個叫做山久學院的地方，專門照料殘疾學生。"
+    "醫生" "那是一所叫做山久高校的學校，專門招收殘障學生。"
 
 # game/script-a1-monday.rpy:407
 translate zh_hant a1_monday_bundle_of_hisao_df01d864:
 
     # "Disabled? What? Am I…"
-    "殘疾?什麼?難道我……"
+    "殘障？什麼？我是……"
 
 # game/script-a1-monday.rpy:409
 translate zh_hant a1_monday_bundle_of_hisao_e721b086:
 
     # "Doctor" "It has a 24-hour nursing staff and it's only a few minutes from a highly regarded general hospital. The majority of students live on the campus."
-    "醫生" "那裡有24小時的醫護人員，而且離一家風評很好的綜合病院只有幾分鐘車程。大部分學生都住在學校裡面。"
+    "醫生" "那裡有24小時的護理人員，而且離一間評價很高的綜合醫院只有幾分鐘的路程。大部分學生都住在校園裡。"
 
 # game/script-a1-monday.rpy:411
 translate zh_hant a1_monday_bundle_of_hisao_a7b43cb3:
 
     # "Doctor" "Think of it as a boarding school of sorts. It's designed to give students a degree of independence, while keeping help nearby."
-    "醫生" "你可以把它當作一個寄宿學校。學校的理念是要給予學生一定程度的自主性，但同時又要確保出問題時有人能照顧他們。"
+    "醫生" "把它想成一所寄宿學校。它的設計是為了給學生一定程度的獨立，同時又能隨時提供幫助。"
 
 # game/script-a1-monday.rpy:413
 translate zh_hant a1_monday_bundle_of_hisao_a64d3c87:
 
     # "Independence? It's a school for disabled kids. Don't try to disguise that fact."
-    "自主性？那是殘疾人去的學校。別想忽悠我。"
+    "獨立？那是一所給殘障孩子的學校。別想掩飾這個事實。"
 
 # game/script-a1-monday.rpy:415
 translate zh_hant a1_monday_bundle_of_hisao_edda9b03:
 
     # "If it was really that 'free,' there wouldn't be a 24-hour nursing staff, and you wouldn't make a hospital being nearby a selling point."
-    "如果真有那麼多“自由”，那裡就不需要24小時的醫護人員，你也沒必要把附近有醫院當作噱頭。"
+    "如果真的那麼「自由」，就不會有24小時的護理人員，你也不會把附近有醫院當作賣點。"
 
 # game/script-a1-monday.rpy:417
 translate zh_hant a1_monday_bundle_of_hisao_dde7915e:
 
     # "Dad" "Of course, that's only if you want to go. But… your mother and I aren't really able to home school you."
-    "父親" "當然，你不想去我們也不勉強你。但是……我和你母親也不能在家裡給你教書。"
+    "父親" "當然，那是在你願意去的情況下。但是……你媽媽和我也沒辦法在家教你。"
 
 # game/script-a1-monday.rpy:419
 translate zh_hant a1_monday_bundle_of_hisao_ec5265c6:
@@ -760,7 +760,7 @@ translate zh_hant a1_monday_bundle_of_hisao_a3e36ce4:
 translate zh_hant a1_monday_bundle_of_hisao_e54aea15:
 
     # "This isn't an opportunity, don't call it an opportunity. Don't call it a goddamned opportunity."
-    "這才不是一個機會。我不會把這個情況叫做機會。別再給我提起這個該死的機會。"
+    "這不是機會，別叫它機會。別叫它他媽的機會。"
 
 # game/script-a1-monday.rpy:427
 translate zh_hant a1_monday_bundle_of_hisao_61bc19a8:
@@ -778,19 +778,19 @@ translate zh_hant a1_monday_bundle_of_hisao_51d6fade:
 translate zh_hant a1_monday_bundle_of_hisao_96f69568:
 
     # "An insult. That is what I want to say. It's a step down."
-    "簡直是侮辱。我不得不直話直說。這就是倒退。"
+    "一種侮辱。這就是我想說的。這是一種退步。"
 
 # game/script-a1-monday.rpy:433
 translate zh_hant a1_monday_bundle_of_hisao_c39dab3f:
 
     # "Dad" "It's not what you think. All of the students there are pretty active, in their own sort of way."
-    "父親" "那裡不是像你想像的那麼差。那些學生都很活躍，有他們自己的一套。"
+    "父親" "不是你想的那樣。那裡的學生都很有活力，以他們自己的求學生活方式。"
 
 # game/script-a1-monday.rpy:435
 translate zh_hant a1_monday_bundle_of_hisao_5b0cb836:
 
     # "Dad" "It's geared towards students that can still get around and learn, but just need a little help… in one way or another."
-    "父親" "學校就是針對那些還能堅持學習，但需要一點……特殊支持的學生而設的。"
+    "父親" "它是為那些仍然可以四處走動和學習，但只是需要一點幫助的學生而設計的……無論如何。"
 
 # game/script-a1-monday.rpy:437
 translate zh_hant a1_monday_bundle_of_hisao_3176a865:
@@ -844,19 +844,19 @@ translate zh_hant a1_monday_bundle_of_hisao_43220101:
 translate zh_hant a1_monday_bundle_of_hisao_86af7b40:
 
     # "There really isn't a choice. I know this, but the thought of going to a disabled school… what are those even like? As much as I try to put a positive spin on this, it's very difficult."
-    "但我也沒有選擇的餘地。我自己很清楚，但想著要去一所殘疾人學校……我甚至不知道里面都有些什麼人。我試圖從積極的方面思考，但心裡沒底。"
+    "真的沒有選擇。我知道這一點，但是去一所殘障學校的想法……那裡到底是什麼樣子？儘管我努力正面思考，但還是很困難。"
 
 # game/script-a1-monday.rpy:457
 translate zh_hant a1_monday_bundle_of_hisao_1aa4ad31:
 
     # "But let me try."
-    "但我還是決定嘗試。"
+    "我只能試試了。"
 
 # game/script-a1-monday.rpy:459
 translate zh_hant a1_monday_bundle_of_hisao_37181d88:
 
     # "A clean slate isn't a bad thing."
-    "一個全新的開始不見得就是件壞事。"
+    "重新開始不見得是壞事。"
 
 # game/script-a1-monday.rpy:461
 translate zh_hant a1_monday_bundle_of_hisao_9de30fc4:
@@ -868,19 +868,19 @@ translate zh_hant a1_monday_bundle_of_hisao_9de30fc4:
 translate zh_hant a1_monday_bundle_of_hisao_213354d2:
 
     # "At the very least, I'll try to see what my new life will look like."
-    "最起碼，我可以試試這個新生活是什麼樣子的。"
+    "至少，我會試著看看我的新生活會是什麼樣子。"
 
 # game/script-a1-monday.rpy:476
 translate zh_hant a1_monday_gateway_effect_8cc5b1b8:
 
     # "The gate looked far too pompous for what it was."
-    "這個校門看起來也太浮誇了吧。"
+    "這門看起來太浮誇了。"
 
 # game/script-a1-monday.rpy:478
 translate zh_hant a1_monday_gateway_effect_91a39e93:
 
     # "In fact, gates in general seem to do that, but this one especially so."
-    "實際上，通常校門都使人有這個感覺，但這個可以說是青出於藍。"
+    "事實上，一般的門似乎都這樣，但這個更誇張。"
 
 # game/script-a1-monday.rpy:480
 translate zh_hant a1_monday_gateway_effect_b831d73a:
@@ -922,25 +922,25 @@ translate zh_hant a1_monday_gateway_effect_e15f3543:
 translate zh_hant a1_monday_gateway_effect_96a709dc:
 
     # "It doesn't feel like the kind of grounds a school would have, more like a park, with a clean walkway going past trees and the smell of fresh-cut grass and all other park-like things."
-    "這裡感覺不像學校的操場，反而更像個公園。乾淨的林蔭道穿梭在樹木間，空氣中帶有剛修葺過的草地的味道。"
+    "這裡感覺不像學校的操場，反而更像個公園。乾淨的林蔭道穿梭在樹木間，空氣中帶有剛修剪過的草地的味道。"
 
 # game/script-a1-monday.rpy:497
 translate zh_hant a1_monday_gateway_effect_a2aa6b19:
 
     # "Words like 'clean' and 'hygienic' pop into my mind. It makes me shudder."
-    "“乾淨”、“衛生”之類的詞語從腦海中湧現，真是一種難以言喻的感覺。"
+    "「乾淨」和「衛生」之類的詞浮現在我的腦海中。這讓我打了個冷顫。"
 
 # game/script-a1-monday.rpy:499
 translate zh_hant a1_monday_gateway_effect_1f324b32:
 
     # "I shake them off. Stay open-minded now. It's your new life. You have to take it as it comes."
-    "我把它們拋諸腦後。拋開偏見吧，這是你的新生活，你要隨遇而安。"
+    "我把它們甩掉。現在要保持開放的心態。這是你的新生活。你必須接受它。"
 
 # game/script-a1-monday.rpy:501
 translate zh_hant a1_monday_gateway_effect_160489d9:
 
     # "That's what I tell myself."
-    "我這樣跟自己說。"
+    "我對自己這麼說。"
 
 # game/script-a1-monday.rpy:503
 translate zh_hant a1_monday_gateway_effect_184e52e4:
@@ -964,13 +964,13 @@ translate zh_hant a1_monday_gateway_effect_f9bee95e:
 translate zh_hant a1_monday_gateway_effect_8da4006e:
 
     # "I wonder if the feeling is real or caused by my expectations of a school for the disabled."
-    "我不知道這種感覺到底是是真的，還是因為我對殘疾學校的偏見所致。"
+    "我不知道這種感覺到底是是真的，還是因為我對殘障學校的偏見所致。"
 
 # game/script-a1-monday.rpy:511
 translate zh_hant a1_monday_gateway_effect_68907d46:
 
     # "Speaking of that, I don't see anyone else here. It's kinda eerie."
-    "說到這裡，我還沒看到一個活人。感覺真詭異。"
+    "說到這裡，我還沒看到其他任何一個人。感覺真詭異。"
 
 # game/script-a1-monday.rpy:513
 translate zh_hant a1_monday_gateway_effect_9d24677d:
@@ -994,7 +994,7 @@ translate zh_hant a1_monday_gateway_effect_2174bda6:
 translate zh_hant a1_monday_gateway_effect_238b28c7:
 
     # "So why am I feeling so anxious, despite all this greenery?"
-    "但既然周圍已經鋪青迭翠，為什麼我仍然感到焦慮？"
+    "那為什麼在這麼多綠意盎然的環境中，我還是感到如此焦慮？"
 
 # game/script-a1-monday.rpy:521
 translate zh_hant a1_monday_gateway_effect_ce617998:
@@ -1036,7 +1036,7 @@ translate zh_hant a1_monday_gateway_effect_02dc57b4:
 translate zh_hant a1_monday_gateway_effect_efa1be84:
 
     # mu_ "You must be… Ni… Na… Niki?"
-    mu_ "你肯定是……中……中……"
+    mu_ "你一定是……倪……奈……中井？"
 
 # game/script-a1-monday.rpy:541
 translate zh_hant a1_monday_gateway_effect_379f1eff:
@@ -1048,7 +1048,7 @@ translate zh_hant a1_monday_gateway_effect_379f1eff:
 translate zh_hant a1_monday_gateway_effect_7d56ca54:
 
     # mu_ "So you are. Excellent. I'm your homeroom and science teacher. My name is Mutou."
-    mu_ "那就是你了。非常好。我是你的班導師兼科學老師，我叫武藤。"
+    mu_ "原來是你。太好了。我是你的班導師和科學老師。我叫武藤。"
 
 # game/script-a1-monday.rpy:548
 translate zh_hant a1_monday_gateway_effect_266ecf56:
@@ -1066,19 +1066,19 @@ translate zh_hant a1_monday_gateway_effect_903ab41f:
 translate zh_hant a1_monday_gateway_effect_7585988e:
 
     # mu "The head nurse asked you for a brief check-in visit, but there's no time for that now."
-    mu "校醫要你做一個簡短的入住問詢，但是我們現在沒有時間。"
+    mu "校醫要你做一個簡短的入住訪談，但是我們現在沒有時間。"
 
 # game/script-a1-monday.rpy:557
 translate zh_hant a1_monday_gateway_effect_c3708bb8:
 
     # hi "Oh. Should I go later?"
-    hi "哦。我是不是應該過一會兒去？"
+    hi "哦。我晚點再去嗎？"
 
 # game/script-a1-monday.rpy:562
 translate zh_hant a1_monday_gateway_effect_ef817f31:
 
     # mu "Yes, afternoon is probably fine. We should get going and introduce you to the rest of the class. They're waiting already."
-    mu "沒錯，下午去應該沒問題。我們走吧，去班裡把你介紹給同學們。他們現在已經等著了。"
+    mu "是的，下午應該可以。我們該走了，把你介紹給班上其他人。他們已經在等了。"
 
 # game/script-a1-monday.rpy:564
 translate zh_hant a1_monday_gateway_effect_a6a89f26:
@@ -1114,7 +1114,7 @@ translate zh_hant a1_monday_gateway_effect_65b25d93:
 translate zh_hant a1_monday_gateway_effect_3a81219e:
 
     # "The third door down the third floor corridor is marked as the classroom for class 3-3."
-    "三樓走廊上第三個門，標記著3-3班的教室。"
+    "三樓走廊的第三扇門，標示為3-3班的教室。"
 
 # game/script-a1-monday.rpy:600
 translate zh_hant a1_monday_gateway_effect_b4cd4d35:
@@ -1126,7 +1126,7 @@ translate zh_hant a1_monday_gateway_effect_b4cd4d35:
 translate zh_hant a1_monday_gateway_effect_7e77e825:
 
     # mu "Good morning everyone, sorry I'm late again."
-    mu "大家早上好，抱歉今天又來晚了。"
+    mu "大家早安，抱歉我又遲到了。"
 
 # game/script-a1-monday.rpy:613
 translate zh_hant a1_monday_gateway_effect_7b458bd2:
@@ -1138,7 +1138,7 @@ translate zh_hant a1_monday_gateway_effect_7b458bd2:
 translate zh_hant a1_monday_enter_stage_left_e74e2c41:
 
     # "Ah, get a grip! This is a big step, I know that… But there isn't any point to worrying so much about it, at least not this soon."
-    "淡定淡定！這是我個人的一大步，我知道……但是其實我沒理由擔心那麼多，至少眼前沒有必要。"
+    "啊，振作點！這是很大的一步，我知道……沒必要這麼擔心，至少現在還不用。"
 
 # game/script-a1-monday.rpy:628
 translate zh_hant a1_monday_enter_stage_left_1f0fc33a:
@@ -1150,7 +1150,7 @@ translate zh_hant a1_monday_enter_stage_left_1f0fc33a:
 translate zh_hant a1_monday_enter_stage_left_7fc32931:
 
     # "It's pretty spacious; the ceiling is unusually high and there's lots of space left over around and inbetween the desks."
-    "教室裡面空間挺充裕；天花板特別高，課桌之間也留有很多空間。"
+    "這裡很寬敞；天花板異常地高，桌子周圍和之間還有很多空間。"
 
 # game/script-a1-monday.rpy:632
 translate zh_hant a1_monday_enter_stage_left_c5cc5e23:
@@ -1180,19 +1180,19 @@ translate zh_hant a1_monday_enter_stage_left_a9c0f533:
 translate zh_hant a1_monday_enter_stage_left_0a84f341:
 
     # "Despite the natural tendency to listen when someone's talking about you, I tune out the teacher's speech halfway through while he introduces me to the class."
-    "雖然天性使然，當別人談論你的時候會自然地注意聽下去，但是我在老師對班級介紹我的中途就走神了。"
+    "儘管有人在談論你時，你很自然地會去聽，但老師和全班介紹我的時候，我聽到一半就沒在聽了。"
 
 # game/script-a1-monday.rpy:644
 translate zh_hant a1_monday_enter_stage_left_9a6ff8f5:
 
     # "I notice a flash of dark hair and see that someone is looking at me. A girl with really long, straight hair that is pretty eye-catching. As she sees me looking back at her, she covers her face with her hands as if it will make her invisible."
-    "我瞄到一道烏黑的長髮，知道有人在注視著我。那是一個有著靚麗秀長直髮的女孩，頗為引人注目。注意到我也在看她時，她忙用手遮住自己的臉，彷彿這樣就能讓自己消失掉。"
+    "我瞄到一道烏黑的長髮後面有人在注視著我。那是一個秀麗直髮的女孩，頗為引人注目。發現到我也在看她時，她忙用手遮住自己的臉，彷彿這樣就能讓自己消失掉。"
 
 # game/script-a1-monday.rpy:646
 translate zh_hant a1_monday_enter_stage_left_12584c35:
 
     # "There is one boy with a cane leaning against the lockers at the rear of the class. It's weird seeing someone so young with a cane."
-    "教室後面有個男孩靠坐在置物櫃上，身邊有根拐杖。一個這麼年輕的人就要拿拐杖實在是很詭異的事情。"
+    "教室後面有個男孩靠坐在置物櫃上，身邊有根拐杖。這麼年輕的人就要拿拐杖實在是很詭異的事情。"
 
 # game/script-a1-monday.rpy:648
 translate zh_hant a1_monday_enter_stage_left_f7a8e507:
@@ -1204,13 +1204,13 @@ translate zh_hant a1_monday_enter_stage_left_f7a8e507:
 translate zh_hant a1_monday_enter_stage_left_ae488323:
 
     # "She's kind of cute. So is the cheery-looking girl with pink hair sitting next to her. She's really hard to miss; I don't know how I didn't notice her the moment I walked in…"
-    "她看起來挺可愛。她旁邊的位置坐著一個看起來很快樂的粉紅色頭髮女孩，也很可愛。你很難不注意到她；我自己也不知道為什麼剛才進來時會看走眼……"
+    "她看起來挺可愛。她旁邊的位置坐著一個看起來很快樂的粉紅色頭髮女孩，也很可愛。你很難不注意到她；我自己也不知道為什麼剛才進來時沒注意到她……"
 
 # game/script-a1-monday.rpy:652
 translate zh_hant a1_monday_enter_stage_left_b3c5aeb3:
 
     # mu "…please welcome our newest classmate."
-    mu "……請歡迎班上的新同學。"
+    mu "……歡迎我們的新同學。"
 
 # game/script-a1-monday.rpy:654
 translate zh_hant a1_monday_enter_stage_left_2975736e:
@@ -1222,19 +1222,19 @@ translate zh_hant a1_monday_enter_stage_left_2975736e:
 translate zh_hant a1_monday_enter_stage_left_52894b81:
 
     # "A collective silence tells me that I should open my mouth now."
-    "這一片沉默表明我是時候開口說點什麼了。"
+    "一片寂靜告訴我，我現在該開口了。"
 
 # game/script-a1-monday.rpy:659
 translate zh_hant a1_monday_enter_stage_left_921b5957:
 
     # hi "So… I'm Hisao Nakai."
-    hi "呃……我叫中井久夫。"
+    hi "那個……我叫中井久夫。"
 
 # game/script-a1-monday.rpy:661
 translate zh_hant a1_monday_enter_stage_left_8623bd84:
 
     # "And after that?"
-    "再然後呢？"
+    "然後呢？"
 
 # game/script-a1-monday.rpy:663
 translate zh_hant a1_monday_enter_stage_left_6e0d1b33:
@@ -1246,7 +1246,7 @@ translate zh_hant a1_monday_enter_stage_left_6e0d1b33:
 translate zh_hant a1_monday_enter_stage_left_8623bd84_1:
 
     # "And after that?"
-    "再然後呢？"
+    "然後呢？"
 
 # game/script-a1-monday.rpy:667
 translate zh_hant a1_monday_enter_stage_left_4374dbdf:
@@ -1258,7 +1258,7 @@ translate zh_hant a1_monday_enter_stage_left_4374dbdf:
 translate zh_hant a1_monday_enter_stage_left_df8e17dd:
 
     # "I end up saying nothing, and the teacher picks up from there."
-    "最後我還是什麼都沒說，老師接下了話頭。"
+    "結果我什麼也沒說，老師就從那裡接下去了。"
 
 # game/script-a1-monday.rpy:671
 translate zh_hant a1_monday_enter_stage_left_a1ab870e:
@@ -1294,7 +1294,7 @@ translate zh_hant a1_monday_enter_stage_left_8e841327:
 translate zh_hant a1_monday_enter_stage_left_27b35f61:
 
     # "Maybe I should've said yes to the self-introduction thing."
-    "或者我當時應該同意自己做自我介紹。"
+    "也許我當初應該答應自我介紹。"
 
 # game/script-a1-monday.rpy:683
 translate zh_hant a1_monday_enter_stage_left_bdaaa0b8:
@@ -1318,7 +1318,7 @@ translate zh_hant a1_monday_enter_stage_left_8c3d6576:
 translate zh_hant a1_monday_enter_stage_left_5dc2fa5e:
 
     # "Everyone seems to be listening to him intently and when he's done, they clap their hands again which feels like a weird thing to do."
-    "每個人似乎都很認真地聽著，發言結束時大家再次鼓掌，真是很莫名其妙的感覺。"
+    "大家似乎都在專心聽他說，他說完後，他們又再次鼓掌手，感覺很奇怪。"
 
 # game/script-a1-monday.rpy:693
 translate zh_hant a1_monday_enter_stage_left_74702b00:
@@ -1336,13 +1336,13 @@ translate zh_hant a1_monday_enter_stage_left_2a5034be:
 translate zh_hant a1_monday_enter_stage_left_90b478db:
 
     # mu "We're going to be doing some group work today, so that'll give you a chance to talk with everyone. Is that okay with you?"
-    mu "我們要做一些小組作業，這會給你一個和所有人談話的機會。你對這個安排沒有異議吧？"
+    mu "我們今天要進行一些小組活動，這樣你就有機會和大家交談。你覺得可以嗎？"
 
 # game/script-a1-monday.rpy:703
 translate zh_hant a1_monday_enter_stage_left_9a959fb3:
 
     # hi "Yeah, it's fine with me."
-    hi "嗯，沒問題。"
+    hi "嗯，我沒問題。"
 
 # game/script-a1-monday.rpy:708
 translate zh_hant a1_monday_enter_stage_left_99ccb9af:
@@ -1354,7 +1354,7 @@ translate zh_hant a1_monday_enter_stage_left_99ccb9af:
 translate zh_hant a1_monday_enter_stage_left_9710e177:
 
     # mu "She can explain anything you might want to know. And who else would be able to do that better, right?"
-    mu "你可能問到的任何問題她都能回答上。有誰能比她做得更好呢？你說是不是？"
+    mu "她可以解釋任何你想知道的事情。還有誰能比她做得更好，對吧？"
 
 # game/script-a1-monday.rpy:715
 translate zh_hant a1_monday_enter_stage_left_83656091:
@@ -1372,13 +1372,13 @@ translate zh_hant a1_monday_enter_stage_left_7aac71e2:
 translate zh_hant a1_monday_enter_stage_left_186f41a7:
 
     # "It hits me that I don't know who Hakamichi is. Slow. The teacher seems to catch my helpless expression."
-    "我突然發現自己還不知道這個羽加道是誰。真鬱悶。老師發現了我無助的表情。"
+    "我突然想到我不知道羽加道是誰。老師似乎留意到了我無助的表情。"
 
 # game/script-a1-monday.rpy:721
 translate zh_hant a1_monday_enter_stage_left_c02fc09c:
 
     # mu "Oh, right. Hakamichi is right there, Shizune Hakamichi."
-    mu "哦，對了。羽加道在那裡，羽加道靜音。"
+    mu "哦，對了。羽加道就在那裡，羽加道靜音。"
 
 # game/script-a1-monday.rpy:726
 translate zh_hant a1_monday_enter_stage_left_9780a72e:
@@ -1390,7 +1390,7 @@ translate zh_hant a1_monday_enter_stage_left_9780a72e:
 translate zh_hant a1_monday_enter_stage_left_db5de56f:
 
     # hi "Hey, I guess you're Hakamichi, right? It's nice to meet you."
-    hi "嘿，我猜你是羽加道對吧？非常高興能認識你。"
+    hi "嗨，我猜妳是羽加道，對吧？很高興認識妳。"
 
 # game/script-a1-monday.rpy:735
 translate zh_hant a1_monday_enter_stage_left_f4e61544:
@@ -1432,7 +1432,7 @@ translate zh_hant a1_monday_enter_stage_left_8a27b1c8:
 translate zh_hant a1_monday_enter_stage_left_17c12c85:
 
     # hi "It's nice to meet you."
-    hi "非常高興能認識你。"
+    hi "很高興認識妳。"
 
 # game/script-a1-monday.rpy:764
 translate zh_hant a1_monday_enter_stage_left_ef2b123c:
@@ -1486,7 +1486,7 @@ translate zh_hant a1_monday_enter_stage_left_ef2b123c_1:
 translate zh_hant a1_monday_enter_stage_left_5d25e220:
 
     # mi "You're the new student, aren't you? Well, Shicchan, of course he is! If he wasn't, he would have been standing up there for no reason, right? Right~!"
-    mi "你就是那個轉校生，是不是？嗯，小靜，肯定是他了！如果不是，他就不會無緣無故站在那裡了，對嗎？對呀～！"
+    mi "你是新來的轉學生，對吧？嗯，小靜，他當然是！如果不是，他就不會無緣無故地站在那裡了，對吧？對～！"
 
 # game/script-a1-monday.rpy:810
 translate zh_hant a1_monday_enter_stage_left_6d373ce7:
@@ -1516,7 +1516,7 @@ translate zh_hant a1_monday_enter_stage_left_77427e26:
 translate zh_hant a1_monday_enter_stage_left_10f39980:
 
     # mi "We knew there was going to be a new student, but we didn't know you would be here today. So soon! Hicchan, right?"
-    mi "我們早知道會有個轉校生要來，不過不知道是今天來。太早啦！是不是呀，小久？"
+    mi "我們早知道會有個轉學生要來，不過不知道是今天來。太早啦！是不是呀，小久？"
 
 # game/script-a1-monday.rpy:820
 translate zh_hant a1_monday_enter_stage_left_6ee129ea:
@@ -1528,13 +1528,13 @@ translate zh_hant a1_monday_enter_stage_left_6ee129ea:
 translate zh_hant a1_monday_enter_stage_left_cb832926:
 
     # mi "Yup~! It fits, doesn't it?"
-    mi "對啊！這個很合適啊，難道不是嗎？"
+    mi "對啊～！很適合，不是嗎？"
 
 # game/script-a1-monday.rpy:827
 translate zh_hant a1_monday_enter_stage_left_d84fbefe:
 
     # "Did I say it out loud? It's just a surprise. I've never liked that nickname."
-    "我是不是說出口了？實在太令人驚訝了。我根本一點不喜歡這個外號。"
+    "我有說出口了嗎？實在令人訝異了。我根本一點不喜歡這個外號。"
 
 # game/script-a1-monday.rpy:829
 translate zh_hant a1_monday_enter_stage_left_5d7883ed:
@@ -1612,19 +1612,19 @@ translate zh_hant a1_monday_enter_stage_left_cdde91a5:
 translate zh_hant a1_monday_enter_stage_left_ee780a73:
 
     # extend " familiarize?{w=0.5}{nw}"
-    "熟悉？{w=0.5}{nw}"
+    extend "熟悉？{w=0.5}{nw}"
 
 # game/script-a1-monday.rpy:895
 translate zh_hant a1_monday_enter_stage_left_f3c21d86:
 
     # extend " yourself with it!"
-    "一下環境。"
+    extend "一下環境。"
 
 # game/script-a1-monday.rpy:897
 translate zh_hant a1_monday_enter_stage_left_27c5fbb2:
 
     # "Misha stumbles with the hard word a bit, making it stick out in her otherwise fluid translation."
-    "米莎卡了一下，使這個生詞在她近乎完美的翻譯中凸顯了出來。"
+    "米莎對這個難詞有點結巴，讓它在她流暢的翻譯中顯得格外突出。"
 
 # game/script-a1-monday.rpy:899
 translate zh_hant a1_monday_enter_stage_left_9621c045:
@@ -1654,13 +1654,13 @@ translate zh_hant a1_monday_enter_stage_left_06b6506c:
 translate zh_hant a1_monday_enter_stage_left_2855793f:
 
     # mi "Always! Even if it's a trip to the convenience store! Really, Shicchan? Hahaha~!"
-    mi "永遠！即使是去便利店也是如此！真的？小靜？哈哈哈～！"
+    mi "永遠！即使是去便利商店也是如此！真的？小靜？哈哈哈～！"
 
 # game/script-a1-monday.rpy:925
 translate zh_hant a1_monday_enter_stage_left_0c8e9144:
 
     # "Learn about where you're going? I guess I didn't bother to do that, or just didn't care enough to do so."
-    "搞清楚要去的地方？我可不會做這種事，或者我只是不想去較真。"
+    "了解你要去的地方？我想我不會費心去了解吧，或者說根本不在乎。"
 
 # game/script-a1-monday.rpy:927
 translate zh_hant a1_monday_enter_stage_left_32458251:
@@ -1702,7 +1702,7 @@ translate zh_hant a1_monday_enter_stage_left_aaf4c0a4:
 translate zh_hant a1_monday_enter_stage_left_a4029863:
 
     # mi "Asking for help is perfectly normal, as much as needing help! Stop looking like you just failed a test!"
-    mi "提出問題是非常正常的事，和要人幫忙一樣重要！別一副考試拿光頭的表情！"
+    mi "提出問題是非常正常的事，和要人幫忙一樣重要！別一副考零分的表情！"
 
 # game/script-a1-monday.rpy:953
 translate zh_hant a1_monday_enter_stage_left_69277904:
@@ -1738,7 +1738,7 @@ translate zh_hant a1_monday_enter_stage_left_ef2b123c_8:
 translate zh_hant a1_monday_enter_stage_left_0918f486:
 
     # mi "Ahaha~! Okay, maybe that's too casual. Maybe 'Shizune' would be more appropriate?"
-    mi "啊哈哈～！好吧，可能那個太不正規了。或許“靜音”更合適？"
+    mi "啊哈哈～！好吧，可能那個太不正式了。或許“靜音”更合適？"
 
 # game/script-a1-monday.rpy:982
 translate zh_hant a1_monday_enter_stage_left_ef2b123c_9:
@@ -1750,7 +1750,7 @@ translate zh_hant a1_monday_enter_stage_left_ef2b123c_9:
 translate zh_hant a1_monday_enter_stage_left_4893f27e:
 
     # mi "Yup, yup~! 'Shizune' is fine!"
-    mi "好，好～！“靜音”就好了。"
+    mi "嗯，嗯～！「靜音」就可以了！"
 
 # game/script-a1-monday.rpy:991
 translate zh_hant a1_monday_enter_stage_left_54ccbe97:
@@ -1768,13 +1768,13 @@ translate zh_hant a1_monday_enter_stage_left_3338243c:
 translate zh_hant a1_monday_enter_stage_left_b7e9a02d:
 
     # "Well, she still seems like that. Just less so, I guess."
-    "實際上她看起來還是那樣，不過我感覺程度要低多了。"
+    "實際上她看起來還是那樣，不過比我感覺的程度要低多了。"
 
 # game/script-a1-monday.rpy:1000
 translate zh_hant a1_monday_enter_stage_left_b33ba1f7:
 
     # shi "…!"
-    shi "……!"
+    shi "……！"
 
 # game/script-a1-monday.rpy:1005
 translate zh_hant a1_monday_enter_stage_left_95424f1c:
@@ -1828,7 +1828,7 @@ translate zh_hant a1_monday_enter_stage_left_2e692fb8:
 translate zh_hant a1_monday_enter_stage_left_f4fbe215:
 
     # "The assignment is actually very challenging to get through, combining aspects of being both difficult and unnecessarily long."
-    "這份作業其實相當有挑戰性，結合了高難度和長得離譜兩方面的因素。"
+    "這份作業其實很有挑戰性，既困難又冗長。"
 
 # game/script-a1-monday.rpy:1040
 translate zh_hant a1_monday_enter_stage_left_d5ae6efe:
@@ -1852,19 +1852,19 @@ translate zh_hant a1_monday_enter_stage_left_8885c900:
 translate zh_hant a1_monday_enter_stage_left_14bb5b19:
 
     # "The clock tower bells ring, signaling the end of the period. Time for lunch."
-    "鐘樓的鐘聲響起，標誌著這堂課結束了。現在是午餐時間。"
+    "鐘樓的鐘聲響起，宣布著這堂課結束了。現在是午餐時間。"
 
 # game/script-a1-monday.rpy:1053
 translate zh_hant a1_monday_enter_stage_left_2a1f6d53:
 
     # "Without knowing what else to do, I follow Misha, who is beckoning me into the hallway and down the stairs."
-    "無所事事的我，被米莎領著走過走廊，然後下了樓梯。"
+    "不知道該做什麼，我跟著米莎，她招呼我到走廊，然後下樓。"
 
 # game/script-a1-monday.rpy:1062
 translate zh_hant a1_monday_in_the_nursery_8ea3432e:
 
     # "We descend even below the lobby where I met Mutou, down to the bottom floor."
-    "我們一直往下走，穿過我遇見武藤老師的那個大堂，來到最底下的一層。"
+    "我們一直往下走，穿過我遇見武藤老師的那個大廳，來到最底下的一層。"
 
 # game/script-a1-monday.rpy:1069
 translate zh_hant a1_monday_in_the_nursery_1bffb9a8:
@@ -1888,7 +1888,7 @@ translate zh_hant a1_monday_in_the_nursery_b6f3f127:
 translate zh_hant a1_monday_in_the_nursery_1a2cf4d9:
 
     # "Her enthusiastic statement of the obvious makes people around us stare, but Misha doesn't seem to care so we proceed to the line."
-    "她的開場白明顯熱情過頭了，周圍的人都向我們看了過來，但米莎似乎根本不在意，徑直走向排隊的人羣。"
+    "她的開場白明顯熱情過頭了，周圍的人都向我們看了過來，但米莎似乎根本不在意，直直走向排隊的人羣。"
 
 # game/script-a1-monday.rpy:1085
 translate zh_hant a1_monday_in_the_nursery_39e02dea:
@@ -1906,7 +1906,7 @@ translate zh_hant a1_monday_in_the_nursery_af4a00e4:
 translate zh_hant a1_monday_in_the_nursery_0c514f1e:
 
     # "I pick something at random and follow Shizune to a table, sitting opposite of her."
-    "我隨便要了點什麼，就跟著靜音找到個桌子，面對面坐了下來。"
+    "我隨便點了些什麼，就跟著靜音找到個桌子，面對面坐了下來。"
 
 # game/script-a1-monday.rpy:1095
 translate zh_hant a1_monday_in_the_nursery_6cbd33d7:
@@ -1954,7 +1954,7 @@ translate zh_hant a1_monday_in_the_nursery_00e4fdb5:
 translate zh_hant a1_monday_in_the_nursery_740dd966:
 
     # hi "Hmm, I wonder…" nointeract
-    hi "嗯， 我想……"
+    hi "嗯，我想……"
 
 # game/script-a1-monday.rpy:1138
 translate zh_hant a1_monday_in_the_nursery_0e7b1408:
@@ -1978,7 +1978,7 @@ translate zh_hant a1_monday_in_the_nursery_ce617998:
 translate zh_hant a1_monday_in_the_nursery_b4f99232:
 
     # "I quickly notice a conversation in sign is not enough to fill a silence."
-    "我很快發現手語對話並不能消除沉默的尷尬。"
+    "我很快就發現，用手語交談不足以填補沉默。"
 
 # game/script-a1-monday.rpy:1155
 translate zh_hant a1_monday_in_the_nursery_d27954d1:
@@ -1990,7 +1990,7 @@ translate zh_hant a1_monday_in_the_nursery_d27954d1:
 translate zh_hant a1_monday_in_the_nursery_a1176af9:
 
     # "That dark haired girl I noticed before is slumped over her desk at the last row."
-    "之前注意到的那個黑髮女孩正趴在她位於最後一排的桌子上。"
+    "我之前注意到的那個黑髮女孩，正趴在最後一排的桌子上。"
 
 # game/script-a1-monday.rpy:1169
 translate zh_hant a1_monday_in_the_nursery_7adf23da:
@@ -2086,7 +2086,7 @@ translate zh_hant a1_monday_in_the_nursery_3829d84d:
 translate zh_hant a1_monday_in_the_nursery_ac26a6c3:
 
     # hi "Ah, wait! The teacher said I'd have to see the nurse. Where do I have to go?"
-    hi "啊，等等！老師說要我去見見校醫。你知道要怎麼走嗎？"
+    hi "啊，等等！老師說要我去見見校醫。妳知道要怎麼走嗎？"
 
 # game/script-a1-monday.rpy:1222
 translate zh_hant a1_monday_in_the_nursery_35d234b9:
@@ -2296,19 +2296,19 @@ translate zh_hant a1_monday_in_the_nursery_ffe3688d:
 translate zh_hant a1_monday_in_the_nursery_456bb3a5:
 
     # nk "Good. Well, you've probably been briefed about the school enough, so I'll just go over this quickly."
-    nk "好。以前你應該就聽說了關於這所學校的事情，所以我會盡量簡短。"
+    nk "很好。嗯，你大概已經聽夠了關於學校的介紹，所以我就簡單說一下。"
 
 # game/script-a1-monday.rpy:1351
 translate zh_hant a1_monday_in_the_nursery_eeb9f76f:
 
     # nk "We have all kinds of facilities available, mostly physical therapy and such."
-    nk "我們有各種設施供學生們使用，大部分用作理療之類。"
+    nk "我們有各種設施，主要是物理治療之類的。"
 
 # game/script-a1-monday.rpy:1353
 translate zh_hant a1_monday_in_the_nursery_ce5292f6:
 
     # nk "There's always someone from my staff around, even at night, so never hesitate to call us if there is a problem."
-    nk "學校裡總有我手下的人在，晚上也有，如果你發現問題的話千萬不要猶豫。"
+    nk "我的工作人員隨時都在，即使是晚上，所以如果有問題，請隨時打電話給我們。"
 
 # game/script-a1-monday.rpy:1355
 translate zh_hant a1_monday_in_the_nursery_394221d1:
@@ -2326,7 +2326,7 @@ translate zh_hant a1_monday_in_the_nursery_b2f75876:
 translate zh_hant a1_monday_in_the_nursery_5c66f970:
 
     # nk "Well, not exactly. For instance, we don't do brain surgery here."
-    nk "嗯，並不完全是，舉例來說，我們不做開顱手術。"
+    nk "嗯，不完全是。例如，我們這裡不做腦部手術。"
 
 # game/script-a1-monday.rpy:1361
 translate zh_hant a1_monday_in_the_nursery_1132741f:
@@ -2386,13 +2386,13 @@ translate zh_hant a1_monday_in_the_nursery_f5b97905:
 translate zh_hant a1_monday_in_the_nursery_2c148e3b:
 
     # "Smiling, the nurse draws a thick file from a stack of similarly thick files and opens it."
-    "校醫微笑著從一摞厚厚的檔案中抽出與其他檔案大同小異的一份。"
+    "校醫微笑著從一疊同樣厚的檔案中抽出厚厚的一份，把它打開。"
 
 # game/script-a1-monday.rpy:1384
 translate zh_hant a1_monday_in_the_nursery_4ca2f528:
 
     # nk "So, you already have medication for the arrhythmia, just remember to take your pills every morning and evening or it won't be much help."
-    nk "那麼，你已經有心律不整的藥，記得每天早晚吃藥，要不然可沒什麼效果。"
+    nk "那麼，你已經有心律不整的藥，記得每天早晚吃藥，否則會沒什麼效果。"
 
 # game/script-a1-monday.rpy:1389
 translate zh_hant a1_monday_in_the_nursery_35003cfa:
@@ -2416,7 +2416,7 @@ translate zh_hant a1_monday_in_the_nursery_f5df716b:
 translate zh_hant a1_monday_in_the_nursery_184521b6:
 
     # nk "All right, I'm afraid I'm going to have to recommend you refrain from doing that. At least, for the time being."
-    nk "好，那我不得不建議你不要踢足球了，最少目前是這樣。"
+    nk "好吧，恐怕我得建議你不要踢足球了。至少，暫時不要。"
 
 # game/script-a1-monday.rpy:1397
 translate zh_hant a1_monday_in_the_nursery_04be15a3:
@@ -2434,7 +2434,7 @@ translate zh_hant a1_monday_in_the_nursery_9c0a33a3:
 translate zh_hant a1_monday_in_the_nursery_ce06e48e:
 
     # "I guess I never did it out of burning passion for the sport. Just to have something to do."
-    "我猜我從來都沒有對足球有過特殊的喜愛，不過是閒暇時有點事情做罷了。"
+    "我猜我從來都沒有對足球有過強烈的喜好，不過是閒暇時有點事情做罷了。"
 
 # game/script-a1-monday.rpy:1403
 translate zh_hant a1_monday_in_the_nursery_726a527d:
@@ -2470,13 +2470,13 @@ translate zh_hant a1_monday_in_the_nursery_a355e6b0:
 translate zh_hant a1_monday_in_the_nursery_4d897c5f:
 
     # nk "We have physical therapy and such available as I said, but I don't think you really need such heavy measures."
-    nk "我剛才提到過有理療器材，但我不認為你真的需要那麼嚴重的舉措。"
+    nk "我們有物理治療之類的器材，但我不認為你真的需要這麼重的訓練。"
 
 # game/script-a1-monday.rpy:1418
 translate zh_hant a1_monday_in_the_nursery_582e530e:
 
     # nk "Just get some light exercise regularly."
-    nk "你只需要有規律地隨意運動一下就好。"
+    nk "只要定期做些輕度運動就好了。"
 
 # game/script-a1-monday.rpy:1420
 translate zh_hant a1_monday_in_the_nursery_0386f2ec:
@@ -2494,13 +2494,13 @@ translate zh_hant a1_monday_in_the_nursery_2dd006c0:
 translate zh_hant a1_monday_in_the_nursery_9a5f2557:
 
     # nk "You were? Very good."
-    nk "是嗎？非常好。"
+    nk "是嗎？很好。"
 
 # game/script-a1-monday.rpy:1429
 translate zh_hant a1_monday_in_the_nursery_00cb857b:
 
     # nk "At any rate, and I'm sure you've been told this before, you just need to take care not to overexert yourself."
-    nk "無論如何，我想早就有人跟你說過，你需要注意不要過分勞累。"
+    nk "無論如何，我相信你以前也聽說過，你需要注意不要過度勞累。"
 
 # game/script-a1-monday.rpy:1431
 translate zh_hant a1_monday_in_the_nursery_613849c3:
@@ -2512,7 +2512,7 @@ translate zh_hant a1_monday_in_the_nursery_613849c3:
 translate zh_hant a1_monday_in_the_nursery_f396d58b:
 
     # nk "Absolutely no unnecessary risks. Take care of yourself."
-    nk "絕對不要冒不必要的危險。要照顧好你自己。"
+    nk "絕對不要冒不必要的風險。照顧好自己。"
 
 # game/script-a1-monday.rpy:1438
 translate zh_hant a1_monday_in_the_nursery_16a7dec2:
@@ -2524,13 +2524,13 @@ translate zh_hant a1_monday_in_the_nursery_16a7dec2:
 translate zh_hant a1_monday_in_the_nursery_8c55b28a:
 
     # "He goes over my papers one more time and sets them on the desk, obviously content."
-    "他又翻了一次病歷，然後把病歷放回到桌子上，顯然已經很滿意。"
+    "他又翻了一次病歷，然後把病歷放回到桌子上，顯然已經滿意。"
 
 # game/script-a1-monday.rpy:1445
 translate zh_hant a1_monday_in_the_nursery_ed4ec60a:
 
     # nk "Good. That's it, then. Come meet me if you ever need something."
-    nk "很好，那麼就這樣了。如果你需要什麼記得來找我。"
+    nk "很好。那就這樣了。如果你需要什麼，就來找我。"
 
 # game/script-a1-monday.rpy:1452
 translate zh_hant a1_monday_in_the_nursery_abdbfbd3:
@@ -2578,7 +2578,7 @@ translate zh_hant a1_monday_nobodys_room_ce617998:
 translate zh_hant a1_monday_nobodys_room_95991ab2:
 
     # "I should go somewhere too, to prevent me from getting lost."
-    "我應該找點活來幹，以免自己胡思亂想。"
+    "我應該找點事做，以免自己胡思亂想。"
 
 # game/script-a1-monday.rpy:1477
 translate zh_hant a1_monday_nobodys_room_9b9e2e11:
@@ -2596,7 +2596,7 @@ translate zh_hant a1_monday_nobodys_room_32d24f78:
 translate zh_hant a1_monday_nobodys_room_618e9b24:
 
     # "There is a garden of sorts between the school and the dorms; shrubbery, flowers and that overbearing smell of fresh cut grass that fills the atmosphere."
-    "學校和宿舍之間有個小花圃；灌木、花朵和撲鼻的草腥味充斥著路上的空氣。"
+    "學校和宿舍之間有一個花園；灌木、鮮花和那濃郁的剛割過的青草味瀰漫在空氣中。"
 
 # game/script-a1-monday.rpy:1486
 translate zh_hant a1_monday_nobodys_room_63680a1a:
@@ -2614,7 +2614,7 @@ translate zh_hant a1_monday_nobodys_room_8d1dc0fa:
 translate zh_hant a1_monday_nobodys_room_5e649c59:
 
     # "It takes more time than necessary to fish out the key I was given from my pocket."
-    "我花了很長的時間才在我的褲兜裡找到了鑰匙。"
+    "我花了很長的時間才在我的口袋裡裡找到了鑰匙。"
 
 # game/script-a1-monday.rpy:1498
 translate zh_hant a1_monday_nobodys_room_0e8d4d44:
@@ -2626,7 +2626,7 @@ translate zh_hant a1_monday_nobodys_room_0e8d4d44:
 translate zh_hant a1_monday_nobodys_room_83541fe7:
 
     # "Despite the ornate exterior, the inside of the dorm is fairly new, functional, and boring."
-    "儘管外牆裝飾很華麗，宿舍樓內部卻顯得很新，實用，也很無聊。"
+    "除了外牆裝飾很華麗，宿舍樓內部也顯得很新，實用，但也很無聊。"
 
 # game/script-a1-monday.rpy:1502
 translate zh_hant a1_monday_nobodys_room_8607f636:
@@ -2638,13 +2638,13 @@ translate zh_hant a1_monday_nobodys_room_8607f636:
 translate zh_hant a1_monday_nobodys_room_0b9957f4:
 
     # "I poke my head around the corner of the common room door."
-    "我往公共活動室的門裡看了看。"
+    "我從交誼廳門的角落探出頭來。"
 
 # game/script-a1-monday.rpy:1506
 translate zh_hant a1_monday_nobodys_room_f957e33f:
 
     # "Inside a few students are watching the television."
-    "在裡面有幾個學生在看電視。"
+    "裡面有幾個學生在看電視。"
 
 # game/script-a1-monday.rpy:1508
 translate zh_hant a1_monday_nobodys_room_df8b8668:
@@ -2668,13 +2668,13 @@ translate zh_hant a1_monday_nobodys_room_941ff301:
 translate zh_hant a1_monday_nobodys_room_cbb5dc49:
 
     # "Here, small corridors branch off from the main hallway."
-    "大走廊在這裡分岔成各個小門廊。"
+    "在這裡，小走廊從主走廊分支出來。"
 
 # game/script-a1-monday.rpy:1519
 translate zh_hant a1_monday_nobodys_room_fbf5c306:
 
     # "Each of these minor halls seems to have a toilet and shower, as well as four rooms."
-    "每個門廊都有一個廁所，一個浴室，還有四間房間。"
+    "這些小廳似乎每個都有一個廁所和淋浴間，還有四個房間。"
 
 # game/script-a1-monday.rpy:1521
 translate zh_hant a1_monday_nobodys_room_115bd649:
@@ -2686,19 +2686,19 @@ translate zh_hant a1_monday_nobodys_room_115bd649:
 translate zh_hant a1_monday_nobodys_room_d85d7c63:
 
     # "The name plates on the rooms adjacent to mine are blank. I guess there are just two of us here."
-    "相鄰房間門口的名字牌是空的，我猜這裡就我們兩個人。"
+    "我隔壁房間的名牌是空白的。我想這裡只有我們兩個人。"
 
 # game/script-a1-monday.rpy:1528
 translate zh_hant a1_monday_nobodys_room_a8b293a0:
 
     # "Light shines from below the door of room 117, so I knock lightly."
-    "光從117號房的門縫底下漏了出來，我輕輕敲了敲門。"
+    "117號房門下透出光線，所以我輕輕地敲了敲門。"
 
 # game/script-a1-monday.rpy:1530
 translate zh_hant a1_monday_nobodys_room_2a6ce959:
 
     # hi "Hello, is anyone home?"
-    hi "有人在嗎？"
+    hi "你好，有人在嗎？"
 
 # game/script-a1-monday.rpy:1532
 translate zh_hant a1_monday_nobodys_room_f67b5981:
@@ -2716,7 +2716,7 @@ translate zh_hant a1_monday_nobodys_room_aa037744:
 translate zh_hant a1_monday_nobodys_room_24a8420d:
 
     # ke_ "Who is it?"
-    ke_ "你哪位？"
+    ke_ "是誰？"
 
 # game/script-a1-monday.rpy:1547
 translate zh_hant a1_monday_nobodys_room_bb285c22:
@@ -2746,7 +2746,7 @@ translate zh_hant a1_monday_nobodys_room_10cb9290:
 translate zh_hant a1_monday_nobodys_room_3ad12cb7:
 
     # ke_ "Oh, 'sup dude? The name's Kenji."
-    ke_ "哦，好呀夥計！我的名字是健二。"
+    ke_ "哦，老兄，你好嗎？我叫健二。"
 
 # game/script-a1-monday.rpy:1563
 translate zh_hant a1_monday_nobodys_room_2e128558:
@@ -2764,25 +2764,25 @@ translate zh_hant a1_monday_nobodys_room_782216ab:
 translate zh_hant a1_monday_nobodys_room_343585ee:
 
     # ke "There were some suspicious-looking people going in and out of your room earlier."
-    ke "今天有過一些很可疑的人在你的房間裡進進出出。"
+    ke "早些時候，有一些可疑的人進出你的房間。"
 
 # game/script-a1-monday.rpy:1569
 translate zh_hant a1_monday_nobodys_room_c28424e8:
 
     # hi "It was probably my parents."
-    hi "應該是我的父母。"
+    hi "大概是我父母。"
 
 # game/script-a1-monday.rpy:1574
 translate zh_hant a1_monday_nobodys_room_baeb342e:
 
     # ke "Your parents? You sure? 'Cause they could've been some other people, too. You can't judge a book by its cover."
-    ke "你的父母？你確定嗎？因為很有可能他們是一些別的人，要知道隔皮看不見瓤。"
+    ke "你父母？你確定嗎？因為也可能是其他人。你不能以貌取人。"
 
 # game/script-a1-monday.rpy:1576
 translate zh_hant a1_monday_nobodys_room_b724408c:
 
     # "His out-of-place proverb is left hanging between us awkwardly as I try to think of some way to respond."
-    "一句冷場的諺語尷尬地阻隔在兩人之間，我努力嘗試著回應。"
+    "他那句不合時宜的諺語尷尬地懸在我們之間，我試圖想辦法回應。"
 
 # game/script-a1-monday.rpy:1578
 translate zh_hant a1_monday_nobodys_room_0fc067d0:
@@ -2818,7 +2818,7 @@ translate zh_hant a1_monday_nobodys_room_12c2656a:
 translate zh_hant a1_monday_nobodys_room_11180ec4:
 
     # hi "Does that mean I shouldn't get to know you, either?"
-    hi "你的意思是不是說，我也不應該了解你？"
+    hi "那是不是說我也不該認識你？"
 
 # game/script-a1-monday.rpy:1596
 translate zh_hant a1_monday_nobodys_room_7c9b0b9e:
@@ -2842,7 +2842,7 @@ translate zh_hant a1_monday_nobodys_room_abc061c6:
 translate zh_hant a1_monday_nobodys_room_7e146275:
 
     # ke "Probably."
-    ke "大概是。"
+    ke "大概吧。"
 
 # game/script-a1-monday.rpy:1610
 translate zh_hant a1_monday_nobodys_room_54d8b597:
@@ -2860,25 +2860,25 @@ translate zh_hant a1_monday_nobodys_room_934ea0c0:
 translate zh_hant a1_monday_nobodys_room_823da588:
 
     # ke "Never mind, it doesn't matter."
-    ke "沒關係，沒什麼關係。"
+    ke "沒關係，不重要。"
 
 # game/script-a1-monday.rpy:1627
 translate zh_hant a1_monday_nobodys_room_38f22898:
 
     # "With that, he turns, fumbles around for a moment in search of the door handle,{w=0.3}{nw}"
-    "說過這句話之後，他轉身，摸索著門的把手，{w=0.3}{nw}"
+    "說完，他轉身，摸索了一會兒門把，{w=0.3}{nw}"
 
 # game/script-a1-monday.rpy:1631
 translate zh_hant a1_monday_nobodys_room_03d84824:
 
     # extend " and shuts the door behind him."
-    extend "然後把門關上了。"
+    extend "然後關上了身後的門。"
 
 # game/script-a1-monday.rpy:1633
 translate zh_hant a1_monday_nobodys_room_bbe043d3:
 
     # "I slide the key into the lock of the door marked 119."
-    "我把鑰匙插入了119號房的鎖裡面。"
+    "我把鑰匙插入了119號房的門鎖裡面。"
 
 # game/script-a1-monday.rpy:1640
 translate zh_hant a1_monday_nobodys_room_1229ffda:
@@ -2920,13 +2920,13 @@ translate zh_hant a1_monday_nobodys_room_f35b2f64:
 translate zh_hant a1_monday_nobodys_room_c16cf1bf:
 
     # "Well, at least I don't have to worry about unpacking."
-    "至少我不用擔心解包了。"
+    "嗯，至少我不用費心打開行李了。"
 
 # game/script-a1-monday.rpy:1656
 translate zh_hant a1_monday_nobodys_room_6fb18cff:
 
     # "I kind of hoped I would have, then there would be something to do."
-    "我有些希望我能自己解包，這樣我能有一些事情做。"
+    "我倒希望我需要，那樣我就有一些事可做了。"
 
 # game/script-a1-monday.rpy:1658
 translate zh_hant a1_monday_nobodys_room_c8f2bfcd:
@@ -2944,13 +2944,13 @@ translate zh_hant a1_monday_nobodys_room_7c58325a:
 translate zh_hant a1_monday_nobodys_room_b6ad414a:
 
     # "Lying there makes me want to read something, but I have nothing with me."
-    "躺在這裡讓我想要讀些什麼，但是我沒有任何可讀的。"
+    "躺在那裡讓我想讀點什麼，但我什麼也沒帶。"
 
 # game/script-a1-monday.rpy:1664
 translate zh_hant a1_monday_nobodys_room_81db5e44:
 
     # "I wonder if the hospital conditioned me for wanting to read whenever I have nothing to do."
-    "我猜是不是醫院把我調教成了無所事事時想讀書的那類人。"
+    "我不知道是不是醫院讓我習慣了沒事就想看書。"
 
 # game/script-a1-monday.rpy:1666
 translate zh_hant a1_monday_nobodys_room_e832e909:
@@ -2986,7 +2986,7 @@ translate zh_hant a1_monday_nobodys_room_e221524e:
 translate zh_hant a1_monday_nobodys_room_fd94a3a2:
 
     # "Yeah, I'll do that."
-    "沒錯，就這麼定了。"
+    "沒錯，就這麼決定了。"
 
 # game/script-a1-monday.rpy:1678
 translate zh_hant a1_monday_nobodys_room_70c7540f:
@@ -2998,7 +2998,7 @@ translate zh_hant a1_monday_nobodys_room_70c7540f:
 translate zh_hant a1_monday_nobodys_room_be9470dc:
 
     # "The bottles of medications neatly arranged on my night table catch my eye."
-    "床頭櫃上整齊擺放的藥瓶吸引了我的目光。"
+    "床頭櫃上整齊排列的藥瓶吸引了我的目光。"
 
 # game/script-a1-monday.rpy:1692
 translate zh_hant a1_monday_nobodys_room_8221a579:
@@ -3016,7 +3016,7 @@ translate zh_hant a1_monday_nobodys_room_dcab4a88:
 translate zh_hant a1_monday_nobodys_room_a55b4efc:
 
     # "It's kinda twisted, having your life depend on chemicals like this. I resent it a little, but what choice do I have?"
-    "這種生活有些扭曲，要把我的生命建立在化學品上。我反感這一點，但是我又有什麼選擇呢？"
+    "這種生活有些扭曲，要把我的生命建立在化學品上。我對這很反感，但是又有什麼選擇呢？"
 
 # game/script-a1-monday.rpy:1707
 translate zh_hant a1_monday_nobodys_room_074e9993:
@@ -3034,13 +3034,13 @@ translate zh_hant a1_monday_nobodys_room_ce617998_1:
 translate zh_hant a1_monday_nobodys_room_bd65a824:
 
     # "I lie down again, feeling hollow and uncertain, and after that I keep staring at the blank, unfamiliar ceiling for a long time."
-    "我再次躺下，心裡空虛茫然。之後我長時間盯著這個空無一物的陌生天花板。"
+    "我再次躺下，心裡空虛茫然。之後我很長一段時間一直盯著這個空無一物的陌生天花板。"
 
 # game/script-a1-monday.rpy:1718
 translate zh_hant a1_monday_nobodys_room_029db9d7:
 
     # "It doesn't start looking any more familiar, not even after darkness falls and long shadows draw across my room like fingers."
-    "即使夜幕低垂，細長的影子像手指一樣劃過整個房間，天花板依然沒有變得更為我熟悉。"
+    "在天黑之後，細長的影子像手指一樣劃過我的房間，它也沒有變得讓人更熟悉。"
 
 # game/script-a1-monday.rpy:1720
 translate zh_hant a1_monday_nobodys_room_a78636f5:
@@ -3058,7 +3058,7 @@ translate zh_hant a1_monday_nobodys_room_25eeceda:
 translate zh_hant a1_monday_nobodys_room_3031eee0:
 
     # "The night beckons me to sleep, and I feel the coldness of unfamiliarity and fear creeping up my spine once again."
-    "夜色帶來濃濃的睡意，我感到了陌生帶來的冰冷，恐懼又一次順著我的脊背向上爬行。"
+    "夜色帶來濃濃的睡意，但陌生帶來的冰冷和恐懼又一次順著我的脊背向上爬行。"
 
 # game/script-a1-monday.rpy:1726
 translate zh_hant a1_monday_nobodys_room_7220b124:
@@ -3070,7 +3070,7 @@ translate zh_hant a1_monday_nobodys_room_7220b124:
 translate zh_hant a1c1o1_d1b041ee:
 
     # hi "Why? Do I have to?"
-    hi "為什麼？我一定要做嗎？"
+    hi "蛤？一定要嗎？"
 
 # game/script-a1-monday.rpy:1739
 translate zh_hant a1c1o1_c4628c14:
@@ -3094,7 +3094,7 @@ translate zh_hant a1c1o1_03b6d61b:
 translate zh_hant a1c1o2_94d38af9:
 
     # hi "Yeah, sure. I mean, isn't that normal?"
-    hi "啊，好的。難道不是慣例來的嗎？"
+    hi "啊，好的。難道不是都須要嗎？"
 
 # game/script-a1-monday.rpy:1750
 translate zh_hant a1c1o2_f8b8190a:
@@ -3124,7 +3124,7 @@ translate zh_hant a1c1o2_03b6d61b:
 translate zh_hant a1c2o1_18fd2687:
 
     # hi "Oh, yeah. Is there a library in the school? Lately I've gotten into reading a lot so I'd like to check it out."
-    hi "嗯，有啊。這學校有圖書館嗎？最近我很喜歡讀書，所以想去看看。"
+    hi "嗯，有啊。這學校有圖書館嗎？最近我讀不少書，所以想去看看。"
 
 # game/script-a1-monday.rpy:1763
 translate zh_hant a1c2o1_c4e65163:
@@ -3154,13 +3154,13 @@ translate zh_hant a1c2o1_e7bca4f8:
 translate zh_hant a1c2o2_e9a4faa1:
 
     # "Shizune intrigues me, and I kind of want to ask something about her."
-    "靜音引起了我的興趣，我想問一些關於她自己的事情。"
+    "靜音引起了我的興趣，我想問一些關於她的事情。"
 
 # game/script-a1-monday.rpy:1776
 translate zh_hant a1c2o2_a3cb2721:
 
     # "But I can't really ask about something that personal, can I?"
-    "但我總不能問這些私人問題，對吧？"
+    "但我好像不該問這些私人問題，對吧？"
 
 # game/script-a1-monday.rpy:1778
 translate zh_hant a1c2o2_08292c64:
@@ -3178,13 +3178,13 @@ translate zh_hant a1c2o2_70ea3af9:
 translate zh_hant a1c2o3_cfbb38d3:
 
     # hi "I can't think of anything, really."
-    hi "我什麼都想不出來，真的。"
+    hi "我想不出來還有什麼，真的。"
 
 # game/script-a1-monday.rpy:1790
 translate zh_hant a1c2o3_948689c7:
 
     # mi "Ooh! That means we've been good guides, doesn't it, doesn't it~?"
-    mi "嗚哦！那就說明我們是非常好的嚮導，對吧？對吧～？"
+    mi "嗚哦！那就表示我們是非常好的導遊，對吧？對吧～？"
 
 # game/script-a1-monday.rpy:1792
 translate zh_hant a1c2o3_ce617998:
@@ -3234,7 +3234,7 @@ translate zh_hant strings:
 
     # game/script-a1-monday.rpy:1652
     old "Hi Hicchan. We've unpacked your things and made your bed.\nThey said that if these don't fit then you should go to the office tomorrow.\nIf you have any problems, you can always call us.\n\nLove, Mom and Dad"
-    new "親愛的小久：\n我們把你的行李打開了，然後鋪好了床。\n他們說如果不合適的話，你明天應該去辦公室。\n如果你有任何問題的話，你可以給我們打電話。\n\n愛你的，父親和母親。"
+    new "嗨，小久：\n我們已經幫你把行李打開了，床也鋪好了。\n他們說如果衣服不合身，你明天就去辦公室。\n如果你有任何問題，隨時可以打電話給我們。\n\n愛你的，爸爸媽媽。"
 
     # game/script-a1-monday.rpy:1701
     old "Hisao Nakai\n\nTwo tablets daily to stay alive"

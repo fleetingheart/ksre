@@ -46,7 +46,7 @@ translate zh_hant a2_lilly_earl_grey_9d2e4b78:
 translate zh_hant a2_lilly_earl_grey_f481e23b:
 
     # "The bright colors of the fireworks fill my mind, as do the two girls with whom I spent my time watching them. It feels strange to be moved so much by people I know so little about."
-    "昨晚的焰火那明亮的色彩在我的腦子裡縈繞不去，同樣的還有和我一起共度時光欣賞焰火的兩個女孩。很奇怪，我對那兩人了解得如此之少，卻被她們感動了如此之多。"
+    "昨晚的煙火那明亮的色彩在我的腦子裡縈繞不去，同樣的還有和我一起共度時光欣賞煙火的兩個女孩。很奇怪，我對那兩人了解得如此之少，卻被她們感動了如此之多。"
 
 # game/script-a2-lilly.rpy:45
 translate zh_hant a2_lilly_earl_grey_f5543ea2:
@@ -322,7 +322,7 @@ translate zh_hant a2_lilly_earl_grey_22aef5a0:
 translate zh_hant a2_lilly_earl_grey_1e3d9a46:
 
     # ha "Should I get the chess set out?"
-    ha "要我把國際象棋擺好嗎？"
+    ha "要我把西洋棋擺好嗎？"
 
 # game/script-a2-lilly.rpy:283
 translate zh_hant a2_lilly_earl_grey_883ce386:
@@ -364,7 +364,7 @@ translate zh_hant a2_lilly_earl_grey_387bc699:
 translate zh_hant a2_lilly_earl_grey_6e6173c1:
 
     # "As I prepare tea for the three of us, I can hear the small wooden pieces being set on the board. I wonder how good Lilly is at chess, given her circumstances."
-    "在我為我們三個人泡茶的時候，我能聽到木製的棋子在棋盤上擺放的聲音。我很好奇莉莉國際象棋的功力到底如何，考慮到她那樣的情況。"
+    "在我為我們三個人泡茶的時候，我能聽到木製的棋子在棋盤上擺放的聲音。我很好奇莉莉西洋棋的功力到底如何，考慮到她那樣的情況。"
 
 # game/script-a2-lilly.rpy:326
 translate zh_hant a2_lilly_earl_grey_5b512e1f:
@@ -496,7 +496,7 @@ translate zh_hant a2_lilly_earl_grey_e7d05f59:
 translate zh_hant a2_lilly_earl_grey_0d73c6be:
 
     # "I can't say I've ever liked the idea of chess as a spectator sport, but given its unique nature, for once I'm rapt in watching the game unfold."
-    "我大概不曾認為過國際象棋是什麼觀賞性很強的運動，但在這個特殊的環境下，這回我被比賽的進展給吸引了。"
+    "我大概不曾認為過西洋棋是什麼觀賞性很強的運動，但在這個特殊的環境下，這回我被比賽的進展給吸引了。"
 
 # game/script-a2-lilly.rpy:448
 translate zh_hant a2_lilly_earl_grey_7863142a:
@@ -598,7 +598,7 @@ translate zh_hant a2_lilly_earl_grey_88394bf5:
 translate zh_hant a2_lilly_earl_grey_a787d79f:
 
     # hi "How long have you two been playing?"
-    hi "你們倆是從什麼時候開始下國際象棋的？"
+    hi "你們倆是從什麼時候開始下西洋棋的？"
 
 # game/script-a2-lilly.rpy:521
 translate zh_hant a2_lilly_earl_grey_aaea8c8c:
@@ -616,7 +616,7 @@ translate zh_hant a2_lilly_earl_grey_29cd0152:
 translate zh_hant a2_lilly_earl_grey_a5813e3d:
 
     # li "Hanako taught me how to play soon after I met her. I can beat her every now and then… but that's a rarity. I don't seem to have the right mindset for it."
-    li "在我遇到華子不久之後她開始教我怎麼下國際象棋。我偶爾能下贏她……不過很少見。我覺得我的心態不適合下國際象棋。"
+    li "在我遇到華子不久之後她開始教我怎麼下西洋棋。我偶爾能下贏她……不過很少見。我覺得我的心態不適合下西洋棋。"
 
 # game/script-a2-lilly.rpy:534
 translate zh_hant a2_lilly_earl_grey_b87fcf4e:
@@ -2428,7 +2428,7 @@ translate zh_hant a2_lilly_presents_and_presence_d6792514:
 translate zh_hant a2_lilly_presents_and_presence_8f5e6aef:
 
     # "In a little while, we come to a small shop beside a convenience store."
-    "不一會兒，我們到了一家坐落在便利店旁邊的小商店。"
+    "不一會兒，我們到了一家坐落在便利商店旁邊的小商店。"
 
 # game/script-a2-lilly.rpy:1733
 translate zh_hant a2_lilly_presents_and_presence_3f512ad9:
@@ -5614,7 +5614,7 @@ translate zh_hant a2_lilly_a_brief_history_of_thyme_b953049b:
 translate zh_hant a2_lilly_a_brief_history_of_thyme_d1f78157:
 
     # hi "Let's see here… eggs, bread, cereal, thyme, lettuce, shaved ham…"
-    hi "讓我看看……雞蛋、麪包、麥片、百里香、生菜、火腿……"
+    hi "讓我看看……雞蛋、麵包、麥片、百里香、生菜、火腿……"
 
 # game/script-a2-lilly.rpy:3879
 translate zh_hant a2_lilly_a_brief_history_of_thyme_7d23dc59:
@@ -7224,7 +7224,7 @@ translate zh_hant a2_lilly_little_wing_080fb3ab:
 translate zh_hant a2_lilly_little_wing_7bfcf171:
 
     # "I can't help raising an eyebrow as she walks over to us and sits next to me, doing her utmost to avoid looking up even as she brings her cafeteria bread to her mouth."
-    "她在我身邊坐下，就連把她從餐廳買來的麪包送進嘴裡的時候都在盡力不抬頭看。看到這一幕，我不禁抬起一條眉毛。"
+    "她在我身邊坐下，就連把她從餐廳買來的麵包送進嘴裡的時候都在盡力不抬頭看。看到這一幕，我不禁抬起一條眉毛。"
 
 # game/script-a2-lilly.rpy:4938
 translate zh_hant a2_lilly_little_wing_de5cae52:
@@ -8668,7 +8668,7 @@ translate zh_hant strings:
 
     # game/script-a2-lilly.rpy:3693
     old "{vspace=30}Eggs x2\nBread loaf x1\nWhole-grain cereal x1\nThyme x1\n"
-    new "{vspace=30}雞蛋 x2\n條狀麪包 x1\n全谷麥片 x1\n百里香 x1\n"
+    new "{vspace=30}雞蛋 x2\n條狀麵包 x1\n全谷麥片 x1\n百里香 x1\n"
 
     # game/script-a2-lilly.rpy:4219
     old "Ah, now I've piqued her curiosity. It feels kind of overly personal to talk about though…"

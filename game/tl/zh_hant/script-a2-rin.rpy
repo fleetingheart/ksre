@@ -310,7 +310,7 @@ translate zh_hant a2_rin_a_wider_field_of_vision_0a2703ce:
 translate zh_hant a2_rin_a_wider_field_of_vision_dab306b1:
 
     # hi "OK, I'll go pick up some bread or something first."
-    hi "好吧，我先去拿點東西，麪包什麼的。"
+    hi "好吧，我先去拿點東西，麵包什麼的。"
 
 # game/script-a2-rin.rpy:187
 translate zh_hant a2_rin_a_wider_field_of_vision_044d4aeb:
@@ -322,7 +322,7 @@ translate zh_hant a2_rin_a_wider_field_of_vision_044d4aeb:
 translate zh_hant a2_rin_a_wider_field_of_vision_894d2ff6:
 
     # emi "No no, I'll go and deliver these super-quick, and then go buy lunch for us. And Rin, too, of course. What kind of bread do you like?"
-    emi "不用，不用，我馬上就把這些送過去，超級快的，然後就去買我們的午飯。當然，還有琳的。你想要哪種麪包？"
+    emi "不用，不用，我馬上就把這些送過去，超級快的，然後就去買我們的午飯。當然，還有琳的。你想要哪種麵包？"
 
 # game/script-a2-rin.rpy:194
 translate zh_hant a2_rin_a_wider_field_of_vision_3607cb27:
@@ -862,7 +862,7 @@ translate zh_hant a2_rin_a_wider_field_of_vision_deb3b0cd:
 translate zh_hant a2_rin_a_wider_field_of_vision_fa41b580:
 
     # "Emi's voice is scandalized, but she quickly takes a step backward, pressing her hands against the front of her skirt so abruptly that the parcels of bread she was carrying fall."
-    "笑美的聲音非常憤慨，她迅速地向後跳了一步，雙手捂住裙子的前部，整個動作非常突然，讓她手上的幾袋麪包掉了。"
+    "笑美的聲音非常憤慨，她迅速地向後跳了一步，雙手捂住裙子的前部，整個動作非常突然，讓她手上的幾袋麵包掉了。"
 
 # game/script-a2-rin.rpy:489
 translate zh_hant a2_rin_a_wider_field_of_vision_00210662:
@@ -898,7 +898,7 @@ translate zh_hant a2_rin_a_wider_field_of_vision_b4b26cfb:
 translate zh_hant a2_rin_a_wider_field_of_vision_3c198e5f:
 
     # emi "Anyway, here's your bread. Sorry it took a while."
-    emi "總之，這是你們的麪包。抱歉久等了。"
+    emi "總之，這是你們的麵包。抱歉久等了。"
 
 # game/script-a2-rin.rpy:526
 translate zh_hant a2_rin_a_wider_field_of_vision_2a5fb438:
@@ -910,19 +910,19 @@ translate zh_hant a2_rin_a_wider_field_of_vision_2a5fb438:
 translate zh_hant a2_rin_a_wider_field_of_vision_1e3bdb0b:
 
     # "I pull myself up into a sitting position and gratefully accept the bread Emi is offering."
-    "我把自己撐坐起來，感激地接過了笑美遞來的麪包。"
+    "我把自己撐坐起來，感激地接過了笑美遞來的麵包。"
 
 # game/script-a2-rin.rpy:530
 translate zh_hant a2_rin_a_wider_field_of_vision_08bde833:
 
     # "All three of us ravenously dig into the simple meal. The bread is surprisingly decent and readily fills my stomach."
-    "我們三人都狼吞虎嚥地吃著自己的簡餐。讓人吃驚，這些麪包的品質非常好，輕易就填飽了我的肚子。"
+    "我們三人都狼吞虎嚥地吃著自己的簡餐。讓人吃驚，這些麵包的品質非常好，輕易就填飽了我的肚子。"
 
 # game/script-a2-rin.rpy:548
 translate zh_hant a2_rin_a_wider_field_of_vision_fc36005f:
 
     # "I follow from the corner of my eye the skill with which Rin handles her bread between her feet."
-    "我用餘光向一旁瞟去，看琳是怎麼用腳去抓取麪包的。"
+    "我用餘光向一旁瞟去，看琳是怎麼用腳去抓取麵包的。"
 
 # game/script-a2-rin.rpy:553
 translate zh_hant a2_rin_a_wider_field_of_vision_ad26ca92:
@@ -2128,7 +2128,7 @@ translate zh_hant a2_rin_self_study_67f3aec3:
 translate zh_hant a2_rin_self_study_a047a375:
 
     # "There's a big forest in the hills behind the school, or I could go down to the convenience store."
-    "學校背後的山丘上有一大片森林，我還可以下山去便利店。"
+    "學校背後的山丘上有一大片森林，我還可以下山去便利商店。"
 
 # game/script-a2-rin.rpy:1403
 translate zh_hant a2_rin_self_study_eaca05f6:
@@ -5134,11 +5134,11 @@ translate zh_hant a2_rin_eternity_in_an_hour_ea234abd:
     # no "To see a world in a grain of sand"
     no "以一沙一礫見世界，"
 
-# game/script-a2-rin.rpy:3434
-translate zh_hant a2_rin_eternity_in_an_hour_f89897c0:
+# game/script-a2-rin.rpy:3445
+translate zh_hant a2_rin_eternity_in_an_hour_3bd0996d:
 
-    # extend "{vspace=30}And a heaven in a wild flower,"
-    extend "{vspace=30}繪野花荒草為天堂，"
+    # extend "\nAnd a heaven in a wild flower,"
+    extend "\n繪野花荒草為天堂，"
 
 # game/script-a2-rin.rpy:3436
 translate zh_hant a2_rin_eternity_in_an_hour_9233a1f4:
@@ -5146,11 +5146,11 @@ translate zh_hant a2_rin_eternity_in_an_hour_9233a1f4:
     # no "Hold infinity in the palm of your hand"
     no "握無垠之境於掌間，"
 
-# game/script-a2-rin.rpy:3438
-translate zh_hant a2_rin_eternity_in_an_hour_5deed391:
+# game/script-a2-rin.rpy:3449
+translate zh_hant a2_rin_eternity_in_an_hour_83447599:
 
-    # extend "{vspace=30}And eternity in an hour."
-    extend "{vspace=30}融亙古萬世入一時。"
+    # extend "\nAnd eternity in an hour."
+    extend "\n融亙古萬世入一時。"
 
 # game/script-a2-rin.rpy:3440
 translate zh_hant a2_rin_eternity_in_an_hour_12e73d27:
@@ -6166,7 +6166,7 @@ translate zh_hant a2_rin_underwater_and_maple_b20e0456:
 translate zh_hant a2_rin_underwater_and_maple_7964be6e:
 
     # "He suddenly reaches to his pocket and draws out a ballpoint pen and what looks like a convenience store receipt."
-    "他突然把手伸入口袋，拿出了一支圓珠筆，還有一張看起來像是便利店發票的東西。"
+    "他突然把手伸入口袋，拿出了一支圓珠筆，還有一張看起來像是便利商店發票的東西。"
 
 # game/script-a2-rin.rpy:4080
 translate zh_hant a2_rin_underwater_and_maple_4bb763ce:
@@ -7618,7 +7618,7 @@ translate zh_hant a2_rin_umbrella_logic_cake_58790d74:
 translate zh_hant a2_rin_umbrella_logic_cake_ce3732e8:
 
     # "Emi had planned a picnic at some nearby park, with snacks aplenty bought from the convenience store, but with the weather this gloomy, it seems risky."
-    "笑美把野餐訂在了附近的某個公園裡，還從便利店裡買了很多零食，不過現在天氣那麼陰沉，也許這計劃有些冒險。"
+    "笑美把野餐訂在了附近的某個公園裡，還從便利商店裡買了很多零食，不過現在天氣那麼陰沉，也許這計劃有些冒險。"
 
 # game/script-a2-rin.rpy:5028
 translate zh_hant a2_rin_umbrella_logic_cake_7b26a75b:
@@ -7732,7 +7732,7 @@ translate zh_hant a2_rin_umbrella_logic_cake_8ed983ef:
 translate zh_hant a2_rin_umbrella_logic_cake_0a6494df:
 
     # "We walk along the road leading down from the school towards the convenience store, the clouds casting their dark shadow down on us. The weather seems to be taking a turn for the worse and I am pretty sure I just felt a raindrop on my head."
-    "我們沿著連接學校和便利店的小路走著，雲將陰沉的影子投在我們身上。天氣似乎變得更壞了，而且我確信剛才感到了一滴雨。"
+    "我們沿著連接學校和便利商店的小路走著，雲將陰沉的影子投在我們身上。天氣似乎變得更壞了，而且我確信剛才感到了一滴雨。"
 
 # game/script-a2-rin.rpy:5106
 translate zh_hant a2_rin_umbrella_logic_cake_f3c28e11:

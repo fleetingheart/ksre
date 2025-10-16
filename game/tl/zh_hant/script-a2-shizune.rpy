@@ -22,7 +22,7 @@ translate zh_hant a2_shizune_message_passing_f8ec4968:
 translate zh_hant a2_shizune_message_passing_9f6d1f3d:
 
     # n "Ah, it's so unfair. How can they do this? They hold a festival that is the culmination of what has to be at least a few weeks' worth of work on a Sunday, and then follow up with exams starting the very next morning?"
-    n "唉，這也太不厚道了。學校怎麼能這樣？把耗費了至少幾周時間準備的文化祭安排在星期天，緊接著就在第二天上午安排考試？"
+    n "唉，這也太不厚道了。學校怎麼能這樣？把耗費了至少幾周時間準備的園遊會安排在星期天，緊接著就在第二天上午安排考試？"
 
 # game/script-a2-shizune.rpy:24
 translate zh_hant a2_shizune_message_passing_288c3239:
@@ -58,7 +58,7 @@ translate zh_hant a2_shizune_message_passing_a8e10ab2:
 translate zh_hant a2_shizune_message_passing_e3c899a0:
 
     # n "I put down the notes I'm reviewing for a second and stare out at the school grounds, still littered with festival stalls."
-    n "不一會兒我便放下了手中的筆記，出神地望著學校操場，文化祭的攤位仍雜亂地散落著。"
+    n "不一會兒我便放下了手中的筆記，出神地望著學校操場，園遊會的攤位仍雜亂地散落著。"
 
 # game/script-a2-shizune.rpy:43
 translate zh_hant a2_shizune_message_passing_9194aafc:
@@ -2976,7 +2976,7 @@ translate zh_hant a2_shizune_advanced_game_theory_e54d4f59:
 translate zh_hant a2_shizune_advanced_game_theory_9737896c:
 
     # "They pull a chessboard from behind them with a flourish like two junior magicians. Well, magic does require some deft sleight of hand, and they've got that in spades."
-    "她們從身後拿出來一張國際象棋棋盤，動作誇張得如同兩個見習魔術師一樣。好吧，魔術的確需要雙快手，而她倆的手速肯定算得上是專家級別了。"
+    "她們從身後拿出來一張西洋棋棋盤，動作誇張得如同兩個見習魔術師一樣。好吧，魔術的確需要雙快手，而她倆的手速肯定算得上是專家級別了。"
 
 # game/script-a2-shizune.rpy:1885
 translate zh_hant a2_shizune_advanced_game_theory_87044b7c:
@@ -3108,7 +3108,7 @@ translate zh_hant a2_shizune_advanced_game_theory_ef2b123c_9:
 translate zh_hant a2_shizune_advanced_game_theory_8bb7dcda:
 
     # mi "Do you like chess?"
-    mi "你喜歡下國際象棋嗎？"
+    mi "你喜歡下西洋棋嗎？"
 
 # game/script-a2-shizune.rpy:1988
 translate zh_hant a2_shizune_advanced_game_theory_fea36490:
@@ -3464,7 +3464,7 @@ translate zh_hant a2_shizune_advanced_game_theory_e7420011:
 translate zh_hant a2_shizune_advanced_game_theory_6bb2c755:
 
     # "It's the fastest game I've seen in my life."
-    "同時，這也是我人生中見過的下得最快的一局國際象棋。"
+    "同時，這也是我人生中見過的下得最快的一局西洋棋。"
 
 # game/script-a2-shizune.rpy:2228
 translate zh_hant a2_shizune_advanced_game_theory_89f57718:
@@ -3884,13 +3884,13 @@ translate zh_hant a2_shizune_bread_scissors_paper_86bdb112:
 translate zh_hant a2_shizune_bread_scissors_paper_05b4d0da:
 
     # ssh "It wouldn't have made sense to bore you with cleanup duty after you enjoyed the festival so much."
-    ssh "如果讓你那麼享受了文化祭之後給你這種無聊的清理工作，那也太不合理了。"
+    ssh "如果讓你那麼享受了園遊會之後給你這種無聊的清理工作，那也太不合理了。"
 
 # game/script-a2-shizune.rpy:2521
 translate zh_hant a2_shizune_bread_scissors_paper_1cf0b984:
 
     # mi "It wouldn't have made sense to bore you with making you clean up right after the festival, it would have ruined the fun."
-    mi "剛過完文化祭就讓你幹那麼無聊的清理工作也太不合理了，那樣會毀掉節日的歡樂。"
+    mi "剛過完園遊會就讓你幹那麼無聊的清理工作也太不合理了，那樣會毀掉節日的歡樂。"
 
 # game/script-a2-shizune.rpy:2526
 translate zh_hant a2_shizune_bread_scissors_paper_43558f05:
@@ -4052,7 +4052,7 @@ translate zh_hant a2_shizune_bread_scissors_paper_e1e685f3:
 translate zh_hant a2_shizune_bread_scissors_paper_4b488ba6:
 
     # hi "The veal cutlet bread is always sold out in the first minute of lunch. I'm impressed you managed to obtain one."
-    "牛排麪包總是在開賣後一分鐘內就售罄了。你能夠拿到一塊可真是厲害啊。"
+    "牛排麵包總是在開賣後一分鐘內就售罄了。你能夠拿到一塊可真是厲害啊。"
 
 # game/script-a2-shizune.rpy:2635
 translate zh_hant a2_shizune_bread_scissors_paper_85879fae:
@@ -4076,19 +4076,19 @@ translate zh_hant a2_shizune_bread_scissors_paper_1c2b856d:
 translate zh_hant a2_shizune_bread_scissors_paper_57e99384:
 
     # "I don't budge an inch, prepared to fight for this bread with my life. I might never have another chance to eat this."
-    "我寸步不讓，早就準備為這塊麪包拼命。我可能以後不會再有吃到的機會了。"
+    "我寸步不讓，早就準備為這塊麵包拼命。我可能以後不會再有吃到的機會了。"
 
 # game/script-a2-shizune.rpy:2652
 translate zh_hant a2_shizune_bread_scissors_paper_05aa7f78:
 
     # "I am fully aware that if we continue like this, we could crush the bread, greatly reducing its edibility."
-    "我很明白如果我們繼續下去的話，這塊麪包最後可能會被揉碎，那可就不怎麼能吃了。"
+    "我很明白如果我們繼續下去的話，這塊麵包最後可能會被揉碎，那可就不怎麼能吃了。"
 
 # game/script-a2-shizune.rpy:2654
 translate zh_hant a2_shizune_bread_scissors_paper_f5227759:
 
     # hi "Misha… Tell her that unless she lets go, the bread is going to be crushed."
-    hi "米莎…告訴她如果她不放手的話，這片面包會被揉碎。"
+    hi "米莎…告訴她如果她不放手的話，這片麵包會被揉碎。"
 
 # game/script-a2-shizune.rpy:2659
 translate zh_hant a2_shizune_bread_scissors_paper_dfc1120c:
@@ -4106,7 +4106,7 @@ translate zh_hant a2_shizune_bread_scissors_paper_acceeada:
 translate zh_hant a2_shizune_bread_scissors_paper_45824435:
 
     # hi "Isn't it obvious? I can't let go of the bread."
-    hi "這不很明顯嗎？我不能放開這塊麪包。"
+    hi "這不很明顯嗎？我不能放開這塊麵包。"
 
 # game/script-a2-shizune.rpy:2668
 translate zh_hant a2_shizune_bread_scissors_paper_6da8a35f:
@@ -4160,7 +4160,7 @@ translate zh_hant a2_shizune_bread_scissors_paper_631048a9:
 translate zh_hant a2_shizune_bread_scissors_paper_e07fbc00:
 
     # "Shizune stares at me cockily, the tip of her tongue sticking out slightly from between her teeth as she continues to tug firmly at the veal cutlet bread between us."
-    "靜音自高自大地盯著我，死死拽著牛排麪包的同時，稍微伸出了舌尖。"
+    "靜音自高自大地盯著我，死死拽著牛排麵包的同時，稍微伸出了舌尖。"
 
 # game/script-a2-shizune.rpy:2704
 translate zh_hant a2_shizune_bread_scissors_paper_185cd4a6:
@@ -4172,7 +4172,7 @@ translate zh_hant a2_shizune_bread_scissors_paper_185cd4a6:
 translate zh_hant a2_shizune_bread_scissors_paper_0a861894:
 
     # ssh "This seems like a poor way to settle this, doesn't it? And we might crush the bread."
-    ssh "這樣決定誰來吃不好吧，不是嗎？而且我們有可能會弄碎麪包。"
+    ssh "這樣決定誰來吃不好吧，不是嗎？而且我們有可能會弄碎麵包。"
 
 # game/script-a2-shizune.rpy:2714
 translate zh_hant a2_shizune_bread_scissors_paper_81697594:
@@ -4190,13 +4190,13 @@ translate zh_hant a2_shizune_bread_scissors_paper_b33ba1f7_1:
 translate zh_hant a2_shizune_bread_scissors_paper_db3e4a23:
 
     # mi "Hicchan! Drop the bread! We are negotiating now!"
-    mi "小久！放下面包！我們正在談判！"
+    mi "小久！放下麵包！我們正在談判！"
 
 # game/script-a2-shizune.rpy:2726
 translate zh_hant a2_shizune_bread_scissors_paper_18e32b3e:
 
     # "I drop the bread reluctantly."
-    "我不情願地放下了麪包。"
+    "我不情願地放下了麵包。"
 
 # game/script-a2-shizune.rpy:2732
 translate zh_hant a2_shizune_bread_scissors_paper_f84f6022:
@@ -4220,19 +4220,19 @@ translate zh_hant a2_shizune_bread_scissors_paper_9f14e18b:
 translate zh_hant a2_shizune_bread_scissors_paper_de3549f7:
 
     # "She has the right idea. I could just pick something else, there are lots of delicious things here. The chicken katsudon bread is also a popular seller, ranking high in taste and demand. But I've already eaten one before."
-    "她這個主意不錯。我完全可以選些別的什麼，畢竟這裡好吃的東西多的是。雞肉豬扒麪包也是大賣的，既好吃又好買。但是我已經吃過一次了。"
+    "她這個主意不錯。我完全可以選些別的什麼，畢竟這裡好吃的東西多的是。雞肉豬排麵包也是大賣的，既好吃又好買。但是我已經吃過一次了。"
 
 # game/script-a2-shizune.rpy:2749
 translate zh_hant a2_shizune_bread_scissors_paper_95347d5e:
 
     # ssh "You're so immature, Hisao. This wouldn't be a problem if you would pick something else. The chicken katsudon bread is delicious."
-    ssh "你還真是小孩子脾氣呢，久夫。如果你選個其它什麼東西吃就沒事了。那個雞肉豬扒麪包也很好吃的。"
+    ssh "你還真是小孩子脾氣呢，久夫。如果你選個其它什麼東西吃就沒事了。那個雞肉豬排麵包也很好吃的。"
 
 # game/script-a2-shizune.rpy:2754
 translate zh_hant a2_shizune_bread_scissors_paper_f10d1ff2:
 
     # mi "You're so immature, Hicchan. Why don't you pick the chicken katsudon bread instead? It's delicious~!"
-    mi "你還真是小孩子脾氣呢，小久。為什麼不去吃那個雞肉豬扒麪包？那也很好吃的～！"
+    mi "你還真是小孩子脾氣呢，小久。為什麼不去吃那個雞肉豬扒麵包？那也很好吃的～！"
 
 # game/script-a2-shizune.rpy:2756
 translate zh_hant a2_shizune_bread_scissors_paper_d423a707:
@@ -4250,7 +4250,7 @@ translate zh_hant a2_shizune_bread_scissors_paper_ef2b123c_2:
 translate zh_hant a2_shizune_bread_scissors_paper_25a8a728:
 
     # mi "Hicchan~! Why are you so obsessed with eating the veal cutlet bread, spe—ci—fi—cal—ly?"
-    mi "小久～！為什麼你那麼執著地要吃牛排麪包，還、非、此、不、可？"
+    mi "小久～！為什麼你那麼執著地要吃牛排麵包，還、非、此、不、可？"
 
 # game/script-a2-shizune.rpy:2768
 translate zh_hant a2_shizune_bread_scissors_paper_460d3b46:
@@ -4274,7 +4274,7 @@ translate zh_hant a2_shizune_bread_scissors_paper_935ced37:
 translate zh_hant a2_shizune_bread_scissors_paper_30a607ee:
 
     # hi "Why don't you eat the chicken bread?"
-    hi "那你為什麼不吃雞肉麪包？"
+    hi "那你為什麼不吃雞肉麵包？"
 
 # game/script-a2-shizune.rpy:2785
 translate zh_hant a2_shizune_bread_scissors_paper_34af7df6:
@@ -4532,7 +4532,7 @@ translate zh_hant a2_shizune_bread_scissors_paper_83636ea0:
 translate zh_hant a2_shizune_bread_scissors_paper_6b1e06f9:
 
     # "I break the bread in half and offer one half of it to Shizune. She takes it."
-    "我把麪包撕成兩半，把一半給了靜音。她接受了。"
+    "我把麵包撕成兩半，把一半給了靜音。她接受了。"
 
 # game/script-a2-shizune.rpy:2973
 translate zh_hant a2_shizune_bread_scissors_paper_8c0f7481:
@@ -4544,7 +4544,7 @@ translate zh_hant a2_shizune_bread_scissors_paper_8c0f7481:
 translate zh_hant a2_shizune_bread_scissors_paper_a5b2dfaf:
 
     # "She looks at the bread in her hand, studying it."
-    "她看著手裡的麪包仔細觀察著。"
+    "她看著手裡的麵包仔細觀察著。"
 
 # game/script-a2-shizune.rpy:2980
 translate zh_hant a2_shizune_bread_scissors_paper_38bdf7af:
@@ -7820,7 +7820,7 @@ translate zh_hant a2_shizune_past_imperfective_6a5a8df7:
 translate zh_hant a2_shizune_past_imperfective_8c71f6a2:
 
     # mi "Hm~… last year, Shicchan, me, and the 3-2 class rep ran a stall for the festival! It was a soba stall, I think~? Yeah, it was~! Yup!"
-    mi "嗯~…去年小靜，我，還有現在3-2的班長開了個攤位！我想，是個芥麥麪攤子~？對，沒錯~！就是！"
+    mi "嗯~…去年小靜，我，還有現在3-2的班長開了個攤位！我想，是個芥麥麵攤子~？對，沒錯~！就是！"
 
 # game/script-a2-shizune.rpy:5052
 translate zh_hant a2_shizune_past_imperfective_e7deffe1:
@@ -9326,7 +9326,7 @@ translate zh_hant strings:
 
     # game/script-a2-shizune.rpy:164
     old "You are here very early; most people sleep in late after the festival. That means you are abnormal."
-    new "你這麼早就起來了，大多數人在昨天的文化祭後都睡得很晚的，像你這樣的很奇怪呢。"
+    new "你這麼早就起來了，大多數人在昨天的園遊會後都睡得很晚的，像你這樣的很奇怪呢。"
 
     # game/script-a2-shizune.rpy:168
     old "You're here too."

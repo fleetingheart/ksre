@@ -96,7 +96,7 @@ translate zh_hant strings:
 
     # game/definitions.rpy:228
     old "Shizune and Misha tell Hisao about the upcoming festival and invite him to lunch."
-    new "靜音和米莎向久夫介紹即將到來的校園祭，並邀請他一起吃午飯。"
+    new "靜音和米莎向久夫介紹即將到來的園遊會，並邀請他一起吃午飯。"
 
     # game/definitions.rpy:228
     old "Risk vs. Reward"
@@ -380,7 +380,7 @@ translate zh_hant strings:
 
     # game/definitions.rpy:228
     old "Hanako and Hisao read books for the festival."
-    new "華子和久夫在校園祭之前埋頭讀書。"
+    new "華子和久夫在園遊會之前埋頭讀書。"
 
     # game/definitions.rpy:228
     old "Don't Panic"
@@ -388,7 +388,7 @@ translate zh_hant strings:
 
     # game/definitions.rpy:228
     old "After waking up on the day of the festival, Hisao is greeted by a ranting Kenji."
-    new "在校園祭當天醒來，久夫碰上了滿腹牢騷的健二。"
+    new "在園遊會當天醒來，久夫碰上了滿腹牢騷的健二。"
 
     # game/definitions.rpy:228
     old "Is Carnival!"
@@ -396,7 +396,7 @@ translate zh_hant strings:
 
     # game/definitions.rpy:228
     old "Emi catches Hisao eating fried food and makes him accompany her as punishment."
-    new "笑美逮住想吃油炸食品的久夫，要他陪她逛校園祭作為懲罰。"
+    new "笑美逮住想吃油炸食品的久夫，要他陪她逛園遊會作為懲罰。"
 
     # game/definitions.rpy:228
     old "Clouds in My Head"
@@ -416,7 +416,7 @@ translate zh_hant strings:
 
     # game/definitions.rpy:228
     old "Unable to help Lilly at her stall, Hisao searches for Hanako at the festival."
-    new "認為在莉莉的攤位上也幫不上忙，久夫在校園祭中尋找華子。"
+    new "認為在莉莉的攤位上也幫不上忙，久夫在園遊會中尋找華子。"
 
     # game/definitions.rpy:228
     old "Movement"
@@ -440,7 +440,7 @@ translate zh_hant strings:
 
     # game/definitions.rpy:228
     old "Kenji and Hisao share a manly picnic on the roof instead of going to the festival."
-    new "健二和久夫在屋頂分享純爺們的野餐，沒去逛校園祭。"
+    new "健二和久夫在屋頂分享純爺們的野餐，沒去逛園遊會。"
 
     # game/definitions.rpy:228
     old "Emi"
@@ -712,7 +712,7 @@ translate zh_hant strings:
 
     # game/definitions.rpy:228
     old "A shopping trip at the convenience store with Hanako."
-    new "和華子去便利店的購物之旅。"
+    new "和華子去便利商店的購物之旅。"
 
     # game/definitions.rpy:228
     old "Tea Leaves"
@@ -732,7 +732,7 @@ translate zh_hant strings:
 
     # game/definitions.rpy:228
     old "Chess and Slides"
-    new "國際象棋與幻燈片"
+    new "西洋棋與幻燈片"
 
     # game/definitions.rpy:228
     old "Hisao ditches the Student Council to read with Hanako."
@@ -1628,11 +1628,11 @@ translate zh_hant strings:
 
     # game/definitions.rpy:228
     old "Bread, Scissors, Paper"
-    new "麪包，剪刀，紙"
+    new "麵包，剪刀，紙"
 
     # game/definitions.rpy:228
     old "A lazy afternoon becomes dramatic as suddenly a piece of bread becomes an object of extreme interest."
-    new "一片面包成為極度感興趣的對象，使得懶散的午後突然變得戲劇性起來。"
+    new "一片麵包成為極度感興趣的對象，使得懶散的午後突然變得戲劇性起來。"
 
     # game/definitions.rpy:228
     old "Interface"

@@ -64,7 +64,7 @@ translate zh_hant a3_hanako_invitation_6d9602dd:
 translate zh_hant a3_hanako_invitation_632418ff:
 
     # "Chess seems to have become a popular pastime for the two of us; hiding away in the tea room, playing a game or two after classes."
-    "國際象棋成為了我們兩個喜愛的消遣，躲在茶室裡下課後下上一兩盤旗。"
+    "西洋棋成為了我們兩個喜愛的消遣，躲在茶室裡下課後下上一兩盤旗。"
 
 # game/script-a3-hanako.rpy:44
 translate zh_hant a3_hanako_invitation_f281bae4:
@@ -838,7 +838,7 @@ translate zh_hant a3_hanako_invitation_09d2bd6c:
 translate zh_hant a3_hanako_invitation_510130a5:
 
     # "With a nod and a bow, Yuuko turns on the ball of her foot and returns behind the counter, where she busies herself fishing out bread and condiments and working the machine to make our drinks."
-    "點頭鞠躬後優子扭轉腳跟回到櫃檯尋找麪包和配料並操作飲料機器。"
+    "點頭鞠躬後優子扭轉腳跟回到櫃檯尋找麵包和配料並操作飲料機器。"
 
 # game/script-a3-hanako.rpy:627
 translate zh_hant a3_hanako_invitation_d5eafa95:
@@ -2710,7 +2710,7 @@ translate zh_hant a3_hanako_antiques_and_pie_64a984ff:
 translate zh_hant a3_hanako_antiques_and_pie_4aad474b:
 
     # sk "That's a really nice item. It's a chess set from overseas."
-    sk "這個很不錯，是來自海外的國際象棋棋具。"
+    sk "這個很不錯，是來自海外的西洋棋棋具。"
 
 # game/script-a3-hanako.rpy:1783
 translate zh_hant a3_hanako_antiques_and_pie_bdc4d44b:
@@ -6322,7 +6322,7 @@ translate zh_hant a3_hanako_one_more_year_deb18981:
 translate zh_hant a3_hanako_one_more_year_421fe8b8:
 
     # "I reach into my bag and remove the wrapped chess set."
-    "我從袋子裡拿出包裝好的國際象棋。"
+    "我從袋子裡拿出包裝好的西洋棋。"
 
 # game/script-a3-hanako.rpy:4110
 translate zh_hant a3_hanako_one_more_year_0a8172cc:
@@ -6340,7 +6340,7 @@ translate zh_hant a3_hanako_one_more_year_e0da6840:
 translate zh_hant a3_hanako_one_more_year_c6757e60:
 
     # "Before long, the checkered squares of the chessboard are visible, and Hanako gently runs her fingers across the carved surfaces."
-    "不久之後，國際象棋棋盤的黑白方塊顯現出來，華子用手指撫過表面的雕紋。"
+    "不久之後，西洋棋棋盤的黑白方塊顯現出來，華子用手指撫過表面的雕紋。"
 
 # game/script-a3-hanako.rpy:4122
 translate zh_hant a3_hanako_one_more_year_a67c923e:
@@ -7240,7 +7240,7 @@ translate zh_hant a3_hanako_one_more_year_f7d3cc81:
 translate zh_hant a3_hanako_one_more_year_02ec5579:
 
     # hi "It's just… at times like this, I sometimes think it would be better if we never had to leave Yamaku, or at least this town. Things are so much easier without others around."
-    hi "只不過……每到這種時候，我都會有些希望我們能一直留在山久高中裡，或者至少留在這個小鎮。沒有太多人，事情要簡單得多。"
+    hi "只不過……每到這種時候，我都會有些希望我們能一直留在山久高校裡，或者至少留在這個小鎮。沒有太多人，事情要簡單得多。"
 
 # game/script-a3-hanako.rpy:4759
 translate zh_hant a3_hanako_one_more_year_05b5e977:
@@ -8974,7 +8974,7 @@ translate zh_hant a3_hanako_stripes_and_solids_a63e6258:
 translate zh_hant a3_hanako_stripes_and_solids_3cc53d84:
 
     # ha "The orphanage… was nice. It felt a bit like Yamaku does… and the staff was r-really kind."
-    ha "在孤兒院的時候… 還不錯。感覺像山久高中一樣… 而且那裡的工作人員都很-很友好。"
+    ha "在孤兒院的時候… 還不錯。感覺像山久高校一樣… 而且那裡的工作人員都很-很友好。"
 
 # game/script-a3-hanako.rpy:5903
 translate zh_hant a3_hanako_stripes_and_solids_c5a91c4b:
@@ -9004,7 +9004,7 @@ translate zh_hant a3_hanako_stripes_and_solids_ca9a5f51:
 translate zh_hant a3_hanako_stripes_and_solids_6d6e5dba:
 
     # ha "M-most of the children there were up for adoption, just like I was. But unlike me… they gradually left, o-one by one. By the time I went to Yamaku, I was… among the oldest children there."
-    ha "那裡大-大部分的孩子都可以被領養，就像我一樣。但我不一樣… 他們都慢慢離開了，一…一個接一個。在我去山久高中的時候，我已經是…是那裡年齡最大的孩子了。"
+    ha "那裡大-大部分的孩子都可以被領養，就像我一樣。但我不一樣… 他們都慢慢離開了，一…一個接一個。在我去山久高校的時候，我已經是…是那裡年齡最大的孩子了。"
 
 # game/script-a3-hanako.rpy:5916
 translate zh_hant a3_hanako_stripes_and_solids_e8c991b2:
