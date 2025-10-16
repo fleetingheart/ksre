@@ -1498,7 +1498,7 @@ translate zh_hant a4_hanako_faraway_presence_dc612ef8:
 translate zh_hant a4_hanako_faraway_presence_c1a30b95:
 
     # li "Quite astute. I thought that it might help if I dragged both of you out of Yamaku and into the wider world. I am thankful you became closer for it, though."
-    li "挺機靈的嘛。我覺得，如果把你和華子拉出山久高中，拖進大千世界裡，可能會有幫助。至少，你們的關係變得更好了。"
+    li "挺機靈的嘛。我覺得，如果把你和華子拉出山久高校，拖進大千世界裡，可能會有幫助。至少，你們的關係變得更好了。"
 
 # game/script-a4-hanako.rpy:856
 translate zh_hant a4_hanako_faraway_presence_15c42a13:
@@ -2644,7 +2644,7 @@ translate zh_hant a4_hanako_cut_petals_868e525d:
 translate zh_hant a4_hanako_continuing_melody_52a0ceed:
 
     # "Since talking to Lilly yesterday, I've wanted to try and move on from the listlessness I've felt ever since coming to Yamaku."
-    "自從昨天和莉莉談過後，我就試圖從來到山久高中後體會到的無精打采中走出來。"
+    "自從昨天和莉莉談過後，我就試圖從來到山久高校後體會到的無精打采中走出來。"
 
 # game/script-a4-hanako.rpy:1498
 translate zh_hant a4_hanako_continuing_melody_f220ae2f:
@@ -4078,7 +4078,7 @@ translate zh_hant a4_hanako_city_rendezvous_d179f752:
 translate zh_hant a4_hanako_city_rendezvous_ee077edd:
 
     # "The stores in the town below Yamaku are well-stocked and offer enough variety for me to get by, but at least an occasional shopping trip to the city is something that can't really be avoided."
-    "山久高中下面的那個小鎮真的有不少商品齊全的便利店，足夠滿足我日常生活的需求了，不過偶爾去城市買一趟東西也是必不可少的。"
+    "山久高校下面的那個小鎮真的有不少商品齊全的便利商店，足夠滿足我日常生活的需求了，不過偶爾去城市買一趟東西也是必不可少的。"
 
 # game/script-a4-hanako.rpy:2407
 translate zh_hant a4_hanako_city_rendezvous_0d47539a:
@@ -4258,7 +4258,7 @@ translate zh_hant a4_hanako_city_rendezvous_88269d56:
 translate zh_hant a4_hanako_city_rendezvous_6fb8f599:
 
     # "The tables outside are all occupied by busily chatting couples and girls gossiping between themselves. The contrast between the different age groups and fashions of the people here and the people from the town near Yamaku is striking."
-    "外面的桌子全都被喳喳攀談的情侶和互相八卦的女孩們佔滿了，和山久高中旁小鎮上的人們相比，這裡的人的時尚口味和年齡段差別實在是太大了。"
+    "外面的桌子全都被喳喳攀談的情侶和互相八卦的女孩們佔滿了，和山久高校旁小鎮上的人們相比，這裡的人的時尚口味和年齡段差別實在是太大了。"
 
 # game/script-a4-hanako.rpy:2510
 translate zh_hant a4_hanako_city_rendezvous_fc35697b:
@@ -4384,13 +4384,13 @@ translate zh_hant a4_hanako_city_rendezvous_4ad4accd:
 translate zh_hant a4_hanako_city_rendezvous_012f9d48:
 
     # "Unlike most in Yamaku, indeed, unlike anyone there that I'm aware of, my condition goes beyond limiting the activities I can do. Or to be more precise, breaching those limits could have much more grave consequences."
-    "不像山久高中的大多數人，也不像這一片我認識的任何人，我的病情不止是在限制我的活動。說得更準確一點，隨便試探我的極限，後果可能要嚴重得多。"
+    "不像山久高校的大多數人，也不像這一片我認識的任何人，我的病情不止是在限制我的活動。說得更準確一點，隨便試探我的極限，後果可能要嚴重得多。"
 
 # game/script-a4-hanako.rpy:2577
 translate zh_hant a4_hanako_city_rendezvous_fb41e07e:
 
     # "Thankfully, it's something that's very rarely come up since I entered Yamaku. I thought that it was so rare that Hanako and Lilly might not think of it at all. It turns out that I was wrong."
-    "好在自從我進入山久高中後，這樣的事很少發生。它發生得太少了，以至於我還以為莉莉和華子可能根本就已經忘了。看來我想錯了。"
+    "好在自從我進入山久高校後，這樣的事很少發生。它發生得太少了，以至於我還以為莉莉和華子可能根本就已經忘了。看來我想錯了。"
 
 # game/script-a4-hanako.rpy:2579
 translate zh_hant a4_hanako_city_rendezvous_b57bded1:
@@ -4480,7 +4480,7 @@ translate zh_hant a4_hanako_city_rendezvous_fce1460e:
 translate zh_hant a4_hanako_city_rendezvous_b1617d50:
 
     # hi "Besides, once I came to Yamaku I found new friends as well."
-    hi "再說，自從我進了山久高中，也認識不少新朋友了。"
+    hi "再說，自從我進了山久高校，也認識不少新朋友了。"
 
 # game/script-a4-hanako.rpy:2621
 translate zh_hant a4_hanako_city_rendezvous_978a0dbe:
@@ -5074,7 +5074,7 @@ translate zh_hant a4_hanako_whispered_touch_0ba12903:
 translate zh_hant a4_hanako_whispered_touch_33e41b79:
 
     # "Studying is not something that comes naturally to me. I didn't study a lot before coming to Yamaku, and until now I've largely managed to coast through on talent alone. It's frustrating that I can't do that any more."
-    "學習對我來說不是什麼擅長的事。進山久高中之前，我都沒怎麼費心學過，之前我還一直能靠小聰明跟上。可現在不行了，真讓人惱火。"
+    "學習對我來說不是什麼擅長的事。進山久高校之前，我都沒怎麼費心學過，之前我還一直能靠小聰明跟上。可現在不行了，真讓人惱火。"
 
 # game/script-a4-hanako.rpy:3061
 translate zh_hant a4_hanako_whispered_touch_c3d89511:
@@ -5218,7 +5218,7 @@ translate zh_hant a4_hanako_whispered_touch_0feba7c5:
 translate zh_hant a4_hanako_whispered_touch_d9d20bca:
 
     # hi "I… want to know what your life was like. Your life before coming to Yamaku."
-    hi "我……想知道你以前的生活是什麼樣的。在你來山久高中以前。"
+    hi "我……想知道你以前的生活是什麼樣的。在你來山久高校以前。"
 
 # game/script-a4-hanako.rpy:3139
 translate zh_hant a4_hanako_whispered_touch_11856aa7:
@@ -5260,19 +5260,19 @@ translate zh_hant a4_hanako_whispered_touch_e64aca17:
 translate zh_hant a4_hanako_whispered_touch_060f230a:
 
     # hi "I guess… we'll start with coming to Yamaku."
-    hi "那我們……還是從進山久高中開始說好了。"
+    hi "那我們……還是從進山久高校開始說好了。"
 
 # game/script-a4-hanako.rpy:3165
 translate zh_hant a4_hanako_whispered_touch_ea5790f9:
 
     # hi "Let's see… I was in the hospital when my parents first told me about Yamaku Academy."
-    hi "我想想……我父母第一次給我說山久高中的時候，我還在醫院裡。"
+    hi "我想想……我父母第一次給我說山久高校的時候，我還在醫院裡。"
 
 # game/script-a4-hanako.rpy:3167
 translate zh_hant a4_hanako_whispered_touch_85b6f317:
 
     # hi "The doctors told me I shouldn't go to my old school any more. My parents agreed and persuaded me to apply for Yamaku, even though it would mean living away from them for the first time."
-    hi "醫生說我不該繼續去以前的學校了。我的父母也同意，幫我申請了山久高中，就算我必須和他們分開住，這以前從來沒有過。"
+    hi "醫生說我不該繼續去以前的學校了。我的父母也同意，幫我申請了山久高校，就算我必須和他們分開住，這以前從來沒有過。"
 
 # game/script-a4-hanako.rpy:3172
 translate zh_hant a4_hanako_whispered_touch_18fcd1de:
@@ -5302,7 +5302,7 @@ translate zh_hant a4_hanako_whispered_touch_873284a1:
 translate zh_hant a4_hanako_whispered_touch_1a1c9ab8:
 
     # ha "The staff at the o-orphanage offered me some options on what I could do. Middle school… hadn't been good, so I thought that Yamaku might be better."
-    ha "孤——孤兒院的老師讓我選以後怎麼辦。初中過得……不是太好，所以我覺得山久高中會更好一些。"
+    ha "孤——孤兒院的老師讓我選以後怎麼辦。初中過得……不是太好，所以我覺得山久高校會更好一些。"
 
 # game/script-a4-hanako.rpy:3189
 translate zh_hant a4_hanako_whispered_touch_b99e3d03:
@@ -5314,7 +5314,7 @@ translate zh_hant a4_hanako_whispered_touch_b99e3d03:
 translate zh_hant a4_hanako_whispered_touch_052d3574:
 
     # "It's pretty ironic that the reasons Hanako looked forward to Yamaku are the exact reasons I hated the idea. To me, it felt like I was being shunted somewhere away from society, and everyone I knew. To Hanako, that was probably an inviting prospect."
-    "華子來山久高中的原因和我恨這裡的原因是完全一樣的，這真有些諷刺。對我來說，這感覺像是被轉移到了某個遠離社會，遠離每個熟人的地方。但是在華子看來，這可能是件非常吸引人的事。"
+    "華子來山久高校的原因和我恨這裡的原因是完全一樣的，這真有些諷刺。對我來說，這感覺像是被轉移到了某個遠離社會，遠離每個熟人的地方。但是在華子看來，這可能是件非常吸引人的事。"
 
 # game/script-a4-hanako.rpy:3196
 translate zh_hant a4_hanako_whispered_touch_eac9ddb0:
@@ -7088,7 +7088,7 @@ translate zh_hant a4_hanako_adulthood_0a96557b:
 translate zh_hant a4_hanako_adulthood_e5502d35:
 
     # hi "After you locked yourself in your room, I decided to try to work out my past as well, and sort out my future. I didn't know how to deal with the things I'd lost by coming to Yamaku, so I was trying to sort them out myself."
-    hi "自從你把自己鎖在房間裡後，我就決定要把自己過去的事也想清了，還有我以後的打算。我不知道該怎麼處理那些自從進入山久高中後失去的事，所以我只是在想要獨自把他們理順。"
+    hi "自從你把自己鎖在房間裡後，我就決定要把自己過去的事也想清了，還有我以後的打算。我不知道該怎麼處理那些自從進入山久高校後失去的事，所以我只是在想要獨自把他們理順。"
 
 # game/script-a4-hanako.rpy:4186
 translate zh_hant a4_hanako_adulthood_29cce515:
@@ -7154,7 +7154,7 @@ translate zh_hant a4_hanako_adulthood_97d6a239:
 translate zh_hant a4_hanako_adulthood_e6d27201:
 
     # hi "I lost so much when I came to Yamaku. I was… depending on you, more than I ever thought I did."
-    hi "我轉進山久高中後，失去太多東西了。我一直在……依賴你，我從來沒想到會這樣。"
+    hi "我轉進山久高校後，失去太多東西了。我一直在……依賴你，我從來沒想到會這樣。"
 
 # game/script-a4-hanako.rpy:4220
 translate zh_hant a4_hanako_adulthood_324f242c:

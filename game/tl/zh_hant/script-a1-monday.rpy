@@ -700,7 +700,7 @@ translate zh_hant a1_monday_bundle_of_hisao_6aa50d84:
 translate zh_hant a1_monday_bundle_of_hisao_e8fc164c:
 
     # "Doctor" "It's a school called Yamaku Academy that specializes in dealing with disabled students."
-    "醫生" "那是一所叫做山久高中的學校，專門招收殘障學生。"
+    "醫生" "那是一所叫做山久高校的學校，專門招收殘障學生。"
 
 # game/script-a1-monday.rpy:407
 translate zh_hant a1_monday_bundle_of_hisao_df01d864:

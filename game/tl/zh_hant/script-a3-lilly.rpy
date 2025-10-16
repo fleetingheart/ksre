@@ -1660,7 +1660,7 @@ translate zh_hant a3_lilly_dissonance_cc76a7c8:
 translate zh_hant a3_lilly_dissonance_f866e968:
 
     # "It's hardly a meal to be proud of, only being an instant microwave meal from the convenience store, but it should at least fill her up."
-    "這實在不是什麼值得稱道的食物，不過是一些從便利店買來的微波加熱餐，不過至少能填飽肚子。"
+    "這實在不是什麼值得稱道的食物，不過是一些從便利商店買來的微波加熱餐，不過至少能填飽肚子。"
 
 # game/script-a3-lilly.rpy:1043
 translate zh_hant a3_lilly_dissonance_714fff2f:

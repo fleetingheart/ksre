@@ -2128,7 +2128,7 @@ translate zh_hant a2_rin_self_study_67f3aec3:
 translate zh_hant a2_rin_self_study_a047a375:
 
     # "There's a big forest in the hills behind the school, or I could go down to the convenience store."
-    "學校背後的山丘上有一大片森林，我還可以下山去便利店。"
+    "學校背後的山丘上有一大片森林，我還可以下山去便利商店。"
 
 # game/script-a2-rin.rpy:1403
 translate zh_hant a2_rin_self_study_eaca05f6:
@@ -6166,7 +6166,7 @@ translate zh_hant a2_rin_underwater_and_maple_b20e0456:
 translate zh_hant a2_rin_underwater_and_maple_7964be6e:
 
     # "He suddenly reaches to his pocket and draws out a ballpoint pen and what looks like a convenience store receipt."
-    "他突然把手伸入口袋，拿出了一支圓珠筆，還有一張看起來像是便利店發票的東西。"
+    "他突然把手伸入口袋，拿出了一支圓珠筆，還有一張看起來像是便利商店發票的東西。"
 
 # game/script-a2-rin.rpy:4080
 translate zh_hant a2_rin_underwater_and_maple_4bb763ce:
@@ -7618,7 +7618,7 @@ translate zh_hant a2_rin_umbrella_logic_cake_58790d74:
 translate zh_hant a2_rin_umbrella_logic_cake_ce3732e8:
 
     # "Emi had planned a picnic at some nearby park, with snacks aplenty bought from the convenience store, but with the weather this gloomy, it seems risky."
-    "笑美把野餐訂在了附近的某個公園裡，還從便利店裡買了很多零食，不過現在天氣那麼陰沉，也許這計劃有些冒險。"
+    "笑美把野餐訂在了附近的某個公園裡，還從便利商店裡買了很多零食，不過現在天氣那麼陰沉，也許這計劃有些冒險。"
 
 # game/script-a2-rin.rpy:5028
 translate zh_hant a2_rin_umbrella_logic_cake_7b26a75b:
@@ -7732,7 +7732,7 @@ translate zh_hant a2_rin_umbrella_logic_cake_8ed983ef:
 translate zh_hant a2_rin_umbrella_logic_cake_0a6494df:
 
     # "We walk along the road leading down from the school towards the convenience store, the clouds casting their dark shadow down on us. The weather seems to be taking a turn for the worse and I am pretty sure I just felt a raindrop on my head."
-    "我們沿著連接學校和便利店的小路走著，雲將陰沉的影子投在我們身上。天氣似乎變得更壞了，而且我確信剛才感到了一滴雨。"
+    "我們沿著連接學校和便利商店的小路走著，雲將陰沉的影子投在我們身上。天氣似乎變得更壞了，而且我確信剛才感到了一滴雨。"
 
 # game/script-a2-rin.rpy:5106
 translate zh_hant a2_rin_umbrella_logic_cake_f3c28e11:

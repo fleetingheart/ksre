@@ -2334,7 +2334,7 @@ translate zh_hant a2_hanako_office_confessional_7835761b:
 translate zh_hant a2_hanako_office_confessional_56815d1b:
 
     # "Shizune appears, completely laden with goods from the convenience store."
-    "靜音來了，拎著一堆從便利店買來的東西。"
+    "靜音來了，拎著一堆從便利商店買來的東西。"
 
 # game/script-a2-hanako.rpy:1578
 translate zh_hant a2_hanako_office_confessional_ef2b123c_1:
@@ -2400,7 +2400,7 @@ translate zh_hant a2_hanako_office_confessional_205e4391:
 translate zh_hant a2_hanako_office_confessional_204fa05a:
 
     # "The convenience store meal isn't overly tasty, but at the very least it's filling."
-    "便利店用的食物不算特別可口，但至少很解飽。"
+    "便利商店用的食物不算特別可口，但至少很解飽。"
 
 # game/script-a2-hanako.rpy:1624
 translate zh_hant a2_hanako_office_confessional_ef2b123c_3:

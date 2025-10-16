@@ -806,7 +806,7 @@ translate zh_hant a4_shizune_off_by_one_cda92b38:
 translate zh_hant a4_shizune_off_by_one_e5d6b5eb:
 
     # "It's not really a basket, it looks more like a plastic bag. Taking a quick look inside, I can see that most of the food inside is also store-bought, not homemade. Some items still have the price stickers on."
-    "與其說是籃子，靜音舉在胸前的容器不如說更像是個塑料袋。稍微往裡一瞥，能看到裡面的食品也大多不過是便利店的速食品，有些包裝上甚至還貼著商店的標價。"
+    "與其說是籃子，靜音舉在胸前的容器不如說更像是個塑料袋。稍微往裡一瞥，能看到裡面的食品也大多不過是便利商店的速食品，有些包裝上甚至還貼著商店的標價。"
 
 # game/script-a4-shizune.rpy:537
 translate zh_hant a4_shizune_off_by_one_32f1c610:
@@ -1166,7 +1166,7 @@ translate zh_hant a4_shizune_off_by_one_25f1bfb1:
 translate zh_hant a4_shizune_off_by_one_c8267f62:
 
     # ssh "Maybe in stores for the exceptionally lazy, but not here. Why don't you use a tortilla chip?"
-    ssh "專門為懶惰到無可復加的人開設的便利店，也許吧。可惜這裡沒有這種商店。你為什麼不用張玉米餅湊合下呢？"
+    ssh "專門為懶惰到無可復加的人開設的便利商店，也許吧。可惜這裡沒有這種商店。你為什麼不用張玉米餅湊合下呢？"
 
 # game/script-a4-shizune.rpy:812
 translate zh_hant a4_shizune_off_by_one_be9fb880:

@@ -7240,7 +7240,7 @@ translate zh_hant a3_hanako_one_more_year_f7d3cc81:
 translate zh_hant a3_hanako_one_more_year_02ec5579:
 
     # hi "It's just… at times like this, I sometimes think it would be better if we never had to leave Yamaku, or at least this town. Things are so much easier without others around."
-    hi "只不過……每到這種時候，我都會有些希望我們能一直留在山久高中裡，或者至少留在這個小鎮。沒有太多人，事情要簡單得多。"
+    hi "只不過……每到這種時候，我都會有些希望我們能一直留在山久高校裡，或者至少留在這個小鎮。沒有太多人，事情要簡單得多。"
 
 # game/script-a3-hanako.rpy:4759
 translate zh_hant a3_hanako_one_more_year_05b5e977:
@@ -8974,7 +8974,7 @@ translate zh_hant a3_hanako_stripes_and_solids_a63e6258:
 translate zh_hant a3_hanako_stripes_and_solids_3cc53d84:
 
     # ha "The orphanage… was nice. It felt a bit like Yamaku does… and the staff was r-really kind."
-    ha "在孤兒院的時候… 還不錯。感覺像山久高中一樣… 而且那裡的工作人員都很-很友好。"
+    ha "在孤兒院的時候… 還不錯。感覺像山久高校一樣… 而且那裡的工作人員都很-很友好。"
 
 # game/script-a3-hanako.rpy:5903
 translate zh_hant a3_hanako_stripes_and_solids_c5a91c4b:
@@ -9004,7 +9004,7 @@ translate zh_hant a3_hanako_stripes_and_solids_ca9a5f51:
 translate zh_hant a3_hanako_stripes_and_solids_6d6e5dba:
 
     # ha "M-most of the children there were up for adoption, just like I was. But unlike me… they gradually left, o-one by one. By the time I went to Yamaku, I was… among the oldest children there."
-    ha "那裡大-大部分的孩子都可以被領養，就像我一樣。但我不一樣… 他們都慢慢離開了，一…一個接一個。在我去山久高中的時候，我已經是…是那裡年齡最大的孩子了。"
+    ha "那裡大-大部分的孩子都可以被領養，就像我一樣。但我不一樣… 他們都慢慢離開了，一…一個接一個。在我去山久高校的時候，我已經是…是那裡年齡最大的孩子了。"
 
 # game/script-a3-hanako.rpy:5916
 translate zh_hant a3_hanako_stripes_and_solids_e8c991b2:

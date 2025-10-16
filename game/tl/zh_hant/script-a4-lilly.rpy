@@ -1885,7 +1885,7 @@ translate zh_hant a4_lilly_correct_procedure_a5b632aa:
 translate zh_hant a4_lilly_correct_procedure_5e4f098a:
 
     # "Even as I leave, his words echo in my mind. My condition isn't something as limiting as many of the others here in Yamaku, and I don't want to burden Lilly with thinking about it."
-    "我離去的時候，校醫的話一直在腦中迴響。我的狀況不像山久高中的其他學生一樣讓生活處處受限，但是我不想讓莉莉為此擔憂。"
+    "我離去的時候，校醫的話一直在腦中迴響。我的狀況不像山久高校的其他學生一樣讓生活處處受限，但是我不想讓莉莉為此擔憂。"
 
 # game/script-a4-lilly.rpy:1243
 translate zh_hant a4_lilly_correct_procedure_9c78f8ed:
@@ -5643,7 +5643,7 @@ translate zh_hant a4_lilly_blackout_9c885ac7:
 translate zh_hant a4_lilly_blackout_0c2bcc66:
 
     # "I guess she's made her point; she's more than capable of navigating her room, and further, I've seen how independent she is even when compared to many of the others in Yamaku."
-    "我猜她已經證明了她的觀點；她完全有能力在自己的房間裡活動自如，而且，我也知道，跟山久高中的許多人比起來，她是多麼地獨立。"
+    "我猜她已經證明了她的觀點；她完全有能力在自己的房間裡活動自如，而且，我也知道，跟山久高校的許多人比起來，她是多麼地獨立。"
 
 # game/script-a4-lilly.rpy:3418
 translate zh_hant a4_lilly_blackout_5e0392d4:
@@ -7072,7 +7072,7 @@ translate zh_hant a4_lilly_context_eb2f7696:
 translate zh_hant a4_lilly_context_3a97cd2b:
 
     # aki "Yamaku Academy. I've always felt that place was kinda creepy; like it was an isolated hideaway for those 'proper society' doesn't want to see nor hear."
-    aki "山久高中。我總覺得那地方有點詭異；像個與世隔絕的藏身處，用來隱藏那些『上流社會』不想看也不想聽的人事物。"
+    aki "山久高校。我總覺得那地方有點詭異；像個與世隔絕的藏身處，用來隱藏那些『上流社會』不想看也不想聽的人事物。"
 
 # game/script-a4-lilly.rpy:4259
 translate zh_hant a4_lilly_context_9e685f35:
@@ -7084,7 +7084,7 @@ translate zh_hant a4_lilly_context_9e685f35:
 translate zh_hant a4_lilly_context_feda9b53:
 
     # "A long silence follows her abrupt and very harsh criticism of her own parents, and Yamaku."
-    "在她對自己的父母和山久高中提出突兀而尖銳的批評之後，是一陣長長的沉默。"
+    "在她對自己的父母和山久高校提出突兀而尖銳的批評之後，是一陣長長的沉默。"
 
 # game/script-a4-lilly.rpy:4263
 translate zh_hant a4_lilly_context_fad8d516:
@@ -7168,7 +7168,7 @@ translate zh_hant a4_lilly_context_ae806f5a:
 translate zh_hant a4_lilly_context_bf4d2bab:
 
     # "So… Lilly and Akira lived alone after their parents moved, with Lilly largely taking care of herself. I guess that explains her apparent independence, compared to many in Yamaku."
-    "所以……莉莉和晃在父母搬走後就獨自生活，而莉莉基本上是自己照顧自己。我想這就解釋了為什麼跟山久高中的許多人比起來，她顯得那麼獨立。"
+    "所以……莉莉和晃在父母搬走後就獨自生活，而莉莉基本上是自己照顧自己。我想這就解釋了為什麼跟山久高校的許多人比起來，她顯得那麼獨立。"
 
 # game/script-a4-lilly.rpy:4306
 translate zh_hant a4_lilly_context_d972cd28:
@@ -7492,7 +7492,7 @@ translate zh_hant a4_lilly_a_faraway_future_9de41518:
 translate zh_hant a4_lilly_a_faraway_future_0730553a:
 
     # "This horrid downpour came on just as we were between our destination and Yamaku, so we decided to try rushing the rest of the distance rather than doubling back."
-    "這場傾盆大雨是我們在目的地和山久高中之間時開始的，所以我們決定用跑的結束剩下的路程，而不是打道回府。"
+    "這場傾盆大雨是我們在目的地和山久高校之間時開始的，所以我們決定用跑的結束剩下的路程，而不是打道回府。"
 
 # game/script-a4-lilly.rpy:4503
 translate zh_hant a4_lilly_a_faraway_future_cfabfa60:
@@ -7726,7 +7726,7 @@ translate zh_hant a4_lilly_a_faraway_future_a4513dca:
 translate zh_hant a4_lilly_a_faraway_future_21046cc4:
 
     # "I can't help replaying the words of her sister in my mind, at times contrasting them to both our time spent together since I entered Yamaku, and to the way we've been since we started dating."
-    "我一遍遍回想著她姐姐說過的話，同時回憶著自從我來到山久高中後，我們一起分享的那些時光，以及我們在開始交往後相處的方式。"
+    "我一遍遍回想著她姐姐說過的話，同時回憶著自從我來到山久高校後，我們一起分享的那些時光，以及我們在開始交往後相處的方式。"
 
 # game/script-a4-lilly.rpy:4668
 translate zh_hant a4_lilly_a_faraway_future_8d2a97ba:
@@ -8256,7 +8256,7 @@ translate zh_hant a4_lilly_a_faraway_future_fcd31e4f:
 translate zh_hant a4_lilly_a_faraway_future_cb482eb4:
 
     # "The solid thud the door makes against the door frame sounds out a final call for the life I've led since coming to Yamaku."
-    "門框撞擊的沉重聲響，為我來到山久高中後的生活畫上了句點。"
+    "門框撞擊的沉重聲響，為我來到山久高校後的生活畫上了句點。"
 
 # game/script-a4-lilly.rpy:4975
 translate zh_hant a4_lilly_a_faraway_future_b79d6578:
@@ -8336,7 +8336,7 @@ translate zh_hant a4_lilly_farewell_f3b4bd41:
 translate zh_hant a4_lilly_farewell_7c233514:
 
     # n "Even I'm moving forward, in the end. With the grades I've gotten so far in Yamaku, much less after such a rocky beginning, the path to get into teaching science as a career seems straightforward."
-    n "最後，我也向前邁進了。我在山久高中得到的成績，在克服了那樣坎坷的開端之後，從事科學教育的道路似乎沒有什麼問題了。"
+    n "最後，我也向前邁進了。我在山久高校得到的成績，在克服了那樣坎坷的開端之後，從事科學教育的道路似乎沒有什麼問題了。"
 
 # game/script-a4-lilly.rpy:5022
 translate zh_hant a4_lilly_farewell_28de7759:
@@ -9100,7 +9100,7 @@ translate zh_hant a4_lilly_farewell_a5c985e7:
 translate zh_hant a4_lilly_farewell_75c2c62a:
 
     # "Maybe this is a fitting end for her stay in Yamaku; working away just like she used to, surrounded by those she loves and, at least, liked."
-    "也許這對她在山久高中的生活來說，是個再適合不過的結局；像以前一樣工作，身邊圍繞著她所愛的人，或者至少，是她曾經喜歡的人。"
+    "也許這對她在山久高校的生活來說，是個再適合不過的結局；像以前一樣工作，身邊圍繞著她所愛的人，或者至少，是她曾經喜歡的人。"
 
 # game/script-a4-lilly.rpy:5557
 translate zh_hant a4_lilly_farewell_7f4aae86:
@@ -9586,7 +9586,7 @@ translate zh_hant a4_lilly_farewell_4c33807a:
 translate zh_hant a4_lilly_farewell_ec7feb10:
 
     # "A car parked on the road just outside the school grounds comes into view, its shining black exterior reflecting the dimly lit lamps of Yamaku. I call out to Akira in an effort to alleviate a bit the heavy atmosphere."
-    "一輛停在校園外路邊的汽車映入眼簾，它閃亮的黑色外殼反射著山久高中昏暗的燈光。我喊了晃，試圖稍微緩和一下沉重的氣氛。"
+    "一輛停在校園外路邊的汽車映入眼簾，它閃亮的黑色外殼反射著山久高校昏暗的燈光。我喊了晃，試圖稍微緩和一下沉重的氣氛。"
 
 # game/script-a4-lilly.rpy:5904
 translate zh_hant a4_lilly_farewell_8e03de65:
@@ -9910,7 +9910,7 @@ translate zh_hant a4_lilly_farewell_047d844d:
 translate zh_hant a4_lilly_farewell_c20f7329:
 
     # "It's strange to feel like this now, watching somebody leave Yamaku. The feeling of unease I have now reminds me of the first time I walked through those black wrought iron gates, that always looked far too pompous for what they were."
-    "看著一個人離開山久高中，這種感覺很奇怪。讓我想起第一次走過那些黑色鍛鐵大門時的不安。那些門看起來總比它們的用途浮誇許多。"
+    "看著一個人離開山久高校，這種感覺很奇怪。讓我想起第一次走過那些黑色鍛鐵大門時的不安。那些門看起來總比它們的用途浮誇許多。"
 
 # game/script-a4-lilly.rpy:6113
 translate zh_hant a4_lilly_farewell_d6841d06:
@@ -10260,7 +10260,7 @@ translate zh_hant a4_lilly_false_cadence_396ba483:
     # nvl clear
     # n "{vspace=90}Since coming to Yamaku though, it feels like I've fundamentally changed as a person. The phone call with my parents erased any traces of doubt I might have held on that, in any case."
     nvl clear
-    n "{vspace=90}可是，自從進了山久高中之後，我感覺我從本質上有了改變。總之，和父母通了電話之後，我更不再懷疑了。"
+    n "{vspace=90}可是，自從進了山久高校之後，我感覺我從本質上有了改變。總之，和父母通了電話之後，我更不再懷疑了。"
 
 # game/script-a4-lilly.rpy:6291
 translate zh_hant a4_lilly_false_cadence_1bb18757:
@@ -10278,7 +10278,7 @@ translate zh_hant a4_lilly_false_cadence_34a8e981:
 translate zh_hant a4_lilly_false_cadence_24ff359c:
 
     # n "{vspace=30}When I think about it, I'd always depended on them, even if they hadn't been at home all the time. To say I never depended on anyone after moving to the Yamaku dormitories would be far from the truth, though."
-    n "{vspace=30}當我回想起來時，我意識到自己總是在依賴他們，哪怕他們根本不怎麼回家。不過，我也沒法說自己進入山久高中後，就能獨立生活了。"
+    n "{vspace=30}當我回想起來時，我意識到自己總是在依賴他們，哪怕他們根本不怎麼回家。不過，我也沒法說自己進入山久高校後，就能獨立生活了。"
 
 # game/script-a4-lilly.rpy:6299
 translate zh_hant a4_lilly_false_cadence_76b2fe88_1:
@@ -11498,7 +11498,7 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_2aa2e2bb:
 translate zh_hant a4_lilly_under_a_maudlin_sky_61c19a31:
 
     # n "The sense of isolation in Yamaku and its surrounds was not entirely unwelcome, the quiet giving a peace of mind I might not have found elsewhere, but it gave the area a feeling of being pushed out of the way, of being kept out of sight."
-    n "山久高中那種孤立的感覺，還有它周圍的環境並不是那麼令人不悅。安靜的環境讓我得以享受到別處無法擁有的平靜，但也讓人感覺這裡與世隔絕了，超出了社會的視線之外。"
+    n "山久高校那種孤立的感覺，還有它周圍的環境並不是那麼令人不悅。安靜的環境讓我得以享受到別處無法擁有的平靜，但也讓人感覺這裡與世隔絕了，超出了社會的視線之外。"
 
 # game/script-a4-lilly.rpy:7021
 translate zh_hant a4_lilly_under_a_maudlin_sky_3a0a54af:
@@ -11530,7 +11530,7 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_fde3c202:
 translate zh_hant a4_lilly_under_a_maudlin_sky_ae934372:
 
     # n "Because there was one final thing I'd found, or rather refound, after entering Yamaku."
-    n "因為當我進入山久高中後，終於找到了，或者說，重新找回了一件最重要的事物。"
+    n "因為當我進入山久高校後，終於找到了，或者說，重新找回了一件最重要的事物。"
 
 # game/script-a4-lilly.rpy:7033
 translate zh_hant a4_lilly_under_a_maudlin_sky_61b8a803:
@@ -11544,7 +11544,7 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_7bb73334:
     # nvl clear
     # n "{vspace=30}It's only now that I realize just how delicate my newfound sense of happiness was. Everything depended on her, the linchpin of my life since I first entered Yamaku as a sullen, confused and aimless transfer student."
     nvl clear
-    n "{vspace=30}我才意識到自己新找到的幸福其實有多脆弱。每件事都依賴著她。自從我以一個陰鬱、迷茫又漫無目的的轉學生身份進入山久高中後，她就一直是我生命的關鍵。"
+    n "{vspace=30}我才意識到自己新找到的幸福其實有多脆弱。每件事都依賴著她。自從我以一個陰鬱、迷茫又漫無目的的轉學生身份進入山久高校後，她就一直是我生命的關鍵。"
 
 # game/script-a4-lilly.rpy:7039
 translate zh_hant a4_lilly_under_a_maudlin_sky_460f09cc:
@@ -11568,7 +11568,7 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_e49a48d7:
 translate zh_hant a4_lilly_under_a_maudlin_sky_bc2810bc:
 
     # n "{vspace=30}The surroundings I'm in now are all too familiar. It's as if Yamaku was but a dream, and I'm still recovering from my first major heart attack."
-    n "{vspace=30}我現在身處的環境實在是太熟悉了，就好像山久高中只是一個夢而已，而我依然沒有從自己的第一次心臟病發作中康復。"
+    n "{vspace=30}我現在身處的環境實在是太熟悉了，就好像山久高校只是一個夢而已，而我依然沒有從自己的第一次心臟病發作中康復。"
 
 # game/script-a4-lilly.rpy:7047
 translate zh_hant a4_lilly_under_a_maudlin_sky_45f0335e:
@@ -11742,7 +11742,7 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_ca9898bb:
 translate zh_hant a4_lilly_under_a_maudlin_sky_827844db:
 
     # "The doctor's chuckle sounds different from that of the nurse at Yamaku though, come to think of it. As I ponder why, I realize why the man in front of me feels just that little bit 'off'."
-    "不過，仔細一想，這位醫生的笑聲聽起來卻與山久高中的校醫不同。正當我納悶為什麼時，意識到為什麼自己面前的這個男人給人的感覺有些“不對勁”了。"
+    "不過，仔細一想，這位醫生的笑聲聽起來卻與山久高校的校醫不同。正當我納悶為什麼時，意識到為什麼自己面前的這個男人給人的感覺有些“不對勁”了。"
 
 # game/script-a4-lilly.rpy:7112
 translate zh_hant a4_lilly_under_a_maudlin_sky_e47855b8:
@@ -11844,7 +11844,7 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_4959cd8d:
 translate zh_hant a4_lilly_under_a_maudlin_sky_9387de60:
 
     # "Lost for what to do or focus on, I content myself with sleeping the time away as if this were all just another dream like Yamaku had been."
-    "我不知該做什麼，也不知該想什麼，只好任由時間在睡夢中流逝，彷彿這一切都只是另一個夢而已，就像是山久高中一樣。"
+    "我不知該做什麼，也不知該想什麼，只好任由時間在睡夢中流逝，彷彿這一切都只是另一個夢而已，就像是山久高校一樣。"
 
 # game/script-a4-lilly.rpy:7158
 translate zh_hant a4_lilly_under_a_bright_sky_79ff7ebb:
@@ -12120,7 +12120,7 @@ translate zh_hant a4_lilly_under_a_bright_sky_f0a4a48c:
 translate zh_hant a4_lilly_under_a_bright_sky_5cecbfbf:
 
     # li "Even after I'd said goodbye, and I'd left Yamaku Academy…"
-    li "就算我已經說過再見，已經離開山久高中了……"
+    li "就算我已經說過再見，已經離開山久高校了……"
 
 # game/script-a4-lilly.rpy:7309
 translate zh_hant a4_lilly_under_a_bright_sky_47d7944f:
@@ -12204,7 +12204,7 @@ translate zh_hant a4_lilly_under_a_bright_sky_14043a9f:
 translate zh_hant a4_lilly_under_a_bright_sky_b19a9566:
 
     # hi "When I had my heart attack, I was snatched away from everyone and everywhere I knew. You showed me a new life after I came to Yamaku. I'd lost my past, but you showed me a future."
-    hi "我的心臟病發作後，所有我熟悉的人事物都被奪走了。我來山久高中後，是妳給了我新的生活。我已失去過去，但你給予了我一個未來。"
+    hi "我的心臟病發作後，所有我熟悉的人事物都被奪走了。我來山久高校後，是妳給了我新的生活。我已失去過去，但你給予了我一個未來。"
 
 # game/script-a4-lilly.rpy:7349
 translate zh_hant a4_lilly_under_a_bright_sky_8e112973:
@@ -12456,7 +12456,7 @@ translate zh_hant a4_lilly_forwards_7e54d1ec:
 translate zh_hant a4_lilly_forwards_13a0a390:
 
     # hi "Yeah. I never knew a place like this was anywhere near Yamaku."
-    hi "是啊，我都沒在山久高中周圍見過這樣的地方。"
+    hi "是啊，我都沒在山久高校周圍見過這樣的地方。"
 
 # game/script-a4-lilly.rpy:7495
 translate zh_hant a4_lilly_forwards_63e34fca:
@@ -12552,7 +12552,7 @@ translate zh_hant a4_lilly_forwards_2bc2a90a:
 translate zh_hant a4_lilly_forwards_26fdd67d:
 
     # aki "That's the way. Just enjoy yourselves in Yamaku while you're there."
-    aki "就是要這感覺。趁你們還在山久高中，好好享受吧。"
+    aki "就是要這感覺。趁你們還在山久高校，好好享受吧。"
 
 # game/script-a4-lilly.rpy:7553
 translate zh_hant a4_lilly_forwards_c3ddac0a:

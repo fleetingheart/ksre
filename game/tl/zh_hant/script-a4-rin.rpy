@@ -2630,7 +2630,7 @@ translate zh_hant a4_rin_wavelength_d46739d0:
     # nvl clear
     # n "{vspace=60}For the rest of the day, Rin, the hospital, Yamaku and vacation swirl through my head."
     nvl clear
-    n "{vspace=60}這天剩下的時間裡，琳、醫院、山久高中，以及假期都輪流在我的頭腦裡旋轉。"
+    n "{vspace=60}這天剩下的時間裡，琳、醫院、山久高校，以及假期都輪流在我的頭腦裡旋轉。"
 
 # game/script-a4-rin.rpy:1533
 translate zh_hant a4_rin_wavelength_f0f8a830:
@@ -4306,7 +4306,7 @@ translate zh_hant a4_rin_the_world_only_can_you_see_fe231760:
 translate zh_hant a4_rin_the_world_only_can_you_see_ff42a06b:
 
     # n "I can't believe how anyone in Yamaku could not have the bare minimum perception to understand that the world can sometimes be very unfair."
-    n "我無法理解，一個山久高中的學生怎麼會不理解這世界的不公。"
+    n "我無法理解，一個山久高校的學生怎麼會不理解這世界的不公。"
 
 # game/script-a4-rin.rpy:2497
 translate zh_hant a4_rin_the_world_only_can_you_see_1581ca86:
@@ -4810,7 +4810,7 @@ translate zh_hant a4_rin_the_world_only_can_you_see_bf32c6bd:
 translate zh_hant a4_rin_the_world_only_can_you_see_63297b3a:
 
     # hi "But what about Yamaku? Don't you want to graduate with everyone?"
-    hi "但是山久高中怎麼辦？你不想和大家一起畢業嗎？"
+    hi "但是山久高校怎麼辦？你不想和大家一起畢業嗎？"
 
 # game/script-a4-rin.rpy:2734
 translate zh_hant a4_rin_the_world_only_can_you_see_dd3fd004:

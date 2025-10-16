@@ -2428,7 +2428,7 @@ translate zh_hant a2_lilly_presents_and_presence_d6792514:
 translate zh_hant a2_lilly_presents_and_presence_8f5e6aef:
 
     # "In a little while, we come to a small shop beside a convenience store."
-    "不一會兒，我們到了一家坐落在便利店旁邊的小商店。"
+    "不一會兒，我們到了一家坐落在便利商店旁邊的小商店。"
 
 # game/script-a2-lilly.rpy:1733
 translate zh_hant a2_lilly_presents_and_presence_3f512ad9:

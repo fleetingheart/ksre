@@ -40,7 +40,7 @@ translate zh_hant a1_thursday_the_running_girl_2f114fed:
 translate zh_hant a1_thursday_the_running_girl_69edb0b0:
 
     # "Thanks to my condition, I was exempted from taking part in gym classes at Yamaku, so I didn't get issued with a gym outfit."
-    "由於我的身體狀況，我被豁免參加山久高中的體育課，所以沒有發給我體育服。"
+    "由於我的身體狀況，我被豁免參加山久高校的體育課，所以沒有發給我體育服。"
 
 # game/script-a1-thursday.rpy:33
 translate zh_hant a1_thursday_the_running_girl_6f89bc70:

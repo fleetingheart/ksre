@@ -346,7 +346,7 @@ translate zh_hant a3_rin_tt_corner_f573a73f:
 translate zh_hant a3_rin_tt_corner_e53a86e2:
 
     # "Nomiya has a pretty nice car, not something I'd expect a high school teacher to drive. I wonder what kind of salaries they earn at Yamaku."
-    "野宮有一輛很漂亮的車，至少我不認為一名高中老師開得起。我好奇他們在山久高中究竟領著怎樣的薪水。"
+    "野宮有一輛很漂亮的車，至少我不認為一名高中老師開得起。我好奇他們在山久高校究竟領著怎樣的薪水。"
 
 # game/script-a3-rin.rpy:244
 translate zh_hant a3_rin_tt_corner_520c06ea:
@@ -2764,7 +2764,7 @@ translate zh_hant a3_rin_rosetinted_glasses_22c4aa46:
 translate zh_hant a3_rin_rosetinted_glasses_7d0acc69:
 
     # "I think about all the things that have led me to this point, all the things I've shared with Rin during the few weeks I've been at Yamaku so far."
-    "我想著所有把自己引到今天這一步的事，那些在我轉到山久高中後的數星期裡，我和琳之間分享的一切。"
+    "我想著所有把自己引到今天這一步的事，那些在我轉到山久高校後的數星期裡，我和琳之間分享的一切。"
 
 # game/script-a3-rin.rpy:1797
 translate zh_hant a3_rin_rosetinted_glasses_968940c2:
@@ -4016,7 +4016,7 @@ translate zh_hant a3_rin_fast_forward_19613ad7:
 translate zh_hant a3_rin_fast_forward_29c59c9d:
 
     # "My course of action decided, I stop at the convenience store before going to catch the bus downtown on my next visit to the studio."
-    "於是我做出了決定，在下次坐車進城前去了一趟便利店。"
+    "於是我做出了決定，在下次坐車進城前去了一趟便利商店。"
 
 # game/script-a3-rin.rpy:2456
 translate zh_hant a3_rin_fast_forward_e0c97904:
@@ -6508,7 +6508,7 @@ translate zh_hant a3_rin_boundless_572ceee0:
 translate zh_hant a3_rin_boundless_64eea663:
 
     # "I'm referring to the incident that brought me to Yamaku. Neither of the two adults comments on that, however."
-    "我指的是那次讓我轉進山久高中的事故。不過，兩個大人都沒對此加以評論。"
+    "我指的是那次讓我轉進山久高校的事故。不過，兩個大人都沒對此加以評論。"
 
 # game/script-a3-rin.rpy:3962
 translate zh_hant a3_rin_boundless_12e302ae:
@@ -8450,7 +8450,7 @@ translate zh_hant a3_rin_shards_of_ire_76b2fe88_1:
 translate zh_hant a3_rin_shards_of_ire_8064b3aa:
 
     # "Darkness covers the gardens of Yamaku High School, enveloping the small dormitory rooms in the blanket of the night."
-    "黑暗籠罩了山久高中的花園，用夜的毛毯將小小的宿舍樓包裹起來。"
+    "黑暗籠罩了山久高校的花園，用夜的毛毯將小小的宿舍樓包裹起來。"
 
 # game/script-a3-rin.rpy:4940
 translate zh_hant a3_rin_shards_of_ire_57803510:

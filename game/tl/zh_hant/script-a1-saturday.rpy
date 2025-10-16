@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-04-23 17:26
+# TODO: Translation updated at 2024-04-23 17:26
 
 # game/script-a1-saturday.rpy:31
 translate zh_hant a1_saturday_support_f2d1123c:
@@ -10,7 +10,7 @@ translate zh_hant a1_saturday_support_f2d1123c:
 translate zh_hant a1_saturday_support_420125eb:
 
     # "With only a day left to prepare, I suppose it's not so surprising. Thankfully, we only have to suffer through classes until the lunch break, and then our time is our own."
-    "我沒有感到意外，畢竟只剩下一天的準備時間了。謝天謝地，只要熬過午休前的課，剩下的時間就是我們自己的了。"
+    "沒有感到意外，畢竟只剩下一天的準備時間了。謝天謝地，只要熬過午休前的課，剩下的時間就是我們自己的了。"
 
 # game/script-a1-saturday.rpy:38
 translate zh_hant a1_saturday_support_9e4b954c:
@@ -58,7 +58,7 @@ translate zh_hant a1_saturday_support_afe7193c:
 translate zh_hant a1_saturday_support_47a4b411:
 
     # "I wonder if she was born as rowdy as she is, or if she is 'making up' for Shizune's lack of voice."
-    "我想米莎是生來就是那麼愛喧鬧呢，還是她是在用喧鬧來“彌補”靜音不能說話。"
+    "我不知道她是不是天生就這麼吵鬧，或者她是在「彌補」靜音的失聲。"
 
 # game/script-a1-saturday.rpy:66
 translate zh_hant a1_saturday_support_dc0c8ac6:
@@ -118,7 +118,7 @@ translate zh_hant a1_saturday_support_4580585e:
 translate zh_hant a1_saturday_support_b742833e:
 
     # mu "Yes, yes it is. Anything that can endanger your health is something to be worried about."
-    mu "嗯，不是的。與你生命攸關的事情當然很重要。"
+    mu "嗯，不是的。與你性命攸關的事當然很重要。"
 
 # game/script-a1-saturday.rpy:101
 translate zh_hant a1_saturday_support_16f41728:
@@ -130,7 +130,7 @@ translate zh_hant a1_saturday_support_16f41728:
 translate zh_hant a1_saturday_support_f3fca8d5:
 
     # mu "It would be remiss of me if I didn't speak up about this."
-    mu "如果不把這些說清楚，這就是我的過失了。"
+    mu "如果不把這些說清楚，就是我失職了。"
 
 # game/script-a1-saturday.rpy:105
 translate zh_hant a1_saturday_support_cf0012dc:
@@ -142,31 +142,31 @@ translate zh_hant a1_saturday_support_cf0012dc:
 translate zh_hant a1_saturday_support_4144580c:
 
     # "Mutou closes his eyes in frustration, and I realize that this probably wasn't the best thing to say."
-    "武藤被挫敗般地閉上了眼睛，我意識到也許我不該選這個場合來說這種話。"
+    "武藤老師沮喪地閉上眼睛，我意識到這可能不是最好的說法。"
 
 # game/script-a1-saturday.rpy:109
 translate zh_hant a1_saturday_support_e23e9a65:
 
     # mu "Something tells me that you're not sorry. Pretend as much as you want, but this isn't a normal school."
-    mu "我的直覺告訴我，你並不覺得抱歉。儘管裝吧，但這裡並不是普通的學校。"
+    mu "我的直覺告訴我你並不覺得抱歉。儘管裝吧，但這裡並不是普通的學校。"
 
 # game/script-a1-saturday.rpy:111
 translate zh_hant a1_saturday_support_afb5fef8:
 
     # mu "A lot of people have put in a lot of time, effort, and money to make sure that you, and every other student here, can have the same level of education as your peers."
-    mu "許多人投入了大量的時間、精力和金錢來確保你，以及這裡其他的學生能和你們的同齡人一樣受到同等水平的教育。"
+    mu "許多人投入了大量的時間、精力和金錢，來確保你以及這裡其他的學生，能和你們同齡人受到一樣水準的教育。"
 
 # game/script-a1-saturday.rpy:113
 translate zh_hant a1_saturday_support_da921e3d:
 
     # mu "For you to abuse that by throwing out advice, especially medical advice, is plain selfish."
-    mu "如果你不知道珍惜這些條件，還要把醫生的意見當耳邊風，那真是非常自私的想法。"
+    mu "如果你不知道珍惜這些條件，還要把醫生的意見當耳邊風，那真是非常的自私。"
 
 # game/script-a1-saturday.rpy:115
 translate zh_hant a1_saturday_support_0496bfb5:
 
     # "I'm not quite sure if this is actually how he feels, or if it is some act that he's practiced many times to guilt-trip students into doing the 'right' thing. Either way, it's working."
-    "我不知道這些是他的肺腑之言，還是他練習過很多次用來勸學生迴歸“正途”的話。不管怎樣，這相當地奏效。"
+    "我不太確定這是不是他的真實感受，或者這只是他為了讓學生產生罪惡感而多次練習的伎倆。無論如何，這招奏效了。"
 
 # game/script-a1-saturday.rpy:117
 translate zh_hant a1_saturday_support_22b44716:
@@ -178,7 +178,7 @@ translate zh_hant a1_saturday_support_22b44716:
 translate zh_hant a1_saturday_support_ee80f791:
 
     # "Mutou appears to lighten up a little, satisfied that his message has been received."
-    "武藤看起來輕鬆了一點，看來他對他收到的回答相當滿意。"
+    "武藤老師似乎輕鬆了一些，滿意地認為他的訊息已經傳達到了。"
 
 # game/script-a1-saturday.rpy:124
 translate zh_hant a1_saturday_support_8a4bdcc9:
@@ -238,25 +238,25 @@ translate zh_hant a1_saturday_support_da530d85:
 translate zh_hant a1_saturday_support_44dd2e66:
 
     # mu "Good, that's good. The school nurse was a little concerned that you might have been pushing yourself a bit too hard."
-    mu "好，那很好。學校的校醫擔心你有一點對自己的身體過於苛刻了。"
+    mu "好，那很好。學校的校醫擔心你有一點對自己的身體過於苛求了。"
 
 # game/script-a1-saturday.rpy:153
 translate zh_hant a1_saturday_support_a652892a:
 
     # mu "He asked me to keep an eye on you when he couldn't."
-    mu "他要我在他照看不到你的時候替他好好盯著你。"
+    mu "他要我在他照顧不了你的時候替他好好盯著你。"
 
 # game/script-a1-saturday.rpy:155
 translate zh_hant a1_saturday_support_9e149c74:
 
     # hi "That makes sense…"
-    hi "有道理……"
+    hi "可以理解……"
 
 # game/script-a1-saturday.rpy:160
 translate zh_hant a1_saturday_support_b9e2649b:
 
     # mu "I'd ask that you don't blow us off so freely. As much as we try to give you the level of education that you would get at a normal school, you have to realize that you have limits."
-    mu "我倒希望你別把這話當耳邊風。我們竭盡所能地給你提供正常學校的教育水平，但你也需要知道自己是有極限的。"
+    mu "我倒希望你別把這話當耳邊風。我們竭盡所能地給你提供正常學校水準的教育，但你也需要知道自己是有極限的。"
 
 # game/script-a1-saturday.rpy:162
 translate zh_hant a1_saturday_support_b304026c:
@@ -274,31 +274,31 @@ translate zh_hant a1_saturday_support_fc8f5210:
 translate zh_hant a1_saturday_support_dcf34bfa:
 
     # mu "Well, that's a start, I guess."
-    mu "好吧，我想這個頭開得不錯。"
+    mu "好吧，這是個好的開始。"
 
 # game/script-a1-saturday.rpy:176
 translate zh_hant a1_saturday_support_7e6b8551:
 
     # mu "So then, onto my next question; how are you finding your studies? I understand you were laid up for a while. We're not too far ahead, are we?"
-    mu "那，下一個問題：你的功課怎麼樣了？我知道你之前落後了一點，但是我們並沒有領先太多。不是麼？"
+    mu "那，下一個問題：你的功課怎麼樣了？我知道你之前落後了一點，但是我們學校並沒有超前太多。不是麼？"
 
 # game/script-a1-saturday.rpy:178
 translate zh_hant a1_saturday_support_62c6eb0c:
 
     # hi "I don't really think so. I tried to keep up when I was in the hospital, so it hasn't been too hard."
-    hi "還好吧。住院的時候我就在努力趕上功課，應該沒有落下很多。"
+    hi "還好吧。住院的時候我就在努力趕上功課，應該沒有落後很多。"
 
 # game/script-a1-saturday.rpy:183
 translate zh_hant a1_saturday_support_67bb5d64:
 
     # "Mutou taps his chin and raises an eyebrow as he absorbs this information."
-    "武藤一邊輕輕敲著下巴，揚起半邊眉毛，一邊吸收著這個資訊。"
+    "武藤手托著下巴，揚起半邊眉毛，一邊吸收著這個資訊。"
 
 # game/script-a1-saturday.rpy:185
 translate zh_hant a1_saturday_support_0552bb00:
 
     # mu "Is that so… I suppose there are still students out there who realize the importance of learning…"
-    mu "這樣啊……看來有些同學還是意識到了學習的重要性。"
+    mu "這樣啊……看來還是有些同學意識到了學習的重要性。"
 
 # game/script-a1-saturday.rpy:187
 translate zh_hant a1_saturday_support_a3bf4a04:
@@ -310,19 +310,19 @@ translate zh_hant a1_saturday_support_a3bf4a04:
 translate zh_hant a1_saturday_support_3f9377e1:
 
     # hi "Well, yeah. You've got to keep up with these things, right?"
-    hi "呃，是啊。做人就是要與時俱進，不是麼？"
+    hi "呃，是啊。做人要與時俱進，不是麼？"
 
 # game/script-a1-saturday.rpy:194
 translate zh_hant a1_saturday_support_bec8d0bf:
 
     # mu "That's exactly it. One wrong move in this world and you're left behind, right?"
-    mu "說得太對了。逆水行舟，不進則退，你說對吧？"
+    mu "說得太對了。逆水行舟，不進則退，對吧？"
 
 # game/script-a1-saturday.rpy:196
 translate zh_hant a1_saturday_support_43ae8568:
 
     # hi "Er, right. Wouldn't want that to happen."
-    hi "呃，是啊。確實不想那樣呢。"
+    hi "呃，是啊。確實不想和世界脫節呢。"
 
 # game/script-a1-saturday.rpy:201
 translate zh_hant a1_saturday_support_3a48e105:
@@ -358,13 +358,13 @@ translate zh_hant a1_saturday_support_629a68ae:
 translate zh_hant a1_saturday_support_22d907c9:
 
     # "My relief at that suggestion is insurmountable."
-    "聽到他的建議，我心中簡直像放下了整個富士山。"
+    "聽到他的建議，我鬆了一大口氣。"
 
 # game/script-a1-saturday.rpy:216
 translate zh_hant a1_saturday_support_38b56661:
 
     # hi "Sure. You're the boss, right?"
-    hi "當然，你說了算，不是嘛？"
+    hi "當然，老師說了算，不是嘛？"
 
 # game/script-a1-saturday.rpy:221
 translate zh_hant a1_saturday_support_b53ab323:
@@ -376,7 +376,7 @@ translate zh_hant a1_saturday_support_b53ab323:
 translate zh_hant a1_saturday_support_ccbfdabf:
 
     # mu "I don't think any of my students have ever said that to me before."
-    mu "我的學生從沒這麼對我說過。"
+    mu "我的學生從沒這麼對我說話。"
 
 # game/script-a1-saturday.rpy:225
 translate zh_hant a1_saturday_support_0bf1c594:
@@ -442,7 +442,7 @@ translate zh_hant a1_saturday_support_a2bee472:
 translate zh_hant a1_saturday_support_15f5b046:
 
     # "I stay behind and try to quickly finish the questions so I don't have to bother with it over the rest of the weekend, with the festival and all tomorrow."
-    "我待在教室裡，想迅速把題目解決掉，我可不想在週末還要顧慮著作業，而且明天還有園遊會之類的麻煩事。"
+    "我待在教室裡，想迅速把題目解決掉，我可不想在週末還要掛念著作業，而且明天還有園遊會之類的麻煩事。"
 
 # game/script-a1-saturday.rpy:272
 translate zh_hant a1_saturday_support_47d5a638:
@@ -454,7 +454,7 @@ translate zh_hant a1_saturday_support_47d5a638:
 translate zh_hant a1_saturday_support_5bcaefb1:
 
     # "It's weird that Lilly comes all the way to our classroom to pick her up. I expect that moving around is at least nominally harder for her than it is for Hanako."
-    "我覺得莉莉山長水遠地來我們教室接華子是件很詭異的事。我覺得正常來說，她要四處走動起碼會比華子來得更困難。"
+    "我覺得莉莉老遠地來我們教室接華子是件很詭異的事。正常來說，她要四處走動會比華子來得更困難。"
 
 # game/script-a1-saturday.rpy:276
 translate zh_hant a1_saturday_support_55f6a6dc:
@@ -496,7 +496,7 @@ translate zh_hant a1_saturday_support_1276d8bd:
 translate zh_hant a1_saturday_support_d67e9142:
 
     # "Before long, Lilly's tall figure appears in the doorway."
-    "很久之後，莉莉高高的身影出現在走廊上。"
+    "不久後，莉莉高挑的身影出現在門口。"
 
 # game/script-a1-saturday.rpy:298
 translate zh_hant a1_saturday_support_dc6591cc:
@@ -640,7 +640,7 @@ translate zh_hant a1_saturday_an_asethetics_44f7f200:
 translate zh_hant a1_saturday_an_asethetics_621e5f88:
 
     # "On the way to dorms, I spot Emi coming my way, running despite not having those weird running prosthetics on. I wave at her and she skids to a stop."
-    "回宿舍的路上，我看見笑美朝這邊跑著，雖然沒穿上那雙詭異的跑步用義肢。我對她招了招手，後者則側身剎住衝勢。"
+    "回宿舍的路上，我看見笑美朝這邊跑著，雖然沒穿上那雙詭異的跑步用義肢。我對她招了招手，笑美側身剎住衝勢。"
 
 # game/script-a1-saturday.rpy:429
 translate zh_hant a1_saturday_an_asethetics_f8e91059:
@@ -700,7 +700,7 @@ translate zh_hant a1_saturday_an_asethetics_b98389fc:
 translate zh_hant a1_saturday_an_asethetics_410693c7:
 
     # "Even her walking speed is more like jogging, making me stumble over myself simply trying to keep up."
-    "她走路的速度跟普通人慢跑沒什麼兩樣，讓我在努力跟上的時候差點踉蹌仆倒。"
+    "她走路的速度跟普通人慢跑沒什麼兩樣，讓我在努力跟上的時候差點踉蹌跌倒。"
 
 # game/script-a1-saturday.rpy:467
 translate zh_hant a1_saturday_an_asethetics_e65b0150:
@@ -748,19 +748,19 @@ translate zh_hant a1_saturday_an_asethetics_e1f8a5e6:
 translate zh_hant a1_saturday_an_asethetics_d5c06a67:
 
     # "So thanks to Emi's flaky logic, here I am again, collecting stuff from the art classroom for other people. "
-    "多虧了笑美可憐的邏輯，我又站在這裡，在美術室裡給被人找東找西。"
+    "多虧了笑美可憐的邏輯，我又站在這裡，在美術室裡給人找東找西。"
 
 # game/script-a1-saturday.rpy:502
 translate zh_hant a1_saturday_an_asethetics_45df3b99:
 
     # "The room is empty apart from ourselves and the lonely specks of dust floating in the air. Emi skips straight away to the back wall, digging out a tiny, crumpled piece of paper from her pocket."
-    "教室空空如也，只有我們和空氣中孤單地漂浮著的點點灰塵。笑美徑直蹦到教室後面的牆壁，從衣兜裡掏出一張小小的、滿是皺褶的紙條。"
+    "教室空空如也，只有我們和空氣中孤單地漂浮著的點點灰塵。笑美逕自蹦到教室後面的牆壁，從衣兜裡掏出一張小小的、滿是皺褶的紙條。"
 
 # game/script-a1-saturday.rpy:504
 translate zh_hant a1_saturday_an_asethetics_b2f7b41e:
 
     # "While she tries to make sense of the scrawled handwriting, I take a closer look at the materials lying around here."
-    "笑美費力地想要猜出紙片上潦草字體的意思，我則仔細看著散落四周的各種材料。"
+    "笑美費力地想要猜出紙片上潦草字體的意思，我則看著散落四周的各種材料。"
 
 # game/script-a1-saturday.rpy:506
 translate zh_hant a1_saturday_an_asethetics_9f7b896e:
@@ -826,13 +826,13 @@ translate zh_hant a1_saturday_an_asethetics_26ca76f8:
 translate zh_hant a1_saturday_an_asethetics_c5e2287d:
 
     # hi "Come on, let me do that. You can't jump high enough, and I don't want you to hurt yourself trying."
-    hi "來吧，讓我來。你跳不了那麼高，而且我也不想你傷到你自己。"
+    hi "來吧，讓我來。妳跳不了那麼高，而且我也不想讓妳傷害自己。"
 
 # game/script-a1-saturday.rpy:546
 translate zh_hant a1_saturday_an_asethetics_486bdb64:
 
     # hi "Also, I'm like twice your height."
-    hi "而且，我有兩個你那麼高呢。"
+    hi "而且，我有兩個妳那麼高呢。"
 
 # game/script-a1-saturday.rpy:551
 translate zh_hant a1_saturday_an_asethetics_08dc74c3:
@@ -844,13 +844,13 @@ translate zh_hant a1_saturday_an_asethetics_08dc74c3:
 translate zh_hant a1_saturday_an_asethetics_92767b46:
 
     # "She turns around, flaring scorn, flushed cheeks and all."
-    "她轉過身來，眼中透露著鄙視，臉頰都漲紅了。"
+    "她轉過身來，眼中透露著鄙視，氣到臉頰都漲紅了。"
 
 # game/script-a1-saturday.rpy:555
 translate zh_hant a1_saturday_an_asethetics_011afea5:
 
     # hi "Just kidding, just kidding. Anyway, I'll look up there, okay?"
-    hi "開玩笑的啦，真的只是開玩笑。不管怎樣，讓我來弄，好嗎？"
+    hi "開玩笑的啦，真的只是開玩笑。不管怎樣，讓我來拿，好嗎？"
 
 # game/script-a1-saturday.rpy:560
 translate zh_hant a1_saturday_an_asethetics_c3da922e:
@@ -886,7 +886,7 @@ translate zh_hant a1_saturday_an_asethetics_0367e340:
 translate zh_hant a1_saturday_an_asethetics_e1b1ac35:
 
     # "Only after we have almost all the items collected and spread out on a desk like a treasure hunter's spoils do I realize that it wasn't necessarily the height jab that got her riled up."
-    "我們幾乎拿齊了所有的東西，像寶藏獵人一樣將戰利品鋪開在桌子上的時候，我才發現讓笑美髮飆的原因不一定是夠不著的問題。"
+    "我們幾乎拿齊了所有的東西，像寶藏獵人一樣將戰利品鋪開在桌子上的時候，我才發現讓笑美發飆的原因不一定是搆不著的問題。"
 
 # game/script-a1-saturday.rpy:578
 translate zh_hant a1_saturday_an_asethetics_8af6de4c:
@@ -916,7 +916,7 @@ translate zh_hant a1_saturday_an_asethetics_65973da4:
 translate zh_hant a1_saturday_an_asethetics_6e5b3f3a:
 
     # emi "Rin is really stressed about getting her painting done. It's her own fault though; she should've started earlier."
-    emi "琳為了完成這幅壁畫可是承受了很大的壓力。不過這是她的錯，她早就應該開始了。"
+    emi "琳為了完成這幅壁畫承受了很大的壓力。不過這是她自己的錯，她早就應該開始了。"
 
 # game/script-a1-saturday.rpy:597
 translate zh_hant a1_saturday_an_asethetics_1df86ee1:
@@ -928,7 +928,7 @@ translate zh_hant a1_saturday_an_asethetics_1df86ee1:
 translate zh_hant a1_saturday_an_asethetics_14c2e0c9:
 
     # emi "No idea. It looks good to me, but with Rin, you never know what's going on."
-    emi "不知道呢。我看著還很不錯啦，但要是琳的話，你真猜不透她會做什麼。"
+    emi "不知道呢。我看著還還不錯啦，但要是琳的話，你真猜不透她會做什麼。"
 
 # game/script-a1-saturday.rpy:607
 translate zh_hant a1_saturday_an_asethetics_5de47b40:
@@ -958,7 +958,7 @@ translate zh_hant a1_saturday_an_asethetics_5340521b:
 translate zh_hant a1_saturday_an_asethetics_8953a2d5:
 
     # emi "I don't mind it. She's just a little weird sometimes."
-    emi "我不會介意的。她有時確實有點詭異。"
+    emi "我不會介意的。她有時確實有點不太正常。"
 
 # game/script-a1-saturday.rpy:626
 translate zh_hant a1_saturday_an_asethetics_cddab4eb:
@@ -970,7 +970,7 @@ translate zh_hant a1_saturday_an_asethetics_cddab4eb:
 translate zh_hant a1_saturday_an_asethetics_3df77618:
 
     # "Still, they don't feel close like Misha and Shizune do. With them working as a single entity sometimes, it's hard to say where one ends and the other begins."
-    "但是她們也不像米莎和靜音那樣整天黏在一起。米莎和靜音有時簡直就像一個統一的個體那樣，誰做了什麼或者誰想了什麼很難分辨清楚。"
+    "但是她們也不像米莎和靜音那樣整天黏在一起。米莎和靜音有時簡直就像一個個體那樣，誰做了什麼或者誰想了什麼很難分辨清楚。"
 
 # game/script-a1-saturday.rpy:630
 translate zh_hant a1_saturday_an_asethetics_461c7257:
@@ -982,7 +982,7 @@ translate zh_hant a1_saturday_an_asethetics_461c7257:
 translate zh_hant a1_saturday_an_asethetics_a1dea9ea:
 
     # "And Rin is the most different of them all, different from anyone else I've met."
-    "而且琳是她們中間最與眾不同的一個，不同於以往我所遇見到的所有人。"
+    "而琳是她們中間最與眾不同的一個，不同於以往我所遇見到的所有人。"
 
 # game/script-a1-saturday.rpy:634
 translate zh_hant a1_saturday_an_asethetics_9bd95d9e:
@@ -1000,19 +1000,19 @@ translate zh_hant a1_saturday_an_asethetics_63627c92:
 translate zh_hant a1_saturday_an_asethetics_593fabaf:
 
     # "Emi giggles as I grasp about for a properly descriptive word."
-    "笑美咯咯笑著，好像我用到了一個合適的詞語。"
+    "笑美咯咯笑著，好像我用了一個合適的詞語。"
 
 # game/script-a1-saturday.rpy:646
 translate zh_hant a1_saturday_an_asethetics_e07c36b4:
 
     # emi "She's just weird."
-    emi "她確實挺奇怪的。"
+    emi "她就是個怪人。"
 
 # game/script-a1-saturday.rpy:651
 translate zh_hant a1_saturday_an_asethetics_9255c9d1:
 
     # emi "You know, earlier, she just spent half an hour sitting on her box."
-    emi "你知道嗎，早些時候，她曾經在她的箱子上坐了半個小時。"
+    emi "你知道嗎，稍早她才在箱子上坐了半個小時。"
 
 # game/script-a1-saturday.rpy:653
 translate zh_hant a1_saturday_an_asethetics_f6a096a7:
@@ -1030,13 +1030,13 @@ translate zh_hant a1_saturday_an_asethetics_985b95fc:
 translate zh_hant a1_saturday_an_asethetics_efb9222e:
 
     # emi "All that time."
-    emi "就這樣一直盯著。"
+    emi "就那樣一直盯著看。"
 
 # game/script-a1-saturday.rpy:674
 translate zh_hant a1_saturday_an_asethetics_2c898b2c:
 
     # "The working area is a mess, but the mural itself has taken over even more of the wall since I last saw it."
-    "畫畫的地方一片狼藉，但比起我上一次看到的時候，壁畫已經佔據了大半面牆了。"
+    "畫畫的地方一片狼藉，但與我上一次看到的時候相比，壁畫已經佔據了大半面牆了。"
 
 # game/script-a1-saturday.rpy:676
 translate zh_hant a1_saturday_an_asethetics_c594d8b8:
@@ -1054,13 +1054,13 @@ translate zh_hant a1_saturday_an_asethetics_229fba95:
 translate zh_hant a1_saturday_an_asethetics_bc131335:
 
     # "But honestly, it seems that the area around the wall becomes untidier at the same rate as the mural progresses."
-    "但老實說，隨著壁畫逐漸完成，牆邊的區域也愈發凌亂起來。"
+    "但老實說，牆邊的區域似乎跟壁畫的進度一樣，越來越亂了。"
 
 # game/script-a1-saturday.rpy:682
 translate zh_hant a1_saturday_an_asethetics_699c259c:
 
     # "The ground is littered with dozens of paint cans, various art supplies and empty soda bottles."
-    "滿地都是顏料罐，各種畫具和空的汽水瓶。"
+    "地上到處都是顏料罐、各種美術用品和空汽水瓶。"
 
 # game/script-a1-saturday.rpy:687
 translate zh_hant a1_saturday_an_asethetics_a0db0cd0:
@@ -1138,19 +1138,19 @@ translate zh_hant a1_saturday_an_asethetics_5fcec655:
 translate zh_hant a1_saturday_an_asethetics_edc7b9f4:
 
     # hi "Never mind."
-    hi "別深究了。"
+    hi "別在意。"
 
 # game/script-a1-saturday.rpy:742
 translate zh_hant a1_saturday_an_asethetics_73968cd9:
 
     # hi "Looks like you've made progress. Looking good, as far as I can tell."
-    hi "看起來進展挺快的。我覺得看起來挺不錯。"
+    hi "看起來進度不錯。我覺得這畫很棒。"
 
 # game/script-a1-saturday.rpy:747
 translate zh_hant a1_saturday_an_asethetics_b596cb75:
 
     # rin "But now you get more bad luck."
-    rin "但你現在要有更多黴運了。"
+    rin "但你現在要更倒霉了。"
 
 # game/script-a1-saturday.rpy:749
 translate zh_hant a1_saturday_an_asethetics_d9a28fda:
@@ -1162,19 +1162,19 @@ translate zh_hant a1_saturday_an_asethetics_d9a28fda:
 translate zh_hant a1_saturday_an_asethetics_eb3cace7:
 
     # rin "That's a very nice thing to say. For me, of course. Not for you."
-    rin "這話真好聽。當然，是我來說。對你就不一樣了。"
+    rin "這話說得真好聽。當然，是對我而言。對你可不是。"
 
 # game/script-a1-saturday.rpy:759
 translate zh_hant a1_saturday_an_asethetics_8a01aec2:
 
     # rin "This is why artists are always unlucky. They have to constantly look at their unfinished paintings."
-    rin "所以藝術家才總是不幸的。他們必須一直評判自己未完成的作品。"
+    rin "這就是為什麼藝術家總是不幸。他們必須不斷看著自己未完成的畫作。"
 
 # game/script-a1-saturday.rpy:761
 translate zh_hant a1_saturday_an_asethetics_1ea99adc:
 
     # rin "So artists can't find romance, their favorite TV shows are canceled, or they die young because of an unspecified disease. It's a deep and mysterious law of the universe."
-    rin "所以藝術家們才總是得不到愛情，總是看著最喜歡的電視節目被取消，總是因為莫名的疾病英年早逝。這是一個宇宙中神祕深邃的法則。"
+    rin "所以藝術家總是找不到愛情、最喜歡的電視節目被腰斬、或因為不明疾病而英年早逝。這是宇宙間一個既深奧又神祕的法則。"
 
 # game/script-a1-saturday.rpy:766
 translate zh_hant a1_saturday_an_asethetics_fd024b7d:
@@ -1198,7 +1198,7 @@ translate zh_hant a1_saturday_an_asethetics_6d6ec2a2:
 translate zh_hant a1_saturday_an_asethetics_5a74f291:
 
     # rin "At the art club, you see. Blind boy. So he doesn't. See."
-    rin "他是美術社的，你瞧。一個盲人男孩。所以他不會倒黴。懂嗎。"
+    rin "他是美術社的，你瞧。一個盲人男孩。所以他不會倒霉。懂嗎。"
 
 # game/script-a1-saturday.rpy:781
 translate zh_hant a1_saturday_an_asethetics_ab881c95:
@@ -1222,7 +1222,7 @@ translate zh_hant a1_saturday_an_asethetics_7d152421:
 translate zh_hant a1_saturday_an_asethetics_991b9318:
 
     # rin "He should become an artist. No bad luck, guaranteed."
-    rin "他應該做個藝術家的。絕對不會走黴運，有保證。"
+    rin "他應該當個藝術家。保證不會倒霉。"
 
 # game/script-a1-saturday.rpy:795
 translate zh_hant a1_saturday_an_asethetics_eae651e6:
@@ -1252,7 +1252,7 @@ translate zh_hant a1_saturday_an_asethetics_be828747:
 translate zh_hant a1_saturday_an_asethetics_a241bd14:
 
     # "Abandoning this train of thought, she turns again to consider her work and starts humming a tune that I think I recognize, but can't remember the name of."
-    "她丟掉了這個想法，開始繼續研究自己的畫，一邊哼著一首我很耳熟，卻又叫不出名的曲調。"
+    "她拋開了這個念頭，轉身繼續端詳自己的畫，一邊哼著一首我好像聽過卻想不起名字的曲子。"
 
 # game/script-a1-saturday.rpy:817
 translate zh_hant a1_saturday_an_asethetics_07ee1e52:
@@ -1294,7 +1294,7 @@ translate zh_hant a1_saturday_an_asethetics_027a4fe1:
 translate zh_hant a1_saturday_an_asethetics_6414ebba:
 
     # "I look around as well, even though I don't know what Prussian blue looks like, either. I wonder what blue has to do with Prussia."
-    "雖然我也不知道普魯士藍是什麼樣子，但也在幫著四處搜索。不知道哪種藍和普魯士有關係。"
+    "雖然我也不知道普魯士藍長什麼樣子，但還是幫忙到處找。我很好奇這種藍色跟普魯士有什麼關係。"
 
 # game/script-a1-saturday.rpy:843
 translate zh_hant a1_saturday_an_asethetics_e0e49294:
@@ -1330,7 +1330,7 @@ translate zh_hant a1_saturday_creative_pain_888d60b5:
 translate zh_hant a1_saturday_creative_pain_e11cbb0a:
 
     # emi "I promised to help with our class project, though, so I'll be back a bit later. Can you manage without it for a few hours?"
-    emi "但我也答應要幫忙準備我們班的項目，我可能會遲一點再回來。你能不用那些顏色先畫幾個小時麼？"
+    emi "但我也答應要幫忙準備我們班的活動，我可能會晚一點再回來。妳能不用那些顏色先畫幾個小時麼？"
 
 # game/script-a1-saturday.rpy:873
 translate zh_hant a1_saturday_creative_pain_0068f244:
@@ -1348,7 +1348,7 @@ translate zh_hant a1_saturday_creative_pain_35118de2:
 translate zh_hant a1_saturday_creative_pain_b2970988:
 
     # "I sit on a box and pick up today's book from my bag. It's a story about three guys drinking beer for two weeks straight and doing little else."
-    "我坐在一個箱子上，從揹包裡拿出今天借的書。書裡是個關於三個人如何在兩個星期裡什麼都不做，不斷喝啤酒的故事。"
+    "我坐在一個箱子上，從背包裡拿出今天借的書。這是一個關於三個人在兩週內除了不斷喝啤酒外，什麼也沒做的故事。"
 
 # game/script-a1-saturday.rpy:893
 translate zh_hant a1_saturday_creative_pain_e59f4b9c:
@@ -1360,7 +1360,7 @@ translate zh_hant a1_saturday_creative_pain_e59f4b9c:
 translate zh_hant a1_saturday_creative_pain_a3a6b25e:
 
     # "Her foot works the brush steadily against the plastered wall. Layers of paint on top of layers of paint. The mural slowly gains more form."
-    "她用腳穩穩地攥著畫刷，在牆上塗著。一層層顏料互相重疊，覆蓋了原來的圖案。慢慢地，壁畫變得越來越複雜了。"
+    "她用腳穩穩地夾著畫刷，在抹了灰泥的牆上塗抹。顏料一層層地疊加上去，壁畫慢慢地成形。"
 
 # game/script-a1-saturday.rpy:897
 translate zh_hant a1_saturday_creative_pain_10faf600:
@@ -1372,7 +1372,7 @@ translate zh_hant a1_saturday_creative_pain_10faf600:
 translate zh_hant a1_saturday_creative_pain_7e2cc21d:
 
     # "It's not a page-turner kind of book, a slice of someone's imaginary life that makes me wonder why it had to be written."
-    "這不是一本引人入勝的書，只不過是寫了一個人幻想中的生活而已。我好奇作者為什麼要寫它。"
+    "這不是一本會讓人想一頁頁翻下去的書，只是某人想像中生活的片段，讓我不禁好奇作者為什麼要寫這個。"
 
 # game/script-a1-saturday.rpy:901
 translate zh_hant a1_saturday_creative_pain_6048ee19:
@@ -1384,13 +1384,13 @@ translate zh_hant a1_saturday_creative_pain_6048ee19:
 translate zh_hant a1_saturday_creative_pain_a054e41f:
 
     # "Like why Rin does paintings. It feels like she and Emi are the same, going squarely against their fates as if it's just out of spite."
-    "就像琳為什麼要畫畫。我感覺她和笑美似乎是一樣的，都是在用自己的行動去直接反抗命運，彷彿只是為了蔑視般地泄憤。"
+    "就像琳為什麼要畫畫一樣。我覺得她和笑美很像，都在公然對抗自己的命運，彷彿只是出於一股怨氣。"
 
 # game/script-a1-saturday.rpy:905
 translate zh_hant a1_saturday_creative_pain_147ae45a:
 
     # "Rin even said something like that. 'Do something you can't just because you can.'"
-    "琳甚至說過“去做那些你做不到的事，只是因為你可以那麼做。"
+    "琳甚至說過“去做那些你做不到的事，只是因為你可以那麼做“。"
 
 # game/script-a1-saturday.rpy:907
 translate zh_hant a1_saturday_creative_pain_178ca1d4:
@@ -1402,7 +1402,7 @@ translate zh_hant a1_saturday_creative_pain_178ca1d4:
 translate zh_hant a1_saturday_creative_pain_ea065e7f:
 
     # "Rin doesn't give off that kind of an air. Thinking about it, she doesn't give off any kind of air, or maybe a different kind every time I talk with her."
-    "但琳沒有給人那種感覺。不過話又說回來，琳從沒給出過某種特定的感覺，或者每次和她接觸時，她都已經換了一種感覺。"
+    "但琳沒有給我那種感覺。仔細想想，她從未給人任何特定的感覺，或者說，每次和她說話，她的感覺都不同。"
 
 # game/script-a1-saturday.rpy:911
 translate zh_hant a1_saturday_creative_pain_208c1ebe:
@@ -1414,7 +1414,7 @@ translate zh_hant a1_saturday_creative_pain_208c1ebe:
 translate zh_hant a1_saturday_creative_pain_978bdb0f:
 
     # "I've never had much of a creative impulse so I don't think I can really understand it."
-    "我從來沒有過思如泉湧的時刻，所以我猜我沒法真正理解。"
+    "我從來沒有過什麼創作的衝動，所以我想我無法真正理解。"
 
 # game/script-a1-saturday.rpy:915
 translate zh_hant a1_saturday_creative_pain_8a0dd678:
@@ -1444,13 +1444,13 @@ translate zh_hant a1_saturday_creative_pain_f3e8b803:
 translate zh_hant a1_saturday_creative_pain_e5d3571d:
 
     # "Still, I do need to find something. Something that could… make me feel a little less lost about myself, instead of just drowning myself in these books as I did in the hospital."
-    "但是，我確實需要尋找某樣東西。某種東西……能使我不像現在這般失落，不像在醫院時那樣，把自己埋在書本里。"
+    "不過，我確實需要找到某樣東西。某樣能……讓我對自己不那麼迷惘的東西，而不是像在醫院時那樣，只會把自己埋首在書堆裡。"
 
 # game/script-a1-saturday.rpy:925
 translate zh_hant a1_saturday_creative_pain_18656b29:
 
     # "I can't help but feel disoriented; the new school, lifestyle and people around me contribute heavily to this sensation."
-    "我不禁有些迷惘；新的學校，新的生活方式，周圍的人越發加重了我的這種感覺。"
+    "我不禁感到有些迷失方向。新的學校、新的生活方式，以及周遭的人們都大大加劇了這種感覺。"
 
 # game/script-a1-saturday.rpy:927
 translate zh_hant a1_saturday_creative_pain_59b2b6ee:
@@ -1468,7 +1468,7 @@ translate zh_hant a1_saturday_creative_pain_11d2a08b:
 translate zh_hant a1_saturday_creative_pain_de4f63ed:
 
     # "I shake the feeling off, realizing that I'm spacing out. I have neither turned a page of the book, nor done anything for Rin."
-    "我拋開這種感覺，才意識到我神遊了。我既沒有翻書，也沒去幫琳的忙。"
+    "我甩開這種感覺，才發現自己分心了。我既沒有翻書，也沒有為琳做任何事。"
 
 # game/script-a1-saturday.rpy:935
 translate zh_hant a1_saturday_creative_pain_1be273fb:
@@ -1480,13 +1480,13 @@ translate zh_hant a1_saturday_creative_pain_1be273fb:
 translate zh_hant a1_saturday_creative_pain_ae2e5915:
 
     # "Either way, it looks very unstable."
-    "不管如何，情況看上去不太順當。"
+    "無論如何，那看起來都非常不穩。"
 
 # game/script-a1-saturday.rpy:945
 translate zh_hant a1_saturday_creative_pain_4c640e31:
 
     # "I quickly jump to help her, as it looks like she's about to spill the entire contents of the can all over the pavement."
-    "我趕緊跳過去幫她，她似乎馬上就要把整罐顏料都倒出來，灑滿人行道了。"
+    "我趕緊跳過去幫她，因為她看起來快要把整罐顏料灑滿地上了。"
 
 # game/script-a1-saturday.rpy:947
 translate zh_hant a1_saturday_creative_pain_cf7a9dbb:
@@ -1516,7 +1516,7 @@ translate zh_hant a1_saturday_creative_pain_5620f013:
 translate zh_hant a1_saturday_creative_pain_5525bd9c:
 
     # hi "A penny for your thoughts."
-    hi "一個硬幣，告訴我你在想什麼。"
+    hi "給妳一個硬幣，告訴我妳在想什麼。"
 
 # game/script-a1-saturday.rpy:963
 translate zh_hant a1_saturday_creative_pain_c0dc7bda:
@@ -1528,13 +1528,13 @@ translate zh_hant a1_saturday_creative_pain_c0dc7bda:
 translate zh_hant a1_saturday_creative_pain_42b9c603:
 
     # hi "I don't think I do."
-    hi "沒有。"
+    hi "我想我沒有。"
 
 # game/script-a1-saturday.rpy:970
 translate zh_hant a1_saturday_creative_pain_34a14114:
 
     # rin "Then I don't think I will tell. I'm not thinking anything either, so you're in luck. Except now I just did."
-    rin "那我就不會告訴你了。我現在也什麼都沒想，所以算你走運。不過我一秒前還在想的。"
+    rin "那我可不告訴你。反正我也沒在想什麼，所以算你走運。啊，不過我現在又開始想了。"
 
 # game/script-a1-saturday.rpy:972
 translate zh_hant a1_saturday_creative_pain_cf4cd607:
@@ -1546,7 +1546,7 @@ translate zh_hant a1_saturday_creative_pain_cf4cd607:
 translate zh_hant a1_saturday_creative_pain_b798ccb4:
 
     # rin "It's hard to not think about anything. But it's important."
-    rin "很難不去想什麼事情。但是這很重要的。"
+    rin "要什麼都不想很難。但這很重要。"
 
 # game/script-a1-saturday.rpy:976
 translate zh_hant a1_saturday_creative_pain_61ff7fbd:
@@ -1558,13 +1558,13 @@ translate zh_hant a1_saturday_creative_pain_61ff7fbd:
 translate zh_hant a1_saturday_creative_pain_d194624c:
 
     # no_ "Good afternoon. How's it going?"
-    no_ "下午好啊。畫得怎麼樣了 ？"
+    no_ "午安。畫得怎麼樣了？"
 
 # game/script-a1-saturday.rpy:991
 translate zh_hant a1_saturday_creative_pain_149d2f37:
 
     # rin "I can make it."
-    rin "我能弄完的。"
+    rin "我能畫完的。"
 
 # game/script-a1-saturday.rpy:993
 translate zh_hant a1_saturday_creative_pain_7de544ee:
@@ -1606,13 +1606,13 @@ translate zh_hant a1_saturday_creative_pain_34bb662a:
 translate zh_hant a1_saturday_creative_pain_f42f72ab:
 
     # no_ "What bold composition you have here!"
-    no_ "這構圖真有衝擊力！"
+    no_ "這構圖真是大膽！"
 
 # game/script-a1-saturday.rpy:1010
 translate zh_hant a1_saturday_creative_pain_c870dcb3:
 
     # "He moves to inspect the mural closer, talking to himself about it in a way that makes it obvious he wants us to hear it too."
-    "他走近了一點，更仔細地研看壁畫。他不斷喃喃自語，又好像是在故意讓我們都聽到。"
+    "他走近了些，更仔細地端詳壁畫。他對著壁畫自言自語，但又很明顯是想讓我們也聽見。"
 
 # game/script-a1-saturday.rpy:1015
 translate zh_hant a1_saturday_creative_pain_43d11aee:
@@ -1624,7 +1624,7 @@ translate zh_hant a1_saturday_creative_pain_43d11aee:
 translate zh_hant a1_saturday_creative_pain_72777834:
 
     # "I don't really know what to make of it but Rin doesn't seem to care much. She's looking around her working space, the various bowls of different tones scattered all over."
-    "我不知道該怎麼回答才好，但是琳看起來並不在意。她正在四下打望自己的工作地點，四下散落著盛有不同顏料的碗。"
+    "我不知道該怎麼回答才好，但是琳看起來並不在意。她正在四下打望自己的工作地點，四下散落著有不同顏料的碗。"
 
 # game/script-a1-saturday.rpy:1022
 translate zh_hant a1_saturday_creative_pain_aa95e2ab:
@@ -1648,7 +1648,7 @@ translate zh_hant a1_saturday_creative_pain_51ae856e:
 translate zh_hant a1_saturday_creative_pain_cd154c68:
 
     # hi "Give me a second."
-    hi "等一會兒。"
+    hi "等我一下。"
 
 # game/script-a1-saturday.rpy:1033
 translate zh_hant a1_saturday_creative_pain_265cd401:
@@ -1714,19 +1714,19 @@ translate zh_hant a1_saturday_creative_pain_6fc9c977:
 translate zh_hant a1_saturday_creative_pain_eaeb213f:
 
     # no "How did you come to end up assisting my protégée?"
-    no "你怎麼會來幫我的女徒弟了？"
+    no "你怎麼會來幫我的得意門生啊？"
 
 # game/script-a1-saturday.rpy:1100
 translate zh_hant a1_saturday_proper_exercise_f818b963:
 
     # emi "We need to go get more, then."
-    emi "那我們就要去拿些顏料了。"
+    emi "那我們得去拿更多顏料了。"
 
 # game/script-a1-saturday.rpy:1102
 translate zh_hant a1_saturday_proper_exercise_2923cf9d:
 
     # "I open my mouth to say that actually, we're not both needed for such a simple task like finding another pot of Prussian Blue, but Emi's already grabbed my arm and started dragging me off."
-    "我張大了嘴，想著要說明一點，其實去找一罐普魯士藍顏料那麼簡單的工作用不著兩個人同時出動。但笑美已經拽著我的胳膊把我拖走了。"
+    "我張開嘴想說，其實找一罐普魯士藍這種簡單的差事，根本用不著兩個人去。但笑美已經抓住我的手臂，開始把我拖走了。"
 
 # game/script-a1-saturday.rpy:1107
 translate zh_hant a1_saturday_proper_exercise_0ed8f781:
@@ -1756,7 +1756,7 @@ translate zh_hant a1_saturday_proper_exercise_ce617998:
 translate zh_hant a1_saturday_proper_exercise_ec3023e6:
 
     # "Probably not, actually."
-    "也許不會的。"
+    "也許不會。"
 
 # game/script-a1-saturday.rpy:1141
 translate zh_hant a1_saturday_proper_exercise_bbfa9904:
@@ -1774,7 +1774,7 @@ translate zh_hant a1_saturday_proper_exercise_8d342adf:
 translate zh_hant a1_saturday_proper_exercise_a01442f1:
 
     # hi "What's the rush?"
-    hi "我們在趕什麼？"
+    hi "在趕什麼？"
 
 # game/script-a1-saturday.rpy:1150
 translate zh_hant a1_saturday_proper_exercise_d5e5048f:
@@ -1792,13 +1792,13 @@ translate zh_hant a1_saturday_proper_exercise_e091b96b:
 translate zh_hant a1_saturday_proper_exercise_6fb1bb91:
 
     # hi "It's just that you seem to be in a hurry."
-    hi "只是你看起來很著急。"
+    hi "只是妳看起來很著急。"
 
 # game/script-a1-saturday.rpy:1156
 translate zh_hant a1_saturday_proper_exercise_222bb7c0:
 
     # hi "I'm not sure I can keep up."
-    hi "我不知道能不能跟得上你。"
+    hi "我不知道能不能跟得上妳。"
 
 # game/script-a1-saturday.rpy:1158
 translate zh_hant a1_saturday_proper_exercise_f9b39107:
@@ -1816,13 +1816,13 @@ translate zh_hant a1_saturday_proper_exercise_e6fdf82c:
 translate zh_hant a1_saturday_proper_exercise_9e31a153:
 
     # "There's almost an accusing playfulness to her tone."
-    "她的語調中幾乎帶著戲謔的成分。"
+    "她的語氣帶著一絲戲謔，又像是在責備我。"
 
 # game/script-a1-saturday.rpy:1169
 translate zh_hant a1_saturday_proper_exercise_95770cc3:
 
     # "I'm tempted to deny it, but then I realize that I've been breathing heavy since we stopped."
-    "我幾乎想開口否認，但接著我發現自己從站定的那一刻開始就在喘著粗氣。"
+    "我很想否認，但我發現自己停下來後就一直在喘大氣。"
 
 # game/script-a1-saturday.rpy:1171
 translate zh_hant a1_saturday_proper_exercise_a17618e7:
@@ -1834,13 +1834,13 @@ translate zh_hant a1_saturday_proper_exercise_a17618e7:
 translate zh_hant a1_saturday_proper_exercise_05c60fd3:
 
     # hi "A little. Not everybody can be in shape, you know."
-    hi "是有那麼一點。有些地方夠壯，另一些地方就會弱一點。"
+    hi "有一點。妳知道的，不是每個人都身體那麼好。"
 
 # game/script-a1-saturday.rpy:1175
 translate zh_hant a1_saturday_proper_exercise_1d1f556f:
 
     # hi "Takes all kinds, right?"
-    hi "人之常情嘛。對不對？"
+    hi "世界就是這樣，什麼樣的人都有，對吧？"
 
 # game/script-a1-saturday.rpy:1180
 translate zh_hant a1_saturday_proper_exercise_6b760141:
@@ -1876,7 +1876,7 @@ translate zh_hant a1_saturday_proper_exercise_2d240926:
 translate zh_hant a1_saturday_proper_exercise_79c438a2:
 
     # "I was, after all, feeling pretty good until I had my false alarm."
-    "畢竟我在收到身體的預警之前都自我感覺良好。"
+    "畢竟，在身體發出那次警報之前，我都感覺還不錯。"
 
 # game/script-a1-saturday.rpy:1192
 translate zh_hant a1_saturday_proper_exercise_afc8e688:
@@ -1894,7 +1894,7 @@ translate zh_hant a1_saturday_proper_exercise_fc6d61c0:
 translate zh_hant a1_saturday_proper_exercise_fbf96428:
 
     # emi "Well, that's it, then."
-    emi "好吧，就這麼定下來吧。"
+    emi "好，那就這麼決定了。"
 
 # game/script-a1-saturday.rpy:1206
 translate zh_hant a1_saturday_proper_exercise_4e860902:
@@ -1936,7 +1936,7 @@ translate zh_hant a1_saturday_proper_exercise_319b38a9:
 translate zh_hant a1_saturday_proper_exercise_5f59f34e:
 
     # emi "I've got a routine all planned out. In fact…"
-    emi "我已經制定好了例行的計劃。實際上……"
+    emi "我已經規劃好一套訓練計畫了。事實上……"
 
 # game/script-a1-saturday.rpy:1228
 translate zh_hant a1_saturday_proper_exercise_2b76611f:
@@ -1966,7 +1966,7 @@ translate zh_hant a1_saturday_proper_exercise_c084a1c6:
 translate zh_hant a1_saturday_proper_exercise_60f9adaa:
 
     # "A slow increase from just a few laps a day to…"
-    "每天慢慢增加一些圈數……"
+    "從一天幾圈開始，然後慢慢增加……"
 
 # game/script-a1-saturday.rpy:1243
 translate zh_hant a1_saturday_proper_exercise_05b66596:
@@ -2008,7 +2008,7 @@ translate zh_hant a1_saturday_proper_exercise_4a356464:
 translate zh_hant a1_saturday_proper_exercise_bc8e6d98:
 
     # emi "He told me to keep an eye on you to make sure you exercised like he told you to!"
-    emi "他要我留意你，看你是不是照他囑咐你的那樣鍛練了。"
+    emi "他要我留意你，確保你有照他的話去鍛鍊。"
 
 # game/script-a1-saturday.rpy:1266
 translate zh_hant a1_saturday_proper_exercise_a050b85d:
@@ -2026,13 +2026,13 @@ translate zh_hant a1_saturday_proper_exercise_b582c1a5:
 translate zh_hant a1_saturday_proper_exercise_5988a222:
 
     # hi "This seems a bit much for just 'keeping an eye on me.'"
-    hi "這好像不僅僅是“留意”哦。"
+    hi "這似乎有點超過「留意我」的程度了。"
 
 # game/script-a1-saturday.rpy:1275
 translate zh_hant a1_saturday_proper_exercise_72727655:
 
     # emi "Well, to be honest I've been trying to find a running partner in the mornings for a while now."
-    emi "吶，說實話我已經找一個早上一起跑步的搭檔找了好一段日子了。"
+    emi "嗯，說實話，我找晨跑的夥伴已經找了一陣子了。"
 
 # game/script-a1-saturday.rpy:1277
 translate zh_hant a1_saturday_proper_exercise_0a831413:
@@ -2050,19 +2050,19 @@ translate zh_hant a1_saturday_proper_exercise_0884f584:
 translate zh_hant a1_saturday_proper_exercise_6983d98e:
 
     # emi "It's easier to keep up a workout if you're not the only one doing it."
-    emi "有人陪著鍛練的話，更容易堅持下去。"
+    emi "如果不是只有自己一個人，會比較容易堅持下去。"
 
 # game/script-a1-saturday.rpy:1286
 translate zh_hant a1_saturday_proper_exercise_b35d68ce:
 
     # emi "Isn't that obvious?"
-    emi "不是很明顯的道理麼？"
+    emi "這不是很明顯的道理嗎？"
 
 # game/script-a1-saturday.rpy:1288
 translate zh_hant a1_saturday_proper_exercise_cf17ace6:
 
     # emi "You're less likely to quit if someone else is counting on you to be there, right?"
-    emi "當有人在幫你數著圈數的時候，你沒有那麼容易放棄的，對吧？"
+    emi "如果有人指望著你會出現，你就不太可能放棄了，對吧？"
 
 # game/script-a1-saturday.rpy:1290
 translate zh_hant a1_saturday_proper_exercise_02912bcd:
@@ -2110,13 +2110,13 @@ translate zh_hant a1_saturday_proper_exercise_951773bc:
 translate zh_hant a1_saturday_proper_exercise_588e9d87:
 
     # emi "Well, if you refused I'd have to pout."
-    emi "吶吶，如果你不答應，我就要開始撅嘴了哦。"
+    emi "嗯，如果你拒絕，我就只好嘟嘴了喔。"
 
 # game/script-a1-saturday.rpy:1315
 translate zh_hant a1_saturday_proper_exercise_5c7b6f12:
 
     # emi "And you'd have to live with being the guy who made Emi Ibarazaki pout."
-    emi "那你就要一輩子當一個讓茨崎笑美撅嘴的人了！"
+    emi "那你就要一輩子當一個讓茨崎笑美嘟嘴的人了！"
 
 # game/script-a1-saturday.rpy:1320
 translate zh_hant a1_saturday_proper_exercise_831c464d:
@@ -2128,13 +2128,13 @@ translate zh_hant a1_saturday_proper_exercise_831c464d:
 translate zh_hant a1_saturday_proper_exercise_68788b35:
 
     # "As if to demonstrate, Emi begins pouting."
-    "笑美撅起了嘴，像是要證明她所說的一樣。"
+    "笑美嘟起了嘴，像是在示範一樣。"
 
 # game/script-a1-saturday.rpy:1327
 translate zh_hant a1_saturday_proper_exercise_4c0107c6:
 
     # "It is the most adorable, heart-wrenching thing I've ever seen."
-    "那是我所見過的最動人的，最令人心碎的表情。"
+    "那是我見過最可愛、最令人心碎的表情。"
 
 # game/script-a1-saturday.rpy:1329
 translate zh_hant a1_saturday_proper_exercise_649fd263:
@@ -2146,13 +2146,13 @@ translate zh_hant a1_saturday_proper_exercise_649fd263:
 translate zh_hant a1_saturday_proper_exercise_e3e5bfb3:
 
     # hi "Just… don't do that!"
-    hi "別……別撅著嘴了！"
+    hi "只是……別那樣嘟嘴了！"
 
 # game/script-a1-saturday.rpy:1333
 translate zh_hant a1_saturday_proper_exercise_0236b9a5:
 
     # hi "I feel like I just hit a puppy!"
-    hi "我覺得自己像剛欺負完一隻小動物！"
+    hi "我覺得自己好像剛欺負了一隻小狗！"
 
 # game/script-a1-saturday.rpy:1338
 translate zh_hant a1_saturday_proper_exercise_f89b9789:
@@ -2170,43 +2170,43 @@ translate zh_hant a1_saturday_proper_exercise_aed904f3:
 translate zh_hant a1_saturday_proper_exercise_275dc3b9:
 
     # emi "Follow the workout?"
-    emi "遵守我的鍛練計劃？"
+    emi "遵守我的訓練計劃？"
 
 # game/script-a1-saturday.rpy:1344
 translate zh_hant a1_saturday_proper_exercise_30e28706:
 
     # emi "And the dietary plan?"
-    emi "遵守我的節食計劃？"
+    emi "還有飲食計畫？"
 
 # game/script-a1-saturday.rpy:1346
 translate zh_hant a1_saturday_proper_exercise_b8751d8f:
 
     # hi "Dietary plan?"
-    hi "節食計劃？"
+    hi "飲食計畫？"
 
 # game/script-a1-saturday.rpy:1351
 translate zh_hant a1_saturday_proper_exercise_1ebfabe0:
 
     # emi "Yeah, the dietary plan!"
-    emi "是的，節食計劃！"
+    emi "對啊，飲食計畫！"
 
 # game/script-a1-saturday.rpy:1356
 translate zh_hant a1_saturday_proper_exercise_386ae2cf:
 
     # emi "You've got to eat healthy if you're going to get in shape, you know!"
-    emi "如果你想健身就得吃得健康，你知道的！"
+    emi "你想維持好體態，就得吃得健康啊！"
 
 # game/script-a1-saturday.rpy:1358
 translate zh_hant a1_saturday_proper_exercise_f9976e27:
 
     # "I examine the workout routine closely."
-    "我仔細地審視著日常鍛練計劃。"
+    "我仔細地看著那份訓鍊計畫。"
 
 # game/script-a1-saturday.rpy:1360
 translate zh_hant a1_saturday_proper_exercise_2397ae76:
 
     # hi "I don't see a dietary plan on here."
-    hi "這上面沒有列出節食規劃啊。"
+    hi "這上面沒有看到飲食計畫啊。"
 
 # game/script-a1-saturday.rpy:1365
 translate zh_hant a1_saturday_proper_exercise_966a0cb0:
@@ -2230,19 +2230,19 @@ translate zh_hant a1_saturday_proper_exercise_5570b875:
 translate zh_hant a1_saturday_proper_exercise_97f817a3:
 
     # emi "I had the nurse help me come up with it."
-    emi "校醫幫忙做了這個計劃。"
+    emi "我請校醫幫我一起擬的。"
 
 # game/script-a1-saturday.rpy:1381
 translate zh_hant a1_saturday_proper_exercise_07cda82a:
 
     # "The amount of dedication that the nurse has to keeping me in good health is pretty overwhelming."
-    "校醫想讓我保持健康所作出的努力真得讓人感激涕零。"
+    "校醫為了讓我保持健康所付出的心力，實在令人佩服。"
 
 # game/script-a1-saturday.rpy:1383
 translate zh_hant a1_saturday_proper_exercise_adfa8964:
 
     # "I don't know many school nurses who would get one of their students to spy on me, much less help come up with a dietary plan."
-    "我不知道有多少學校的校醫會讓自己的學生來監視我，更別提列出什麼節食計劃。"
+    "我不知道有多少學校校醫會叫自己的學生來監視我，更別說還幫忙擬定飲食計畫了。"
 
 # game/script-a1-saturday.rpy:1385
 translate zh_hant a1_saturday_proper_exercise_ff0147bc:
@@ -2260,13 +2260,13 @@ translate zh_hant a1_saturday_proper_exercise_c18d100b:
 translate zh_hant a1_saturday_proper_exercise_af02e292:
 
     # "Then again, this dietary plan seems to cut out just about everything that'll be offered at the festival tomorrow."
-    "再然後，這個節食計劃似乎把明天園遊會裡的所有食物都否決了。"
+    "話又說回來，這個飲食計畫似乎否決了明天園遊會會出現的所有食物。"
 
 # game/script-a1-saturday.rpy:1391
 translate zh_hant a1_saturday_proper_exercise_e886e7c7:
 
     # "Hmm."
-    "哼。"
+    "嗯。"
 
 # game/script-a1-saturday.rpy:1393
 translate zh_hant a1_saturday_proper_exercise_be6005e4:
@@ -2284,13 +2284,13 @@ translate zh_hant a1_saturday_proper_exercise_c6ee7fc8:
 translate zh_hant a1_saturday_proper_exercise_497e1ccb:
 
     # hi "Right after? What if I've had something to eat there? I could get a stomach ache, you know."
-    hi "之後就開始？那如果我吃東西了怎麼辦，我會胃痛的，你知道的。"
+    hi "結束就馬上開始？如果我在那裡吃了東西怎麼辦？我會胃痛的，妳知道吧。"
 
 # game/script-a1-saturday.rpy:1405
 translate zh_hant a1_saturday_proper_exercise_6eeb088a:
 
     # emi "I meant the day after the festival."
-    emi "我指的是園遊會的第二天。"
+    emi "我是說園遊會的隔天啦。"
 
 # game/script-a1-saturday.rpy:1407
 translate zh_hant a1_saturday_proper_exercise_7e42a5ee:
@@ -2320,13 +2320,13 @@ translate zh_hant a1_saturday_proper_exercise_57398a3d:
 translate zh_hant a1_saturday_proper_exercise_453283a8:
 
     # "By the time we get the paint and get back to the mural, Rin's already wandered off."
-    "我們把顏料送到壁畫那裡的時候，琳已經不在那裡了。"
+    "等我們拿到顏料回到壁畫那裡時，琳已經不在那裡了。"
 
 # game/script-a1-saturday.rpy:1425
 translate zh_hant a1_saturday_proper_exercise_2521d867:
 
     # "Oh well."
-    "嗚呼。"
+    "唉。"
 
 # game/script-a1-saturday.rpy:1427
 translate zh_hant a1_saturday_proper_exercise_8ff19416:
@@ -2338,19 +2338,19 @@ translate zh_hant a1_saturday_proper_exercise_8ff19416:
 translate zh_hant a1_saturday_proper_exercise_c3a02d94:
 
     # "Rin'll find it. Whenever she comes back, anyway."
-    "琳應該會發現的。當她回來的時候，雖然不知道是什麼時候。"
+    "琳會看到的。無論她什麼時候回來。"
 
 # game/script-a1-saturday.rpy:1434
 translate zh_hant a1_saturday_proper_exercise_bf5c6620:
 
     # "Festival's tomorrow. I'm actually a little excited for it."
-    "明天就是園遊會了。實際上我有一點點興奮。"
+    "明天就是園遊會了。我其實有點興奮。"
 
 # game/script-a1-saturday.rpy:1436
 translate zh_hant a1_saturday_proper_exercise_9ca6771c:
 
     # "At the same time, the week's left me feeling pretty tired, so I read a little and then go to bed."
-    "同時，這個星期讓我也覺得很疲倦。因此我看了幾頁書就睡下了。"
+    "同時，這週也讓我感到相當疲憊，所以我翻了幾頁書就上床睡覺了。"
 
 # game/script-a1-saturday.rpy:1449
 translate zh_hant a1_saturday_sip_p2_efa70cfd:
@@ -2374,19 +2374,19 @@ translate zh_hant a1_saturday_sip_p2_7b6f9cf6:
 translate zh_hant a1_saturday_sip_p2_5be1e490:
 
     # "The thought of that walk makes me look outside."
-    "想起到鎮上要走的漫漫長路，我向窗外望了過去。"
+    "一想到要去鎮上，我就望向了窗外。"
 
 # game/script-a1-saturday.rpy:1464
 translate zh_hant a1_saturday_sip_p2_538d0688:
 
     # "The bright sun and occasional people wandering around and enjoying the afternoon make me yearn to get out of school, or at least do something other than sit here."
-    "明媚的陽光，閒逛著享受午後的路人，使我渴望著到學校外面逛逛，起碼做什麼也比坐在這兒強。"
+    "明媚的陽光，以及偶爾在外面閒逛、享受午後時光的人們，讓我也渴望能離開學校，或至少做點別的事，而不是只坐在這裡。"
 
 # game/script-a1-saturday.rpy:1466
 translate zh_hant a1_saturday_sip_p2_52c9dce6:
 
     # "Giving in to one of my worst vices, procrastination, I decide that history is a subject best studied on a Sunday. Or a Monday. Or on any day other than this one."
-    "我體內最要不得的惡習之一，慵懶迫使我屈服了，使我認為歷史最好留給星期天再來學習。或者星期一。或者其他時候的任何一天，只要不是今天就好。"
+    "我屈服於自己最糟的拖延惡習，我決定歷史最好是留到星期天再讀。或星期一。或任何不是今天的日子。"
 
 # game/script-a1-saturday.rpy:1468
 translate zh_hant a1_saturday_sip_p2_b5f8b14e:
@@ -2398,13 +2398,13 @@ translate zh_hant a1_saturday_sip_p2_b5f8b14e:
 translate zh_hant a1_saturday_sip_p2_77ded6b2:
 
     # "He doesn't strike me as the 'enjoying the nice weather outside with others' kind of person, really. I guess I'll catch up with him later."
-    "實話實說，他確實不是那種“和別人一起到戶外享受好天氣”的類型。不過反正等下就能碰上他了。"
+    "說真的，他給我的印象，不是那種會『和別人一起在戶外享受好天氣』的人。我想我晚點再去找他好了。"
 
 # game/script-a1-saturday.rpy:1477
 translate zh_hant a1_saturday_sip_p2_92d4add5:
 
     # "Changing tacks, I briefly entertain the idea of talking with Hanako, but by the time I look at her seat, it's vacant. She must've left for the library."
-    "換個思路想到可以和華子搭訕一下，但當我轉身看她的位置時，座位卻是空的。她應該是去圖書館了。"
+    "我轉念一想，或許可以和華子聊聊，但當我看向她的座位時，卻是空的。她一定是去圖書館了。"
 
 # game/script-a1-saturday.rpy:1486
 translate zh_hant a1_saturday_sip_p2_3de2424b:
@@ -2416,13 +2416,13 @@ translate zh_hant a1_saturday_sip_p2_3de2424b:
 translate zh_hant a1_saturday_sip_p2_bc955519:
 
     # "And that aside, I do want to catch up with Lilly. At the very least, I'd like to thank her for looking out for me despite her other, obviously taxing, duties."
-    "另外，我也想去碰碰莉莉。至少，我想謝謝她之前關照過我一下，即使她本來就已經班務纏身。"
+    "除此之外，我也想去找莉莉。至少，我想謝謝她，儘管她有其他明顯很繁重的職責，卻還是很關照我。"
 
 # game/script-a1-saturday.rpy:1490
 translate zh_hant a1_saturday_sip_p2_ad87abe6:
 
     # "I guess I'll walk around town. With any luck, I should be able to find Lilly. The exercise'll do me some good, as well."
-    "我要去鎮上看看。如果走運的話，我應該可以碰到莉莉。再說鍛練下對我也有好處。"
+    "我想我會去鎮上逛逛。運氣好的話，應該能遇到莉莉。而且運動一下對我也有好處。"
 
 # game/script-a1-saturday.rpy:1497
 translate zh_hant a1_saturday_sip_p2_4b012d02:
@@ -2446,7 +2446,7 @@ translate zh_hant a1_saturday_sip_p2_08a3b428:
 translate zh_hant a1_saturday_sip_p2_c770b79d:
 
     # "While I'm trying to get my bearings and catch up on study that I've missed, everyone else is doing normal school activities. The feeling of being a foreigner still hasn't dissipated. At least, not yet."
-    "我試著去忍受這些，完成落下的功課。每個人都在做著平時的事情。那種局外人的感覺並沒有消失，至少，沒有完全消失。"
+    "當我還在努力適應環境、追趕落後的課業時，其他人都在進行正常的學校活動。那種身為局外人的感覺還沒有消散。至少，現在還沒有。"
 
 # game/script-a1-saturday.rpy:1505
 translate zh_hant a1_saturday_sip_p2_b117b1ba:
@@ -2458,7 +2458,7 @@ translate zh_hant a1_saturday_sip_p2_b117b1ba:
 translate zh_hant a1_saturday_sip_p2_393fb286:
 
     # "This is a private school, and that much is easily noticed when walking around outside. Not only are the school grounds huge, but the buildings themselves are immaculate and quite divorced from the dime-a-dozen concrete blocks of public schools."
-    "這是一所私立學校。走在外面就很容易注意到。這裡不僅有著面積龐大的操場，學校的建築也是那麼的巍峨美觀，這和那些充斥著大羣混凝土建築的公立學校是那麼的不同。"
+    "這是一所私立學校，在外面走動時很容易就能注意到這點。不只校地廣闊，建築本身也完美無瑕，與公立學校那些千篇一律的水泥建築截然不同。"
 
 # game/script-a1-saturday.rpy:1509
 translate zh_hant a1_saturday_sip_p2_a0ee181a:
@@ -2482,19 +2482,19 @@ translate zh_hant a1_saturday_sip_p2_f971a5af:
 translate zh_hant a1_saturday_sip_p2_36581efd:
 
     # "Having seen a fair portion of town, even including the houses perched on the hills around the outskirts, I decide to take a walk around the park before heading back."
-    "逛過了鎮上的一部分地方，甚至包括近郊沿著坡上蜿蜒的房子。我決定去公園散散步再繼續往前走。"
+    "看過了鎮上大部分的地方，甚至包括郊區山丘上的房子後，我決定在回去前先到公園散個步。"
 
 # game/script-a1-saturday.rpy:1523
 translate zh_hant a1_saturday_sip_p2_3454461e:
 
     # "Living in the city all my life, the total lack of smartly-dressed businessmen and fashionably-dressed girls strikes me as incredibly unusual."
-    "這裡完全沒有精幹著裝的生意人，也沒有打扮入時的女孩子，這對於在城市中長大的我，實在是件不可思議的事情。"
+    "對從小在都市長大的我來說，這裡完全看不到穿著體面的生意人，和打扮時髦的女孩，實在是件非常不尋常的事。"
 
 # game/script-a1-saturday.rpy:1525
 translate zh_hant a1_saturday_sip_p2_46c26816:
 
     # "All that's to be seen are the odd elderly person shuffling along the sidewalk and assorted busily chatting pairs of middle-aged women outside of small storefronts."
-    "這裡有的只是沿著街邊來回走動的老年人和聚集在小店裡忙著閒話家常的中年婦女。"
+    "能看到的只有偶爾在人行道上蹣跚而行的老人，以及在小店門口忙著聊天的三兩中年婦女。"
 
 # game/script-a1-saturday.rpy:1529
 translate zh_hant a1_saturday_sip_p2_5a1c2e88:
@@ -2524,19 +2524,19 @@ translate zh_hant a1_saturday_sip_p2_9fba6aee:
 translate zh_hant a1_saturday_sip_p2_ccc267ec:
 
     # "The stay in hospital, the surgery and the medications must be taking their toll on me. Dammit."
-    "住院、動手術和整天嗑藥使我變成了這幅德行。該死。"
+    "住院、手術和藥物治療肯定對我的身體造成了影響。可惡。"
 
 # game/script-a1-saturday.rpy:1544
 translate zh_hant a1_saturday_sip_p2_5df559fc:
 
     # "Eventually, my breathing returns to normal and the muscles in my chest loosen, not without a fair measure of relief. I guess this means the end of my little sojourn though, in any case."
-    "最後，我的呼吸恢復了正常，胸口的肌肉也鬆弛下來，整個人都放鬆了不少。但我想這趟小小的旅途要被迫半途收場了。"
+    "總算，我的呼吸恢復了正常，胸口的肌肉也放鬆了下來，讓我鬆了一大口氣。不過，我想無論如何，我這趟小小的漫遊也該結束了。"
 
 # game/script-a1-saturday.rpy:1551
 translate zh_hant a1_saturday_sip_p2_858ce63a:
 
     # "There's a café on the far corner, so I'll stop by to quench my thirst before heading back."
-    "遠處拐角那裡有家咖啡館，回程之前我可以去找點東西解解渴。"
+    "遠處的角落有家咖啡館，回去前我可以去解解渴。"
 
 # game/script-a1-saturday.rpy:1560
 translate zh_hant a1_saturday_sip_p2_61f61f62:
@@ -2566,13 +2566,13 @@ translate zh_hant a1_saturday_sip_p2_c5b72b03:
 translate zh_hant a1_saturday_sip_p2_d5cc369e:
 
     # hi "Hi, I had no idea you worked here."
-    hi "嗨，我並不知道你在這兒工作。"
+    hi "嗨，我不知道妳在這裡工作。"
 
 # game/script-a1-saturday.rpy:1573
 translate zh_hant a1_saturday_sip_p2_1aa44168:
 
     # "I really have no idea how to address her either, given that she is technically school staff as well as, apparently, a waitress."
-    "我不知道該怎麼稱呼她，因為她既是學校的職員，也很明顯是這裡的女侍應。"
+    "我真的不知道該怎麼稱呼她，因為她既是學校的職員，顯然也是這裡的女服務生。"
 
 # game/script-a1-saturday.rpy:1578
 translate zh_hant a1_saturday_sip_p2_e0da63d0:
@@ -2590,7 +2590,7 @@ translate zh_hant a1_saturday_sip_p2_c421110c:
 translate zh_hant a1_saturday_sip_p2_0d16fb85:
 
     # yu "Welcome to the Shanghai! May I take your order?"
-    yu "歡迎來到“上海”！您想喝點什麼呢？"
+    yu "歡迎光臨“上海”！請問您要點什麼？"
 
 # game/script-a1-saturday.rpy:1587
 translate zh_hant a1_saturday_sip_p2_24449d9e:
@@ -2608,7 +2608,7 @@ translate zh_hant a1_saturday_sip_p2_70b5117c:
 translate zh_hant a1_saturday_sip_p2_4d23c017:
 
     # yu "Yes, certainly. I'll make it right away and bring it to you when it's done."
-    yu "好的，沒問題。我馬上去準備，做好了就送到您這裡來。"
+    yu "好的，沒問題。我馬上去準備，好了之後送到您的座位上。"
 
 # game/script-a1-saturday.rpy:1596
 translate zh_hant a1_saturday_sip_p2_0baaf27e:
@@ -2620,7 +2620,7 @@ translate zh_hant a1_saturday_sip_p2_0baaf27e:
 translate zh_hant a1_saturday_sip_p2_b9389667:
 
     # "Yuuko's formality takes me aback. She seems to take her job very seriously."
-    "優子的拘謹嚇了我一跳。她似乎對這份工作非常認真。"
+    "優子這麼客套讓我嚇了一跳。她似乎對這份工作非常認真。"
 
 # game/script-a1-saturday.rpy:1603
 translate zh_hant a1_saturday_sip_p2_64b457e9:
@@ -2782,7 +2782,7 @@ translate zh_hant a1_saturday_sip_p2_0203da0a:
 translate zh_hant a1_saturday_sip_p2_4d1cb5ca:
 
     # aki "Sounds like it's pretty busy for ya, then."
-    aki "聽起來你是相當忙啊。"
+    aki "聽起來妳最近很忙啊。"
 
 # game/script-a1-saturday.rpy:1703
 translate zh_hant a1_saturday_sip_p2_e6b5127a:
@@ -2794,25 +2794,25 @@ translate zh_hant a1_saturday_sip_p2_e6b5127a:
 translate zh_hant a1_saturday_sip_p2_6d648f14:
 
     # "As they talk, I slowly realize that I'm entirely unable to gauge Lilly's emotions through her eyes; as I would for any other person."
-    "聽著她們談話，我慢慢意識到自己完全不能像對待普通人那樣從莉莉的眼神中發掘出她的情緒。"
+    "聽著她們的對話，我慢慢意識到我完全無法像對待其他人一樣，從莉莉的眼中看出她的情緒。"
 
 # game/script-a1-saturday.rpy:1707
 translate zh_hant a1_saturday_sip_p2_736a08d9:
 
     # "It becomes slightly unsettling as I subconsciously focus on that fact."
-    "當我不自覺地惦記著這一點時，我慢慢變得不安起來。"
+    "當我下意識地專注於這個事實時，我感到有些不安。"
 
 # game/script-a1-saturday.rpy:1712
 translate zh_hant a1_saturday_sip_p2_1310d164:
 
     # aki "Whoa, so cold. Weren't ya just cooking for yourself anyway? I only ever got leftovers."
-    aki "嗚啊，好冷淡啊。一直以來你不是隻做自己的那份嗎？我吃的可都是剩飯啊。"
+    aki "哇，真冷淡。妳不是一直都只做自己的份嗎？我吃的都是剩菜剩飯。"
 
 # game/script-a1-saturday.rpy:1717
 translate zh_hant a1_saturday_sip_p2_3b746c5e:
 
     # li "That's not the point… are you managing to feed yourself, at least?"
-    li "那不是重點……至少你也懂得自己找吃的吧？"
+    li "那不是重點……至少，妳有辦法自己弄吃的吧？"
 
 # game/script-a1-saturday.rpy:1722
 translate zh_hant a1_saturday_sip_p2_a5b9bf59:
@@ -2824,7 +2824,7 @@ translate zh_hant a1_saturday_sip_p2_a5b9bf59:
 translate zh_hant a1_saturday_sip_p2_43e66b39:
 
     # aki "Mostly."
-    aki "最多隻炸個半死。"
+    aki "大概吧。"
 
 # game/script-a1-saturday.rpy:1732
 translate zh_hant a1_saturday_sip_p2_8ed0ded5:
@@ -2836,7 +2836,7 @@ translate zh_hant a1_saturday_sip_p2_8ed0ded5:
 translate zh_hant a1_saturday_sip_p2_1938b341:
 
     # aki "Hahaha! It's fine, it's fine. I needed to learn sometime anyway."
-    aki "哈哈哈！沒問題，沒問題。我也是時候學學做飯了。"
+    aki "哈哈哈！沒事、沒事。反正我總有一天得學。"
 
 # game/script-a1-saturday.rpy:1746
 translate zh_hant a1_saturday_sip_p2_fb5e63b3:
@@ -2854,25 +2854,25 @@ translate zh_hant a1_saturday_sip_p2_53a9fbcc:
 translate zh_hant a1_saturday_sip_p2_639560ab:
 
     # "Taking the moment to glance at her watch, Akira levers herself off her seat and gives me a quick nod."
-    "趁這個空隙，晃看了看她的手錶，然後從她的位置上站了起來，並朝我點了點頭。"
+    "趁著這個空檔，晃看了一眼手錶，從座位上起身，並迅速地向我點了點頭。"
 
 # game/script-a1-saturday.rpy:1766
 translate zh_hant a1_saturday_sip_p2_35293468:
 
     # aki "Well, I'd better be off. It was nice talking to ya, Lilly."
-    aki "呃，我該走了。很高興能和你聊天，莉莉。"
+    aki "好了，我該走了。很高興能和妳聊，莉莉。"
 
 # game/script-a1-saturday.rpy:1771
 translate zh_hant a1_saturday_sip_p2_51288c0c:
 
     # li "Akira, do you have to…?"
-    li "晃，你就不能再……"
+    li "晃，妳一定要……"
 
 # game/script-a1-saturday.rpy:1773
 translate zh_hant a1_saturday_sip_p2_a04128ab:
 
     # "Lilly looks genuinely mournful at her sister suddenly leaving. It does seem like she might have the wrong idea."
-    "莉莉對她姐姐要突然離去真的是傷心不已。不過看起來她有些誤會。"
+    "莉莉對姐姐突然要離開，表情看起來有一點難過。"
 
 # game/script-a1-saturday.rpy:1778
 translate zh_hant a1_saturday_sip_p2_34bcbe57:
@@ -2896,7 +2896,7 @@ translate zh_hant a1_saturday_sip_p2_7182b99c:
 translate zh_hant a1_saturday_sip_p2_68af57e7:
 
     # aki "C'mon, don't look so down. I'll be around again soon. Seeyas."
-    aki "拜託，別哭喪著臉。我很快會再來看你的了。我走啦。"
+    aki "拜託，別哭喪著臉。我很快會再來看妳了。我走啦。"
 
 # game/script-a1-saturday.rpy:1795
 translate zh_hant a1_saturday_sip_p2_dc7dd5f4:
@@ -2908,7 +2908,7 @@ translate zh_hant a1_saturday_sip_p2_dc7dd5f4:
 translate zh_hant a1_saturday_sip_p2_f424b8e6:
 
     # "Lilly still looks pretty depressed, so I try to make some small talk in an effort to take her mind off it."
-    "莉莉看起來還是很沮喪，於是我試著和她搭話，試圖把她的注意力拉回來。"
+    "莉莉看起來還是很沮喪，於是我試著和她搭話，把她的注意力拉回來。"
 
 # game/script-a1-saturday.rpy:1803
 translate zh_hant a1_saturday_sip_p2_e678f4c2:
@@ -2926,7 +2926,7 @@ translate zh_hant a1_saturday_sip_p2_b785468c:
 translate zh_hant a1_saturday_sip_p2_3c8bef3e:
 
     # "Despite Lilly having been quite affable, I still don't really know much about her. In hindsight, it's surprising just how much she's extracted from me, really."
-    "除了和藹可親以外，我其實真的不太了解莉莉。但回想起來，她卻從我口中得到了那麼多資訊，真是令人驚訝。"
+    "雖然莉莉相當和藹可親，但我對她其實還不太了解。事後看起來，她真的從我這裡套出了不少東西，真令人驚訝。"
 
 # game/script-a1-saturday.rpy:1812
 translate zh_hant a1_saturday_sip_p2_bcc04ba4:
@@ -2950,7 +2950,7 @@ translate zh_hant a1_saturday_sip_p2_e26f7fcc:
 translate zh_hant a1_saturday_sip_p2_d2f8c5a3:
 
     # "Well, that explains the chatter about cooking. Evidently regaining her composure, she livens back up… at least, in part."
-    "嗯，這就解釋了她們閒談中關於做飯的事情。很明顯她又恢復了沉著的樣子，又充滿了活力……至少表面上是這樣吧。"
+    "嗯，這就解釋了她們關於做飯的閒聊。顯然，她恢復了鎮定，又恢復了活力……至少，在某種程度上是這樣。"
 
 # game/script-a1-saturday.rpy:1826
 translate zh_hant a1_saturday_sip_p2_5515bd00:
@@ -2968,7 +2968,7 @@ translate zh_hant a1_saturday_sip_p2_47b6c948:
 translate zh_hant a1_saturday_sip_p2_ac56ae52:
 
     # li "You sound less exhausted than you did when you first came in."
-    li "你聽起來不像剛剛走進來的時候那麼勞累了。"
+    li "你聽起來不像剛剛走進來的時候那麼疲憊了。"
 
 # game/script-a1-saturday.rpy:1835
 translate zh_hant a1_saturday_sip_p2_c25e81a7:
@@ -2998,7 +2998,7 @@ translate zh_hant a1_saturday_sip_p2_2515ef69:
 translate zh_hant a1_saturday_sip_p2_0c8aaf49:
 
     # "I guess I'd better get going back to Yamaku. There's only so long I can stall studying for, and I want to get a good night's sleep before the festival."
-    "我想我得馬上回學校去了。我撂下學習的時間也只能到這裡了。而且我想在園遊會的前夜好好睡上一覺。"
+    "我想我該回山久了。書不能再拖下去了，而且園遊會前一晚我想好好睡一覺。"
 
 # game/script-a1-saturday.rpy:1849
 translate zh_hant a1_saturday_sip_p2_d6e26891:
@@ -3028,7 +3028,7 @@ translate zh_hant a1_saturday_sip_p2_a8e9bca7:
 translate zh_hant a1_saturday_sip_p2_21755903:
 
     # li "Yuuko, could we have one more coffee please?"
-    li "優子，能再給我一杯咖啡嗎？"
+    li "優子，可以再給我們一杯咖啡嗎？"
 
 # game/script-a1-saturday.rpy:1867
 translate zh_hant a1_saturday_sip_p2_d5b22bc4:
@@ -3040,7 +3040,7 @@ translate zh_hant a1_saturday_sip_p2_d5b22bc4:
 translate zh_hant a1_saturday_sip_p2_4fe11e2e:
 
     # hi "That's… not subtle."
-    hi "嘿，你可真不客氣呀。"
+    hi "這……妳真不含蓄啊。"
 
 # game/script-a1-saturday.rpy:1874
 translate zh_hant a1_saturday_sip_p2_c58fb11a:
@@ -3058,7 +3058,7 @@ translate zh_hant a1_saturday_sip_p2_fb33f394:
 translate zh_hant a1_saturday_sip_p2_396e3180:
 
     # "Giving a manufactured sigh, I take a seat opposite her."
-    "故意嘆了一聲氣，我面對著她坐了下來。"
+    "我假裝嘆了口氣，在她對面坐了下來。"
 
 # game/script-a1-saturday.rpy:1880
 translate zh_hant a1_saturday_sip_p2_51ea9757:
@@ -3094,7 +3094,7 @@ translate zh_hant a1_saturday_sip_p2_717de9c3:
 translate zh_hant a1_saturday_sip_p2_39f6254f:
 
     # hi "No, only child. To be honest, the idea of having someone that close makes me a bit envious."
-    hi "沒有，獨生子。老實說，你有一個那麼親近的人，讓我感到有點嫉妒。"
+    hi "沒有，我是獨生子。老實說，妳有這麼親近的人，還真有點羨慕。"
 
 # game/script-a1-saturday.rpy:1901
 translate zh_hant a1_saturday_sip_p2_ef05aba7:
@@ -3106,7 +3106,7 @@ translate zh_hant a1_saturday_sip_p2_ef05aba7:
 translate zh_hant a1_saturday_sip_p2_9c6764d8:
 
     # "I raise an eyebrow, which of course goes unseen. The short silence communicates the question well enough."
-    "我的眉毛抬起了一下，莉莉自然沒有看到。短暫的沉默很好地溝通了這個問題。"
+    "我挑了挑眉，她當然看不見。短暫的沉默已足以傳達我的疑問。"
 
 # game/script-a1-saturday.rpy:1908
 translate zh_hant a1_saturday_sip_p2_dd5f3006:
@@ -3160,7 +3160,7 @@ translate zh_hant a1_saturday_sip_p2_f77440aa:
 translate zh_hant a1_saturday_sip_p2_406b09fb:
 
     # "Reaching forward for my drink, I realize something I probably should've noticed earlier."
-    "傾向前去喝了口咖啡，我意識到我應該之前就注意到這件事了。"
+    "我伸手去拿飲料時，意識到一件我可能早該注意到的事。"
 
 # game/script-a1-saturday.rpy:1926
 translate zh_hant a1_saturday_sip_p2_bdc20978:
@@ -3220,7 +3220,7 @@ translate zh_hant a1_saturday_shanghaied_1a88da30:
 translate zh_hant a1_saturday_shanghaied_da83c19e:
 
     # hi "Which one of you knocked?"
-    hi "你們是誰敲的門？"
+    hi "妳們是誰敲的門？"
 
 # game/script-a1-saturday.rpy:1986
 translate zh_hant a1_saturday_shanghaied_9dd44795:
@@ -3256,13 +3256,13 @@ translate zh_hant a1_saturday_shanghaied_2b72c85a:
 translate zh_hant a1_saturday_shanghaied_a77b85eb:
 
     # hi "No, I thought I'd sleep a bit later since it's the weekend and all, and I've been seriously sleep-deprived this week."
-    hi "不，我想我只是睡晚了一點。畢竟這是週末啊。而且我這個星期都沒怎麼睡的。"
+    hi "不，我只是睡晚了一點。畢竟這是週末啊。而且我這個星期都沒怎麼睡的。"
 
 # game/script-a1-saturday.rpy:2004
 translate zh_hant a1_saturday_shanghaied_c662b41d:
 
     # "I wonder if she missed the poison in my words."
-    "我想或許她錯過了我話語中的鋒芒。"
+    "我懷疑她是否沒聽出我話中的諷刺意味。"
 
 # game/script-a1-saturday.rpy:2009
 translate zh_hant a1_saturday_shanghaied_ef2b123c:
@@ -3400,7 +3400,7 @@ translate zh_hant a1_saturday_shanghaied_76a636a2:
 translate zh_hant a1_saturday_shanghaied_9f69107f:
 
     # hi "All right, then, I don't think I'd be missing much. What do you have in mind?"
-    hi "那好吧。我猜也不會錯過什麼大事。你們有什麼計劃嗎？"
+    hi "那好吧。我猜也不會錯過什麼大事。妳們有什麼計劃嗎？"
 
 # game/script-a1-saturday.rpy:2094
 translate zh_hant a1_saturday_shanghaied_e9c40427:
@@ -3430,7 +3430,7 @@ translate zh_hant a1_saturday_shanghaied_20dd103c:
 translate zh_hant a1_saturday_shanghaied_58d43df1:
 
     # mi "And that's a really mean thing to just assume like that, Hicchan."
-    mi "小久，像那樣猜忌別人可是非常小氣的哦。"
+    mi "小久，像那樣猜忌別人可是非常過分的哦。"
 
 # game/script-a1-saturday.rpy:2116
 translate zh_hant a1_saturday_shanghaied_ef2b123c_6:
@@ -3496,7 +3496,7 @@ translate zh_hant a1_saturday_shanghaied_dffb1768:
 translate zh_hant a1_saturday_shanghaied_d6de0194:
 
     # hi "Well, if you say so."
-    hi "好吧，既然你這麼說了。"
+    hi "好吧，既然妳這麼說了。"
 
 # game/script-a1-saturday.rpy:2160
 translate zh_hant a1_saturday_shanghaied_e4dcb908:
@@ -3508,7 +3508,7 @@ translate zh_hant a1_saturday_shanghaied_e4dcb908:
 translate zh_hant a1_saturday_shanghaied_f14ed752:
 
     # hi "I wonder if you'd let me dress up first?"
-    hi "我想你們能不能先讓我去換個衣服？"
+    hi "妳們能不能先讓我去換個衣服？"
 
 # game/script-a1-saturday.rpy:2167
 translate zh_hant a1_saturday_shanghaied_ef2b123c_8:
@@ -3592,7 +3592,7 @@ translate zh_hant a1_saturday_shanghaied_6a6dd6a3:
 translate zh_hant a1_saturday_shanghaied_69a0892f:
 
     # mi "Tea shop! It's called the Shanghai. China is the birthplace of tea, you know. Come on, Hicchan! I'll even treat you today!"
-    mi "茶坊！它有個名字，叫“上海”。你應該知道，中國是茶的故鄉。來嘛，小久！今天我來請客！"
+    mi "是茶館！店名叫“上海”。中國是茶的發源地，你知道的。走吧，小久！今天我請客！"
 
 # game/script-a1-saturday.rpy:2228
 translate zh_hant a1_saturday_shanghaied_c364b8f3:
@@ -3610,7 +3610,7 @@ translate zh_hant a1_saturday_shanghaied_73bbbe7f:
 translate zh_hant a1_saturday_shanghaied_187570af:
 
     # mi "It's nice, it's really relaxing! It's like… half café, half restaurant, half sophisticated, half… library…"
-    mi "這很不錯啊，真的很令人放鬆！那就像是……一半是咖啡館，一半是餐廳，一半精巧，一半……像圖書館……"
+    mi "很不錯啊，氣氛真的很令人放鬆！那就像是……一半是咖啡館，一半是餐廳，一半精巧，一半……像圖書館……"
 
 # game/script-a1-saturday.rpy:2237
 translate zh_hant a1_saturday_shanghaied_67aaa788:
@@ -3664,13 +3664,13 @@ translate zh_hant a1_saturday_shanghaied_3fbfedcd:
 translate zh_hant a1_saturday_shanghaied_3bac45c6:
 
     # "On the other hand, I haven't really been into town at all since I've gotten here, so this is a good reason to head there."
-    "另一方面，到了這兒之後，我還沒去過鎮上呢。這也是個去那裡的好理由。"
+    "另一方面，到了這兒之後，我到鎮上也沒幾次呢。這也是個去那裡的好理由。"
 
 # game/script-a1-saturday.rpy:2270
 translate zh_hant a1_saturday_shanghaied_185ec1f8:
 
     # "Also, I could use something to eat. If it's Shizune's treat, even better; I'm totally broke."
-    "而且我可以去吃點東西。如果是靜音請客就更好了。我可是一文不名了。"
+    "而且，我也可以吃點東西。如果是靜音請客，那就更好了；我現在身無分文。"
 
 # game/script-a1-saturday.rpy:2272
 translate zh_hant a1_saturday_shanghaied_dce627ae:
@@ -3688,7 +3688,7 @@ translate zh_hant a1_saturday_shanghaied_288d2b6b:
 translate zh_hant a1_saturday_shanghaied_a8f10025:
 
     # "We make it to the tea shop with a fifteen-minute walk. It seems that we are the only customers around."
-    "我們走了半個小時到達了那個茶坊。看起來我們是僅有的客人。"
+    "我們走了一陣子，到了茶館。看來我們是唯一的客人。"
 
 # game/script-a1-saturday.rpy:2293
 translate zh_hant a1_saturday_shanghaied_3336367d:
@@ -3724,7 +3724,7 @@ translate zh_hant a1_saturday_shanghaied_b13b2718:
 translate zh_hant a1_saturday_shanghaied_92b5b401:
 
     # "We take our seats at a large, square wooden table, and it hits me that I don't know what this place serves. I just went with what Yuuko recommended the last time."
-    "我們找了一張大圓木桌坐了下來，然後我才忽然想起自己不知道這裡有什麼東西可以點。上次我也只是要了優子推薦的東西。"
+    "我們在一張大的方形木桌旁坐下，我才突然想到我不知道這裡賣什麼。上次我只是點了優子推薦的東西。"
 
 # game/script-a1-saturday.rpy:2314
 translate zh_hant a1_saturday_shanghaied_d94eb951:
@@ -3856,7 +3856,7 @@ translate zh_hant a1_saturday_shanghaied_a9b52184:
 translate zh_hant a1_saturday_shanghaied_9e0071f9:
 
     # hi "Why don't you two order before me? Ladies first."
-    hi "你們先點吧，女士優先。"
+    hi "妳們先點吧，女士優先。"
 
 # game/script-a1-saturday.rpy:2390
 translate zh_hant a1_saturday_shanghaied_ef2b123c_16:
@@ -3904,13 +3904,13 @@ translate zh_hant a1_saturday_shanghaied_352a2cb7_1:
 translate zh_hant a1_saturday_shanghaied_73d71274:
 
     # "I look around at the other tables. There are no menus on any of them. That means they must just keep them in a big stack near the door or something. What a thing to sit on, and what speed to grab them so quickly."
-    "我環顧著周圍的桌子。沒有找到半個菜單。那就是說，這家店的菜單都摞著放在門口之類的地方。居然不嫌難受坐在那種東西上面，而且居然還搶得那麼快。"
+    "我環顧著周圍的桌子。沒有找到半個菜單。那就是說，這家店的菜單都擺在門口之類的地方。居然不嫌難受坐在那種東西上面，而且居然還搶得那麼快。"
 
 # game/script-a1-saturday.rpy:2412
 translate zh_hant a1_saturday_shanghaied_d21f97c0:
 
     # hi "Well, whatever. Can I have one, then?"
-    hi "那麼，請給我一本菜單，好嗎？"
+    hi "那麼，請給我一份菜單，好嗎？"
 
 # game/script-a1-saturday.rpy:2417
 translate zh_hant a1_saturday_shanghaied_ef2b123c_18:
@@ -3964,7 +3964,7 @@ translate zh_hant a1_saturday_shanghaied_ef2b123c_20:
 translate zh_hant a1_saturday_shanghaied_ea667eaa:
 
     # mi "Hicchan, Shicchan is drinking a special tea that is only grown in remote areas of India."
-    mi "小久，小靜叫的是一種只有印度偏僻地區才能採集到的稀有茶葉衝的茶。"
+    mi "小久，小靜叫的是一種只有印度偏僻地區才能採集到的稀有茶葉泡的茶。"
 
 # game/script-a1-saturday.rpy:2450
 translate zh_hant a1_saturday_shanghaied_8aaee45c:
@@ -4042,7 +4042,7 @@ translate zh_hant a1_saturday_shanghaied_277a4e7c:
 translate zh_hant a1_saturday_shanghaied_e9c36eff:
 
     # "I eat my cake in one bite, amazed at how it's probably the least filling thing I've ever eaten."
-    "我一口吞掉了這塊蛋糕，發覺這可能是我吃過的最沒有質感的東西。"
+    "我一口吞下蛋糕，發現這可能是我吃過最沒有飽足感的東西。"
 
 # game/script-a1-saturday.rpy:2504
 translate zh_hant a1_saturday_shanghaied_36f0fc8d:
@@ -4060,7 +4060,7 @@ translate zh_hant a1_saturday_shanghaied_b9423aa1:
 translate zh_hant a1_saturday_shanghaied_7f3a9aa7:
 
     # "She drinks with incredible recklessness considering how hot it is. The exact opposite of Shizune or Lilly."
-    "她如狼似虎地喝下還非常熱燙的茶。和靜音、莉莉的風格完全相反。"
+    "她如狼似虎地喝下還非常燙的茶。和靜音、莉莉的風格完全相反。"
 
 # game/script-a1-saturday.rpy:2510
 translate zh_hant a1_saturday_shanghaied_bf55651f:
@@ -4090,7 +4090,7 @@ translate zh_hant a1_saturday_shanghaied_6c0c038b:
 translate zh_hant a1_saturday_shanghaied_02a09f40:
 
     # "Misha giggles, clearly not buying it, and then signs it all back to Shizune, who nods slowly and deliberately while looking very unamused."
-    "米莎咯咯笑了起來，根本不買賬，接著逐字逐句地比劃給靜音，後者緩緩地點了點頭，還是一臉漠然。"
+    "米莎咯咯地笑了起來，顯然不相信，然後把這一切用手語告訴了靜音，靜音緩慢而慎重地點了點頭，看起來很不高興。"
 
 # game/script-a1-saturday.rpy:2528
 translate zh_hant a1_saturday_shanghaied_b5b08242:
@@ -4114,7 +4114,7 @@ translate zh_hant a1_saturday_shanghaied_ef2b123c_21:
 translate zh_hant a1_saturday_shanghaied_ac67c1b6:
 
     # mi "Okay, Hicchan, if you're that busy. We don't have anything to do tomorrow, so we thought maybe you would want to hang out with us at the festival!"
-    mi "好吧，小久，如果你真的那麼忙。我們明天無事可做。所以我們還以為你想要和我們一起去逛園遊會！"
+    mi "好吧，小久，如果你真的那麼忙。我們明天無事可做。我們還以為你想要和我們一起去逛園遊會！"
 
 # game/script-a1-saturday.rpy:2545
 translate zh_hant a1_saturday_shanghaied_0ceefe47:
@@ -4180,7 +4180,7 @@ translate zh_hant a1_saturday_shanghaied_c935168c:
 translate zh_hant a1_saturday_shanghaied_82f90778:
 
     # "Is she talking about the coercion? I never realized that was just a game to her. I thought I was the only one who saw it as competition."
-    "她是不是在說剛才那些嚴刑逼供？我可從來沒發現那只是個遊戲。我還以為自己是唯一一個把那種姿態當作競技的人。"
+    "她是不是在說剛才那些嚴刑逼供？我可從來沒發現那只是個遊戲。我還以為是一個競賽。"
 
 # game/script-a1-saturday.rpy:2592
 translate zh_hant a1_saturday_shanghaied_ef2b123c_24:
@@ -4312,7 +4312,7 @@ translate zh_hant a1_saturday_shanghaied_d9e4dfc2:
 translate zh_hant a1_saturday_shanghaied_3d40b75a:
 
     # hi "Wait, what exactly do you mean?"
-    hi "等一下，你到底在說什麼呢？"
+    hi "等一下，妳到底在說什麼呢？"
 
 # game/script-a1-saturday.rpy:2672
 translate zh_hant a1_saturday_shanghaied_3f2f31b4:
@@ -4372,7 +4372,7 @@ translate zh_hant a1_saturday_shanghaied_396f2729:
 translate zh_hant a1_saturday_shanghaied_91a89c00:
 
     # "That kind of thing drives people insane. She's too Machiavellian; before this I'd assumed she was just kind of stoic."
-    "碰上這種事情，換成別人就已經瘋了。她是個不折不扣的馬基雅維利主義者，以前我還以為她只是個三無少女而已。"
+    "碰上這種事情，換成別人就已經瘋了。她太狡猾、不擇手段了，以前我還以為她只是個三無少女而已。"
 
 # game/script-a1-saturday.rpy:2704
 translate zh_hant a1_saturday_shanghaied_94c2501b:
@@ -4456,7 +4456,7 @@ translate zh_hant a1_saturday_shanghaied_cf5bf557:
 translate zh_hant a1_saturday_shanghaied_3ea62a08:
 
     # hi "Are you insane?"
-    hi "你瘋了啊？"
+    hi "妳瘋了啊？"
 
 # game/script-a1-saturday.rpy:2753
 translate zh_hant a1_saturday_shanghaied_01ff08f1:
@@ -4498,13 +4498,13 @@ translate zh_hant a1_saturday_shanghaied_85144872:
 translate zh_hant a1_saturday_shanghaied_b2482000:
 
     # "This is going to have me constantly on edge for weeks."
-    "這肯定會讓我在後面幾周頭疼不已。"
+    "這會讓我在接下來的幾個星期裡都提心吊膽。"
 
 # game/script-a1-saturday.rpy:2779
 translate zh_hant a1_saturday_shanghaied_efbabf07:
 
     # mi "Okay~! Come on, you should both hurry up, your drinks are getting cold!"
-    mi "哎呀～！快一點啦，你們兩個都應該快一點，你們的飲料都發涼了。"
+    mi "哎呀～！快一點啦，你們兩個都快一點，你們的飲料都涼掉了。"
 
 # game/script-a1-saturday.rpy:2784
 translate zh_hant a1_saturday_shanghaied_8275aa5e:
@@ -4522,7 +4522,7 @@ translate zh_hant a1_saturday_shanghaied_95396eba:
 translate zh_hant a1_saturday_shanghaied_f2bd33a4:
 
     # mi "Hicchan, are you sure you don't want to hang out tomorrow? A lot of people are looking forward to it; you don't want to miss out."
-    mi "小久，你明天真的不能來嗎？很多人都很期待著明天。你不要錯過了喲。"
+    mi "小久，你明天真的不能來嗎？很多人都很期待。你不要錯過了喲。"
 
 # game/script-a1-saturday.rpy:2793
 translate zh_hant a1_saturday_shanghaied_fcf55c9b:
@@ -4600,7 +4600,7 @@ translate zh_hant a1_saturday_shanghaied_ef2b123c_34:
 translate zh_hant a1_saturday_shanghaied_bb9a2687:
 
     # mi "You too, Shicchan?"
-    mi "你也要走？"
+    mi "妳也要走嗎，小靜？"
 
 # game/script-a1-saturday.rpy:2831
 translate zh_hant a1_saturday_shanghaied_0448e691:
@@ -4630,7 +4630,7 @@ translate zh_hant a1_saturday_shanghaied_1549a0b3:
 translate zh_hant a1_saturday_shanghaied_a9e1c92e:
 
     # hi "So you think you can win today? That's kind of cocky, Shizune."
-    hi "你以為你今天能贏？靜音，你真是太自大了。"
+    hi "妳以為你今天能贏？靜音，你真是太自大了。"
 
 # game/script-a1-saturday.rpy:2852
 translate zh_hant a1_saturday_shanghaied_009a3712:
@@ -4684,7 +4684,7 @@ translate zh_hant a1_saturday_shanghaied_4c65841b:
 translate zh_hant a1_saturday_shanghaied_a6c79841:
 
     # "But then again, I gave her a hard time for not knowing the way here, so I can't allow her to score off me for not knowing the way back."
-    "但是我在來的時候嘲笑過她不辨方向的樣子，我不可能在回去的路上給她反擊的機會。"
+    "但是我在來的時候嘲笑過她沒方向感，我不可能在回去的路上給她反擊的機會。"
 
 # game/script-a1-saturday.rpy:2878
 translate zh_hant a1_saturday_shanghaied_985876df:
@@ -4726,7 +4726,7 @@ translate zh_hant a1_saturday_shanghaied_cef1c1c0:
 translate zh_hant a1_saturday_shanghaied_eb0a3e40:
 
     # "Misha is waving a thick stack of printouts in my general direction, taunting me."
-    "米莎拿著一摞複印件向我揮舞，對我嘲諷著。"
+    "米莎拿著一疊複印件向我揮舞，對我嘲諷著。"
 
 # game/script-a1-saturday.rpy:2907
 translate zh_hant a1_saturday_shanghaied_36548c8e:
@@ -4792,7 +4792,7 @@ translate zh_hant a1_saturday_shanghaied_5f735d25:
 translate zh_hant a1_saturday_shanghaied_04201dd8:
 
     # mi "Ah, sorry, Hicchan, I guess it is! Hahahaha!"
-    mi "啊，抱歉吶，小久，我猜確實是個命令！哈哈哈哈！"
+    mi "啊，抱歉，小尚，我猜是的！哈哈哈哈！"
 
 # game/script-a1-saturday.rpy:2947
 translate zh_hant a1_saturday_shanghaied_5024b03d:
@@ -4804,7 +4804,7 @@ translate zh_hant a1_saturday_shanghaied_5024b03d:
 translate zh_hant a1_saturday_shanghaied_a6c643cf:
 
     # mi "I thought we had almost everything done by now, but it turns out we have all these signs to attach to backing boards."
-    mi "我還以為我們差不多都做完了，但是現在我們必須把這些攤位號安裝到號碼牌子上。"
+    mi "我還以為我們差不多都做完了，但是現在我們必須把這些攤位號碼安裝到號碼牌子上。"
 
 # game/script-a1-saturday.rpy:2957
 translate zh_hant a1_saturday_shanghaied_ef2b123c_37:
@@ -4894,7 +4894,7 @@ translate zh_hant a1_saturday_shanghaied_986dc27a:
 translate zh_hant a1_saturday_shanghaied_dc2e21cd:
 
     # hi "So the tea shop was a trap after all! You two-timing scoundrels!"
-    hi "那個茶坊到最後還是個陷阱啊！你這個慣犯！"
+    hi "所以茶館終究是個陷阱！妳這個慣犯！"
 
 # game/script-a1-saturday.rpy:3017
 translate zh_hant a1_saturday_shanghaied_ef2b123c_41:
@@ -4972,7 +4972,7 @@ translate zh_hant a1_saturday_shanghaied_b33ba1f7_3:
 translate zh_hant a1_saturday_shanghaied_4f078693:
 
     # mi "Hicchan, it's your duty to help us, anyway! As a member of the Student Council!"
-    mi "作為學生會的成員！你的使命就是幫助我們呀，小小久！"
+    mi "作為學生會的成員！你的使命就是幫助我們呀，小久！"
 
 # game/script-a1-saturday.rpy:3073
 translate zh_hant a1_saturday_shanghaied_68eb1831:
@@ -5038,7 +5038,7 @@ translate zh_hant a1_saturday_shanghaied_d9c879ec:
 translate zh_hant a1_saturday_shanghaied_ce1e6a3a:
 
     # hi "Oh, right. Okay, I'll help you."
-    hi "好吧，我會幫你們的。"
+    hi "好吧，我會幫妳們的。"
 
 # game/script-a1-saturday.rpy:3107
 translate zh_hant a1_saturday_shanghaied_fff80d75:
@@ -5050,7 +5050,7 @@ translate zh_hant a1_saturday_shanghaied_fff80d75:
 translate zh_hant a1_saturday_shanghaied_1d9b5f48:
 
     # mi "That's my Hicchan! I knew we could trust you~!"
-    mi "我的小久！我就知道我們可以信任你～！"
+    mi "這才是我的小久！我就知道我們可以信任你～！"
 
 # game/script-a1-saturday.rpy:3114
 translate zh_hant a1_saturday_shanghaied_b33ba1f7_5:
@@ -5146,7 +5146,7 @@ translate zh_hant a1_saturday_shanghaied_b33ba1f7_8:
 translate zh_hant a1_saturday_shanghaied_3d21381b:
 
     # mi "Ahaha! That's… irrelevant, Hicchan! Can you get on with making the signs, please?"
-    mi "啊哈哈！那……無關緊要的，小久！你能幫忙做指示牌嗎？好嗎？"
+    mi "啊哈哈！那……不重要啦，小久！可以請你開始做指示牌了嗎？"
 
 # game/script-a1-saturday.rpy:3173
 translate zh_hant a1_saturday_shanghaied_9c9acfb8:
@@ -5188,7 +5188,7 @@ translate zh_hant a1_saturday_shanghaied_45731bc9:
 translate zh_hant a1_saturday_shanghaied_b0b88888:
 
     # hi "So what are you two going to do?"
-    hi "那麼你們二位打算做什麼？"
+    hi "那麼妳們二位打算做什麼？"
 
 # game/script-a1-saturday.rpy:3200
 translate zh_hant a1_saturday_shanghaied_4ce393e1:
@@ -5212,7 +5212,7 @@ translate zh_hant a1_saturday_shanghaied_ccf0d605:
 translate zh_hant a1_saturday_shanghaied_9e8e44d8:
 
     # mi "This is just a bad year. Fewer people than usual, even though we already didn't have many the year before."
-    mi "今年就是年頭不好。人數比往常要少，雖然去年的人更少。"
+    mi "今年就是年頭不好。人數比往常要少，雖然去年的人也不多。"
 
 # game/script-a1-saturday.rpy:3217
 translate zh_hant a1_saturday_shanghaied_88f927e8:
@@ -5338,7 +5338,7 @@ translate zh_hant a1_saturday_shanghaied_b8c75782:
 translate zh_hant a1_saturday_shanghaied_6ba4ba28:
 
     # hi "Wait a second, so what did you two do for the past 20 minutes?"
-    hi "等一下，那麼你們剛剛那20分鐘都在幹什麼啊？"
+    hi "等一下，那麼妳們剛剛那20分鐘都在幹什麼啊？"
 
 # game/script-a1-saturday.rpy:3300
 translate zh_hant a1_saturday_shanghaied_b33ba1f7_14:
@@ -5362,7 +5362,7 @@ translate zh_hant a1_saturday_shanghaied_d6a04f94:
 translate zh_hant a1_saturday_shanghaied_1f33ed14:
 
     # hi "I see. So you decided to take a break. Clever."
-    hi "原來如此，你們剛剛在休息。聰明。"
+    hi "原來如此，妳們剛剛在休息。聰明。"
 
 # game/script-a1-saturday.rpy:3318
 translate zh_hant a1_saturday_shanghaied_b33ba1f7_15:
@@ -5404,7 +5404,7 @@ translate zh_hant a1_saturday_shanghaied_b7a6c607:
 translate zh_hant a1_saturday_shanghaied_490e7b40:
 
     # "Well then why didn't you just say you wanted to take a break!?"
-    "那你們怎麼不直接說你們想要休息一下！？"
+    "那妳們怎麼不直接說妳們想要休息一下！？"
 
 # game/script-a1-saturday.rpy:3357
 translate zh_hant a1_saturday_shanghaied_40621341:
@@ -5446,7 +5446,7 @@ translate zh_hant a1_saturday_shanghaied_12d0300f:
 translate zh_hant a1_saturday_shanghaied_5839b852:
 
     # hi "Shizune. I didn't know that she liked to joke around like that."
-    hi "靜音。我以前不知道她喜歡這樣開玩笑。"
+    hi "靜音。我以前不知道她會這樣開玩笑。"
 
 # game/script-a1-saturday.rpy:3376
 translate zh_hant a1_saturday_shanghaied_ff7d4db8:
@@ -5458,13 +5458,13 @@ translate zh_hant a1_saturday_shanghaied_ff7d4db8:
 translate zh_hant a1_saturday_shanghaied_79e1c8a4:
 
     # mi "You would be surprised, Hicchan."
-    mi "你應該吃驚的呀，小久。"
+    mi "你會感到驚訝的，小尚。"
 
 # game/script-a1-saturday.rpy:3383
 translate zh_hant a1_saturday_shanghaied_5d2e01f8:
 
     # hi "Well, I didn't know you and her were so close, either, the first time I saw you."
-    hi "我以前也不知道你和她是這麼親密。"
+    hi "我以前也不知道妳和她是這麼親密。"
 
 # game/script-a1-saturday.rpy:3385
 translate zh_hant a1_saturday_shanghaied_bfa2ec07:
@@ -5476,7 +5476,7 @@ translate zh_hant a1_saturday_shanghaied_bfa2ec07:
 translate zh_hant a1_saturday_shanghaied_dc487c2b:
 
     # hi "Do you two go far back or something?"
-    hi "你們兩個認識很久了嗎？"
+    hi "妳們兩個認識很久了嗎？"
 
 # game/script-a1-saturday.rpy:3389
 translate zh_hant a1_saturday_shanghaied_5e4b9123:
@@ -5536,7 +5536,7 @@ translate zh_hant a1_saturday_shanghaied_b97bc15e:
 translate zh_hant a1_saturday_shanghaied_fb71b80a:
 
     # mi "Now, I guess we're always together. It's nice, I've always wanted someone to listen to me, and I think Shicchan likes having someone to talk to! So, everybody wins."
-    mi "現在，我們幾乎整天待在一起了。真的很不錯，我一直想有個人能聽我說話，而我想靜音也喜歡有人和她說話！所以說，一石二鳥。"
+    mi "現在，我想我們總是在一起。這很好，我一直希望有人能聽我說話，而且我想小靜也喜歡有人能跟她說話！所以，皆大歡喜。"
 
 # game/script-a1-saturday.rpy:3427
 translate zh_hant a1_saturday_shanghaied_69af8838:
@@ -5560,7 +5560,7 @@ translate zh_hant a1_saturday_shanghaied_9276d2c8:
 translate zh_hant a1_saturday_shanghaied_1724e77e:
 
     # mi "You know, Hicchan, I don't think that me and Shicchan thanked you properly."
-    mi "小久啊，我不覺得我和小靜好好感謝過你。"
+    mi "你知道嗎，小久，我覺得我跟小靜還沒有好好地謝謝你。"
 
 # game/script-a1-saturday.rpy:3444
 translate zh_hant a1_saturday_shanghaied_2abafc69:
@@ -5596,7 +5596,7 @@ translate zh_hant a1_saturday_shanghaied_8ae18778:
 translate zh_hant a1_saturday_shanghaied_af953738:
 
     # "At that moment, Shizune steps back into the room, looking slightly annoyed and sipping offhandedly from a juicebox."
-    "就在這時候，靜音走進了教室，她看起來有點惱火，心不在焉地嘬著盒裝果汁的吸管。"
+    "就在這時候，靜音走進了教室，她看起來有點惱火，心不在焉地吸著盒裝果汁的吸管。"
 
 # game/script-a1-saturday.rpy:3472
 translate zh_hant a1_saturday_shanghaied_ef2b123c_42:
@@ -5662,7 +5662,7 @@ translate zh_hant a1_saturday_shanghaied_ec05bd83:
 translate zh_hant a1_saturday_shanghaied_10bfc1b8:
 
     # mi "It was just very hard to get these…"
-    mi "很不容易才弄明白那些手勢……"
+    mi "只是說這些很難拿到……"
 
 # game/script-a1-saturday.rpy:3523
 translate zh_hant a1_saturday_shanghaied_b33ba1f7_19:
@@ -5692,7 +5692,7 @@ translate zh_hant a1_saturday_shanghaied_ef2b123c_44:
 translate zh_hant a1_saturday_shanghaied_8024d240:
 
     # mi "It really wasn't a big deal in retrospect? That's forward thinking of you!"
-    mi "事後想來不是那麼重要？你的想法真是非常樂觀！"
+    mi "事後想來不是那麼重要？妳的想法真是非常樂觀！"
 
 # game/script-a1-saturday.rpy:3545
 translate zh_hant a1_saturday_shanghaied_1848006a:
@@ -5776,13 +5776,13 @@ translate zh_hant a1_saturday_shanghaied_7e62b08d:
 translate zh_hant a1_saturday_shanghaied_e2708c45:
 
     # mi "This can't be happening! Hicchan, can you think of any way we could… obtain food?"
-    mi "不行不行不行！小久，你能想到別的收集食物的方式嗎？"
+    mi "不會吧！小久，你想得到什麼辦法可以……弄到食物嗎？"
 
 # game/script-a1-saturday.rpy:3602
 translate zh_hant a1_saturday_shanghaied_2eac5b03:
 
     # hi "Obtain food?"
-    hi "收集食物？"
+    hi "弄到食物？"
 
 # game/script-a1-saturday.rpy:3604
 translate zh_hant a1_saturday_shanghaied_5288fb64:
@@ -5818,13 +5818,13 @@ translate zh_hant a1_saturday_shanghaied_52e540f2:
 translate zh_hant a1_saturday_shanghaied_43caf2d6:
 
     # hi "I didn't know they deliver to the school. Well, what are you going to get?"
-    hi "我還真不知道他們會送到學校這裡。你們打算吃什麼呢？"
+    hi "我還真不知道他們會送到學校這裡。妳們打算吃什麼呢？"
 
 # game/script-a1-saturday.rpy:3625
 translate zh_hant a1_saturday_shanghaied_ba9b36f0:
 
     # mi "Maybe some Chinese food!"
-    mi "可能是中餐吧！"
+    mi "可能是中國菜吧！"
 
 # game/script-a1-saturday.rpy:3627
 translate zh_hant a1_saturday_shanghaied_9c0af533:
@@ -5860,7 +5860,7 @@ translate zh_hant a1_saturday_shanghaied_ef2b123c_49:
 translate zh_hant a1_saturday_shanghaied_57d0d3cb:
 
     # mi "Wahaha, that's true, if it wasn't for you, we wouldn't be here so late, Shicchan!"
-    mi "哇哈哈，沒錯啊，小靜。如果不是你的緣故，我們也不會留到這麼晚呀。"
+    mi "哇哈哈，沒錯啊，小靜。如果不是妳的緣故，我們也不會留到這麼晚呀。"
 
 # game/script-a1-saturday.rpy:3657
 translate zh_hant a1_saturday_shanghaied_310b87b7:
@@ -5890,7 +5890,7 @@ translate zh_hant a1_saturday_shanghaied_521056fe:
 translate zh_hant a1_saturday_shanghaied_5e1d0a37:
 
     # mi "Ahahahahaha~!! Hicchan, Shicchan is paying for everything tonight, it's all on her, so you can afford to splurge a little!"
-    mi "啊哈哈哈哈哈～！！小久，小靜今天付賬呀，她請客呀，你能腐敗一下呀！"
+    mi "啊哈哈哈哈哈～！！小久，小靜今天付賬呀，她請客呀，你可以奢侈一點呀！"
 
 # game/script-a1-saturday.rpy:3673
 translate zh_hant a1_saturday_shanghaied_ec356ea5:
@@ -5944,13 +5944,13 @@ translate zh_hant a1_saturday_shanghaied_5809b4a5:
 translate zh_hant a1_saturday_shanghaied_d4f38103:
 
     # mi "I'm going to get soup and a stir-fry, you say that like this…"
-    mi "我要湯和炒菜，你這麼說……"
+    mi "我要湯和炒青菜，你這麼說……"
 
 # game/script-a1-saturday.rpy:3730
 translate zh_hant a1_saturday_shanghaied_4216ea7f:
 
     # mi "And here's how much it all costs: 3685 yen!"
-    mi "這是全部的價錢：3685元！"
+    mi "全部總共是：3685圓！"
 
 # game/script-a1-saturday.rpy:3735
 translate zh_hant a1_saturday_shanghaied_c32b898a:
@@ -5968,7 +5968,7 @@ translate zh_hant a1_saturday_shanghaied_9f53bfc0:
 translate zh_hant a1_saturday_shanghaied_a9fde4bc:
 
     # mi "Ahahahaha! Okay~! I'm going to order now, unless anyone wants something else. No objections? All right all right, then!"
-    mi "啊哈哈哈哈！好～！我現在就去叫餐，如果有人想再點什麼。沒有反對意見吧？很好很好，那麼！"
+    mi "啊哈哈哈哈！好～！我現在就去點餐，如果有人想再點什麼。沒有反對意見吧？很好很好，那麼！"
 
 # game/script-a1-saturday.rpy:3746
 translate zh_hant a1_saturday_shanghaied_b7be5a78:
@@ -5980,7 +5980,7 @@ translate zh_hant a1_saturday_shanghaied_b7be5a78:
 translate zh_hant a1_saturday_shanghaied_633f056a:
 
     # hi "Hey, where did you get those?"
-    hi "你從哪裡拿的筷子？"
+    hi "妳們從哪裡拿的筷子？"
 
 # game/script-a1-saturday.rpy:3753
 translate zh_hant a1_saturday_shanghaied_056f1c7b:
@@ -6070,13 +6070,13 @@ translate zh_hant a1_saturday_shanghaied_256512e0:
 translate zh_hant a1_saturday_shanghaied_9a276bff:
 
     # "The dorms are eerily quiet except for the sounds of portable TVs and radios murmuring unintelligibly behind thin walls."
-    "宿舍除了便攜電視，便攜收音機穿透牆壁的低沉聲音之外則是十分安靜。"
+    "宿舍除了電視收音機穿透牆壁的低沉聲音之外則是十分安靜。"
 
 # game/script-a1-saturday.rpy:3821
 translate zh_hant a1_saturday_shanghaied_ba98bc4f:
 
     # "It's quiet here at night, and very peaceful. I can hear the crickets chirping outside my window, and see actual stars when I look up."
-    "這裡的夜晚十分安靜，也十分安詳。我能聽到蛐蛐在我的窗外合唱，也能看到天空中的星星。"
+    "這裡的夜晚十分安靜，也十分安詳。我能聽到蟋蟀在我的窗外合唱，也能看到天空中的星星。"
 
 # game/script-a1-saturday.rpy:3823
 translate zh_hant a1_saturday_shanghaied_b598f8f4:
@@ -6094,7 +6094,7 @@ translate zh_hant a1_saturday_quiet_bdf99a99:
 translate zh_hant a1_saturday_quiet_19b91fc9:
 
     # "Slinging my bag over my shoulder, I make my way out of the classroom."
-    "我把書包挎在肩頭，走出了教室。"
+    "我把書包背在肩頭，走出了教室。"
 
 # game/script-a1-saturday.rpy:3846
 translate zh_hant a1_saturday_quiet_7fd012ef:
@@ -6130,7 +6130,7 @@ translate zh_hant a1_saturday_quiet_cad9afb1:
 translate zh_hant a1_saturday_quiet_5f52a926:
 
     # "The walls of the library only partially insulate the noise of the festival preparations, but they're the only sounds to be heard."
-    "圖書館的牆壁只能部分遮擋準備園遊會的聲音，但是這也是唯一能聽到的聲音。"
+    "圖書館的牆壁只能部分隔絕園遊會準備工作的噪音，但這也是唯一能聽到的聲音。"
 
 # game/script-a1-saturday.rpy:3863
 translate zh_hant a1_saturday_quiet_3a660e22:
@@ -6226,7 +6226,7 @@ translate zh_hant a1_saturday_quiet_ff241b57:
 translate zh_hant a1_saturday_quiet_e30131a3:
 
     # hi "Do you mind if I borrow it when you're finished?"
-    hi "你不介意我在你讀完後借那本書吧？"
+    hi "妳不介意我在妳讀完後借那本書吧？"
 
 # game/script-a1-saturday.rpy:3903
 translate zh_hant a1_saturday_quiet_8ffdf9ec:
@@ -6244,7 +6244,7 @@ translate zh_hant a1_saturday_quiet_7d9a76ed:
 translate zh_hant a1_saturday_quiet_c9979c82:
 
     # hi "I'm sure it can't be that bad. After all, you've stuck with it, haven't you?"
-    hi "肯定不會那麼差。最起碼，你一直堅持了下來，不是嗎？"
+    hi "肯定不會那麼差。最起碼，妳一直堅持了下來，不是嗎？"
 
 # game/script-a1-saturday.rpy:3909
 translate zh_hant a1_saturday_quiet_6fd2df82:
@@ -6286,7 +6286,7 @@ translate zh_hant a1_saturday_quiet_64d5de0b:
 translate zh_hant a1_saturday_quiet_852cd6cb:
 
     # ha "Lilly said she had to go and… meet someone…"
-    ha "莉莉說她必須出去……和某人碰面……"
+    ha "莉莉說她必須出去……和人碰面……"
 
 # game/script-a1-saturday.rpy:3932
 translate zh_hant a1_saturday_quiet_f9075882:
@@ -6352,7 +6352,7 @@ translate zh_hant a1_saturday_quiet_41d8f8ab:
 translate zh_hant a1_saturday_quiet_7fc9006c:
 
     # hi "Hey, Hanako, what are you doing for the festival?"
-    hi "華子，你在園遊會的時候打算怎麼過？"
+    hi "華子，妳在園遊會的時候打算怎麼過？"
 
 # game/script-a1-saturday.rpy:3971
 translate zh_hant a1_saturday_quiet_7a615812:
@@ -6370,7 +6370,7 @@ translate zh_hant a1_saturday_quiet_80087b46:
 translate zh_hant a1_saturday_quiet_7161fa2b:
 
     # hi "I was just asking what you're doing for the festival tomorrow. Anything planned?"
-    hi "我想知道你明天在園遊會的時候會做些什麼。有什麼計劃嗎？"
+    hi "我想知道妳明天在園遊會的時候會做些什麼。有什麼計劃嗎？"
 
 # game/script-a1-saturday.rpy:3980
 translate zh_hant a1_saturday_quiet_1baf3df3:
@@ -6454,7 +6454,7 @@ translate zh_hant a1_saturday_quiet_a9cde935:
 translate zh_hant a1_saturday_quiet_594f685b:
 
     # hi "Well, one day you'll have to introduce me to her."
-    hi "你以後會把我介紹給晃的吧？"
+    hi "妳以後會把我介紹給晃的吧？"
 
 # game/script-a1-saturday.rpy:4022
 translate zh_hant a1_saturday_quiet_57db572d:
@@ -6586,7 +6586,7 @@ translate zh_hant a1_saturday_quiet_50395cd1:
 translate zh_hant a1_saturday_quiet_87bc7d3c:
 
     # hi "You're welcome."
-    hi "是我的榮幸。"
+    hi "不客氣。"
 
 # game/script-a1-saturday.rpy:4085
 translate zh_hant a1_saturday_quiet_62239925:
@@ -6622,19 +6622,19 @@ translate zh_hant a1c14o1_e3f0f852:
 translate zh_hant a1c14o1_9219df6f:
 
     # no "I really must take my leave now. Tezuka, I'm pleased to see that this little project is going so well."
-    no "我要先失陪了。手塚，我很高興看到你的小項目能做得那麼好。"
+    no "我要先失陪了。手塚，我很高興看到妳的小案子能做得那麼好。"
 
 # game/script-a1-saturday.rpy:4123
 translate zh_hant a1c14o1_e9319ae2:
 
     # no "I just stopped by to remind you to not run off by yourself, tomorrow. I've invited certain people to the festival for you, and I'm sure they'd like to meet you as well."
-    no "我只是路過，順便來提醒你明天可別溜了。我專門為你邀請了一些人來參加園遊會，我敢肯定他們會很想和你見面的。"
+    no "我只是路過，順便來提醒你明天可別溜了。我專門為妳邀請了一些人來參加園遊會，我敢肯定他們會很想和妳見面的。"
 
 # game/script-a1-saturday.rpy:4128
 translate zh_hant a1c14o1_4c966ecb:
 
     # no "Also, Monday's club meeting is off, since I'm going out of town. I guess you kids can do something among yourselves, if you want to."
-    no "還有，星期一的社團活動取消了，我要出去一趟。如果你們願意的話，你們可以自己搞點什麼。"
+    no "還有，星期一的社團活動取消了，我要出去一趟。如果妳們願意的話，妳們可以自己搞點什麼。"
 
 # game/script-a1-saturday.rpy:4139
 translate zh_hant a1c14o1_ca429e9e:
@@ -6772,19 +6772,19 @@ translate zh_hant a1c14o2_8d147b0c:
 translate zh_hant a1c14o2_2a2c4f54:
 
     # no "Tezuka, I'm pleased to see that this little project is going so well."
-    no "手塚，你的小項目能做得那麼好，我很欣慰吶。"
+    no "手塚，妳的小專案能做得那麼好，我很欣慰吶。"
 
 # game/script-a1-saturday.rpy:4209
 translate zh_hant a1c14o2_e9319ae2:
 
     # no "I just stopped by to remind you to not run off by yourself, tomorrow. I've invited certain people to the festival for you, and I'm sure they'd like to meet you as well."
-    no "我只是路過，順便來提醒你明天可別溜了。我專門為你邀請了一些人來參加園遊會，我敢肯定他們會很想和你見面的。"
+    no "我只是順道過來提醒妳明天別自己跑掉。我為妳邀請了某些人來園遊會，我相信他們也會想見妳的。"
 
 # game/script-a1-saturday.rpy:4214
 translate zh_hant a1c14o2_4133276f:
 
     # no "I hope I'll see you on Monday, then, Nakai."
-    no "還有，星期一的社團活動取消了，我要出去一趟。如果你們願意的話，可以自己找點事做。"
+    no "那麼，中井，希望星期一能見到你。"
 
 # game/script-a1-saturday.rpy:4225
 translate zh_hant a1c14o2_4180bb5e:
@@ -6820,7 +6820,7 @@ translate zh_hant a1c14o2_560ba051:
 translate zh_hant a1c14o2_6e1f0110:
 
     # hi "So he invited some people tomorrow just to check out your painting?"
-    hi "他剛才說明天邀請了別人，就是來看看你的壁畫？"
+    hi "他剛才說明天邀請了別人，就是來看看妳的壁畫？"
 
 # game/script-a1-saturday.rpy:4240
 translate zh_hant a1c14o2_92792ce1:
@@ -6838,7 +6838,7 @@ translate zh_hant a1c14o2_9680d62c:
 translate zh_hant a1c14o2_5a25b9c9:
 
     # hi "Somehow, I get the feeling that you aren't too thrilled about it."
-    hi "我有種感覺，你好像不是太熱衷。"
+    hi "我有種感覺，妳好像不是很有興趣。"
 
 # game/script-a1-saturday.rpy:4249
 translate zh_hant a1c14o2_66aa709a:
@@ -6940,13 +6940,13 @@ translate zh_hant a1c14o2_e6fbb38a:
 translate zh_hant a1c14o2_df49caaf:
 
     # rin "So now this is a painting without any ideas."
-    rin "所以這是一副什麼主題都沒有的畫。"
+    rin "所以這是一幅什麼主題都沒有的畫。"
 
 # game/script-a1-saturday.rpy:4309
 translate zh_hant a1c14o2_4bf2e524:
 
     # hi "But… what are you painting then?"
-    hi "但是……那你到底在畫什麼？"
+    hi "但是……那妳到底在畫什麼？"
 
 # game/script-a1-saturday.rpy:4314
 translate zh_hant a1c14o2_c7cccc3e:
@@ -7126,7 +7126,7 @@ translate zh_hant a1c14o2_c7910afd:
 translate zh_hant a1c14o2_0a376210:
 
     # rin "Yes. No."
-    rin "對。不是。"
+    rin "對。不。"
 
 # game/script-a1-saturday.rpy:4448
 translate zh_hant a1c14o2_a485996b:
@@ -7174,7 +7174,7 @@ translate zh_hant a1c14o2_a18b3adb:
 translate zh_hant a1c14o2_48a03a10:
 
     # "There is no celebration, no general sense of a job well done, just a tired and laconic 'I'm done' and then we both go to sleep."
-    "沒有慶祝，也沒有完工時的成就感，只有滿身痠痛，還有一句白水般的“畫完了”，那之後，我們就各自回去睡覺了。"
+    "沒有慶祝，也沒有完工時的成就感，只有滿身痠痛，還有一句白開水般的“畫完了”，那之後，我們就各自回去睡覺了。"
 
 translate zh_hant strings:
 
@@ -7196,11 +7196,11 @@ translate zh_hant strings:
 
     # game/script-a1-saturday.rpy:1479
     old "Go for a walk into town."
-    new "我覺得該到鎮上去逛逛。"
+    new "到鎮上逛逛。"
 
     # game/script-a1-saturday.rpy:1479
     old "Go to the library."
-    new "我決定去圖書館。"
+    new "去圖書館。"
 
     # game/script-a1-saturday.rpy:2848
     old "If you lose, you have to come hang out with us tomorrow."

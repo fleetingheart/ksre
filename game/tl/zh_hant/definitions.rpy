@@ -712,7 +712,7 @@ translate zh_hant strings:
 
     # game/definitions.rpy:228
     old "A shopping trip at the convenience store with Hanako."
-    new "和華子去便利店的購物之旅。"
+    new "和華子去便利商店的購物之旅。"
 
     # game/definitions.rpy:228
     old "Tea Leaves"

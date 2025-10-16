@@ -10514,7 +10514,7 @@ translate zh_hant a3_emi_phantom_pain_7c6f5b18:
 translate zh_hant a3_emi_phantom_pain_db853ef5:
 
     # ke "And here you're just acting like I went down to the store for some milk."
-    ke "你的反應卻好像我只是去便利店買了瓶牛奶一樣。"
+    ke "你的反應卻好像我只是去便利商店買了瓶牛奶一樣。"
 
 # game/script-a3-emi.rpy:6004
 translate zh_hant a3_emi_phantom_pain_48397c65:
