@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-04-23 17:26
+﻿# TODO: Translation updated at 2025-10-17 09:34
 
 # game/script-a3-lilly.rpy:18
 translate zh_hant a3_lilly_day_by_day_64fcbbfa:
@@ -1138,7 +1138,7 @@ translate zh_hant a3_lilly_minor_discord_a65aec0a:
 translate zh_hant a3_lilly_minor_discord_bcd33c62:
 
     # "Girl" "Uh… hi." nointeract
-    "小女孩" "呃…你好。"
+    "Girl" "小女孩" nointeract
 
 # game/script-a3-lilly.rpy:781
 translate zh_hant a3_lilly_minor_discord_1d73dbab:
@@ -1354,7 +1354,7 @@ translate zh_hant a3_lilly_dissonance_3ac7d1af:
 translate zh_hant a3_lilly_dissonance_fc3e6151:
 
     # "Mrs. Satou" "Ah, you must be one of Lilly's friends from school, correct?"
-    "砂藤太太" "啊，你一定是莉莉在學校的朋友，對吧？"
+    "Mrs. Satou" "砂藤太太"
 
 # game/script-a3-lilly.rpy:914
 translate zh_hant a3_lilly_dissonance_3cda47f5:
@@ -1372,7 +1372,7 @@ translate zh_hant a3_lilly_dissonance_b201fe5f:
 translate zh_hant a3_lilly_dissonance_2ea8bf2c:
 
     # "Mrs. Satou" "It's so nice of her to find someone so polite! Lilly dear, it's for you!"
-    "砂藤太太" "真高興她找了一個這麼禮貌的人！小莉莉，找你的！"
+    "Mrs. Satou" "砂藤太太"
 
 # game/script-a3-lilly.rpy:920
 translate zh_hant a3_lilly_dissonance_fc61db99:
@@ -1660,7 +1660,7 @@ translate zh_hant a3_lilly_dissonance_cc76a7c8:
 translate zh_hant a3_lilly_dissonance_f866e968:
 
     # "It's hardly a meal to be proud of, only being an instant microwave meal from the convenience store, but it should at least fill her up."
-    "這實在不是什麼值得稱道的食物，不過是一些從便利店買來的微波加熱餐，不過至少能填飽肚子。"
+    "這實在不是什麼值得稱道的食物，不過是一些從便利商店買來的微波加熱餐，不過至少能填飽肚子。"
 
 # game/script-a3-lilly.rpy:1043
 translate zh_hant a3_lilly_dissonance_714fff2f:
@@ -2044,7 +2044,7 @@ translate zh_hant a3_lilly_a_world_away_70cec4e7:
 translate zh_hant a3_lilly_a_world_away_9b21ea13:
 
     # "Mrs. Satou" "{image=vfx/garbage.png} {image=vfx/garbage.png} Satou {image=vfx/garbage.png}?"
-    "砂藤太太" "<Hello, this is Karla Satou speaking.>?"
+    "Mrs. Satou" "砂藤太太"
 
 # game/script-a3-lilly.rpy:1255
 translate zh_hant a3_lilly_a_world_away_4ca2adf7:
@@ -2068,7 +2068,7 @@ translate zh_hant a3_lilly_a_world_away_15654483:
 translate zh_hant a3_lilly_a_world_away_0aa517b5:
 
     # "Mrs. Satou" "Hello again, Hisao. Are you teaching yourself English?"
-    "砂藤太太" "你好，又見面了久夫。你在自學英文嗎？"
+    "Mrs. Satou" "砂藤太太"
 
 # game/script-a3-lilly.rpy:1263
 translate zh_hant a3_lilly_a_world_away_33e6106c:
@@ -2080,7 +2080,7 @@ translate zh_hant a3_lilly_a_world_away_33e6106c:
 translate zh_hant a3_lilly_a_world_away_58d1208a:
 
     # "Mrs. Satou" "Oh, don't say that. Your pronunciation was good! I'll get Lilly for you, just wait a moment."
-    "砂藤太太" "哦，別這麼說。你的發音很好！我去給你把莉莉叫來，稍等一下。"
+    "Mrs. Satou" "砂藤太太"
 
 # game/script-a3-lilly.rpy:1267
 translate zh_hant a3_lilly_a_world_away_72f28400:
@@ -4102,7 +4102,7 @@ translate zh_hant a3_lilly_prelude_7b008e40:
 translate zh_hant a3_lilly_prelude_20ca2fd4:
 
     # "She dips an uninjured finger inside to feel the liquid level, tip against the bottom as the liquid rises up."
-    "她把一根沒有受傷的手指伸進去感覺著液麪的高度，然後慢慢傾斜酒瓶把酒倒出來。"
+    "她把一根沒有受傷的手指伸進去感覺著液面的高度，然後慢慢傾斜酒瓶把酒倒出來。"
 
 # game/script-a3-lilly.rpy:2526
 translate zh_hant a3_lilly_prelude_f977c75b:
@@ -6248,991 +6248,991 @@ translate zh_hant a3_lilly_rhapsody_in_blue_686a6c60:
     # hi "S-sure, come in."
     hi "好-好吧。進來吧。"
 
-# game/script-a3-lilly.rpy:3803
+# game/script-a3-lilly.rpy:3804
 translate zh_hant a3_lilly_rhapsody_in_blue_a7bf9adc:
 
     # "With that she opens the door, slowly walking into the room and closing it behind her. She looks oddly calm, countering my racing heart."
     "她應聲開了門，慢慢地走進房間，然後又關上了它。她看上去出奇的平靜，和我加快的心跳正相反。"
 
-# game/script-a3-lilly.rpy:3805
+# game/script-a3-lilly.rpy:3806
 translate zh_hant a3_lilly_rhapsody_in_blue_d6acef30:
 
     # hi "Ah… h-hey… Lilly."
     hi "啊……你-你好，莉莉"
 
-# game/script-a3-lilly.rpy:3812
+# game/script-a3-lilly.rpy:3813
 translate zh_hant a3_lilly_rhapsody_in_blue_c4de9b48:
 
     # li "Do you mind if I take a bath with you?"
     li "能讓我和你一起洗嗎？"
 
-# game/script-a3-lilly.rpy:3814
+# game/script-a3-lilly.rpy:3815
 translate zh_hant a3_lilly_rhapsody_in_blue_3f40f0ea:
 
     # hi "I don't mind. Go ahead."
     hi "我不在意，來吧。"
 
-# game/script-a3-lilly.rpy:3819
+# game/script-a3-lilly.rpy:3820
 translate zh_hant a3_lilly_rhapsody_in_blue_b964ab81:
 
     # "With a small nod she begins to lift her sweater off her shoulders, baring her chest little by little."
     "她輕輕點了點頭，然後開始把毛衣拉過肩膀，一點點地露出她的胸部。"
 
-# game/script-a3-lilly.rpy:3821
+# game/script-a3-lilly.rpy:3822
 translate zh_hant a3_lilly_rhapsody_in_blue_236167fb:
 
     # hi "I could do that for you, if you'd like."
     hi "我可以幫你，如果你想的話。"
 
-# game/script-a3-lilly.rpy:3826
+# game/script-a3-lilly.rpy:3827
 translate zh_hant a3_lilly_rhapsody_in_blue_be8b5d04:
 
     # li "Refused."
     li "恕我拒絕。"
 
-# game/script-a3-lilly.rpy:3828
+# game/script-a3-lilly.rpy:3829
 translate zh_hant a3_lilly_rhapsody_in_blue_7df9d21b:
 
     # hi "Why?"
     hi "為啥？"
 
-# game/script-a3-lilly.rpy:3833
+# game/script-a3-lilly.rpy:3834
 translate zh_hant a3_lilly_rhapsody_in_blue_e30eff64:
 
     # li "…"
     li "……"
 
-# game/script-a3-lilly.rpy:3835
+# game/script-a3-lilly.rpy:3836
 translate zh_hant a3_lilly_rhapsody_in_blue_9cf967b8:
 
     # "Her face shows she's still not overly comfortable with letting me attend to her. I can't say I blame her."
     "她的表情告訴我她還沒完全習慣讓我照顧她。我覺得我不能怪她。"
 
-# game/script-a3-lilly.rpy:3842
+# game/script-a3-lilly.rpy:3843
 translate zh_hant a3_lilly_rhapsody_in_blue_bbd4afc9:
 
     # "She continues undressing, her shirt and skirt falling to the floor and leaving her in her white lace bra and panties. Eventually, she stands bare in the center of the room."
     "她繼續脫著衣服。她的襯衫和裙子落在了地上，現在她身上只剩她的花邊胸罩和內褲。最終，她光著身子站在房間中間。"
 
-# game/script-a3-lilly.rpy:3847
+# game/script-a3-lilly.rpy:3848
 translate zh_hant a3_lilly_rhapsody_in_blue_4f1f4bee:
 
     # "Compared to last time, it's a lot easier to take in her entire figure. It's a wonderful sight."
     "跟上一次相比，這一次要把她的整個身體收入眼中要容易多了。那可真是一幅美景。"
 
-# game/script-a3-lilly.rpy:3849
+# game/script-a3-lilly.rpy:3850
 translate zh_hant a3_lilly_rhapsody_in_blue_05e6a5dc:
 
     # li "Hisao?"
     li "久夫？"
 
-# game/script-a3-lilly.rpy:3851
+# game/script-a3-lilly.rpy:3852
 translate zh_hant a3_lilly_rhapsody_in_blue_34d1d59d:
 
     # hi "Hmm?"
     hi "嗯？"
 
-# game/script-a3-lilly.rpy:3856
+# game/script-a3-lilly.rpy:3857
 translate zh_hant a3_lilly_rhapsody_in_blue_896f0785:
 
     # li "You're thinking perverted thoughts, aren't you?"
     li "你在想什麼齷齪的事了吧？"
 
-# game/script-a3-lilly.rpy:3858
+# game/script-a3-lilly.rpy:3859
 translate zh_hant a3_lilly_rhapsody_in_blue_5c9c33ab:
 
     # hi "Give me a break, you're undressing in front of me."
     hi "饒了我吧，你可是在我面前脫衣服啊。"
 
-# game/script-a3-lilly.rpy:3863
+# game/script-a3-lilly.rpy:3864
 translate zh_hant a3_lilly_rhapsody_in_blue_3988bb26:
 
     # "She furrows her brow in thought."
     "她皺起了眉毛。"
 
-# game/script-a3-lilly.rpy:3865
+# game/script-a3-lilly.rpy:3866
 translate zh_hant a3_lilly_rhapsody_in_blue_b817b473:
 
     # li "I guess this would be somewhat more erotic for you than me."
     li "我想這對你來說要比對我來說色情多了。"
 
-# game/script-a3-lilly.rpy:3867
+# game/script-a3-lilly.rpy:3868
 translate zh_hant a3_lilly_rhapsody_in_blue_7df9d21b_1:
 
     # hi "Why?"
     hi "為啥？"
 
-# game/script-a3-lilly.rpy:3869
+# game/script-a3-lilly.rpy:3870
 translate zh_hant a3_lilly_rhapsody_in_blue_cdd4d0ae:
 
     # hi "…Ah."
     hi "……哦。"
 
-# game/script-a3-lilly.rpy:3874
+# game/script-a3-lilly.rpy:3875
 translate zh_hant a3_lilly_rhapsody_in_blue_1f2e0630:
 
     # "She gives a small, lighthearted chuckle, which seems to settle her nerves a little."
     "她放鬆地輕笑了一下，這似乎讓她放鬆了一點。"
 
-# game/script-a3-lilly.rpy:3879
+# game/script-a3-lilly.rpy:3880
 translate zh_hant a3_lilly_rhapsody_in_blue_a8b83e26:
 
     # li "If this is too much for you, Hisao, I can come back later."
     li "要是你的心臟受不了的話，久夫。我可以等會再來。"
 
-# game/script-a3-lilly.rpy:3881
+# game/script-a3-lilly.rpy:3882
 translate zh_hant a3_lilly_rhapsody_in_blue_294c15f0:
 
     # hi "No, no, this is fine. I'm just a bit… well…"
     hi "不會，不會，我沒有事。我只是……有一點…那個……"
 
-# game/script-a3-lilly.rpy:3883
+# game/script-a3-lilly.rpy:3884
 translate zh_hant a3_lilly_rhapsody_in_blue_7af97bfd:
 
     # hi "You're really beautiful, you know."
     hi "你真是太美了，你知道嗎。"
 
-# game/script-a3-lilly.rpy:3888
+# game/script-a3-lilly.rpy:3889
 translate zh_hant a3_lilly_rhapsody_in_blue_19721e17:
 
     # "My earnest comment draws a vivid red blush from Lilly."
     "我真誠的讚美讓一抹紅暈爬上了莉莉的臉頰。"
 
-# game/script-a3-lilly.rpy:3890
+# game/script-a3-lilly.rpy:3891
 translate zh_hant a3_lilly_rhapsody_in_blue_01ac29f2:
 
     # li "Hisao…"
     li "久夫……"
 
-# game/script-a3-lilly.rpy:3892
+# game/script-a3-lilly.rpy:3893
 translate zh_hant a3_lilly_rhapsody_in_blue_9dd9c402:
 
     # "I give a small grin. She's cute when she's taken off guard."
     "我的嘴角翹了起來。她放下心防的樣子真是可愛。"
 
-# game/script-a3-lilly.rpy:3897
+# game/script-a3-lilly.rpy:3898
 translate zh_hant a3_lilly_rhapsody_in_blue_6c4e04de:
 
     # li "In any case, may I come in?"
     li "不管怎樣，我能進去嗎？"
 
-# game/script-a3-lilly.rpy:3899
+# game/script-a3-lilly.rpy:3900
 translate zh_hant a3_lilly_rhapsody_in_blue_a389cad4:
 
     # hi "Ah, sure."
     hi "哦，行。"
 
-# game/script-a3-lilly.rpy:3904
+# game/script-a3-lilly.rpy:3905
 translate zh_hant a3_lilly_rhapsody_in_blue_32b52003:
 
     # "I lean forwards and take her soft hands in mine, helping her over the side of the bath."
     "我探出身子，握住了她柔軟的手，把她帶到浴缸邊。"
 
-# game/script-a3-lilly.rpy:3906
+# game/script-a3-lilly.rpy:3907
 translate zh_hant a3_lilly_rhapsody_in_blue_fcbbde8e:
 
     # "She feels out the side of the bathtub then slowly lowers herself in, my breath catching when she sits and leans her back onto my front, her legs inside mine. I'd expected her to sit at the other end."
     "她摸著浴缸邊，慢慢地跨進浴缸，坐了下來。她把背靠在我的身上，在我兩腿之間併攏雙腿的時候，我的呼吸都要停了。我還以為她會坐在我的對面呢。"
 
-# game/script-a3-lilly.rpy:3911
+# game/script-a3-lilly.rpy:3912
 translate zh_hant a3_lilly_rhapsody_in_blue_7db3ae7a:
 
     # "Letting out a long breath to calm myself, I rest my arms on the sides of the bath as I struggle to control my urges."
     "我長處一口氣讓我自己冷靜下來，強忍著慾望，讓我的雙臂待在浴缸外邊。"
 
-# game/script-a3-lilly.rpy:3913
+# game/script-a3-lilly.rpy:3914
 translate zh_hant a3_lilly_rhapsody_in_blue_8deb949b:
 
     # "Far from missing the sight of her… assets, the feeling of her body against mine is surprisingly relaxing. If Lilly's so sensitive to touch, it must be all the more so for her."
     "我根本無法不注意到她的……資本，她的身體靠在我身上的感覺真是出人意料得讓人放鬆。既然莉莉對觸覺這麼敏感，這對她來說肯定更是如此。"
 
-# game/script-a3-lilly.rpy:3915
+# game/script-a3-lilly.rpy:3916
 translate zh_hant a3_lilly_rhapsody_in_blue_921c45e7:
 
     # li "You run your baths quite hot, don't you?"
     li "你的洗澡水還真燙啊。"
 
-# game/script-a3-lilly.rpy:3917
+# game/script-a3-lilly.rpy:3918
 translate zh_hant a3_lilly_rhapsody_in_blue_44512e9f:
 
     # hi "A bit. Do you want me to run some cold water to cool it down a bit?"
     hi "是有一點。你想讓我加點冷水嗎？"
 
-# game/script-a3-lilly.rpy:3919
+# game/script-a3-lilly.rpy:3920
 translate zh_hant a3_lilly_rhapsody_in_blue_11803576:
 
     # "She gives a small shake of her head."
     "她輕輕搖了搖頭。"
 
-# game/script-a3-lilly.rpy:3921
+# game/script-a3-lilly.rpy:3922
 translate zh_hant a3_lilly_rhapsody_in_blue_23cc05a7:
 
     # li "No, this is fine."
     li "沒關係，這樣挺好。"
 
-# game/script-a3-lilly.rpy:3923
+# game/script-a3-lilly.rpy:3924
 translate zh_hant a3_lilly_rhapsody_in_blue_16a7dec2:
 
     # hi "Okay."
     hi "好吧。"
 
-# game/script-a3-lilly.rpy:3925
+# game/script-a3-lilly.rpy:3926
 translate zh_hant a3_lilly_rhapsody_in_blue_105101ad:
 
     # "The conversation comes to an abrupt end, silence taking over."
     "我們之間的對話就這樣戛然而止，取而代之的是寂靜。"
 
-# game/script-a3-lilly.rpy:3930
+# game/script-a3-lilly.rpy:3931
 translate zh_hant a3_lilly_rhapsody_in_blue_b59503f5:
 
     # "A very long, and very awkward, silence."
     "一段非常長，非常尷尬的寂靜。"
 
-# game/script-a3-lilly.rpy:3932
+# game/script-a3-lilly.rpy:3933
 translate zh_hant a3_lilly_rhapsody_in_blue_bb244c1f:
 
     # li "Maybe this was a bit too…"
     li "這會不會有點太……"
 
-# game/script-a3-lilly.rpy:3934
+# game/script-a3-lilly.rpy:3935
 translate zh_hant a3_lilly_rhapsody_in_blue_70293cda:
 
     # hi "Don't worry, it's okay."
     hi "別擔心，沒事的。"
 
-# game/script-a3-lilly.rpy:3936
+# game/script-a3-lilly.rpy:3937
 translate zh_hant a3_lilly_rhapsody_in_blue_cc826b7c:
 
     # "The situation only becomes even more awkward. As if to distract herself, Lilly runs her free hand over her legs while holding one over her breasts for modesty."
     "結果情況變得更尷尬了。莉莉就像想要轉移注意力似的，讓一隻手滑過她的雙腿，另一手則自然地垂在她的乳房上方。"
 
-# game/script-a3-lilly.rpy:3938
+# game/script-a3-lilly.rpy:3939
 translate zh_hant a3_lilly_rhapsody_in_blue_e6e7967a:
 
     # "I sit idly watching the wall ahead of me and the rising steam, every now and again stealing a glimpse at her body."
     "我閒坐著，盯著我前面的牆和上升的蒸汽，偶爾偷瞥一下她的身子。"
 
-# game/script-a3-lilly.rpy:3940
+# game/script-a3-lilly.rpy:3941
 translate zh_hant a3_lilly_rhapsody_in_blue_9c46082f:
 
     # "The white of her skin glistens as she keeps sliding her hand over her legs, their length and tone all the more obvious."
     "她的皮膚白的晃眼，她雙手滑過腿的動作，更凸顯了她腿的緊繃和修長。"
 
-# game/script-a3-lilly.rpy:3942
+# game/script-a3-lilly.rpy:3943
 translate zh_hant a3_lilly_rhapsody_in_blue_82eabebc:
 
     # hi "You know, compared to Akira, you look a lot more foreign."
     hi "你知道嗎，跟晃比起來，你看起來更像外國人。"
 
-# game/script-a3-lilly.rpy:3944
+# game/script-a3-lilly.rpy:3945
 translate zh_hant a3_lilly_rhapsody_in_blue_f04d49f9:
 
     # li "I took after my mother's side, genetically. Akira took after my father's more."
     li "我比較像我媽媽。晃更像我爸爸。"
 
-# game/script-a3-lilly.rpy:3946
+# game/script-a3-lilly.rpy:3947
 translate zh_hant a3_lilly_rhapsody_in_blue_2a3d429c:
 
     # hi "I guess that makes sense. How on Earth did a native Scot and a Japanese businessman meet, anyway?"
     hi "聽起來挺有道理的。話說回來，一個日本商人是怎麼遇上一個本土蘇格蘭人的？"
 
-# game/script-a3-lilly.rpy:3948
+# game/script-a3-lilly.rpy:3949
 translate zh_hant a3_lilly_rhapsody_in_blue_14263ef7:
 
     # li "My mother was a journalist. She met my father while he was at a conference in Inverness."
     li "我的媽媽是個記者。她是在印威內斯一次的會議上和我父親遇上的。"
 
-# game/script-a3-lilly.rpy:3950
+# game/script-a3-lilly.rpy:3951
 translate zh_hant a3_lilly_rhapsody_in_blue_ec8251b0:
 
     # hi "Ah, I see. Taking after your Scottish side would also explain your height, I suppose."
     hi "原來如此。這樣看來你的身高也是因為你的蘇格蘭血統吧。"
 
-# game/script-a3-lilly.rpy:3952
+# game/script-a3-lilly.rpy:3953
 translate zh_hant a3_lilly_rhapsody_in_blue_ceebcdb0:
 
     # "I look back down at her as she nods, and sigh at the ridiculousness of the situation."
     "我低頭看她點頭，然後對眼前這荒唐的情況嘆了一口氣。"
 
-# game/script-a3-lilly.rpy:3954
+# game/script-a3-lilly.rpy:3955
 translate zh_hant a3_lilly_rhapsody_in_blue_fef6acd1:
 
     # hi "This really is too much, isn't it?"
     hi "這確實太過了，是吧？"
 
-# game/script-a3-lilly.rpy:3959
+# game/script-a3-lilly.rpy:3960
 translate zh_hant a3_lilly_rhapsody_in_blue_5cdcf9b1:
 
     # li "You're enjoying it though, aren't you?"
     li "你看起來倒挺享受的，不是嗎？"
 
-# game/script-a3-lilly.rpy:3961
+# game/script-a3-lilly.rpy:3962
 translate zh_hant a3_lilly_rhapsody_in_blue_d349c850:
 
     # hi "In some ways, yes. I guess things turned out okay, in the end."
     hi "某種程度上來說，是的。我想到頭來事情進展的還不錯。"
 
-# game/script-a3-lilly.rpy:3963
+# game/script-a3-lilly.rpy:3964
 translate zh_hant a3_lilly_rhapsody_in_blue_d1e38b3b:
 
     # hi "Everything's settled down, Hanako took our relationship well, and we'll be going back to school tomorrow."
     hi "一切都塵埃落定，華子還挺接受我們的關係的。而且我們明天就回學校了。"
 
-# game/script-a3-lilly.rpy:3965
+# game/script-a3-lilly.rpy:3966
 translate zh_hant a3_lilly_rhapsody_in_blue_8a3846db:
 
     # li "Indeed. It's a shame to be going back so soon, but we'll still have our memories of this place."
     li "是啊。我們這麼快就要回去真是太可惜了，但我們還有對這裡回憶，不是嗎？"
 
-# game/script-a3-lilly.rpy:3967
+# game/script-a3-lilly.rpy:3968
 translate zh_hant a3_lilly_rhapsody_in_blue_63cf4dfc:
 
     # hi "Memories, huh? I suppose so. We'll have to see how everything goes once we get back, but for now… I'm just glad you like me."
     hi "回憶，嗯？可以這麼說吧。還不知道我們回去之後會怎麼樣呢，不過就眼下來說……我只覺得你能喜歡上我真是太好了。"
 
-# game/script-a3-lilly.rpy:3969
+# game/script-a3-lilly.rpy:3970
 translate zh_hant a3_lilly_rhapsody_in_blue_30d8646f:
 
     # hi "I've been winding myself up for weeks about that, so I'm thankful for things turning out like this."
     hi "我已經想這樣說好幾個星期了，事情能進展到這一步我真是太感激了。"
 
-# game/script-a3-lilly.rpy:3971
+# game/script-a3-lilly.rpy:3972
 translate zh_hant a3_lilly_rhapsody_in_blue_55aaf617:
 
     # "She nods, leaning into me as we share the warmth of our bodies."
     "她點了點頭，和我貼在一起，共享身體的溫度。"
 
-# game/script-a3-lilly.rpy:3973
+# game/script-a3-lilly.rpy:3974
 translate zh_hant a3_lilly_rhapsody_in_blue_9aa15ff4:
 
     # "I'm not sure whether she'll be okay with it or not, but my temptation rapidly begins to get the better of my self-restraint."
     "我不知道她能不能接受，不過此刻我的慾望已經快要戰勝我的自制力了。"
 
-# game/script-a3-lilly.rpy:3975
+# game/script-a3-lilly.rpy:3976
 translate zh_hant a3_lilly_rhapsody_in_blue_d407bcd4:
 
     # hi "Hey, Lilly?"
     hi "喂，莉莉？"
 
-# game/script-a3-lilly.rpy:3977
+# game/script-a3-lilly.rpy:3978
 translate zh_hant a3_lilly_rhapsody_in_blue_adf47ed2:
 
     # li "Yes?"
     li "怎麼？"
 
-# game/script-a3-lilly.rpy:3979
+# game/script-a3-lilly.rpy:3980
 translate zh_hant a3_lilly_rhapsody_in_blue_4698033d:
 
     # hi "How was it? Last night, that is."
     hi "怎麼樣？昨晚，我是說。"
 
-# game/script-a3-lilly.rpy:3981
+# game/script-a3-lilly.rpy:3982
 translate zh_hant a3_lilly_rhapsody_in_blue_5fc630d7:
 
     # "She pauses in thought before looking down slightly. A delicate smile finds its way onto her lips as she blushes, her body becoming more relaxed. It's more than enough to answer the question."
     "她想了一下，稍稍低下了頭。她的臉紅了起來，一彎纖笑爬上了她的嘴角，她的身體變得更放鬆了。這已經足夠回答我的問題了。"
 
-# game/script-a3-lilly.rpy:3983
+# game/script-a3-lilly.rpy:3984
 translate zh_hant a3_lilly_rhapsody_in_blue_cc7cb1de:
 
     # "Even as I give a small nod in response, thoughts of last night run through my mind. Considering the situation, I don't really think anyone'd blame me."
     "即使是我點頭回應的時候，昨晚的場景也在我的腦海中回放。考慮眼下的情況，我想沒人會說我什麼的。"
 
-# game/script-a3-lilly.rpy:3985
+# game/script-a3-lilly.rpy:3986
 translate zh_hant a3_lilly_rhapsody_in_blue_58a9b994:
 
     # li "Hisao, your heart's beating…"
     li "久夫，你的心跳……"
 
-# game/script-a3-lilly.rpy:3987
+# game/script-a3-lilly.rpy:3988
 translate zh_hant a3_lilly_rhapsody_in_blue_5d3c7fe1:
 
     # "Her voice is cut off as I delicately place a hand on her thigh. While I'd resisted before, the memory of our first time is enough to make me give in."
     "我輕輕放上她大腿的手打斷了她的話。就算我再怎麼忍，我們的第一次時的記憶也回讓我乖乖投降。"
 
-# game/script-a3-lilly.rpy:3989
+# game/script-a3-lilly.rpy:3990
 translate zh_hant a3_lilly_rhapsody_in_blue_27efaf09:
 
     # "She lets her body lean into mine without a word of protest, an invitation that I'd be hard put to ignore. I place a small kiss on her neck to accept, before slowly moving my hand over her smooth legs."
     "她沒說一句反對的話，就把身子埋進了我的胸口。這對我來說是再明顯不過的邀請了。我在她的脖子上輕吻表示接受，然後用手撫摸著她光滑的大腿。"
 
-# game/script-a3-lilly.rpy:3991
+# game/script-a3-lilly.rpy:3992
 translate zh_hant a3_lilly_rhapsody_in_blue_6b46695a:
 
     # li "Hisao, please…"
     li "久夫，拜託……"
 
-# game/script-a3-lilly.rpy:3993
+# game/script-a3-lilly.rpy:3994
 translate zh_hant a3_lilly_rhapsody_in_blue_43093ac3:
 
     # "Even as she says it, her mouth curls upward into a smile, her tone caught between embarrassment and awkward giggling."
     "就是說話的時候，她的嘴角也止不住的上揚。她的語氣又像不好意思，又好像尷尬地想笑。"
 
-# game/script-a3-lilly.rpy:3998
+# game/script-a3-lilly.rpy:3999
 translate zh_hant a3_lilly_rhapsody_in_blue_d317f251:
 
     # "Eventually she takes one of my hands in hers, guiding it to her right breast. I greatly appreciate the tentative guidance she's willing to give me."
     "最終，她還是握住我的一隻手，把它貼在了她的右乳房上。她對我這試探性的引導，讓我很受用。"
 
-# game/script-a3-lilly.rpy:4003
+# game/script-a3-lilly.rpy:4004
 translate zh_hant a3_lilly_rhapsody_in_blue_c7e59016:
 
     # "All signs of tension in her body give way. I continue to take in the feeling of her soft skin, redoubled as my other hand slips between her legs."
     "她身體裡緊張的信號都散去了。我繼續感受著她肌膚的柔軟，把我的另一隻手伸到了她的兩腿之間。"
 
-# game/script-a3-lilly.rpy:4005
+# game/script-a3-lilly.rpy:4006
 translate zh_hant a3_lilly_rhapsody_in_blue_ae40a338:
 
     # "I wonder if the feeling of my hands on her is exaggerated by her lack of sight, since her other senses are so finely tuned."
     "我好奇我的雙手是否會因為她的失明給她帶去更強烈的感覺，考慮到她的觸覺是那麼的精細。"
 
-# game/script-a3-lilly.rpy:4007
+# game/script-a3-lilly.rpy:4008
 translate zh_hant a3_lilly_rhapsody_in_blue_eb2b9713:
 
     # "She does seem to be enjoying it to a surprising extent, after all. It gives me a somewhat odd feeling, but a pleasurable one."
     "她看上去確實非常享受這種感覺。這給我一種奇妙，但令人愉快的感覺"
 
-# game/script-a3-lilly.rpy:4012
+# game/script-a3-lilly.rpy:4013
 translate zh_hant a3_lilly_rhapsody_in_blue_21d4eda2:
 
     # "It only takes a few minutes before her body starts to squirm ever so slightly, her efforts to stifle her moaning becoming visible as she purses her lips. Her lighthearted, whispered protestations become noticeably more quiet."
     "很快她的身子開始輕顫起來，她抿起嘴脣，顯然是想要忍住就要從喉嚨裡竄出來的呻吟。她隨意的、低聲的抵抗明顯變弱了。"
 
-# game/script-a3-lilly.rpy:4014
+# game/script-a3-lilly.rpy:4015
 translate zh_hant a3_lilly_rhapsody_in_blue_7f027fb8:
 
     # "This makes me realize that all her squirming against my body's made me increasingly excited as well."
     "而她這止不住的輕顫也格外地激起了我的慾火。"
 
-# game/script-a3-lilly.rpy:4016
+# game/script-a3-lilly.rpy:4017
 translate zh_hant a3_lilly_rhapsody_in_blue_5e04a1b9:
 
     # hi "Lilly…"
     hi "莉莉……"
 
-# game/script-a3-lilly.rpy:4021
+# game/script-a3-lilly.rpy:4022
 translate zh_hant a3_lilly_rhapsody_in_blue_bdfdc7ba:
 
     # "I withdraw my hands to give her addled senses time to respond. Nodding, she shakily stands and offers her hands for me to lead her out of the cramped bathtub."
     "我收回了手，給已經有些失神的她一些時間來回應。她點了點頭，顫抖著站起來，向我伸出手，讓我把她從過小的浴缸裡帶出去。"
 
-# game/script-a3-lilly.rpy:4026
+# game/script-a3-lilly.rpy:4027
 translate zh_hant a3_lilly_rhapsody_in_blue_1250e6e7:
 
     # "She maneuvers herself out of the bath as I do, our hands holding each other's."
     "她隨著我從浴缸裡走了出來，我們的手緊緊握在一起。"
 
-# game/script-a3-lilly.rpy:4028
+# game/script-a3-lilly.rpy:4029
 translate zh_hant a3_lilly_rhapsody_in_blue_1733456a:
 
     # "Eventually I sit beside the bathtub, the two of us fussing around a little until we get comfortable. With a small gasp, desperately constrained to avoid being audible outside, she lowers herself onto me once again."
     "終於，我們在浴缸邊坐了下來，調整著姿勢直到自己覺得舒服。她輕輕抽了一口氣，在保持不被外面聽到的情況下，重新跨坐在我的身上。"
 
-# game/script-a3-lilly.rpy:4030
+# game/script-a3-lilly.rpy:4031
 translate zh_hant a3_lilly_rhapsody_in_blue_03507f9d:
 
     # "The way she moves makes it obvious that she must still be on the verge of her climax."
     "從她的動作看來，她顯然還處在高潮的邊緣。"
 
-# game/script-a3-lilly.rpy:4032
+# game/script-a3-lilly.rpy:4033
 translate zh_hant a3_lilly_rhapsody_in_blue_c1886a36:
 
     # "She slowly starts to move her hips up and down, her tongue finding mine as she holds my face upwards. I realize just how much pleasuring her has excited me."
     "她慢慢地開始上下運動她的臀部，捧住我的臉，讓我的舌頭和她的攪在一起。她在我的身體裡激起了無盡的快感。"
 
-# game/script-a3-lilly.rpy:4037
+# game/script-a3-lilly.rpy:4038
 translate zh_hant a3_lilly_rhapsody_in_blue_e811da98:
 
     # li "Hisao… Hisao…"
     li "久夫…久夫……！"
 
-# game/script-a3-lilly.rpy:4039
+# game/script-a3-lilly.rpy:4040
 translate zh_hant a3_lilly_rhapsody_in_blue_32dd721c:
 
     # "Despite her clouded eyes being shut, her tightening grip on my shoulders show that she's nearing the end of her endurance."
     "雖然她被雲霧遮蔽的眼睛現在閉著，但她把我的肩膀抓得越來越近。顯然，她的忍耐快到了極限。"
 
-# game/script-a3-lilly.rpy:4041
+# game/script-a3-lilly.rpy:4042
 translate zh_hant a3_lilly_rhapsody_in_blue_816db1f5:
 
     # "As our breathing becomes more and more ragged, I rapidly feel my limit approaching as well."
     "我們的呼吸越來越不勻，我的極限顯然也快到了。"
 
-# game/script-a3-lilly.rpy:4043
+# game/script-a3-lilly.rpy:4044
 translate zh_hant a3_lilly_rhapsody_in_blue_fb22e988:
 
     # "A series of harsh breaths is the only warning before her final gasp of ecstasy, her entire body tensing and her fingernails digging into my shoulders."
     "一系列快速的呼吸聲帶來了她無法自拔的呻吟，她身體繃直了，指甲深深地嵌進我的肩膀裡。"
 
-# game/script-a3-lilly.rpy:4045
+# game/script-a3-lilly.rpy:4046
 translate zh_hant a3_lilly_rhapsody_in_blue_b818836e:
 
     # "My loins hit hers, both of us frozen against each other in climax."
     "我們的腰部重重地撞在一起。在高潮中的我們一動不動，緊緊貼著對方。"
 
-# game/script-a3-lilly.rpy:4050
+# game/script-a3-lilly.rpy:4051
 translate zh_hant a3_lilly_rhapsody_in_blue_4841b96a:
 
     # "In a few precious seconds, it's all over, Lilly slumping forward onto me as I try to regain myself."
     "寶貴的幾秒鐘之後，一切都結束了。莉莉無力地倒在我身上，而我則試著想要重新獲得對身體的控制。"
 
-# game/script-a3-lilly.rpy:4052
+# game/script-a3-lilly.rpy:4053
 translate zh_hant a3_lilly_rhapsody_in_blue_2ddbece7:
 
     # hi "That was… good…"
     hi "真…爽……"
 
-# game/script-a3-lilly.rpy:4054
+# game/script-a3-lilly.rpy:4055
 translate zh_hant a3_lilly_rhapsody_in_blue_dd85518b:
 
     # "She takes a gulp of air before replying, steadying herself as she nods."
     "她喘了一大口氣，點著頭穩住自己，好久才有辦法說話"
 
-# game/script-a3-lilly.rpy:4056
+# game/script-a3-lilly.rpy:4057
 translate zh_hant a3_lilly_rhapsody_in_blue_ea4b9efd:
 
     # li "Mm…"
     li "嗯……"
 
-# game/script-a3-lilly.rpy:4058
+# game/script-a3-lilly.rpy:4059
 translate zh_hant a3_lilly_rhapsody_in_blue_116d5b8e:
 
     # "She bows her head down to give me a small kiss, my hand reaching up to hold strands of her disheveled hair as we once again sit in blissful silence."
     "她低下頭吻了我一下，我的手握著她凌亂的頭髮。我們又回到了快樂而幸福的寧靜中去了。"
 
-# game/script-a3-lilly.rpy:4080
+# game/script-a3-lilly.rpy:4081
 translate zh_hant a3_lilly_the_momentary_present_ebd66ba2:
 
     # "After a chaotic dash to the station and finding our seats in the otherwise deserted carriage, we promptly crashed. Looking at the time - close to midnight - it's little surprise that few take this particular train."
     "我們急匆匆地衝到火車站，在空蕩蕩的車廂裡找到了我們的座位，然後癱倒在上面。看看時間——都快到半夜了——怪不得沒人會坐這列火車。"
 
-# game/script-a3-lilly.rpy:4082
+# game/script-a3-lilly.rpy:4083
 translate zh_hant a3_lilly_the_momentary_present_bcf2e1c2:
 
     # "Hanako is fast asleep on Lilly's shoulder and I can only barely muster the energy to stay awake. The excitement we had a while ago probably didn't help."
     "華子靠在莉莉的肩膀上睡熟了，我拼了命也只能勉強保持醒著。我們早先時候的興奮心情現在顯然幫不上什麼忙。"
 
-# game/script-a3-lilly.rpy:4084
+# game/script-a3-lilly.rpy:4085
 translate zh_hant a3_lilly_the_momentary_present_e37a8f91:
 
     # "I'd probably be pretty depressed about going back to school if my brain was actually working."
     "如果現在我的大腦還能正常工作的話，我一定會對回學校這件事非常沮喪。"
 
-# game/script-a3-lilly.rpy:4086
+# game/script-a3-lilly.rpy:4087
 translate zh_hant a3_lilly_the_momentary_present_d6701c5d:
 
     # "As it is, though, the sight of the night-time scenery scrolling by is surprisingly beautiful."
     "不過話說回來，眼前飛逝而過夜景出人意料的美麗。"
 
-# game/script-a3-lilly.rpy:4088
+# game/script-a3-lilly.rpy:4089
 translate zh_hant a3_lilly_the_momentary_present_abd602b5:
 
     # "My loud yawn is nearly wholly drowned out by the clacking of the train tracks and the old carriage's rattling."
     "車廂和鐵軌間的碰撞聲蓋過了我響亮的哈欠。"
 
-# game/script-a3-lilly.rpy:4090
+# game/script-a3-lilly.rpy:4091
 translate zh_hant a3_lilly_the_momentary_present_ca51fa99:
 
     # hi "So tired…"
     hi "好累啊……"
 
-# game/script-a3-lilly.rpy:4097
+# game/script-a3-lilly.rpy:4098
 translate zh_hant a3_lilly_the_momentary_present_e083d5a6:
 
     # li "And whose fault is that, Hisao?"
     li "這要怪誰啊，久夫？"
 
-# game/script-a3-lilly.rpy:4099
+# game/script-a3-lilly.rpy:4100
 translate zh_hant a3_lilly_the_momentary_present_93e1b1fe:
 
     # "She really does toe the line between insulting and amusing sometimes, though I manage to wring out a weary smile."
     "她有時候真是踩在責怪和打趣的邊界上，不過我還是擠出了一點疲憊的笑容。"
 
-# game/script-a3-lilly.rpy:4101
+# game/script-a3-lilly.rpy:4102
 translate zh_hant a3_lilly_the_momentary_present_431dcfae:
 
     # "I look back out the window, my reflection just visible on the clear pane. Truth be told, she's perfectly correct. If it weren't for that little interlude a few hours ago, both of us would have a lot more energy."
     "我重新看向窗外，乾淨的車窗上剛剛好映出我的樣子。說實話，她是對的。要不是幾小時前的那個小插曲，我們現在會精神得多。"
 
-# game/script-a3-lilly.rpy:4103
+# game/script-a3-lilly.rpy:4104
 translate zh_hant a3_lilly_the_momentary_present_a4b95bfb:
 
     # "On top of that, we both had to take another bath, very nearly making us late for the train's departure."
     "做了那事之後，我們還得再洗一次澡，害我們差點就趕不上火車了。"
 
-# game/script-a3-lilly.rpy:4105
+# game/script-a3-lilly.rpy:4106
 translate zh_hant a3_lilly_the_momentary_present_c1153c33:
 
     # hi "Yeah, yeah, it was mine. Still, getting into a bath with a guy is a dangerous thing to do."
     hi "好啦，好啦，是我的錯。不過，和一個男人一起洗澡本來就是件有風險的事。"
 
-# game/script-a3-lilly.rpy:4110
+# game/script-a3-lilly.rpy:4111
 translate zh_hant a3_lilly_the_momentary_present_c4f4bc36:
 
     # li "Evidently."
     li "顯然如此。"
 
-# game/script-a3-lilly.rpy:4112
+# game/script-a3-lilly.rpy:4113
 translate zh_hant a3_lilly_the_momentary_present_39e918e3:
 
     # hi "Sorry. I guess I kind of took advantage of the situation back there."
     hi "對不起。我想我當時是有點得寸進尺了。"
 
-# game/script-a3-lilly.rpy:4117
+# game/script-a3-lilly.rpy:4118
 translate zh_hant a3_lilly_the_momentary_present_7f0b6ecc:
 
     # li "Well… I didn't exactly hate it…"
     li "好啦… 我也不討厭那樣……"
 
-# game/script-a3-lilly.rpy:4119
+# game/script-a3-lilly.rpy:4120
 translate zh_hant a3_lilly_the_momentary_present_171c5cf5:
 
     # "As she trails off, I look back to her. My eyes narrow as I see her slightly reddened cheeks and small grin, her mind obviously elsewhere."
     "她的越說越輕，引得我回頭看過去。她的臉紅紅的，淺淺地帶著笑容，她的思緒顯然不知道跑到哪裡去了。"
 
-# game/script-a3-lilly.rpy:4121
+# game/script-a3-lilly.rpy:4122
 translate zh_hant a3_lilly_the_momentary_present_2be74d2c:
 
     # hi "Say it."
     hi "說老實話。"
 
-# game/script-a3-lilly.rpy:4123
+# game/script-a3-lilly.rpy:4124
 translate zh_hant a3_lilly_the_momentary_present_3cc5728a:
 
     # li "I… knew the possibility of it happening… was there."
     li "我……知道事情有變成那樣的……可能性。"
 
-# game/script-a3-lilly.rpy:4125
+# game/script-a3-lilly.rpy:4126
 translate zh_hant a3_lilly_the_momentary_present_8fdff32c:
 
     # hi "I knew it. You're just as dirty-minded as I am."
     hi "我就知道！你的思想比我純潔不到哪去。"
 
-# game/script-a3-lilly.rpy:4127
+# game/script-a3-lilly.rpy:4128
 translate zh_hant a3_lilly_the_momentary_present_d9eaa75f:
 
     # "She quickly coughs into her free hand, making her disapproval crystal clear."
     "她對著自己的手咳嗽了一下，以示抗議。"
 
-# game/script-a3-lilly.rpy:4132
+# game/script-a3-lilly.rpy:4133
 translate zh_hant a3_lilly_the_momentary_present_97d1188c:
 
     # li "That's a rather crude way of putting it."
     li "這種說法也太粗了。"
 
-# game/script-a3-lilly.rpy:4134
+# game/script-a3-lilly.rpy:4135
 translate zh_hant a3_lilly_the_momentary_present_d07e663f:
 
     # hi "Oh? And you would suggest?"
     hi "嗯？那你要我怎麼說？"
 
-# game/script-a3-lilly.rpy:4136
+# game/script-a3-lilly.rpy:4137
 translate zh_hant a3_lilly_the_momentary_present_91387464:
 
     # li "I merely have a healthy adolescent sex drive."
     li "這只是我正常的青春期性衝動而已。"
 
-# game/script-a3-lilly.rpy:4138
+# game/script-a3-lilly.rpy:4139
 translate zh_hant a3_lilly_the_momentary_present_963cf6ab:
 
     # hi "So in other words, dirty-minded."
     hi "換句話說——不純潔。"
 
-# game/script-a3-lilly.rpy:4140
+# game/script-a3-lilly.rpy:4141
 translate zh_hant a3_lilly_the_momentary_present_b9c114e9:
 
     # "Almost seeming to sense the moment, Hanako mumbles quietly as she furrows her brow in Lilly's lap."
     "簡直就像算好了時間一樣，華子在莉莉大腿上皺起眉頭，咕囔起來。"
 
-# game/script-a3-lilly.rpy:4145
+# game/script-a3-lilly.rpy:4146
 translate zh_hant a3_lilly_the_momentary_present_dfba4050:
 
     # "Lilly's look of disapproval melts away as she gently smiles and strokes her hand on Hanako's long, dark hair."
     "莉莉不滿的表情立刻煙消雲散了。她輕輕地笑著，用手撫著華子烏黑的長髮。"
 
-# game/script-a3-lilly.rpy:4147
+# game/script-a3-lilly.rpy:4148
 translate zh_hant a3_lilly_the_momentary_present_eb349dfd:
 
     # "All I can do is watch. Watch and smile."
     "我只是看著。微笑地看著。"
 
-# game/script-a3-lilly.rpy:4149
+# game/script-a3-lilly.rpy:4150
 translate zh_hant a3_lilly_the_momentary_present_704b94eb:
 
     # "If someone were to ask me when I fell in love with her, I wouldn't be able to answer. The best I'd be able to come up with is 'it just happened at some point, but I didn't realize it.'"
     "如果有人要問我，是什麼時候愛上她的，我可答不出來。我能說的只有“不知不覺就喜歡上了”。"
 
-# game/script-a3-lilly.rpy:4151
+# game/script-a3-lilly.rpy:4152
 translate zh_hant a3_lilly_the_momentary_present_9939254f:
 
     # "If someone were to ask me why I love her, though, then I could answer much more easily."
     "不過要是有誰問我為什麼愛她，那就好答不過了。"
 
-# game/script-a3-lilly.rpy:4153
+# game/script-a3-lilly.rpy:4154
 translate zh_hant a3_lilly_the_momentary_present_e0a44abf:
 
     # hi "You really love Hanako, don't you?"
     hi "你真的很愛華子，不是嗎？"
 
-# game/script-a3-lilly.rpy:4158
+# game/script-a3-lilly.rpy:4159
 translate zh_hant a3_lilly_the_momentary_present_d0c6118b:
 
     # "She gives a deep nod, smiling warmly."
     "她深深地點頭，溫柔地笑著。"
 
-# game/script-a3-lilly.rpy:4162
+# game/script-a3-lilly.rpy:4163
 translate zh_hant a3_lilly_the_momentary_present_73f52a61:
 
     # li "It's a pity we have to return to school. She seemed to relax so much while we were all away." nointeract
-    li "真希望我們不用現在就要回學校。我們離開學校後她看上去休息得那麼好。"
+    li "真希望我們不用現在就要回學校。我們離開學校後她看上去休息得那麼好。" nointeract
 
-# game/script-a3-lilly.rpy:4170
+# game/script-a3-lilly.rpy:4171
 translate zh_hant a3_lilly_the_momentary_present_173707b1:
 
     # hi "On the bright side, it won't take long for the summer holidays to arrive after our exams are finished. We could come back here during the summer holidays if you want."
     hi "想想好的一面，考完之後就是暑假了。如果你願意的話，我們暑假還能回這裡來。"
 
-# game/script-a3-lilly.rpy:4172
+# game/script-a3-lilly.rpy:4173
 translate zh_hant a3_lilly_the_momentary_present_7344e2e8:
 
     # "For a moment she thinks on the notion, her face becoming somewhat distant. I can only guess she's reflecting on all that's happened here."
     "一時間她思考著我的提議，表情顯得很遙遠。我只能猜測她一定是在回憶這裡發生的一切。"
 
-# game/script-a3-lilly.rpy:4177
+# game/script-a3-lilly.rpy:4178
 translate zh_hant a3_lilly_the_momentary_present_7114e091:
 
     # li "That would be… good, I think."
     li "那樣的話……會很不錯，我覺得。"
 
-# game/script-a3-lilly.rpy:4179
+# game/script-a3-lilly.rpy:4180
 translate zh_hant a3_lilly_the_momentary_present_2a34a543:
 
     # "I nod approvingly, smiling at her."
     "我認同地點頭，對她笑著。"
 
-# game/script-a3-lilly.rpy:4181
+# game/script-a3-lilly.rpy:4182
 translate zh_hant a3_lilly_the_momentary_present_9adb1749:
 
     # "Summer, together with Lilly. This idea seems like the perfect way to spend our holiday."
     "和莉莉在一起的夏天。聽上去真是再好不過的度過假期的方法了。"
 
-# game/script-a3-lilly.rpy:4192
+# game/script-a3-lilly.rpy:4193
 translate zh_hant a3lc1o1_96400da0:
 
     # hi "I have no idea what it means. Enlighten me."
     hi "我聽不懂這句話的意思，給我翻譯一下。"
 
-# game/script-a3-lilly.rpy:4194
+# game/script-a3-lilly.rpy:4195
 translate zh_hant a3lc1o1_721c3d64:
 
     # ke "I just lost 1000 yen, man! 1000 yen! Damn, this is the worst day ever."
     ke "我剛剛輸了一千元！一千元！該死，這是我打從孃胎以來最糟糕的一天。"
 
-# game/script-a3-lilly.rpy:4199
+# game/script-a3-lilly.rpy:4200
 translate zh_hant a3lc1o2_d9c2e241:
 
     # "I dig into my food, hoping he'll take the hint from my silence."
     "我繼續扒我的食物，並祈禱他能夠注意到我的沉默代表什麼意思。"
 
-# game/script-a3-lilly.rpy:4201
+# game/script-a3-lilly.rpy:4202
 translate zh_hant a3lc1o2_721c3d64:
 
     # ke "I just lost 1000 yen, man! 1000 yen! Damn, this is the worst day ever."
     ke "我剛剛輸了一千元！一千元！該死，這是我打從孃胎以來最糟糕的一天。"
 
-# game/script-a3-lilly.rpy:4203
+# game/script-a3-lilly.rpy:4204
 translate zh_hant a3lc1o2_ed6bb294:
 
     # "No such luck."
     "不幸的是並沒有。"
 
-# game/script-a3-lilly.rpy:4208
+# game/script-a3-lilly.rpy:4209
 translate zh_hant a3lc2o1_5bef9510:
 
     # "Actually, this may be a rather fortuitous meeting."
     "事實上，這次偶遇或許頗為幸運。"
 
-# game/script-a3-lilly.rpy:4210
+# game/script-a3-lilly.rpy:4211
 translate zh_hant a3lc2o1_fe33b37c:
 
     # hi "Hey. Excuse me, do you know if Hanako's come out of her room today or not? She doesn't seem to be answering."
     hi "嗨。打擾一下，你知道華子今天有離開這個房間嗎？她好像沒有回應我的敲門。"
 
-# game/script-a3-lilly.rpy:4212
+# game/script-a3-lilly.rpy:4213
 translate zh_hant a3lc2o1_e18372ec:
 
     # "Girl" "Ikezawa is Ikezawa. Her not answering the door is totally normal. That tall foreign girl's the only person she'll ever talk to, after all."
-    "女孩" "池澤就是池澤，她會有回應就不叫池澤了，畢竟，那個高高的外國女孩是唯一一個她會與之交談的人。"
+    "Girl" "女孩"
 
-# game/script-a3-lilly.rpy:4214
+# game/script-a3-lilly.rpy:4215
 translate zh_hant a3lc2o1_33e09793:
 
     # "She gives a shrug before walking off down the hallway, having much more important matters to attend to than Hanako or me."
     "她走過走廊時聳了聳肩，似乎比起應付我和華子其他的事情更重要的樣子。"
 
-# game/script-a3-lilly.rpy:4216
+# game/script-a3-lilly.rpy:4217
 translate zh_hant a3lc2o1_6c8fed6a:
 
     # "Her dismissive attitude annoys me."
     "她那輕蔑的態度惹惱了我。"
 
-# game/script-a3-lilly.rpy:4218
+# game/script-a3-lilly.rpy:4219
 translate zh_hant a3lc2o1_6b70b0ca:
 
     # "Hanako must have a reputation as a hermit; a reputation that doesn't seem outright undeserved, at least in the time before we'd met."
     "華子在這裡一定有一個“隱士”的“美名”; 這稱號也不完全是冤枉她，至少在我們遇到她之前。"
 
-# game/script-a3-lilly.rpy:4223
+# game/script-a3-lilly.rpy:4224
 translate zh_hant a3lc2o2_37c00af3:
 
     # hi "Hey. Sorry, don't mind me."
     hi "嘿。抱歉，別在意我。"
 
-# game/script-a3-lilly.rpy:4225
+# game/script-a3-lilly.rpy:4226
 translate zh_hant a3lc2o2_1d0a896b:
 
     # "I think the situation with Hanako should be kept as private as possible, for her sake. I don't really know anything about what's happened to her, and my gut tells me that it's not physical sickness that's befallen her."
     "我想華子現在的狀況應該儘量保密，為她著想。我不知道她發生了什麼事，但我的直覺告訴我降臨至她身上的並非生理上的病痛。"
 
-# game/script-a3-lilly.rpy:4227
+# game/script-a3-lilly.rpy:4228
 translate zh_hant a3lc2o2_c645948c:
 
     # "She doesn't need rumors about her going around. As much as it may pain me to think so, she'd likely prefer to keep her status as a strangely-ignored member of the class over having people talk behind her back."
     "沒必要讓她被流言蜚語所包圍。我很心痛的發現，對她來說，在班上當一個總是被忽視的人，也好過有人在她的背後交頭接耳。"
 
-# game/script-a3-lilly.rpy:4229
+# game/script-a3-lilly.rpy:4230
 translate zh_hant a3lc2o2_7517b4a9:
 
     # "Girl" "Whatever."
-    "女孩" "隨便。"
+    "Girl" "女孩"
 
-# game/script-a3-lilly.rpy:4231
+# game/script-a3-lilly.rpy:4232
 translate zh_hant a3lc2o2_b2ed167c:
 
     # "With that, she turns and walks down the hallway without a second thought. How rude."
     "說完，她就一秒不停地轉身往大廳走去。真是粗魯。"
 
-# game/script-a3-lilly.rpy:4236
+# game/script-a3-lilly.rpy:4237
 translate zh_hant a3lc3o1_c34978ed:
 
     # hi "Come on, you worry about me more than I do at times. It just means I have to sleep a bit longer, that's all."
     hi "得了吧，有時候你比我自己還替我擔心了。我多睡會就行了，沒什麼的。"
 
-# game/script-a3-lilly.rpy:4241
+# game/script-a3-lilly.rpy:4242
 translate zh_hant a3lc3o1_adf2b8b8:
 
     # li "But still…"
     li "但是……"
 
-# game/script-a3-lilly.rpy:4243
+# game/script-a3-lilly.rpy:4244
 translate zh_hant a3lc3o1_a211204a:
 
     # hi "I'd say that I look absolutely fine, but I guess that wouldn't have a lot of meaning for you."
     hi "我本想說我一點事都沒有，但我想你大概不會相信我說的。"
 
-# game/script-a3-lilly.rpy:4248
+# game/script-a3-lilly.rpy:4249
 translate zh_hant a3lc3o1_f8ad586c:
 
     # "She gives a sigh of consternation before trailing off with an amused chuckle, giving up the point."
     "她有點不安的嘆了口氣，但是隨後便被逗笑了起來，放棄了和我的爭論。"
 
-# game/script-a3-lilly.rpy:4253
+# game/script-a3-lilly.rpy:4254
 translate zh_hant a3lc3o1_6c4730a8:
 
     # li "If you say so. Please do take care of yourself, Hisao."
     li "既然你這麼說那好吧。請務必照顧好自己，久夫。"
 
-# game/script-a3-lilly.rpy:4255
+# game/script-a3-lilly.rpy:4256
 translate zh_hant a3lc3o1_b8d7e4c8:
 
     # hi "Go on, Hanako could use some help."
     hi "好了走吧，華子那可能需要幫幫忙。"
 
-# game/script-a3-lilly.rpy:4260
+# game/script-a3-lilly.rpy:4261
 translate zh_hant a3lc3o1_d8ab4425:
 
     # "She moves to protest, but reluctantly acquiesces and disappears into the kitchen, her hand running along the smooth white walls as she slowly walks."
     "她剛想說些什麼，但還是不情願地放棄了並走進廚房，一路緩步而行時手一直摸著光滑潔白的牆壁。"
 
-# game/script-a3-lilly.rpy:4265
+# game/script-a3-lilly.rpy:4266
 translate zh_hant a3lc3o2_43991b88:
 
     # hi "Hanako could… probably use some help."
     hi "我想……你也許該去幫幫華子。"
 
-# game/script-a3-lilly.rpy:4273
+# game/script-a3-lilly.rpy:4274
 translate zh_hant a3lc3o2_c29fa3f0:
 
     # "Lilly seems about to protest for a moment, but eventually acquiesces, nodding before leaving for the kitchen."
     "一時間莉莉似乎想說什麼，但最後還是放棄了。她點了點頭，然後走向廚房。"
 
-# game/script-a3-lilly.rpy:4280
+# game/script-a3-lilly.rpy:4281
 translate zh_hant a3lc4o1_28842903:
 
     # hi "I wouldn't worry. Hanako's been gaining confidence thanks to you, at least for as long as I've known you two."
     hi "我覺得不用擔心。多虧了你，華子現在比以前自信多了。至少和我剛認識你們的時候比。"
 
-# game/script-a3-lilly.rpy:4285
+# game/script-a3-lilly.rpy:4286
 translate zh_hant a3lc4o1_5793a400:
 
     # "She gives a self-deprecating sigh."
     "她並不認同地嘆了口氣。"
 
-# game/script-a3-lilly.rpy:4287
+# game/script-a3-lilly.rpy:4288
 translate zh_hant a3lc4o1_dd9cca01:
 
     # li "I think I merely provided her with company and support. Since she came to know you she's opened up much more, even to me."
     li "我想我只是給她提供了陪伴和支持。她自從認識你以後要開朗多了，就是對我也一樣。"
 
-# game/script-a3-lilly.rpy:4289
+# game/script-a3-lilly.rpy:4290
 translate zh_hant a3lc4o1_54673bd6:
 
     # "I get the feeling she's understating her influence on Hanako, especially given that before the two came to know each other, Hanako had no friends to speak of."
     "我能感覺到她低估了自己對華子造成的影響，尤其是考慮到在華子在認識她之前，根本就沒有什麼朋友。"
 
-# game/script-a3-lilly.rpy:4291
+# game/script-a3-lilly.rpy:4292
 translate zh_hant a3lc4o1_95c62750:
 
     # "The friends I'd had in my previous school fulfilled what I'd have expected of them, for the most part simply being there for idle chatter, but in Hanako and Lilly there really feels to be more to their relationship."
     "我從前學校的朋友挺符合我對他們的期待的——大多數時候只是湊在一起閒聊。不過華子和莉莉間的關係顯然要深刻得多。"
 
-# game/script-a3-lilly.rpy:4293
+# game/script-a3-lilly.rpy:4294
 translate zh_hant a3lc4o1_24e8a171:
 
     # "A part of me envies it, but another can't ignore the fact that the school year will eventually end. After graduation, I really have no idea what Hanako will do. This trip has shown me just how much we've all come to depend on one another."
     "我其實挺嫉妒她們的，不過同時我也知道學校的日子總會結束。我想像不出畢業之後的華子會怎麼樣。這趟旅程讓我對我們互相之間的羈絆了解得更深了。"
 
-# game/script-a3-lilly.rpy:4295
+# game/script-a3-lilly.rpy:4296
 translate zh_hant a3lc4o1_153c339a:
 
     # "Indeed, we're all going to have to make decisions. Maybe that's the reason why, despite our return to school also heralding a return to the normalcy of everyday life, I can't help feeling a little restless."
     "是啊，到頭來我們都必須做出決定。也許這也是為什麼，雖然回到學校也意味著回到我的日常生活，但它還是讓我感到有些煩躁不安的原因。"
 
-# game/script-a3-lilly.rpy:4302
+# game/script-a3-lilly.rpy:4303
 translate zh_hant a3lc4o2_ddf0716a:
 
     # hi "Indeed. Exams will be starting, too, which will be another thing to deal with. Think you're ready for them?"
     hi "是啊。考試也馬上就要開始了，不得不對付好才行。想必你已經準備好了吧？"
 
-# game/script-a3-lilly.rpy:4307
+# game/script-a3-lilly.rpy:4308
 translate zh_hant a3lc4o2_7a97bc88:
 
     # li "I think so. I don't think it will be a pleasant period at all, though."
     li "也許吧。不過我不認為這會是一段愉快的時光。"
 
-# game/script-a3-lilly.rpy:4309
+# game/script-a3-lilly.rpy:4310
 translate zh_hant a3lc4o2_384fdd76:
 
     # "I can't say I disagree with her. The exams had completely slipped my mind for a while now, and even though I may score well on most of our tests, I can't assume that I can pass easily with so little studying beforehand."
     "我對她的說法十分贊同。我都快忘了考試這回事了，雖然到目前為止我的考試成績都還不錯，但我不認為我不用複習也能輕鬆通過考試。"
 
-# game/script-a3-lilly.rpy:4311
+# game/script-a3-lilly.rpy:4312
 translate zh_hant a3lc4o2_15245c57:
 
     # "Lilly does seem more studious, or at least more regimented, than me. That said, she has to contend with doing rather badly in some subjects no matter how much she tries."
     "莉莉看上去確實是會用功學習的人，至少看上去比我自律多了。雖然如此，她還是不得不承認不管再怎麼用功，她總有些課學不好。"
 
-# game/script-a3-lilly.rpy:4313
+# game/script-a3-lilly.rpy:4314
 translate zh_hant a3lc4o2_f8557e5d:
 
     # hi "At least they'll only last a couple of weeks."
@@ -7244,19 +7244,19 @@ translate zh_hant strings:
     old "I think he's hyperventilating. Passing out for a little while would probably make him more relaxed than he normally is."
     new "我想他有點太激動了，暈倒一會兒或許可以讓他放鬆一點。"
 
-    # game/script-a3-lilly.rpy:544
+    # game/script-a3-lilly.rpy:548
     old "Humor him."
     new "附和他。"
 
-    # game/script-a3-lilly.rpy:544
+    # game/script-a3-lilly.rpy:551
     old "Ignore his insane ramblings."
     new "無視他的胡言亂語。"
 
-    # game/script-a3-lilly.rpy:765
+    # game/script-a3-lilly.rpy:769
     old "Ask about Hanako."
     new "問她關於華子的事。"
 
-    # game/script-a3-lilly.rpy:765
+    # game/script-a3-lilly.rpy:772
     old "Keep it to myself."
     new "自己解決。"
 
@@ -7304,11 +7304,11 @@ translate zh_hant strings:
     old "I sigh. This is exactly the kind of thing I wish others wouldn't do."
     new "我嘆了口氣。我最討厭別人這樣了。"
 
-    # game/script-a3-lilly.rpy:2332
+    # game/script-a3-lilly.rpy:2336
     old "Address it."
     new "說出來。"
 
-    # game/script-a3-lilly.rpy:2332
+    # game/script-a3-lilly.rpy:2340
     old "Wave her off."
     new "打發她一下。"
 
@@ -7320,11 +7320,11 @@ translate zh_hant strings:
     old "Oh, 'morning Hisao."
     new "噢，早啊久夫。"
 
-    # game/script-a3-lilly.rpy:4160
+    # game/script-a3-lilly.rpy:4165
     old "Talk about Hanako."
     new "談談華子。"
 
-    # game/script-a3-lilly.rpy:4160
+    # game/script-a3-lilly.rpy:4168
     old "Talk about school."
     new "談談學校。"
 
