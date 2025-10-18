@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-04-23 17:26
+﻿# TODO: Translation updated at 2025-10-17 09:34
 
 # game/script-a1-tuesday.rpy:15
 translate zh_hant a1_tuesday_smalltalk_994c28be:
@@ -1558,7 +1558,7 @@ translate zh_hant a1_tuesday_risk_vs_reward_ef2b123c_8:
 translate zh_hant a1_tuesday_risk_vs_reward_21c594be:
 
     # mi "She says you have no chance if you keep playing like this, no you won't~!" nointeract
-    mi "她說，你繼續這樣下去是不可能贏的，絕不可能贏～！"
+    mi "她說，你繼續這樣下去是不可能贏的，絕不可能贏～！" nointeract
 
 # game/script-a1-tuesday.rpy:1012
 translate zh_hant a1_tuesday_risk_vs_reward_436f455e:
@@ -1570,7 +1570,7 @@ translate zh_hant a1_tuesday_risk_vs_reward_436f455e:
 translate zh_hant a1_tuesday_risk_vs_reward_b10b3332:
 
     # hi "Sorry, I think I have to go. I wanted to go to the library. It's not closed yet, is it?"
-    "抱歉，我差不多該走了。我想到圖書館一趟。還沒關門吧？"
+    hi "抱歉，我差不多該走了。我想到圖書館一趟。還沒關門吧？"
 
 # game/script-a1-tuesday.rpy:1019
 translate zh_hant a1_tuesday_risk_vs_reward_d196c621:
@@ -4616,11 +4616,11 @@ translate zh_hant a1c5o2_9c36fa89:
 
 translate zh_hant strings:
 
-    # game/script-a1-tuesday.rpy:998
+    # game/script-a1-tuesday.rpy:1004
     old "She has a point. Attack aggressively!"
     new "有道理。拼了！全力進攻！"
 
-    # game/script-a1-tuesday.rpy:998
+    # game/script-a1-tuesday.rpy:1009
     old "It's a trap, it's smarter to play defensively here."
     new "她在騙我，小心防守比較明智。"
 
@@ -4628,11 +4628,11 @@ translate zh_hant strings:
     old "It takes too many seconds to collect myself and remember what I walked up to her for."
     new "我花了幾秒才想起來我走過來的目的。"
 
-    # game/script-a1-tuesday.rpy:1664
+    # game/script-a1-tuesday.rpy:1670
     old "Hi! I'm new here. Hisao Nakai. We're in the same class."
     new "嗨！我是新來的學生，中井久夫。我們同班的。"
 
-    # game/script-a1-tuesday.rpy:1664
+    # game/script-a1-tuesday.rpy:1673
     old "I'm sorry, I didn't mean to startle you."
     new "對不起，我不是故意要嚇到你的。"
 
@@ -4640,11 +4640,11 @@ translate zh_hant strings:
     old "I guess it could go either way."
     new "我想兩方面都有吧。"
 
-    # game/script-a1-tuesday.rpy:2002
+    # game/script-a1-tuesday.rpy:2008
     old "She was cute."
     new "我想，算可愛吧。"
 
-    # game/script-a1-tuesday.rpy:2002
+    # game/script-a1-tuesday.rpy:2013
     old "She wasn't cute."
     new "她並不可愛。"
 

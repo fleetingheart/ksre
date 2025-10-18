@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-04-23 17:26
+﻿# TODO: Translation updated at 2025-10-17 09:34
 
 # game/script-a4-lilly.rpy:10
 translate zh_hant a4_lilly_slow_steps_76b2fe88:
@@ -490,7 +490,9 @@ translate zh_hant a4_lilly_slow_steps_218e82ec:
 translate zh_hant a4_lilly_slow_steps_68e06fc7:
 
     # "After a moment's hesitation, her face slightly pensive, her lips meet mine for a brief moment."
-    "猶豫了一下，她臉上帶著一絲憂鬱，然後她的雙唇與我的相觸了，雖然只是短暫的一瞬間。"# game/script-a4-lilly.rpy:366
+    "猶豫了一下，她臉上帶著一絲憂鬱，然後她的雙唇與我的相觸了，雖然只是短暫的一瞬間。"
+
+# game/script-a4-lilly.rpy:366
 translate zh_hant a4_lilly_slow_steps_a4686122:
 
     # "My mind feels as if it briefly stopped at that moment, barely registering Lilly sitting back in her chair and smiling back at me with ever so slightly reddened cheeks."
@@ -1490,8 +1492,9 @@ translate zh_hant a4_lilly_pajamas_and_suits_27ce4a18:
 translate zh_hant a4_lilly_pajamas_and_suits_48ea62bd:
 
     # "Her tone almost makes me chuckle. She's a prideful person, so admitting something like that must be difficult."
-    "她的語氣幾乎讓我輕笑出聲。她是個自尊心強的人，承認這樣的事一定很難。"# game/script-a4-lilly.rpy:1019
+    "她的語氣幾乎讓我輕笑出聲。她是個自尊心強的人，承認這樣的事一定很難。"
 
+# game/script-a4-lilly.rpy:1019
 translate zh_hant a4_lilly_pajamas_and_suits_9a545438:
 
     # "So, Lilly's the low-tech kind of person. Given her old-fashioned personality, it's not really a stunning surprise."
@@ -2257,7 +2260,7 @@ translate zh_hant a4_lilly_correct_procedure_6c7def3f:
 translate zh_hant a4_lilly_correct_procedure_7ff8d8cd:
 
     # "Storewoman" "Thank you, please come again!"
-    "女店員" "謝謝，歡迎再度光臨！"
+    "Storewoman" "女店員"
 
 # game/script-a4-lilly.rpy:1461
 translate zh_hant a4_lilly_correct_procedure_49ae4c2b:
@@ -2491,7 +2494,9 @@ translate zh_hant a4_lilly_correct_procedure_1849b30c:
 translate zh_hant a4_lilly_correct_procedure_2331cad8:
 
     # hi "What's wrong?"
-    hi "怎麼了？"# game/script-a4-lilly.rpy:1643
+    hi "怎麼了？"
+
+# game/script-a4-lilly.rpy:1643
 translate zh_hant a4_lilly_correct_procedure_6d183439:
 
     # aki "Ah, it's just that I'll be going to Scotland fairly soon."
@@ -2905,7 +2910,7 @@ translate zh_hant a4_lilly_out_and_about_5db9f713:
     # hi "Then again, I guess we both do look mature for our age."
     hi "不過話說回來，我想我們倆看起來都比實際年齡成熟。"
 
-# game/gmae/script-a4-lilly.rpy:1853
+# game/script-a4-lilly.rpy:1853
 translate zh_hant a4_lilly_out_and_about_f544b6ba:
 
     # li "I'll have to take your word for it. I'll add that this isn't what I'd call the type of place to ask such things, though."
@@ -2988,7 +2993,7 @@ translate zh_hant a4_lilly_out_and_about_449392a5:
 
     # "She pauses a moment, a wistful look on her face, before softly smiling. The compliment seems to brighten her mood."
     "她停頓了一下，臉上帶著一絲嚮往的神情，然後溫柔地笑了。這句讚美似乎有打動她的心情。"
-    
+
 # game/script-a4-lilly.rpy:1904
 translate zh_hant a4_lilly_out_and_about_d14d1503:
 
@@ -3990,7 +3995,7 @@ translate zh_hant a4_lilly_a_mornings_reverse_bf411ecb:
 
     # "She sits on the side of the bed and begins to sniff the air. As she does so, I quickly move her plate away and put it on the desk beside mine."
     "她坐在床邊，開始嗅著空氣中的味道。就在她這麼做的時候，我迅速地把她的盤子移開，放到我旁邊的書桌上。"
-    
+
 # game/script-a4-lilly.rpy:2457
 translate zh_hant a4_lilly_a_mornings_reverse_21333132:
 
@@ -4488,7 +4493,7 @@ translate zh_hant a4_lilly_a_mornings_reverse_0fa41766:
 
     # "Before I can try to react and save the situation, Kenji trips and reflexively reaches out for a handhold. Unfortunately, said handhold turns out to be Lilly's arm."
     "在我來得及反應並挽救局面之前，健二絆倒了，反射性地伸手去抓東西。不幸的是，那個東西結果是莉莉的手臂。"
-    
+
 # game/script-a4-lilly.rpy:2789
 translate zh_hant a4_lilly_a_mornings_reverse_ebfc2753:
 
@@ -4988,7 +4993,7 @@ translate zh_hant a4_lilly_blackout_370c1d54:
     # n "{vspace=60}But such situations are also supposed to make you very capable in that language very fast, as you're forced to learn it in order to survive. Put another way, the situation becomes 'sink or swim.'"
     nvl clear
     n "{vspace=60}但這種情況也應該會讓你很快地精通那種語言，因為你為了生存，會被迫去學習它。換句話說，不成功便成仁。"
-    
+
 # game/script-a4-lilly.rpy:3072
 translate zh_hant a4_lilly_blackout_2fdc4682:
 
@@ -5986,7 +5991,7 @@ translate zh_hant a4_lilly_blackout_c36383d2:
 
     # "If she's like this, then that means she has to be sitting against her bed and facing me. Now, to continue."
     "手指的感受告訴我，她是靠著床坐，面對著我……我的手沒有停下來。"
-    
+
 # game/script-a4-lilly.rpy:3595
 translate zh_hant a4_lilly_blackout_3becb183:
 
@@ -6280,7 +6285,6 @@ translate zh_hant a4_lilly_blackout_1e3e30a7:
 
     # "It's hard to stop myself from being completely overwhelmed. It's hard to think that this is what sex is usually like for her, experienced through every sense but the one I hold dearest."
     "我很難不被徹底征服。很難想像這就是她平時的性愛，透過除了我最珍視的視覺以外的每一種感官來體驗。"
-    "我很難不被徹底淹沒。快感對她來說到底是什麼？實在是太難想像了。幾乎是透過每一種感官，只少了我最珍視的視覺。"
 
 # game/script-a4-lilly.rpy:3729
 translate zh_hant a4_lilly_blackout_2ebd0251:
@@ -6491,7 +6495,7 @@ translate zh_hant a4_lilly_blackout_4c15caba:
 
     # hi "I guess I shouldn't have tried to push myself so far."
     hi "可能我不該這麼勉強自己。"
-    
+
 # game/script-a4-lilly.rpy:3927
 translate zh_hant a4_lilly_blackout_f22129d0:
 
@@ -6989,7 +6993,7 @@ translate zh_hant a4_lilly_context_00c9ec65:
 
     # "The small smile falls from her face, her eyes looking ahead distantly."
     "微笑從她臉上消失了，她的眼神望向遠方。"
-    
+
 # game/script-a4-lilly.rpy:4210
 translate zh_hant a4_lilly_context_a19eeb7e:
 
@@ -8448,7 +8452,7 @@ translate zh_hant a4_lilly_farewell_806c624c:
     # "This is hardly the first time I've been in the student council room. Indeed, I've found myself down here often, either to help Lilly with class rep work, or to sort out one thing or another with the Student Council itself."
     "我已經不是第一次來學生會的教室裡。確實，我發現自己其實經常來這兒，要不就是幫莉莉處理班長的工作，要不就是和學生會討論事情。"
 
-# game/gamedata/script-a4-lilly.rpy:5095
+# game/script-a4-lilly.rpy:5095
 translate zh_hant a4_lilly_farewell_14a1faa8:
 
     # "Now, though, it's quite a different place."
@@ -8706,1555 +8710,1555 @@ translate zh_hant a4_lilly_farewell_dee41bf4:
     # "With a slight pause to enter Shizune's data into the file along with all the others, I look up to check who's at the door."
     "我暫停把靜音的數據往電腦裡輸，抬頭去看門口是誰來了。"
 
-# game/script-a4-lilly.rpy:5278
+# game/script-a4-lilly.rpy:5279
 translate zh_hant a4_lilly_farewell_a2b150cf:
 
     # "…Lilly?"
     "……莉莉？"
 
-# game/script-a4-lilly.rpy:5280
+# game/script-a4-lilly.rpy:5281
 translate zh_hant a4_lilly_farewell_167b33c7:
 
     # "After giving a cursory nod to Misha in greeting, she perks her head up in her trademark manner."
     "她禮貌性地向米莎點了個頭後，便以她招牌的姿態揚起了頭。"
 
-# game/script-a4-lilly.rpy:5285
+# game/script-a4-lilly.rpy:5286
 translate zh_hant a4_lilly_farewell_f01fae30:
 
     # li "Is that Hisao?"
     li "是久夫嗎？"
 
-# game/script-a4-lilly.rpy:5287
+# game/script-a4-lilly.rpy:5288
 translate zh_hant a4_lilly_farewell_eaea8177:
 
     # "She's pretty darned good at working out my voice from the smallest of phrases nowadays."
     "她現在能夠非常清楚地從最簡短的幾個字中辨認出我的聲音。"
 
-# game/script-a4-lilly.rpy:5289
+# game/script-a4-lilly.rpy:5290
 translate zh_hant a4_lilly_farewell_144e8118:
 
     # hi "Yeah, it's me. Um… hey."
     hi "對，是我。嗯……嗨。"
 
-# game/script-a4-lilly.rpy:5294
+# game/script-a4-lilly.rpy:5295
 translate zh_hant a4_lilly_farewell_ffa1d780:
 
     # "The atmosphere feels slightly awkward as she bows. Neither of us knows quite how intimate we should be around each other, given she's leaving in just a matter of hours."
     "她鞠了鞠躬，氣氛變得有些尷尬。我們兩人都不知道該在對方身邊表現得有多親近，畢竟她再過幾小時就要走了。"
 
-# game/script-a4-lilly.rpy:5296
+# game/script-a4-lilly.rpy:5297
 translate zh_hant a4_lilly_farewell_41a207a0:
 
     # "This is a fact that, thankfully, neither the oblivious Misha nor the hardworking Shizune pick up on."
     "謝天謝地，無論是遲鈍的米莎還是勤奮的靜音都沒有察覺到。"
 
-# game/script-a4-lilly.rpy:5298
+# game/script-a4-lilly.rpy:5299
 translate zh_hant a4_lilly_farewell_b13a2b6e:
 
     # hi "So… you've got work to do as well?"
     hi "所以……妳也有工作要做？"
 
-# game/script-a4-lilly.rpy:5303
+# game/script-a4-lilly.rpy:5304
 translate zh_hant a4_lilly_farewell_901c995a:
 
     # li "Unfortunately. I arrived as soon as I could, but my class held me up with a surprise farewell party, and I had to get changed."
     li "很不幸，是的。我盡快趕來了，但班上為我辦了個驚喜的告別派對，耽擱了一下，我還得換衣服。"
 
-# game/script-a4-lilly.rpy:5305
+# game/script-a4-lilly.rpy:5306
 translate zh_hant a4_lilly_farewell_1763c8c2:
 
     # "I glance down at the laptop's clock. It's pretty much the end of lunchtime, so I'm guessing Lilly managed to wrangle the last period off as well."
     "我低頭看了看筆電的時鐘。午餐時間差不多結束了，所以我猜莉莉也設法翹掉了最後一堂課。"
 
-# game/script-a4-lilly.rpy:5310
+# game/script-a4-lilly.rpy:5311
 translate zh_hant a4_lilly_farewell_0ef735c8:
 
     # li "I take it Shizune is here as well?"
     li "我想靜音也在這裡吧？"
 
-# game/script-a4-lilly.rpy:5317
+# game/script-a4-lilly.rpy:5318
 translate zh_hant a4_lilly_farewell_ef2b123c_6:
 
     # shi "…"
     shi "……"
 
-# game/script-a4-lilly.rpy:5322
+# game/script-a4-lilly.rpy:5323
 translate zh_hant a4_lilly_farewell_705b2b16:
 
     # mi "Of course!"
     mi "當然！"
 
-# game/script-a4-lilly.rpy:5327
+# game/script-a4-lilly.rpy:5328
 translate zh_hant a4_lilly_farewell_ef2b123c_7:
 
     # shi "…"
     shi "……"
 
-# game/script-a4-lilly.rpy:5332
+# game/script-a4-lilly.rpy:5333
 translate zh_hant a4_lilly_farewell_eb343141:
 
     # mi "And I've been here during all of lunchtime as well!"
     mi "而且我整個午餐時間都在這裡！"
 
-# game/script-a4-lilly.rpy:5334
+# game/script-a4-lilly.rpy:5335
 translate zh_hant a4_lilly_farewell_2eb58b4d:
 
     # "That last comment was really not needed. Shizune's baiting Lilly into another argument, I can feel it."
     "最後那句話實在沒必要。我能感覺到，靜音在引誘莉莉進行另一場爭辯。"
 
-# game/script-a4-lilly.rpy:5339
+# game/script-a4-lilly.rpy:5340
 translate zh_hant a4_lilly_farewell_3446cd56:
 
     # li "I'm sorry I can't be as hardworking as you, Shizune. I'll endeavor to hire more lackeys to do my work in future, I assure you."
     li "很抱歉我沒辦法像妳一樣努力，靜音。我保證，將來我會努力僱用更多的手下來幫我做事。"
 
-# game/script-a4-lilly.rpy:5341
+# game/script-a4-lilly.rpy:5342
 translate zh_hant a4_lilly_farewell_babf5d15:
 
     # "And Lilly just took the bait, escalating things further."
     "而莉莉就這樣上鉤了，讓事態進一步升溫。"
 
-# game/script-a4-lilly.rpy:5346
+# game/script-a4-lilly.rpy:5347
 translate zh_hant a4_lilly_farewell_ef2b123c_8:
 
     # shi "…"
     shi "……"
 
-# game/script-a4-lilly.rpy:5351
+# game/script-a4-lilly.rpy:5352
 translate zh_hant a4_lilly_farewell_0db6c3cd:
 
     # mi "But aren't you the one always outsourcing work to your classmates~?"
     mi "但是，妳不是也常常把工作外包給同學嗎～？"
 
-# game/script-a4-lilly.rpy:5356
+# game/script-a4-lilly.rpy:5357
 translate zh_hant a4_lilly_farewell_f3ab48c5:
 
     # li "The difference is that they choose to help, unlike your tyrannical grip on your own class."
     li "不同的是，他們是自願幫忙的，不像妳對自己班級的專制管理。"
 
-# game/script-a4-lilly.rpy:5361
+# game/script-a4-lilly.rpy:5362
 translate zh_hant a4_lilly_farewell_ef2b123c_9:
 
     # shi "…"
     shi "……"
 
-# game/script-a4-lilly.rpy:5366
+# game/script-a4-lilly.rpy:5367
 translate zh_hant a4_lilly_farewell_0d32237c:
 
     # mi "Tyranny works~! Even if we did things differently, we still got the same results, right~?"
     mi "專制很有效～！即使我們做事的方式不同，結果都是一樣的，對吧～？"
 
-# game/script-a4-lilly.rpy:5371
+# game/script-a4-lilly.rpy:5372
 translate zh_hant a4_lilly_farewell_2c1ee9bf:
 
     # li "This is school, not a police state. You will have to remind me when you were appointed class monarch, I'm afraid."
     li "這裡是學校，不是極權國家。妳什麼時候被任命為班上的君王了，恐怕妳得提醒我一聲。"
 
-# game/script-a4-lilly.rpy:5376
+# game/script-a4-lilly.rpy:5377
 translate zh_hant a4_lilly_farewell_ef2b123c_10:
 
     # shi "…"
     shi "……"
 
-# game/script-a4-lilly.rpy:5381
+# game/script-a4-lilly.rpy:5382
 translate zh_hant a4_lilly_farewell_51115c8e:
 
     # mi "You have to seize power, it's not as good if it's just handed to you~! But I guess you wouldn't really understand that, right~?"
     mi "妳必須把權利奪過來，這比直接送到手上要好多了～！不過我猜妳是不會懂的，對吧～？"
 
-# game/script-a4-lilly.rpy:5386
+# game/script-a4-lilly.rpy:5387
 translate zh_hant a4_lilly_farewell_ef2b123c_11:
 
     # shi "…"
     shi "……"
 
-# game/script-a4-lilly.rpy:5391
+# game/script-a4-lilly.rpy:5392
 translate zh_hant a4_lilly_farewell_30e27388:
 
     # mi "You'll also have to remind me when monarchs were elected into their positions~."
     mi "妳也得提醒我，君主什麼時候是經由選舉產生的～"
 
-# game/script-a4-lilly.rpy:5393
+# game/script-a4-lilly.rpy:5394
 translate zh_hant a4_lilly_farewell_f9bb9ba8:
 
     # "Lilly positively bristles at this. Shizune's two-hit combo forces her onto defense."
     "莉莉的頭髮幾乎都要豎起來了，靜音的二連擊把她逼進了防守狀態。"
 
-# game/script-a4-lilly.rpy:5398
+# game/script-a4-lilly.rpy:5399
 translate zh_hant a4_lilly_farewell_6ac5bd95:
 
     # li "Yet for all your vaunted power, you cannot get one person to help you without forcing him."
     li "然而，儘管妳擁有如此吹噓的權力，卻無法在不強迫的情況下讓一個人幫妳。"
 
-# game/script-a4-lilly.rpy:5403
+# game/script-a4-lilly.rpy:5404
 translate zh_hant a4_lilly_farewell_ef2b123c_12:
 
     # shi "…"
     shi "……"
 
-# game/script-a4-lilly.rpy:5408
+# game/script-a4-lilly.rpy:5409
 translate zh_hant a4_lilly_farewell_7e7b6298:
 
     # mi "But Hisao volunteered~! He's such a hard worker, he's doing this instead of meaningless socialization, right~?"
     mi "但是久夫是自願的～！他是個這麼努力的人，他寧願做這個，也不願浪費時間搞社交，對吧～？"
 
-# game/script-a4-lilly.rpy:5413
+# game/script-a4-lilly.rpy:5414
 translate zh_hant a4_lilly_farewell_b46dc41c:
 
     # li "Is that so. Hisao?"
     li "是這樣嗎，久夫？"
 
-# game/script-a4-lilly.rpy:5415
+# game/script-a4-lilly.rpy:5416
 translate zh_hant a4_lilly_farewell_44351a77:
 
     # "Ah, this is bad. I've really ended up between a rock and a hard place."
     "啊，這下糟了。我真的陷入了進退兩難的境地。"
 
-# game/script-a4-lilly.rpy:5417
+# game/script-a4-lilly.rpy:5418
 translate zh_hant a4_lilly_farewell_d20dfc77:
 
     # "As much as it may pain me to do this, the truth has at least a chance of stopping this argument here and now."
     "儘管這麼做可能會讓我痛苦，但說實話至少有機會在此時此地停止這場爭論。"
 
-# game/script-a4-lilly.rpy:5419
+# game/script-a4-lilly.rpy:5420
 translate zh_hant a4_lilly_farewell_d621a843:
 
     # hi "It's okay, Lilly, they didn't harass me to come or anything."
     hi "沒關係的，莉莉，她們沒有騷擾我或強迫我來。"
 
-# game/script-a4-lilly.rpy:5424
+# game/script-a4-lilly.rpy:5425
 translate zh_hant a4_lilly_farewell_d0950a30:
 
     # "Lilly gives me a disapproving grimace, silently radiating her strong feelings of displeasure in my general direction."
     "莉莉不贊同地扮了個臭臉，默默地朝我的方向散發出強烈的不悅感。"
 
-# game/script-a4-lilly.rpy:5426
+# game/script-a4-lilly.rpy:5427
 translate zh_hant a4_lilly_farewell_58c3de22:
 
     # "She can be quite scary when she wants to be, though thankfully that isn't often."
     "她想嚇人的時候可以很恐怖，不過謝天謝地，這種情況不常發生。"
 
-# game/script-a4-lilly.rpy:5431
+# game/script-a4-lilly.rpy:5432
 translate zh_hant a4_lilly_farewell_ef2b123c_13:
 
     # shi "…"
     shi "……"
 
-# game/script-a4-lilly.rpy:5436
+# game/script-a4-lilly.rpy:5437
 translate zh_hant a4_lilly_farewell_984f30d6:
 
     # mi "Hicchan, you make that sound like it's a regular occurrence~…"
     mi "小久，你說得好像這是家常便飯一樣～……"
 
-# game/script-a4-lilly.rpy:5438
+# game/script-a4-lilly.rpy:5439
 translate zh_hant a4_lilly_farewell_38e9aca9:
 
     # hi "It isn't?"
     hi "不是嗎？"
 
-# game/script-a4-lilly.rpy:5440
+# game/script-a4-lilly.rpy:5441
 translate zh_hant a4_lilly_farewell_fd92140a:
 
     # hi "In the end, it doesn't matter so long as everything's getting done at a good pace. Let's just get this work over with so we can go home."
     hi "總之，只要一切都順利完成就沒關係了。我們就把這工作做完，回家吧。"
 
-# game/script-a4-lilly.rpy:5451
+# game/script-a4-lilly.rpy:5452
 translate zh_hant a4_lilly_farewell_204fc061:
 
     # "Shizune snorts derisively and gets back to marking off the sheet in front of her, while Lilly sighs and finds her way along the room with her hand following the filing cabinets lined along the wall."
     "靜音輕蔑地哼了一聲，回去繼續標記她面前的表格，而莉莉則嘆了口氣，沿著牆邊的文件櫃，摸索著在房間裡走動。"
 
-# game/script-a4-lilly.rpy:5453
+# game/script-a4-lilly.rpy:5454
 translate zh_hant a4_lilly_farewell_9eb6dd5c:
 
     # "This would mark the only time I've managed to successfully defuse one of these situations, but the grudging ceasefire built around mutual fear and respect makes this feel more like the Cold War than any real peace."
     "這大概是我唯一一次成功化解這種情況，但建立在相互恐懼和尊重之上的勉強停火，感覺更像是冷戰，而非真正的和平。"
 
-# game/script-a4-lilly.rpy:5455
+# game/script-a4-lilly.rpy:5456
 translate zh_hant a4_lilly_farewell_fe7ae890:
 
     # "I can't take all the credit though; Lilly's leaving has surely affected Shizune to some extent, to make her give up so easily."
     "但我不能把所有功勞都歸於自己；莉莉馬上要走了，肯定在某種程度上影響了靜音，才讓她這麼輕易地讓步。"
 
-# game/script-a4-lilly.rpy:5463
+# game/script-a4-lilly.rpy:5464
 translate zh_hant a4_lilly_farewell_d79693f8:
 
     # "Moments before getting back to my work, I notice Lilly reaching up to grab something from above a filing cabinet. I almost offer to help, but her height gives her ample ability to take it down safely."
     "就在我準備回去工作前，我注意到莉莉伸手去拿文件櫃上方的東西。我差點就要開口幫忙，但她的身高足夠讓她能平穩地拿下來。"
 
-# game/script-a4-lilly.rpy:5469
+# game/script-a4-lilly.rpy:5470
 translate zh_hant a4_lilly_farewell_97dfe1a2:
 
     # "Once she sets the strangely shaped device on the desk beside me, I realize just what it is… sort of… as she takes the old green covering off and sits down."
     "她剛把那個奇形怪狀的東西放到我身邊的桌上，我就意識到那是什麼了……某種意義上……她把綠色的包裝拆掉，然後坐了下來。"
 
-# game/script-a4-lilly.rpy:5478
+# game/script-a4-lilly.rpy:5479
 translate zh_hant a4_lilly_farewell_be2f044e:
 
     # "At first glance it seems to be an old metallic blue typewriter, but it doesn't take me long to realize it's far from ordinary."
     "單單瞥一眼，它看上去像是一個陳舊的金屬藍色打字機，但我很快就意識到它不是個普通的打字機了。"
 
-# game/script-a4-lilly.rpy:5480
+# game/script-a4-lilly.rpy:5481
 translate zh_hant a4_lilly_farewell_b8320dfe:
 
     # "It has far fewer keys than expected, and those it has show no lettering printed on them. Only the shadows cast by the tiny Braille dots on them give a hint to the thing's purpose."
     "它的按鍵比預期的少得多，而且上面沒有印任何字母。只有按鍵上微小的點字所投下的陰影，暗示了這東西的用途。"
 
-# game/script-a4-lilly.rpy:5482
+# game/script-a4-lilly.rpy:5483
 translate zh_hant a4_lilly_farewell_ca6a2bcb:
 
     # hi "Blind typewriter?"
     hi "盲人打字機？"
 
-# game/script-a4-lilly.rpy:5494
+# game/script-a4-lilly.rpy:5495
 translate zh_hant a4_lilly_farewell_b4369218:
 
     # li "Oh, this? Well, you're not far off."
     li "哦，這個？嗯，差不多。"
 
-# game/script-a4-lilly.rpy:5496
+# game/script-a4-lilly.rpy:5497
 translate zh_hant a4_lilly_farewell_3d9da9eb:
 
     # li "It's normally called a Perkins Brailler, but it's basically a typewriter for the blind, yes. It presses Braille into the page rather than text, which is why it has fewer keys."
     li "它通常被稱為柏金斯點字機，但基本上就是給盲人用的打字機，沒錯。它在紙上壓出點字而不是文字，這就是為什麼它的按鍵比較少。"
 
-# game/script-a4-lilly.rpy:5498
+# game/script-a4-lilly.rpy:5499
 translate zh_hant a4_lilly_farewell_c521b5a1:
 
     # hi "Huh… that's really neat."
     hi "哦……真酷。"
 
-# game/script-a4-lilly.rpy:5503
+# game/script-a4-lilly.rpy:5504
 translate zh_hant a4_lilly_farewell_4e1cbe36:
 
     # "She gives a lighthearted grin at my curiosity over it. I have to admit that it appeals to my sense of novelty."
     "我的好奇讓她愉快地笑了起來，我得承認，這東西很吸引我的好奇心。"
 
-# game/script-a4-lilly.rpy:5508
+# game/script-a4-lilly.rpy:5509
 translate zh_hant a4_lilly_farewell_a09a12dd:
 
     # "Without further ado, we each get back to our allotted tasks. The loud clunking of the mechanics in Lilly's Brailler and the tapping of the laptop's old and weary keyboard quickly fill the room."
     "事不宜遲，我們各自回到分配的任務上。莉莉的點字機發出的巨大機械聲，以及老舊筆電疲憊的鍵盤敲擊聲，迅速充滿了整個房間。"
 
-# game/script-a4-lilly.rpy:5510
+# game/script-a4-lilly.rpy:5511
 translate zh_hant a4_lilly_farewell_f752ff71:
 
     # "It's a nice atmosphere, really. Everyone knows what they have to do, and Lilly and I get to sit beside each other and exchange the odd word as we work away."
     "這氛圍很好，真的。每個人都知道自己該做些什麼事，我和莉莉並排坐著，在忙碌的同時偶爾交談幾句。"
 
-# game/script-a4-lilly.rpy:5512
+# game/script-a4-lilly.rpy:5513
 translate zh_hant a4_lilly_farewell_2dd87bac:
 
     # "Nostalgic. That's what it feels like."
     "真令人懷念。就是那種感覺。"
 
-# game/script-a4-lilly.rpy:5514
+# game/script-a4-lilly.rpy:5515
 translate zh_hant a4_lilly_farewell_a89789bd:
 
     # "It's pleasant, but just slightly stained with the knowledge that our time together is nearing its end."
     "雖然很愉快，但一想起我們在一起的時間就快要結束了，我就感到有些失落。"
 
-# game/script-a4-lilly.rpy:5521
+# game/script-a4-lilly.rpy:5522
 translate zh_hant a4_lilly_farewell_f4da2aa9:
 
     # li "Excuse me, Misha?"
     li "不好意思，米莎？"
 
-# game/script-a4-lilly.rpy:5532
+# game/script-a4-lilly.rpy:5533
 translate zh_hant a4_lilly_farewell_11011c7b:
 
     # "To properly address her, Misha bounces over from the filing cabinet she's peering into, in spite of Lilly's lack of sight. For a moment I think it strange, but then realize it's exactly what I do."
     "儘管莉莉看不見，為了能好好跟她說話，米莎從她正盯著的文件櫃旁跳了過來。有那麼一瞬間，我覺得這很奇怪，但隨後意識到，我也是這麼做的。"
 
-# game/script-a4-lilly.rpy:5534
+# game/script-a4-lilly.rpy:5535
 translate zh_hant a4_lilly_farewell_213e5f33:
 
     # mi "What's up?"
     mi "怎麼了嗎？"
 
-# game/script-a4-lilly.rpy:5539
+# game/script-a4-lilly.rpy:5540
 translate zh_hant a4_lilly_farewell_78956ae4:
 
     # li "Could you ask Shizune where the attendance records for class 3-2 are? I think they've been moved."
     li "妳能問問靜音3-2班的出席紀錄在哪裡嗎？我想它們被移動過了。"
 
-# game/script-a4-lilly.rpy:5544
+# game/script-a4-lilly.rpy:5545
 translate zh_hant a4_lilly_farewell_983c7b7f:
 
     # mi "Okie dokie!"
     mi "好喔！"
 
-# game/script-a4-lilly.rpy:5551
+# game/script-a4-lilly.rpy:5552
 translate zh_hant a4_lilly_farewell_fc72e5b0:
 
     # "And with that, she flitters off to Shizune, who's working at a table behind us."
     "說完，她就蹦去找靜音了，靜音正在我們身後的桌上工作。"
 
-# game/script-a4-lilly.rpy:5553
+# game/script-a4-lilly.rpy:5554
 translate zh_hant a4_lilly_farewell_a5c985e7:
 
     # "Lilly's familiarity with the council room, and the efficiency with which she works, remind me that she, Misha and Shizune used to all work together in the Student Council."
     "莉莉對學生會辦公室的熟悉，以及她工作的效率，都讓我想起她、米莎和靜音曾經一起在學生會工作。"
 
-# game/script-a4-lilly.rpy:5555
+# game/script-a4-lilly.rpy:5556
 translate zh_hant a4_lilly_farewell_75c2c62a:
 
     # "Maybe this is a fitting end for her stay in Yamaku; working away just like she used to, surrounded by those she loves and, at least, liked."
     "也許這對她在山久高校的生活來說，是個再適合不過的結局；像以前一樣工作，身邊圍繞著她所愛的人，或者至少，是她曾經喜歡的人。"
 
-# game/script-a4-lilly.rpy:5557
+# game/script-a4-lilly.rpy:5558
 translate zh_hant a4_lilly_farewell_7f4aae86:
 
     # "I look up, getting taken off-guard by Shizune sorting through a drawer, rather than Misha."
     "我抬起頭，卻意外地看到是靜音在翻抽屜，而不是米莎。"
 
-# game/script-a4-lilly.rpy:5562
+# game/script-a4-lilly.rpy:5563
 translate zh_hant a4_lilly_farewell_8dd98c90:
 
     # "Sure enough, she plucks out a manila folder, entirely blank save for the just barely visible bumps on its front, and holds it in front of Lilly."
     "果不其然，她拿出一個牛皮紙文件夾，除了正面幾乎看不見的凸點外，完全是空白的，然後把它拿到莉莉面前。"
 
-# game/script-a4-lilly.rpy:5564
+# game/script-a4-lilly.rpy:5565
 translate zh_hant a4_lilly_farewell_14e7e6c7:
 
     # "Lilly's hand flits over it to check what it is, her fingers feeling out the dots of Braille and confirming it's what she asked for."
     "莉莉的手輕輕拂過它，檢查是什麼東西，她的手指摸索著點字，確認是她要的東西。"
 
-# game/script-a4-lilly.rpy:5569
+# game/script-a4-lilly.rpy:5570
 translate zh_hant a4_lilly_farewell_1dbf869f:
 
     # li "Thank you, Misha."
     li "謝謝你，米莎。"
 
-# game/script-a4-lilly.rpy:5571
+# game/script-a4-lilly.rpy:5572
 translate zh_hant a4_lilly_farewell_77bc6cca:
 
     # "No reply."
     "沒有回應。"
 
-# game/script-a4-lilly.rpy:5576
+# game/script-a4-lilly.rpy:5577
 translate zh_hant a4_lilly_farewell_cd46d09c:
 
     # "No reply, that is, save for an odd grin… no… smile… on Shizune's face."
     "沒有回應，只有那道奇特的笑容……不……應該是微笑……就在靜音的臉上。"
 
-# game/script-a4-lilly.rpy:5584
+# game/script-a4-lilly.rpy:5585
 translate zh_hant a4_lilly_farewell_e1f13eaa:
 
     # "A couple of seconds pass before Lilly clicks that it isn't Misha behind her, but Shizune. Her momentary look of surprise is replaced by a slightly bashful smile."
     "幾秒鐘後，莉莉才意識到身後的人不是米莎，而是靜音。她瞬間的驚訝表情，被一抹略帶羞澀的微笑所取代。"
 
-# game/script-a4-lilly.rpy:5586
+# game/script-a4-lilly.rpy:5587
 translate zh_hant a4_lilly_farewell_5b16cebc:
 
     # "For a few moments, the room is all but still and silent."
     "有那麼幾秒鐘，房間裡幾乎一片寂靜。"
 
-# game/script-a4-lilly.rpy:5588
+# game/script-a4-lilly.rpy:5589
 translate zh_hant a4_lilly_farewell_f1858dd2:
 
     # "Eventually, though, Shizune strides back to her workstation and Lilly begins typing once again."
     "不過，最終靜音大步走回她的工作崗位，莉莉也再次開始打字。"
 
-# game/script-a4-lilly.rpy:5590
+# game/script-a4-lilly.rpy:5591
 translate zh_hant a4_lilly_farewell_af0f0166:
 
     # "It only lasted a handful of seconds in all, but it feels like years of communication were made up for in that one silent exchange."
     "整個過程總共只持續了幾秒鐘，但感覺在那一次無聲的交流中，彌補了多年的溝通。"
 
-# game/script-a4-lilly.rpy:5597
+# game/script-a4-lilly.rpy:5598
 translate zh_hant a4_lilly_farewell_82fc4164:
 
     # hi "There, finished."
     hi "好了，完成了。"
 
-# game/script-a4-lilly.rpy:5599
+# game/script-a4-lilly.rpy:5600
 translate zh_hant a4_lilly_farewell_b6aa9297:
 
     # "I lean my head back and rub my eyes to try and work away their weariness. Staring at that small and rather poor screen has taken its toll."
     "我向後仰頭，揉了揉眼睛，試圖消除疲勞。盯著那塊又小又糊的螢幕，實在是太傷了。"
 
-# game/script-a4-lilly.rpy:5606
+# game/script-a4-lilly.rpy:5607
 translate zh_hant a4_lilly_farewell_ed69ccf3:
 
     # li "Excellent timing; the only thing left is to file these away and I'll have my workload finished as well."
     li "時間抓得正好；只剩下把這些歸檔，我的工作也就算完成了。"
 
-# game/script-a4-lilly.rpy:5608
+# game/script-a4-lilly.rpy:5609
 translate zh_hant a4_lilly_farewell_ca515b96:
 
     # hi "Good. I can pack up the Brailler and put it away while you do that."
     hi "好。妳處理的時候，我可以把點字機收起來。"
 
-# game/script-a4-lilly.rpy:5613
+# game/script-a4-lilly.rpy:5614
 translate zh_hant a4_lilly_farewell_10354753:
 
     # li "Thank you, Hisao."
     li "謝謝你，久夫。"
 
-# game/script-a4-lilly.rpy:5615
+# game/script-a4-lilly.rpy:5616
 translate zh_hant a4_lilly_farewell_3d60491d:
 
     # hi "Misha, are you and Shizune far from being done?"
     hi "米莎，你和靜音快好了嗎？"
 
-# game/script-a4-lilly.rpy:5617
+# game/script-a4-lilly.rpy:5618
 translate zh_hant a4_lilly_farewell_31447cd7:
 
     # "I look around for the two as I replace the cover over the Brailler, only to see them waiting at the door. I guess they must be waiting for us."
     "我一邊蓋上點字機的蓋子，一邊環顧四周找她們倆，卻看到她們正在門口等著。我猜她們一定是在等我們。"
 
-# game/script-a4-lilly.rpy:5625
+# game/script-a4-lilly.rpy:5626
 translate zh_hant a4_lilly_farewell_a596d4c0:
 
     # "With a minimum of wasted time, we file and pack up everything that remains and join them."
     "我們以最快的速度，將剩下的東西歸檔打包，然後跟她們會合。"
 
-# game/script-a4-lilly.rpy:5627
+# game/script-a4-lilly.rpy:5628
 translate zh_hant a4_lilly_farewell_6a2981a1:
 
     # hi "Thanks for waiting, you two."
     hi "謝謝妳們等我們。"
 
-# game/script-a4-lilly.rpy:5632
+# game/script-a4-lilly.rpy:5633
 translate zh_hant a4_lilly_farewell_ff1567c1:
 
     # mi "We couldn't just take off without you, Hicchan, you've been a great help!"
     mi "我們不能丟下你不管啊，小久，你幫了我們大忙！"
 
-# game/script-a4-lilly.rpy:5637
+# game/script-a4-lilly.rpy:5638
 translate zh_hant a4_lilly_farewell_95a65179:
 
     # "Shizune nods approvingly, pleased with my efforts."
     "靜音贊許地點了點頭，對我的努力感到滿意。"
 
-# game/script-a4-lilly.rpy:5639
+# game/script-a4-lilly.rpy:5640
 translate zh_hant a4_lilly_farewell_8440583f:
 
     # hi "I guess… that's the last class representative work done and over with, then."
     hi "我想……這就是最後的班級代表工作了，都結束了。"
 
-# game/script-a4-lilly.rpy:5644
+# game/script-a4-lilly.rpy:5645
 translate zh_hant a4_lilly_farewell_2d44ab79:
 
     # li "That's right."
     li "沒錯。"
 
-# game/script-a4-lilly.rpy:5649
+# game/script-a4-lilly.rpy:5650
 translate zh_hant a4_lilly_farewell_67fb6b53:
 
     # mi "I'll miss you, Lilly. I think it was fun working with you."
     mi "我會想妳的，莉莉。我覺得跟你一起工作很開心。"
 
-# game/script-a4-lilly.rpy:5654
+# game/script-a4-lilly.rpy:5655
 translate zh_hant a4_lilly_farewell_48d67842:
 
     # li "Thank you, Misha. It's been good working with you… and Shizune."
     li "謝謝妳，米莎。跟妳……還有靜音一起工作很愉快。"
 
-# game/script-a4-lilly.rpy:5659
+# game/script-a4-lilly.rpy:5660
 translate zh_hant a4_lilly_farewell_3bfe89b2:
 
     # "Shizune thinks for a moment before formulating her response. It's not that she often communicates without thinking, quite the opposite, but this time it's even more considered than usual."
     "靜音在回應前想了一會兒。並不是說她經常不經思考就溝通，恰恰相反，但這次她比平時考慮得更周到。"
 
-# game/script-a4-lilly.rpy:5664
+# game/script-a4-lilly.rpy:5665
 translate zh_hant a4_lilly_farewell_ef2b123c_14:
 
     # shi "…"
     shi "……"
 
-# game/script-a4-lilly.rpy:5669
+# game/script-a4-lilly.rpy:5670
 translate zh_hant a4_lilly_farewell_cd45517b:
 
     # "Misha looks a little surprised before passing on the message."
     "米莎在傳達訊息前，看起來有點驚訝。"
 
-# game/script-a4-lilly.rpy:5674
+# game/script-a4-lilly.rpy:5675
 translate zh_hant a4_lilly_farewell_88fff0e6:
 
     # mi "Shizune says… you'd better do your work over there better than you did it here."
     mi "靜音說……妳在那邊最好比在這裡做得更好。"
 
-# game/script-a4-lilly.rpy:5679
+# game/script-a4-lilly.rpy:5680
 translate zh_hant a4_lilly_farewell_abb378c2:
 
     # "Far from taking offense, Lilly giggles into her hand."
     "莉莉非但沒有生氣，反而摀著嘴笑了起來。"
 
-# game/script-a4-lilly.rpy:5684
+# game/script-a4-lilly.rpy:5685
 translate zh_hant a4_lilly_farewell_c41c2fd1:
 
     # li "If that's the case, then please tell Shizune to give those still here a little more understanding in the future."
     li "既然如此，那麻煩告訴靜音，讓她以後對留在這裡的人更寬容一點。"
 
-# game/script-a4-lilly.rpy:5686
+# game/script-a4-lilly.rpy:5687
 translate zh_hant a4_lilly_farewell_3ade9737:
 
     # "Competitive until the last. Maybe Shizune and Lilly aren't so different after all."
     "直到最後一刻都還要爭一下。也許靜音和莉莉終究沒有那麼不同。"
 
-# game/script-a4-lilly.rpy:5691
+# game/script-a4-lilly.rpy:5692
 translate zh_hant a4_lilly_farewell_ef2b123c_15:
 
     # shi "…"
     shi "……"
 
-# game/script-a4-lilly.rpy:5696
+# game/script-a4-lilly.rpy:5697
 translate zh_hant a4_lilly_farewell_f4058150:
 
     # mi "Shicchan says that she'll be checking to make sure you live up to your end of the promise."
     mi "小靜說她會時不時檢查一下你有沒有遵守諾言的。"
 
-# game/script-a4-lilly.rpy:5701
+# game/script-a4-lilly.rpy:5702
 translate zh_hant a4_lilly_farewell_ab36a226:
 
     # li "Then that's how it will be."
     li "那就這樣吧。"
 
-# game/script-a4-lilly.rpy:5706
+# game/script-a4-lilly.rpy:5707
 translate zh_hant a4_lilly_farewell_8a3f90d7:
 
     # li "I'd better be off, then. Goodbye, Shizune. Goodbye, Misha."
     li "我該走了。再見，靜音。再見，米莎。"
 
-# game/script-a4-lilly.rpy:5711
+# game/script-a4-lilly.rpy:5712
 translate zh_hant a4_lilly_farewell_05e6a5dc:
 
     # li "Hisao?"
     li "久夫？"
 
-# game/script-a4-lilly.rpy:5713
+# game/script-a4-lilly.rpy:5714
 translate zh_hant a4_lilly_farewell_f1521869:
 
     # "Lilly takes a hold of my arm in hers, there being no need for a cane if I'm here to guide her. With a nod of farewell to the two, we set off out the door and make our way to the school grounds."
     "莉莉挽住我的手臂，既然有我引導她，就不需要手杖了。我們向兩人點頭告別後，便走出門，朝校園走去。"
 
-# game/script-a4-lilly.rpy:5715
+# game/script-a4-lilly.rpy:5716
 translate zh_hant a4_lilly_farewell_c5e98d19:
 
     # "As I turn to wave goodbye to them, I notice Shizune's gaze lingering on Lilly. They may annoy each other, but family bonds aren't easily broken."
     "當我轉身向她們揮手告別時，我注意到靜音的目光停留在莉莉身上。她們或許會互相討厭，但親情的羈絆是不容易斷的。"
 
-# game/script-a4-lilly.rpy:5720
+# game/script-a4-lilly.rpy:5721
 translate zh_hant a4_lilly_farewell_4439ced6:
 
     # hi "Got all your papers sorted, then?"
     hi "那麼，妳的文件都整理好了？"
 
-# game/script-a4-lilly.rpy:5725
+# game/script-a4-lilly.rpy:5726
 translate zh_hant a4_lilly_farewell_0816d934:
 
     # li "Yes, they've all been filled out and handed in."
     li "是的，都已經填好交出去了。"
 
-# game/script-a4-lilly.rpy:5727
+# game/script-a4-lilly.rpy:5728
 translate zh_hant a4_lilly_farewell_991b4147:
 
     # hi "On top of things as always, aren't you?"
     hi "妳總是能把事情處理得井井有條，不是嗎？"
 
-# game/script-a4-lilly.rpy:5734
+# game/script-a4-lilly.rpy:5735
 translate zh_hant a4_lilly_farewell_0ae1a1d8:
 
     # "She gives an earnest smile at the compliment, but it feels as if her happiness is just a veneer over the fact that she's fully aware of how much she's leaving behind."
     "她對這句讚美報以誠摯的微笑，但我感覺她的快樂只是一種掩飾，掩蓋著她清楚自己將要拋下多少東西的事實。"
 
-# game/script-a4-lilly.rpy:5736
+# game/script-a4-lilly.rpy:5737
 translate zh_hant a4_lilly_farewell_972a4365:
 
     # "It reminds me of how she was like when I first met her; always smiling, always that little bit aloof, always that little distance away from everybody."
     "這讓我想起我第一次見到她時的樣子；總是微笑著，卻又有點高冷，總是和每個人保持著一點距離。"
 
-# game/script-a4-lilly.rpy:5738
+# game/script-a4-lilly.rpy:5739
 translate zh_hant a4_lilly_farewell_54ec4834:
 
     # "Even now, she still maintains that air around many others, especially those she's not close to. I had hoped that our time together would have changed that fact."
     "即使是現在，她在許多人面前，尤其是那些她不親近的人面前，仍然保有那種氣息。我曾希望我們在一起的時光能改變這些。"
 
-# game/script-a4-lilly.rpy:5743
+# game/script-a4-lilly.rpy:5744
 translate zh_hant a4_lilly_farewell_64b5a51f:
 
     # "Our pace slows, the two of us coming to a halt in the all but empty school gardens."
     "我的步伐放慢，兩個人在空無一人的校園花園裡停了下來。"
 
-# game/script-a4-lilly.rpy:5748
+# game/script-a4-lilly.rpy:5749
 translate zh_hant a4_lilly_farewell_2e96ef00:
 
     # li "Hisao? Is something the…"
     li "久夫？怎麼了……"
 
-# game/script-a4-lilly.rpy:5755
+# game/script-a4-lilly.rpy:5756
 translate zh_hant a4_lilly_farewell_d26fefeb:
 
     # "Lilly's words are cut short as I turn and wrap my arms around her, pulling her tight. I may not usually be given to such impulsive actions, but I just want to be close to her, even if it's the last time I'll be able to."
     "莉莉的話被打斷了，我轉身將她拉近，用雙臂緊緊地環抱住她。我也許不常有這種衝動的舉動，但我只是想靠近她，即使這是我最後一次能這麼做了。"
 
-# game/script-a4-lilly.rpy:5757
+# game/script-a4-lilly.rpy:5758
 translate zh_hant a4_lilly_farewell_6ff384ec:
 
     # "All the other students have retreated to their dormitories and homes, only the ruffling of leaves in the breeze making any sound whatsoever."
     "所有其他學生都已經回到宿舍和家裡，只有微風中樹葉的沙沙聲。"
 
-# game/script-a4-lilly.rpy:5762
+# game/script-a4-lilly.rpy:5763
 translate zh_hant a4_lilly_farewell_60a360a8:
 
     # "As I draw back, I can see she has dropped her carefully maintained smile."
     "當我抬起頭，我看到她盡力維持的笑容消失了。"
 
-# game/script-a4-lilly.rpy:5764
+# game/script-a4-lilly.rpy:5765
 translate zh_hant a4_lilly_farewell_f2e09604:
 
     # "Her hand hesitates, wanting neither to leave nor to stay on my features."
     "她的手猶豫著，既不想離開，也不想停留在我的臉上。"
 
-# game/script-a4-lilly.rpy:5766
+# game/script-a4-lilly.rpy:5767
 translate zh_hant a4_lilly_farewell_ca35306a:
 
     # "She is putting up a brave show, but her slight trembling gives her away. Lilly may be able to control herself well, but even she can't hold her composure together now."
     "她故作堅強，但輕微的顫抖出賣了她。莉莉或許很能控制自己，但即使是她，現在也無法鎮定下去了。"
 
-# game/script-a4-lilly.rpy:5768
+# game/script-a4-lilly.rpy:5769
 translate zh_hant a4_lilly_farewell_7c1c5db7:
 
     # "This is the woman I've come to love, but also the one who in all too short a time will leave the country forever."
     "這就是我愛上的女人，但也是那個在不久的將來，將永遠離開這個國家的那個人。"
 
-# game/script-a4-lilly.rpy:5770
+# game/script-a4-lilly.rpy:5771
 translate zh_hant a4_lilly_farewell_7ac860c2:
 
     # li "I'm sorry, Hisao."
     li "對不起，久夫。"
 
-# game/script-a4-lilly.rpy:5772
+# game/script-a4-lilly.rpy:5773
 translate zh_hant a4_lilly_farewell_e2e0b00f:
 
     # hi "It's okay. You've got your own life to lead, after all."
     hi "沒關係。妳終究有自己的人生要過。"
 
-# game/script-a4-lilly.rpy:5777
+# game/script-a4-lilly.rpy:5778
 translate zh_hant a4_lilly_farewell_15fdc6c6:
 
     # "We walk up the hallway in the girls' dormitory hand in hand, our emotions by now largely quelled. Nevertheless, our hands grip each other's much more tightly than before."
     "我們手牽手走上女生宿舍的走廊，此刻我們的情緒已大致平復。然而，我們的手卻比以前握得更緊了。"
 
-# game/script-a4-lilly.rpy:5779
+# game/script-a4-lilly.rpy:5780
 translate zh_hant a4_lilly_farewell_7bd76dcb:
 
     # "Faint, muffled voices can be heard from Lilly's room, the origins of which aren't difficult to guess."
     "從莉莉的房間裡傳來微弱、模糊的聲音，不難猜出聲音的來源。"
 
-# game/script-a4-lilly.rpy:5802
+# game/script-a4-lilly.rpy:5805
 translate zh_hant a4_lilly_farewell_e3ead60d:
 
     # "The moment she opens the door, Hanako bursts through and wraps her arms around Lilly, taking her very obviously by surprise."
     "她一開門，華子就衝了出來，用雙臂環抱住莉莉，顯然讓她嚇了一跳。"
 
-# game/script-a4-lilly.rpy:5804
+# game/script-a4-lilly.rpy:5807
 translate zh_hant a4_lilly_farewell_ec032f36:
 
     # ha "Lilly! Lilly!"
     ha "莉莉！莉莉！"
 
-# game/script-a4-lilly.rpy:5809
+# game/script-a4-lilly.rpy:5812
 translate zh_hant a4_lilly_farewell_a30634e4:
 
     # li "Ha-Hanako…?"
     li "華、華子……？"
 
-# game/script-a4-lilly.rpy:5814
+# game/script-a4-lilly.rpy:5817
 translate zh_hant a4_lilly_farewell_5d8fac92:
 
     # ha "I'm going to miss you… Lilly…"
     ha "我會想妳的……莉莉……"
 
-# game/script-a4-lilly.rpy:5819
+# game/script-a4-lilly.rpy:5822
 translate zh_hant a4_lilly_farewell_0a0e0fa3:
 
     # "As expected, she's on the verge of tears. Lilly gently rubs Hanako's hair with her hand in response, then pulls back and gives a warm, reassuring smile."
     "果然，她已經快要哭了。莉莉溫柔地用手撫摸著華子的頭髮作為回應，然後退後一步，露出一個溫暖、令人安心的微笑。"
 
-# game/script-a4-lilly.rpy:5829
+# game/script-a4-lilly.rpy:5833
 translate zh_hant a4_lilly_farewell_670423ef:
 
     # "Looking beyond Hanako, Akira can be seen getting up from the side of Lilly's bed and scratching her head."
     "越過華子，可以看到晃從莉莉的床邊站起來，搔了搔頭。"
 
-# game/script-a4-lilly.rpy:5834
+# game/script-a4-lilly.rpy:5838
 translate zh_hant a4_lilly_farewell_0d666b3b:
 
     # "Her eyes turn from Lilly and Hanako to me, a stilted, weak smile hanging on her face. I try to return a more genuinely happy look, but the result is probably just the same."
     "她的目光從莉莉和華子轉向我，臉上掛著一抹僵硬、虛弱的微笑。我試圖回以一個更真誠快樂的表情，但結果大概還是一樣。"
 
-# game/script-a4-lilly.rpy:5839
+# game/script-a4-lilly.rpy:5843
 translate zh_hant a4_lilly_farewell_22eccbc9:
 
     # aki "So, everything set? Managed to hold back from killing Shizune?"
     aki "那麼，都搞定了嗎？有忍住沒殺了靜音嗎？"
 
-# game/script-a4-lilly.rpy:5844
+# game/script-a4-lilly.rpy:5848
 translate zh_hant a4_lilly_farewell_0f534d89:
 
     # "The comment draws an amused giggle from her sister."
     "這句話引得她妹妹咯咯地笑了起來。"
 
-# game/script-a4-lilly.rpy:5846
+# game/script-a4-lilly.rpy:5850
 translate zh_hant a4_lilly_farewell_4282f3d6:
 
     # li "Yes, I have everything in order, and yes, I managed not to. Have you packed everything you need?"
     li "是的，我把一切都安排好了，而且，是的，我忍住了。妳已經把需要帶的東西都打包好了嗎？"
 
-# game/script-a4-lilly.rpy:5851
+# game/script-a4-lilly.rpy:5855
 translate zh_hant a4_lilly_farewell_fd55f1ad:
 
     # aki "Got the two bags right here, but there's still some stuff left at the Hakamichis' home. I can pick that up while we wait there for tomorrow evening's flight, though."
     aki "兩個行李就在這裡，但還有一些東西留在羽加道家。不過，在那裡等明晚的班機時，我可以順便去拿。"
 
-# game/script-a4-lilly.rpy:5853
+# game/script-a4-lilly.rpy:5857
 translate zh_hant a4_lilly_farewell_7b132e06:
 
     # "Akira gives the two large black traveling bags on the floor a hearty pat. She probably came to help pack and make sure everything was in order on Lilly's end, before going together with her."
     "晃熱情地拍了拍地上的兩個黑色大行李箱。她大概是來幫忙打包，並確保莉莉這邊一切都準備妥當，然後再和她一起走。"
 
-# game/script-a4-lilly.rpy:5858
+# game/script-a4-lilly.rpy:5862
 translate zh_hant a4_lilly_farewell_e33dd8f6:
 
     # ha "Lilly… will you be okay… over there?"
     ha "莉莉……妳在那邊……會好好的嗎？"
 
-# game/script-a4-lilly.rpy:5863
+# game/script-a4-lilly.rpy:5867
 translate zh_hant a4_lilly_farewell_692726c4:
 
     # li "I'll be all right, I assure you. I'll have Akira looking after me as well, and you know that she's reliable."
     li "我會沒事的，我向妳保證。晃也會照顧我，妳知道她很可靠。"
 
-# game/script-a4-lilly.rpy:5868
+# game/script-a4-lilly.rpy:5872
 translate zh_hant a4_lilly_farewell_cc6cff5b:
 
     # ha "But…"
     ha "但是……"
 
-# game/script-a4-lilly.rpy:5873
+# game/script-a4-lilly.rpy:5877
 translate zh_hant a4_lilly_farewell_c27aae36:
 
     # li "Don't worry, Hanako. I have your phone number after all, so we can stay in touch. With Akira's help, I could send you things over the Internet as well."
     li "別擔心，華子。我有妳的電話號碼，所以我們可以保持聯繫。有晃的幫忙，我也可以透過網路寄東西給妳。"
 
-# game/script-a4-lilly.rpy:5878
+# game/script-a4-lilly.rpy:5882
 translate zh_hant a4_lilly_farewell_321a4a50:
 
     # aki "Hey, don't use me just because you won't learn how to use a computer."
     aki "嘿，別因為妳不想學電腦就利用我。"
 
-# game/script-a4-lilly.rpy:5884
+# game/script-a4-lilly.rpy:5888
 translate zh_hant a4_lilly_farewell_06fc1242:
 
     # "Hanako and Lilly both giggle briefly, the mood lightening ever so little."
     "華子和莉莉都輕笑了幾聲，氣氛稍微輕鬆了些。"
 
-# game/script-a4-lilly.rpy:5889
+# game/script-a4-lilly.rpy:5893
 translate zh_hant a4_lilly_farewell_912e6634:
 
     # li "That goes for you too though, Hisao. I promise I'll contact you once I'm in Scotland."
     li "你也一樣，久夫。我保證，我一到蘇格蘭就會聯絡你。"
 
-# game/script-a4-lilly.rpy:5891
+# game/script-a4-lilly.rpy:5895
 translate zh_hant a4_lilly_farewell_f64eb7b1:
 
     # hi "I know. I'll be looking forward to it."
     hi "我知道。我會期待的。"
 
-# game/script-a4-lilly.rpy:5893
+# game/script-a4-lilly.rpy:5897
 translate zh_hant a4_lilly_farewell_2fce4c56:
 
     # "Her offer may be kind, but we both know that this is tantamount to breaking up. Neither of us has any illusions as to how well we'd manage a long-distance relationship."
     "她的提議或許很友善，但我們都知道這無異於分手。我們倆對於如何經營遠距離戀愛，都沒有任何幻想。"
 
-# game/script-a4-lilly.rpy:5895
+# game/script-a4-lilly.rpy:5899
 translate zh_hant a4_lilly_farewell_46ea4a21:
 
     # "With nary a word of prompting, the four of us begin the long, solemn walk to the school gate."
     "沒有任何催促，我們四人開始了漫長而莊嚴的走向校門的路。"
 
-# game/script-a4-lilly.rpy:5900
+# game/script-a4-lilly.rpy:5904
 translate zh_hant a4_lilly_farewell_4c33807a:
 
     # "The numerous lamps scattered around the Yamaku grounds fail to do much more than provide pinpoints of light in an otherwise dense darkness."
     "散佈在山久校園各處的街燈，除了在濃密的黑暗中提供點一點光亮外，起不了太大作用。"
 
-# game/script-a4-lilly.rpy:5902
+# game/script-a4-lilly.rpy:5906
 translate zh_hant a4_lilly_farewell_ec7feb10:
 
     # "A car parked on the road just outside the school grounds comes into view, its shining black exterior reflecting the dimly lit lamps of Yamaku. I call out to Akira in an effort to alleviate a bit the heavy atmosphere."
     "一輛停在校園外路邊的汽車映入眼簾，它閃亮的黑色外殼反射著山久高校昏暗的燈光。我喊了晃，試圖稍微緩和一下沉重的氣氛。"
 
-# game/script-a4-lilly.rpy:5904
+# game/script-a4-lilly.rpy:5908
 translate zh_hant a4_lilly_farewell_8e03de65:
 
     # hi "That your car? What kind is it?"
     hi "那是妳的車嗎？什麼樣的車子？"
 
-# game/script-a4-lilly.rpy:5909
+# game/script-a4-lilly.rpy:5913
 translate zh_hant a4_lilly_farewell_a786796b:
 
     # aki "Don't know much about cars, do you? It's a Lancer Evo. Solid and speedy."
     aki "你對車不太了解，是吧？是Lancer Evo。堅固又快速。"
 
-# game/script-a4-lilly.rpy:5911
+# game/script-a4-lilly.rpy:5915
 translate zh_hant a4_lilly_farewell_758fbff3:
 
     # "Well, it's not as if her comment on my knowledge is off the mark. I've never really taken an interest in them."
     "嗯，她對我知識的評論也不是沒有道理。我從來沒對車真正感興趣過。"
 
-# game/script-a4-lilly.rpy:5916
+# game/script-a4-lilly.rpy:5920
 translate zh_hant a4_lilly_farewell_72073cdd:
 
     # "She gives a small sigh."
     "她輕嘆了一口氣。"
 
-# game/script-a4-lilly.rpy:5921
+# game/script-a4-lilly.rpy:5925
 translate zh_hant a4_lilly_farewell_f8a6f10e:
 
     # aki "She's been good. Pity I have to part with it tomorrow, just like the summerhouse. You guys were the last to visit it before it changed hands."
     aki "它一直都很好。可惜我明天就得跟它告別了，就像那棟夏日別墅一樣。你們是它易主前最後的訪客。"
 
-# game/script-a4-lilly.rpy:5923
+# game/script-a4-lilly.rpy:5927
 translate zh_hant a4_lilly_farewell_17bf114b:
 
     # "Turning back from my rather faulty attempt at smalltalk, I glance at Hanako and Lilly, following behind us."
     "我放棄了糟糕的閒談嘗試，瞟了一眼華子和莉莉，她們正跟在身後。"
 
-# game/script-a4-lilly.rpy:5934
+# game/script-a4-lilly.rpy:5938
 translate zh_hant a4_lilly_farewell_f3af2053:
 
     # "By rights, Hanako should be leading Lilly, but it's rather definitely the other way around as she clings tightly to Lilly's arm."
     "通常應該是華子為莉莉帶路，但現在絕對是反過來了，因為她正緊緊地挽住莉莉的手臂。"
 
-# game/script-a4-lilly.rpy:5936
+# game/script-a4-lilly.rpy:5940
 translate zh_hant a4_lilly_farewell_6f9bd68e:
 
     # "It's a depressing sight."
     "這景象令人沮喪。"
 
-# game/script-a4-lilly.rpy:5941
+# game/script-a4-lilly.rpy:5945
 translate zh_hant a4_lilly_farewell_e968acd8:
 
     # aki "So… I guess this is it."
     aki "那……就到這兒了吧。"
 
-# game/script-a4-lilly.rpy:5946
+# game/script-a4-lilly.rpy:5950
 translate zh_hant a4_lilly_farewell_499574f0:
 
     # li "Indeed."
     li "是啊。"
 
-# game/script-a4-lilly.rpy:5948
+# game/script-a4-lilly.rpy:5952
 translate zh_hant a4_lilly_farewell_b9bf4797:
 
     # "Although the time for everyone to say their farewells is now, nobody really wants to take the first step. It's as if the longer nobody speaks, the better the chances of them simply not leaving."
     "雖然大家現在都該說再見了，但沒人願意邁出第一步。就好象不說話的時間越長，他們就越有可能留下來一樣。"
 
-# game/script-a4-lilly.rpy:5953
+# game/script-a4-lilly.rpy:5957
 translate zh_hant a4_lilly_farewell_542810bd:
 
     # ha "Lilly… do you really have to go?"
     ha "莉莉……妳真的非走不可嗎？"
 
-# game/script-a4-lilly.rpy:5958
+# game/script-a4-lilly.rpy:5962
 translate zh_hant a4_lilly_farewell_6fe8f020:
 
     # li "I'm sorry, Hanako. I won't be leaving you forever, though; I can still call you. Hisao will still be here as well."
     li "對不起，華子。不過，我不會永遠離開你；我還是可以打電話給你。久夫也還會在這裡。"
 
-# game/script-a4-lilly.rpy:5960
+# game/script-a4-lilly.rpy:5964
 translate zh_hant a4_lilly_farewell_cf078391:
 
     # "I nod, but Hanako just clutches all the tighter to Lilly's arm."
     "我點了點頭，但華子只是更緊地抓著莉莉的手臂。"
 
-# game/script-a4-lilly.rpy:5962
+# game/script-a4-lilly.rpy:5966
 translate zh_hant a4_lilly_farewell_6141b3ec:
 
     # "After spending so long without anyone to call family, it must be excruciating to have to say goodbye to the one person that was as close to a mother as anyone could have been in her life."
     "她在這麼長的時間裡都沒有能稱為家人的人，現在卻要和生命中最像是母親的那個人說再見了，一定痛苦萬分吧。"
 
-# game/script-a4-lilly.rpy:5967
+# game/script-a4-lilly.rpy:5971
 translate zh_hant a4_lilly_farewell_bced5fc1:
 
     # "Lilly lets out a long, sad breath. All Akira and I can really do is stand by quietly on the sidelines, since the only person that can solve this would be Lilly herself."
     "莉莉悲傷地長嘆了一口氣，我和晃也只能不作聲地站在一旁，因為唯一能解決這件事的人就是莉莉。"
 
-# game/script-a4-lilly.rpy:5969
+# game/script-a4-lilly.rpy:5973
 translate zh_hant a4_lilly_farewell_c99a4530:
 
     # "Eventually, Lilly pulls her arm from Hanako's grip and holds both of her shoulders gently, a much more decisive way of address than I've ever seen Lilly take with her."
     "最終，莉莉還是把手臂從華子的緊攥中抽出了，輕輕握住她的雙肩，我從沒見莉莉這麼果斷地和她說話過。"
 
-# game/script-a4-lilly.rpy:5974
+# game/script-a4-lilly.rpy:5978
 translate zh_hant a4_lilly_farewell_95b7ae7f:
 
     # li "Hanako, remember when we first met?"
     li "華子，還記得我們第一次見面的時候嗎？"
 
-# game/script-a4-lilly.rpy:5979
+# game/script-a4-lilly.rpy:5983
 translate zh_hant a4_lilly_farewell_442386e6:
 
     # li "When you entered my room for the first time after overhearing my consoling of a friend, you didn't say a single word for the entire night. Even as I poured you tea and talked, you sat silently and simply listened to what I said."
     li "那次妳無意間聽見我安慰一個朋友後，第一次走進了我的房間。那一整晚妳都沒說一個字，就連我給妳倒茶，和妳聊天后，妳也一聲不吭地坐著，只聽我說話。"
 
-# game/script-a4-lilly.rpy:5981
+# game/script-a4-lilly.rpy:5985
 translate zh_hant a4_lilly_farewell_448c5b3b:
 
     # li "It took many quiet meetings like that before you began to open up to me, but as you began to, I felt some of the happiest moments I've ever felt."
     li "後來我們又這樣安靜地見了好多次面，妳才終於願意對我敞開心扉了，當妳開始那麼做的時候，我真的感覺那就是我生命中最美好的時刻。"
 
-# game/script-a4-lilly.rpy:5986
+# game/script-a4-lilly.rpy:5990
 translate zh_hant a4_lilly_farewell_14fa1c1a:
 
     # li "I didn't become your friend because I pitied you, Hanako. I became your friend because I knew you were hiding not just from me, but from everyone."
     li "我成為妳的朋友，不是因為我同情妳，華子。我成為妳的朋友，是因為我知道妳不只在躲我，而是在躲每一個人。"
 
-# game/script-a4-lilly.rpy:5988
+# game/script-a4-lilly.rpy:5992
 translate zh_hant a4_lilly_farewell_0beea414:
 
     # li "Your ambitions, personality, interests, tastes… I didn't know any of them, and neither did anybody else."
     li "妳的抱負、個性、興趣、品味……我一無所知，其他人也一樣。"
 
-# game/script-a4-lilly.rpy:5993
+# game/script-a4-lilly.rpy:5997
 translate zh_hant a4_lilly_farewell_249d521f:
 
     # li "As you showed yourself to me though, I began to realize the person that you were, and became sure that our meeting was a very special moment."
     li "不過，當妳向我展現自己時，我開始意識到妳是個怎樣的人，並確信我們的相遇是一個非常特別的時刻。"
 
-# game/script-a4-lilly.rpy:5998
+# game/script-a4-lilly.rpy:6002
 translate zh_hant a4_lilly_farewell_8b1ee18e:
 
     # ha "But I…"
     ha "但我……"
 
-# game/script-a4-lilly.rpy:6000
+# game/script-a4-lilly.rpy:6004
 translate zh_hant a4_lilly_farewell_74e89e51:
 
     # "Lilly cuts her words short as she brings her hand to Hanako's head and brushes her bangs to the side, gently pressing her lips to Hanako's forehead."
     "莉莉打斷了她的話，將手放到華子的頭上，撥開她的瀏海，輕輕地在她的額頭上吻了一下。"
 
-# game/script-a4-lilly.rpy:6005
+# game/script-a4-lilly.rpy:6009
 translate zh_hant a4_lilly_farewell_d867be5a:
 
     # "As she pulls her head back, leaving Hanako all but speechless and her eyes moist, Lilly beams a wide smile."
     "當她收回頭時，華子幾乎說不出話來，眼眶濕潤，莉莉則綻放出燦爛的笑容。"
 
-# game/script-a4-lilly.rpy:6007
+# game/script-a4-lilly.rpy:6011
 translate zh_hant a4_lilly_farewell_f7cb31f8:
 
     # li "I believe you are a very beautiful person, Hanako, and I am certain that you will become a strong and confident woman."
     li "我相信妳是個非常美好的人，華子，而且我相信妳會成為一個堅強而自信的女人。"
 
-# game/script-a4-lilly.rpy:6009
+# game/script-a4-lilly.rpy:6013
 translate zh_hant a4_lilly_farewell_aaf5ff3e:
 
     # li "You are a very dear friend, and someone whom I love very much. Just like Hisao, I will never forget you for as long as I live."
     li "妳是我非常親愛的朋友，也是我非常愛的人。就像久夫一樣，只要我活著，我永遠都不會忘記妳。"
 
-# game/script-a4-lilly.rpy:6014
+# game/script-a4-lilly.rpy:6018
 translate zh_hant a4_lilly_farewell_379bea99:
 
     # li "I may be leaving, but you have your own life here to lead. Just as I do, you have your own friends and hobbies, and your own hopes after graduation. I want you to devote yourself to them, even after I'm not around any more."
     li "我也許要離開了，但妳在這裡有自己的人生要過。就像我一樣，妳有自己的朋友和嗜好，以及畢業後的希望。我希望你即使在我不在身邊後，也能全心投入其中。"
 
-# game/script-a4-lilly.rpy:6019
+# game/script-a4-lilly.rpy:6023
 translate zh_hant a4_lilly_farewell_125b77fe:
 
     # li "That is why I think you will be okay. Because you are your own self, with your own life. You yourself proved that to me."
     li "這就是為什麼我認為妳會沒事的。因為妳是妳自己，有自己的生活。是妳自己向我證明了這一點。"
 
-# game/script-a4-lilly.rpy:6024
+# game/script-a4-lilly.rpy:6028
 translate zh_hant a4_lilly_farewell_2dff8f71:
 
     # "Hanako lowers her head in embarrassment, but nods as she does so."
     "華子害羞地垂下了頭，但同時點了點頭。"
 
-# game/script-a4-lilly.rpy:6026
+# game/script-a4-lilly.rpy:6030
 translate zh_hant a4_lilly_farewell_6364306d:
 
     # ha "I… I understand…"
     ha "我……我明白了……"
 
-# game/script-a4-lilly.rpy:6028
+# game/script-a4-lilly.rpy:6032
 translate zh_hant a4_lilly_farewell_12c90793:
 
     # ha "I know I have to say goodbye… I know you have to go your own way…"
     ha "我知道我必須說再見……我知道妳必須走自己的路……"
 
-# game/script-a4-lilly.rpy:6033
+# game/script-a4-lilly.rpy:6037
 translate zh_hant a4_lilly_farewell_8826e3ff:
 
     # ha "But… thank you, Lilly. For everything."
     ha "但是……謝謝妳，莉莉。謝謝妳做的一切。"
 
-# game/script-a4-lilly.rpy:6038
+# game/script-a4-lilly.rpy:6042
 translate zh_hant a4_lilly_farewell_0009b234:
 
     # li "Thank you, Hanako. Will you be okay?"
     li "謝謝妳，華子。妳會好好的吧？"
 
-# game/script-a4-lilly.rpy:6040
+# game/script-a4-lilly.rpy:6044
 translate zh_hant a4_lilly_farewell_7350b77c:
 
     # "There are a few seconds of silence before the answer comes."
     "在得到答案前，是幾秒鐘的沉默。"
 
-# game/script-a4-lilly.rpy:6045
+# game/script-a4-lilly.rpy:6049
 translate zh_hant a4_lilly_farewell_8bfc9071:
 
     # ha "I will."
     ha "我會的。"
 
-# game/script-a4-lilly.rpy:6050
+# game/script-a4-lilly.rpy:6054
 translate zh_hant a4_lilly_farewell_15f77360:
 
     # "Lilly smiles, undoubtedly at least partly in relief."
     "莉莉笑了，無疑至少有部分是出於寬慰。"
 
-# game/script-a4-lilly.rpy:6055
+# game/script-a4-lilly.rpy:6059
 translate zh_hant a4_lilly_farewell_517ed3b0:
 
     # li "That makes me very happy, then. Goodbye."
     li "那我就很高興了。再見了。"
 
-# game/script-a4-lilly.rpy:6060
+# game/script-a4-lilly.rpy:6064
 translate zh_hant a4_lilly_farewell_6bacc818:
 
     # ha "Goodbye… Lilly."
     ha "再見……莉莉。"
 
-# game/script-a4-lilly.rpy:6065
+# game/script-a4-lilly.rpy:6069
 translate zh_hant a4_lilly_farewell_e560bced:
 
     # li "And farewell to you as well, Hisao."
     li "也跟你道別，久夫。"
 
-# game/script-a4-lilly.rpy:6067
+# game/script-a4-lilly.rpy:6071
 translate zh_hant a4_lilly_farewell_552d61f0:
 
     # hi "Goodbye. I'll miss you."
     hi "再見。我會想你的。"
 
-# game/script-a4-lilly.rpy:6072
+# game/script-a4-lilly.rpy:6076
 translate zh_hant a4_lilly_farewell_8923d8ed:
 
     # "She pauses for a moment before walking up to me. Her right hand, outstretched in front of her, takes a hold of my shoulder."
     "她停頓了一下，然後朝我走來。她伸出右手，搭在我的肩膀上。"
 
-# game/script-a4-lilly.rpy:6074
+# game/script-a4-lilly.rpy:6078
 translate zh_hant a4_lilly_farewell_9780c566:
 
     # "Her left hand slowly and daintily reaches towards my face, taking my cheek in her palm."
     "她的左手緩慢而優雅地伸向我的臉，將我的臉頰捧在手心。"
 
-# game/script-a4-lilly.rpy:6079
+# game/script-a4-lilly.rpy:6083
 translate zh_hant a4_lilly_farewell_b6985118:
 
     # "For a while she simply holds my face, her fingers just slightly moving to take in its contours. Usually her hand would be warm when doing such a thing, but the night air's given her skin a cool edge."
     "有一會兒，她只是捧著我的臉，手指輕微地移動，感受著它的輪廓。通常她這麼做時，手是溫暖的，但夜晚的空氣讓她的皮膚帶了一絲涼意。"
 
-# game/script-a4-lilly.rpy:6081
+# game/script-a4-lilly.rpy:6085
 translate zh_hant a4_lilly_farewell_fccef445:
 
     # "I'm not sure how long we stay like this, her clouded eyes pointed just below my own as she wears a wistful, almost distant smile. Eventually, though, I take her cold hand in mine."
     "我不確定我們這樣待了多久，她朦朧的雙眼望著我的下方，臉上帶著一抹惆悵、近乎遙遠的微笑。不過，最終我還是將她冰冷的手握在我的手中。"
 
-# game/script-a4-lilly.rpy:6083
+# game/script-a4-lilly.rpy:6087
 translate zh_hant a4_lilly_farewell_a6c4bcb5:
 
     # "It's difficult to do so, but with a slight sigh I gently remove her hand from my cheek."
     "這麼做很困難，但我還是輕嘆一聲，溫柔地將她的手從我的臉頰上移開。"
 
-# game/script-a4-lilly.rpy:6085
+# game/script-a4-lilly.rpy:6089
 translate zh_hant a4_lilly_farewell_d9cccd3b:
 
     # hi "I hope you have a long and happy life, Lilly, no matter where you might go."
     hi "我希望妳無論去哪裡，都能幸福的生活，一直到老，莉莉。"
 
-# game/script-a4-lilly.rpy:6090
+# game/script-a4-lilly.rpy:6094
 translate zh_hant a4_lilly_farewell_8203cabc:
 
     # li "Thank you. I'll make sure to."
     li "謝謝你。我會的。"
 
-# game/script-a4-lilly.rpy:6092
+# game/script-a4-lilly.rpy:6096
 translate zh_hant a4_lilly_farewell_f5d06184:
 
     # "She takes a long, trembling breath before turning slightly towards Akira's direction."
     "她顫抖地深吸了一口氣，然後微微轉向晃的方向。"
 
-# game/script-a4-lilly.rpy:6097
+# game/script-a4-lilly.rpy:6101
 translate zh_hant a4_lilly_farewell_3c81d0b5:
 
     # li "Akira…"
     li "晃……"
 
-# game/script-a4-lilly.rpy:6102
+# game/script-a4-lilly.rpy:6106
 translate zh_hant a4_lilly_farewell_d1001687:
 
     # aki "Okay."
     aki "好的。"
 
-# game/script-a4-lilly.rpy:6109
+# game/script-a4-lilly.rpy:6113
 translate zh_hant a4_lilly_farewell_047d844d:
 
     # "With a nod, she takes Lilly's hand and begins to guide her to the car parked outside the gates. They both walk slowly and deliberately, as if their movements had been rehearsed in advance."
     "她點了點頭，牽起莉莉的手，引導她走向停在門外的車。她們倆走得緩慢而從容，動作彷彿是事先排練過的一樣。"
 
-# game/script-a4-lilly.rpy:6111
+# game/script-a4-lilly.rpy:6115
 translate zh_hant a4_lilly_farewell_c20f7329:
 
     # "It's strange to feel like this now, watching somebody leave Yamaku. The feeling of unease I have now reminds me of the first time I walked through those black wrought iron gates, that always looked far too pompous for what they were."
     "看著一個人離開山久高校，這種感覺很奇怪。讓我想起第一次走過那些黑色鍛鐵大門時的不安。那些門看起來總比它們的用途浮誇許多。"
 
-# game/script-a4-lilly.rpy:6113
+# game/script-a4-lilly.rpy:6117
 translate zh_hant a4_lilly_farewell_d6841d06:
 
     # "As they leave, all of us know full well that our lives are irreversibly changing. I'd always told myself that I just have to take life as it comes, but everything's changing so fast, so suddenly."
     "她們離開時，我們所有人都明白，我們的生命已經不可避免地要被改變了。我總是對自己說，順其自然就好。但一切都變得太快、太突然了。"
 
-# game/script-a4-lilly.rpy:6115
+# game/script-a4-lilly.rpy:6119
 translate zh_hant a4_lilly_farewell_ad311e02:
 
     # "In the end, Lilly's an irreplaceable part of the lives of both Hanako and me."
     "畢竟，莉莉對我和華子來說，已經是生命中不可替代的一部分了。"
 
-# game/script-a4-lilly.rpy:6117
+# game/script-a4-lilly.rpy:6121
 translate zh_hant a4_lilly_farewell_19040f0b:
 
     # "The noise of Akira opening the passenger door for Lilly brings me out of my thoughts, her hand waving back as Lilly gets in."
     "晃為莉莉打開車門的聲音讓我回過神來，她向後招了招手，莉莉坐進了車裡。"
 
-# game/script-a4-lilly.rpy:6122
+# game/script-a4-lilly.rpy:6126
 translate zh_hant a4_lilly_farewell_f0115e92:
 
     # aki "Seeya guys! Take care of yourselves!"
     aki "再見啦，各位！照顧好自己！"
 
-# game/script-a4-lilly.rpy:6127
+# game/script-a4-lilly.rpy:6131
 translate zh_hant a4_lilly_farewell_01df98bf:
 
     # li "Goodbye Hanako, goodbye Hisao!"
     li "再見，華子！再見，久夫！"
 
-# game/script-a4-lilly.rpy:6132
+# game/script-a4-lilly.rpy:6136
 translate zh_hant a4_lilly_farewell_69e37314:
 
     # "Hanako's hand quickly shoots up, her face brightened by her enthusiastic farewell."
     "華子立刻舉起手揮了起來，激動地道著別，面容彷彿被點亮了。"
 
-# game/script-a4-lilly.rpy:6134
+# game/script-a4-lilly.rpy:6138
 translate zh_hant a4_lilly_farewell_ca4712cc:
 
     # ha "Goodbye Lilly! Goodbye!"
     ha "再見，莉莉！再見！"
 
-# game/script-a4-lilly.rpy:6136
+# game/script-a4-lilly.rpy:6140
 translate zh_hant a4_lilly_farewell_3a680758:
 
     # hi "See you, Akira, and goodbye Lilly!"
     hi "再見，晃！再見，莉莉！"
 
-# game/script-a4-lilly.rpy:6142
+# game/script-a4-lilly.rpy:6146
 translate zh_hant a4_lilly_farewell_57b79083:
 
     # "The door shuts as we all put on our best happy farewell faces, Akira getting in the car herself and starting it up in short measure."
     "我們做出了告別時能表現出的最開心的表情。門關了，晃坐進了車中，片刻之後就啓動了引擎。"
 
-# game/script-a4-lilly.rpy:6144
+# game/script-a4-lilly.rpy:6148
 translate zh_hant a4_lilly_farewell_0aa76c0a:
 
     # "Lilly's hand can just be seen waving through the tinted windows, both of our hands waving high as well."
     "透過隔熱紙，勉強能看到莉莉揮動的手，我們倆也高高地揮著手。"
 
-# game/script-a4-lilly.rpy:6146
+# game/script-a4-lilly.rpy:6150
 translate zh_hant a4_lilly_farewell_30918448:
 
     # "Just as every other time I've done such things, I can't quite work out precisely why I, or Hanako, wave to her given that she'd never see us doing so. But it doesn't matter."
     "就和我從前一次次做類似的事時一樣，我不能弄清為什麼我，或是華子都明明知道她根本看不見我們這麼做，可還是在向她揮手。但這些都不重要了。"
 
-# game/script-a4-lilly.rpy:6148
+# game/script-a4-lilly.rpy:6152
 translate zh_hant a4_lilly_farewell_69789983:
 
     # "Even after that black, shiny car goes down the hill and disappears into the dark night, we carry on waving and seeing Akira and Lilly off."
     "就算當那輛亮閃閃的黑車駛下山坡，消失進黑夜中時，我們也依舊揮著手，望著莉莉和晃離開。"
 
-# game/script-a4-lilly.rpy:6152
+# game/script-a4-lilly.rpy:6156
 translate zh_hant a4_lilly_farewell_a7f3aa78:
 
     # "And then… they're gone."
     "然後……她們就走了。"
 
-# game/script-a4-lilly.rpy:6158
+# game/script-a4-lilly.rpy:6162
 translate zh_hant a4_lilly_farewell_6eb63240:
 
     # "A strange stillness takes over as our hands return to our sides."
     "當我們把手放下後，一片異樣的寂靜籠罩著四周。"
 
-# game/script-a4-lilly.rpy:6160
+# game/script-a4-lilly.rpy:6164
 translate zh_hant a4_lilly_farewell_dd7606c1:
 
     # "I don't quite know what I should do or how I should feel. In the end, we just stand there silently staring down at where the car disappeared from sight."
     "我不知道自己該做什麼，該感覺到什麼。最後，我們僅僅是站在那裡一聲不吭，望著汽車消失的地方。"
 
-# game/script-a4-lilly.rpy:6162
+# game/script-a4-lilly.rpy:6166
 translate zh_hant a4_lilly_farewell_6bacc818_1:
 
     # ha "Goodbye… Lilly."
     ha "再見……莉莉。"
 
-# game/script-a4-lilly.rpy:6167
+# game/script-a4-lilly.rpy:6171
 translate zh_hant a4_lilly_farewell_dbfdfe49:
 
     # "All I can do in response to her quiet, mournful goodbye is to place a hand on her shoulder."
     "我只能把手放在她的肩上，去回應她小聲又悲傷的告別。"
 
-# game/script-a4-lilly.rpy:6172
+# game/script-a4-lilly.rpy:6176
 translate zh_hant a4_lilly_farewell_cb55230d:
 
     # "She looks at me for a few moments before looking back down the hill, secure in the knowledge that I'm still around for her."
     "她看了我一會兒，然後又重新望了望山坡，當意識到我依舊在她身邊時，她稍稍放了心。"
 
-# game/script-a4-lilly.rpy:6174
+# game/script-a4-lilly.rpy:6178
 translate zh_hant a4_lilly_farewell_f3fbaa5a:
 
     # "What we'll do from now doesn't seem all that uncertain. We all have our own ambitions now, just as Lilly said."
     "現在不論我們要做什麼，似乎都沒有那麼縹緲不定了。和莉莉說的一樣，我們現在都有了自己的目標。"
 
-# game/script-a4-lilly.rpy:6176
+# game/script-a4-lilly.rpy:6180
 translate zh_hant a4_lilly_farewell_70bd43a9:
 
     # "But even so, it feels like there's a certain missing part in both of our lives now. Something that can never be replaced."
     "可是就算如此，我還是感覺我們的生命都缺少了一部分。而那部分，卻再也沒辦法被填補上了。"
 
-# game/script-a4-lilly.rpy:6195
+# game/script-a4-lilly.rpy:6200
 translate zh_hant a4_lilly_false_cadence_c230e22c:
 
     # "The snap of my mobile phone's closing contrasts with the ambient chatter and noise audible even in the hallway outside the library."
     "我關上手機發出的噼啪聲和周圍的攀談聲形成了鮮明的對比，那聲音就算在圖書館外的走廊裡也能聽見。"
 
-# game/script-a4-lilly.rpy:6197
+# game/script-a4-lilly.rpy:6202
 translate zh_hant a4_lilly_false_cadence_bf9a40af:
 
     # "It's the first day of the summer holidays. A time that had perpetually seemed so far away, and yet it's now not only here but also made painfully obvious by the students, or lack thereof, left in the school."
     "今天是暑假的第一天。通常這個日子都顯得非常遙遠，可現在它不僅已經來臨了，而且學生們讓它的存在變得異常明顯，或者應該說，就是因為學校裡已經不剩多少學生了，才顯得明顯的。"
 
-# game/script-a4-lilly.rpy:6199
+# game/script-a4-lilly.rpy:6204
 translate zh_hant a4_lilly_false_cadence_42240c69:
 
     # "Most students have returned home to spend the holidays with relatives by now. The few that are left are mostly chatting between themselves, usually about what they intend to do in the coming weeks."
     "大多數學生都已經回家和親人一起過暑假了。少數留下的多半在互相聊天，談論著他們接下幾週的計劃。"
 
-# game/script-a4-lilly.rpy:6201
+# game/script-a4-lilly.rpy:6206
 translate zh_hant a4_lilly_false_cadence_364b5e21:
 
     # "It makes me feel like the odd one out, for taking advantage of the school library being open for the first several days of the holidays."
     "圖書館在假期的頭幾天裡還是開著的，我抓緊這機會去裡面看書，但是感覺自己有些格格不入。"
 
-# game/script-a4-lilly.rpy:6203
+# game/script-a4-lilly.rpy:6208
 translate zh_hant a4_lilly_false_cadence_f303d1f5:
 
     # "Ostensibly it's for students to drop off any books they've borrowed and have yet to return, and for those who'll have their parents pick them up, to help pass the time until they get whisked away."
     "按理來說，圖書館現在開門是為了讓學生們能歸還那些他們借走的書，或者是在那些等著家長來接的學生們離開前，讓他們消磨一下時間。"
 
-# game/script-a4-lilly.rpy:6205
+# game/script-a4-lilly.rpy:6210
 translate zh_hant a4_lilly_false_cadence_a4d8e6c2:
 
     # "Thanks to the recent lengthy phone call from my parents, which had so rudely woken me from my sleeping on a beanbag at the back of the library, I'm now in the latter category."
     "就在剛才我的父母給我打了個很長的電話，把我從圖書館後面的豆袋椅上粗暴地吵醒了，所以我是屬於後面那一類的。"
 
-# game/script-a4-lilly.rpy:6207
+# game/script-a4-lilly.rpy:6212
 translate zh_hant a4_lilly_false_cadence_2268f38f:
 
     # "Sliding my phone back into my pocket, this time remembering to set it to silent, I go back into the quiet and wholly placid room."
     "我把手機放回了口袋，這次記得把它設成靜音了，接著，我回到了那個寂靜的房內。"
 
-# game/script-a4-lilly.rpy:6212
+# game/script-a4-lilly.rpy:6217
 translate zh_hant a4_lilly_false_cadence_1ec16507:
 
     # "It's a nostalgic sight. Just as when Lilly first led me to the library, the orange tint of sunset bathes the room in its light while Hanako sits on a beanbag silently reading and Yuuko fusses, just barely visible behind the counter."
     "這景象真讓人懷戀。就像是莉莉第一次帶我去圖書館時那樣，一抹日落餘輝將房間沐浴在橘光中，華子安靜地坐在豆椅裡。優子正忙得團團轉，幾乎消失在櫃檯後了。"
 
-# game/script-a4-lilly.rpy:6214
+# game/script-a4-lilly.rpy:6219
 translate zh_hant a4_lilly_false_cadence_a22c10e9:
 
     # "Hanako especially has been noticeably more quiet than usual since yesterday's happenings, but I can't really blame her."
     "自從昨天的事之後，華子變得特別沉默寡言，沒辦法怪她。"
 
-# game/script-a4-lilly.rpy:6216
+# game/script-a4-lilly.rpy:6221
 translate zh_hant a4_lilly_false_cadence_e41e40d4:
 
     # "It wasn't just me that depended on that person, after all."
     "畢竟，並不只有我一個人曾依賴著莉莉。"
 
-# game/script-a4-lilly.rpy:6218
+# game/script-a4-lilly.rpy:6223
 translate zh_hant a4_lilly_false_cadence_73a1044c:
 
     # "I quietly walk back to the beanbag near her where I'd sat before, being doubly careful not to make any unnecessary noise."
     "我靜靜地走到了她身邊，我常坐著的豆椅旁，非常小心地不弄出任何噪音。"
 
-# game/script-a4-lilly.rpy:6226
+# game/script-a4-lilly.rpy:6231
 translate zh_hant a4_lilly_false_cadence_fc506990:
 
     # "The soft puff it gives as the bag takes my weight makes Hanako's eyes flick towards me, but only for a second."
     "我坐進豆椅時，它還是發出了“噗”的一聲，華子的目光迅速轉向了我，但也只有一瞬間。"
 
-# game/script-a4-lilly.rpy:6228
+# game/script-a4-lilly.rpy:6233
 translate zh_hant a4_lilly_false_cadence_5ae069f6:
 
     # "I get the feeling that Hanako's been quiet only partly out of sadness following Lilly's departure."
     "我有感覺，華子現在這麼安靜，有一部分是因為莉莉離開的悲傷。"
 
-# game/script-a4-lilly.rpy:6230
+# game/script-a4-lilly.rpy:6235
 translate zh_hant a4_lilly_false_cadence_3f5aa039:
 
     # "Rather, she seems more thoughtful and measured than I'd expected; perhaps due to her desire of working out how to deal with Lilly's leaving rather than just being depressed over it. It makes me a little proud of her."
     "她若有所思的樣子看起來比我想的更冷靜；可能是因為她更積極的去面對如何繼續莉莉離開之後的生活，而不是僅僅沉溺於悲傷之中。這讓我有些為她感到驕傲。"
 
-# game/script-a4-lilly.rpy:6232
+# game/script-a4-lilly.rpy:6237
 translate zh_hant a4_lilly_false_cadence_8dd5cb23:
 
     # hi "Hey, Hanako?"
     hi "嗨，華子？"
 
-# game/script-a4-lilly.rpy:6237
+# game/script-a4-lilly.rpy:6242
 translate zh_hant a4_lilly_false_cadence_8af76095:
 
     # ha "Y-yeah?"
     ha "怎——怎麼了？"
 
-# game/script-a4-lilly.rpy:6239
+# game/script-a4-lilly.rpy:6244
 translate zh_hant a4_lilly_false_cadence_15f3fe9d:
 
     # hi "Still going ahead with your idea of traveling?"
     hi "還在準備旅行的事嗎？"
 
-# game/script-a4-lilly.rpy:6241
+# game/script-a4-lilly.rpy:6246
 translate zh_hant a4_lilly_false_cadence_040d40ca:
 
     # "She gives a determined nod."
     "她堅定地點了點頭。"
 
-# game/script-a4-lilly.rpy:6243
+# game/script-a4-lilly.rpy:6248
 translate zh_hant a4_lilly_false_cadence_2d2f501a:
 
     # ha "I'll be starting in a day or two. Naomi's decided to come with me, too."
     ha "我再過一兩天就會出發了，直美也要和我一起去的。"
 
-# game/script-a4-lilly.rpy:6245
+# game/script-a4-lilly.rpy:6250
 translate zh_hant a4_lilly_false_cadence_8965ccce:
 
     # hi "Wow, quick start. Where're you two headed to first?"
     hi "噢，這麼快。你們兩個想先去哪兒？"
 
-# game/script-a4-lilly.rpy:6247
+# game/script-a4-lilly.rpy:6252
 translate zh_hant a4_lilly_false_cadence_e4dc2de0:
 
     # ha "I think we're going to start by going north… then loop down and go southward."
     ha "我覺得應該會先去北邊……然後回頭往南走。"
 
-# game/script-a4-lilly.rpy:6249
+# game/script-a4-lilly.rpy:6254
 translate zh_hant a4_lilly_false_cadence_d86b2ae0:
 
     # hi "So… Hokkaido's going to be first?"
-        "也就是說……會先去北海道嗎？"
+    hi "也就是說……會先去北海道嗎？"
 
-# game/script-a4-lilly.rpy:6251
+# game/script-a4-lilly.rpy:6256
 translate zh_hant a4_lilly_false_cadence_ec5d998a:
 
     # "She gives another nod, more tentative than the last. The significance of that place is not lost on either of us."
     "她再次點了點頭，比上次要猶豫一些。那個地方對於我們的意義還沒有被遺忘。"
 
-# game/script-a4-lilly.rpy:6253
+# game/script-a4-lilly.rpy:6258
 translate zh_hant a4_lilly_false_cadence_3aac17eb:
 
     # hi "Do you know how you're going to handle the traveling expenses and accommodations?"
     hi "妳們想好該怎麼處理旅行費和住宿的問題了嗎？"
 
-# game/script-a4-lilly.rpy:6255
+# game/script-a4-lilly.rpy:6260
 translate zh_hant a4_lilly_false_cadence_5d51648c:
 
     # ha "Yeah, I've worked everything out. I think it should be okay. Naomi says she has her side worked out, too."
     ha "想好了，我把所有都計劃好了。我感覺應該會沒事的。直美說她把她負責的那些事也搞定了。"
 
-# game/script-a4-lilly.rpy:6257
+# game/script-a4-lilly.rpy:6262
 translate zh_hant a4_lilly_false_cadence_0ffaf789:
 
     # hi "You know that if you need anything you can just call, right? I gave you my number before. Any time of the day is fine."
     hi "如果你需要幫忙就打電話給我，任何事，妳知道的吧？我已經把號碼給妳了，什麼時候打都可以的。"
 
-# game/script-a4-lilly.rpy:6262
+# game/script-a4-lilly.rpy:6267
 translate zh_hant a4_lilly_false_cadence_5d116a26:
 
     # "She gives a smile, which in itself feels like a small personal victory."
     "她對我笑了笑，看上去就像她個人的一次小小勝利。"
 
-# game/script-a4-lilly.rpy:6264
+# game/script-a4-lilly.rpy:6269
 translate zh_hant a4_lilly_false_cadence_297ee17f:
 
     # ha "I know."
     ha "我知道。"
 
-# game/script-a4-lilly.rpy:6266
+# game/script-a4-lilly.rpy:6271
 translate zh_hant a4_lilly_false_cadence_ade826ab:
 
     # ha "Th-thanks… Hisao."
     ha "謝——謝謝……久夫。"
 
-# game/script-a4-lilly.rpy:6268
+# game/script-a4-lilly.rpy:6273
 translate zh_hant a4_lilly_false_cadence_bfc017a5:
 
     # "Maybe Lilly was right. Although I may offer Hanako any help I can possibly give, I feel as if I know she doesn't need it."
     "也許莉莉說對了，雖然我是很願意給予華子任何力所能及的幫助的，但我感覺自己明白，她其實根本不需要這些。"
 
-# game/script-a4-lilly.rpy:6270
+# game/script-a4-lilly.rpy:6275
 translate zh_hant a4_lilly_false_cadence_a996223f:
 
     # "She really has grown."
     "她真的已經成長了。"
 
-# game/script-a4-lilly.rpy:6274
+# game/script-a4-lilly.rpy:6279
 translate zh_hant a4_lilly_false_cadence_76b2fe88:
 
     # nvl clear
     nvl clear
 
-# game/script-a4-lilly.rpy:6277
+# game/script-a4-lilly.rpy:6282
 translate zh_hant a4_lilly_false_cadence_0686fd77:
 
     # n "{vspace=90}Hanako's plans for her holidays are in sharp contrast to my simple following of my parents' suggestion to stay with them."
     n "{vspace=90}華子的暑假計劃和我的形成了鮮明的對比，我只是在遵從父母的建議而已，和他們待在一起。"
 
-# game/script-a4-lilly.rpy:6279
+# game/script-a4-lilly.rpy:6284
 translate zh_hant a4_lilly_false_cadence_a462eee3:
 
     # n "Holidays had always made me feel less excited than most, though, so maybe this is just a return to the status quo."
     n "不過，假期對我而言，總是沒有別人眼中那麼刺激，可能只是回到了現狀而已。"
 
-# game/script-a4-lilly.rpy:6281
+# game/script-a4-lilly.rpy:6286
 translate zh_hant a4_lilly_false_cadence_68647169:
 
     # n "{vspace=30}Before my heart attack, I'd always lived so aimlessly that holidays weren't all that much different from my everyday life anyway."
     n "{vspace=30}在我得到心臟病之前，總是漫無目的地活著，假期和我的日常生活相比，幾乎沒有多少差別。"
 
-# game/script-a4-lilly.rpy:6283
+# game/script-a4-lilly.rpy:6288
 translate zh_hant a4_lilly_false_cadence_e541360b:
 
     # n "After school I'd wander around a bit in the city, often hanging out with some friends, before making my way home to eat dinner with usually one of my parents, but rarely both."
     n "放學之後，我會在市區裡閒晃，有時會和一些朋友一起玩耍，然後回家和父親或母親一起吃飯。他們兩個很少同時在場。"
 
-# game/script-a4-lilly.rpy:6285
+# game/script-a4-lilly.rpy:6290
 translate zh_hant a4_lilly_false_cadence_946ed15d:
 
     # n "Their work schedules didn't leave much time for them to be home, and going there straight from school would just have meant I'd end up feeling bored. I was an urbanite through and through."
     n "他們的工作讓他們沒多少時間在家，而放學直接回家的話又會太無聊。我是個徹徹底底的都市人。"
 
-# game/script-a4-lilly.rpy:6287
+# game/script-a4-lilly.rpy:6292
 translate zh_hant a4_lilly_false_cadence_396ba483:
 
     # nvl clear
@@ -10262,313 +10266,313 @@ translate zh_hant a4_lilly_false_cadence_396ba483:
     nvl clear
     n "{vspace=90}可是，自從進了山久高校之後，我感覺我從本質上有了改變。總之，和父母通了電話之後，我更不再懷疑了。"
 
-# game/script-a4-lilly.rpy:6291
+# game/script-a4-lilly.rpy:6296
 translate zh_hant a4_lilly_false_cadence_1bb18757:
 
     # n "While before I had exercised a fairly normal level of independence for a teenager, that being not a whole lot, my parents were more than pleased to hear of my newfound ability in taking care of myself."
     n "在我還沒達到青少年應有的獨立程度時，我的父母是很願意得知我能照顧好自己的，雖然那獨立程度其實很淺。"
 
-# game/script-a4-lilly.rpy:6293
+# game/script-a4-lilly.rpy:6298
 translate zh_hant a4_lilly_false_cadence_34a8e981:
 
     # n "Laundry, cooking for myself, cleaning, all in addition to other general chores that come from living without parents around… just little menial things I've had to pick up, but with relative ease."
     n "為自己洗衣服，煮飯，打掃清潔，再加上其他那些獨自生活時的普通家事……只是一些相對比較容易，我必須做的小事。"
 
-# game/script-a4-lilly.rpy:6295
+# game/script-a4-lilly.rpy:6300
 translate zh_hant a4_lilly_false_cadence_24ff359c:
 
     # n "{vspace=30}When I think about it, I'd always depended on them, even if they hadn't been at home all the time. To say I never depended on anyone after moving to the Yamaku dormitories would be far from the truth, though."
     n "{vspace=30}當我回想起來時，我意識到自己總是在依賴他們，哪怕他們根本不怎麼回家。不過，我也沒法說自己進入山久高校後，就能獨立生活了。"
 
-# game/script-a4-lilly.rpy:6299
+# game/script-a4-lilly.rpy:6304
 translate zh_hant a4_lilly_false_cadence_76b2fe88_1:
 
     # nvl clear
     nvl clear
 
-# game/script-a4-lilly.rpy:6302
+# game/script-a4-lilly.rpy:6307
 translate zh_hant a4_lilly_false_cadence_bc3775af:
 
     # yu "Um… excuse me…"
     yu "呃……打擾一下……"
 
-# game/script-a4-lilly.rpy:6310
+# game/script-a4-lilly.rpy:6315
 translate zh_hant a4_lilly_false_cadence_9f61e688:
 
     # "The two of us look up at the awkwardly fidgeting figure in front of us. Some things never change."
     "我們兩人抬頭看向面前那個尷尬的身影，有的事真是永遠都不會變。"
 
-# game/script-a4-lilly.rpy:6315
+# game/script-a4-lilly.rpy:6320
 translate zh_hant a4_lilly_false_cadence_b0c07444:
 
     # yu "It's getting close to closing time, so um…"
     yu "馬上就要到關門的時間了，所以，呃……"
 
-# game/script-a4-lilly.rpy:6317
+# game/script-a4-lilly.rpy:6322
 translate zh_hant a4_lilly_false_cadence_7fec998d:
 
     # "Oh, right. I'd forgotten that the library closes earlier during the holidays."
     "噢，對。我都忘了圖書館在假期裡會提前關門的。"
 
-# game/script-a4-lilly.rpy:6319
+# game/script-a4-lilly.rpy:6324
 translate zh_hant a4_lilly_false_cadence_2f930d15:
 
     # "Hanako and I both get up and dust ourselves off, placing our books back on the shelf behind us. The fact that our tastes in reading material have a fair amount of overlap is useful at times."
     "我和華子起身彈了彈身上的灰，把書放回了我們身後的書架上。我們兩人的閱讀喜好相近，有時真的挺方便的。"
 
-# game/script-a4-lilly.rpy:6321
+# game/script-a4-lilly.rpy:6326
 translate zh_hant a4_lilly_false_cadence_b643ba71:
 
     # "With a bow to Yuuko to apologize for taking so much time, Hanako takes her leave of us."
     "華子朝優子鞠了一躬，對佔用太多時間表示歉意，然後準備離開。"
 
-# game/script-a4-lilly.rpy:6330
+# game/script-a4-lilly.rpy:6335
 translate zh_hant a4_lilly_false_cadence_c64c5648:
 
     # ha "See you tomorrow, Hisao."
     ha "明天見，久夫。"
 
-# game/script-a4-lilly.rpy:6332
+# game/script-a4-lilly.rpy:6337
 translate zh_hant a4_lilly_false_cadence_361fdc97:
 
     # hi "Bye."
     hi "拜拜。"
 
-# game/script-a4-lilly.rpy:6337
+# game/script-a4-lilly.rpy:6342
 translate zh_hant a4_lilly_false_cadence_02a5ba22:
 
     # "And with that, she walks out of the large, wooden, aging doors that herald the entrance to the library."
     "說完，她步出了圖書館那道久經風霜的大木門。"
 
-# game/script-a4-lilly.rpy:6345
+# game/script-a4-lilly.rpy:6350
 translate zh_hant a4_lilly_false_cadence_ead28dda:
 
     # yu "She's a quiet person, isn't she?"
     yu "她好安靜啊，對吧？"
 
-# game/script-a4-lilly.rpy:6347
+# game/script-a4-lilly.rpy:6352
 translate zh_hant a4_lilly_false_cadence_5d478777:
 
     # "I suppose I should be surprised at a staff member sharing personal opinions like this, but after knowing Yuuko for a while it's largely expected. Our relationship is more personal, rather than one with her acting as an authority figure."
     "學校的教職員居然會這樣分享個人觀察，我覺得我應該會要驚訝的，但我已經認識優子一段時間了，所以也不奇怪。我們的關係還是比較輕鬆的，她也沒有像個管理員一樣對待我。"
 
-# game/script-a4-lilly.rpy:6349
+# game/script-a4-lilly.rpy:6354
 translate zh_hant a4_lilly_false_cadence_c21c1acf:
 
     # hi "Yeah, I think that's just how she is."
     hi "是啊，或許她就是那樣。"
 
-# game/script-a4-lilly.rpy:6351
+# game/script-a4-lilly.rpy:6356
 translate zh_hant a4_lilly_false_cadence_a641a8a5:
 
     # hi "She's got a lot more confidence in herself these days, though."
     hi "不過，她現在比以前自信多了。"
 
-# game/script-a4-lilly.rpy:6356
+# game/script-a4-lilly.rpy:6361
 translate zh_hant a4_lilly_false_cadence_06131093:
 
     # yu "I don't know her as well as you do, but I think I agree. It's nice to see her talking to people here; she never used to do that before."
     yu "我和她沒你和她那麼熟，不過，我也這麼覺得。能看她和這裡的人說話挺好的，以前她從不會這樣。"
 
-# game/script-a4-lilly.rpy:6358
+# game/script-a4-lilly.rpy:6363
 translate zh_hant a4_lilly_false_cadence_a0c35a68:
 
     # hi "Hey, Yuuko… you know about Lilly's leaving, right?"
     hi "呃，優子……你知道莉莉走了的事，對吧？"
 
-# game/script-a4-lilly.rpy:6363
+# game/script-a4-lilly.rpy:6368
 translate zh_hant a4_lilly_false_cadence_99e7f5ee:
 
     # yu "She told me herself a few days ago. It must be hard, leaving everyone behind like she is."
     yu "幾天前她自己告訴過我了。這一定很困難吧，把一切都拋在身後。"
 
-# game/script-a4-lilly.rpy:6365
+# game/script-a4-lilly.rpy:6370
 translate zh_hant a4_lilly_false_cadence_2de151c9:
 
     # "She quickly looks back to me after she says this, probably remembering that I went to her for advice on the relationship between Lilly and me before."
     "她說完後，迅速看了我一眼，可能是想到我以前曾向她問過我和莉莉之間的事。"
 
-# game/script-a4-lilly.rpy:6370
+# game/script-a4-lilly.rpy:6375
 translate zh_hant a4_lilly_false_cadence_c07bcaeb:
 
     # yu "Are you going to be okay?"
     yu "你會沒事的吧？"
 
-# game/script-a4-lilly.rpy:6372
+# game/script-a4-lilly.rpy:6377
 translate zh_hant a4_lilly_false_cadence_2eb33a74:
 
     # "That's… a difficult question. It's something I'd rather not think about for now, though, given more pressing issues."
     "這……太難回答了。但我現在不想去思考這些事，很多讓我壓力更大更優先的事。"
 
-# game/script-a4-lilly.rpy:6374
+# game/script-a4-lilly.rpy:6379
 translate zh_hant a4_lilly_false_cadence_ff563af7:
 
     # hi "Something seems kind of off about this whole deal, don't you think?"
     hi "整個世界好像有一些不太對勁，妳覺得呢？"
 
-# game/script-a4-lilly.rpy:6376
+# game/script-a4-lilly.rpy:6381
 translate zh_hant a4_lilly_false_cadence_f7fab151:
 
     # "Yuuko appears to think for a while, absentmindedly scrunching her face up in a variety of creative ways as she does so."
     "優子似乎琢磨了片刻，同時心不在焉地把臉皺成各種奇特的模樣。"
 
-# game/script-a4-lilly.rpy:6381
+# game/script-a4-lilly.rpy:6386
 translate zh_hant a4_lilly_false_cadence_e00e7b50:
 
     # yu "I don't think I really know her well enough to make that kind of judgment."
     yu "我覺得我和她不夠熟，沒辦法判斷。"
 
-# game/script-a4-lilly.rpy:6383
+# game/script-a4-lilly.rpy:6388
 translate zh_hant a4_lilly_false_cadence_470fe4d4:
 
     # yu "I'm sorry I can't be more help."
     yu "抱歉我好像幫不上什麼忙。"
 
-# game/script-a4-lilly.rpy:6385
+# game/script-a4-lilly.rpy:6390
 translate zh_hant a4_lilly_false_cadence_94da5892:
 
     # hi "Nah, that's fine. I'm just sort of thinking aloud."
     hi "沒關係，沒事的。我只是把想的事說出來而已。"
 
-# game/script-a4-lilly.rpy:6387
+# game/script-a4-lilly.rpy:6392
 translate zh_hant a4_lilly_false_cadence_353629b3:
 
     # "I give a deep sigh and scratch my head in frustration."
     "我深深嘆了口氣，沮喪地抓了抓頭。"
 
-# game/script-a4-lilly.rpy:6389
+# game/script-a4-lilly.rpy:6394
 translate zh_hant a4_lilly_false_cadence_592ba264:
 
     # hi "There's just so much stuff happening at once that I have no control over… it feels like I'm being swamped."
     hi "現在一下子發生的事太多了，我根本沒法處理……我感覺自己像是被淹沒了一樣。"
 
-# game/script-a4-lilly.rpy:6394
+# game/script-a4-lilly.rpy:6399
 translate zh_hant a4_lilly_false_cadence_a02466f6:
 
     # yu "I think everyone goes through times like that."
     yu "我覺得每個人都會有這樣的經歷吧。"
 
-# game/script-a4-lilly.rpy:6396
+# game/script-a4-lilly.rpy:6401
 translate zh_hant a4_lilly_false_cadence_e1938c88:
 
     # yu "What's important is to concentrate on what you can do, rather than what you can't do. At least, that's how I see it."
     yu "重要的是集中注意力去做自己力所能及的事，不是去試自己改變不了的東西。至少我是這麼想的。"
 
-# game/script-a4-lilly.rpy:6401
+# game/script-a4-lilly.rpy:6406
 translate zh_hant a4_lilly_false_cadence_ae244c9c:
 
     # yu "If I didn't think like that, I don't think I'd be able to manage my life as it is."
     yu "如果我不這麼想，就沒法處理好自己的生活了。"
 
-# game/script-a4-lilly.rpy:6403
+# game/script-a4-lilly.rpy:6408
 translate zh_hant a4_lilly_false_cadence_f5959cf3:
 
     # "She says it with a smile and a light tone, but her words are far from any kind of joke. Being pulled between two jobs as she is, just to hopefully make enough money not only to live, but also for university, must be exhausting."
     "她說這話時語調很輕鬆，帶著微笑，可是那話卻一點也不是在開玩笑。她得周旋在兩份工作之間，一切都是為了存大學的學費，這一定非常折磨人。"
 
-# game/script-a4-lilly.rpy:6405
+# game/script-a4-lilly.rpy:6410
 translate zh_hant a4_lilly_false_cadence_d6bee763:
 
     # "Perhaps that's why, coming from her, this feels like it has more meaning than if it had come from most others."
     "或許這就是為什麼聽這話從她嘴裡面說出來，比其他人要更有說服力。"
 
-# game/script-a4-lilly.rpy:6407
+# game/script-a4-lilly.rpy:6412
 translate zh_hant a4_lilly_false_cadence_c748970c:
 
     # hi "I guess you've got a point there."
     hi "有道理。"
 
-# game/script-a4-lilly.rpy:6409
+# game/script-a4-lilly.rpy:6414
 translate zh_hant a4_lilly_false_cadence_fedcdbbb:
 
     # hi "Thank you for your advice once again, Yuuko."
     hi "謝謝妳的建議，優子。"
 
-# game/script-a4-lilly.rpy:6422
+# game/script-a4-lilly.rpy:6427
 translate zh_hant a4_lilly_false_cadence_b0e1783e:
 
     # "She bows deeply and smiles again, before making her way back to the counter where she spends so much of her time."
     "她深深鞠了一躬，又笑了笑，接著回到了櫃檯背後--她一直在忙著的地方。"
 
-# game/script-a4-lilly.rpy:6429
+# game/script-a4-lilly.rpy:6434
 translate zh_hant a4_lilly_false_cadence_8e53c0d9:
 
     # "The tiny wings of the cardboard crane in my fingers are only just visible in the dim light of my room, just a little of the moonlight being able to peek through the curtains and around their edges."
     "微弱的月光透過了我房間窗簾縫隙邊緣，紙鶴的小翅膀在晦暗的光線下，僅僅勉強可見。"
 
-# game/script-a4-lilly.rpy:6441
+# game/script-a4-lilly.rpy:6446
 translate zh_hant a4_lilly_false_cadence_b0dc09b0:
 
     # "I lie still in my dark bed for a long time, idly looking up at the little origami bird."
     "很長時間裡，我在黑暗中躺在床上，茫然地向上看著那隻小小的摺紙。"
 
-# game/script-a4-lilly.rpy:6443
+# game/script-a4-lilly.rpy:6448
 translate zh_hant a4_lilly_false_cadence_652c0d0b:
 
     # "It feels like a lot's happened since Lilly folded this, but at the same time it feels like very little has changed."
     "感覺自從莉莉摺好它之後，發生了太多事，但與此同時，真正的改變卻又寥寥無幾。"
 
-# game/script-a4-lilly.rpy:6445
+# game/script-a4-lilly.rpy:6450
 translate zh_hant a4_lilly_false_cadence_669beec2:
 
     # "Compared to everyone else, I'm back to square one. I might have a newfound idea of where I want to go in life, but that's hardly something that affects me now."
     "和大家相比，我就像是回到了原點一樣。我可能有了生命的新目標，可那目標現在幾乎沒法對我造成影響。"
 
-# game/script-a4-lilly.rpy:6447
+# game/script-a4-lilly.rpy:6452
 translate zh_hant a4_lilly_false_cadence_a4f09222:
 
     # "Hanako changed, I know that much. If anything, she just makes me feel like I've got no excuse to be like this, considering her previous situation."
     "華子改變了，這我知道。至少，考慮到她之前是那樣的狀態，她讓我感覺自己不能再這樣繼續下去。"
 
-# game/script-a4-lilly.rpy:6449
+# game/script-a4-lilly.rpy:6454
 translate zh_hant a4_lilly_false_cadence_bb80582e:
 
     # "Lilly, though…"
     "但是，莉莉……"
 
-# game/script-a4-lilly.rpy:6451
+# game/script-a4-lilly.rpy:6456
 translate zh_hant a4_lilly_false_cadence_3df5a7ad:
 
     # "I turn the bird in my fingers another way, looking at it from yet another angle."
     "我把手中的紙鶴轉向了一邊，從另一個角度去看它。"
 
-# game/script-a4-lilly.rpy:6455
+# game/script-a4-lilly.rpy:6460
 translate zh_hant a4_lilly_false_cadence_76b2fe88_2:
 
     # nvl clear
     nvl clear
 
-# game/script-a4-lilly.rpy:6458
+# game/script-a4-lilly.rpy:6463
 translate zh_hant a4_lilly_false_cadence_38281dd1:
 
     # n "{vspace=60}When I first met her, she seemed aloof and perhaps somewhat distant. Her actions were always careful, measured and precise, and her carefully maintained composure always gave the appearance of unerring confidence and serenity."
     n "{vspace=60}當我第一次看見她時，她給人感覺高傲冷淡，彷彿遙不可及。她總是那麼小心，慎重又精準，那謹慎維持著的氣場總是讓人感覺她不會犯錯，自信又寧靜。"
 
-# game/script-a4-lilly.rpy:6460
+# game/script-a4-lilly.rpy:6465
 translate zh_hant a4_lilly_false_cadence_665d74fe:
 
     # n "In time, she became less formal. Just a bit, but enough. It felt good to see her lowering her inhibitions around me, and opening up, even just a little, of her own accord; it felt as if I was seeing her real self slowly become more vibrant and visible."
     n "但後來，她變得不那麼正式了。只有一點變化但已經足夠。她在我身邊放鬆自我控制，向我敞開心扉，雖然只有一點點，讓我感覺很好。就好像我正一點點地看著她真實的自我變得越來越清晰，越來越有生命力。"
 
-# game/script-a4-lilly.rpy:6462
+# game/script-a4-lilly.rpy:6467
 translate zh_hant a4_lilly_false_cadence_c1190410:
 
     # n "{vspace=30}Now, though, I'm beginning to have doubts."
     n "{vspace=30}可是現在，我開始懷疑了。"
 
-# game/script-a4-lilly.rpy:6464
+# game/script-a4-lilly.rpy:6469
 translate zh_hant a4_lilly_false_cadence_d96ebc33:
 
     # n "{vspace=30}Perhaps they're to be expected after what is, effectively, the two of us breaking up. They don't feel new or strange though, but rather like an old book being found and dusted off."
     n "{vspace=30}可能這很正常，因為確實，我們兩人已經分開了。但是這些感覺卻不像是新的，沒有古怪的感受，更像是一本被翻出的舊書，被人撣掉了上面的灰塵。"
 
-# game/script-a4-lilly.rpy:6466
+# game/script-a4-lilly.rpy:6471
 translate zh_hant a4_lilly_false_cadence_2382be9e:
 
     # n "I soon realized after meeting Lilly that she saw me as she did Hanako; as someone who needed help and care. At first, I simply thought that we'd be fine as friends, helping each other through our limited time together in school."
     n "見到莉莉之後，我很快就意識到她看待我的方式和她看待華子是一樣的：我們都是需要關心和幫助的人。起先，我僅僅是感覺我們是朋友，在學校裡共處的有限時間裡互相幫助。"
 
-# game/script-a4-lilly.rpy:6468
+# game/script-a4-lilly.rpy:6473
 translate zh_hant a4_lilly_false_cadence_00a18f1c:
 
     # nvl clear
@@ -10576,31 +10580,31 @@ translate zh_hant a4_lilly_false_cadence_00a18f1c:
     nvl clear
     n "{vspace=60}可後來，我開始越來越珍惜我們在一起的時間，從安靜的散步，到午飯時的攀談。她性格中美好的一面變得越來越鮮明，讓人喜歡。"
 
-# game/script-a4-lilly.rpy:6472
+# game/script-a4-lilly.rpy:6477
 translate zh_hant a4_lilly_false_cadence_a9f9b84c:
 
     # n "The absence caused by Lilly's trip to Scotland to visit her long-distant family and sick aunt only made me realize how much I liked just being around her, and I had thought that she felt a similar way."
     n "當莉莉去蘇格蘭見她遠方的家人和生病的姑媽時，我才意識到自己有多喜歡在她的身邊，我還以為她的感受也是一樣的。"
 
-# game/script-a4-lilly.rpy:6474
+# game/script-a4-lilly.rpy:6479
 translate zh_hant a4_lilly_false_cadence_dc12c94e:
 
     # n "{vspace=30}For her, though, maybe that wasn't everything to our relationship."
     n "{vspace=30}不過對她而言，可能我們的戀情並不完全是這樣。"
 
-# game/script-a4-lilly.rpy:6476
+# game/script-a4-lilly.rpy:6481
 translate zh_hant a4_lilly_false_cadence_7647b861:
 
     # n "{vspace=30}Even after she returned to Japan, that just meant she lost her family once again after meeting them for such a brief time."
     n "{vspace=30}她後來回日本，也只是在很短暫的和家人重聚後再次失去她們。"
 
-# game/script-a4-lilly.rpy:6478
+# game/script-a4-lilly.rpy:6483
 translate zh_hant a4_lilly_false_cadence_da84624e:
 
     # n "She lived so much of her life without her family around, not to mention with Akira working long hours, that she had little choice but to be like that."
     n "她已經獨自生活那麼久了，身邊沒有父母，晃也要加班。她只能那麼生活，沒有別的選擇。"
 
-# game/script-a4-lilly.rpy:6480
+# game/script-a4-lilly.rpy:6485
 translate zh_hant a4_lilly_false_cadence_e32e3836:
 
     # nvl clear
@@ -10608,43 +10612,43 @@ translate zh_hant a4_lilly_false_cadence_e32e3836:
     nvl clear
     n "{vspace=60}我曾以為她的獨立性格是個值得稱讚的優點，和我形成了鮮明的對比。在心臟病發作之前，我一直都在依賴父母，比我願意承認的程度還要嚴重。"
 
-# game/script-a4-lilly.rpy:6484
+# game/script-a4-lilly.rpy:6489
 translate zh_hant a4_lilly_false_cadence_bea2caa6:
 
     # n "However, it also meant that she never let people get too close to her."
     n "然而，這也意味著她從不會讓別人和自己太靠近。"
 
-# game/script-a4-lilly.rpy:6486
+# game/script-a4-lilly.rpy:6491
 translate zh_hant a4_lilly_false_cadence_a7d8f9e1:
 
     # n "She lost her family likely due to her blindness, went to a different school from anybody she knew because of it, and worked all the harder to make sure she didn't end up a burden on her sister and those around her."
     n "她應該是因為失明才失去家人的，因為失明去了一所與別人不同的學校，一直努力不讓自己成為姐姐和身邊人的負擔。"
 
-# game/script-a4-lilly.rpy:6488
+# game/script-a4-lilly.rpy:6493
 translate zh_hant a4_lilly_false_cadence_ed437ec1:
 
     # n "{vspace=30}And now, Akira's going to Inverness, just like the family she thought she'd lost."
     n "{vspace=30}然而現在晃也要去因弗內斯了，就和她的其他家人一樣。"
 
-# game/script-a4-lilly.rpy:6490
+# game/script-a4-lilly.rpy:6495
 translate zh_hant a4_lilly_false_cadence_2fe0bd58:
 
     # n "She never told me of her plans, as conflicted as she was about them."
     n "她從來沒有告訴過我她的計劃，對它們隻字不提。"
 
-# game/script-a4-lilly.rpy:6492
+# game/script-a4-lilly.rpy:6497
 translate zh_hant a4_lilly_false_cadence_f342a50c:
 
     # n "Lilly didn't want to be a burden on anyone, including me."
     n "莉莉不想成為任何人的負擔，包括我。"
 
-# game/script-a4-lilly.rpy:6494
+# game/script-a4-lilly.rpy:6499
 translate zh_hant a4_lilly_false_cadence_b39823f4:
 
     # n "{vspace=60}…I'm an idiot."
     n "{vspace=60}……我真是個白癡。"
 
-# game/script-a4-lilly.rpy:6496
+# game/script-a4-lilly.rpy:6501
 translate zh_hant a4_lilly_false_cadence_830c8bdf:
 
     # nvl clear
@@ -10652,817 +10656,817 @@ translate zh_hant a4_lilly_false_cadence_830c8bdf:
     nvl clear
     n "{vspace=60}我從來沒有質疑過，從來沒有在她需要我的時候留在她身邊，也從沒去問過她是否需要我的陪伴。"
 
-# game/script-a4-lilly.rpy:6500
+# game/script-a4-lilly.rpy:6505
 translate zh_hant a4_lilly_false_cadence_1f889ce0:
 
     # n "I just set my life up and expected it to stay that way forever, with the two of us having a nice long relationship where we pushed forwards towards our future together."
     n "我僅僅是想像了人生的方向，然後指望它會永遠按部就班，我們兩人能享受一段漫長美好的戀情，一起走向未來。"
 
-# game/script-a4-lilly.rpy:6502
+# game/script-a4-lilly.rpy:6507
 translate zh_hant a4_lilly_false_cadence_befacc05:
 
     # n "{vspace=30}A small pit of frustration and anger at myself wells up in my chest."
     n "{vspace=30}我的胸中湧起了一小股對自身的憤怒和挫敗感。"
 
-# game/script-a4-lilly.rpy:6504
+# game/script-a4-lilly.rpy:6509
 translate zh_hant a4_lilly_false_cadence_4fd87cd7:
 
     # n "{vspace=30}I just let everything happen, never even trying to help Lilly."
     n "{vspace=30}我就這麼任一切發生了，甚至都沒試著去幫莉莉。"
 
-# game/script-a4-lilly.rpy:6506
+# game/script-a4-lilly.rpy:6511
 translate zh_hant a4_lilly_false_cadence_2dc6b68f:
 
     # n "{vspace=30}Just her being there was enough. I thought I could keep going on if that were true."
     n "{vspace=30}對我來說，只要她依然在那兒，就已經夠了。我可以一直那麼說服自己，就好像那是句實話一樣。"
 
-# game/script-a4-lilly.rpy:6508
+# game/script-a4-lilly.rpy:6513
 translate zh_hant a4_lilly_false_cadence_69894263:
 
     # n "But that could never have been enough. It was a childlike dependence on somebody, without any attempt to understand or help their situation."
     n "但那永遠都是不夠的。那只是對旁人的幼稚依賴罷了。我根本沒試圖去理解他們，幫助他們。"
 
-# game/script-a4-lilly.rpy:6510
+# game/script-a4-lilly.rpy:6515
 translate zh_hant a4_lilly_false_cadence_da43819c:
 
     # n "Thanks to that, I lost Lilly. I lost the one person I loved most because I wasn't there for her when she needed me."
     n "正因為此，我才失去了莉莉。我失去了一個自己最愛的人，因為當她需要我的時候，我並沒有在她身邊。"
 
-# game/script-a4-lilly.rpy:6514
+# game/script-a4-lilly.rpy:6519
 translate zh_hant a4_lilly_false_cadence_76b2fe88_3:
 
     # nvl clear
     nvl clear
 
-# game/script-a4-lilly.rpy:6525
+# game/script-a4-lilly.rpy:6530
 translate zh_hant a4_lilly_false_cadence_1c9efa45:
 
     # "With an increasingly angry feeling washing over me, I turn over and set the crane back on the desk next to my clock, the place where it has lived since that day when she folded it for me."
     "我感覺怒意越來越洶湧，翻身把紙鶴放回桌上的鬧鐘旁。自從她為我摺好它後，它就一直放在那裡。"
 
-# game/script-a4-lilly.rpy:6527
+# game/script-a4-lilly.rpy:6532
 translate zh_hant a4_lilly_false_cadence_de5b6e29:
 
     # "Since that day when she herself said that my burdens needn't be my own."
     "自從那天她告訴我，我不用獨自承擔自己的負擔以後。"
 
-# game/script-a4-lilly.rpy:6529
+# game/script-a4-lilly.rpy:6534
 translate zh_hant a4_lilly_false_cadence_727f61d6:
 
     # "The obnoxious bright red numerals of my alarm clock shine through the darkness of the room onto my tired eyes."
     "我鬧鐘上的可惡紅色數字穿透了房間裡的黑暗，直接刺進了我疲憊的雙眼裡。"
 
-# game/script-a4-lilly.rpy:6531
+# game/script-a4-lilly.rpy:6536
 translate zh_hant a4_lilly_false_cadence_4f028d73:
 
     # "Ten o'clock. Evening. Curfew will be soon."
     "十點鐘，晚上。馬上就要宵禁了。"
 
-# game/script-a4-lilly.rpy:6533
+# game/script-a4-lilly.rpy:6538
 translate zh_hant a4_lilly_false_cadence_a57dbe1b:
 
     # hi "I wonder…"
     hi "我想……"
 
-# game/script-a4-lilly.rpy:6535
+# game/script-a4-lilly.rpy:6540
 translate zh_hant a4_lilly_false_cadence_2eb0cccd:
 
     # "Akira mentioned they'd be leaving this evening."
     "晃說她們準備今晚離開。"
 
-# game/script-a4-lilly.rpy:6537
+# game/script-a4-lilly.rpy:6542
 translate zh_hant a4_lilly_false_cadence_acef77db:
 
     # "I've no idea exactly when their flight is… but that means there's a chance, however small, that they might not have already left."
     "我不知道她們的航班到底是什麼時候……但這意味著還有一點機會，雖然非常小，她們可能還沒有離開。"
 
-# game/script-a4-lilly.rpy:6539
+# game/script-a4-lilly.rpy:6544
 translate zh_hant a4_lilly_false_cadence_16a9e1d9:
 
     # "Adrenaline starts to move through my body as I sit up on my bed, my eyes suddenly wide with possibility."
     "腎上腺素開始在我的身體內湧動，我從床上坐了起來，眼睛突然睜大了，彷彿看到了一個可能。"
 
-# game/script-a4-lilly.rpy:6541
+# game/script-a4-lilly.rpy:6546
 translate zh_hant a4_lilly_false_cadence_86465906:
 
     # "There's no guarantee they haven't left, indeed it's likely that they already have, but there's also a chance they haven't, however small it may be."
     "無法保證她們還沒離開，事實上她們很可能已經走了，但同時也還有一點可能，不論有多小，她們還沒走。"
 
-# game/script-a4-lilly.rpy:6543
+# game/script-a4-lilly.rpy:6548
 translate zh_hant a4_lilly_false_cadence_8842d0a5:
 
     # "Just this once, just as I should have before…"
     "就這一次，就像我早該做的那樣……"
 
-# game/script-a4-lilly.rpy:6553
+# game/script-a4-lilly.rpy:6558
 translate zh_hant a4_lilly_false_cadence_038be93d:
 
     # "I stand up and rush over to my cabinet, throwing out some clothes as fast as I can and sliding them on in quick succession."
     "我起身衝向自己的衣櫥，儘可能快地抽出一些衣服，然後迅速把它們套到身上。"
 
-# game/script-a4-lilly.rpy:6555
+# game/script-a4-lilly.rpy:6560
 translate zh_hant a4_lilly_false_cadence_281779a4:
 
     # "Each second that goes by is a second that I can't regain, a second that may mean the difference between catching them and losing them forever."
     "每一秒鐘都是我正在失去的一秒，每一秒都可能決定我能否趕上她們，或是永遠失去她們。"
 
-# game/script-a4-lilly.rpy:6557
+# game/script-a4-lilly.rpy:6562
 translate zh_hant a4_lilly_false_cadence_a59cb53b:
 
     # "Even if I fail, I have to try. I can't let her leave everything behind without even trying to stop her. Without, just this once, being there for her."
     "就算會失敗，我也必須一試。我不能任她把一切都拋下，不去試著阻止她。就這一次，我不能不站在她身邊。"
 
-# game/script-a4-lilly.rpy:6559
+# game/script-a4-lilly.rpy:6564
 translate zh_hant a4_lilly_false_cadence_bed2fbd5:
 
     # "With the last of my clothes slipped on, I hastily grab the phone off the desk. Luckily, the number for a local taxi company is still in my call history."
     "我穿好了最後一件衣服，急促地從桌上抓起了手機。幸好通話記錄裡還有當地計程車公司的電話號碼。"
 
-# game/script-a4-lilly.rpy:6569
+# game/script-a4-lilly.rpy:6574
 translate zh_hant a4_lilly_false_cadence_73f94ba6:
 
     # "A gruff, unenthusiastic voice announces the name of the company while I pace around the room. It takes some effort to slow down my voice and keep it clear over the phone."
     "當我急的在房間裡一圈圈踱著步時，一個粗啞又不耐煩的聲音報出了公司的名字。我費了不少勁才把語速壓下來，保持聲音的冷靜。"
 
-# game/script-a4-lilly.rpy:6574
+# game/script-a4-lilly.rpy:6579
 translate zh_hant a4_lilly_false_cadence_2d13187c:
 
     # "The chilly night air sweeps against me as I open the dormitory door, but nevertheless I keep up my brisk speed as I half-jog, half-run out to the school gates."
     "我打開了宿舍門，寒冷的夜風撲面而來，半跑半走地往學校大門前進。"
 
-# game/script-a4-lilly.rpy:6576
+# game/script-a4-lilly.rpy:6581
 translate zh_hant a4_lilly_false_cadence_2f4707f1:
 
     # "It may not be curfew just yet, but it's precariously close. If there were a guard around they'd no doubt have some questions for me, but it looks like I've managed to come out just before they arrive, or they're around a corner."
     "現在可能還沒到宵禁，不過也快了。如果現在有警衛在，他們是毫無疑問要把我攔下來問話的。但看來我趕在他們到來之前出來了，或者他們正在轉角處。"
 
-# game/script-a4-lilly.rpy:6581
+# game/script-a4-lilly.rpy:6586
 translate zh_hant a4_lilly_false_cadence_2767990e:
 
     # "My pace picks up as I make my way through the school gardens, their night-time allure all but lost when I begin to run to the school gate."
     "我跑過了學校花園，越跑越快。當我開始向學校大門奔去時，它們那種夜間的魅力就蕩然無存了。"
 
-# game/script-a4-lilly.rpy:6586
+# game/script-a4-lilly.rpy:6591
 translate zh_hant a4_lilly_false_cadence_ac3c1260:
 
     # "The lamps of the courtyard, dim as they are, provide just enough illumination to light the way and prevent me from tripping over. The buildings themselves take on a rustic, almost antique-looking edge when I glance at them."
     "院子裡的燈非常暗，光線只夠讓我勉強不摔倒。建築在我的眼中也變得輪廓粗糙，非常古老。"
 
-# game/script-a4-lilly.rpy:6588
+# game/script-a4-lilly.rpy:6593
 translate zh_hant a4_lilly_false_cadence_f315c250:
 
     # "Looking back, it seems strange that they once appeared so dark and looming to me. Now they just look to be somewhat anachronistic school buildings, the same as any others bar their age."
     "回想起來我以前還真是奇怪，覺得它們看起來又黑又陰森。現在它們看起來都只是一堆時代錯誤的教學樓而已，和任何一棟年齡相仿的教學樓一樣。"
 
-# game/script-a4-lilly.rpy:6593
+# game/script-a4-lilly.rpy:6598
 translate zh_hant a4_lilly_false_cadence_e9c0f859:
 
     # "Leaving the gates behind me, I pull up to a stop just before the taxi. Parked just as Akira's car had been, its gaudy and brightly lit sign looks out of place in the quiet country backdrop."
     "我把大門拋在了身後，在計程車前猛然煞住。計程車就停在晃的車停過的地方，閃亮俗氣的標誌在鄉間顯得格格不入。"
 
-# game/script-a4-lilly.rpy:6595
+# game/script-a4-lilly.rpy:6600
 translate zh_hant a4_lilly_false_cadence_3a1267e7:
 
     # "I impatiently squeeze myself through the door, giving the driver the address for where the two should hopefully be staying."
     "我不耐地擠進門，告訴司機地址，希望她們兩人還在那兒。"
 
-# game/script-a4-lilly.rpy:6600
+# game/script-a4-lilly.rpy:6605
 translate zh_hant a4_lilly_false_cadence_58f2b2be:
 
     # "By the time the taxi pulls up after its trip at maddeningly casual speed, it's well and truly deep into the night."
     "當計程車以令人抓狂的悠閒速度行駛過一段時間後，終於停了下來，已經是深夜了。"
 
-# game/script-a4-lilly.rpy:6602
+# game/script-a4-lilly.rpy:6607
 translate zh_hant a4_lilly_false_cadence_37bf3143:
 
     # "The house is truly enormous, its sheer size much larger than I'd expected, and ominously still. Fearing the worst, I ask the driver to stay just in case my efforts are for naught."
     "整棟建築真的很大，光大小就超出了我的預料，而且靜得令人感到不安。我做好了最壞的打算，讓司機暫時別走，以防所有的努力都付諸流水。"
 
-# game/script-a4-lilly.rpy:6604
+# game/script-a4-lilly.rpy:6609
 translate zh_hant a4_lilly_false_cadence_e944db00:
 
     # "A single press on the fancy intercom system outside the gate produces a short electronic melody in the otherwise silent road. It's not long before a somewhat deep, gruff voice can be heard from it."
     "我按了按大門外精緻的對講機，一陣短暫的電音旋律傳向了寂靜的街道。不久後，一個有些低沉粗啞的聲音在對講機中響了起來。"
 
-# game/script-a4-lilly.rpy:6606
+# game/script-a4-lilly.rpy:6611
 translate zh_hant a4_lilly_false_cadence_be123210:
 
     # mystery "This is the Hakamichi residence. Please state your name and why you're bothering us this late."
     mystery "這裡是羽加道家，你是誰？幹嘛在這時候打擾我們？"
 
-# game/script-a4-lilly.rpy:6608
+# game/script-a4-lilly.rpy:6613
 translate zh_hant a4_lilly_false_cadence_90588098:
 
     # "I press on despite inwardly wincing at the reasonable annoyance audible in his voice."
     "雖然聲音裡有明顯的惱怒，而且那惱怒理所當然，但我還是沒有畏縮，繼續問了下去。"
 
-# game/script-a4-lilly.rpy:6610
+# game/script-a4-lilly.rpy:6615
 translate zh_hant a4_lilly_false_cadence_cbbaed55:
 
     # hi "It's Hisao Nakai. I was hoping to meet Lilly or Akira, if they're still here."
     hi "我是中井久夫，我想見見莉莉，或者是晃，如果她們還在這兒的話。"
 
-# game/script-a4-lilly.rpy:6612
+# game/script-a4-lilly.rpy:6617
 translate zh_hant a4_lilly_false_cadence_846a09e2:
 
     # "Surprisingly, I manage to summon quite some energy to my voice, enough to make the other side of the intercom silent."
     "讓我吃驚的是，我還真讓自己的聲音有了一些力量，足夠讓對講機那一邊的人沉默下來了。"
 
-# game/script-a4-lilly.rpy:6617
+# game/script-a4-lilly.rpy:6622
 translate zh_hant a4_lilly_false_cadence_61ac5710:
 
     # "A few seconds pass, but just before I press the button again and ask what's going on, a light turns on outside the front door."
     "數秒鐘過去了，我正要再次按按鈕，問發生了什麼，前門的燈亮了起來。"
 
-# game/script-a4-lilly.rpy:6619
+# game/script-a4-lilly.rpy:6624
 translate zh_hant a4_lilly_false_cadence_ab7e43c5:
 
     # "I strain my eyes to try and make out who is coming through, but as he comes past a large parked car with fishing rods sticking out the back, his identity becomes clear."
     "我眯起眼試圖辨認出來者是誰，但當他走過一輛背後伸出釣魚竿的大車時，他的輪廓變得清晰了。"
 
-# game/script-a4-lilly.rpy:6621
+# game/script-a4-lilly.rpy:6626
 translate zh_hant a4_lilly_false_cadence_327f639b:
 
     # "His face is typically placid and emotionless as he saunters up to the gate. He's still childlike in his mannerisms, despite his demeanor. With the press of a few buttons from behind the fence, the gate slowly opens."
     "他的面孔很平靜，毫無表情，朝大門漫步走來。沉穩但帶著稚氣。他按了按柵欄後的幾個按鈕，門緩緩開了。"
 
-# game/script-a4-lilly.rpy:6626
+# game/script-a4-lilly.rpy:6631
 translate zh_hant a4_lilly_false_cadence_0fb78a13:
 
     # hh "Hisao? What are you doing here?"
     hh "久夫？你在這兒幹嘛？"
 
-# game/script-a4-lilly.rpy:6628
+# game/script-a4-lilly.rpy:6633
 translate zh_hant a4_lilly_false_cadence_5a07f050:
 
     # "I think this is the most emotion I've ever heard from his voice, not that it would be hard to reach that mark."
     "我覺得這是我聽他說話最帶感情的一次了，不過達到這種程度應該也不難。"
 
-# game/script-a4-lilly.rpy:6630
+# game/script-a4-lilly.rpy:6635
 translate zh_hant a4_lilly_false_cadence_9520de16:
 
     # hi "Akira told me that she and Lilly would be staying here before they left for their flight."
     hi "晃和我說，她和莉莉在坐飛機走之前會住這兒。"
 
-# game/script-a4-lilly.rpy:6632
+# game/script-a4-lilly.rpy:6637
 translate zh_hant a4_lilly_false_cadence_4a42b9c4:
 
     # hi "I need to talk to Lilly, just one last time. Are they still here?"
     hi "我得和莉莉談談，就最後一次。她們還在這兒嗎？"
 
-# game/script-a4-lilly.rpy:6637
+# game/script-a4-lilly.rpy:6642
 translate zh_hant a4_lilly_false_cadence_eea43587:
 
     # "The look on his face says everything."
     "他臉上的表情已經給出足夠的答案了。"
 
-# game/script-a4-lilly.rpy:6639
+# game/script-a4-lilly.rpy:6644
 translate zh_hant a4_lilly_false_cadence_f996ddbf:
 
     # "I failed. I was too late. The one time when I actually needed to act quickly, and…"
     "我失敗了，來得太遲。這是唯一一次需要我快速反應的情況，可我……"
 
-# game/script-a4-lilly.rpy:6644
+# game/script-a4-lilly.rpy:6649
 translate zh_hant a4_lilly_false_cadence_8b668806:
 
     # hh "Actually… it's possible…"
     hh "不過……倒不是不可能……"
 
-# game/script-a4-lilly.rpy:6646
+# game/script-a4-lilly.rpy:6651
 translate zh_hant a4_lilly_false_cadence_fd0429d9:
 
     # hi "What? What is it?"
     hi "什麼？什麼不可能？"
 
-# game/script-a4-lilly.rpy:6651
+# game/script-a4-lilly.rpy:6656
 translate zh_hant a4_lilly_false_cadence_a0a7133f:
 
     # "He's a bit taken aback by my fervor, but I can't help it at this point."
     "我的激動有些嚇到他了，但事到如今我也沒法控制自己。"
 
-# game/script-a4-lilly.rpy:6656
+# game/script-a4-lilly.rpy:6661
 translate zh_hant a4_lilly_false_cadence_7897afdf:
 
     # hh "They left not long ago; only a few minutes before you arrived, in fact. If you go straight to the airport, you might be able to… Hisao!?"
     hh "她們不久前才走的；其實，就在你來之前的幾分鐘。如果你現在直接去機場，應該就能……久夫？！"
 
-# game/script-a4-lilly.rpy:6658
+# game/script-a4-lilly.rpy:6663
 translate zh_hant a4_lilly_false_cadence_4db42ee8:
 
     # "I dart back towards the waiting taxi, grabbing what little money is left in my pocket as I go."
     "我衝回了停著的計程車，同時捏了捏我口袋裡剩下的一點錢。"
 
-# game/script-a4-lilly.rpy:6660
+# game/script-a4-lilly.rpy:6665
 translate zh_hant a4_lilly_false_cadence_766e170c:
 
     # hi "Thanks, Hideaki!"
     hi "謝啦，秀明！"
 
-# game/script-a4-lilly.rpy:6662
+# game/script-a4-lilly.rpy:6667
 translate zh_hant a4_lilly_false_cadence_0f6858a5:
 
     # "With that I take a seat, and in short order bark out my destination."
     "說著，我坐了下來，立馬喊出了目的地。"
 
-# game/script-a4-lilly.rpy:6670
+# game/script-a4-lilly.rpy:6675
 translate zh_hant a4_lilly_false_cadence_bea83b36:
 
     # "My chest beats wildly as I tear down the street, my body twisting this way and that to slip between the pedestrians walking back and forth beside me."
     "當我在通道上奔跑時，心臟在胸中猛烈跳動，我身子左右扭動，從身邊經過的行人間擠過。"
 
-# game/script-a4-lilly.rpy:6672
+# game/script-a4-lilly.rpy:6677
 translate zh_hant a4_lilly_false_cadence_a2cf25ed:
 
     # "With the road solidly blocked by taxis and other cars, dropping off passengers and picking up others in the time they have to wait, we ended up having to stop almost a block away."
     "道路被計程車和其他車輛堵得水洩不通，它們在等待時上下客。結果我們幾乎每隔一個街區就得停下來。"
 
-# game/script-a4-lilly.rpy:6674
+# game/script-a4-lilly.rpy:6679
 translate zh_hant a4_lilly_false_cadence_84f1d378:
 
     # "But that's in the past now. What matters is reaching Lilly."
     "但這些現在都不重要了，現在重要的只是趕上莉莉。"
 
-# game/script-a4-lilly.rpy:6676
+# game/script-a4-lilly.rpy:6681
 translate zh_hant a4_lilly_false_cadence_fdf91a2d:
 
     # "One foot hits the ground, the other quickly following without the slightest thought, as if my legs have taken on a life of their own and all my mind can do is concentrate on the view ahead of me."
     "我的一隻腳剛碰到地面，另一隻腳就不暇思索地跟了上去，好像我的雙腿有了自己的生命一樣，我只能把注意力集中在自己面前的情況上。"
 
-# game/script-a4-lilly.rpy:6678
+# game/script-a4-lilly.rpy:6683
 translate zh_hant a4_lilly_false_cadence_6e32a68d:
 
     # "Just one glimpse of that long hair of hers. That long, yellow hair that was the same color as the wheat that stretched as far as the eye could see."
     "只要看一眼她的長髮就行了。那一頭長長的金髮，和那片延伸到視野盡頭的麥田有著一樣的顏色。"
 
-# game/script-a4-lilly.rpy:6680
+# game/script-a4-lilly.rpy:6685
 translate zh_hant a4_lilly_false_cadence_fa2be615:
 
     # "In the end, I depended on Lilly, just like Hanako did. Even after we started going out, it still doesn't feel like she really ever let herself depend on me."
     "結果就像華子一樣，我還是依賴著莉莉。就算在我們開始約會之後，我感覺她從未真正依賴過我。"
 
-# game/script-a4-lilly.rpy:6682
+# game/script-a4-lilly.rpy:6687
 translate zh_hant a4_lilly_false_cadence_609f07a6:
 
     # "Except for one moment. That one moment where we held each other tightly on that bright yellow field."
     "除了那短暫的一刻以外。我們在那片明亮的金黃田野裡緊緊相擁的那一刻。"
 
-# game/script-a4-lilly.rpy:6684
+# game/script-a4-lilly.rpy:6689
 translate zh_hant a4_lilly_false_cadence_a878ddca:
 
     # "At that time she must have feared losing me just as she did everyone else. That's why, just this once…"
     "那一刻，她一定在害怕失去我，就像她失去其他人一樣。所以，這一次……"
 
-# game/script-a4-lilly.rpy:6686
+# game/script-a4-lilly.rpy:6691
 translate zh_hant a4_lilly_false_cadence_59d30a79:
 
     # "The night air wraps around me, draining every last remnant of warmth out of my body, to the extent that it feels more like midwinter than a summer night."
     "夜風包裹住了我，把每一絲剩餘的暖意從我的身體裡抽走。感覺像是在嚴冬，不是仲夏。"
 
-# game/script-a4-lilly.rpy:6688
+# game/script-a4-lilly.rpy:6693
 translate zh_hant a4_lilly_false_cadence_292c4f6f:
 
     # "My fingers, my hands, my feet… they all feel increasingly cold."
     "我的手指、手掌、腳……全都感覺越來越冷。"
 
-# game/script-a4-lilly.rpy:6690
+# game/script-a4-lilly.rpy:6695
 translate zh_hant a4_lilly_false_cadence_315e78d9:
 
     # "The sound of the passing crowds is reduced to no more than a background hum while the sound of my shoes hitting the pavement echoes loudly, every step surging towards the person I have to catch."
     "行人路過的聲音變成了背景的嗡嗡聲，我的鞋踩在人行道上的聲音迴盪作響，每一步都奔向那個我必須趕上的人。"
 
-# game/script-a4-lilly.rpy:6692
+# game/script-a4-lilly.rpy:6697
 translate zh_hant a4_lilly_false_cadence_04e3d0eb:
 
     # "Forced by my chest tightening in response to the cold of the night, I rest an arm over it to try and settle it down."
     "夜晚的寒意讓我的胸膛不由自主地收緊，我把一隻手臂放在了胸口，試圖讓它平靜下來。"
 
-# game/script-a4-lilly.rpy:6705
+# game/script-a4-lilly.rpy:6710
 translate zh_hant a4_lilly_false_cadence_687e7c5a:
 
     # "When the airport comes into view, though, I realize this feeling as one I've felt before."
     "當機場出現在眼前時，我的身體感受到了一種似曾相識的感覺。"
 
-# game/script-a4-lilly.rpy:6707
+# game/script-a4-lilly.rpy:6712
 translate zh_hant a4_lilly_false_cadence_824a85b8:
 
     # "Not now… of all the times for this, please not now."
     "別在這時候……拜託了，別偏偏在這時候。"
 
-# game/script-a4-lilly.rpy:6709
+# game/script-a4-lilly.rpy:6714
 translate zh_hant a4_lilly_false_cadence_12e629cf:
 
     # "I take a gulp and soldier on regardless, pushing my body as far as it will go."
     "我嚥了口口水，繼續向前，盡力向前移動。"
 
-# game/script-a4-lilly.rpy:6711
+# game/script-a4-lilly.rpy:6716
 translate zh_hant a4_lilly_false_cadence_7368db56:
 
     # "Sweat pours off me as I hurtle forward, my shoulder hitting someone's side and my mind suddenly flooding with emotions and memories."
     "我踉蹌地向前衝去，汗如雨下，肩膀撞到了某人的身側，突然間，我的腦海裡湧現出無數思緒和回憶。"
 
-# game/script-a4-lilly.rpy:6713
+# game/script-a4-lilly.rpy:6718
 translate zh_hant a4_lilly_false_cadence_41ccefa5:
 
     # "I continue on without an apology. I have to keep moving now. If I stop, I'm not sure I could begin again, and even if I could it would all be for naught if I'm not in time."
     "我沒有道歉，繼續向前跑去。我必須繼續向前，如果我停下來，就不確定能否再次邁開步伐了。即使還能，只要沒趕上，一切也都是毫無意義的。"
 
-# game/script-a4-lilly.rpy:6717
+# game/script-a4-lilly.rpy:6722
 translate zh_hant a4_lilly_false_cadence_775b1f43:
 
     # "I hit another person, then another, offering little resistance to getting bounced about."
     "我又撞到了一個人，接著，又是一個，我的身體被撞得東倒西歪，根本沒法控制。"
 
-# game/script-a4-lilly.rpy:6719
+# game/script-a4-lilly.rpy:6724
 translate zh_hant a4_lilly_false_cadence_362a0cbe:
 
     # "My feet feel numb. My arms are losing all feeling. My chest forces me to hunch over awkwardly, tightening ever more."
     "我的雙腳開始麻木，手臂已經失去了感覺。我的胸膛在逼迫我尷尬地彎下腰來，變得越來越緊。"
 
-# game/script-a4-lilly.rpy:6728
+# game/script-a4-lilly.rpy:6733
 translate zh_hant a4_lilly_false_cadence_67322b7e:
 
     # "That afternoon in the snow… that time when my life irreversibly changed… images of Iwanako and that damned letter flash over and over in my mind, the first love I'd lost thanks to my condition."
     "那在雪地裡的午後……那徹底改變我生命的一天……巖魚子和那封該死的信在我的腦海裡一遍遍閃過，那是因為心臟病而失去的我的初戀。"
 
-# game/script-a4-lilly.rpy:6730
+# game/script-a4-lilly.rpy:6735
 translate zh_hant a4_lilly_false_cadence_028739e2:
 
     # "I can't let that happen again. I don't care what happens to me any more, I just need to see her one last time."
     "我不能再讓同樣的事發生了。我不管自己會怎麼樣，我需要再見她最後一眼。"
 
-# game/script-a4-lilly.rpy:6732
+# game/script-a4-lilly.rpy:6737
 translate zh_hant a4_lilly_false_cadence_95756268:
 
     # "…There!"
     "……那兒！"
 
-# game/script-a4-lilly.rpy:6737
+# game/script-a4-lilly.rpy:6742
 translate zh_hant a4_lilly_false_cadence_031dce2a:
 
     # "A sliver of yellow and white comes into view some distance down the road, her figure silhouetted by the lights emanating from the airport entrance."
     "一道黃白相間的身影映入眼簾，就在路的前面，她身體的輪廓被機場入口散發出的燈光照亮。"
 
-# game/script-a4-lilly.rpy:6739
+# game/script-a4-lilly.rpy:6744
 translate zh_hant a4_lilly_false_cadence_c92725b9:
 
     # hi "Lilly! Lilly!"
     hi "莉莉！莉莉！"
 
-# game/script-a4-lilly.rpy:6741
+# game/script-a4-lilly.rpy:6746
 translate zh_hant a4_lilly_false_cadence_c0dfd6a2:
 
     # hi "Lilly! Stop, please! Lilly!"
     hi "莉莉！停一下，求求妳！莉莉！"
 
-# game/script-a4-lilly.rpy:6743
+# game/script-a4-lilly.rpy:6748
 translate zh_hant a4_lilly_false_cadence_eb259ac0:
 
     # "Come on Lilly, I know your hearing's far beyond nor—"
     "拜託莉莉，我知道妳的聽力遠超常人——"
 
-# game/script-a4-lilly.rpy:6755
+# game/script-a4-lilly.rpy:6760
 translate zh_hant a4_lilly_false_cadence_7f83092f:
 
     # hi "Gah!"
     hi "啊！"
 
-# game/script-a4-lilly.rpy:6757
+# game/script-a4-lilly.rpy:6762
 translate zh_hant a4_lilly_false_cadence_48aaf4fe:
 
     # "My view suddenly spins out of control and ends up on the ground, my body haphazardly sprawled after hitting someone and stumbling over."
     "我的視野突然旋轉著脫出了控制，碰撞了不知道什麼人後摔倒在地，身體狼狽地攤開。"
 
-# game/script-a4-lilly.rpy:6766
+# game/script-a4-lilly.rpy:6771
 translate zh_hant a4_lilly_false_cadence_8c1e0008:
 
     # "Before I can assess the damage, an unbelievable pain ignites in my body. All my thoughts are blanked as I curl up and frantically clutch at my chest."
     "還沒等我弄清自己傷得有多重，一種無法想像的劇痛就點燃了我的身體。我所有的思緒都成了一片空白，我蜷曲成了一團，瘋狂地抓著自己的胸口。"
 
-# game/script-a4-lilly.rpy:6768
+# game/script-a4-lilly.rpy:6773
 translate zh_hant a4_lilly_false_cadence_7e3bd36a:
 
     # mystery "Hey, are you okay? That was a really bad fall."
     mystery "喂，你還好吧？那一跤可真夠受的。"
 
-# game/script-a4-lilly.rpy:6770
+# game/script-a4-lilly.rpy:6775
 translate zh_hant a4_lilly_false_cadence_51b5cf01:
 
     # "This pain… I can't…"
     "太疼了……我沒法……"
 
-# game/script-a4-lilly.rpy:6772
+# game/script-a4-lilly.rpy:6777
 translate zh_hant a4_lilly_false_cadence_ec2bc502:
 
     # hi "Argh… aaaaaargh!"
     hi "啊……啊呀！"
 
-# game/script-a4-lilly.rpy:6781
+# game/script-a4-lilly.rpy:6786
 translate zh_hant a4_lilly_false_cadence_bf1313c3:
 
     # "Any sharp knock could do me in. Any overexertion. I thought I could overcome my limits this once…"
     "任何一次劇烈的心跳都有可能要了我的命，任何一次用力過度。我還以為自己這一次能越過極限……"
 
-# game/script-a4-lilly.rpy:6783
+# game/script-a4-lilly.rpy:6788
 translate zh_hant a4_lilly_false_cadence_8a92dc11:
 
     # mystery "Something's wrong with him!"
     mystery "他有些不對勁！"
 
-# game/script-a4-lilly.rpy:6792
+# game/script-a4-lilly.rpy:6797
 translate zh_hant a4_lilly_false_cadence_f315adc1:
 
     # mystery "What's the matter, are…"
     mystery "怎麼了，你還……"
 
-# game/script-a4-lilly.rpy:6810
+# game/script-a4-lilly.rpy:6815
 translate zh_hant a4_lilly_false_cadence_4f933043:
 
     # "The voices of those gathering around me are gradually replaced by a loud ringing in my ears. By now I'm unable to move my head, my eyes turn upwards to see the mute moving of their lips."
     "我身邊圍觀者的聲音逐漸被一陣尖銳的耳鳴聲淹沒。我現在已經沒法移動自己的頭，只能眼睜睜看著他們蠕動的嘴唇。"
 
-# game/script-a4-lilly.rpy:6846
+# game/script-a4-lilly.rpy:6851
 translate zh_hant a4_lilly_false_cadence_524a5b2e:
 
     # "Even as I clutch my chest, I realize I can't feel my fingers any more, nor my feet. It feels like my entire body is shutting down, starting from my extremities."
     "就連我去抓自己的胸膛時，也意識到我已經沒法感受到自己的手指了，雙腳也已失去知覺。我感覺我的整個身體彷彿正逐漸停止運作，從我的四肢開始。"
 
-# game/script-a4-lilly.rpy:6854
+# game/script-a4-lilly.rpy:6859
 translate zh_hant a4_lilly_false_cadence_307b6b0e:
 
     # "With one last effort, I turn my head down the road towards the airport entrance that's casting its light over me."
     "我用盡最後的力氣，把頭轉向了機場入口的方向，光芒正從那裡灑向我。"
 
-# game/script-a4-lilly.rpy:6856
+# game/script-a4-lilly.rpy:6861
 translate zh_hant a4_lilly_false_cadence_6e0710c5:
 
     # "Lilly is there, behind the crowd. Her head is tilted, but only just slightly."
     "莉莉就在那兒，人羣背後。她的頭微斜，但只有一點點。"
 
-# game/script-a4-lilly.rpy:6860
+# game/script-a4-lilly.rpy:6865
 translate zh_hant a4_lilly_false_cadence_a443acca:
 
     # "I can feel my vision dimming as I try to yell out, but nothing emerges from my mouth despite my best efforts. Slowly but surely, my vision begins to black out the scene before me."
     "我試圖喊出聲，但視線逐漸模糊，哪怕我竭盡全力，也沒有聲音從口中逸出。漸漸的，我的視野開始被黑暗吞噬，眼前的一切都逐漸模糊。"
 
-# game/script-a4-lilly.rpy:6862
+# game/script-a4-lilly.rpy:6867
 translate zh_hant a4_lilly_false_cadence_80dafa12:
 
     # "So… this is how it ends."
     "看來……到此為止了呢。"
 
-# game/script-a4-lilly.rpy:6864
+# game/script-a4-lilly.rpy:6869
 translate zh_hant a4_lilly_false_cadence_a5d7a5db:
 
     # "I failed. I was so close, so very close, but at the very last moment my condition seized my chance at a new life and dragged me back."
     "我失敗了。我離得那麼近，太近了。疾病最終還是奪走了我獲得新生的機會，把我拖回了孤寂。"
 
-# game/script-a4-lilly.rpy:6866
+# game/script-a4-lilly.rpy:6871
 translate zh_hant a4_lilly_false_cadence_9a381bab:
 
     # "Now I'm going to die, sprawled out just meters from an airport, with a crowd of babbling people surrounding me and with Lilly leaving for Scotland just a little distance ahead."
     "現在我就要死了，四肢攤開在離機場入口只有幾公尺的地方，身邊圍著一群議論紛紛的人群，而莉莉正在前方的不遠處，馬上就要去蘇格蘭。"
 
-# game/script-a4-lilly.rpy:6868
+# game/script-a4-lilly.rpy:6873
 translate zh_hant a4_lilly_false_cadence_d4f09e9d:
 
     # hi "Li… lly…"
     hi "莉……莉……"
 
-# game/script-a4-lilly.rpy:6872
+# game/script-a4-lilly.rpy:6877
 translate zh_hant a4_lilly_false_cadence_1e8b3d6f:
 
     # "That last word extinguishes the last of my energy. The world falls into a deep, inescapable blackness as every muscle in my body shuts down."
     "最後的這句話耗盡了我所有的力量。隨著身體的每個肌肉都停止運作，我陷入了一片無法逃離的深邃黑暗。"
 
-# game/script-a4-lilly.rpy:6874
+# game/script-a4-lilly.rpy:6879
 translate zh_hant a4_lilly_false_cadence_d27645d9:
 
     # "I'm sorry, Lilly."
     "對不起，莉莉。"
 
-# game/script-a4-lilly.rpy:6876
+# game/script-a4-lilly.rpy:6881
 translate zh_hant a4_lilly_false_cadence_24574dca:
 
     # "I was too late."
     "我沒趕上。"
 
-# game/script-a4-lilly.rpy:6890
+# game/script-a4-lilly.rpy:6895
 translate zh_hant a4_lilly_under_a_maudlin_sky_ce617998:
 
     # "…"
     "……"
 
-# game/script-a4-lilly.rpy:6892
+# game/script-a4-lilly.rpy:6897
 translate zh_hant a4_lilly_under_a_maudlin_sky_442941ca:
 
     # "……"
     "……"
 
-# game/script-a4-lilly.rpy:6894
+# game/script-a4-lilly.rpy:6899
 translate zh_hant a4_lilly_under_a_maudlin_sky_b010f1b9:
 
     # "………"
     "………"
 
-# game/script-a4-lilly.rpy:6896
+# game/script-a4-lilly.rpy:6901
 translate zh_hant a4_lilly_under_a_maudlin_sky_e2df87d1:
 
     # "What's… going on…?"
     "發生了……什麼……？"
 
-# game/script-a4-lilly.rpy:6898
+# game/script-a4-lilly.rpy:6903
 translate zh_hant a4_lilly_under_a_maudlin_sky_3daec68d:
 
     # "As I slowly open my eyes, a bright, white light assaults my retinas."
     "我慢慢睜開雙眼，一道耀眼的白光刺痛了我的視網膜。"
 
-# game/script-a4-lilly.rpy:6900
+# game/script-a4-lilly.rpy:6905
 translate zh_hant a4_lilly_under_a_maudlin_sky_ceedbdec:
 
     # "For minutes I just lay where I am, mindlessly staring ahead while my scattered thoughts coalesce in my slowly waking mind."
     "數分鐘內，我只是躺在原地，茫然地盯著前方，與此同時，破碎的思緒在我緩緩甦醒的腦海裡一點點拼湊。"
 
-# game/script-a4-lilly.rpy:6906
+# game/script-a4-lilly.rpy:6911
 translate zh_hant a4_lilly_under_a_maudlin_sky_29b87ea6:
 
     # "Slowly but surely, the white begins to come into focus as a bare expanse begins to be drawn across my field of vision."
     "慢慢的，白光逐漸清晰，一片廣闊的空間逐漸映入我的眼簾。"
 
-# game/script-a4-lilly.rpy:6908
+# game/script-a4-lilly.rpy:6913
 translate zh_hant a4_lilly_under_a_maudlin_sky_fa514712:
 
     # "It's only when the light fixture comes into view that my mind clicks that this is the ceiling above me."
     "當燈具變得清晰時，我才意識到那是自己頭頂上的天花板。"
 
-# game/script-a4-lilly.rpy:6913
+# game/script-a4-lilly.rpy:6918
 translate zh_hant a4_lilly_under_a_maudlin_sky_cea97aa2:
 
     # "Slowly levering myself up, I silently absorb through all my senses the details of the room I'm in."
     "我慢慢挺起身來，無聲地用所有感官感受著自己身處的房間。"
 
-# game/script-a4-lilly.rpy:6915
+# game/script-a4-lilly.rpy:6920
 translate zh_hant a4_lilly_under_a_maudlin_sky_e9afdd61:
 
     # "The smell and taste of strong bleach hang in the air, lending the impression of a place just slightly too clean to be natural."
     "空氣中飄蕩著一股強烈的漂白劑味，讓人感覺這裡乾淨得有些不自然。"
 
-# game/script-a4-lilly.rpy:6917
+# game/script-a4-lilly.rpy:6922
 translate zh_hant a4_lilly_under_a_maudlin_sky_f4608723:
 
     # "Inoffensive pale peach-colored walls, all perfectly painted without a crack, stain or imperfection. A single framed painting hangs on the wall, perfectly straightened. Like the walls, it's as boring and inoffensive as can be."
     "牆是柔和的淡桃色，塗料刷得非常完美，看不到一絲裂痕，水跡或不平整的地方。牆上掛著一幅孤單的畫，非常正。和牆看上去一樣，既無聊又無害。"
 
-# game/script-a4-lilly.rpy:6919
+# game/script-a4-lilly.rpy:6924
 translate zh_hant a4_lilly_under_a_maudlin_sky_30ce39e3:
 
     # "My attention's grabbed by the translucent curtain waving across my vision, my eyes following it to the open window it covers."
     "我的注意力被視野中飄動的半透明窗簾吸引，我的目光跟隨它移向了被遮住的窗戶。"
 
-# game/script-a4-lilly.rpy:6921
+# game/script-a4-lilly.rpy:6926
 translate zh_hant a4_lilly_under_a_maudlin_sky_d4466daf:
 
     # "When I move my right arm to try to lift myself up and look through it, I feel the catheter dig in uncomfortably. It's only now, too, that I notice the cannula tubes winding around my cheeks and into my nose."
     "當我試圖用右臂支撐起自己，好看看窗戶外面的景象時，我感到導管正不舒服地在體內扯動。我這才注意到插管纏繞著我的臉頰，伸進了我的鼻腔。"
 
-# game/script-a4-lilly.rpy:6923
+# game/script-a4-lilly.rpy:6928
 translate zh_hant a4_lilly_under_a_maudlin_sky_cbd6ff49:
 
     # "After some fidgeting, I settle for just looking around the corner of the window."
     "折騰片刻之後，我只好放棄，看著窗戶角落。"
 
-# game/script-a4-lilly.rpy:6928
+# game/script-a4-lilly.rpy:6933
 translate zh_hant a4_lilly_under_a_maudlin_sky_39dc330f:
 
     # "Beyond the thick leaves of several large trees, I can see the greenery below, backing out onto a field. A customary island of green on the outskirts of the city."
     "透過幾棵大樹濃密的樹葉，我能看到下面的植被，漸漸延伸到一片原野。這是一個城市邊緣很常見的綠化島。"
 
-# game/script-a4-lilly.rpy:6930
+# game/script-a4-lilly.rpy:6935
 translate zh_hant a4_lilly_under_a_maudlin_sky_8bc9f154:
 
     # "Judging by the sun outside, it's noon. Of which day, though, I'm not sure."
     "根據室外的太陽判斷，現在是中午。但是今天的日期是什麼，我卻想不起來。"
 
-# game/script-a4-lilly.rpy:6932
+# game/script-a4-lilly.rpy:6937
 translate zh_hant a4_lilly_under_a_maudlin_sky_9e390ba4:
 
     # "So… I'm in a hospital once again."
     "那看來……我又進醫院了。"
 
-# game/script-a4-lilly.rpy:6934
+# game/script-a4-lilly.rpy:6939
 translate zh_hant a4_lilly_under_a_maudlin_sky_ef37c3dd:
 
     # "I let out a long, tired breath as I try to collect my scattered thoughts, my mind seemingly cast in a dozen directions all at once with as many emotions running through me."
     "我長長地嘆了口氣，感覺很疲憊，同時試圖整理自己破碎的思緒，我的思緒似乎被拉向四面八方，無數情感如浪潮般沖刷著我。"
 
-# game/script-a4-lilly.rpy:6939
+# game/script-a4-lilly.rpy:6944
 translate zh_hant a4_lilly_under_a_maudlin_sky_9d13f4ff:
 
     # "After slowly lying back down, I decide to start at the beginning; why I'm here."
     "緩緩躺下後，我決定重頭開始，先弄清自己為什麼在這兒。"
 
-# game/script-a4-lilly.rpy:6941
+# game/script-a4-lilly.rpy:6946
 translate zh_hant a4_lilly_under_a_maudlin_sky_12690de9:
 
     # "I cast my mind back, but I can't work out a smooth recollection of what happened. The events of last night… or whichever night it was… come back more as a series of snapshots than any cohesive memory."
     "我試圖回想，但無法順利回想起發生了什麼。昨晚的事……不管到底是哪天晚上……現在想起來更像是一系列零碎的片段，而非連貫的記憶。"
 
-# game/script-a4-lilly.rpy:6948
+# game/script-a4-lilly.rpy:6953
 translate zh_hant a4_lilly_under_a_maudlin_sky_2b4a93a1:
 
     # "Lying on my bed looking at the origami bird."
     "躺在床上，看著那個千紙鶴。"
 
-# game/script-a4-lilly.rpy:6955
+# game/script-a4-lilly.rpy:6960
 translate zh_hant a4_lilly_under_a_maudlin_sky_c2c37c49:
 
     # "Talking to Hideaki outside the Hakamichi residence."
     "在羽加道家外和秀明說話。"
 
-# game/script-a4-lilly.rpy:6962
+# game/script-a4-lilly.rpy:6967
 translate zh_hant a4_lilly_under_a_maudlin_sky_6eb7b7d2:
 
     # "Running down the street, passing pedestrians and bumping into more and more of them."
     "沿著街跑，路過一個個行人，撞上他們。"
 
-# game/script-a4-lilly.rpy:6971
+# game/script-a4-lilly.rpy:6976
 translate zh_hant a4_lilly_under_a_maudlin_sky_41a38e7b:
 
     # "Falling."
     "摔跤。"
 
-# game/script-a4-lilly.rpy:6977
+# game/script-a4-lilly.rpy:6982
 translate zh_hant a4_lilly_under_a_maudlin_sky_880407de:
 
     # "Looking up at the searingly bright airport entrance, seeing Lilly's back as I lay on the ground…"
     "躺在地上，抬頭看著機場入口灼熱的亮光，看到莉莉的背影……"
 
-# game/script-a4-lilly.rpy:6979
+# game/script-a4-lilly.rpy:6984
 translate zh_hant a4_lilly_under_a_maudlin_sky_ce617998_1:
 
     # "…"
     "……"
 
-# game/script-a4-lilly.rpy:6984
+# game/script-a4-lilly.rpy:6989
 translate zh_hant a4_lilly_under_a_maudlin_sky_4992c769:
 
     # "The silence of the private room suddenly feels overwhelming."
     "私人病房的寂靜突然變得震耳欲聾。"
 
-# game/script-a4-lilly.rpy:6988
+# game/script-a4-lilly.rpy:6993
 translate zh_hant a4_lilly_under_a_maudlin_sky_76b2fe88:
 
     # nvl clear
     nvl clear
 
-# game/script-a4-lilly.rpy:6991
+# game/script-a4-lilly.rpy:6996
 translate zh_hant a4_lilly_under_a_maudlin_sky_8d70b7ea:
 
     # n "{vspace=30}So that's it. I had my chance to correct my mistake, and I blew it."
     n "{vspace=30}就是這樣吧。我有過彌補過錯的機會，我卻搞砸了。"
 
-# game/script-a4-lilly.rpy:6993
+# game/script-a4-lilly.rpy:6998
 translate zh_hant a4_lilly_under_a_maudlin_sky_3a74baf3:
 
     # n "Whether I was at fault for neglecting my medication and disregarding to pace myself, or my body was for giving out so soon, it doesn't matter now."
     n "不管我失敗是因為忘了吃藥，沒有注意節奏，還是身體垮得太快，現在都不重要了。"
 
-# game/script-a4-lilly.rpy:6995
+# game/script-a4-lilly.rpy:7000
 translate zh_hant a4_lilly_under_a_maudlin_sky_9f3156a6:
 
     # n "All that matters is that, once again, I'm alone."
     n "重要的只是，再一次，我變成了孤身一人。"
 
-# game/script-a4-lilly.rpy:6997
+# game/script-a4-lilly.rpy:7002
 translate zh_hant a4_lilly_under_a_maudlin_sky_03fe5d3a:
 
     # n "The pastel blue pillow yields with little resistance as I let myself fall back onto the bed, its starchy case, along with the starchy sheets, providing little comfort."
     n "我躺回了床上，靛藍色的枕頭沒有任何抵抗，漿洗過的枕套和床單讓人不太舒服。"
 
-# game/script-a4-lilly.rpy:6999
+# game/script-a4-lilly.rpy:7004
 translate zh_hant a4_lilly_under_a_maudlin_sky_2f00b30c:
 
     # n "Compared to the darkness of last night's events, the bright light of the room around me is striking. All it does, though, is emphasize how otherworldly places like this are."
     n "和記憶中事情發生後的黑暗相比，房間裡周圍的亮光顯得格外刺眼。不過，這裡的一切都是如此，更凸顯了這個地方的特別。"
 
-# game/script-a4-lilly.rpy:7001
+# game/script-a4-lilly.rpy:7006
 translate zh_hant a4_lilly_under_a_maudlin_sky_1350d402:
 
     # n "{vspace=30}Arrhythmia."
     n "{vspace=30}心律不整。"
 
-# game/script-a4-lilly.rpy:7003
+# game/script-a4-lilly.rpy:7008
 translate zh_hant a4_lilly_under_a_maudlin_sky_d2b19279:
 
     # n "{vspace=30}A strange word. A foreign, alien one. One that you don't want to be in the same room with."
     n "{vspace=30}真是個古怪的詞。陌生又奇異。你不會想和這樣的詞待在同一個房間裡的。"
 
-# game/script-a4-lilly.rpy:7005
+# game/script-a4-lilly.rpy:7010
 translate zh_hant a4_lilly_under_a_maudlin_sky_96ac1846:
 
     # n "A rare condition. It causes the heart to act erratically and occasionally beat way too fast. It can be fatal."
     n "一種少見的疾病。導致心跳不規律，有時過快。可能是致命的。"
 
-# game/script-a4-lilly.rpy:7007
+# game/script-a4-lilly.rpy:7012
 translate zh_hant a4_lilly_under_a_maudlin_sky_e288a988:
 
     # nvl clear
@@ -11470,37 +11474,37 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_e288a988:
     nvl clear
     n "{vspace=30}“你能活這麼久，都沒遇上什麼事，真是個奇蹟。”他們說。"
 
-# game/script-a4-lilly.rpy:7011
+# game/script-a4-lilly.rpy:7016
 translate zh_hant a4_lilly_under_a_maudlin_sky_408ceeff:
 
     # n "And then, it did. My condition had taken away everything; my old school was of no importance any more. My home was reduced to a faraway place. Both my friends and my first love simply stopped visiting after a length of time."
     n "接著，事情就發生了。我的病奪走了一切。我從前的校園生活變得毫無意義，我的家變成了一個遙不可及的地方，我的朋友和初戀在一段時間後就不再出現了。"
 
-# game/script-a4-lilly.rpy:7013
+# game/script-a4-lilly.rpy:7018
 translate zh_hant a4_lilly_under_a_maudlin_sky_f9e6cf5e:
 
     # n "I became cynical and embittered. Distant and subdued. In my defense, no person could avoid that after such a thing happening to them, but nonetheless I left the hospital as a very definitely changed person."
     n "我變得憤世嫉俗，鬱鬱寡歡。待人冷漠順從。自我辯解一下，沒人會在遇到這樣的事後還能避免變成這樣。儘管如此，我離開醫院時，和從前的自己早已判若兩人了。"
 
-# game/script-a4-lilly.rpy:7015
+# game/script-a4-lilly.rpy:7020
 translate zh_hant a4_lilly_under_a_maudlin_sky_a6a5fcd0:
 
     # n "Things changed. I made new friends in Hanako, Shizune and Misha. I found a new sense of 'home' in my dormitory, a new interest in science and the world around me, and I found a direction to my life that I had never felt before."
     n "後來事情有了轉機。我和華子、靜音和米莎結交了朋友。在我的寢室裡，我重新找到了一種“家”的新感覺，對科學和身邊的世界燃起了興趣。此外，我還找到了一個生命的方向，這是前所未有的。"
 
-# game/script-a4-lilly.rpy:7017
+# game/script-a4-lilly.rpy:7022
 translate zh_hant a4_lilly_under_a_maudlin_sky_2aa2e2bb:
 
     # n "{vspace=30}But I'd also discovered other things."
     n "{vspace=30}但我還發現了其他的東西。"
 
-# game/script-a4-lilly.rpy:7019
+# game/script-a4-lilly.rpy:7024
 translate zh_hant a4_lilly_under_a_maudlin_sky_61c19a31:
 
     # n "The sense of isolation in Yamaku and its surrounds was not entirely unwelcome, the quiet giving a peace of mind I might not have found elsewhere, but it gave the area a feeling of being pushed out of the way, of being kept out of sight."
     n "山久高校那種孤立的感覺，還有它周圍的環境並不是那麼令人不悅。安靜的環境讓我得以享受到別處無法擁有的平靜，但也讓人感覺這裡與世隔絕了，超出了社會的視線之外。"
 
-# game/script-a4-lilly.rpy:7021
+# game/script-a4-lilly.rpy:7026
 translate zh_hant a4_lilly_under_a_maudlin_sky_3a0a54af:
 
     # nvl clear
@@ -11508,37 +11512,37 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_3a0a54af:
     nvl clear
     n "{vspace=60}當街上的人意識到他們在盯著我們看時，都會尷尬地瞥開視線。就算我的病症沒法看出來，他們也能認出我的校服。"
 
-# game/script-a4-lilly.rpy:7025
+# game/script-a4-lilly.rpy:7030
 translate zh_hant a4_lilly_under_a_maudlin_sky_23b597cd:
 
     # n "Even if it weren't, I was still different. I took seventeen pills a day, morning, midday and night. My scar, though hidden behind clothing, was still a permanent mark of my condition. And most of all, there was the very real possibility of death."
     n "就算看不出來，也沒法改變我是個異類的事實。每天的早晨、中午和晚上，我都要嚥下共十七顆藥丸。雖然衣服能藏住我的傷疤，但它依然是我病症無法抹去的標誌。最重要的是，我確實面對著死亡。"
 
-# game/script-a4-lilly.rpy:7027
+# game/script-a4-lilly.rpy:7032
 translate zh_hant a4_lilly_under_a_maudlin_sky_ea217089:
 
     # n "A bad fall. An absentminded hard hit on the back. A simple sprint taken too far. Anything could have set my heart off, and several times I teetered on the edge of the abyss even with all the care I took of myself."
     n "狠狠地摔一跤、無意間被人重擊了背部、衝刺跑過了頭，任何事都有可能引發我的心臟問題。有幾次，我都已在深淵邊緣搖搖欲墜了，哪怕我再怎麼小心謹慎。"
 
-# game/script-a4-lilly.rpy:7029
+# game/script-a4-lilly.rpy:7034
 translate zh_hant a4_lilly_under_a_maudlin_sky_fde3c202:
 
     # n "{vspace=30}But that was fine. I could have lived with all that."
     n "{vspace=30}不過沒關係，這些我都能忍受。"
 
-# game/script-a4-lilly.rpy:7031
+# game/script-a4-lilly.rpy:7036
 translate zh_hant a4_lilly_under_a_maudlin_sky_ae934372:
 
     # n "Because there was one final thing I'd found, or rather refound, after entering Yamaku."
     n "因為當我進入山久高校後，終於找到了，或者說，重新找回了一件最重要的事物。"
 
-# game/script-a4-lilly.rpy:7033
+# game/script-a4-lilly.rpy:7038
 translate zh_hant a4_lilly_under_a_maudlin_sky_61b8a803:
 
     # n "{vspace=30}Which was once again snatched away before my eyes."
     n "{vspace=30}然後，卻就在我的眼前被奪走。"
 
-# game/script-a4-lilly.rpy:7035
+# game/script-a4-lilly.rpy:7040
 translate zh_hant a4_lilly_under_a_maudlin_sky_7bb73334:
 
     # nvl clear
@@ -11546,1363 +11550,1363 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_7bb73334:
     nvl clear
     n "{vspace=30}我才意識到自己新找到的幸福其實有多脆弱。每件事都依賴著她。自從我以一個陰鬱、迷茫又漫無目的的轉學生身份進入山久高校後，她就一直是我生命的關鍵。"
 
-# game/script-a4-lilly.rpy:7039
+# game/script-a4-lilly.rpy:7044
 translate zh_hant a4_lilly_under_a_maudlin_sky_460f09cc:
 
     # n "Lilly Satou was the one person I could depend upon above all others, and who reciprocated the love that I felt for her. But I failed her, and only realized it all too late."
     n "砂藤莉莉是唯一一個我能依靠的人，她也回應了我對她的愛。可是我卻沒有做到我該做的一切。意識到這一點時，一切都太遲了。"
 
-# game/script-a4-lilly.rpy:7041
+# game/script-a4-lilly.rpy:7046
 translate zh_hant a4_lilly_under_a_maudlin_sky_4bf652b4:
 
     # n "I thought that I could just set my life up and continue that way forever, but the real world doesn't work like that. I finally realized the meaning of those words, only to be struck down as I confronted my failure to do so in time."
     n "我還以為自己能自己定下人生目標，然後順著它走去。可是真實的世界是不會像想像中那樣運轉的。我終於意識到時，只徒勞地被自己的失敗擊垮。"
 
-# game/script-a4-lilly.rpy:7043
+# game/script-a4-lilly.rpy:7048
 translate zh_hant a4_lilly_under_a_maudlin_sky_e49a48d7:
 
     # n "{vspace=30}…"
     n "{vspace=30}……"
 
-# game/script-a4-lilly.rpy:7045
+# game/script-a4-lilly.rpy:7050
 translate zh_hant a4_lilly_under_a_maudlin_sky_bc2810bc:
 
     # n "{vspace=30}The surroundings I'm in now are all too familiar. It's as if Yamaku was but a dream, and I'm still recovering from my first major heart attack."
     n "{vspace=30}我現在身處的環境實在是太熟悉了，就好像山久高校只是一個夢而已，而我依然沒有從自己的第一次心臟病發作中康復。"
 
-# game/script-a4-lilly.rpy:7047
+# game/script-a4-lilly.rpy:7052
 translate zh_hant a4_lilly_under_a_maudlin_sky_45f0335e:
 
     # n "Maybe that's why I feel so tired. It feels almost as if I've lived the entire last few months of my life in the space of minutes."
     n "可能這就是我如此疲倦的原因。我感覺自己幾乎在數分鐘內過完了過去數個月的生活。"
 
-# game/script-a4-lilly.rpy:7050
+# game/script-a4-lilly.rpy:7055
 translate zh_hant a4_lilly_under_a_maudlin_sky_76b2fe88_1:
 
     # nvl clear
     nvl clear
 
-# game/script-a4-lilly.rpy:7055
+# game/script-a4-lilly.rpy:7060
 translate zh_hant a4_lilly_under_a_maudlin_sky_28109729:
 
     # "The weight of my eyelids closes my eyes, my physical and mental exhaustion letting me offer no resistance."
     "沉重的眼瞼逼我合上了雙眼，我的身體和心理都是那麼疲憊，無力抵抗。"
 
-# game/script-a4-lilly.rpy:7057
+# game/script-a4-lilly.rpy:7062
 translate zh_hant a4_lilly_under_a_maudlin_sky_62de665f:
 
     # "Unintelligible mumbling from ahead of the bed stirs me out of my sleep."
     "床頭傳來了模糊不清的低語聲，把我從睡夢中吵醒了。"
 
-# game/script-a4-lilly.rpy:7059
+# game/script-a4-lilly.rpy:7064
 translate zh_hant a4_lilly_under_a_maudlin_sky_ab44f2d8:
 
     # "With my eyes still closed, I can focus and make out someone, presumably a nurse, bidding farewell to a doctor."
     "我依然閉著眼，這樣一來，我可以集中注意力辨別出有人正在和一名醫生道別，或許是一位校醫。"
 
-# game/script-a4-lilly.rpy:7064
+# game/script-a4-lilly.rpy:7069
 translate zh_hant a4_lilly_under_a_maudlin_sky_97920bbb:
 
     # "As I open my eyes, I notice the door closing in my peripheral vision."
     "當我睜開眼睛時，注意到視野邊緣的那扇門被關上了。"
 
-# game/script-a4-lilly.rpy:7066
+# game/script-a4-lilly.rpy:7071
 translate zh_hant a4_lilly_under_a_maudlin_sky_a75c819b:
 
     # "The doctor stands reading some notes off a clipboard held in his hand, carefully looking over the pages."
     "醫生站在那裡仔細地讀著手上剪貼簿上的東西，神情專注。"
 
-# game/script-a4-lilly.rpy:7068
+# game/script-a4-lilly.rpy:7073
 translate zh_hant a4_lilly_under_a_maudlin_sky_accd39a1:
 
     # "After consulting his obviously very important documents, he looks up and notices my gaze. It's now that I notice something slightly odd about his expression and general disposition, but I can't quite put my finger on it."
     "當他看完那顯然很重要的文件後抬起了頭，對上了我的目光。我這才意識到他的神情有些古怪，氣質也是，可我又說不清到底是什麼。"
 
-# game/script-a4-lilly.rpy:7070
+# game/script-a4-lilly.rpy:7075
 translate zh_hant a4_lilly_under_a_maudlin_sky_52c546d2:
 
     # "Doctor" "Ah, I see you're awake… Mr. Nakai."
-    "醫生" "啊，看來你醒了……中井先生。"
+    "Doctor" "醫生"
 
-# game/script-a4-lilly.rpy:7072
+# game/script-a4-lilly.rpy:7077
 translate zh_hant a4_lilly_under_a_maudlin_sky_2b2db0bc:
 
     # "His quick glance to my bed end, to verify my name, shows that his documents obviously didn't have it written on them."
     "他飛速地向我的床頭瞟了一眼，以確認我的名字，看來他的文件上並未記載。"
 
-# game/script-a4-lilly.rpy:7074
+# game/script-a4-lilly.rpy:7079
 translate zh_hant a4_lilly_under_a_maudlin_sky_34d0fab9:
 
     # "Doctor" "I must admit this is a bit unfortunate; your parents visited just earlier while you were asleep. I could notify them you're awake now, if you'd like."
-    "醫生" "我得承認有點不巧；早些時候，你的父母在你睡著時來探訪了。如果你願意的話，我可以通知他們你已經醒了。"
+    "Doctor" "醫生"
 
-# game/script-a4-lilly.rpy:7076
+# game/script-a4-lilly.rpy:7081
 translate zh_hant a4_lilly_under_a_maudlin_sky_03b6c41d:
 
     # hi "Um… thanks. That would be good."
     hi "呃……謝謝，不勝感激。"
 
-# game/script-a4-lilly.rpy:7078
+# game/script-a4-lilly.rpy:7083
 translate zh_hant a4_lilly_under_a_maudlin_sky_9d241277:
 
     # "I give a somewhat dazed reply, most likely the one he'd expect, before really thinking about what I'm saying."
     "我給了個茫然的回答，根本沒怎麼仔細思考，這大概也是他預料中的回答。"
 
-# game/script-a4-lilly.rpy:7080
+# game/script-a4-lilly.rpy:7085
 translate zh_hant a4_lilly_under_a_maudlin_sky_56a38a2c:
 
     # "Doctor" "Not a problem."
-    "醫生" "沒問題。"
+    "Doctor" "醫生"
 
-# game/script-a4-lilly.rpy:7082
+# game/script-a4-lilly.rpy:7087
 translate zh_hant a4_lilly_under_a_maudlin_sky_fcaf871d:
 
     # "Doctor" "If you have any questions you'd like to ask, I'll be happy to answer them. That is, unless you'd prefer to rest; the anaesthetic's still going to be affecting you a bit, I'm afraid."
-    "醫生" "如果你有什麼想問的問題，儘管問吧。除非你想要休息，恐怕麻醉劑對你還會有一段時間的影響。"
+    "Doctor" "醫生"
 
-# game/script-a4-lilly.rpy:7084
+# game/script-a4-lilly.rpy:7089
 translate zh_hant a4_lilly_under_a_maudlin_sky_273dfb86:
 
     # "The anaesthetic… of course. That'd be why I felt so strange the first time I woke up."
     "麻醉……當然了。所以我第一次醒來時才會感覺那麼古怪。"
 
-# game/script-a4-lilly.rpy:7086
+# game/script-a4-lilly.rpy:7091
 translate zh_hant a4_lilly_under_a_maudlin_sky_d6987177:
 
     # "I slowly shake my head, not wanting to dislodge any pipes or cause myself any more discomfort than necessary. The doctor politely puts down his clipboard in response."
     "我緩緩搖了搖頭，不想弄掉任何導管，或讓自己感到不適。醫生禮貌地放下了他的剪貼簿，以示回應。"
 
-# game/script-a4-lilly.rpy:7088
+# game/script-a4-lilly.rpy:7093
 translate zh_hant a4_lilly_under_a_maudlin_sky_4b02dd70:
 
     # hi "I guess my main question is… what exactly happened?"
     hi "我最想問的應該是……到底發生什麼事？"
 
-# game/script-a4-lilly.rpy:7090
+# game/script-a4-lilly.rpy:7095
 translate zh_hant a4_lilly_under_a_maudlin_sky_8f6530f6:
 
     # "Doctor" "To put it simply, you've unfortunately had another heart attack. While not as severe as your first, you were very lucky it occurred so close to a hospital."
-    "醫生" "簡單說來，你不幸又經歷了一次心臟病發作。雖然沒有第一次那麼嚴重，不過還是很幸運的，你發作時離醫院這麼近。"
+    "Doctor" "醫生"
 
-# game/script-a4-lilly.rpy:7092
+# game/script-a4-lilly.rpy:7097
 translate zh_hant a4_lilly_under_a_maudlin_sky_2c426f58:
 
     # "Doctor" "After being stabilized, you were taken to the operating room. What followed was keyhole surgery in order to insert a temporary pacemaker."
-    "醫生" "等你穩定下來後，我們把你送到了手術室。我們進行了微創手術，植入了一個臨時起搏器。"
+    "Doctor" "醫生"
 
-# game/script-a4-lilly.rpy:7094
+# game/script-a4-lilly.rpy:7099
 translate zh_hant a4_lilly_under_a_maudlin_sky_05023011:
 
     # "Doctor" "All in all, the incident happened two days ago, with emergency treatment being carried out very soon afterward. Since then, we've kept you under close observation while you were asleep."
-    "醫生" "總而言之，這意外是兩天前的事了，之後我們立即進行了緊急治療。那之後，我們一直在密切監測你的狀況，你則持續昏睡。"
+    "Doctor" "醫生"
 
-# game/script-a4-lilly.rpy:7096
+# game/script-a4-lilly.rpy:7101
 translate zh_hant a4_lilly_under_a_maudlin_sky_ea2b3856:
 
     # hi "Will I be all right? Are there any lasting problems?"
     hi "我會有事嗎？會不會有後遺症？"
 
-# game/script-a4-lilly.rpy:7098
+# game/script-a4-lilly.rpy:7103
 translate zh_hant a4_lilly_under_a_maudlin_sky_15cdd2b2:
 
     # "Doctor" "Compared to the procedure carried out for your first heart attack, this was relatively minor."
-    "醫生" "和你第一次發作後的治療相比，這次的要相對小得多。"
+    "Doctor" "醫生"
 
-# game/script-a4-lilly.rpy:7100
+# game/script-a4-lilly.rpy:7105
 translate zh_hant a4_lilly_under_a_maudlin_sky_78aabafb:
 
     # "Doctor" "While you will have to undergo surgery once more in a few days' time to remove the pacemaker, assuming there are no complications, there should be no lasting implications."
-    "醫生" "不過幾天以後，你必須再做一次手術，把起搏器給移除，如果沒有併發症，應該就不會有長期的影響了。"
+    "Doctor" "醫生"
 
-# game/script-a4-lilly.rpy:7102
+# game/script-a4-lilly.rpy:7107
 translate zh_hant a4_lilly_under_a_maudlin_sky_402c6b87:
 
     # "He continues talking, the subject shifting to a repetition of facts about arrhythmia and my medications that I already know for the most part. I start to nod and feign interest, while my mind drifts."
     "他繼續說著，話題轉向了關於心律不整和我的藥物的老生常談，大多數我都知道。我開始點頭，假裝自己感興趣，但心不在焉。"
 
-# game/script-a4-lilly.rpy:7104
+# game/script-a4-lilly.rpy:7109
 translate zh_hant a4_lilly_under_a_maudlin_sky_5504fe60:
 
     # "I begin to think about how perfectly hung the inoffensive painting hanging on the wall behind his shoulder is, and how neat and sterile the surroundings are, even including the doctor himself."
     "我開始琢磨在他肩膀後方牆上掛著的那些無害畫作有多麼完美，整個環境有多整齊無菌，就連醫生本人也不例外。"
 
-# game/script-a4-lilly.rpy:7106
+# game/script-a4-lilly.rpy:7111
 translate zh_hant a4_lilly_under_a_maudlin_sky_b0b5b022:
 
     # "Doctor" "If my mumbling bores you, you are quite welcome to say so, Mr. Nakai. Lord knows, I lose track of myself sometimes."
-    "醫生" "如果我的囉嗦讓你心煩了，儘管說出來，中井先生。老天，有時候我真是自己都忘了自己在說些什麼。"
+    "Doctor" "醫生"
 
-# game/script-a4-lilly.rpy:7108
+# game/script-a4-lilly.rpy:7113
 translate zh_hant a4_lilly_under_a_maudlin_sky_ca9898bb:
 
     # "He gives a short chuckle at his self-deprecating joke as I grimace awkwardly, having been rather badly caught out."
     "他對自己的自嘲輕笑一聲，我被看穿了心思，尷尬地傻笑起來。"
 
-# game/script-a4-lilly.rpy:7110
+# game/script-a4-lilly.rpy:7115
 translate zh_hant a4_lilly_under_a_maudlin_sky_827844db:
 
     # "The doctor's chuckle sounds different from that of the nurse at Yamaku though, come to think of it. As I ponder why, I realize why the man in front of me feels just that little bit 'off'."
     "不過，仔細一想，這位醫生的笑聲聽起來卻與山久高校的校醫不同。正當我納悶為什麼時，意識到為什麼自己面前的這個男人給人的感覺有些“不對勁”了。"
 
-# game/script-a4-lilly.rpy:7112
+# game/script-a4-lilly.rpy:7117
 translate zh_hant a4_lilly_under_a_maudlin_sky_e47855b8:
 
     # "His smile is neat and sterile. He delivers his little joke perfectly, with a customary inoffensive chuckle."
     "他的笑容也是整潔無菌的，完美地說出了那笑話，帶著慣有的無害笑聲。"
 
-# game/script-a4-lilly.rpy:7114
+# game/script-a4-lilly.rpy:7119
 translate zh_hant a4_lilly_under_a_maudlin_sky_01bbd401:
 
     # "It is like, rather than talking to the man whose name is neatly printed on the nametag pinned to his lab coat, I'm merely interacting with an actor reading off a prerehearsed script, every action having been choreographed beforehand."
     "就像是我沒在和一個名字整齊印在白大褂外名牌上的男人說話，而是和一個事先背好劇本上臺詞的演員交談，每一個動作都是經過精心編排過的。"
 
-# game/script-a4-lilly.rpy:7116
+# game/script-a4-lilly.rpy:7121
 translate zh_hant a4_lilly_under_a_maudlin_sky_3815c80b:
 
     # "I suppose he has to be this way though, being a doctor."
     "不過，我猜他也不得不這麼做，畢竟他是個醫生。"
 
-# game/script-a4-lilly.rpy:7118
+# game/script-a4-lilly.rpy:7123
 translate zh_hant a4_lilly_under_a_maudlin_sky_0f92f24f:
 
     # "He has to keep his neat and sterile smile when chatting to the girl with cancer slowly spreading through her body, when reassuring the woman who'll surely die from childbirth, and with every other terminally and critically ill patient."
     "當他和一個癌細胞慢慢蔓延的女孩說話時，安慰一個馬上就會死於難產的女人時，還有和每一個身患不治之症的病人交談時，都必須保持這種整潔無菌的笑容。"
 
-# game/script-a4-lilly.rpy:7120
+# game/script-a4-lilly.rpy:7125
 translate zh_hant a4_lilly_under_a_maudlin_sky_78c74756:
 
     # "That little bit of distance. That little bit of aloofness."
     "那一點距離，便是觸不可及。"
 
-# game/script-a4-lilly.rpy:7122
+# game/script-a4-lilly.rpy:7127
 translate zh_hant a4_lilly_under_a_maudlin_sky_d42281cb:
 
     # "It makes me wonder if I've been too harsh, especially considering it's a disposition far from being adopted only by people in his profession."
     "這讓我反思自己是不是太嚴厲了，考慮到他這種職業的人才會有這樣的態度。"
 
-# game/script-a4-lilly.rpy:7124
+# game/script-a4-lilly.rpy:7129
 translate zh_hant a4_lilly_under_a_maudlin_sky_c097bdd1:
 
     # "After all, the one I loved kept that same distance from others herself."
     "畢竟，我愛的那個人也同樣對身邊的人保持了一樣的距離。"
 
-# game/script-a4-lilly.rpy:7126
+# game/script-a4-lilly.rpy:7131
 translate zh_hant a4_lilly_under_a_maudlin_sky_12818236:
 
     # "Looking up to the doctor again, I realize I've been in thought with my head bowed for some time."
     "我再次抬頭看向醫生，意識到自己已經埋頭沉思一段時間了。"
 
-# game/script-a4-lilly.rpy:7128
+# game/script-a4-lilly.rpy:7133
 translate zh_hant a4_lilly_under_a_maudlin_sky_cf9710f3:
 
     # "Doctor" "I understand you must still be tired. You've been through a lot, and as I mentioned before, the anaesthetic would still be affecting you."
-    "醫生" "我懂，你肯定很累了。你經歷了不少事，而且我也說過了，麻醉仍會對你產生影響的。"
+    "Doctor" "醫生"
 
-# game/script-a4-lilly.rpy:7130
+# game/script-a4-lilly.rpy:7135
 translate zh_hant a4_lilly_under_a_maudlin_sky_48ff0e06:
 
     # "Doctor" "If you don't mind, I'll let you get some rest and tell your parents you've woken up for you."
-    "醫生" "所以如果你不介意的話，我就讓你繼續休息好了，再替你告訴你父母，你已經醒了。"
+    "Doctor" "醫生"
 
-# game/script-a4-lilly.rpy:7132
+# game/script-a4-lilly.rpy:7137
 translate zh_hant a4_lilly_under_a_maudlin_sky_f349f0dc:
 
     # hi "I think… that would be good. Thank you."
     hi "我覺得……這樣挺好的，謝謝你。"
 
-# game/script-a4-lilly.rpy:7136
+# game/script-a4-lilly.rpy:7141
 translate zh_hant a4_lilly_under_a_maudlin_sky_23369489:
 
     # "He gives a curt nod before picking up his clipboard and making his way to the large white door in the corner of the room, closing it behind him with a thud."
     "他簡略地點點頭，然後拿起剪貼板走向了房間角落裡的白色大門，砰的一聲把它關上了。"
 
-# game/script-a4-lilly.rpy:7138
+# game/script-a4-lilly.rpy:7143
 translate zh_hant a4_lilly_under_a_maudlin_sky_d9632a50:
 
     # "In the end, I'm alone again."
     "我又孤身一人了。"
 
-# game/script-a4-lilly.rpy:7140
+# game/script-a4-lilly.rpy:7145
 translate zh_hant a4_lilly_under_a_maudlin_sky_ca7b35be:
 
     # "Lilly's gone. Akira's gone. Hanako would be traveling, and even my parents have already left the hospital."
     "莉莉已經走了。晃也是。華子要去旅行，就連我的父母也已經離開了醫院。"
 
-# game/script-a4-lilly.rpy:7142
+# game/script-a4-lilly.rpy:7147
 translate zh_hant a4_lilly_under_a_maudlin_sky_b9d04e28:
 
     # "Four pale peach walls, one white ceiling, and a single open window to look out towards the world outside."
     "四面淡桃色的牆壁，一個白色的天花板，還有一扇敞開的窗戶能讓我看到外面的世界。"
 
-# game/script-a4-lilly.rpy:7144
+# game/script-a4-lilly.rpy:7149
 translate zh_hant a4_lilly_under_a_maudlin_sky_4959cd8d:
 
     # "It's hard to think of the future when the past is crowded around you, claustrophobic in its neat, sterile, starchy, bleach-smelling grip."
     "當所有的過去都在身邊聚集的時候，真的很難去思考未來，我感覺自己像個幽閉恐懼症患者，被這整潔無菌、漿洗過且充滿漂白水氣味的房間緊緊束縛著。"
 
-# game/script-a4-lilly.rpy:7146
+# game/script-a4-lilly.rpy:7151
 translate zh_hant a4_lilly_under_a_maudlin_sky_9387de60:
 
     # "Lost for what to do or focus on, I content myself with sleeping the time away as if this were all just another dream like Yamaku had been."
     "我不知該做什麼，也不知該想什麼，只好任由時間在睡夢中流逝，彷彿這一切都只是另一個夢而已，就像是山久高校一樣。"
 
-# game/script-a4-lilly.rpy:7158
+# game/script-a4-lilly.rpy:7163
 translate zh_hant a4_lilly_under_a_bright_sky_79ff7ebb:
 
     # "White."
     "白色。"
 
-# game/script-a4-lilly.rpy:7160
+# game/script-a4-lilly.rpy:7165
 translate zh_hant a4_lilly_under_a_bright_sky_31c7853c:
 
     # "A sterile, clean white for a sterile, clean room."
     "無菌、潔白的房間，充斥著無菌、潔白的色彩。"
 
-# game/script-a4-lilly.rpy:7169
+# game/script-a4-lilly.rpy:7174
 translate zh_hant a4_lilly_under_a_bright_sky_78899b46:
 
     # "My eyes open, and I simply stare at the ceiling for some time. It's about as interesting as the television would be, mounted in its metal rack hanging off the ceiling ahead of the bed."
     "我睜開眼，盯著天花板看了很久。它的趣味性幾乎和一旁的電視不相上下，那電視掛在床前牆壁伸出的金屬架上。"
 
-# game/script-a4-lilly.rpy:7171
+# game/script-a4-lilly.rpy:7176
 translate zh_hant a4_lilly_under_a_bright_sky_bfe368bf:
 
     # "Indeed, the television saw its entire use during the time my parents were here. Left on quietly as they waited for me to wake, it was about as banal as it had been the first time I'd ended up in the hospital."
     "確實，我父母在這兒的期間裡，電視的娛樂性早已消耗殆盡。當他們等著我醒來時，電視就一直開在那裡，現在它看起來幾乎和我第一次住院時一樣無趣。"
 
-# game/script-a4-lilly.rpy:7173
+# game/script-a4-lilly.rpy:7178
 translate zh_hant a4_lilly_under_a_bright_sky_6cb04864:
 
     # "Earlier today an attending nurse had offered to turn off the EKG's speakers. I refused simply because the sound is so entirely normal to me now."
     "今天早些時候，一位隨訪護理師提出要關掉心電圖機的聲音，但我拒絕了，因為現在那聲音對我來說已習以為常。"
 
-# game/script-a4-lilly.rpy:7175
+# game/script-a4-lilly.rpy:7180
 translate zh_hant a4_lilly_under_a_bright_sky_40950ab4:
 
     # "It's almost comforting, in a way. The metronome-like regularity gives at least some feeling that time is moving, even in a place such as this."
     "從某種意義上來說，它甚至有些讓人舒服。那節拍器般的規律聲響至少能讓人感覺到時間仍在流逝，哪怕是在這種地方。"
 
-# game/script-a4-lilly.rpy:7177
+# game/script-a4-lilly.rpy:7182
 translate zh_hant a4_lilly_under_a_bright_sky_ad2bfc25:
 
     # "After some time of listening to its beeping while I fully awaken, though, I realize there's another sound in the room."
     "當我聽了一會兒那滴答聲，徹底清醒後，我意識到房間裡還有另外一種聲音。"
 
-# game/script-a4-lilly.rpy:7181
+# game/script-a4-lilly.rpy:7186
 translate zh_hant a4_lilly_under_a_bright_sky_e63a28a1:
 
     # "Concentrating all my efforts on listening, a task made rather easy by the lack of distractions, a tiny tinny melody can be heard."
     "我集中全部注意力去聽，由於沒有任何干擾，這項任務變得相當容易。接著，一陣輕柔的旋律傳入耳中。"
 
-# game/script-a4-lilly.rpy:7183
+# game/script-a4-lilly.rpy:7188
 translate zh_hant a4_lilly_under_a_bright_sky_e27ea15c:
 
     # "Light and quiet, the music sounds almost fragile as it's dwarfed by the EKG's pulses."
     "輕柔而安靜，心電圖機的脈衝聲讓樂聲顯得微弱，聽起來幾乎很脆弱。"
 
-# game/script-a4-lilly.rpy:7188
+# game/script-a4-lilly.rpy:7193
 translate zh_hant a4_lilly_under_a_bright_sky_7022bc55:
 
     # "Tilting my head just slightly to the side in an effort to see the source of the melody without dislodging any of the sensors and pipes stuck onto me, I notice a little wooden box sitting on the nightstand next to the bed."
     "我稍稍側了側頭，想要找到音樂的源頭，同時還要小心不弄掉連在我身上的導管和感測器。我注意到了床頭櫃上放著一個小木盒。"
 
-# game/script-a4-lilly.rpy:7199
+# game/script-a4-lilly.rpy:7204
 translate zh_hant a4_lilly_under_a_bright_sky_23ce919e:
 
     # "My mouth opens just slightly while I silently watch the tiny yellow metal drum slowly rotate inside, the little bumps on its surface gradually moving in and out of sight."
     "看著盒子中央金屬小轉軸緩緩轉動，它表面上的凸起物緩緩移出視線，又重新出現。我看呆了。"
 
-# game/script-a4-lilly.rpy:7201
+# game/script-a4-lilly.rpy:7206
 translate zh_hant a4_lilly_under_a_bright_sky_2baeebfa:
 
     # "This music box… it's the one I gave…"
     "這音樂盒……這是送給……"
 
-# game/script-a4-lilly.rpy:7210
+# game/script-a4-lilly.rpy:7215
 translate zh_hant a4_lilly_under_a_bright_sky_bc60a917:
 
     # "The creaking of the door breaks me out of my reverie, my head and heart remaining still as my eyes turn to see who comes through."
     "門的吱嘎聲把我拉出了思緒，我的頭和心臟紋絲不動，目光轉而去看進來的人是誰。"
 
-# game/script-a4-lilly.rpy:7212
+# game/script-a4-lilly.rpy:7217
 translate zh_hant a4_lilly_under_a_bright_sky_0faf4acb:
 
     # "Long tan skirt… peach off-the-shoulder sweater… pale, almost porcelain skin… blue clouded eyes and long, yellow hair…"
     "米色長裙……露肩毛衣……蒼白如瓷的肌膚……霧藍色的雙眸和一頭金黃長髮……"
 
-# game/script-a4-lilly.rpy:7217
+# game/script-a4-lilly.rpy:7222
 translate zh_hant a4_lilly_under_a_bright_sky_559af9a8:
 
     # "All I can do is stare as Lilly slowly walks into the room, her fingers lightly running over the wall for orientation, and my mind comes to a shuddering halt."
     "我呆呆地看著莉莉緩緩走進了房間，她的手指輕輕拂過牆壁，摸索著方向。我的思緒瞬間停滯。"
 
-# game/script-a4-lilly.rpy:7219
+# game/script-a4-lilly.rpy:7224
 translate zh_hant a4_lilly_under_a_bright_sky_cd2fa9eb:
 
     # hi "L… Lilly…?"
     hi "莉……莉莉……？"
 
-# game/script-a4-lilly.rpy:7224
+# game/script-a4-lilly.rpy:7229
 translate zh_hant a4_lilly_under_a_bright_sky_ad90a727:
 
     # "She stops midstride, her entire body tensing."
     "她在半途停住了，整個身體都繃了起來。"
 
-# game/script-a4-lilly.rpy:7226
+# game/script-a4-lilly.rpy:7231
 translate zh_hant a4_lilly_under_a_bright_sky_9d3115ec:
 
     # li "Hisao? Was that you?"
     li "久夫？是你嗎？"
 
-# game/script-a4-lilly.rpy:7228
+# game/script-a4-lilly.rpy:7233
 translate zh_hant a4_lilly_under_a_bright_sky_7ff56e16:
 
     # "Her voice is quiet and pensive, echoing her expression."
     "她的聲音輕柔而哀愁，與她的神情相呼應。"
 
-# game/script-a4-lilly.rpy:7230
+# game/script-a4-lilly.rpy:7235
 translate zh_hant a4_lilly_under_a_bright_sky_b9a1bf8f:
 
     # hi "I thought you were…"
     hi "我還以為妳已經……"
 
-# game/script-a4-lilly.rpy:7235
+# game/script-a4-lilly.rpy:7240
 translate zh_hant a4_lilly_under_a_bright_sky_76f852c5:
 
     # "Lilly takes one tentative step forward, then another, as if she were holding herself back."
     "莉莉試探性地向前邁了一步，接著是另一步，彷彿在極力克制自己。"
 
-# game/script-a4-lilly.rpy:7240
+# game/script-a4-lilly.rpy:7245
 translate zh_hant a4_lilly_under_a_bright_sky_8bf00222:
 
     # "Her control over her composure is for naught though, and she finally rushes over to where I lay as the last of her resistance falls."
     "但她的自制力終究潰堤，最後一絲抵抗也隨之瓦解，她終於衝向了我躺著的位置。"
 
-# game/script-a4-lilly.rpy:7245
+# game/script-a4-lilly.rpy:7250
 translate zh_hant a4_lilly_under_a_bright_sky_615df9ae:
 
     # "I'm slightly taken aback when she grabs hold of me, hunching over as tears begin to fall from her cheeks, since only minutes ago I thought she was on the other side of the world. After a moment of hesitation, I rest my right hand on her soft shoulder."
     "她抓住了我，彎腰俯下身，眼淚流下了臉頰，我有些吃驚，因為幾分鐘前，我還以為她此刻正在地球的另一端。片刻的猶豫之後，我將右手輕輕放在她柔軟的肩膀上。"
 
-# game/script-a4-lilly.rpy:7247
+# game/script-a4-lilly.rpy:7252
 translate zh_hant a4_lilly_under_a_bright_sky_d063b79e:
 
     # li "Hisao! Hisao!"
     li "久夫！久夫！"
 
-# game/script-a4-lilly.rpy:7249
+# game/script-a4-lilly.rpy:7254
 translate zh_hant a4_lilly_under_a_bright_sky_2383feb5:
 
     # "Lilly's body trembles as her tears blot the pale green sheets, her emotions flooding through her carefully maintained exterior."
     "莉莉的身體在顫抖，眼淚沾濕了淡綠色的床單，她的情感衝破了精心維持的鎮定外表。"
 
-# game/script-a4-lilly.rpy:7251
+# game/script-a4-lilly.rpy:7256
 translate zh_hant a4_lilly_under_a_bright_sky_138f761b:
 
     # "With her face now closer, and made easier to see for her pale skin being lit by the sunlight from the window, I notice her cheeks being redder than they should be."
     "她的臉現在更近了，窗外照進的陽光點亮了她蒼白的皮膚，我發現她的臉異常紅潤。"
 
-# game/script-a4-lilly.rpy:7253
+# game/script-a4-lilly.rpy:7258
 translate zh_hant a4_lilly_under_a_bright_sky_6857e244:
 
     # hi "It's okay, Lilly. I'm okay. You don't need to—"
     hi "沒事了，莉莉。我沒事，你不用——"
 
-# game/script-a4-lilly.rpy:7258
+# game/script-a4-lilly.rpy:7263
 translate zh_hant a4_lilly_under_a_bright_sky_3c4cbbc5:
 
     # "She rights herself quickly, her crying forcefully stifled with both sadness and stubbornness remaining in her moistened eyes. Her prideful nature, always having been something to contend with, takes me off guard."
     "她很快就恢復了鎮定，固執又悲傷的雙眼強行止住了眼淚。她堅毅的性格是我遠所不及的。"
 
-# game/script-a4-lilly.rpy:7260
+# game/script-a4-lilly.rpy:7265
 translate zh_hant a4_lilly_under_a_bright_sky_cfd8b174:
 
     # li "Stop telling me not to worry about you, Hisao!"
     li "別再告訴我不用擔心你了，久夫！"
 
-# game/script-a4-lilly.rpy:7262
+# game/script-a4-lilly.rpy:7267
 translate zh_hant a4_lilly_under_a_bright_sky_d570c6eb:
 
     # li "Just this once… let me cry…"
     li "就這一次也好……讓我哭一下……"
 
-# game/script-a4-lilly.rpy:7264
+# game/script-a4-lilly.rpy:7269
 translate zh_hant a4_lilly_under_a_bright_sky_6b59a7d2:
 
     # "I'm caught speechless. She waits for a response, but her composure breaks again after a handful of seconds."
     "我無言以對，她在等我回應，但數秒之後，她的鎮定再次崩潰了。"
 
-# game/script-a4-lilly.rpy:7269
+# game/script-a4-lilly.rpy:7274
 translate zh_hant a4_lilly_under_a_bright_sky_b10ea51d:
 
     # "I swallow hard to try and settle my own emotions while she weeps onto my bed, a strange mixture of relief and depression welling up."
     "她在我的床上啜泣，我艱難地嚥了口口水，試圖抑制住自己的感情，心中湧起了一種欣慰與絕望交織的奇怪感受。"
 
-# game/script-a4-lilly.rpy:7271
+# game/script-a4-lilly.rpy:7276
 translate zh_hant a4_lilly_under_a_bright_sky_4ab06efb:
 
     # "Lilly's… here. She's really here. If I couldn't feel her skin under my hand, I'd hardly believe my own eyes. My efforts weren't for nothing; my body's attempt to take away everything that was important to me once again has been foiled."
     "莉莉就在……這兒。她真的就在這兒。若非我正感受著她的皮膚，我幾乎無法相信自己的眼睛。我的嘗試不是徒勞的，我的病想要再次奪走我心中重要的一切，但這一次我成功阻止了它。"
 
-# game/script-a4-lilly.rpy:7273
+# game/script-a4-lilly.rpy:7278
 translate zh_hant a4_lilly_under_a_bright_sky_21c3b91b:
 
     # "But now… I don't feel as happy about it as I thought I would."
     "可是現在……我卻沒有想像的那樣開心。"
 
-# game/script-a4-lilly.rpy:7275
+# game/script-a4-lilly.rpy:7280
 translate zh_hant a4_lilly_under_a_bright_sky_fc8175de:
 
     # "Seeing her here, crying like this over me… this is the one thing I'd wanted to avoid since coming to love her, no, even since leaving the hospital."
     "看著她在這兒，為了我哭成這樣……自從愛上她以來，這就是我一直想要避免的事，不，甚至從離開醫院後就是如此了。"
 
-# game/script-a4-lilly.rpy:7277
+# game/script-a4-lilly.rpy:7282
 translate zh_hant a4_lilly_under_a_bright_sky_5ab0ccaf:
 
     # hi "I'm sorry, Lilly. It's my fault I'm here; I shouldn't have tried to push myself so far."
     hi "對不起，莉莉。現在這樣都是我的錯，我不該那樣逼自己的。"
 
-# game/script-a4-lilly.rpy:7279
+# game/script-a4-lilly.rpy:7284
 translate zh_hant a4_lilly_under_a_bright_sky_70045f6c:
 
     # "I give a self-deprecating snort."
     "我自嘲地笑了一下。"
 
-# game/script-a4-lilly.rpy:7281
+# game/script-a4-lilly.rpy:7286
 translate zh_hant a4_lilly_under_a_bright_sky_263447a1:
 
     # hi "After months of keeping myself together so nobody'd worry over me, I went and did something like this. I guess I'm pretty dumb."
     hi "我花了那麼多個月小心翼翼地，就是為了防止別人擔心我，結果還是弄成這樣。我真是個笨蛋。"
 
-# game/script-a4-lilly.rpy:7287
+# game/script-a4-lilly.rpy:7292
 translate zh_hant a4_lilly_under_a_bright_sky_4c310ec4:
 
     # "With a couple of sniffs and a long breath, Lilly manages to pull herself together and calm down a little."
     "莉莉抽泣了幾下，長長地吸了口氣，終於稍稍振作起來，平靜了一些。"
 
-# game/script-a4-lilly.rpy:7289
+# game/script-a4-lilly.rpy:7294
 translate zh_hant a4_lilly_under_a_bright_sky_36cdc331:
 
     # "Despite her red cheeks, moist eyes and the lines of her tears still visible, she delicately wears that weak smile she seemed to so often give."
     "她的臉依舊很紅，濕潤的眼眶仍有淚痕，那道她常露出的精緻微笑此刻正脆弱地掛在臉上。"
 
-# game/script-a4-lilly.rpy:7291
+# game/script-a4-lilly.rpy:7296
 translate zh_hant a4_lilly_under_a_bright_sky_62ed6aab:
 
     # li "You needn't blame yourself. I heard later that it happened as you were running down the road after me, right?"
     li "別怪自己。我聽他們說，你是想要跑來趕上我，對嗎？"
 
-# game/script-a4-lilly.rpy:7293
+# game/script-a4-lilly.rpy:7298
 translate zh_hant a4_lilly_under_a_bright_sky_f5bfd183:
 
     # hi "Still…"
     hi "不過還是……"
 
-# game/script-a4-lilly.rpy:7295
+# game/script-a4-lilly.rpy:7300
 translate zh_hant a4_lilly_under_a_bright_sky_ed07cda3:
 
     # "She wipes her eyes with the back of her hand, returning more to her old self as the rush of emotions wears off."
     "她用手背擦了擦眼睛，情緒的浪潮已經退去了，她又恢復了一些從前的模樣。"
 
-# game/script-a4-lilly.rpy:7300
+# game/script-a4-lilly.rpy:7305
 translate zh_hant a4_lilly_under_a_bright_sky_7dc38a4f:
 
     # li "Why did you run after me, Hisao?"
     li "為什麼你要那麼做，久夫？"
 
-# game/script-a4-lilly.rpy:7305
+# game/script-a4-lilly.rpy:7310
 translate zh_hant a4_lilly_under_a_bright_sky_f0a4a48c:
 
     # "I move to respond, but notice her face tightening."
     "我挪動了一下，打算回答，但注意到她的臉繃緊了。"
 
-# game/script-a4-lilly.rpy:7307
+# game/script-a4-lilly.rpy:7312
 translate zh_hant a4_lilly_under_a_bright_sky_5cecbfbf:
 
     # li "Even after I'd said goodbye, and I'd left Yamaku Academy…"
     li "就算我已經說過再見，已經離開山久高校了……"
 
-# game/script-a4-lilly.rpy:7309
+# game/script-a4-lilly.rpy:7314
 translate zh_hant a4_lilly_under_a_bright_sky_47d7944f:
 
     # "She takes a moment to steady herself, her emotions almost bubbling up once again."
     "她花了片刻去平靜自己，那些情緒幾乎又要湧現了。"
 
-# game/script-a4-lilly.rpy:7311
+# game/script-a4-lilly.rpy:7316
 translate zh_hant a4_lilly_under_a_bright_sky_1472af80:
 
     # hi "I just wanted to say that I'm sorry."
     hi "我只是想要道歉。"
 
-# game/script-a4-lilly.rpy:7316
+# game/script-a4-lilly.rpy:7321
 translate zh_hant a4_lilly_under_a_bright_sky_ea6c2158:
 
     # li "Sorry?"
     li "道歉？"
 
-# game/script-a4-lilly.rpy:7318
+# game/script-a4-lilly.rpy:7323
 translate zh_hant a4_lilly_under_a_bright_sky_fe4607b7:
 
     # hi "For the times when I wasn't there when you needed me."
     hi "因為妳需要我的時候，我從來都沒有陪著妳。"
 
-# game/script-a4-lilly.rpy:7320
+# game/script-a4-lilly.rpy:7325
 translate zh_hant a4_lilly_under_a_bright_sky_942fa342:
 
     # hi "Until now, I thought you just being there would be enough. I only needed you by my side to make any day feel better."
     hi "以前，我以為只要妳在身邊，就夠了。我需要你，我需要妳在我身邊讓每一天都變得美好。"
 
-# game/script-a4-lilly.rpy:7322
+# game/script-a4-lilly.rpy:7327
 translate zh_hant a4_lilly_under_a_bright_sky_0ad085a1:
 
     # hi "Even if my body may be like this, I want to help you, Lilly; to be there when you need someone."
     hi "即使我身體如此，我也想要幫助妳。莉莉，我想要在妳需要陪伴的時候，陪在妳身邊。"
 
-# game/script-a4-lilly.rpy:7327
+# game/script-a4-lilly.rpy:7332
 translate zh_hant a4_lilly_under_a_bright_sky_ad4dab0f:
 
     # li "But you always were there, Hisao…"
     li "可是，久夫，你一直就在啊……"
 
-# game/script-a4-lilly.rpy:7329
+# game/script-a4-lilly.rpy:7334
 translate zh_hant a4_lilly_under_a_bright_sky_bc3b14d8:
 
     # hi "Why did you want to go to Scotland, Lilly?"
     hi "為什麼妳想去蘇格蘭，莉莉？"
 
-# game/script-a4-lilly.rpy:7334
+# game/script-a4-lilly.rpy:7339
 translate zh_hant a4_lilly_under_a_bright_sky_a49feb44:
 
     # li "Why…? I told you before: because Akira was going, and because of my family's summons to their home."
     li "為什麼……？我告訴過你的啊，因為晃也要去，因為我的家人召喚我回家。"
 
-# game/script-a4-lilly.rpy:7336
+# game/script-a4-lilly.rpy:7341
 translate zh_hant a4_lilly_under_a_bright_sky_65ea5a14:
 
     # hi "Why didn't you say that you wanted to go?"
     hi "為什麼妳不說是因為妳自己想去？"
 
-# game/script-a4-lilly.rpy:7341
+# game/script-a4-lilly.rpy:7346
 translate zh_hant a4_lilly_under_a_bright_sky_46bf4748:
 
     # li "I—"
     li "我——"
 
-# game/script-a4-lilly.rpy:7343
+# game/script-a4-lilly.rpy:7348
 translate zh_hant a4_lilly_under_a_bright_sky_ceb456d9:
 
     # hi "I'm not stubborn often, but this one time I think I need to be. I want you to stay here, Lilly."
     hi "我很少這麼固執，但這一次，就這一次，我必須固執下去。我想讓妳留下來，莉莉。"
 
-# game/script-a4-lilly.rpy:7345
+# game/script-a4-lilly.rpy:7350
 translate zh_hant a4_lilly_under_a_bright_sky_14043a9f:
 
     # hi "I want you to stay where everyone you know lives, and where all your dreams and ambitions were made. If you choose to stay, I'll never leave your side. I won't let you lose another person."
     hi "我想讓妳留在所有妳熟悉的人身邊，留在妳實現夢想和抱負的地方。如果妳留下來，我就不會再離開妳。我不會讓妳再失去任何人。"
 
-# game/script-a4-lilly.rpy:7347
+# game/script-a4-lilly.rpy:7352
 translate zh_hant a4_lilly_under_a_bright_sky_b19a9566:
 
     # hi "When I had my heart attack, I was snatched away from everyone and everywhere I knew. You showed me a new life after I came to Yamaku. I'd lost my past, but you showed me a future."
     hi "我的心臟病發作後，所有我熟悉的人事物都被奪走了。我來山久高校後，是妳給了我新的生活。我已失去過去，但你給予了我一個未來。"
 
-# game/script-a4-lilly.rpy:7349
+# game/script-a4-lilly.rpy:7354
 translate zh_hant a4_lilly_under_a_bright_sky_8e112973:
 
     # hi "It's true that I haven't always been there for you. I'm unreliable, sometimes I lied, and I thought I'd come to understand you when I hadn't even understood myself."
     hi "確實，我沒能一直在妳身邊。我很不可靠，有的時候還會說謊。我連自己都無法了解，還妄想去了解妳。"
 
-# game/script-a4-lilly.rpy:7351
+# game/script-a4-lilly.rpy:7356
 translate zh_hant a4_lilly_under_a_bright_sky_200b9dc5:
 
     # hi "Be that as it may, I want to give you a future as well. I want to be there for you, to share both your burdens and your happiness, just like I promised back in Hokkaido."
     hi "即使是這樣，我還是想給妳一個未來。我想留在你身邊支持妳，和妳同甘共苦，就如同我曾在北海道所答應妳的。"
 
-# game/script-a4-lilly.rpy:7353
+# game/script-a4-lilly.rpy:7358
 translate zh_hant a4_lilly_under_a_bright_sky_b5c3a343:
 
     # hi "I want you to trust me. I know I had problems coming to put my trust in you, after losing so many people I'd known after my heart attack, but that's how I know that being unable to trust others can feel awful."
     hi "我想讓妳相信我。我知道，我曾經很難相信妳。自從心臟病發作之後，我失去了那麼多人。但就是因為這樣，我才懂沒有可以信任的人是多麼可怕的事。"
 
-# game/script-a4-lilly.rpy:7355
+# game/script-a4-lilly.rpy:7360
 translate zh_hant a4_lilly_under_a_bright_sky_ea2e91e8:
 
     # hi "That's why I can't watch you just throw everything away like this. I never want you to go through what I did. I would do anything to stop that."
     hi "所以我不能眼睜睜看著妳像這樣把一切都丟開。我不要妳經歷我遭受的一切。只要能避免這一切發生，我可以付出任何代價。"
 
-# game/script-a4-lilly.rpy:7360
+# game/script-a4-lilly.rpy:7365
 translate zh_hant a4_lilly_under_a_bright_sky_c514b58e:
 
     # li "You can be quite steadfast when you want to be, can't you?"
     li "你固執起來的時候根本勸不動，對吧？"
 
-# game/script-a4-lilly.rpy:7362
+# game/script-a4-lilly.rpy:7367
 translate zh_hant a4_lilly_under_a_bright_sky_4a6e6c2f:
 
     # hi "As I said, it isn't often."
     hi "我說了，這是特殊情況。"
 
-# game/script-a4-lilly.rpy:7364
+# game/script-a4-lilly.rpy:7369
 translate zh_hant a4_lilly_under_a_bright_sky_4738ae2a:
 
     # "My weak smile drops, though, as the IV in my arm digs in a little. It's a harsh reminder of my tether to my condition."
     "但我微弱的笑容消失了，手臂上的點滴針頭又扎得更深了些，它像一道鎖鏈，時刻提醒著我的病情。"
 
-# game/script-a4-lilly.rpy:7369
+# game/script-a4-lilly.rpy:7374
 translate zh_hant a4_lilly_under_a_bright_sky_808b4975:
 
     # "Lilly's face tenses as I let out a small gasp of pain, immediately making me wish I'd stifled it better. All I can do is sigh in defeat."
     "我因疼痛而吸了口氣，莉莉的臉繃緊了，我立刻後悔自己沒有好好掩藏住。我只能無奈地嘆了口氣。"
 
-# game/script-a4-lilly.rpy:7371
+# game/script-a4-lilly.rpy:7376
 translate zh_hant a4_lilly_under_a_bright_sky_751edab2:
 
     # hi "I tried to not let anyone worry over me for the entire time since I left the hospital, but I can't even stop the one person I love most from crying over me."
     hi "自從出院以後，我就一直在盡力不讓別人擔心我，結果我連讓我最愛的人不為我哭都做不到。"
 
-# game/script-a4-lilly.rpy:7373
+# game/script-a4-lilly.rpy:7378
 translate zh_hant a4_lilly_under_a_bright_sky_2563af23:
 
     # hi "Even if I might finally be able to put my feelings into words, I feel pretty useless with a body like this."
     hi "就算我真能知道該怎麼把我的感受說出來，這身體也讓我感覺像個廢人。"
 
-# game/script-a4-lilly.rpy:7375
+# game/script-a4-lilly.rpy:7380
 translate zh_hant a4_lilly_under_a_bright_sky_ef9bdcb4:
 
     # hi "Every time I tried to reach towards something, it was just snatched away, and even now things only turned out for the better due to luck."
     hi "每當我想要去觸碰什麼，它就會被奪走，現在也只是因為運氣好，事情才有些不同。"
 
-# game/script-a4-lilly.rpy:7377
+# game/script-a4-lilly.rpy:7382
 translate zh_hant a4_lilly_under_a_bright_sky_e3b3eabd:
 
     # hi "I guess that's something else I should apologize for. All I can ever do is make you worry. Even now, there's very little chance I'll live anywhere near a full life."
     hi "我想我還得為此道歉，我只會讓妳擔心。就算現在我也必須面對事實，我可能很難擁有完整的一生。"
 
-# game/script-a4-lilly.rpy:7379
+# game/script-a4-lilly.rpy:7384
 translate zh_hant a4_lilly_under_a_bright_sky_5afa8a5d:
 
     # "The feeling of Lilly's warm, soft hand moving over my left cheek makes me lift my head up, her smile gentle and warm as she touches me."
     "莉莉溫暖柔軟的手摸過了我的左臉頰，我抬起頭，她溫柔地撫摸著我，臉上帶著溫暖的笑容。"
 
-# game/script-a4-lilly.rpy:7384
+# game/script-a4-lilly.rpy:7389
 translate zh_hant a4_lilly_under_a_bright_sky_6d551158:
 
     # li "I think that is something very natural for you to say. You were always so sincere and self-conscious."
     li "我覺得你說這些很正常，你一直都是這樣，真誠且自我意識強烈。"
 
-# game/script-a4-lilly.rpy:7389
+# game/script-a4-lilly.rpy:7394
 translate zh_hant a4_lilly_under_a_bright_sky_b117571b:
 
     # li "You were also reserved and mild-mannered, and patient to a fault with Hanako, yet curious about everything and everyone."
     li "你既內斂又溫和，對華子耐心得近乎放縱，但又對每件事、每個人都充滿好奇。"
 
-# game/script-a4-lilly.rpy:7394
+# game/script-a4-lilly.rpy:7399
 translate zh_hant a4_lilly_under_a_bright_sky_1f703d78:
 
     # li "When I said I missed you while I was with my family, I wasn't lying or exaggerating. The thought of you was never far from my mind, and helped me through that time."
     li "當我說我和家人在一起時在想你，我沒說謊也沒誇張。對你的思念幫助我度過了那段時光。"
 
-# game/script-a4-lilly.rpy:7399
+# game/script-a4-lilly.rpy:7404
 translate zh_hant a4_lilly_under_a_bright_sky_1d26b862:
 
     # li "That's why I was so confused about what to do when my family summoned me. Even after I thought I had made my decision, you tried your hardest to challenge me about it."
     li "所以當我的家人要我回去時，我才那麼的不知所措。即使在我以為自己已下定決心，你還是沒有放棄。"
 
-# game/script-a4-lilly.rpy:7404
+# game/script-a4-lilly.rpy:7409
 translate zh_hant a4_lilly_under_a_bright_sky_76aa2618:
 
     # li "I didn't confess to you out of pity or believing you were somehow different from what you are. I confessed because I never want to lose you, and want you to always be a part of my life, no matter what might change."
     li "我不是因為同情才向你表白的，也不是因為我相信你會成為什麼樣的人。我向你表白，是因為我不想失去你，永遠都不想。我想讓你一直在我的生命中，不論發生了什麼。"
 
-# game/script-a4-lilly.rpy:7409
+# game/script-a4-lilly.rpy:7414
 translate zh_hant a4_lilly_under_a_bright_sky_73f30b4d:
 
     # li "You are a very beautiful person, Hisao. Your heart changes none of that, so please, don't apologize for yourself any more."
     li "你是個很好的人，久夫。你的心臟不會絲毫改變這點，所以拜託，不要再道歉了。"
 
-# game/script-a4-lilly.rpy:7411
+# game/script-a4-lilly.rpy:7416
 translate zh_hant a4_lilly_under_a_bright_sky_dee756b4:
 
     # "For a long time, silence reigns in the room."
     "良久，寂靜籠罩了房間。"
 
-# game/script-a4-lilly.rpy:7413
+# game/script-a4-lilly.rpy:7418
 translate zh_hant a4_lilly_under_a_bright_sky_93dc67c6:
 
     # "I'm not really sure what this newly born feeling inside of me is, but it pales into insignificance as I wordlessly gaze at Lilly's smiling face, warm and gentle as it has always been."
     "我不太確定體內新生的感受是什麼，但當我無言地望向莉莉的笑臉時，它都顯得微不足道了，那笑靨一如既往的溫暖柔和。"
 
-# game/script-a4-lilly.rpy:7415
+# game/script-a4-lilly.rpy:7420
 translate zh_hant a4_lilly_under_a_bright_sky_cb20daf1:
 
     # "It's only as her thumb crosses my cheek, wiping away a single drop of moisture, that I realize this is all I've ever wanted."
     "直到她的拇指摸過我的臉頰，擦去一抹淚水，我才意識到這就是自己一直渴望的東西。"
 
-# game/script-a4-lilly.rpy:7417
+# game/script-a4-lilly.rpy:7422
 translate zh_hant a4_lilly_under_a_bright_sky_2a3df162:
 
     # "For what feels like the first time, I give an earnest, wide smile. As Lilly feels it against her palm, she returns the gesture."
     "彷彿是第一次，我露出了一道真心的笑容。莉莉感受到掌心的笑容，回報了同樣的微笑。"
 
-# game/script-a4-lilly.rpy:7419
+# game/script-a4-lilly.rpy:7424
 translate zh_hant a4_lilly_under_a_bright_sky_4bb65f62:
 
     # "More time passes before either of us says a word, neither of us needing speech to communicate our feelings to each other."
     "時間繼續流逝著，我們都沒有開口，我們都不需要言語來交流彼此的感受。"
 
-# game/script-a4-lilly.rpy:7421
+# game/script-a4-lilly.rpy:7426
 translate zh_hant a4_lilly_under_a_bright_sky_eb258c44:
 
     # hi "I know I can't promise you that I'll always be around, or that we'll be together forever."
     hi "我不能保證一直留在你身邊，也不能保證我們會永遠在一起。"
 
-# game/script-a4-lilly.rpy:7423
+# game/script-a4-lilly.rpy:7428
 translate zh_hant a4_lilly_under_a_bright_sky_bc0b9eac:
 
     # "With some difficulty I slowly lift my hand, placing it on her pale shoulder."
     "我有些艱難地抬起了手，放在了她白皙的肩上。"
 
-# game/script-a4-lilly.rpy:7425
+# game/script-a4-lilly.rpy:7430
 translate zh_hant a4_lilly_under_a_bright_sky_db42220a:
 
     # hi "But… I think I can at least take you to next year's Tanabata festival, to make up for making you miss this year's."
     hi "但是……我覺得我至少可以帶你去看明年的七夕，補償一下今年錯過的那次。"
 
-# game/script-a4-lilly.rpy:7430
+# game/script-a4-lilly.rpy:7435
 translate zh_hant a4_lilly_under_a_bright_sky_1cab9f01:
 
     # "Lilly's expression is one of surprise, though I can't say I blame her."
     "莉莉表情有一點意外，但我也不會怪她。"
 
-# game/script-a4-lilly.rpy:7432
+# game/script-a4-lilly.rpy:7437
 translate zh_hant a4_lilly_under_a_bright_sky_1c36c51f:
 
     # li "You… remembered that?"
     li "你……還記得？"
 
-# game/script-a4-lilly.rpy:7434
+# game/script-a4-lilly.rpy:7439
 translate zh_hant a4_lilly_under_a_bright_sky_4d2f29f3:
 
     # hi "I've got a pretty good memory. Sometimes."
     hi "有時候，我的記憶力還不錯。"
 
-# game/script-a4-lilly.rpy:7439
+# game/script-a4-lilly.rpy:7444
 translate zh_hant a4_lilly_under_a_bright_sky_77f751b8:
 
     # "She raises her head a little and takes her hand from my cheek, giving a small, amused giggle. I smile absentmindedly at how earnest it is, almost girlish in its lightness."
     "她稍稍抬頭，手離開了我的面頰，輕輕地笑了起來。我心不在焉地笑了，那笑容太真誠了，輕盈得充滿少女情懷。"
 
-# game/script-a4-lilly.rpy:7444
+# game/script-a4-lilly.rpy:7449
 translate zh_hant a4_lilly_under_a_bright_sky_6a658df9:
 
     # "Still smiling warmly, she collects herself and stands upright with a hand resting on my chest."
     "她站起身來，臉上仍帶著溫暖的笑容，將手輕輕放在我的胸口。"
 
-# game/script-a4-lilly.rpy:7446
+# game/script-a4-lilly.rpy:7451
 translate zh_hant a4_lilly_under_a_bright_sky_e79f1df2:
 
     # "It feels like I'm seeing her for the first time, the sun from the window glowing behind her just as it did when I first walked into that room where she was drinking tea."
     "這感覺就彷彿……我是第一次見到她一樣，窗外的陽光灑落在她身後，就像是我第一次走進她喝茶的那間教室一般。"
 
-# game/script-a4-lilly.rpy:7451
+# game/script-a4-lilly.rpy:7456
 translate zh_hant a4_lilly_under_a_bright_sky_dc7a5795:
 
     # li "Very well then. Shall we make it a promise between the both of us to go to next year's Tanabata together?"
     li "好吧，我們要不要……約定明年一起過七夕？"
 
-# game/script-a4-lilly.rpy:7453
+# game/script-a4-lilly.rpy:7458
 translate zh_hant a4_lilly_under_a_bright_sky_29a2dfca:
 
     # "Even if she can't see me doing so, I nod approvingly."
     "我點頭了，哪怕她看不見。"
 
-# game/script-a4-lilly.rpy:7455
+# game/script-a4-lilly.rpy:7460
 translate zh_hant a4_lilly_under_a_bright_sky_4d336ac5:
 
     # hi "I promise."
     hi "我保證。"
 
-# game/script-a4-lilly.rpy:7460
+# game/script-a4-lilly.rpy:7465
 translate zh_hant a4_lilly_under_a_bright_sky_f5f40482:
 
     # li "I promise."
     li "那我也一樣。"
 
-# game/script-a4-lilly.rpy:7475
+# game/script-a4-lilly.rpy:7482
 translate zh_hant a4_lilly_forwards_32b484c6:
 
     # "Akira, Lilly and I silently sit on the grassy embankment high above the local town, the breeze gently blowing through the cloudless sky."
     "晃、莉莉，還有我坐在綠草如茵的堤岸上，高高地俯視著當地的小鎮，微風輕拂，天空萬里無雲。"
 
-# game/script-a4-lilly.rpy:7477
+# game/script-a4-lilly.rpy:7484
 translate zh_hant a4_lilly_forwards_759b72d6:
 
     # "We may be just a few minutes' walk from town, on a hill just outside its limits, but the view is entirely unexpected."
     "其實我們只是在離小鎮僅數分鐘路程，坐落在城鎮邊緣的山丘上，但眼前的景色卻令人始料未及。"
 
-# game/script-a4-lilly.rpy:7484
+# game/script-a4-lilly.rpy:7491
 translate zh_hant a4_lilly_forwards_859b56a1:
 
     # "Lilly sits beside me, her eyes closed, as the gentle breeze flows through her hair."
     "莉莉就坐在我身旁，閉著雙眼，輕風拂過了她的髮梢。"
 
-# game/script-a4-lilly.rpy:7486
+# game/script-a4-lilly.rpy:7493
 translate zh_hant a4_lilly_forwards_7e54d1ec:
 
     # li "This is a nice area."
     li "這裡真不錯。"
 
-# game/script-a4-lilly.rpy:7488
+# game/script-a4-lilly.rpy:7495
 translate zh_hant a4_lilly_forwards_13a0a390:
 
     # hi "Yeah. I never knew a place like this was anywhere near Yamaku."
     hi "是啊，我都沒在山久高校周圍見過這樣的地方。"
 
-# game/script-a4-lilly.rpy:7495
+# game/script-a4-lilly.rpy:7502
 translate zh_hant a4_lilly_forwards_63e34fca:
 
     # aki "And I had to be the one to find it, of course."
     aki "當然，得靠我才找得到。"
 
-# game/script-a4-lilly.rpy:7497
+# game/script-a4-lilly.rpy:7504
 translate zh_hant a4_lilly_forwards_e5b35ad2:
 
     # "Akira's grin is genuine, but her tone is slightly different from her usual carefree nature."
     "晃的笑容很真誠，不過語調卻和平常那種隨性的感覺不同了。"
 
-# game/script-a4-lilly.rpy:7502
+# game/script-a4-lilly.rpy:7509
 translate zh_hant a4_lilly_forwards_4dcd163f:
 
     # aki "It's good that you're outta the hospital though, Hisao."
     aki "很高興你終於出院了，久夫。"
 
-# game/script-a4-lilly.rpy:7504
+# game/script-a4-lilly.rpy:7511
 translate zh_hant a4_lilly_forwards_ae4a6915:
 
     # hi "Nobody's more glad than I am. I can't stand hospitals."
     hi "不可能有人比我更高興了，我受不了醫院。"
 
-# game/script-a4-lilly.rpy:7506
+# game/script-a4-lilly.rpy:7513
 translate zh_hant a4_lilly_forwards_30595a73:
 
     # aki "So, you two going back to the school tomorrow?"
     aki "那，你們兩個明天就回學校了？"
 
-# game/script-a4-lilly.rpy:7513
+# game/script-a4-lilly.rpy:7520
 translate zh_hant a4_lilly_forwards_faf814a9:
 
     # "Akira chuckles in amusement before looking back out to the town below, the trees between the buildings swaying in the wind."
     "晃輕笑一聲，然後轉頭去看下方的城鎮，建築間的樹木在風中搖曳。"
 
-# game/script-a4-lilly.rpy:7515
+# game/script-a4-lilly.rpy:7522
 translate zh_hant a4_lilly_forwards_baf399b9:
 
     # hi "Pity we couldn't go up north for the summer holidays, or get to Tanabata."
     hi "可惜我們不能去北邊過暑假，或者參加七夕祭。"
 
-# game/script-a4-lilly.rpy:7520
+# game/script-a4-lilly.rpy:7527
 translate zh_hant a4_lilly_forwards_86fbe80f:
 
     # li "I wouldn't worry, there's always next time."
     li "我倒不擔心，反正還有下次。"
 
-# game/script-a4-lilly.rpy:7525
+# game/script-a4-lilly.rpy:7532
 translate zh_hant a4_lilly_forwards_ebaa5ca8:
 
     # aki "You'll be graduating before the next summer vacation, won't ya?"
     aki "不過你們在下個暑假前就要畢業了，對吧？"
 
-# game/script-a4-lilly.rpy:7527
+# game/script-a4-lilly.rpy:7534
 translate zh_hant a4_lilly_forwards_f11b50fd:
 
     # hi "Yeah. There'll still be college after that, mind."
     hi "沒錯，不過請記住，之後還有大學的。"
 
-# game/script-a4-lilly.rpy:7529
+# game/script-a4-lilly.rpy:7536
 translate zh_hant a4_lilly_forwards_f327c455:
 
     # aki "Going to the same one?"
     aki "準備去同一所？"
 
-# game/script-a4-lilly.rpy:7534
+# game/script-a4-lilly.rpy:7541
 translate zh_hant a4_lilly_forwards_29dc8af0:
 
     # li "Likely. We both have high enough scores to meet the entry requirements."
     li "很可能。我們兩個的分數都足以達到入學要求。"
 
-# game/script-a4-lilly.rpy:7536
+# game/script-a4-lilly.rpy:7543
 translate zh_hant a4_lilly_forwards_48f749d6:
 
     # hi "You sound so sure…"
     hi "你聽起來真有自信……"
 
-# game/script-a4-lilly.rpy:7541
+# game/script-a4-lilly.rpy:7548
 translate zh_hant a4_lilly_forwards_58a7f7af:
 
     # li "Don't worry, you're better than I in most subjects."
     li "別擔心，你大多數科目都比我好。"
 
-# game/script-a4-lilly.rpy:7543
+# game/script-a4-lilly.rpy:7550
 translate zh_hant a4_lilly_forwards_2bc2a90a:
 
     # hi "I guess we'll work it out in due time."
     hi "我想，到時候我們自然會找到辦法的。"
 
-# game/script-a4-lilly.rpy:7548
+# game/script-a4-lilly.rpy:7555
 translate zh_hant a4_lilly_forwards_26fdd67d:
 
     # aki "That's the way. Just enjoy yourselves in Yamaku while you're there."
     aki "就是要這感覺。趁你們還在山久高校，好好享受吧。"
 
-# game/script-a4-lilly.rpy:7553
+# game/script-a4-lilly.rpy:7560
 translate zh_hant a4_lilly_forwards_c3ddac0a:
 
     # "Lilly gives a sad sigh at the distinction made between Akira and the two of us."
     "莉莉對於晃和我們倆即將分別感到悲傷，嘆了口氣。"
 
-# game/script-a4-lilly.rpy:7558
+# game/script-a4-lilly.rpy:7565
 translate zh_hant a4_lilly_forwards_aee035fb:
 
     # li "Do you really need to go back to Scotland?"
     li "你非要回蘇格蘭不可嗎？"
 
-# game/script-a4-lilly.rpy:7563
+# game/script-a4-lilly.rpy:7570
 translate zh_hant a4_lilly_forwards_227b7ac8:
 
     # aki "Yeah. The folks are already out for my blood as it is."
     aki "是啊，爸媽已經氣得要命了。"
 
-# game/script-a4-lilly.rpy:7565
+# game/script-a4-lilly.rpy:7572
 translate zh_hant a4_lilly_forwards_ce116c03:
 
     # hi "You weren't meant to stay this long?"
     hi "你本來不準備待這麼久的？"
 
-# game/script-a4-lilly.rpy:7570
+# game/script-a4-lilly.rpy:7577
 translate zh_hant a4_lilly_forwards_7422dd8c:
 
     # "She gives her trademark wide grin."
     "她給了我一個標誌性的咧嘴笑。"
 
-# game/script-a4-lilly.rpy:7572
+# game/script-a4-lilly.rpy:7579
 translate zh_hant a4_lilly_forwards_666cc35e:
 
     # aki "Setting my boyfriend up with a passport took some time."
     aki "幫我男朋友辦護照需要時間。"
 
-# game/script-a4-lilly.rpy:7574
+# game/script-a4-lilly.rpy:7581
 translate zh_hant a4_lilly_forwards_ca2ffc34:
 
     # hi "You're taking him with you?"
     hi "你要把他也帶去？"
 
-# game/script-a4-lilly.rpy:7579
+# game/script-a4-lilly.rpy:7586
 translate zh_hant a4_lilly_forwards_f31f27ae:
 
     # aki "Just for a while at first. He's a surprisingly worldly guy, so I think he'll do just fine."
     aki "只是一開始，他適應力很好，所以應該不會有問題。"
 
-# game/script-a4-lilly.rpy:7584
+# game/script-a4-lilly.rpy:7591
 translate zh_hant a4_lilly_forwards_0dbabcee:
 
     # "Akira gives an amused snort."
     "晃輕哼一聲。"
 
-# game/script-a4-lilly.rpy:7586
+# game/script-a4-lilly.rpy:7593
 translate zh_hant a4_lilly_forwards_4f150076:
 
     # aki "If our father had his way, I'd have gone a long while ago."
     aki "如果我爸真的堅持的話，我可能早就走了。"
 
-# game/script-a4-lilly.rpy:7591
+# game/script-a4-lilly.rpy:7598
 translate zh_hant a4_lilly_forwards_0eb9e2c2:
 
     # aki "I just couldn't pass up an excuse to stay with my favorite little sister a little while longer though."
     aki "不過，我就是無法抗拒和最喜歡的妹妹再待一段時間的機會。"
 
-# game/script-a4-lilly.rpy:7596
+# game/script-a4-lilly.rpy:7603
 translate zh_hant a4_lilly_forwards_25edef44:
 
     # "She leans right and gives Lilly a tight playful hug, cheering her up considerably."
     "她向前靠去，頑皮地給了莉莉一個緊緊的擁抱，讓她心情好了許多。"
 
-# game/script-a4-lilly.rpy:7598
+# game/script-a4-lilly.rpy:7605
 translate zh_hant a4_lilly_forwards_e77f4e77:
 
     # li "It's nice to be with you one last time, though."
     li "很開心能最後和妳再聚一次。"
 
-# game/script-a4-lilly.rpy:7600
+# game/script-a4-lilly.rpy:7607
 translate zh_hant a4_lilly_forwards_68e4b766:
 
     # hi "For what it's worth, I'm in the same boat."
     hi "我也這麼覺得。"
 
-# game/script-a4-lilly.rpy:7605
+# game/script-a4-lilly.rpy:7612
 translate zh_hant a4_lilly_forwards_12678f27:
 
     # aki "Heh, thanks you two. I'll try and come back sometime, don't worry."
     aki "嘿，多謝啦。我會盡量找機會回來的，別擔心。"
 
-# game/script-a4-lilly.rpy:7610
+# game/script-a4-lilly.rpy:7617
 translate zh_hant a4_lilly_forwards_fa3a483c:
 
     # li "It's a shame that the business keeps you so busy."
     li "可惜你的工作太忙了。"
 
-# game/script-a4-lilly.rpy:7615
+# game/script-a4-lilly.rpy:7622
 translate zh_hant a4_lilly_forwards_a8f58acf:
 
     # aki "The place won't run itself, I'm afraid, and I think it's going to be just the same over there."
     aki "公司無法自行運作，我恐怕到了那邊也會一樣忙碌。"
 
-# game/script-a4-lilly.rpy:7620
+# game/script-a4-lilly.rpy:7627
 translate zh_hant a4_lilly_forwards_ae1fd58d:
 
     # aki "Considering that, I'd better get going."
     aki "說起這個，我得趕快走了。"
 
-# game/script-a4-lilly.rpy:7622
+# game/script-a4-lilly.rpy:7629
 translate zh_hant a4_lilly_forwards_207b4960:
 
     # hi "Have fun over there, Akira."
     hi "祝妳在那邊玩得愉快些，晃。"
 
-# game/script-a4-lilly.rpy:7627
+# game/script-a4-lilly.rpy:7634
 translate zh_hant a4_lilly_forwards_24e6f4bb:
 
     # aki "Haha, will do."
     aki "哈哈，沒問題。"
 
-# game/script-a4-lilly.rpy:7632
+# game/script-a4-lilly.rpy:7639
 translate zh_hant a4_lilly_forwards_9ffafc9f:
 
     # "With a slight grunt, she lifts herself with her hands and stands up, dusting herself off as she does so."
     "她輕哼一聲，然後用手撐起身來，拍了拍身上的塵土。"
 
-# game/script-a4-lilly.rpy:7637
+# game/script-a4-lilly.rpy:7644
 translate zh_hant a4_lilly_forwards_cab22f6b:
 
     # aki "Well, I'd better be off. The plane won't wait for me, after all."
     aki "好了，我要出發了。飛機可不會等我。"
 
-# game/script-a4-lilly.rpy:7639
+# game/script-a4-lilly.rpy:7646
 translate zh_hant a4_lilly_forwards_58dcaa66:
 
     # "She has a certain unusual wistfulness in the tone of her voice, her eyes firmly planted on her sister."
     "她的聲音聽上去帶著一絲不尋常的傷感，目光緊緊地鎖在她的妹妹身上。"
 
-# game/script-a4-lilly.rpy:7644
+# game/script-a4-lilly.rpy:7651
 translate zh_hant a4_lilly_forwards_d308e549:
 
     # li "I'll be okay, Akira."
     li "我會沒事的，晃。"
 
-# game/script-a4-lilly.rpy:7649
+# game/script-a4-lilly.rpy:7656
 translate zh_hant a4_lilly_forwards_d8c6d600:
 
     # aki "Yeah, I know."
     aki "哎，我知道。"
 
-# game/script-a4-lilly.rpy:7654
+# game/script-a4-lilly.rpy:7661
 translate zh_hant a4_lilly_forwards_8064020e:
 
     # li "Come now, it isn't that bad. You'll be able to see us again soon."
     li "好了，沒有妳想的那麼糟。妳很快就能再見到我們的。"
 
-# game/script-a4-lilly.rpy:7656
+# game/script-a4-lilly.rpy:7663
 translate zh_hant a4_lilly_forwards_3aa32cdd:
 
     # "It is strange to have Lilly reassuring a doubting Akira for once. She really has changed."
     "這一次，竟然是莉莉在安慰擔心的晃，真是太奇怪了。她真的變了不少。"
 
-# game/script-a4-lilly.rpy:7661
+# game/script-a4-lilly.rpy:7668
 translate zh_hant a4_lilly_forwards_6e80cf90:
 
     # li "Goodbye, Akira."
     li "再見了，晃。"
 
-# game/script-a4-lilly.rpy:7663
+# game/script-a4-lilly.rpy:7670
 translate zh_hant a4_lilly_forwards_541372ee:
 
     # hi "'Bye."
     hi "拜。"
 
-# game/script-a4-lilly.rpy:7668
+# game/script-a4-lilly.rpy:7675
 translate zh_hant a4_lilly_forwards_0a7d0e30:
 
     # "For a second, the dark-clad figure looks down at the both of us, smiling widely. Perhaps more widely than I've ever seen her do before."
     "有一剎那，那個身穿黑衣的身影向下看了我倆一眼，燦爛地笑了，可能比我之前在她身上見過的任何笑容都要燦爛。"
 
-# game/script-a4-lilly.rpy:7673
+# game/script-a4-lilly.rpy:7680
 translate zh_hant a4_lilly_forwards_8c32386f:
 
     # "She lets out a long, slightly wavering breath to steady herself before leaving, but eventually slips her hand in her pocket and turns on her heel."
     "她長長地呼出了一口氣，稍稍有些顫抖，平穩了一下自己的情緒，最後終於把手放進了口袋裡，轉過了身。"
 
-# game/script-a4-lilly.rpy:7675
+# game/script-a4-lilly.rpy:7682
 translate zh_hant a4_lilly_forwards_56707843:
 
     # "And with that she walks away, one hand held in the air as she goes."
     "她就這麼走了，一隻手在空中搖著。"
 
-# game/script-a4-lilly.rpy:7680
+# game/script-a4-lilly.rpy:7687
 translate zh_hant a4_lilly_forwards_2af6c6d9:
 
     # aki "Seeya later, you two!"
     aki "過段時間見，你們兩個！"
 
-# game/script-a4-lilly.rpy:7685
+# game/script-a4-lilly.rpy:7692
 translate zh_hant a4_lilly_forwards_4340d6dd:
 
     # "A jazz tune with no beat, melody or direction to the very end."
     "到了最後，她依舊如此，彷彿一曲沒有節奏，沒有旋律和方向的爵士樂。"
 
-# game/script-a4-lilly.rpy:7691
+# game/script-a4-lilly.rpy:7698
 translate zh_hant a4_lilly_forwards_04e076ec:
 
     # "After a few moments of sitting silently, Lilly and I pick ourselves up and dust ourselves off."
     "我和莉莉在沉默中坐了片刻，然後起身拍掉了身上的塵土。"
 
-# game/script-a4-lilly.rpy:7693
+# game/script-a4-lilly.rpy:7700
 translate zh_hant a4_lilly_forwards_1f4f26c5:
 
     # "Turning towards her with a broad smile, I hold out my hand."
     "我轉向她，笑著伸出了手。"
 
-# game/script-a4-lilly.rpy:7695
+# game/script-a4-lilly.rpy:7702
 translate zh_hant a4_lilly_forwards_40d81eda:
 
     # hi "Shall we be off, then?"
     hi "那，我們也走吧？"
 
-# game/script-a4-lilly.rpy:7697
+# game/script-a4-lilly.rpy:7704
 translate zh_hant a4_lilly_forwards_2fcd2c1a:
 
     # "She takes my hand in hers, with a gentle nod and a smile as beautiful and warm as ever."
     "她牽過了我的手，輕輕點了點頭，臉上的笑容一如既往的美麗溫暖。"
 
-# game/script-a4-lilly.rpy:7702
+# game/script-a4-lilly.rpy:7709
 translate zh_hant a4_lilly_forwards_2bc0fa66:
 
     # li "Indeed we shall, Hisao."
     li "當然，久夫。"
 
-# game/script-a4-lilly.rpy:7719
+# game/script-a4-lilly.rpy:7726
 translate zh_hant a4_lilly_forwards_e9b18efc:
 
     # "As we set off towards the school, that wonderful smile engraves itself onto my memory. That wonderful smile that we both share."
     "我們正朝著學校走去，那幅美妙的笑靨正銘刻進我的記憶。那道，被我們共同分享著的笑容。"
 
-# game/script-a4-lilly.rpy:7721
+# game/script-a4-lilly.rpy:7728
 translate zh_hant a4_lilly_forwards_186821f2:
 
     # "Our pasts may be scattered and at times overshadowed by sadness, but they're also an irrevocable part of our lives and personalities. Even if I could change a single thing, I wouldn't, because my past was what led me here."
     "我們的過去曾支離破碎，也時常被陰影遮蔽，但它們同時也是我們的生命和性格中不可替代的一部分。就算允許我改變什麼，我也不會動一絲一毫，因為正是那樣的過去將我引向了此刻。"
 
-# game/script-a4-lilly.rpy:7723
+# game/script-a4-lilly.rpy:7730
 translate zh_hant a4_lilly_forwards_7a9b305a:
 
     # "That's why, even with all that's happened to us before, and all that may well befall us… together, we'll keep walking forwards."
     "所以，就算過去有再多不幸發生在我們身上，將來也可能會有種種難關攔在我們面前，我們也會一直在一起，一起並肩向前走去。"
 
-# game/script-a4-lilly.rpy:7725
+# game/script-a4-lilly.rpy:7732
 translate zh_hant a4_lilly_forwards_84586c45:
 
     # "Forwards… towards the future. Our future."
     "並肩向前，向著未來，那個屬於我們的未來。"
 
-# game/script-a4-lilly.rpy:7741
+# game/script-a4-lilly.rpy:7748
 translate zh_hant a4lc1o1_2d538351:
 
     # "The memory of that single letter Iwanako sent me comes back to my mind."
     "我想起了巖魚子寄給我的那封信。"
 
-# game/script-a4-lilly.rpy:7743
+# game/script-a4-lilly.rpy:7750
 translate zh_hant a4lc1o1_1b64d9c8:
 
     # hi "I never saw her again, but after I was sent to Yamaku… she wrote me one letter."
     hi "再也沒見過面，但我來山久之後……她給我寄了一封信。"
 
-# game/script-a4-lilly.rpy:7745
+# game/script-a4-lilly.rpy:7752
 translate zh_hant a4lc1o1_28001435:
 
     # "Lilly's face shows an expression I know well. I've piqued her interest. I'd be slightly offended that it's simply a matter of curiosity for her, but she's never been very good at masking her reactions."
     "莉莉露出了一種我很熟悉的表情——我勾起了她的好奇心。我有點不太開心，這些事對她來說竟然只是用來滿足好奇心的。不過她也從來不擅長隱藏自己的表情。"
 
-# game/script-a4-lilly.rpy:7747
+# game/script-a4-lilly.rpy:7754
 translate zh_hant a4lc1o1_2ee1611d:
 
     # hi "In hindsight, it really didn't say much. What was going on in my old class, how she was faring, and, almost as an afterthought, that it was probably best for the both of us that we don't see each other again."
     hi "事後看來，那封信沒說什麼。也就是我從前的班裡都發生了什麼，她過得怎麼樣這類的。然後，她加了一句可能我們不再見面會更好，像是臨時想起來寫上去的一樣。"
 
-# game/script-a4-lilly.rpy:7749
+# game/script-a4-lilly.rpy:7756
 translate zh_hant a4lc1o1_5114d9f3:
 
     # hi "After reading it, I ended up reassessing a lot of things I thought I'd managed to work out. For the most part, that letter reminded me that the world around me was still moving, and just how much I'd become isolated from it."
     hi "讀完那封信以後，我就開始重新考慮很多我認為自己處理好了的事了。最重要的是，那封信提醒了我世界還是照樣在運轉的，但我已經被那個世界被孤立了。"
 
-# game/script-a4-lilly.rpy:7751
+# game/script-a4-lilly.rpy:7758
 translate zh_hant a4lc1o1_479782a2:
 
     # hi "And… I guess it also reminded me of what I'd lost."
     hi "還有……可能還提醒我再也找不回來的那些東西了。"
 
-# game/script-a4-lilly.rpy:7756
+# game/script-a4-lilly.rpy:7763
 translate zh_hant a4lc1o1_7170cfd4:
 
     # "She gives the information some thought before her face lights up in realization. No doubt she's worked out that it was this letter which had contributed to my angst during that lunch on the rooftop."
     "我說完後，她沉默了一會，然後露出一副恍然大悟的表情。她一定是明白了那封信就是導致我那天在屋頂上吃午飯時發怒的原因。"
 
-# game/script-a4-lilly.rpy:7758
+# game/script-a4-lilly.rpy:7765
 translate zh_hant a4lc1o1_77e457b9:
 
     # "It's a rare sight to see Lilly quite so lost for words, her entire persona is a little deflated from her earlier rapt interest. As charismatic as she is, in the end that isn't any replacement for life nor relationship experience."
     "莉莉少見的無言了。剛才那種熱切的好奇已經有些消失了。雖然她很有智慧，但再怎麼說，也沒辦法蓋過未經歷過的人生和情感。"
 
-# game/script-a4-lilly.rpy:7763
+# game/script-a4-lilly.rpy:7770
 translate zh_hant a4lc1o1_f3f6e046:
 
     # li "Perhaps… it is better she sent it than not."
     li "可能……她寄了這封信反而比較好。"
 
-# game/script-a4-lilly.rpy:7765
+# game/script-a4-lilly.rpy:7772
 translate zh_hant a4lc1o1_53d71943:
 
     # hi "How's that?"
     hi "怎麼會？"
 
-# game/script-a4-lilly.rpy:7770
+# game/script-a4-lilly.rpy:7777
 translate zh_hant a4lc1o1_0dd32b00:
 
     # li "It can be difficult to work out how best to communicate with those you haven't met in a long time. All the more so, considering your separate situations."
     li "要找到和很久沒見面的人交流的最好方法是很難的。更何況你們還有各自的生活。"
 
-# game/script-a4-lilly.rpy:7772
+# game/script-a4-lilly.rpy:7779
 translate zh_hant a4lc1o1_ac0cb886:
 
     # li "Instead of doing what was easiest, she built up the courage to talk to you one last time; not only for her sake but, from how it sounds, for yours as well."
     li "她沒有選擇最簡單的方法，而是鼓起勇氣和你談了最後一次。不光是為了她自己，也是為了你。"
 
-# game/script-a4-lilly.rpy:7774
+# game/script-a4-lilly.rpy:7781
 translate zh_hant a4lc1o1_5ee637ed:
 
     # hi "Maybe. I don't hate her for it, not that I really ever did, but… I don't know."
     hi "可能吧。我沒因為這封信而記恨她，其實我根本就沒怨過她，不過……我也不知道。"
 
-# game/script-a4-lilly.rpy:7776
+# game/script-a4-lilly.rpy:7783
 translate zh_hant a4lc1o1_facdac89:
 
     # "Probably a more noncommittal answer than I should give, but it isn't without cause. I've never looked at the situation from Iwanako's perspective like that before."
     "可能我的回答有些態度不明，但這也不是沒有原因的。我從來沒以巖魚子的角度看過這個問題。"
 
-# game/script-a4-lilly.rpy:7781
+# game/script-a4-lilly.rpy:7788
 translate zh_hant a4lc1o2_27b3240a:
 
     # "I really don't want to bring up Iwanako any more than necessary. This date is, after all, for me and Lilly. I don't want to think about a previous relationship at a time like this."
     "我不想提太多巖魚子的事。說到底，現在我是在和莉莉約會。我才不想在這種時候談起自己的情史。"
 
-# game/script-a4-lilly.rpy:7783
+# game/script-a4-lilly.rpy:7790
 translate zh_hant a4lc1o2_71883ef2:
 
     # hi "No, that was the last I saw of her. We never talked again, either."
@@ -12914,14 +12918,15 @@ translate zh_hant strings:
     old "Wrapped in my own little world, I shake my head before remembering the futility of the gesture."
     new "我沉浸在自己的世界裡，搖了搖頭。然後才認識到這個動作是多麼無意義。"
 
-    # game/script-a4-lilly.rpy:2147
+    # game/script-a4-lilly.rpy:2151
     old "Mention the letter."
     new "提那封信的事。"
 
-    # game/script-a4-lilly.rpy:2147
+    # game/script-a4-lilly.rpy:2155
     old "Drop the subject."
     new "迴避話題。"
 
-    # game/script-a4-lilly.rpy:7508
+    # game/script-a4-lilly.rpy:7515
     old "Yup."
     new "嗯。"
+

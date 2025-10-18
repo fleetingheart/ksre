@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-04-23 17:26
+﻿# TODO: Translation updated at 2025-10-17 09:34
 
 # game/script-a4-emi.rpy:21
 translate zh_hant a4_emi_a_swing_and_a_miss_ae6bbca9:
@@ -382,7 +382,7 @@ translate zh_hant a4_emi_a_swing_and_a_miss_29efcf05:
 translate zh_hant a4_emi_a_swing_and_a_miss_33756d4e:
 
     # n "Except while it may be safer, I'm feeling more and more wretched. Emi doesn't look good when I see her any more; dark circles lurk under her eyes, she seems more and more distracted, and I can't bring myself to just ask what's wrong, because the timing never seems right."
-    "除了更安全外，我的心情則越發的糟糕。笑美也日漸憔悴；帶著濃重的黑眼圈，她似乎越來越心煩意亂了，我剋制著自己不去問她怎麼回事，因為時機總是不對。"
+    n "除了更安全外，我的心情則越發的糟糕。笑美也日漸憔悴；帶著濃重的黑眼圈，她似乎越來越心煩意亂了，我剋制著自己不去問她怎麼回事，因為時機總是不對。"
 
 # game/script-a4-emi.rpy:229
 translate zh_hant a4_emi_a_swing_and_a_miss_24f51d1f:

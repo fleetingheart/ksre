@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-04-23 17:26
+﻿# TODO: Translation updated at 2025-10-17 09:34
 
 # game/script-a1-wednesday.rpy:14
 translate zh_hant a1_wednesday_lunch_evolution_theory_9e88b65e:
@@ -856,7 +856,7 @@ translate zh_hant a1_wednesday_meet_cute_d239149d:
 translate zh_hant a1_wednesday_meet_cute_2db01d1f:
 
     # emi "I know that! I— I, um, I was just…"
-    emi_ "我知道的！我－我，呃，我只是……"
+    emi "我知道的！我－我，呃，我只是……"
 
 # game/script-a1-wednesday.rpy:619
 translate zh_hant a1_wednesday_meet_cute_187cff16:
@@ -4390,7 +4390,7 @@ translate zh_hant a1_wednesday_waylay_78a1e737:
 translate zh_hant a1_wednesday_waylay_31f855a3:
 
     # nk "Can you promise me to be more serious about this from now on?" nointeract
-    nk "你能答應我從現在開始會更認真對待這件事嗎？"
+    nk "你能答應我從現在開始會更認真對待這件事嗎？" nointeract
 
 # game/script-a1-wednesday.rpy:2778
 translate zh_hant a1_wednesday_waylay_3ecdb828:
@@ -5844,23 +5844,23 @@ translate zh_hant strings:
     old "What to do…"
     new "該怎麼做……"
 
-    # game/script-a1-wednesday.rpy:212
+    # game/script-a1-wednesday.rpy:218
     old "Read my book."
     new "看我的書。"
 
-    # game/script-a1-wednesday.rpy:212
+    # game/script-a1-wednesday.rpy:221
     old "Go talk with Hanako."
     new "去和華子說話。"
 
-    # game/script-a1-wednesday.rpy:212
+    # game/script-a1-wednesday.rpy:226
     old "Wait for Shizune and Misha to come to a decision."
     new "等靜音和米莎做出決定。"
 
-    # game/script-a1-wednesday.rpy:2762
+    # game/script-a1-wednesday.rpy:2768
     old "Yes."
     new "能。"
 
-    # game/script-a1-wednesday.rpy:2762
+    # game/script-a1-wednesday.rpy:2773
     old "Maybe."
     new "或許吧。"
 
