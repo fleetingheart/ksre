@@ -1444,7 +1444,7 @@ translate zh_hant a3_rin_the_scent_of_light_811c5f41:
 translate zh_hant a3_rin_the_scent_of_light_8e4a18dc:
 
     # hi "Good morning."
-    hi "早上好。"
+    hi "早安。"
 
 # game/script-a3-rin.rpy:997
 translate zh_hant a3_rin_the_scent_of_light_860d5edf:
@@ -2182,13 +2182,13 @@ translate zh_hant a3_rin_badaan_af03e4dd:
 translate zh_hant a3_rin_badaan_368733c3:
 
     # "Yuuko is hard at work today, too. She's methodically going through a towering stack of books sitting on her desk, checking them one by one and then placing them onto a cart beside her. I greet her as I stop by."
-    "優子今天也很忙。她正有條不紊地整理一摞高高的書籍，一本本地檢查它們，然後把它們放進身旁的推車裡。我走上前去打了個招呼。"
+    "優子今天也很忙。她正有條不紊地整理一疊高高的書籍，一本本地檢查它們，然後把它們放進身旁的推車裡。我走上前去打了個招呼。"
 
 # game/script-a3-rin.rpy:1449
 translate zh_hant a3_rin_badaan_ae64a285:
 
     # yu "Good afternoon."
-    yu "下午好。"
+    yu "午安。"
 
 # game/script-a3-rin.rpy:1454
 translate zh_hant a3_rin_badaan_40195366:
@@ -2836,7 +2836,7 @@ translate zh_hant a3_rin_the_edge_of_the_world_b0e5e52c:
 translate zh_hant a3_rin_the_edge_of_the_world_54978ffd:
 
     # hi "Good afternoon."
-    hi "下午好。"
+    hi "午安。"
 
 # game/script-a3-rin.rpy:1865
 translate zh_hant a3_rin_the_edge_of_the_world_96210d46:
@@ -2854,7 +2854,7 @@ translate zh_hant a3_rin_the_edge_of_the_world_c169eac9:
 translate zh_hant a3_rin_the_edge_of_the_world_0638441e:
 
     # hi "That's right. Good afternoon, Mrs. Saionji."
-    hi "沒錯。下午好，西園寺夫人。"
+    hi "沒錯。午安，西園寺夫人。"
 
 # game/script-a3-rin.rpy:1877
 translate zh_hant a3_rin_the_edge_of_the_world_6091a961:
@@ -4280,7 +4280,7 @@ translate zh_hant a3_rin_self_destruction_07c6b571:
 translate zh_hant a3_rin_self_destruction_54978ffd:
 
     # hi "Good afternoon."
-    hi "下午好。"
+    hi "午安。"
 
 # game/script-a3-rin.rpy:2631
 translate zh_hant a3_rin_self_destruction_3e5347a8:

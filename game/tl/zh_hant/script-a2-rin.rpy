@@ -22,7 +22,7 @@ translate zh_hant a2_rin_a_wider_field_of_vision_2513b2e4:
 translate zh_hant a2_rin_a_wider_field_of_vision_7ae5b0b7:
 
     # mu "Good morning, everyone!"
-    mu "大家早上好！"
+    mu "大家早安！"
 
 # game/script-a2-rin.rpy:31
 translate zh_hant a2_rin_a_wider_field_of_vision_731647e9:
@@ -178,7 +178,7 @@ translate zh_hant a2_rin_a_wider_field_of_vision_9926b9b7:
 translate zh_hant a2_rin_a_wider_field_of_vision_256efe60:
 
     # "Third, Emi seems to be carrying a foot-tall stack of papers while running in the hallway."
-    "最後，笑美似乎正抱著一摞一尺高的紙在走廊裡奔跑。"
+    "最後，笑美似乎正抱著一疊一尺高的紙在走廊裡奔跑。"
 
 # game/script-a2-rin.rpy:114
 translate zh_hant a2_rin_a_wider_field_of_vision_b2088e7e:
@@ -238,7 +238,7 @@ translate zh_hant a2_rin_a_wider_field_of_vision_83771a5d:
 translate zh_hant a2_rin_a_wider_field_of_vision_c2a68bba:
 
     # "As she notices her neat stack of papers spread all over the floor in one big mess, she lets out a horrified yelp."
-    "她發現那摞原本整齊的紙現在已經在地上散成了一團糟，驚恐地尖叫出來。"
+    "她發現那疊原本整齊的紙現在已經在地上散成了一團糟，驚恐地尖叫出來。"
 
 # game/script-a2-rin.rpy:152
 translate zh_hant a2_rin_a_wider_field_of_vision_80a1b7f5:
@@ -1090,7 +1090,7 @@ translate zh_hant a2_rin_studies_in_grayscale_0dda44ba:
 translate zh_hant a2_rin_studies_in_grayscale_ae0f481f:
 
     # "Student" "Hello…?"
-    "Student" "學生"
+    "學生" "你好……？"
 
 # game/script-a2-rin.rpy:696
 translate zh_hant a2_rin_studies_in_grayscale_d7226b16:
@@ -1102,7 +1102,7 @@ translate zh_hant a2_rin_studies_in_grayscale_d7226b16:
 translate zh_hant a2_rin_studies_in_grayscale_f4222029:
 
     # "Student" "Yep. You interested in joining?"
-    "Student" "學生"
+    "學生" "沒錯，你有興趣加入？"
 
 # game/script-a2-rin.rpy:700
 translate zh_hant a2_rin_studies_in_grayscale_e0307fd4:
@@ -1120,7 +1120,7 @@ translate zh_hant a2_rin_studies_in_grayscale_ccda0053:
 translate zh_hant a2_rin_studies_in_grayscale_fc97c9da:
 
     # "Student" "Great! Have a seat, then. We'll start when the teacher gets here."
-    "Student" "學生"
+    "學生" "棒極了！找個座位坐下吧。等老師一來，我們就開始。"
 
 # game/script-a2-rin.rpy:712
 translate zh_hant a2_rin_studies_in_grayscale_89b360eb:
@@ -1162,7 +1162,7 @@ translate zh_hant a2_rin_studies_in_grayscale_825bbe31:
 translate zh_hant a2_rin_studies_in_grayscale_7f06d3f5:
 
     # no "Good afternoon, everyone!"
-    no "下午好！"
+    no "午安！"
 
 # game/script-a2-rin.rpy:744
 translate zh_hant a2_rin_studies_in_grayscale_c677c059:
@@ -3486,7 +3486,7 @@ translate zh_hant a2_rin_things_you_like_2a0a33ca:
 translate zh_hant a2_rin_things_you_like_ded80923:
 
     # "As she pushes the neat stack of books across the counter, I stand up and gather them in my arms."
-    "她把那摞整齊的書推過櫃檯，我起身用雙臂抱起了它們。"
+    "她把那疊整齊的書推過櫃檯，我起身用雙臂抱起了它們。"
 
 # game/script-a2-rin.rpy:2289
 translate zh_hant a2_rin_things_you_like_fd4feeea:
@@ -4640,7 +4640,7 @@ translate zh_hant a2_rin_target_audience_169ce240:
 translate zh_hant a2_rin_target_audience_46dd8a0c:
 
     # "Teammate" "Hey, Emi! You're going to miss the medal ceremony!"
-    "Teammate" "隊友"
+    "隊友" "喂，笑美！妳要錯過頒獎儀式了！"
 
 # game/script-a2-rin.rpy:3121
 translate zh_hant a2_rin_target_audience_8388fbc4:
@@ -4982,7 +4982,7 @@ translate zh_hant a2_rin_eternity_in_an_hour_14905bda:
 translate zh_hant a2_rin_eternity_in_an_hour_a981b5fa:
 
     # "Sunglasses boy" "What defines an artist?"
-    "Sunglasses boy" "戴墨鏡的男孩"
+    "戴墨鏡的男孩" "藝術家的定義是什麼？"
 
 # game/script-a2-rin.rpy:3346
 translate zh_hant a2_rin_eternity_in_an_hour_47f0da3c:
@@ -4994,7 +4994,7 @@ translate zh_hant a2_rin_eternity_in_an_hour_47f0da3c:
 translate zh_hant a2_rin_eternity_in_an_hour_55ea3ef6:
 
     # "Student" "If I fill a cardboard box with water and call it art, is it art?"
-    "Student" "學生"
+    "學生" "如果我把一個紙箱裝滿水，然後叫它藝術，那也算藝術嗎？"
 
 # game/script-a2-rin.rpy:3353
 translate zh_hant a2_rin_eternity_in_an_hour_efd1d38e:
@@ -6736,7 +6736,7 @@ translate zh_hant a2_rin_in_her_own_image_35fd7417:
 translate zh_hant a2_rin_in_her_own_image_09aed754:
 
     # "He taps a pile of papers in his hands twice against the tabletop in order to straighten them, then stretches his back."
-    "他對著桌面抖了兩次手上的那摞紙，把它們理整齊，然後伸展了一下背部。"
+    "他對著桌面抖了兩次手上的那疊紙，把它們理整齊，然後伸展了一下背部。"
 
 # game/script-a2-rin.rpy:4444
 translate zh_hant a2_rin_in_her_own_image_16caabf9:
@@ -9766,7 +9766,7 @@ translate zh_hant a2_rin_indecision_9b081749:
 translate zh_hant a2_rin_indecision_06f44852:
 
     # emi "Hey! Good morning!"
-    emi "嗨！早上好!"
+    emi "嗨！早安!"
 
 # game/script-a2-rin.rpy:6558
 translate zh_hant a2_rin_indecision_030f5290:
@@ -11962,27 +11962,27 @@ translate zh_hant strings:
 
     # game/script-a2-rin.rpy:4248
     old "The mood among the third-years seems to be very anxious about the final exams, even though they are so far away. The teachers are badgering us about it all the time - even old Mr. Tachibana who is, by the way, our homeroom teacher this year. Would you believe it? I was sure that he'd retire after our second year, but here he is, nagging everyone about studying for exams.\n"
-    new "因為期末考試，第三年變得很緊張，雖然那些考試其實很遠。老師們時刻不停地用它們來煩我們——就連老橘慶太先生也不例外，順便提一句，他是我們今年的班導師。你能相信嗎？我還以為他在我們讀完二年級後就要退休了呢，不過他就在這兒，對著每個人嘮叨期末考試的事。\n"
+    new "三年級期末考大家變得很緊張，雖然還有一些時間。老師們時刻不停地用它們來煩我們 —— 就連立花老先生也不例外，順便提一句，他是我們今年的班導師。你能相信嗎？我還以為他在我們讀完二年級後就要退休了呢，不過他就在這兒，對著每個人嘮叨期末考試的事。\n"
 
     # game/script-a2-rin.rpy:4257
     old "There are other things I want to say. I'm writing to you because I felt that there are things I should've said after the incident back in winter. I really regret that I wasn't able to say them in person, and I have no excuse for it.{vspace=150}"
-    new "我還有一件事想要說。我給你寫信，是因為自從冬天的那次事故後，我就覺得自己有些話必須說出來。我真的很後悔沒能親口告訴你，我不能為自己開脫。{vspace=150}"
+    new "我還有其它想說的事情。我寫信給你是因為我覺得冬天發生那件事請的時候，我有該說卻沒和你說的東西。我真的很後悔沒能親口說出來，卻也沒有可辯解的理由。{vspace=150}"
 
     # game/script-a2-rin.rpy:4259
     old "The truth is, the times when I visited you at the hospital made me worried about you. I am not talking about your health. You seemed to become more distant and disheartened. It was natural after something like that happened, I'm sure, but somehow I got the feeling that you had given up on something back then. Happiness, maybe?{vspace=30}"
-    new "事實是，每次我去醫院探望你時，我都為你擔心。我不是指你的健康，而是你似乎正變得越來越遙不可及了，越來越心灰意冷。我知道這在那種事發生後是很正常的，可是還是沒法擺脫那種感受，就像是你已經在那一刻放棄了某種東西，快樂？可能吧。{vspace=30}"
+    new "事實是，每次去醫院探望你時，我都為你擔心。我不是指你的健康，而是你似乎正變得越來越遙不可及，越來越心灰意冷。我知道這在那種事發生後是很正常的，可是還是沒法擺脫那種感受。感覺就像是你已經在那一刻放棄了某種東西。快樂，可能吧？{vspace=30}"
 
     # game/script-a2-rin.rpy:4261
     old "I wanted to somehow express my feelings, but the right words didn't come to me. I couldn't say anything to comfort you. I am really sorry for not being able to support you when it mattered the most, even though I like you so much. At least now, finally, I can be more honest.{vspace=120}"
-    new "我想要說出自己的感受，卻找不到合適的詞。我不知道該說什麼去安慰你，我很抱歉，沒法在你最需要支撐的時候幫助你，雖然我非常喜歡你。不過至少現在，我能對你更誠實了。{vspace=120}"
+    new "我想要說出自己的感受，卻找不到合適的詞。我不知道該說什麼去安慰你，我很抱歉，沒法在你最需要支持的時候幫助你，雖然我非常喜歡你。不過至少現在，我能對你更誠實了。{vspace=120}"
 
     # game/script-a2-rin.rpy:4263
     old "If I could go back to those quiet days in February and March, I'd tell you to not give up on yourself. That's what I would say. Maybe you wouldn't have drifted so far away if I had just said something. I hope you've managed to get back on your feet on your own.{vspace=120}"
-    new "假如我能回到那些二月和三月的平靜日子裡，我會告訴你別放棄的。這就是我想說的。如果那時我把它說了出來，或許你就不會像那樣飄遠了。我希望現在你找到了支撐自己的方式。{vspace=120}"
+    new "假如我能回到那些二月和三月的平靜日子裡，我會告訴你別放棄。這就是我想說的。如果那時我把它說了出來，或許你就不會像那樣逐漸飄遠了。我希望現在你找到了支持自己的方式。{vspace=120}"
 
     # game/script-a2-rin.rpy:4265
     old "Now that the distance between us is also physical, it also feels more final, somehow. I wonder if we will meet again. Perhaps it's for the best if we don't? Still, if you would like to correspond with me, by all means write me back. I'd very much like to hear about your new school and how you are doing. I wish you all the best.\n\nSincerely, Iwanako"
-    new "如今我們間的距離已經不再是虛幻的了，我感覺，它似乎也已經變得更無法挽回。不知道我們還會不會再見面。也許，如果我們就這樣告別，其實是最好的？不過，如果你還是希望和我交流，沒關係，給我回信吧。我也很想聽聽你的新學校，聽聽你現在的情況。願你好運。\n\n誠摯的，巖魚子"
+    new "如今我們間的距離已經不只心境的層次。我感覺，它似乎也已經變得更無法挽回。不知道我們還會不會再見面。也許，如果我們就這樣告別，其實是最好的？不過，如果你還希望和我聯繫，請務必給我回信。我也很想聽聽你的新學校，聽聽你現在的情況。願你好運。\n\n巖魚子"
 
     # game/script-a2-rin.rpy:4719
     old "I think you'd be a big hit."

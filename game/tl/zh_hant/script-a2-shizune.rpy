@@ -100,7 +100,7 @@ translate zh_hant a2_shizune_message_passing_ef2b123c:
 translate zh_hant a2_shizune_message_passing_8e4a18dc:
 
     # hi "Good morning."
-    hi "早上好！"
+    hi "早安！"
 
 # game/script-a2-shizune.rpy:72
 translate zh_hant a2_shizune_message_passing_b657b756:
@@ -406,13 +406,13 @@ translate zh_hant a2_shizune_message_passing_76b2fe88_4:
 translate zh_hant a2_shizune_message_passing_c44f4be9:
 
     # mi "Hi, Hicchan~! Good morning~!"
-    mi "嗨，小久～！早上好啊～！"
+    mi "嗨，小久～！早安啊～！"
 
 # game/script-a2-shizune.rpy:268
 translate zh_hant a2_shizune_message_passing_699b492a:
 
     # hi "'Morning."
-    hi "早上好。"
+    hi "早安。"
 
 # game/script-a2-shizune.rpy:270
 translate zh_hant a2_shizune_message_passing_ce523a9e:
@@ -1672,7 +1672,7 @@ translate zh_hant a2_shizune_chinese_whispers_1bcf1113:
 translate zh_hant a2_shizune_chinese_whispers_ece4a6b6:
 
     # ssh "Good morning."
-    ssh "早上好。"
+    ssh "早安。"
 
 # game/script-a2-shizune.rpy:1057
 translate zh_hant a2_shizune_chinese_whispers_f428269f:
@@ -2532,7 +2532,7 @@ translate zh_hant a2_shizune_advanced_game_theory_b6cc39b9:
 translate zh_hant a2_shizune_advanced_game_theory_6bcef903:
 
     # "There are more games out than books. This at last explains why every time I come here there are stacks of books piled on every table and occasionally parts of the floor: they need the room to put all these games somewhere."
-    "房間裡的遊戲盒子比書還多。怪不得我每次來這裡時每張桌子上都堆著好幾摞書，有時地板上也堆得有書，原來是騰出空間放遊戲盒子的。"
+    "房間裡的遊戲盒子比書還多。怪不得我每次來這裡時每張桌子上都堆著好幾疊書，有時地板上也堆得有書，原來是騰出空間放遊戲盒子的。"
 
 # game/script-a2-shizune.rpy:1608
 translate zh_hant a2_shizune_advanced_game_theory_66b999fb:
@@ -6194,7 +6194,7 @@ translate zh_hant a2_shizune_spring_into_action_5039ad6c:
 translate zh_hant a2_shizune_spring_into_action_d3f8881b:
 
     # "Although in this case I can understand why Lilly wouldn't. This is a very awkward situation and it's daunting being the sole conduit for dialogue between the two of them."
-    "不過即便如此我也理解為什麼莉莉沒有看著她。這還真是尷尬的場面。做這兩個人之間唯一的對話渠道還真是讓人提心吊膽。"
+    "不過即便如此我也理解為什麼莉莉沒有看著她。這還真是尷尬的場面。做這兩個人之間唯一的對話管道還真是讓人提心吊膽。"
 
 # game/script-a2-shizune.rpy:3986
 translate zh_hant a2_shizune_spring_into_action_f4133ee1:
@@ -8168,7 +8168,7 @@ translate zh_hant a2_shizune_when_stars_embrace_01f269ba:
 translate zh_hant a2_shizune_when_stars_embrace_24b85182:
 
     # mi "Hi, Hicchan! Good morning~!"
-    mi "嗨，小久！早上好~！"
+    mi "嗨，小久！早安~！"
 
 # game/script-a2-shizune.rpy:5293
 translate zh_hant a2_shizune_when_stars_embrace_71a85225:
@@ -8180,7 +8180,7 @@ translate zh_hant a2_shizune_when_stars_embrace_71a85225:
 translate zh_hant a2_shizune_when_stars_embrace_9bddcf7f:
 
     # hi "Good morning. I didn't expect to find you here. What're you doing up so early?"
-    hi "早上好。真沒想到會在這兒見到你。你幹嘛起這麼早？"
+    hi "早安。真沒想到會在這兒見到你。你幹嘛起這麼早？"
 
 # game/script-a2-shizune.rpy:5300
 translate zh_hant a2_shizune_when_stars_embrace_3696369d:
@@ -9314,7 +9314,7 @@ translate zh_hant strings:
 
     # game/script-a2-shizune.rpy:136
     old "Good morning."
-    new "早上好。"
+    new "早安。"
 
     # game/script-a2-shizune.rpy:150
     old "Use the notepad! Write write write write write write write write write write write write write write write write write write write write write!"

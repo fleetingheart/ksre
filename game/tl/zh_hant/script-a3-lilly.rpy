@@ -1138,7 +1138,7 @@ translate zh_hant a3_lilly_minor_discord_a65aec0a:
 translate zh_hant a3_lilly_minor_discord_bcd33c62:
 
     # "Girl" "Uh… hi." nointeract
-    "Girl" "小女孩" nointeract
+    "小女孩" "呃…你好。" nointeract
 
 # game/script-a3-lilly.rpy:781
 translate zh_hant a3_lilly_minor_discord_1d73dbab:
@@ -1354,7 +1354,7 @@ translate zh_hant a3_lilly_dissonance_3ac7d1af:
 translate zh_hant a3_lilly_dissonance_fc3e6151:
 
     # "Mrs. Satou" "Ah, you must be one of Lilly's friends from school, correct?"
-    "Mrs. Satou" "砂藤太太"
+    "砂藤太太" "啊，你一定是莉莉在學校的朋友，對吧？"
 
 # game/script-a3-lilly.rpy:914
 translate zh_hant a3_lilly_dissonance_3cda47f5:
@@ -1372,7 +1372,7 @@ translate zh_hant a3_lilly_dissonance_b201fe5f:
 translate zh_hant a3_lilly_dissonance_2ea8bf2c:
 
     # "Mrs. Satou" "It's so nice of her to find someone so polite! Lilly dear, it's for you!"
-    "Mrs. Satou" "砂藤太太"
+    "砂藤太太" "真高興她找了一個這麼有禮貌的人！小莉莉，找你的！"
 
 # game/script-a3-lilly.rpy:920
 translate zh_hant a3_lilly_dissonance_fc61db99:
@@ -2044,7 +2044,7 @@ translate zh_hant a3_lilly_a_world_away_70cec4e7:
 translate zh_hant a3_lilly_a_world_away_9b21ea13:
 
     # "Mrs. Satou" "{image=vfx/garbage.png} {image=vfx/garbage.png} Satou {image=vfx/garbage.png}?"
-    "Mrs. Satou" "砂藤太太"
+    "砂藤太太" "<Hello, this is Karla Satou speaking.>?"
 
 # game/script-a3-lilly.rpy:1255
 translate zh_hant a3_lilly_a_world_away_4ca2adf7:
@@ -2062,25 +2062,25 @@ translate zh_hant a3_lilly_a_world_away_8942041c:
 translate zh_hant a3_lilly_a_world_away_15654483:
 
     # hi "May I speak with Lilly, please?"
-    hi "請問我可以和莉莉通話嗎？"
+    hi "<May I speak with Lilly, please?>"
 
 # game/script-a3-lilly.rpy:1261
 translate zh_hant a3_lilly_a_world_away_0aa517b5:
 
     # "Mrs. Satou" "Hello again, Hisao. Are you teaching yourself English?"
-    "Mrs. Satou" "砂藤太太"
+    "砂藤太太" "<Hello again, Hisao. Are you teaching yourself English?>"
 
 # game/script-a3-lilly.rpy:1263
 translate zh_hant a3_lilly_a_world_away_33e6106c:
 
     # hi "Just a little. I don't think I'm too good at languages in general."
-    hi "一點點。大體來說語言上的事我不是很擅長。"
+    hi "<Just a little. I don't think I'm too good at languages in general.>"
 
 # game/script-a3-lilly.rpy:1265
 translate zh_hant a3_lilly_a_world_away_58d1208a:
 
     # "Mrs. Satou" "Oh, don't say that. Your pronunciation was good! I'll get Lilly for you, just wait a moment."
-    "Mrs. Satou" "砂藤太太"
+    "砂藤太太" "<Oh, don't say that. Your pronunciation was good! I'll get Lilly for you, just wait a moment.>"
 
 # game/script-a3-lilly.rpy:1267
 translate zh_hant a3_lilly_a_world_away_72f28400:
@@ -2110,7 +2110,7 @@ translate zh_hant a3_lilly_a_world_away_43430138:
 translate zh_hant a3_lilly_a_world_away_3d6fcb77:
 
     # li "Good afternoon. Sorry for taking so long, I was outside in the garden."
-    li "下午好。抱歉讓你久等了，我剛剛在外面的花園。"
+    li "午安。抱歉讓你久等了，我剛剛在外面的花園。"
 
 # game/script-a3-lilly.rpy:1279
 translate zh_hant a3_lilly_a_world_away_b0049c69:
@@ -3754,7 +3754,7 @@ translate zh_hant a3_lilly_prelude_adb2f215:
 translate zh_hant a3_lilly_prelude_816bc810:
 
     # li "Good morning, Hisao."
-    li "早上好，久夫。"
+    li "早安，久夫。"
 
 # game/script-a3-lilly.rpy:2309
 translate zh_hant a3_lilly_prelude_cfbeb8bd:
@@ -5730,7 +5730,7 @@ translate zh_hant a3_lilly_gray_outlook_bbcb44a1:
 translate zh_hant a3_lilly_gray_outlook_06e1a86e:
 
     # ha "Good morning, Hisao."
-    ha "早上好，久夫。"
+    ha "早安，久夫。"
 
 # game/script-a3-lilly.rpy:3489
 translate zh_hant a3_lilly_gray_outlook_39e03557:
@@ -5778,7 +5778,7 @@ translate zh_hant a3_lilly_gray_outlook_df4351f6:
 translate zh_hant a3_lilly_gray_outlook_055c2588:
 
     # hi "I gagged. It's my fault. 'Morning, Hanako."
-    hi "我被嗆到了。那是我自己的錯。早上好，華子。"
+    hi "我被嗆到了。那是我自己的錯。早安，華子。"
 
 # game/script-a3-lilly.rpy:3519
 translate zh_hant a3_lilly_gray_outlook_5c514a35:
@@ -5802,7 +5802,7 @@ translate zh_hant a3_lilly_gray_outlook_4d5294c9:
 translate zh_hant a3_lilly_gray_outlook_9f705762:
 
     # li "Good morning… Hisao."
-    li "早上好……久夫。"
+    li "早安……久夫。"
 
 # game/script-a3-lilly.rpy:3537
 translate zh_hant a3_lilly_gray_outlook_efe1376b:
@@ -7062,7 +7062,7 @@ translate zh_hant a3lc2o1_fe33b37c:
 translate zh_hant a3lc2o1_e18372ec:
 
     # "Girl" "Ikezawa is Ikezawa. Her not answering the door is totally normal. That tall foreign girl's the only person she'll ever talk to, after all."
-    "Girl" "女孩"
+    "女孩" "池澤就是池澤，她會有回應就不叫池澤了，畢竟，那個高高的外國女孩是唯一一個她會與之交談的人。"
 
 # game/script-a3-lilly.rpy:4215
 translate zh_hant a3lc2o1_33e09793:
@@ -7104,7 +7104,7 @@ translate zh_hant a3lc2o2_c645948c:
 translate zh_hant a3lc2o2_7517b4a9:
 
     # "Girl" "Whatever."
-    "Girl" "女孩"
+    "女孩" "隨便。"
 
 # game/script-a3-lilly.rpy:4232
 translate zh_hant a3lc2o2_b2ed167c:

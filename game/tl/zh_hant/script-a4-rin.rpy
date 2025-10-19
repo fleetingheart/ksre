@@ -358,7 +358,7 @@ translate zh_hant a4_rin_illusions_for_people_46db08e4:
 translate zh_hant a4_rin_illusions_for_people_3c6f0e91:
 
     # "My grudging silence is interpreted as assent, and Nomiya turns to shuffle the stack of turned-in assignments on his desk like a deck of cards."
-    "我勉強的沉默被理解成了默認，野宮開始整理那摞上交的作業，像是在整理一副撲克牌一樣。"
+    "我勉強的沉默被理解成了默認，野宮開始整理那疊上交的作業，像是在整理一副撲克牌一樣。"
 
 # game/script-a4-rin.rpy:199
 translate zh_hant a4_rin_illusions_for_people_4fd197c4:
@@ -1764,31 +1764,31 @@ translate zh_hant a4_rin_the_scene_f47b727b:
 translate zh_hant a4_rin_the_scene_5f14c8e3:
 
     # "Man" "Would you mind telling us something about your art?"
-    "Man" "男人"
+    "男人" "介意給我們介紹一下妳的畫嗎？"
 
 # game/script-a4-rin.rpy:1056
 translate zh_hant a4_rin_the_scene_68f9a3e4:
 
     # "Man" "I thought the development is quite easily noticeable, what do you yourself think of the differences between the older and more current works?"
-    "Man" "男人"
+    "男人" "我覺得這些畫裡創作理念的發展挺明顯的，妳對新舊作品之間的區別有什麼看法？"
 
 # game/script-a4-rin.rpy:1058
 translate zh_hant a4_rin_the_scene_98907ffb:
 
     # "Man" "It's quite rare for someone so young to dabble into abstraction."
-    "Man" "男人"
+    "男人" "這麼年輕，就開始涉足抽象主義了，實在是少見。"
 
 # game/script-a4-rin.rpy:1060
 translate zh_hant a4_rin_the_scene_4e19473e:
 
     # "Woman" "It would've been interesting to see how you work!"
-    "Woman" "女人"
+    "女人" "要是能看著你畫畫，那就有意思了！"
 
 # game/script-a4-rin.rpy:1062
 translate zh_hant a4_rin_the_scene_4834f385:
 
     # "Man" "Oh, definitely! I assume you use your feet? Must've been a great trouble to learn it, you should be proud."
-    "Man" "男人"
+    "男人" "噢，絕對的！我猜，你是用腳畫的吧？學起來肯定很難，你真該自豪。"
 
 # game/script-a4-rin.rpy:1067
 translate zh_hant a4_rin_the_scene_7c641666:
@@ -1800,7 +1800,7 @@ translate zh_hant a4_rin_the_scene_7c641666:
 translate zh_hant a4_rin_the_scene_888dbb6e:
 
     # "Man" "Will you be pursuing a career as an artist after school?"
-    "Man" "男人"
+    "男人" "你畢業後準備成為職業藝術家嗎？"
 
 # game/script-a4-rin.rpy:1073
 translate zh_hant a4_rin_the_scene_1598f9c5:
@@ -1818,7 +1818,7 @@ translate zh_hant a4_rin_the_scene_08ee072a:
 translate zh_hant a4_rin_the_scene_4da16c57:
 
     # "Man" "So where do you get your ideas?"
-    "Man" "男人"
+    "男人" "那麼，你是從哪兒找到靈感的？"
 
 # game/script-a4-rin.rpy:1082
 translate zh_hant a4_rin_the_scene_673dbc28:
@@ -1872,7 +1872,7 @@ translate zh_hant a4_rin_the_scene_7fd81128:
 translate zh_hant a4_rin_the_scene_be781a3f:
 
     # "Woman" "Are you all right?"
-    "Woman" "女人"
+    "女人" "你還好嗎？"
 
 # game/script-a4-rin.rpy:1125
 translate zh_hant a4_rin_the_scene_48efa8e6:
@@ -3284,7 +3284,7 @@ translate zh_hant a4_rin_blue_period_dbbe0fc0:
 translate zh_hant a4_rin_blue_period_c387670f:
 
     # no "Ah, good afternoon Nakai."
-    no "啊，下午好，中井。"
+    no "啊，午安，中井。"
 
 # game/script-a4-rin.rpy:1982
 translate zh_hant a4_rin_blue_period_a80d47c7:
@@ -7022,7 +7022,7 @@ translate zh_hant a4_rin_measuring_shadows_0a716e6b:
 translate zh_hant a4_rin_measuring_shadows_1bacdced:
 
     # "Nomiya's 'office' is the art classroom at the other end of the third floor hallway."
-    "野宮的“辦公室”就是三樓過道盡頭的藝術教室。"
+    "野宮的“辦公室”就是三樓走廊盡頭的藝術教室。"
 
 # game/script-a4-rin.rpy:3826
 translate zh_hant a4_rin_measuring_shadows_125fc35a:
@@ -8850,7 +8850,7 @@ translate zh_hant a4_rin_wb_and_ws_ed6bb294:
 translate zh_hant a4_rin_wb_and_ws_be4e215c:
 
     # "Rainwater is relentlessly pouring down from the blue-gray sky outside, streaming down the glass of my window in small brooks and rivers and gathering together to form miniature ponds on the walkways."
-    "雨水間歇不斷地從室外灰藍色的天穹塌落，在我的窗玻璃上匯聚成了溪流，一路向下，在過道上形成了小水灘。"
+    "雨水間歇不斷地從室外灰藍色的天穹塌落，在我的窗玻璃上匯聚成了溪流，一路向下，在走廊上形成了小水灘。"
 
 # game/script-a4-rin.rpy:4705
 translate zh_hant a4_rin_wb_and_ws_0167ac62:
@@ -12188,7 +12188,7 @@ translate zh_hant a4rc1o1_2fe1c94a:
 translate zh_hant a4rc1o1_e2636d67:
 
     # "Man" "Ah yes, I'm very excited to meet…"
-    "Man" "男人"
+    "男人" "啊，是的，我很想見見……"
 
 # game/script-a4-rin.rpy:6530
 translate zh_hant a4rc1o1_e9c3779b:

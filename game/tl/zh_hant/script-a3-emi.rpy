@@ -15542,7 +15542,7 @@ translate zh_hant a3ec4o2_67cb332d:
 translate zh_hant a3ec4o2_21bc2e04:
 
     # hi "Good evening, Emi, Mrs. Ibarazaki."
-    hi "晚上好，笑美，茨崎夫人。"
+    hi "晚安，笑美，茨崎夫人。"
 
 # game/script-a3-emi.rpy:8773
 translate zh_hant a3ec4o2_0fe5cb19:

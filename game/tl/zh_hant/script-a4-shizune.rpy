@@ -4,7 +4,7 @@
 translate zh_hant a4_shizune_grand_strategy_b15bdb6b:
 
     # "Only a day later, the weekend has already arrived. I drop a heavy stack of books on the librarian's desk, not meaning to slam them, but they weigh so much that it happens anyway."
-    "才過了一天，週末便已經到了。我把一大摞書端到了圖書館的辦公桌前。雖然並沒有故意地摔，厚重的書還是砰的一聲砸到了桌子上。"
+    "才過了一天，週末便已經到了。我把一大疊書端到了圖書館的辦公桌前。雖然並沒有故意地摔，厚重的書還是砰的一聲砸到了桌子上。"
 
 # game/script-a4-shizune.rpy:26
 translate zh_hant a4_shizune_grand_strategy_b96a1420:
@@ -3630,7 +3630,7 @@ translate zh_hant a4_shizune_the_summit_5ccdb0bc:
 translate zh_hant a4_shizune_the_summit_95c93544:
 
     # hi "Good morning. Are you here to deliver the mail?"
-    hi "早上好。來送信嗎？"
+    hi "早安。來送信嗎？"
 
 # game/script-a4-shizune.rpy:2357
 translate zh_hant a4_shizune_the_summit_d7eeb329:
@@ -4434,13 +4434,13 @@ translate zh_hant a4_shizune_succession_19503e9b:
 translate zh_hant a4_shizune_succession_dcd6aa4f:
 
     # "Aoi" "Okay, okay! Aaargh! This Student Council is so weird."
-    "Aoi" " “葵”“好的好的！啊——！這個學生會真是太奇怪了！"
+    "葵" "好的好的！啊——！這個學生會真是太奇怪了！"
 
 # game/script-a4-shizune.rpy:2925
 translate zh_hant a4_shizune_succession_b69b17f7:
 
     # "Keiko" "Yes, sir."
-    "Keiko" "“惠子”“明白了，先生”"
+    "惠子" "明白了，先生"
 
 # game/script-a4-shizune.rpy:2927
 translate zh_hant a4_shizune_succession_9920cc4d:
@@ -4464,7 +4464,7 @@ translate zh_hant a4_shizune_succession_752cf4fb:
 translate zh_hant a4_shizune_succession_c6a587c9:
 
     # "Aoi" "Noooo…"
-    "Aoi" "“葵”“不要啊………………”"
+    "葵" "不要啊………………"
 
 # game/script-a4-shizune.rpy:2959
 translate zh_hant a4_shizune_succession_89071d44:
@@ -7806,13 +7806,13 @@ translate zh_hant a4_shizune_spiral_09a7e8cc:
 translate zh_hant a4_shizune_spiral_2f8b0e4f:
 
     # his "I wanted to see if there was anything I could help with. Like all that over there, what are those?"
-    his "我想過來看看有什麼可以幫忙的。比如說那摞東西，那些是什麼？"
+    his "我想過來看看有什麼可以幫忙的。比如說那疊東西，那些是什麼？"
 
 # game/script-a4-shizune.rpy:5124
 translate zh_hant a4_shizune_spiral_a691db8b:
 
     # "I point to the medium-sized stack of folders beside her, but she waves her hand dismissively."
-    "我指著她旁邊厚厚的一摞文件，但她卻輕蔑地揮了揮手。"
+    "我指著她旁邊厚厚的一疊文件，但她卻輕蔑地揮了揮手。"
 
 # game/script-a4-shizune.rpy:5129
 translate zh_hant a4_shizune_spiral_5b846967:
@@ -8222,7 +8222,7 @@ translate zh_hant a4_shizune_terminal_0b64a6b3:
 translate zh_hant a4_shizune_terminal_5cb0fcca:
 
     # "I'm a bit hurt that I don't even get a 'good morning,' but it's not too big a deal."
-    "連“早上好”都沒有，讓我有點傷心，但這也不是什麼大不了的事。"
+    "連“早安”都沒有，讓我有點傷心，但這也不是什麼大不了的事。"
 
 # game/script-a4-shizune.rpy:5394
 translate zh_hant a4_shizune_terminal_c694c689:

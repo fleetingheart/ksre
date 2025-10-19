@@ -3760,7 +3760,7 @@ translate zh_hant a1_sunday_promise_of_time_249c755c:
 translate zh_hant a1_sunday_promise_of_time_caa8df6c:
 
     # "Student" "Go on Lils, you've earned yourself a break. We can hold down the fort, for now."
-    "Student" "學生"
+    "學生" "去吧，莉莉，這是妳應得的。我們暫時還守得住。"
 
 # game/script-a1-sunday.rpy:2080
 translate zh_hant a1_sunday_promise_of_time_17119648:
@@ -3778,7 +3778,7 @@ translate zh_hant a1_sunday_promise_of_time_f3309163:
 translate zh_hant a1_sunday_promise_of_time_f5d28998:
 
     # "Student" "Then we'll call you. Go on, we'll be fine."
-    "Student" "學生"
+    "學生" "那我們會叫妳的。去吧，我們沒問題的。"
 
 # game/script-a1-sunday.rpy:2092
 translate zh_hant a1_sunday_promise_of_time_0094ee1e:
@@ -7282,7 +7282,7 @@ translate zh_hant a1_sunday_throwing_balls_85eb7cd1:
 translate zh_hant a1_sunday_throwing_balls_7dcd66de:
 
     # "Booth Operator" "Hey! It's good to see you, Hakamichi! Thank you so much for your help with this booth. Having fun?"
-    "Booth Operator" "攤位老闆"
+    "攤位老闆" "嘿！羽加道，很高興看到妳！非常感謝你幫忙搭這個攤位。玩得開心嗎？"
 
 # game/script-a1-sunday.rpy:4405
 translate zh_hant a1_sunday_throwing_balls_f8773ae3:
@@ -7318,7 +7318,7 @@ translate zh_hant a1_sunday_throwing_balls_3a911321:
 translate zh_hant a1_sunday_throwing_balls_c89ff315:
 
     # "Shiraki" "Hahaha, haha… No."
-    "Shiraki" "白木"
+    "白木" "哈哈哈，哈哈……不行。"
 
 # game/script-a1-sunday.rpy:4437
 translate zh_hant a1_sunday_throwing_balls_cf5b276d:
@@ -7390,7 +7390,7 @@ translate zh_hant a1_sunday_throwing_balls_179dd09d:
 translate zh_hant a1_sunday_throwing_balls_ddc901ad:
 
     # "Shiraki" "Yeah…"
-    "Shiraki" "白木"
+    "白木" "是啊……"
 
 # game/script-a1-sunday.rpy:4477
 translate zh_hant a1_sunday_throwing_balls_ef2b123c_19:
@@ -7450,7 +7450,7 @@ translate zh_hant a1_sunday_throwing_balls_edfe4212:
 translate zh_hant a1_sunday_throwing_balls_d41a62ab:
 
     # "Shiraki" "Ah, yeah, it's not as easy as it looks. There's water inside the bottles. Trade secret."
-    "Shiraki" "白木"
+    "白木" "啊，對了，沒有像看起來那麼容易的。瓶子裡裝了水。商業祕密哦。"
 
 # game/script-a1-sunday.rpy:4523
 translate zh_hant a1_sunday_throwing_balls_c3150e68:
@@ -7642,7 +7642,7 @@ translate zh_hant a1_sunday_throwing_balls_5e6ceb76:
 translate zh_hant a1_sunday_throwing_balls_a7d17feb:
 
     # "Shiraki" "Actually, yeah, just one more."
-    "Shiraki" "白木"
+    "白木" "嗯，有是有，但只剩一個了。"
 
 # game/script-a1-sunday.rpy:4641
 translate zh_hant a1_sunday_throwing_balls_8515c4ba:
