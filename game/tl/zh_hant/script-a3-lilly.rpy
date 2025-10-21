@@ -4,19 +4,19 @@
 translate zh_hant a3_lilly_day_by_day_64fcbbfa:
 
     # "I rest my chin on my hand as I absentmindedly look out the window, yet another of Mutou's lectures droning on and on as if it were endless."
-    "我的手託著下巴心不在焉的望著窗外，武藤老師的講課無聊到讓人覺得永無止盡。"
+    "我的手拖著下巴心不在焉地望著窗外，武藤老師的講課無聊到讓人覺得永無止盡。"
 
 # game/script-a3-lilly.rpy:20
 translate zh_hant a3_lilly_day_by_day_75233f46:
 
     # "The summer sky is almost alluring in its bright cerulean splendor. Only the odd passing cloud breaks up the deep blue expanse."
-    "燦爛的夏日青空是如此的吸引人，飄過的奇特雲彩散落在這廣闊的深藍畫布上。"
+    "燦爛的夏日晴空是如此的吸引人，奇特雲彩飄過，散落在這廣闊的深藍畫布上。"
 
 # game/script-a3-lilly.rpy:22
 translate zh_hant a3_lilly_day_by_day_dec941f4:
 
     # "This feeling of longing is probably the outdoors side of me yearning to escape."
-    "這個渴望的感覺大概源自於我那想要逃離這個教室的戶外的一面。"
+    "這種渴望的感覺，大概是我內心那渴求自由的一面在呼喚著想要逃離。"
 
 # game/script-a3-lilly.rpy:24
 translate zh_hant a3_lilly_day_by_day_7e39c561:
@@ -46,7 +46,7 @@ translate zh_hant a3_lilly_day_by_day_1d25ef24:
 translate zh_hant a3_lilly_day_by_day_76982290:
 
     # "As my attention towards Mutou slips once again, I spot Misha giving me an enthusiastic thumbs-up, and nod at her to settle her down."
-    "當我的注意力再次從武藤身上移開時，我注意到米莎對我豎起了大拇指，為了讓她冷靜下來對她點了點頭。"
+    "當我的注意力再次從武藤身上移開時，我注意到米莎對我豎起了大拇指，為了讓她冷靜下來我對她點了點頭。"
 
 # game/script-a3-lilly.rpy:44
 translate zh_hant a3_lilly_day_by_day_dcf45d0f:
@@ -58,13 +58,13 @@ translate zh_hant a3_lilly_day_by_day_dcf45d0f:
 translate zh_hant a3_lilly_day_by_day_acb0f59a:
 
     # "Life largely continued as usual, in contrast to what I'd expected. While thoughts of her have danced around on the edge of my mind since she left, present events manage to subdue them. At least for the time being."
-    "日子還是跟往常一樣，跟我的預期倒是有點出入。雖然自從她走後她的身影就在我心中的一角翩然起舞並騷動著我的思緒，但至少現在眼前的事物還能夠壓住這個思念。"
+    "日子還是跟往常一樣，跟我的預期倒是有點出入。雖然自從她走後，她的身影一直在我內心一角翩然起舞，騷動著我的思緒。但至少現在眼前的事物還能夠壓住這個思念。"
 
 # game/script-a3-lilly.rpy:48
 translate zh_hant a3_lilly_day_by_day_e33dd682:
 
     # "So I find myself idly chatting with Hanako, as usual, when lunchtime finally rolls by."
-    "所以我發現我自己還是跟往常一樣在午餐的時候跟華子在一起悠哉的聊天，打發時間。"
+    "我發現我自己還是跟往常一樣在午餐的時候跟華子在一起悠哉的聊天，打發時間。"
 
 # game/script-a3-lilly.rpy:53
 translate zh_hant a3_lilly_day_by_day_8e4ef506:
@@ -76,7 +76,7 @@ translate zh_hant a3_lilly_day_by_day_8e4ef506:
 translate zh_hant a3_lilly_day_by_day_650c0e40:
 
     # hi "Not really. You're probably best off just sticking to the original. His later books didn't live up to it, other than maybe 'God Emperor.'"
-    hi "並非如此，你最好還是隻看第一部。他後來的書沒能達到第一本的水平，也許“神皇”除外。"
+    hi "並非如此，妳最好還是只看第一部。他後來的書沒能達到第一本的水準，也許“神皇”除外。"
 
 # game/script-a3-lilly.rpy:60
 translate zh_hant a3_lilly_day_by_day_46ae3b21:
@@ -88,7 +88,7 @@ translate zh_hant a3_lilly_day_by_day_46ae3b21:
 translate zh_hant a3_lilly_day_by_day_6cd320d6:
 
     # "As Hanako steps to the side, I see Shizune stride up in her typically businesslike manner, flanked by her ever-present bright-haired shadow."
-    "當華子站到一旁，我看到靜音擺著她那副典型的公事公辦的樣子，一旁站著她那個無論何時都如影隨形的亮色頭髮小跟班。"
+    "當華子從向一旁，我看到靜音擺著公事公辦的樣子出現，一旁站著她那個無論何時都如影隨形的粉色頭髮小跟班。"
 
 # game/script-a3-lilly.rpy:74
 translate zh_hant a3_lilly_day_by_day_ed170e69:
@@ -106,7 +106,7 @@ translate zh_hant a3_lilly_day_by_day_aae5bd69:
 translate zh_hant a3_lilly_day_by_day_983655b2:
 
     # ha "Um… hi."
-    ha "呃……你好。"
+    ha "呃……妳好。"
 
 # game/script-a3-lilly.rpy:86
 translate zh_hant a3_lilly_day_by_day_81381e14:
@@ -118,7 +118,7 @@ translate zh_hant a3_lilly_day_by_day_81381e14:
 translate zh_hant a3_lilly_day_by_day_7b7f2774:
 
     # "It's been a long while since I've really talked to either of them. For a while I thought they might be avoiding me, but I eventually came to the conclusion that Shizune really isn't the type to do so."
-    "我已經有一段時間沒有跟她們中的任何一個人真正意義上的說過話了，有段時間我覺得她們可能是在迴避我，但最後我的結論是靜音並不是會做這種事的人。"
+    "我已經有一段時間沒有跟她們中的任何一個人有意義的對話了，有段時間我覺得她們可能是在迴避我，但最後我的結論是靜音並不是會做這種事的人。"
 
 # game/script-a3-lilly.rpy:93
 translate zh_hant a3_lilly_day_by_day_ef2b123c:
@@ -166,7 +166,7 @@ translate zh_hant a3_lilly_day_by_day_23211b12:
 translate zh_hant a3_lilly_day_by_day_c6d771e9:
 
     # hi "Thanks, I'll keep that in mind. There was something I wanted to ask you, though."
-    hi "謝謝，我會記住這點的。不過我還有點事想要問你。"
+    hi "謝謝，我會記住這點的。不過我還有點事想要問妳。"
 
 # game/script-a3-lilly.rpy:127
 translate zh_hant a3_lilly_day_by_day_ef2b123c_2:
@@ -190,7 +190,7 @@ translate zh_hant a3_lilly_day_by_day_c5b75929:
 translate zh_hant a3_lilly_day_by_day_5c51fa90:
 
     # hi "Is there any reason why you and Lilly don't get along? It seems like even a little civility would help you both in your duties."
-    hi "你和莉莉這麼合不來是有什麼原因嗎？看上去哪怕只是一點點的禮貌對你們雙方的職責都是有幫助的。"
+    hi "妳和莉莉這麼合不來是有什麼原因嗎？只是一點點的禮貌對妳們雙方的職責都是有幫助的。"
 
 # game/script-a3-lilly.rpy:141
 translate zh_hant a3_lilly_day_by_day_e7dcaeaf:
@@ -208,7 +208,7 @@ translate zh_hant a3_lilly_day_by_day_f4ef2b31:
 translate zh_hant a3_lilly_day_by_day_ff59caa1:
 
     # "Thankfully, Shizune notices this and lets her temper dissipate as she forcefully runs her hand through her hair to let off steam. Perfectly on cue, Misha begins interpreting the second Shizune's arms begin to move."
-    "好在，靜音也注意到了，她用力地捋了捋頭髮消了消火。隨後幾乎就在靜音的手臂開始移動的同時，米莎開始了翻譯。"
+    "好在，靜音也注意到了，她用力地撥了撥頭髮消了消火。隨後幾乎就在靜音的手臂開始移動的同時，米莎開始了翻譯。"
 
 # game/script-a3-lilly.rpy:157
 translate zh_hant a3_lilly_day_by_day_ef2b123c_3:
@@ -220,7 +220,7 @@ translate zh_hant a3_lilly_day_by_day_ef2b123c_3:
 translate zh_hant a3_lilly_day_by_day_b1e657c5:
 
     # mi "I would say that such matters aren't relevant to you, but since you seem to have befriended Lilly…"
-    mi "我本想說這不關你的事，不過考慮到你和莉莉好像交好了……"
+    mi "我本想說這不關你的事，不過考慮到你和莉莉的關係不同了……"
 
 # game/script-a3-lilly.rpy:167
 translate zh_hant a3_lilly_day_by_day_71c321e0:
@@ -310,7 +310,7 @@ translate zh_hant a3_lilly_day_by_day_c790a3a6:
 translate zh_hant a3_lilly_day_by_day_55bbb702:
 
     # mu "Nakai, could I speak with you for a moment?"
-    mu "中井，可以和你說會兒話嗎？"
+    mu "中井，可以和你說一下話嗎？"
 
 # game/script-a3-lilly.rpy:238
 translate zh_hant a3_lilly_day_by_day_f24bf72e:
@@ -334,19 +334,19 @@ translate zh_hant a3_lilly_day_by_day_6f96cc65:
 translate zh_hant a3_lilly_day_by_day_966747ec:
 
     # "He looks up, taking measure of my face before giving an awkward, rather obviously acted, chuckle."
-    "他抬起頭，打量了下我的臉，隨即發出了一聲明顯是擠出來的笨拙的乾笑。"
+    "他抬起頭，打量了下我的臉，隨即發出了一聲明顯是擠出來的笨拙乾笑。"
 
 # game/script-a3-lilly.rpy:257
 translate zh_hant a3_lilly_day_by_day_b3f92538:
 
     # mu "No need to feel guilty, you're not in any trouble. I just want to ask you something I've asked a few of the other students so far."
-    mu "不要露出一副內疚的表情，我找你不是因為你有犯什麼錯。我只是想要問你一些我已經問過其他學生的問題"
+    mu "不要露出一副內疚的表情，我找你不是因為你有犯什麼錯。我只是想要問你一些我已經問過其他學生的問題。"
 
 # game/script-a3-lilly.rpy:259
 translate zh_hant a3_lilly_day_by_day_5155213e:
 
     # "That's something at least. For a moment, I'd thought my maxim of keeping my head down and pen up had failed me."
-    "那還好。有那麼一會兒，我還以為我一向的低下頭抬起筆的處事方針出問題了。"
+    "那還好。有那麼一會兒，我還以為我一向的低頭寫字的態度出問題了。"
 
 # game/script-a3-lilly.rpy:261
 translate zh_hant a3_lilly_day_by_day_1af21739:
@@ -388,13 +388,13 @@ translate zh_hant a3_lilly_day_by_day_e579bb3e:
 translate zh_hant a3_lilly_day_by_day_c9f11c40:
 
     # "In the maelstrom of thoughts clouding my mind after learning that I'd be transferring to Yamaku, my school grades seemed utterly unimportant."
-    "拜我得知自己要轉學到山久之後內心的烏雲密佈所賜，學業對那時的我來說似乎完全不重要。"
+    "拜我得知自己要轉學到山久之後內心烏雲密佈所賜，學業對那時的我來說似乎完全不重要。"
 
 # game/script-a3-lilly.rpy:281
 translate zh_hant a3_lilly_day_by_day_89c0941d:
 
     # "Being entirely clueless as to what skill level would be assumed of me, once I actually got here I was hugely relieved when I found out that I understood well enough the schoolwork we'd be doing."
-    "由於完全不知道自己的學業水平如何，當我發現我能好好理解我們在做的學校作業的時候，我真的鬆了一口氣"
+    "由於完全不知道自己的學業水準如何，當我發現我能確實掌握我們在做的學校作業的時候，真的鬆了一口氣"
 
 # game/script-a3-lilly.rpy:286
 translate zh_hant a3_lilly_day_by_day_5fa3e8d1:
@@ -454,7 +454,7 @@ translate zh_hant a3_lilly_day_by_day_0f09f5a6:
 translate zh_hant a3_lilly_day_by_day_7ad72ac3:
 
     # hi "Well, something in science might be the path of least resistance."
-    hi "嗯，科學相關的職業或許會是條坦途。"
+    hi "嗯，科學相關的職業或許會比較容易一些。"
 
 # game/script-a3-lilly.rpy:306
 translate zh_hant a3_lilly_day_by_day_314ad8f7:
@@ -508,7 +508,7 @@ translate zh_hant a3_lilly_day_by_day_1255d9c3:
 translate zh_hant a3_lilly_day_by_day_0b180e54:
 
     # "Catching himself before he goes off on a tangent, he loudly coughs into his hand."
-    "他對著握拳的手大聲地咳了一聲，阻止自己的話題繼續走歪。"
+    "他捂著嘴手大聲地咳了一聲，阻止自己的話題繼續走歪。"
 
 # game/script-a3-lilly.rpy:330
 translate zh_hant a3_lilly_day_by_day_5c231fbf:
@@ -544,13 +544,13 @@ translate zh_hant a3_lilly_day_by_day_00f0baf6:
 translate zh_hant a3_lilly_minor_discord_e07b2d45:
 
     # "Walking through the lobby to the cafeteria, I silently rue my daily routine having been completely thrown off."
-    "我從大廳踱到了餐廳，靜靜的抱怨著我那已經被揉成一團丟掉的日常。"
+    "我從大廳踱步到了餐廳，無聲地抱怨著我那被揉成一團丟掉的日常。"
 
 # game/script-a3-lilly.rpy:359
 translate zh_hant a3_lilly_minor_discord_2f313466:
 
     # "It had seemed like a normal day; I arrived in class before most, due to waking early and having become quite adept at chucking down my pills without choking as I get ready for the day."
-    "這是個像往常一樣的日子，我比大部分人之前到達了教室，因為起得很早並且在為一天做準備時我已經能很熟練地吞下我的那些藥片而不被噎著了。"
+    "這是個像往常一樣的日子，我比大部分人都早到達了教室，因為起得很早並且在為一天做準備時我已經能很熟練地吞下我的那些藥片而不被噎著了。"
 
 # game/script-a3-lilly.rpy:361
 translate zh_hant a3_lilly_minor_discord_d2c39406:
@@ -628,7 +628,7 @@ translate zh_hant a3_lilly_minor_discord_05815799:
 translate zh_hant a3_lilly_minor_discord_81f763e4:
 
     # hi "Sorry. I just have some… chest problems. Sharp knocks aren't good."
-    hi "抱歉，我有些……心臟問題。突然拍我不太好。"
+    hi "抱歉，我有些……心臟問題。外力衝撞不好。"
 
 # game/script-a3-lilly.rpy:431
 translate zh_hant a3_lilly_minor_discord_1017836e:
@@ -664,7 +664,7 @@ translate zh_hant a3_lilly_minor_discord_d183b839:
 translate zh_hant a3_lilly_minor_discord_dda70630:
 
     # ke "There's a few people I wouldn't mind sitting with. Nobody's like you, though."
-    ke "這裡有幾個人我倒是不介意和他們坐在一起。不過，你和他們不同。"
+    ke "這裡有幾個人我倒是不介意和他們坐在一起。不過，沒人和你一樣。"
 
 # game/script-a3-lilly.rpy:458
 translate zh_hant a3_lilly_minor_discord_8ed8e96b:
@@ -682,7 +682,7 @@ translate zh_hant a3_lilly_minor_discord_8d6a956f:
 translate zh_hant a3_lilly_minor_discord_cb28900b:
 
     # ke "They don't listen. Their minds are closed. It's the media, man, the Goddamn brainwashing mainstream feminist Fascist media."
-    ke "他們不會傾聽。他們的思想封閉。因為媒體，夥計，那些該死的洗腦的主流的女權主義法西斯媒體。"
+    ke "他們不會傾聽。他們的思想封閉。因為媒體，夥計，那些該死的洗腦女權主義法西斯主流媒體。"
 
 # game/script-a3-lilly.rpy:469
 translate zh_hant a3_lilly_minor_discord_619bb33f:
@@ -826,13 +826,13 @@ translate zh_hant a3_lilly_minor_discord_dfabff6c:
 translate zh_hant a3_lilly_minor_discord_294c10ca:
 
     # ke "Damn, this day is ruined thanks to her. What a bitch."
-    ke "該死，都管她這一天都毀了。真是個賤人。"
+    ke "該死，都怪她，這一天都毀了。真是個賤人。"
 
 # game/script-a3-lilly.rpy:573
 translate zh_hant a3_lilly_minor_discord_03994239:
 
     # "He looks utterly devastated as he wolfs down several clumps of his soggy soy-soaked rice. It only takes a few mouthfuls before he pokes his chopsticks at me, stabbing the air repeatedly in revelation."
-    "他看上去完全崩潰了，一邊狼吞虎嚥著他那些沾著醬油的米飯。沒吃幾口，他就把筷子朝我伸過來，在空中一遍遍地戳著。"
+    "他看上去完全崩潰了，一邊狼吞虎嚥著他那些醬油佐白飯。沒吃幾口，他就把筷子朝我伸過來，在空中一遍遍地戳著。"
 
 # game/script-a3-lilly.rpy:575
 translate zh_hant a3_lilly_minor_discord_d3cba52f:
@@ -850,7 +850,7 @@ translate zh_hant a3_lilly_minor_discord_8878fd38:
 translate zh_hant a3_lilly_minor_discord_f5020984:
 
     # "He gives me a dirty look before choking down the rest of the food left in his mouth and taking a gulp of juice. It's rather unsightly."
-    "他把嘴裡的食物吞進去並灌了一大口果汁，對我擺了一張臭臉。簡直有礙觀瞻。"
+    "他把嘴裡的食物吞進去並灌了一大口果汁，對我擺了一張臭臉。根本是有礙觀瞻。"
 
 # game/script-a3-lilly.rpy:581
 translate zh_hant a3_lilly_minor_discord_5cd86580:
@@ -880,19 +880,19 @@ translate zh_hant a3_lilly_minor_discord_80cb96e7:
 translate zh_hant a3_lilly_minor_discord_defc3fc7:
 
     # "I'm not sure which is worse, this food or his world view. I can feel my face being dragged down by their combined weight. Not that he'd notice, or care."
-    "我不太確定這些食物和他的國際觀哪個更糟糕。我可以感覺得到我的臉被這兩者給拉得聳拉了下來。他沒注意到，或者是不在乎。"
+    "我不太確定這些食物和他的國際觀哪個更糟糕。我可以感覺得到我的臉被這兩者給拉得聳垮了下來。他沒注意到，或者是不在乎。"
 
 # game/script-a3-lilly.rpy:597
 translate zh_hant a3_lilly_minor_discord_00815316:
 
     # hi "It's not that bad. Why do you care about her so much anyway? She's just your class representative, after all."
-    hi "沒那麼糟吧。你到底為什麼這麼關係她？說到底，她只不過是你班上的代表而已。"
+    hi "沒那麼糟吧。你到底為什麼這麼關心她？說到底，她只不過是你班代表而已。"
 
 # game/script-a3-lilly.rpy:602
 translate zh_hant a3_lilly_minor_discord_db880a9a:
 
     # "He gives a malevolent chuckle. Were this anyone but Kenji, I'd feel uneasy at how he sounds."
-    "他發出一聲惡毒的輕笑，如果不是從健二的嘴裡說出來的話，我估計會為這聲音感到不安。"
+    "他發出一聲惡毒的輕笑，如果不是從健二的嘴裡說出來的話，我大概會為這聲音感到不安。"
 
 # game/script-a3-lilly.rpy:604
 translate zh_hant a3_lilly_minor_discord_7c5b37fe:
@@ -910,7 +910,7 @@ translate zh_hant a3_lilly_minor_discord_3531d0d2:
 translate zh_hant a3_lilly_minor_discord_c2158538:
 
     # "I tune out his rambling for a moment as I finish my rice and start on the unappetizing soup. One taste is enough to confirm that it's cold."
-    "我無視了會兒他的長篇大論來我解決我的飯和倒胃口的湯，一嘗便知它已經涼了。"
+    "我無視他即將開始的長篇大論，一邊解決倒胃的飯，湯一嘗便知已經涼了。"
 
 # game/script-a3-lilly.rpy:615
 translate zh_hant a3_lilly_minor_discord_6db0a381:
@@ -1018,7 +1018,7 @@ translate zh_hant a3_lilly_minor_discord_1ec528e5:
 translate zh_hant a3_lilly_minor_discord_f24f54df:
 
     # "Once he starts rambling into conspiracy territory, my juice suddenly becomes of much more importance."
-    "只要他一開始胡扯起他的陰謀論，我便將注意力轉移到我的果汁上。"
+    "只要他一開始胡扯起他的陰謀論，我的果汁突然變得更重要了。"
 
 # game/script-a3-lilly.rpy:690
 translate zh_hant a3_lilly_minor_discord_76b2fe88:
@@ -1036,7 +1036,7 @@ translate zh_hant a3_lilly_minor_discord_d0ccf9d8:
 translate zh_hant a3_lilly_minor_discord_c483de72:
 
     # n "The past between them is steadily becoming more coherent, but I'm not even sure if I should be learning of her past this way. Indeed, even if I do work out what went on, it really doesn't seem like my business to go and interfere."
-    n "她們之間的過去正逐步變得更加清晰，但我還是不確定到底該不該這樣深究她的過去。確實，就算我弄清楚了發生的事情，對此橫加干預好像也不是我分內的事。"
+    n "她們之間的過去正逐步變得更加清晰，但我還是不確定到底該不該這樣深究她的過去。確實，就算我弄清楚了發生的事情，對此伸手干預好像也不是我分內的事。"
 
 # game/script-a3-lilly.rpy:697
 translate zh_hant a3_lilly_minor_discord_5df6d39a:
@@ -1066,7 +1066,7 @@ translate zh_hant a3_lilly_minor_discord_d9d03008:
 translate zh_hant a3_lilly_minor_discord_a4d7b756:
 
     # "I stop as I'm about to leave the classroom, turning on the ball of my heel to meet Mutou. He's holding out to me a couple of the worksheets we'd worked on during the day with his long, lanky arm."
-    "我在快要離開教室時停了下來，用腳後跟轉了個身子朝向武藤。他那乾癟瘦長的手正抱著一疊我們白天做完的習題單。"
+    "我在快要離開教室時停了下來，用腳後跟轉了個身子朝向武藤。他那乾癟瘦長的手正抱著一疊我們白天做完的練習卷。"
 
 # game/script-a3-lilly.rpy:723
 translate zh_hant a3_lilly_minor_discord_ace68e5b:
@@ -1078,7 +1078,7 @@ translate zh_hant a3_lilly_minor_discord_ace68e5b:
 translate zh_hant a3_lilly_minor_discord_e3e2a576:
 
     # "For a moment I briefly consider the possibility of that being more than an innocent prediction. I quickly discard the idea though, as it's hard to think of him acting in such a Machiavellian way. It's not in his nature."
-    "一時間我簡略地考慮下這並非只是一個單純的預測的可能性，不過我很快就將這想法拋之腦後，很難想像他會表現得多麼玩弄權術，這與他的本性不合。"
+    "一時間我懷疑了一下這不是個單純的任務。不過我很快就將這想法拋之腦後，很難想像他多麼會玩弄謀略，這與他的本性不合。"
 
 # game/script-a3-lilly.rpy:727
 translate zh_hant a3_lilly_minor_discord_40be391a:
@@ -1108,7 +1108,7 @@ translate zh_hant a3_lilly_minor_discord_e4b406c8:
 translate zh_hant a3_lilly_minor_discord_8212dbb4:
 
     # "Grimacing slightly at the prospect of her being sick, I rap my knuckles on the door."
-    "想到她可能正在生病，我對此略微面露愁容，用指關節敲了敲門。"
+    "想到她可能正在生病，我臉色為此一沉，用指節敲了敲門。"
 
 # game/script-a3-lilly.rpy:748
 translate zh_hant a3_lilly_minor_discord_246e6e0b:
@@ -1132,7 +1132,7 @@ translate zh_hant a3_lilly_minor_discord_13a0c68e:
 translate zh_hant a3_lilly_minor_discord_a65aec0a:
 
     # "A door opens behind me. A freckled and somewhat scrawny underclassman I don't recognize comes out and is briefly taken off guard by my presence."
-    "在我身後一扇門打了開來。一個我不認識的瘦削的長著雀斑的低年級小女孩走了出來，看到我站在那兒一時措手不及。"
+    "在我身後一扇門打了開來。一個我不認識的削瘦長著雀斑低年級小女孩走了出來，看到我站在那兒一時措手不及。"
 
 # game/script-a3-lilly.rpy:767
 translate zh_hant a3_lilly_minor_discord_bcd33c62:
@@ -1144,7 +1144,7 @@ translate zh_hant a3_lilly_minor_discord_bcd33c62:
 translate zh_hant a3_lilly_minor_discord_1d73dbab:
 
     # "Scratching my head, I make one last attempt at getting Hanako to answer as I knock on the door one final time."
-    "我撓了撓頭，我決定敲了最後一次門看看華子會不會有回應。"
+    "我抓了抓頭，決定敲最後一次門看看華子會不會有回應。"
 
 # game/script-a3-lilly.rpy:783
 translate zh_hant a3_lilly_minor_discord_a170e415:
@@ -1156,7 +1156,7 @@ translate zh_hant a3_lilly_minor_discord_a170e415:
 translate zh_hant a3_lilly_minor_discord_27fe1fec:
 
     # "For a while, the attempt seems just as unsuccessful as the last. Just before I slip the sheets under her door, though, I can hear the handle rattling."
-    "有那麼會兒，這次嘗試似乎和上次一樣失敗了。不過，就在我剛要把紙從門縫送進去之前，我聽到了門把的喀喀聲。"
+    "等了一下子，這次的嘗試似乎和上次一樣失敗了。不過，就在我剛要把紙從門縫送進去之前，我聽到了門把的喀喀聲。"
 
 # game/script-a3-lilly.rpy:798
 translate zh_hant a3_lilly_minor_discord_f9579ca6:
@@ -1186,7 +1186,7 @@ translate zh_hant a3_lilly_minor_discord_7ceb6896:
 translate zh_hant a3_lilly_minor_discord_b99a9181:
 
     # hi "Are you… okay? If you're feeling sick or anything, I could get the nurse."
-    hi "你……還好吧？如果你覺得身體不適或怎樣，我可以幫你叫校醫。"
+    hi "妳……還好吧？如果妳覺得身體不適或怎樣，我可以幫妳找校醫。"
 
 # game/script-a3-lilly.rpy:808
 translate zh_hant a3_lilly_minor_discord_7c8db4fa:
@@ -1204,7 +1204,7 @@ translate zh_hant a3_lilly_minor_discord_7b4820bc:
 translate zh_hant a3_lilly_minor_discord_9a17cabe:
 
     # ha "I'm fine."
-    ha "我很好"
+    ha "我很好。"
 
 # game/script-a3-lilly.rpy:821
 translate zh_hant a3_lilly_minor_discord_16a7dec2:
@@ -1216,7 +1216,7 @@ translate zh_hant a3_lilly_minor_discord_16a7dec2:
 translate zh_hant a3_lilly_minor_discord_2531aaba:
 
     # "An awkward silence follows, eventually ended by her nodding solemnly in farewell and closing the door. The entire experience feels surreal."
-    "接著是一陣尷尬的沉默，最後在她鄭重的點了點頭以示告別並關起了門中宣告結束。這一切都感覺很不真實"
+    "接著是一陣尷尬的沉默，最後在她鄭重的點了點頭以示告別，並在關起了門後宣告結束。這一切都感覺很不真實。"
 
 # game/script-a3-lilly.rpy:836
 translate zh_hant a3_lilly_minor_discord_2b6ca09d:
@@ -1228,7 +1228,7 @@ translate zh_hant a3_lilly_minor_discord_2b6ca09d:
 translate zh_hant a3_lilly_dissonance_5843aff3:
 
     # "Once again, I find myself in front of Hanako's door after another of her unexplained absences from class."
-    "再一次的，我因為華子的另一次無故缺席站在了她的房間門口。"
+    "又一次，我因為華子的另一次無故缺席站在了她的房間門口。"
 
 # game/script-a3-lilly.rpy:854
 translate zh_hant a3_lilly_dissonance_ce617998:
@@ -1258,7 +1258,7 @@ translate zh_hant a3_lilly_dissonance_941fd0d5:
 translate zh_hant a3_lilly_dissonance_5ffe56f5:
 
     # hi "Hanako, if you don't say anything I'll go get the nurse for you."
-    hi "華子，如果你再不說話我就要去給你找校醫了。"
+    hi "華子，如果妳再不說話我就要去給妳找校醫了。"
 
 # game/script-a3-lilly.rpy:866
 translate zh_hant a3_lilly_dissonance_9e3a24d5:
@@ -1312,7 +1312,7 @@ translate zh_hant a3_lilly_dissonance_0eb9e616:
 translate zh_hant a3_lilly_dissonance_41b4c394:
 
     # "The fact the phone rings at all shows that I got the prefix for a call to Scotland right at least. I've never made an international call before, so that's some comfort."
-    "鈴聲響了起來，證明至少我確實有把蘇格蘭的區號輸對了。我從來沒打過國際電話，所以這讓我安心了一些。"
+    "鈴聲響了起來，證明至少我確實有把蘇格蘭的國碼打對了。我從來沒打過國際電話，所以這讓我安心了一些。"
 
 # game/script-a3-lilly.rpy:898
 translate zh_hant a3_lilly_dissonance_8c522459:
@@ -1396,13 +1396,13 @@ translate zh_hant a3_lilly_dissonance_7446da4f:
 translate zh_hant a3_lilly_dissonance_6d8b5b6f:
 
     # hi "You sound awful."
-    hi "你聽起來好糟。"
+    hi "妳聽起來好糟。"
 
 # game/script-a3-lilly.rpy:930
 translate zh_hant a3_lilly_dissonance_b0e810c5:
 
     # "She makes a sound somewhere between a dying animal and a yawn."
-    "她的聲音聽起來像是來介於呵欠以及快死的動物之間。"
+    "她的聲音聽起來像是來介於打呵欠以及快死的動物之間。"
 
 # game/script-a3-lilly.rpy:932
 translate zh_hant a3_lilly_dissonance_0f624fbf:
@@ -1432,7 +1432,7 @@ translate zh_hant a3_lilly_dissonance_9436bb81:
 translate zh_hant a3_lilly_dissonance_b1c3df53:
 
     # hi "You're really not a morning person, are you?"
-    hi "你當真不是個早起的人，對吧？"
+    hi "妳當真不是個早起的人，對吧？"
 
 # game/script-a3-lilly.rpy:942
 translate zh_hant a3_lilly_dissonance_98e21054:
@@ -1450,7 +1450,7 @@ translate zh_hant a3_lilly_dissonance_851acce4:
 translate zh_hant a3_lilly_dissonance_1670a98b:
 
     # hi "How're you doing over there then, bar the mornings?"
-    hi "你在那邊過得怎樣，除了早上之外？"
+    hi "妳在那邊過得怎樣，除了早晨之外？"
 
 # game/script-a3-lilly.rpy:948
 translate zh_hant a3_lilly_dissonance_7c157150:
@@ -1468,7 +1468,7 @@ translate zh_hant a3_lilly_dissonance_3a576539:
 translate zh_hant a3_lilly_dissonance_7d36e961:
 
     # "Even if they're not in Japan, from the way it sounds her family must be pretty wealthy to live so luxuriously."
-    "即使他們不在日本，但從這話聽起來她們家活得這麼奢侈也一定是非常的有錢。"
+    "即使他們不在日本，從這話聽起來她們家過得這麼奢侈也一定是非常的有錢。"
 
 # game/script-a3-lilly.rpy:954
 translate zh_hant a3_lilly_dissonance_a8bf5495:
@@ -1498,7 +1498,7 @@ translate zh_hant a3_lilly_dissonance_4af13e57:
 translate zh_hant a3_lilly_dissonance_d82d90a3:
 
     # hi "How did you know?"
-    hi "你怎麼知道？"
+    hi "妳怎麼知道？"
 
 # game/script-a3-lilly.rpy:968
 translate zh_hant a3_lilly_dissonance_b8ab3c4c:
@@ -1606,7 +1606,7 @@ translate zh_hant a3_lilly_dissonance_b18f9859:
 translate zh_hant a3_lilly_dissonance_56333f65:
 
     # hi "…Okay. Bye."
-    hi "…好吧，拜。"
+    hi "…好吧，掰。"
 
 # game/script-a3-lilly.rpy:1004
 translate zh_hant a3_lilly_dissonance_d748fda2:
@@ -1642,13 +1642,13 @@ translate zh_hant a3_lilly_dissonance_6daf40d4:
 translate zh_hant a3_lilly_dissonance_90c50908:
 
     # "Even more shameful than that thought is the fact that such an appraisal would be largely correct."
-    "更為可恥的是，基本上那的確就是我找她的目的。"
+    "更為可恥的是，那的確就是我找她的目的。"
 
 # game/script-a3-lilly.rpy:1031
 translate zh_hant a3_lilly_dissonance_16f81727:
 
     # "Well… first things first. For now, I need to at least sort out Hanako and make sure that she's actually eating okay."
-    "嘛…先處理眼前的事情吧，現在，我至少要確保華子會吃飯。"
+    "嗯…先處理眼前的事情吧，現在，我至少要確保華子會吃飯。"
 
 # game/script-a3-lilly.rpy:1036
 translate zh_hant a3_lilly_dissonance_cc76a7c8:
@@ -1684,7 +1684,7 @@ translate zh_hant a3_lilly_dissonance_87f195ab:
 translate zh_hant a3_lilly_dissonance_b5ce63d7:
 
     # hi "I know you're listening. I got some food for you."
-    hi "我知道你在聽。我帶了一些食物給你。"
+    hi "我知道妳在聽。我帶了一些吃的給你。"
 
 # game/script-a3-lilly.rpy:1051
 translate zh_hant a3_lilly_dissonance_391636b6:
@@ -1696,7 +1696,7 @@ translate zh_hant a3_lilly_dissonance_391636b6:
 translate zh_hant a3_lilly_dissonance_5f9cf9bf:
 
     # hi "I'll leave it beside your door. Please eat it at least, okay?"
-    hi "我要它放在你門旁邊了。拜託你，至少吃點東西吧。"
+    hi "我要它放在妳門旁邊了。拜託妳，至少吃點東西吧。"
 
 # game/script-a3-lilly.rpy:1055
 translate zh_hant a3_lilly_dissonance_0939fa3d:
@@ -1720,7 +1720,7 @@ translate zh_hant a3_lilly_dissonance_70061357:
 translate zh_hant a3_lilly_dissonance_d802b5a3:
 
     # "Thankfully, there isn't anything to be seen beside her door. I walk back at least somewhat happier that she's eating."
-    "感謝老天，門後什麼東西都沒有。知道她有吃東西讓我回去的時候心情稍好了一些。"
+    "感謝老天，門前什麼東西都沒有。知道她有吃東西讓我回去的時候心情稍好了一些。"
 
 # game/script-a3-lilly.rpy:1068
 translate zh_hant a3_lilly_dissonance_791c818a:
@@ -1738,13 +1738,13 @@ translate zh_hant a3_lilly_a_world_away_fc64424d:
 translate zh_hant a3_lilly_a_world_away_3ccd626e:
 
     # "With my cheek resting in my hand, I can't help noticing the slightly rough feeling against my palm. It won't be long before I'll need to get a razor."
-    "我的手托住腮幫子，不禁注意到到手掌上傳來一些一些粗糙的觸感。用不了多久我就會需要一把剃鬚刀了吧。"
+    "我的手托住腮幫子，不禁注意到到手掌上傳來一些一些粗糙的觸感。用不了多久我就會需要一把刮鬍刀了吧。"
 
 # game/script-a3-lilly.rpy:1088
 translate zh_hant a3_lilly_a_world_away_a68f6852:
 
     # "Giving up on reading, I simply let my head drop onto the book in front of me."
-    "我放棄了讀書，一頭倒在了面前的書上。"
+    "我放棄了讀書，一頭倒在了臉前的書上。"
 
 # game/script-a3-lilly.rpy:1092
 translate zh_hant a3_lilly_a_world_away_76b2fe88:
@@ -1762,31 +1762,31 @@ translate zh_hant a3_lilly_a_world_away_93a02b23:
 translate zh_hant a3_lilly_a_world_away_78e7b866:
 
     # n "When she first returned to class, nothing was said nor done that wasn't part of the usual routine, and it's been the same way since. Neither of us desired to bring up her accident, so there simply wasn't any point in pursuing it."
-    n "當她第一次回到班級時，我們一仍舊貫地進行著活動，除此之外既沒有做什麼特別的事也沒有說什麼特別的話，並且自那以後都是如此。我們兩都不願提及她的事故，所以真的沒有理由再做進一步深究。"
+    n "當她第一次回到班級時，我們如舊地進行著每日的活動，此外既沒有做什麼特別的事也沒有說什麼特別的話，自那以後都是如此。我們兩都沒想要提發生過的事，所以沒有理由進一步深究。"
 
 # game/script-a3-lilly.rpy:1099
 translate zh_hant a3_lilly_a_world_away_d7d4a3b8:
 
     # n "Thus a few days went by, the daily grind continuing just as it had before."
-    n "於是幾天過去，日子一如以前那般地繼續著。"
+    n "於是幾天過去，日子一如以往地繼續著。"
 
 # game/script-a3-lilly.rpy:1101
 translate zh_hant a3_lilly_a_world_away_c1be0bdb:
 
     # n "It's only natural that my mind would wander to other places, and more importantly, other people. The Lilly-shaped hole in the daily life of Hanako and me has been pretty noticeable for a while now."
-    n "自然而然的，這幾天我的思緒總是漫遊到別處，更重要的是，別的人上。在我與華子的日常生活中有了一個名為“莉莉”的空洞，從幾天前開始便顯而易見。"
+    n "自然而然的，這幾天我的思緒總是漫遊到別處，更重要的-別的人身上。在我與華子的日常生活中有了一個“莉莉”形狀的空洞，顯而易見好一段時間了。"
 
 # game/script-a3-lilly.rpy:1103
 translate zh_hant a3_lilly_a_world_away_bb7e9698:
 
     # n "I'd be pleased to say that this has allowed me time to refine just what my thoughts on her exactly are, but alas, I've had no such luck."
-    n "我倒是想說這給了我時間去確認一下自己對她的感覺到底如何。但是，唉，根本沒有那麼好運。"
+    n "我倒是想說這給了我時間去確認一下自己對她的感覺到底如何。但是，唉，根本沒有那麼簡單。"
 
 # game/script-a3-lilly.rpy:1105
 translate zh_hant a3_lilly_a_world_away_04c3c7dc:
 
     # n "It doesn't help that many attempts to do so have led to the troublesome topic of Iwanako. Every time my thoughts drift into that direction, I reflexively try to think about something else."
-    n "每次我想這麼做時我的思緒總會轉到華子那些令人頭疼的事上，這根本無濟於事。每次我的思緒飄到了那個方向，我總會反射性地馳心旁騖。"
+    n "更糟的是，每當我試著那麼做時，思緒總會飄到關於巖魚子的麻煩上。每次一想到那裡，我就會下意識地轉念，去想別的事情。"
 
 # game/script-a3-lilly.rpy:1109
 translate zh_hant a3_lilly_a_world_away_76b2fe88_1:
@@ -1846,7 +1846,7 @@ translate zh_hant a3_lilly_a_world_away_a6f8a826:
 translate zh_hant a3_lilly_a_world_away_f3105fde:
 
     # yu "If you don't want to go, I could keep it open a bit longer. It's no trouble at all."
-    yu "如果你還不想走，我可以再開一會兒，沒多麻煩的。"
+    yu "如果你還不想走，我可以再開一會兒，沒有關係的。"
 
 # game/script-a3-lilly.rpy:1140
 translate zh_hant a3_lilly_a_world_away_2944af0d:
@@ -1858,7 +1858,7 @@ translate zh_hant a3_lilly_a_world_away_2944af0d:
 translate zh_hant a3_lilly_a_world_away_5ece9fc2:
 
     # "As I get up and begin to move off, I feel Yuuko's eyes drilling into my back."
-    "當我站起身開始離開的時候，我感覺到優子的眼睛正盯著我的後背。"
+    "當我起身準備離開的時候，我感覺到優子的眼睛正盯著我的後背。"
 
 # game/script-a3-lilly.rpy:1147
 translate zh_hant a3_lilly_a_world_away_46d08a90:
@@ -1882,7 +1882,7 @@ translate zh_hant a3_lilly_a_world_away_ea484471:
 translate zh_hant a3_lilly_a_world_away_28ea6c29:
 
     # "Normally I'd just shrug it off and assure her that I'm fine, but my reflective mood gets the better of me. Despite being staff, she really doesn't feel as much like an authority figure as the others."
-    "平常的話我會聳聳肩向她保證我很好，但我的重重心事還是佔了上風。儘管她是這裡的工作人員, 但她看起來比其他的人更平易近人。"
+    "平常的話我會聳聳肩向她保證我很好，但我的重重心事還是佔了上風。儘管她是這裡的工作人員, 但比其他人更親切。"
 
 # game/script-a3-lilly.rpy:1158
 translate zh_hant a3_lilly_a_world_away_1f631627:
@@ -1900,31 +1900,31 @@ translate zh_hant a3_lilly_a_world_away_ed6566ea:
 translate zh_hant a3_lilly_a_world_away_f080a169:
 
     # yu "But if you want to talk about it, I mean, I could listen. I think."
-    yu "但如果你想要談的話，那個，我是說，我會聽的，我想。"
+    yu "但如果你想要談的話，那個，我是說，我願意聽的，我想。"
 
 # game/script-a3-lilly.rpy:1170
 translate zh_hant a3_lilly_a_world_away_a02c460b:
 
     # "Now I feel kind of bad for bringing it up. She's not that old, though, so at least she has a good chance of finding another partner."
-    "我有點後悔提起這個話題了。她年紀沒有很大，所以至少她還很有機會去尋找另一半。"
+    "我有點後悔提起這個話題了。其實她年紀沒有很大，所以至少她還有機會去尋找對象。"
 
 # game/script-a3-lilly.rpy:1172
 translate zh_hant a3_lilly_a_world_away_d24f2ddc:
 
     # hi "It isn't like we're in a bad situation right now. We have spent many days together as friends, sometimes going out to do stuff… that kind of thing."
-    hi "我不是說我們現在的處境很糟糕。我們像是朋友一樣相處了很多天了，有時候會外出做些事……之類的。"
+    hi "我不是說我們現在很糟糕。我們像是朋友一樣相處了很多天了，有時候會外出做些事……之類的。"
 
 # game/script-a3-lilly.rpy:1174
 translate zh_hant a3_lilly_a_world_away_998d325f:
 
     # hi "But I'm starting to want to do more for her, learn more about her, and be with her more. I'm not sure whether it's actually love or not, though, and our friendship as it stands is enjoyable."
-    hi "但我開始想要為她做更多，想更了解他，想花更多時間跟她在一起。雖然，我不確定這是不是愛，而且我們的友誼就現狀來看還是挺愉快的。"
+    hi "但我開始想要為她做更多，想更了解他，想花更多時間跟她在一起。雖然我不確定這是不是愛情。我們的友誼現在來看還挺愉快的。"
 
 # game/script-a3-lilly.rpy:1179
 translate zh_hant a3_lilly_a_world_away_ef107302:
 
     # yu "You shouldn't let that stop you!"
-    yu "你不可以這樣止步不前啊！"
+    yu "你不應該就這樣停下來！"
 
 # game/script-a3-lilly.rpy:1184
 translate zh_hant a3_lilly_a_world_away_3fd18687:
@@ -1942,37 +1942,37 @@ translate zh_hant a3_lilly_a_world_away_776c504c:
 translate zh_hant a3_lilly_a_world_away_f25fe38d:
 
     # yu "I think that it's nice that you have a good friendship, but school is going to eventually end. Do you think you'll be fine with not knowing if it could have gone further after you've graduated?"
-    yu "我覺得有段不錯的友誼是很好，但是你也快要畢業了，到時候你都不知道你們是不是本可以在畢業後更進一步的，這樣你甘心嗎？"
+    yu "我覺得有段不錯的友誼是很好，但是你也快要畢業了，到時候你都不知道你們是不是本來可以更進一步的，這樣你會甘心嗎？"
 
 # game/script-a3-lilly.rpy:1196
 translate zh_hant a3_lilly_a_world_away_fd9ef7ad:
 
     # hi "I guess that's the crux of the problem. I really have no idea what the answer to that question is."
-    hi "我想這大概就是問題的癥結，我真的不知道該怎麼回答那個問題。"
+    hi "我想這大概就是問題的癥結點，我真的不知道該怎麼回答妳。"
 
 # game/script-a3-lilly.rpy:1201
 translate zh_hant a3_lilly_a_world_away_cb5cb813:
 
     # yu "Well, I can't really help there. What your true feelings are is something you have to decide for yourself. But I think that if you do love her, you should definitely say something."
-    yu "那個，事實上我幫不了什麼忙。你真正的心意應該是由你自己決定的，但我想如果你真的愛她，你絕對該做些什麼。"
+    yu "那，事實上我幫不了什麼忙。你真正的心意應該是由你自己決定的，但我想如果你真的愛她，你絕對該做些什麼。"
 
 # game/script-a3-lilly.rpy:1206
 translate zh_hant a3_lilly_a_world_away_98342c10:
 
     # yu "After thinking about it really hard, I decided that even though my relationship didn't work out, it's still better that way than never knowing if it might have or not."
-    yu "在我對此想了很久之後，我確定，雖然我的這段感情沒能圓滿結束，但這樣還是比永遠不知道它到底能不能要好多了。"
+    yu "在我對此想了很久之後，我確定，雖然我的這段感情沒能圓滿結束，但還是比永遠不知道有沒有機會要好多了。"
 
 # game/script-a3-lilly.rpy:1208
 translate zh_hant a3_lilly_a_world_away_97315516:
 
     # "I never expected Yuuko to sound so wise. It only makes sense that, with more life experience than I, she'd have a better idea about this."
-    "我從沒有想到優子會說出這麼有智慧的話。這說明，憑著比我更多的人生經驗，她對這方面有著更深的體會。"
+    "我從沒有想到優子會說出這麼有智慧的話。這意味著她的人生經驗比我多，對這方面有著更深的體會。"
 
 # game/script-a3-lilly.rpy:1210
 translate zh_hant a3_lilly_a_world_away_1b0ffa27:
 
     # "While I suppose not very much was actually answered, talking to her has helped get it off my chest, and I have no doubt that I should confess if I really do like Lilly."
-    "雖然我覺得還有很多問題沒有得到解答，但和她交談確實讓我一吐為快，並且毫無疑問的，我該確認自己到底是不是喜歡莉莉了。"
+    "雖然我覺得還有很多問題沒有得到解答，但和她交談確實讓我一吐為快，並且毫無疑問的，我該確認自己到底是不是那麼喜歡莉莉了。"
 
 # game/script-a3-lilly.rpy:1212
 translate zh_hant a3_lilly_a_world_away_534dac12:
@@ -1990,7 +1990,7 @@ translate zh_hant a3_lilly_a_world_away_f050ae8d:
 translate zh_hant a3_lilly_a_world_away_adc309ed:
 
     # "She gives a girlish giggle, which only reinforces my view of her as being different from the usual staff here."
-    "她像個小女孩那樣咯咯地笑了起來，這加深了我對她的映像：她果然和其他工作人員不一樣。"
+    "她像個小女孩那樣咯咯地笑了起來，這加深了我對她的映像：她果然和其他職員不同。"
 
 # game/script-a3-lilly.rpy:1223
 translate zh_hant a3_lilly_a_world_away_76b2fe88_2:
@@ -2008,13 +2008,13 @@ translate zh_hant a3_lilly_a_world_away_ab0daf1a:
 translate zh_hant a3_lilly_a_world_away_687efec0:
 
     # n "Considering what happened before I came to Yamaku, it feels like being asked to keep up with a field of runners despite having started from a dozen yards behind them."
-    n "想想在我來山久之前發生的事情, 這感覺就像是要我站在離跑道起點幾十碼的地方，然後對著滿場地的對手奮起直追。"
+    n "想想在我來山久之前發生的事情, 這感覺就像是要我站在離跑道起點幾十碼的地方，然後對著滿場的對手奮起直追。"
 
 # game/script-a3-lilly.rpy:1230
 translate zh_hant a3_lilly_a_world_away_1a4d5321:
 
     # n "It's just one more motive to move on from the past. The last thing I need right now is to get too caught up in that and getting homesick while I'm at it."
-    n "這只是是我擺脫過去的又一個動力罷了。我現在最不需要的就是被過去所累然後再感今懷昔。"
+    n "這又成了我想擺脫過去的另一個理由。現在最不需要的，就是陷在過去那些回憶裡。"
 
 # game/script-a3-lilly.rpy:1232
 translate zh_hant a3_lilly_a_world_away_76b2fe88_3:
@@ -2104,7 +2104,7 @@ translate zh_hant a3_lilly_a_world_away_6d01dbf4:
 translate zh_hant a3_lilly_a_world_away_43430138:
 
     # hi "Yeah, I'm here. Hi."
-    hi "嗯，我在。你好。"
+    hi "嗯，我在。妳好嗎。"
 
 # game/script-a3-lilly.rpy:1277
 translate zh_hant a3_lilly_a_world_away_3d6fcb77:
@@ -2116,7 +2116,7 @@ translate zh_hant a3_lilly_a_world_away_3d6fcb77:
 translate zh_hant a3_lilly_a_world_away_b0049c69:
 
     # hi "Gardening?"
-    hi "花園？"
+    hi "妳在做園藝嗎？"
 
 # game/script-a3-lilly.rpy:1281
 translate zh_hant a3_lilly_a_world_away_5345767e:
@@ -2134,7 +2134,7 @@ translate zh_hant a3_lilly_a_world_away_f0d7d213:
 translate zh_hant a3_lilly_a_world_away_dc8ee637:
 
     # hi "Yeah. I just made sure she was eating, and eventually she righted herself. Thanks for the help the other day."
-    hi "是啊。我只是確保她會吃東西，最後她自己恢復過來了。謝謝你前些日子的幫忙。"
+    hi "是啊。我只是確保她會吃東西，最後她自己恢復過來了。謝謝妳前些日子的幫忙。"
 
 # game/script-a3-lilly.rpy:1287
 translate zh_hant a3_lilly_a_world_away_2d674e8a:
@@ -2146,7 +2146,7 @@ translate zh_hant a3_lilly_a_world_away_2d674e8a:
 translate zh_hant a3_lilly_a_world_away_2aa10d43:
 
     # hi "True. How's life over there, then? It sounds like you've been living in nothing short of a mansion."
-    hi "的確。話說你那邊過的怎樣？聽起來你住在一個不折不扣的豪宅裡。"
+    hi "的確。話說你那邊過的怎樣？聽起來妳住在一個不折不扣的豪宅裡。"
 
 # game/script-a3-lilly.rpy:1291
 translate zh_hant a3_lilly_a_world_away_35b96b55:
@@ -2188,13 +2188,13 @@ translate zh_hant a3_lilly_a_world_away_e06a0ed5:
 translate zh_hant a3_lilly_a_world_away_eaa32b9b:
 
     # "The fastest I've ever seen her move is her understandably relaxed pace during her walks to and from the suburbs down the hill from the school. It makes the image of her swimming hard to imagine."
-    "我看過她走路最快的時候就是她在學校和山下之間的這段路上的閒庭信步，這讓她努力游泳的樣子變得有些難以想像。"
+    "我看過她走路最快的時候就是她在學校和山下之間的這段路上的悠閒漫步，難以想像她努力游泳的樣子。"
 
 # game/script-a3-lilly.rpy:1305
 translate zh_hant a3_lilly_a_world_away_c441a6d7:
 
     # hi "The beaches there must look nice. They'd be less crowded than the ones around here at least."
-    hi "海灘一定看上去很棒，至少那裡的人羣應該比這邊的那個要少一些。"
+    hi "海灘一定看上去很棒，至少那裡的人羣應該比這邊少一些。"
 
 # game/script-a3-lilly.rpy:1307
 translate zh_hant a3_lilly_a_world_away_d0915365:
@@ -2212,31 +2212,31 @@ translate zh_hant a3_lilly_a_world_away_734bf55d:
 translate zh_hant a3_lilly_a_world_away_16cfac32:
 
     # li "That said, the local accent sometimes makes communication a bit hard. It's a constant reminder that this isn't home."
-    li "話說回來，這裡當地的口音讓我有些交流困難，這不停地在提醒著我這裡不是我的家。"
+    li "話說回來，這裡的口音讓我的溝通有點困難，不停地在告訴我這裡不是我的家。"
 
 # game/script-a3-lilly.rpy:1313
 translate zh_hant a3_lilly_a_world_away_509df79a:
 
     # "While the fact that she doesn't consider her parents' residence to be her home makes good sense, it makes me realize that I can't really answer whether the same goes for me."
-    "她有足夠的理由不將她父母的住所當作她的家，這讓我意識到，我無法肯定地說對我來說也同樣如此。"
+    "她有足夠的理由不將她父母的住所當作她的家。這讓我意識到，我自己是否也是如此，其實無法給出明確的答案。"
 
 # game/script-a3-lilly.rpy:1315
 translate zh_hant a3_lilly_a_world_away_2dbe4a08:
 
     # "Graduation from Yamaku is distant enough to be difficult to view objectively, and I've spent so much time in this small room. I've come to accept the dormitory as my new home surprisingly quickly."
-    "從山久畢業太遙遠了，以至於很難對其產生實感，而且我在這個小房間裡花了那麼多的時間。我已經以出乎意料的速度將這個宿舍當作了我的新家。"
+    "離開山久的畢業那天仍遙遙無期，讓人難以客觀看待。而我在這間小房間裡待了那麼久，竟意外地很快就把宿舍當成了自己的新家。"
 
 # game/script-a3-lilly.rpy:1317
 translate zh_hant a3_lilly_a_world_away_2674e1a1:
 
     # hi "I guess that would be hard to deal with. Is your knowledge of English holding up?"
-    hi "我猜這一定很難應對，你的英文知識應付得來嗎？"
+    hi "我想這一定很困擾吧，妳的英文應付得來嗎？"
 
 # game/script-a3-lilly.rpy:1319
 translate zh_hant a3_lilly_a_world_away_4a29ecb8:
 
     # li "Thankfully. I may be fluent, but being in a position where I have to use it often helps in curbing my Japanese accent, so it's been useful practice."
-    li "還好。我或許已經很流利了，不過在這麼一個我不得不經常使用它的地方有助於矯正我的日本口音，這樣的練習很是有用。"
+    li "還好。我的英語或許已經很流利了，不過在這不得不經常使用的地方有助於矯正我的日本口音，這樣的訓練是很有用的。"
 
 # game/script-a3-lilly.rpy:1321
 translate zh_hant a3_lilly_a_world_away_4f35b77e:
@@ -2248,7 +2248,7 @@ translate zh_hant a3_lilly_a_world_away_4f35b77e:
 translate zh_hant a3_lilly_a_world_away_36a8c87e:
 
     # hi "More like memorizing a few lines, and failing at even that much. I'm really not cut out for learning another language."
-    hi "不如說是硬背幾句話而已，而且就這樣還失敗了。我當真不是學習外語的那塊料。"
+    hi "不如說就是硬背幾句，而且光這幾句就稀里呼嚕，兵敗山倒。我真的不是學其他語言的那塊料。"
 
 # game/script-a3-lilly.rpy:1325
 translate zh_hant a3_lilly_a_world_away_296936f1:
@@ -2260,13 +2260,13 @@ translate zh_hant a3_lilly_a_world_away_296936f1:
 translate zh_hant a3_lilly_a_world_away_8c73cb62:
 
     # li "I believe that there are things one chooses to do in life, and also things that are chosen for one to do in life."
-    li "我確信，這世上總有你想做的事，也總有你能做的事。"
+    li "我相信，這世上總有妳想做的事，也總有妳能做的事。"
 
 # game/script-a3-lilly.rpy:1329
 translate zh_hant a3_lilly_a_world_away_78d4443b:
 
     # li "You can take comfort in the fact you're better than me in science and math, at least."
-    li "不要灰心，至少你在理化和數學方面做的比我好。"
+    li "不要灰心，至少你在理化和數學方面學得的比我好。"
 
 # game/script-a3-lilly.rpy:1331
 translate zh_hant a3_lilly_a_world_away_18e25027:
@@ -2278,19 +2278,19 @@ translate zh_hant a3_lilly_a_world_away_18e25027:
 translate zh_hant a3_lilly_a_world_away_bcc76bd0:
 
     # li "I wouldn't worry about it. They're useful skills for many jobs, right?"
-    li "我倒不這麼認為，這些技能對以後不少工作都很有幫助，不是嗎？"
+    li "我倒不擔心，這些能力對以後不少工作都很有幫助，不是嗎？"
 
 # game/script-a3-lilly.rpy:1335
 translate zh_hant a3_lilly_a_world_away_378b7caf:
 
     # hi "That's what he tells me. His face veritably lit up when I said I'd probably go into a career involving either."
-    hi "他就是這麼跟我說的。當我說我有可能會找與之相關的工作的時候他整個眼睛都亮起來了。"
+    hi "他就是這麼跟我說的。當我說我有可能會找相關的工作的時候他整個臉都亮起來了。"
 
 # game/script-a3-lilly.rpy:1337
 translate zh_hant a3_lilly_a_world_away_2395ac84:
 
     # "We both share a warm laugh at the events that have befallen each other on opposite ends of the world. It's nice, and reminds me of our simple smalltalk that I've been missing since she left."
-    "那場景同時浮現在了世界兩端的我們的眼前，讓我們不由得一起笑了起來。這感覺很好，讓我回想起了我們的那些自從她離開後我一直在想念的普通的閒聊時光。"
+    "那場景同時浮現在了世界兩端的我們的眼前，讓我們不由得一起笑了起來。這感覺很好，讓我回想起了我們的那些自從她離開後我一直在想念的閒聊時光。"
 
 # game/script-a3-lilly.rpy:1339
 translate zh_hant a3_lilly_a_world_away_0b1b9a40:
@@ -2302,13 +2302,13 @@ translate zh_hant a3_lilly_a_world_away_0b1b9a40:
 translate zh_hant a3_lilly_a_world_away_0bb84c82:
 
     # hi "We… um, I… miss you."
-    hi "我們……嗯，我……很想你。"
+    hi "我們……嗯，我……很想妳。"
 
 # game/script-a3-lilly.rpy:1343
 translate zh_hant a3_lilly_a_world_away_918dd796:
 
     # "The silence on the other end of the phone tells me she's given the words their due weight, but as it goes on I can't help feeling more and more apprehensive."
-    "電話那頭的沉默表面她感受到了我話中的分量，但隨著時間的過去我情不自禁地變得越來越不安。"
+    "電話那頭的沉默表面她感受到了我話中的分量，但隨著時間的過去我情不自禁地越來越不安。"
 
 # game/script-a3-lilly.rpy:1345
 translate zh_hant a3_lilly_a_world_away_5bd31908:
@@ -2338,25 +2338,25 @@ translate zh_hant a3_lilly_a_world_away_13817f68:
 translate zh_hant a3_lilly_a_world_away_783fd073:
 
     # "Once again, the phone is hung up; simply and without any further ado."
-    "再一次的，無需多言，我們就這樣掛斷了電話。"
+    "再一次的，我們就這樣掛斷了電話。不用再特別說什麼。"
 
 # game/script-a3-lilly.rpy:1370
 translate zh_hant a3_lilly_a_world_away_c84a6152:
 
     # "That light, tentative, almost shy voice. Her warm and soft tone… I'd simply be lying to myself if I were to say that I don't recognize this feeling for what it is."
-    "那是輕輕的，試探性的，幾乎是害羞的聲音。她那個溫暖的聲音……如果說我還不能知道心中的這份感覺是什麼的話，那絕對就是自欺欺人了。"
+    "那是輕輕的，試探性的，幾乎是害羞的聲音。她那個溫暖的聲音……如果說我還不能知道心中的這份感覺是什麼的話，那絕對就是欺騙自己了。"
 
 # game/script-a3-lilly.rpy:1372
 translate zh_hant a3_lilly_a_world_away_1647cdfb:
 
     # "With thoughts of Lilly dancing on my mind, I start anticipating her return. Today has been a most excellent day."
-    "隨著對莉莉的思念又一次在我心中翩翩起舞，我開始期待起她的歸來。今天真是美好的一天。"
+    "對莉莉的思念又一次在我心中舞動，我開始期待起她的歸來。今天是個美好的一天。"
 
 # game/script-a3-lilly.rpy:1386
 translate zh_hant a3_lilly_renewal_2004258f:
 
     # "I sit listening to another of Mutou's long-winded lectures, my mind wandering far from the scribbles on the dirty blackboard."
-    "我坐在教室聽著武藤做著又一場冗長的授課，思緒早已離開那髒兮兮黑板上的潦草字跡，漫步向了遠方。"
+    "我坐在位子上聽著武藤又一次冗長的講課，思緒早已飄得遠遠的，離那塵土斑斑黑板上的字跡十萬八千里。"
 
 # game/script-a3-lilly.rpy:1390
 translate zh_hant a3_lilly_renewal_76b2fe88:
@@ -2368,31 +2368,31 @@ translate zh_hant a3_lilly_renewal_76b2fe88:
 translate zh_hant a3_lilly_renewal_ed5e1b7e:
 
     # n "{vspace=60}Since I called Lilly, my mind's been drawn in two directions. Both, roughly, lead to the same conclusion; I've started to feel oddly detached from my past life."
-    n "{vspace=60}在我打電話給莉莉之後，我的思緒被分成了兩截，各自殊途同歸地指向一個結論：我已經開始很奇怪地和過去的生活脫軌了。"
+    n "{vspace=60}自從我打電話給莉莉之後，思緒便被拉向兩個方向。不過這兩條路最終大致都通向同一個結論——我開始覺得自己與過去的生活，產生了奇怪的疏離感。"
 
 # game/script-a3-lilly.rpy:1395
 translate zh_hant a3_lilly_renewal_04c2c7a4:
 
     # n "It's only been a month and a half since I arrived here, yet this school's become a second home. I've gained new friends and contacts, managed to get to grips with the school's lifestyle and culture, and become accustomed to the quirks of my classmates."
-    n "我來到這裡也才不過一個半月，這裡卻已經是我的第二個居所。我交了新的朋友，漸漸的掌握了學校的生活方式以及文化，並且開始習慣了同學們的特性。"
+    n "我來到這裡也才不過一個半月，這裡已經變成我第二個家。我交了新的朋友，漸漸的掌握了學校的生活方式以及文化，並且開始習慣了同學們的特質。"
 
 # game/script-a3-lilly.rpy:1397
 translate zh_hant a3_lilly_renewal_93f524c1:
 
     # n "To become used to a school where disabilities are the norm, rather than the rare exception, still catches me off guard sometimes when I think on it. The same school that's populated by burn victims, amputees, the blind, the deaf and all manner of disabilities inbetween."
-    n "習慣於一所殘疾很稀鬆平常而非特殊例外的學校，這仍然時不時的讓我不知所措。這所學校裡燒傷受害者、截肢者、盲人、聾人以及各種各樣的殘疾人士在此間濟濟一堂。"
+    n "想到自己已經習慣了這所學校——在這裡，殘疾是常態，而非例外——有時仍讓我感到一絲錯愕。這所學校裡有燒傷者、截肢者、盲人、聾人，以及各種不同程度的障礙者。"
 
 # game/script-a3-lilly.rpy:1399
 translate zh_hant a3_lilly_renewal_e6fabc60:
 
     # n "If someone had described this school to me before I'd come, I'd have shrugged it off as an overactive imagination. Even when I first arrived I felt like the Dutch, coming to this strange new land for the first time."
-    n "在我來之前如果有人跟我提起這所學校，我會聳聳肩當作是個天方夜譚。甚至當我第一次來的時候，我感覺自己就像是一個踏入殊方異域的外國人。"
+    n "在我來之前如果有人跟我提起這所學校，我會聳聳肩當作是個天方夜譚。甚至當我第一次來的時候，我感覺自己就像是一個踏入異域的外國人。"
 
 # game/script-a3-lilly.rpy:1401
 translate zh_hant a3_lilly_renewal_9ae080da:
 
     # n "It's amazing how quickly one becomes used to the environment they're forced to live in, really. And now I've even found someone that's got me entirely smitten. What a strange life."
-    n "當人們被強迫進入一個新的環境時的他們的適應速度快的令人驚奇。並且現在我甚至找到了令我為之深深著迷的人。多麼奇怪的生活。"
+    n "當人們被強迫進入一個新的環境時的他們的適應速度快的令人驚奇。並且現在我甚至找到了令我為之深深著迷的人。多奇異的生活。"
 
 # game/script-a3-lilly.rpy:1403
 translate zh_hant a3_lilly_renewal_76b2fe88_1:
@@ -2404,7 +2404,7 @@ translate zh_hant a3_lilly_renewal_76b2fe88_1:
 translate zh_hant a3_lilly_renewal_495573f0:
 
     # "Before my mind can wander any further, though, I find a page of lined paper slipped under my distracted face. The garish, bright pink ink has no doubt been penned by Misha."
-    "然而，在我的思緒飄得更遠之前，我發現一張印有橫線的紙遞到了我的面前。那豔麗的亮粉色字跡毫無疑問出自米莎之手。"
+    "不過還沒等思緒飄得更遠，我就發現一張橫格紙被塞到了我面前。那刺眼、鮮亮的粉紅色墨水，毫無疑問是米莎的手筆。"
 
 # game/script-a3-lilly.rpy:1418
 translate zh_hant a3_lilly_renewal_f1936b27:
@@ -2416,19 +2416,19 @@ translate zh_hant a3_lilly_renewal_f1936b27:
 translate zh_hant a3_lilly_renewal_dc331bf0:
 
     # "I uncap my pen and scribble on the page before covertly passing it back to her, flicking my eyes to the front of the class every now and then. Mutou continues scrawling away arcane equations and formulas on the board."
-    "我打開我的筆蓋在紙上寫了些東西，隨後將其摺好遞還給她，全程偷偷注意著教室前方的情況。武藤繼續在黑板上寫著晦澀的方程和公式。"
+    "我打開我的筆蓋在紙上寫了些東西，隨後摺好遞還給她，全程偷偷注意著教室前方的情況。武藤繼續在黑板上寫著晦澀的方程式。"
 
 # game/script-a3-lilly.rpy:1427
 translate zh_hant a3_lilly_renewal_66a172e0:
 
     # "Misha takes the paper back and hunches over it comically, even for her, with her tongue poking through the side of her mouth. Did she misinterpret my expression as depressed, and is she trying to cheer me up?"
-    "米莎接過這張紙，用即使對她而言也很搞怪的方式蜷起身子看了起來，一邊用一邊嘴小聲地讀著。她會不會是誤以為我的表情是在失落，然後在試圖讓我開心起來？"
+    "米莎接過這張紙，用即使對她而言也很搞怪的方式卷起身子看了起來，一邊用一邊嘴小聲地讀著。她會不會是誤以為我心情低落，試圖讓我開心起來？"
 
 # game/script-a3-lilly.rpy:1460
 translate zh_hant a3_lilly_renewal_e9fdb019:
 
     # "As she takes the note back and begins to write, I look up to see an unwelcome sight."
-    "當她把紙條拿回去又開始振筆疾書的時候，我抬頭看到了一幅不妙的景象。"
+    "當她把紙條拿回去又開始振筆疾書的時候，抬頭看到的是一個不妙的景象。"
 
 # game/script-a3-lilly.rpy:1470
 translate zh_hant a3_lilly_renewal_ce9b3501:
@@ -2458,7 +2458,7 @@ translate zh_hant a3_lilly_renewal_160f3192:
 translate zh_hant a3_lilly_renewal_7c99ac5f:
 
     # "Sweating bullets, I quickly glance around the class, noting their complete silence. Of course, it would just have to be the one thing that actually gets their attention during the lesson."
-    "我冷汗淋漓，快速地環視了一下教室，發現他們全部鴉雀無聲。好吧，這件事就非得成為這節課上唯一真正意義上吸引了他們的目光的事嗎。"
+    "我冷汗淋漓，快速地環視了一下教室，發現他們全部鴉雀無聲。好吧，這件事就非得成為這節課上唯一真正吸引了他們的注意力的事嗎。"
 
 # game/script-a3-lilly.rpy:1493
 translate zh_hant a3_lilly_renewal_ce9995f0:
@@ -2470,19 +2470,19 @@ translate zh_hant a3_lilly_renewal_ce9995f0:
 translate zh_hant a3_lilly_renewal_aa1116ab:
 
     # mu "Half an hour until you can hop off to the Student Council. I think you can hold on until then."
-    mu "再過半個小時你就能夠碰碰跳跳地去學生會了。我想你應該還能夠撐下去吧。"
+    mu "再過半個小時妳就能夠碰碰跳跳地去學生會了。我想妳應該還能夠撐下去吧。"
 
 # game/script-a3-lilly.rpy:1502
 translate zh_hant a3_lilly_renewal_e7f198de:
 
     # "Misha's face cracks as the entire class erupts into laughter. He might well be awkward, but he knows how to handle her excellently."
-    "全班笑成了一團而米莎的臉聳拉了下來。武藤或許有些笨拙，但他是知道怎樣好好的對付她。"
+    "全班笑成了一團而米莎的臉垮了下來。武藤或許有些笨拙，但他是知道怎樣好好的對付她。"
 
 # game/script-a3-lilly.rpy:1504
 translate zh_hant a3_lilly_renewal_f5757fd4:
 
     # "I'd probably feel sorry for her if I weren't as busy stifling my own laughter."
-    "我或許會對米莎感到抱歉，前提是我沒有跟著全班笑著一團的話。"
+    "我或許會對米莎感到抱歉。前提是我沒有跟著全班笑著一團的話。"
 
 # game/script-a3-lilly.rpy:1512
 translate zh_hant a3_lilly_renewal_e37136a0:
@@ -2494,7 +2494,7 @@ translate zh_hant a3_lilly_renewal_e37136a0:
 translate zh_hant a3_lilly_renewal_361354a2:
 
     # hi "No, I think that's some foreign airline."
-    hi "不是，我猜那是某個外國航線。"
+    hi "不是，我猜那是某個外國航空公司。"
 
 # game/script-a3-lilly.rpy:1516
 translate zh_hant a3_lilly_renewal_f3663ba4:
@@ -2506,7 +2506,7 @@ translate zh_hant a3_lilly_renewal_f3663ba4:
 translate zh_hant a3_lilly_renewal_95868ee2:
 
     # "For the past half hour we've been whiling away the time with small snippets of pointless chatter. Lilly and Akira's flight has been delayed, and at this rate it'll probably be dark before their plane arrives."
-    "過去的半個小時裡我們就一直在時不時地閒聊中打發著時間。莉莉和晃的班機誤點了，而且照這樣下去大概在他們到之前天就會黑了。"
+    "過去的半個小時裡我們就在時不時地閒聊中打發著時間。莉莉和晃的班機誤點了，而且照這樣下去大概在他們到之前天就會黑了。"
 
 # game/script-a3-lilly.rpy:1523
 translate zh_hant a3_lilly_renewal_8c17221a:
@@ -2524,7 +2524,7 @@ translate zh_hant a3_lilly_renewal_1f3cae3a:
 translate zh_hant a3_lilly_renewal_7e899731:
 
     # "Hanako's eyes flutter left and right, following the trickle of people in and out of the huge glass doors ahead of us. Fortunately nobody pays her much heed, their attention apparently directed towards greater things."
-    "華子興奮的左顧右盼，眼睛穿過我們前方的大玻璃隨著人潮流動。好在沒有人盯著她看，他們的心思明顯用在了更重要的事上。"
+    "華子左顧右盼，眼睛穿過我們前方的大玻璃隨著人潮流動。好在沒有人盯著她看，他們的心思明顯用在了更重要的事上。"
 
 # game/script-a3-lilly.rpy:1538
 translate zh_hant a3_lilly_renewal_067f7e1e:
@@ -2560,7 +2560,7 @@ translate zh_hant a3_lilly_renewal_24732cd5:
 translate zh_hant a3_lilly_renewal_3d484253:
 
     # "I look to Hanako, then follow her gaze to the airport door."
-    "我看向華子，然後順著她的目光看向了機場大門。"
+    "我看向華子，然後順著她的目光看向了入境大門。"
 
 # game/script-a3-lilly.rpy:1556
 translate zh_hant a3_lilly_renewal_89701a87:
@@ -2596,7 +2596,7 @@ translate zh_hant a3_lilly_renewal_ebdead2d:
 translate zh_hant a3_lilly_renewal_4d4e49ce:
 
     # li "It's wonderful to meet you again, Hanako."
-    li "能再見到你真是太好了，華子。"
+    li "能再見到妳真是太好了，華子。"
 
 # game/script-a3-lilly.rpy:1594
 translate zh_hant a3_lilly_renewal_5512f5f0:
@@ -2614,19 +2614,19 @@ translate zh_hant a3_lilly_renewal_6c7def3f:
 translate zh_hant a3_lilly_renewal_cca6090f:
 
     # hi "You're pretty late."
-    hi "你們晚點很久了。"
+    hi "妳們誤點有夠久。"
 
 # game/script-a3-lilly.rpy:1606
 translate zh_hant a3_lilly_renewal_ee4a34c2:
 
     # aki "Yeah, there was a really bad storm over the airport. We got drenched just going from the car to the door."
-    aki "是啊，那邊的機場那會兒正下著一場非常糟糕的暴風雨，我們光是從車走到門口就渾身溼透了。"
+    aki "是啊，那邊的機場下著一場很糟糕的暴風雨，我們光是從車走到門口就渾身溼透了。"
 
 # game/script-a3-lilly.rpy:1608
 translate zh_hant a3_lilly_renewal_49e6a8a3:
 
     # hi "I guess you'll appreciate the weather here more, then. Welcome back to you too, Lilly."
-    hi "那我猜你一定更喜歡這裡的天氣。歡迎回來，莉莉。"
+    hi "那我猜妳一定更喜歡這裡的天氣。歡迎回來，莉莉。"
 
 # game/script-a3-lilly.rpy:1618
 translate zh_hant a3_lilly_renewal_f11f0852:
@@ -2662,7 +2662,7 @@ translate zh_hant a3_lilly_renewal_3c6451a0:
 translate zh_hant a3_lilly_renewal_ead50d66:
 
     # ha "Are you okay? You look tired."
-    ha "還好嗎？你看起來很累。"
+    ha "妳還好嗎？看起來很累。"
 
 # game/script-a3-lilly.rpy:1638
 translate zh_hant a3_lilly_renewal_3c87bc09:
@@ -2680,13 +2680,13 @@ translate zh_hant a3_lilly_renewal_7a373713:
 translate zh_hant a3_lilly_renewal_f01432e5:
 
     # aki "Weak."
-    aki "弱。"
+    aki "遜。"
 
 # game/script-a3-lilly.rpy:1650
 translate zh_hant a3_lilly_renewal_5850984d:
 
     # hi "You don't have any?"
-    hi "難道你沒有嗎？"
+    hi "難道妳沒有嗎？"
 
 # game/script-a3-lilly.rpy:1655
 translate zh_hant a3_lilly_renewal_edd3051f:
@@ -2710,7 +2710,7 @@ translate zh_hant a3_lilly_renewal_dfd17b9a:
 translate zh_hant a3_lilly_renewal_45367494:
 
     # aki "Haha, ah well. Ya shouldn't take too long to get rid of it."
-    aki "哈哈，啊好吧，你用不了多久就能擺脫它的。"
+    aki "哈哈，啊好吧，妳用不了多久就能擺脫它的。"
 
 # game/script-a3-lilly.rpy:1673
 translate zh_hant a3_lilly_renewal_0e0fdb95:
@@ -2734,7 +2734,7 @@ translate zh_hant a3_lilly_renewal_3499f480:
 translate zh_hant a3_lilly_renewal_e54cbc1c:
 
     # hi "I'd have forgotten if Misha hadn't reminded me this morning. We've got a three-day weekend starting from tomorrow."
-    hi "如果武藤沒有在今天早上提醒我的話我差點都忘了。從明天開始我們有一個連續三天的週末假。"
+    hi "如果武藤沒有在今天早上提醒我的話我差點都忘了。從明天開始我們有一個連續三天的週末連假。"
 
 # game/script-a3-lilly.rpy:1687
 translate zh_hant a3_lilly_renewal_326bca26:
@@ -2746,13 +2746,13 @@ translate zh_hant a3_lilly_renewal_326bca26:
 translate zh_hant a3_lilly_renewal_bbf5aa4b:
 
     # aki "Told ya you wouldn't miss it."
-    aki "告訴過你不會趕不上它的。"
+    aki "告訴過妳不會趕不上的。"
 
 # game/script-a3-lilly.rpy:1694
 translate zh_hant a3_lilly_renewal_52bc6514:
 
     # hi "You have something planned?"
-    hi "你有什麼計劃嗎？"
+    hi "妳有什麼計劃嗎？"
 
 # game/script-a3-lilly.rpy:1699
 translate zh_hant a3_lilly_renewal_52326e84:
@@ -2788,13 +2788,13 @@ translate zh_hant a3_lilly_renewal_fe9bde8d:
 translate zh_hant a3_lilly_renewal_31ca016b:
 
     # aki "Up north, in Hokkaido. The place is practically deserted, so it should be a nice quiet break for you guys."
-    aki "在北邊，北海道那裡。那個地方几乎渺無人煙，所以應該能讓你們幾個好好的放鬆一下。"
+    aki "在北邊，北海道那裡。那個地方幾乎渺無人煙，所以應該能讓你們幾個好好的放鬆一下。"
 
 # game/script-a3-lilly.rpy:1720
 translate zh_hant a3_lilly_renewal_db0c25a0:
 
     # hi "You're not coming?"
-    hi "你不去嗎？"
+    hi "妳不去嗎？"
 
 # game/script-a3-lilly.rpy:1725
 translate zh_hant a3_lilly_renewal_efc5af31:
@@ -2812,7 +2812,7 @@ translate zh_hant a3_lilly_renewal_901d37ee:
 translate zh_hant a3_lilly_renewal_a481b4a2:
 
     # hi "It sounds like we're just cleaning up the summerhouse for you."
-    hi "聽起來像是我們只是過去替你打掃的。"
+    hi "聽起來像是我們只是過去替妳打掃的。"
 
 # game/script-a3-lilly.rpy:1734
 translate zh_hant a3_lilly_renewal_e92f6a87:
@@ -2836,7 +2836,7 @@ translate zh_hant a3_lilly_renewal_656d38c6:
 translate zh_hant a3_lilly_renewal_c136bdf0:
 
     # aki "Now then, I'm outta here."
-    aki "那麼現在，我走咯。"
+    aki "那麼，我先走嘍。"
 
 # game/script-a3-lilly.rpy:1751
 translate zh_hant a3_lilly_renewal_981d7ee8:
@@ -2866,49 +2866,49 @@ translate zh_hant a3_lilly_renewal_558991d5:
 translate zh_hant a3_lilly_renewal_a13d69c3:
 
     # ha "It does sound like it would be a nice place to go."
-    ha "那裡聽起來的確像是個好去處。"
+    ha "那裡聽起來確實像是個好地方。"
 
 # game/script-a3-lilly.rpy:1784
 translate zh_hant a3_lilly_renewal_f1a0f36f:
 
     # "Lilly gives an enthusiastic nod, taking her carry bag in one hand and placing her other on Hanako's shoulder for guidance as we begin to make our way to the taxi area."
-    "莉莉虛弱的點了點頭，一隻手著包另一手則放在華子的肩膀上，隨後我們一起啓程走向計程車區。"
+    "莉莉虛弱的點了點頭，一隻手拿著包包另一手放在華子的肩膀上，隨後我們一起啓程走向計程車區。"
 
 # game/script-a3-lilly.rpy:1786
 translate zh_hant a3_lilly_renewal_6b4682be:
 
     # "After the fracas of the past few days, spending a weekend in the country alone with her and Hanako sounds like a dream."
-    "經過了前幾日的混亂後，與華子和莉莉單獨的度過週末聽起來簡直像是在作夢。"
+    "經過了前幾日的混亂後，與華子莉莉單獨的度過週末聽起來簡直像是在作夢。"
 
 # game/script-a3-lilly.rpy:1788
 translate zh_hant a3_lilly_renewal_86de7249:
 
     # "The more I think about it, the more sure I am. This will be the right time and place to confess my feelings to her."
-    "我越是想，就越是確信。這將是我向莉莉坦白我的心意的絕妙時間與地點。"
+    "我越想就越相信，這將是我向莉莉告白我對她感覺的最佳時間地點。"
 
 # game/script-a3-lilly.rpy:1807
 translate zh_hant a3_lilly_northern_sojourn_5dff50af:
 
     # "The morning chill wraps itself around my shivering body. I huff into my cupped hands to desperately try and stave off the cold as we mill about on the station platform."
-    "早間的寒冷正裹著我顫抖不已的身體。我將雙手卷成杯狀往裡面呼氣著氣，拼命地想要抵禦寒冷，在車站的站臺走來走去。"
+    "清晨的酷寒正包裹著我顫抖不停的身體。我將雙手包成杯狀往裡面呼氣著氣，拼命地在車站月臺走來走去，想抵禦寒冷。"
 
 # game/script-a3-lilly.rpy:1809
 translate zh_hant a3_lilly_northern_sojourn_bb4c591d:
 
     # "Lilly's clothing looks rather ill-suited for the temperature around us. I can only hope it's indicative of what she expects the weather to be like at our destination."
-    "就現在的氣溫來說莉莉的穿著實在是很不合適。我只希望這代表著她所預想的我們的目的地的天氣。"
+    "就現在的氣溫來說莉莉的穿著實在是很不合適。我希望那適合她所預想的目的地天氣。"
 
 # game/script-a3-lilly.rpy:1815
 translate zh_hant a3_lilly_northern_sojourn_d2e4cdba:
 
     # hi "Dammit, Lilly, why'd we have to get here so early?"
-    hi "真是的，莉莉，我們為什麼要到的那麼早？"
+    hi "真是的，莉莉，我們為什麼要到得那麼早？"
 
 # game/script-a3-lilly.rpy:1820
 translate zh_hant a3_lilly_northern_sojourn_3ff43f47:
 
     # li "Unfortunately the train schedule is against us. The next train to Hokkaido is at two in the afternoon."
-    li "不幸的是列車時刻表在和我們做對，下一班去北海道的列車是在下午兩點鐘。"
+    li "不幸的是火車時程在和我們做對，下一班去北海道的列車是在下午兩點鐘。"
 
 # game/script-a3-lilly.rpy:1822
 translate zh_hant a3_lilly_northern_sojourn_ba8fafbc:
@@ -2932,7 +2932,7 @@ translate zh_hant a3_lilly_northern_sojourn_a9d082a5:
 translate zh_hant a3_lilly_northern_sojourn_93596a9a:
 
     # hi "Why not just take the bullet train? A normal train's going to take hours to get us there, so we may as well take the Shinkansen line as far north as it goes, and just switch at the end."
-    hi "為什麼不搭動車？一班普通列車要花好幾個小時才能到那邊，我們還不如搭新幹線直達北端，然後在終點轉車就好了。"
+    hi "為什麼不搭快車？一班普通車要花好幾個小時才能到那邊，我們還不如搭新幹線直達北端，然後在終點轉車就好了。"
 
 # game/script-a3-lilly.rpy:1836
 translate zh_hant a3_lilly_northern_sojourn_34bf1108:
@@ -2944,7 +2944,7 @@ translate zh_hant a3_lilly_northern_sojourn_34bf1108:
 translate zh_hant a3_lilly_northern_sojourn_735b4121:
 
     # hi "I'd agree if I weren't freezing in the morning cold because we decided to take one."
-    hi "如果我沒有因為我們決定搭乘它而在早上受凍的話我或許會同意你。"
+    hi "如果我不是因為要搭它而在清晨受凍，我也會同意的。"
 
 # game/script-a3-lilly.rpy:1843
 translate zh_hant a3_lilly_northern_sojourn_d367cac5:
@@ -2974,13 +2974,13 @@ translate zh_hant a3_lilly_northern_sojourn_2c196cae:
 translate zh_hant a3_lilly_northern_sojourn_e37d493e:
 
     # hi "It's fine, I'm just grumbling."
-    hi "沒關係，我只是抱怨一下。"
+    hi "沒關係，我只是在碎碎念。"
 
 # game/script-a3-lilly.rpy:1859
 translate zh_hant a3_lilly_northern_sojourn_7eb6b64a:
 
     # li "My my, Hanako, you needn't shoulder all the blame yourself. Even without your suggestion, I'd still have opted for the same thing."
-    li "嘛，嘛，華子，你不必把一切都怪到你自己頭上。就算沒有你的建議，我還是會做出同樣的選擇的。"
+    li "呵呵，華子，妳不必把一切都怪到你自己頭上。就算沒有妳的建議，我還是會做出同樣的選擇的。"
 
 # game/script-a3-lilly.rpy:1868
 translate zh_hant a3_lilly_northern_sojourn_da216836:
@@ -2998,19 +2998,19 @@ translate zh_hant a3_lilly_northern_sojourn_1bab3d25:
 translate zh_hant a3_lilly_northern_sojourn_6b89f3cf:
 
     # "Though if someone was, they'd more than notice the huge bags both Lilly and Hanako brought with them."
-    "不過如果有的話，他們一定會被華子和莉莉帶來的那些大包給吸引住。"
+    "不過如果有的話，他們一定會被華子和莉莉帶來的那些巨大行李所吸引住。"
 
 # game/script-a3-lilly.rpy:1874
 translate zh_hant a3_lilly_northern_sojourn_e6f9a0cf:
 
     # hi "Just what did you have to pack into those things, anyway?"
-    hi "不管怎樣，你們究竟哪來的那麼多東西要帶？"
+    hi "不管怎樣，妳們究竟哪來的那麼多東西要帶？"
 
 # game/script-a3-lilly.rpy:1879
 translate zh_hant a3_lilly_northern_sojourn_d0a9e475:
 
     # li "The bags? Hmm…"
-    li "你說這些包？嗯……"
+    li "你說這些行李？嗯……"
 
 # game/script-a3-lilly.rpy:1881
 translate zh_hant a3_lilly_northern_sojourn_ab416c4b:
@@ -3028,7 +3028,7 @@ translate zh_hant a3_lilly_northern_sojourn_ff961779:
 translate zh_hant a3_lilly_northern_sojourn_eaeb1c37:
 
     # hi "You make it sound as if I'm unprepared."
-    hi "你讓我覺得我什麼都沒準備。"
+    hi "妳讓我覺得我什麼都沒準備。"
 
 # game/script-a3-lilly.rpy:1893
 translate zh_hant a3_lilly_northern_sojourn_f0bb45df:
@@ -3064,7 +3064,7 @@ translate zh_hant a3_lilly_northern_sojourn_dfece3b9:
 translate zh_hant a3_lilly_northern_sojourn_f786e060:
 
     # "As I ruffle my hair in frustration, Lilly sighs."
-    "我懊喪地抓了抓頭髮，莉莉嘆了口氣。"
+    "我懊悔地抓了抓頭髮，莉莉嘆了口氣。"
 
 # game/script-a3-lilly.rpy:1908
 translate zh_hant a3_lilly_northern_sojourn_fe13791f:
@@ -3076,7 +3076,7 @@ translate zh_hant a3_lilly_northern_sojourn_fe13791f:
 translate zh_hant a3_lilly_northern_sojourn_c3c3abc4:
 
     # li "I don't think there'll be any problem with you borrowing a set of pajamas, if need be."
-    li "如果需要的話，我不覺得你借一套隨意會有什麼問題。"
+    li "如果需要的話，我不覺得你借一套睡衣會有什麼問題。"
 
 # game/script-a3-lilly.rpy:1915
 translate zh_hant a3_lilly_northern_sojourn_21b45237:
@@ -3100,19 +3100,19 @@ translate zh_hant a3_lilly_northern_sojourn_6751ba03:
 translate zh_hant a3_lilly_northern_sojourn_27560c92:
 
     # "Not really. Though two days would be borderline, it's more that looking even a little like a slob would be unacceptable while in the presence of two girls."
-    "其實並非如此。雖然兩天還在我的底線範圍內，但是在兩個女孩前面表現得哪怕有一點點像個懶漢都是不能接受的。"
+    "其實並非如此。雖然兩天還在我的底線範圍內，但是在兩個女孩前面表現得哪怕有一點點像個流浪漢都是不能接受的。"
 
 # game/script-a3-lilly.rpy:1929
 translate zh_hant a3_lilly_northern_sojourn_d13978c6:
 
     # "As we leisurely talk on the station platform an announcement sounds from the loudspeakers, loudly heralding our ride's arrival."
-    "我們在站臺上不慌不忙地聊著天，隨後擴音器裡傳來了一條通告，預示著我們的班車即將到站。"
+    "我們在站臺上不慌不忙地聊著天，隨後擴音器裡傳來了一條通告，提示著我們的班車即將到站。"
 
 # game/script-a3-lilly.rpy:1931
 translate zh_hant a3_lilly_northern_sojourn_2261edfe:
 
     # "Looking past Lilly and Hanako, though, the train's still well out of sight. A quick check of my watch is enough to see that it's the one we'll be taking."
-    "即使目光越過莉莉和華子，雖然，火車還幾乎處於視線之外。我瞥了一下手錶，確定了這就是我們要搭的列車。"
+    "目光越過莉莉和華子，雖然火車還幾乎在視線之外，我瞥了一下手錶，確定了這就是我們要搭的列車。"
 
 # game/script-a3-lilly.rpy:1933
 translate zh_hant a3_lilly_northern_sojourn_8e2a2dfc:
@@ -3130,13 +3130,13 @@ translate zh_hant a3_lilly_northern_sojourn_b4550ab3:
 translate zh_hant a3_lilly_northern_sojourn_36750ac6:
 
     # hi "Either of you want me to take your bags? Mine's not exactly heavy."
-    hi "你們倆誰需要我幫忙提一下行李嗎？我的行李不是很重。"
+    hi "妳們倆誰需要我幫忙提一下行李嗎？我的行李不是很重。"
 
 # game/script-a3-lilly.rpy:1946
 translate zh_hant a3_lilly_northern_sojourn_c677fd1f:
 
     # li "My my, that's very gentlemanly of you, Hisao."
-    li "嘛，嘛，很有紳士風度哦，久夫。"
+    li "嗯，很有紳士風度哦，久夫。"
 
 # game/script-a3-lilly.rpy:1948
 translate zh_hant a3_lilly_northern_sojourn_a107ff4c:
@@ -3148,13 +3148,13 @@ translate zh_hant a3_lilly_northern_sojourn_a107ff4c:
 translate zh_hant a3_lilly_northern_sojourn_d355334a:
 
     # "As I bend down to pick up Lilly's large bag, I look up to see Hanako picking up hers."
-    "當我彎下身來提起莉莉的大包時，我抬頭看到華子正提起她的。"
+    "當我彎下身來提起莉莉的大行李箱時，我抬頭看到華子正提起她的。"
 
 # game/script-a3-lilly.rpy:1952
 translate zh_hant a3_lilly_northern_sojourn_1c168578:
 
     # hi "You fine with that?"
-    hi "你拿得動嗎？"
+    hi "妳拿得動嗎？"
 
 # game/script-a3-lilly.rpy:1957
 translate zh_hant a3_lilly_northern_sojourn_eb12b735:
@@ -3172,7 +3172,7 @@ translate zh_hant a3_lilly_northern_sojourn_c528d8ca:
 translate zh_hant a3_lilly_northern_sojourn_9a327aca:
 
     # hi "I'll raise you five."
-    hi "我加註五點。"
+    hi "我加五。"
 
 # game/script-a3-lilly.rpy:1971
 translate zh_hant a3_lilly_northern_sojourn_d82dd9b9:
@@ -3196,13 +3196,13 @@ translate zh_hant a3_lilly_northern_sojourn_dfc70e5f:
 translate zh_hant a3_lilly_northern_sojourn_c8cd1cc1:
 
     # "My collection of chess pieces that we're using as chips is steadily growing anyway, so it doesn't really bother me."
-    "我這邊用來代替籌碼的棋子的數量正在穩步增長，所以這並不會讓我有多煩惱。"
+    "我這邊用來代替籌碼的棋子的數量正在緩步增加，所以我並不擔心。"
 
 # game/script-a3-lilly.rpy:1979
 translate zh_hant a3_lilly_northern_sojourn_7d3a61be:
 
     # "Looking around us, our carriage is almost as empty as the station platform we'd waited for the train itself on. Only a handful of people can be seen, looking mostly like tourists and couples on holiday."
-    "環顧了一下四周，我們的車廂幾乎跟我們等它來時待的那個站臺一樣空蕩蕩的。只能看到幾個人，看起來大部分都是放假的旅客或者夫妻。"
+    "環顧了一下四周，我們的車廂幾乎跟我們等待的那個月台一樣空蕩蕩的。只能看到幾個人，看起來大部分都是放假的旅客或者夫妻。"
 
 # game/script-a3-lilly.rpy:1981
 translate zh_hant a3_lilly_northern_sojourn_b48dedbc:
@@ -3214,31 +3214,31 @@ translate zh_hant a3_lilly_northern_sojourn_b48dedbc:
 translate zh_hant a3_lilly_northern_sojourn_39991408:
 
     # "Thankfully, he retreats back to his seat after finding me far too boring to waste his attention on."
-    "好在，當他發現我太無聊根本不值得他看的時候他又回到了座位上。"
+    "好在，當他發現我太無聊根本不值得他一直看的時候他又回到了座位上。"
 
 # game/script-a3-lilly.rpy:1985
 translate zh_hant a3_lilly_northern_sojourn_463d449f:
 
     # ha "I'll see you and raise you… another five."
-    ha "我要跟上，然後再加註……五點。"
+    ha "我跟，然後再加……五。"
 
 # game/script-a3-lilly.rpy:1987
 translate zh_hant a3_lilly_northern_sojourn_e6e707b0:
 
     # hi "Damn, you got me. I fold."
-    hi "該死，你難倒我了。我放棄。"
+    hi "該死，妳贏了。我放棄。"
 
 # game/script-a3-lilly.rpy:1989
 translate zh_hant a3_lilly_northern_sojourn_d7e89eba:
 
     # "I've been bluffing, and she's caught me. Hanging my head, I push over a large portion of my winnings."
-    "我被唬了，然後她贏了。我的頭垂了下來，我把我很大的一部分財產都賭上了。"
+    "我被唬了，然後她贏了。我的頭垂了下來，我把我很大的一部分資產都賭上了。"
 
 # game/script-a3-lilly.rpy:1994
 translate zh_hant a3_lilly_northern_sojourn_a584e552:
 
     # "Hanako looks absolutely delighted, and even if Lilly keeps her attention focused on her reading material, I can see the smirk on her face. They're both extremely pleased."
-    "華子看起來毫無疑問的非常高興，而雖然莉莉還在保持注意力專注於她的讀物上，我還是可以看到她臉上那得意的笑容。她們看起來都很開心。"
+    "華子看起來毫無疑問的非常高興，而雖然莉莉還在保持注意力專注於她的書上，我還是可以看到她臉上那得意的笑容。她們看起來都很開心。"
 
 # game/script-a3-lilly.rpy:1996
 translate zh_hant a3_lilly_northern_sojourn_e9c4cbdb:
@@ -3250,13 +3250,13 @@ translate zh_hant a3_lilly_northern_sojourn_e9c4cbdb:
 translate zh_hant a3_lilly_northern_sojourn_b284b57b:
 
     # hi "What're you reading, Lilly? The title looks like it's in English."
-    hi "你在讀什麼，莉莉？從標題來看像是英文寫的。"
+    hi "妳在讀什麼，莉莉？從標題來看像是英文寫的。"
 
 # game/script-a3-lilly.rpy:2000
 translate zh_hant a3_lilly_northern_sojourn_6ef660f1:
 
     # li "That's right. It's 'And Then There Were None', an old British story. I could read it to you if you'd like."
-    li "沒錯。這是“無人生還”，一本很老的英國小說，如果你想的話我可以念給你聽。"
+    li "沒錯。這是“一個都不留”，一本很老的英國小說，如果你想的話我可以念給你聽。"
 
 # game/script-a3-lilly.rpy:2002
 translate zh_hant a3_lilly_northern_sojourn_f253d422:
@@ -3268,13 +3268,13 @@ translate zh_hant a3_lilly_northern_sojourn_f253d422:
 translate zh_hant a3_lilly_northern_sojourn_57720772:
 
     # hi "I think I'll pass, thanks."
-    hi "我想我還是算了吧，謝謝。"
+    hi "我想我還是算了，謝謝。"
 
 # game/script-a3-lilly.rpy:2016
 translate zh_hant a3_lilly_northern_sojourn_9b7af137:
 
     # "After a seemingly endless trip, we finally reach the promised land of the Satou summerhouse. Even after the train trip, the walk up seemed to take forever."
-    "經過了這段好像沒有盡頭的旅程後，我們終於到了應許之地砂藤避暑屋，在火車之後，我們又花了好長時間來走路。"
+    "經過了這段好像沒有盡頭的旅程後，我們終於到了迦南之地：砂藤避暑屋。在火車以及步行了好長一段路之後。"
 
 # game/script-a3-lilly.rpy:2018
 translate zh_hant a3_lilly_northern_sojourn_8e670621:
@@ -3286,31 +3286,31 @@ translate zh_hant a3_lilly_northern_sojourn_8e670621:
 translate zh_hant a3_lilly_northern_sojourn_b928765d:
 
     # "It looks more like a farmhouse than the everyday house I'd imagined, small in size and surrounded by trees and bushes."
-    "和我所想像的那些普通房子不同，它看起來更像是一個農舍，尺寸小小的，被樹和灌木環繞著。"
+    "和我所想像的那些普通房子不同，它看起來更像是一個農舍，小小的，被樹林和灌木環繞著。"
 
 # game/script-a3-lilly.rpy:2022
 translate zh_hant a3_lilly_northern_sojourn_f92b70c7:
 
     # "An empty expanse of wheat fields and farming land can be seen as we walk up, the fencing only consisting of rickety old wooden planks."
-    "當我們走上去的時候我可以看到農田和一個空曠綿延的小麥場，以及由老木板構成的柵欄。"
+    "當我們走上去的時候我可以看到農田和一個空曠綿延的小麥場，以及由老舊木板構成的柵欄。"
 
 # game/script-a3-lilly.rpy:2024
 translate zh_hant a3_lilly_northern_sojourn_943a1228:
 
     # "It really drives home how far we are from the major cities and is a sight that feels antithetical to the environment I grew up in."
-    "這真的說明了我們離那些大城市有多麼的遠，這片景象看上去與我長大所在的環境截然相反。"
+    "這說明了我們離那些大城市有多麼的遠，這片景象看上去與我長大的環境截然相反。"
 
 # game/script-a3-lilly.rpy:2026
 translate zh_hant a3_lilly_northern_sojourn_34f05bb8:
 
     # "The only thing that doesn't surprise me is its Western styling."
-    "唯一沒有讓我驚訝的是它的西方風格。"
+    "唯一沒有讓我驚訝的是它的西式風格。"
 
 # game/script-a3-lilly.rpy:2030
 translate zh_hant a3_lilly_northern_sojourn_485e7302:
 
     # hi "Wow, it's amazing out here…"
-    hi "哇哦，這外面的景象真令人吃驚……"
+    hi "哇哦，看起來真令人吃驚……"
 
 # game/script-a3-lilly.rpy:2036
 translate zh_hant a3_lilly_northern_sojourn_aee3cb55:
@@ -3322,7 +3322,7 @@ translate zh_hant a3_lilly_northern_sojourn_aee3cb55:
 translate zh_hant a3_lilly_northern_sojourn_aec444e6:
 
     # li "That's nice to hear. While Akira may have said that she's kept the house in reasonable condition, I was worried that we might have different standards of 'reasonable.'"
-    li "很高興聽到你們這麼說。雖然晃有說她有把整間屋子保持在良好狀態，但我很擔心她對於“良好”的定義。"
+    li "很高興聽到你們這麼說。雖然晃有說她有把整間屋子保持得很好，但我很擔心她對於“很好”的定義。"
 
 # game/script-a3-lilly.rpy:2043
 translate zh_hant a3_lilly_northern_sojourn_ff446ffb:
@@ -3334,19 +3334,19 @@ translate zh_hant a3_lilly_northern_sojourn_ff446ffb:
 translate zh_hant a3_lilly_northern_sojourn_43933e1c:
 
     # "Lilly furrows her brow in thought, seemingly recalling almost forgotten knowledge."
-    "莉莉皺著眉頭陷入了思考，似乎正在回想幾乎被遺忘的記憶。"
+    "莉莉皺著眉頭陷入了思考，似乎正在尋找被遺忘的記憶。"
 
 # game/script-a3-lilly.rpy:2053
 translate zh_hant a3_lilly_northern_sojourn_1bd129c8:
 
     # li "Hmm, from memory there's a small town not too far ahead. Other than that though, this is largely just old farmland."
-    li "恩，記憶中前面不遠處有個小鎮，再往後基本就全是農田了。"
+    li "恩，我記得前面不遠處有個小鎮，再往後基本就全是農田了。"
 
 # game/script-a3-lilly.rpy:2058
 translate zh_hant a3_lilly_northern_sojourn_95fe2346:
 
     # li "Akira and I stayed in our parents' house which was in the nearest city for a while, but after they left we decided to move into a smaller, more easily maintainable, house."
-    li "我和晃曾經父母在鄰近城市的家裡面待過一陣子，但他們離開之後我們就決定搬到一個更小而且更好整理的房子。"
+    li "我和晃曾經在鄰近城市爸媽的家裡面待過一陣子，但他們離開之後我們就決定搬到一個更小而且更好整理的房子。"
 
 # game/script-a3-lilly.rpy:2060
 translate zh_hant a3_lilly_northern_sojourn_25e23b0b:
@@ -3364,7 +3364,7 @@ translate zh_hant a3_lilly_northern_sojourn_b1063607:
 translate zh_hant a3_lilly_northern_sojourn_f86a76c2:
 
     # "I look down the street one last time before getting back to the task at hand."
-    "我朝著街道方向看了最後一眼，隨後回神於手頭的事。"
+    "我朝著街道方向看了最後一眼，隨後回神到眼前的事。"
 
 # game/script-a3-lilly.rpy:2069
 translate zh_hant a3_lilly_northern_sojourn_e3ef8abc:
@@ -3382,31 +3382,31 @@ translate zh_hant a3_lilly_northern_sojourn_503f7111:
 translate zh_hant a3_lilly_northern_sojourn_05d1f231:
 
     # "Lilly gives an enthusiastic nod, the three of us lugging our bags into the house."
-    "莉莉認可的點了點頭，我們三個吃力的把我們的包拖進房子裡。"
+    "莉莉認可的點了點頭，我們三個吃力的把我們的行李拖進房子裡。"
 
 # game/script-a3-lilly.rpy:2087
 translate zh_hant a3_lilly_northern_sojourn_e7138005:
 
     # "As soon as we set foot inside, Hanako and I start looking around, taking in every detail of where we'll be staying for the next few days."
-    "當我們一腳踏進去，我和華子就開始好奇的環顧四周，觀察著這個我們之後會住上幾天的地方的每個細節。"
+    "當我們一腳踏進去，我和華子立刻好奇的環顧四周，觀察著這個我們之後會住上幾天的地方的每個細節。"
 
 # game/script-a3-lilly.rpy:2089
 translate zh_hant a3_lilly_northern_sojourn_28093891:
 
     # "All the artifacts of another's life stopped mid-motion are around the house, such as the television guide lying beside the counter it was on, and pans in the adjoining kitchen still sitting on the stove."
-    "這個房子到處散發著有人在這生活過中途離開的氣息，例如電視節目指南從櫃檯滑在了地上，隔壁廚房的竈臺上還擺著平底鍋。"
+    "這個房子到處散發著有人在這生活過但中途離開的氣息，例如電視節目單從櫃檯滑在了地上，廚房的爐子上還擺著平底鍋。"
 
 # game/script-a3-lilly.rpy:2091
 translate zh_hant a3_lilly_northern_sojourn_993662b4:
 
     # "It's a strange feeling, really; as if we were stepping into Akira's life for a brief moment, before leaving in a couple of days just as we'd come. Of course, the more mundane reality is that she just hasn't cleaned up after herself that well."
-    "這感覺很奇怪，真的。就好像我們一時間踏入了晃的生活，待上幾天隨後去如來時地離開。當然，事實上她不過是臨走前沒整理乾淨罷了。"
+    "這感覺很奇怪，真的。就好像我們一時闖入了晃的生活，待上幾天隨後再悄悄的離開。事實上她不過是臨走前沒整理乾淨罷了。"
 
 # game/script-a3-lilly.rpy:2093
 translate zh_hant a3_lilly_northern_sojourn_90e20b35:
 
     # hi "Where should we put our bags?"
-    hi "我們把包放哪？"
+    hi "我們把行李放哪？"
 
 # game/script-a3-lilly.rpy:2099
 translate zh_hant a3_lilly_northern_sojourn_335dc7ee:
@@ -3418,7 +3418,7 @@ translate zh_hant a3_lilly_northern_sojourn_335dc7ee:
 translate zh_hant a3_lilly_northern_sojourn_3e2907d5:
 
     # hi "You mean I don't have the same bedroom as you two?"
-    hi "你的意思是我不是跟你們一樣睡臥室？"
+    hi "妳的意思是我不是跟妳們睡同一間臥室？"
 
 # game/script-a3-lilly.rpy:2107
 translate zh_hant a3_lilly_northern_sojourn_8182ca60:
@@ -3436,13 +3436,13 @@ translate zh_hant a3_lilly_northern_sojourn_e30d0885:
 translate zh_hant a3_lilly_northern_sojourn_90c52d8d:
 
     # "You two…"
-    "你們倆……"
+    "妳們倆……"
 
 # game/script-a3-lilly.rpy:2117
 translate zh_hant a3_lilly_northern_sojourn_a4cee7e4:
 
     # hi "Hold on, if I'm to leave my bags here, where will I be sleeping?"
-    hi "給我等下，如果我要把我的包放在這兒，那我是睡哪？"
+    hi "等等，如果我要把我的行李放在這兒，那我是睡哪？"
 
 # game/script-a3-lilly.rpy:2122
 translate zh_hant a3_lilly_northern_sojourn_5b87ec2a:
@@ -3466,7 +3466,7 @@ translate zh_hant a3_lilly_northern_sojourn_2439288d:
 translate zh_hant a3_lilly_northern_sojourn_e64bfc6a:
 
     # "I sigh, lamenting my place on the bottom rung of sleeping location priorities."
-    "我嘆了口氣，為我處於最底層的床位排序優先權而感到揪心。"
+    "我嘆了口氣，為我處於最底層的床位排序而感到揪心。"
 
 # game/script-a3-lilly.rpy:2133
 translate zh_hant a3_lilly_northern_sojourn_367a8466:
@@ -3496,7 +3496,7 @@ translate zh_hant a3_lilly_northern_sojourn_0b9012e2:
 translate zh_hant a3_lilly_northern_sojourn_6514b0f7:
 
     # "Almost flopping down from exhaustion rather than sitting, I lay back and watch."
-    "我疲憊地倒了下來，向後一趟開始看電視。"
+    "我疲倦地倒了下來，向後一躺開始看電視。"
 
 # game/script-a3-lilly.rpy:2156
 translate zh_hant a3_lilly_northern_sojourn_cdd46d8b:
@@ -3556,7 +3556,7 @@ translate zh_hant a3_lilly_northern_sojourn_1da2f9e8:
 translate zh_hant a3_lilly_northern_sojourn_4eb2d334:
 
     # "Judging from her giggle, I must sound funny when I sleep. I swiftly decide not to inquire."
-    "從她的竊笑看來，我睡著時發出的聲音一定很有滑稽。我決定還是不要問下去好了。"
+    "從她的竊笑看來，我睡著時發出的聲音一定很滑稽。我決定還是不要問下去好了。"
 
 # game/script-a3-lilly.rpy:2200
 translate zh_hant a3_lilly_northern_sojourn_85f77bee:
@@ -3574,7 +3574,7 @@ translate zh_hant a3_lilly_northern_sojourn_2f54b213:
 translate zh_hant a3_lilly_northern_sojourn_d0183da5:
 
     # li "My my, are you tired?"
-    li "嘛，嘛，你累了嗎？"
+    li "喔哦，妳累了嗎？"
 
 # game/script-a3-lilly.rpy:2215
 translate zh_hant a3_lilly_northern_sojourn_3a66e01e:
@@ -3586,7 +3586,7 @@ translate zh_hant a3_lilly_northern_sojourn_3a66e01e:
 translate zh_hant a3_lilly_northern_sojourn_b5118b66:
 
     # hi "I'm pretty tired too. It was a long walk up here, and it's getting late."
-    hi "我也挺累的。走了很長的路，而且天也不早了。"
+    hi "我也挺累的。走了很長的路，而且時間也不早了。"
 
 # game/script-a3-lilly.rpy:2222
 translate zh_hant a3_lilly_northern_sojourn_ae097d78:
@@ -3640,7 +3640,7 @@ translate zh_hant a3_lilly_prelude_23644dff:
 translate zh_hant a3_lilly_prelude_d9b2abc1:
 
     # "I'm not. I am, however, incredibly tired."
-    "我沒睡。事實上，我只是，非常累罷了。"
+    "我沒在睡。事實上，我只是，非常累罷了。"
 
 # game/script-a3-lilly.rpy:2264
 translate zh_hant a3_lilly_prelude_3658d252:
@@ -3676,7 +3676,7 @@ translate zh_hant a3_lilly_prelude_5ab9d223:
 translate zh_hant a3_lilly_prelude_fb9b93c0:
 
     # "Don't do that, Hanako. Please."
-    "別，華子。求你了。"
+    "別，華子。求妳了。"
 
 # game/script-a3-lilly.rpy:2276
 translate zh_hant a3_lilly_prelude_c542bc6c:
@@ -3694,7 +3694,7 @@ translate zh_hant a3_lilly_prelude_84b26813:
 translate zh_hant a3_lilly_prelude_be7f19a4:
 
     # li "Besides, he sounds so peaceful. It would be a shame to wake him when he's like this."
-    li "再說了，聽上去他睡得很安穩。現在就叫醒他也太可惜了。"
+    li "再說，他聽起來睡得很安穩。現在就叫醒他也太可惜了。"
 
 # game/script-a3-lilly.rpy:2282
 translate zh_hant a3_lilly_prelude_b85fdcbe:
@@ -3712,19 +3712,19 @@ translate zh_hant a3_lilly_prelude_a5709550:
 translate zh_hant a3_lilly_prelude_56db6676:
 
     # li "Hanako, could you go to the fridge and fish out what's needed to make lunch?"
-    li "華子，你能去冰箱那幫我拿點午餐的材料嗎？"
+    li "華子，妳能去冰箱那幫我拿點午餐的材料嗎？"
 
 # game/script-a3-lilly.rpy:2288
 translate zh_hant a3_lilly_prelude_a5641e1d:
 
     # ha "All right, just the vegetables and rice?"
-    ha "好吧。光蔬菜和米夠嗎？"
+    ha "好。光蔬菜和米夠嗎？"
 
 # game/script-a3-lilly.rpy:2290
 translate zh_hant a3_lilly_prelude_d3dcd8ef:
 
     # li "Mm, that should be enough. We only need something simple, as we can eat in town later."
-    li "嗯，應該夠了。我們簡單吃點就好，待會我們還可以上鎮上吃。"
+    li "嗯，應該夠了。我們簡單吃點就好，待會我們還可以到鎮上吃。"
 
 # game/script-a3-lilly.rpy:2292
 translate zh_hant a3_lilly_prelude_c2cb707f:
@@ -3766,7 +3766,7 @@ translate zh_hant a3_lilly_prelude_cfbeb8bd:
 translate zh_hant a3_lilly_prelude_da2bccd9:
 
     # hi "How'd you know?"
-    hi "你怎麼知道的？"
+    hi "妳怎麼知道的？"
 
 # game/script-a3-lilly.rpy:2316
 translate zh_hant a3_lilly_prelude_c14c3f42:
@@ -3796,19 +3796,19 @@ translate zh_hant a3_lilly_prelude_de4c1302:
 translate zh_hant a3_lilly_prelude_87394f45:
 
     # li "I'm… sorry for bringing it up, Hisao."
-    li "我……我很抱歉提起這個，久夫。"
+    li "我……抱歉講到這個，久夫。"
 
 # game/script-a3-lilly.rpy:2345
 translate zh_hant a3_lilly_prelude_d5de13ff:
 
     # "For a while I sit and watch television in an attempt to wake myself a little more, but it's futile. I don't have anything better to do, so I follow Lilly's lead."
-    "我坐著，看了好一會兒的電視，試圖讓我自己更清醒一點，但完全是徒勞的。我也沒有什麼更好的事做，所以我就跟上了莉莉。"
+    "我坐著，看了好一會兒的電視，試圖讓我自己更清醒一點，但完全是徒勞的。我也沒有什麼更好的事做，所以我就爬起來了。"
 
 # game/script-a3-lilly.rpy:2352
 translate zh_hant a3_lilly_prelude_db56b49a:
 
     # "As I round the corner, I see Hanako and Lilly, backs turned, quietly cutting food on the granite-colored counter."
-    "我繞過轉角，就看見了華子和莉莉，背朝著我，正在案板上安靜地切著菜。"
+    "我繞過轉角，看見了華子和莉莉，正背著我，在砧板上平靜地切著菜。"
 
 # game/script-a3-lilly.rpy:2354
 translate zh_hant a3_lilly_prelude_e449a935:
@@ -3820,7 +3820,7 @@ translate zh_hant a3_lilly_prelude_e449a935:
 translate zh_hant a3_lilly_prelude_84e4108d:
 
     # "She seems a little slow, but considering that she can't see what she's doing it's a small wonder she can cook at all, let alone for both her and Hanako."
-    "雖然她的動作有些慢，但考慮到她沒法用眼睛看見自己在做什麼，她能做菜已經很不容易了。更別說她還連華子的份一起做了。"
+    "雖然她的動作不快，但考量到她沒法用看見眼前的東西，能做菜已經很不容易了。更別說她還連華子的份一起做了。"
 
 # game/script-a3-lilly.rpy:2358
 translate zh_hant a3_lilly_prelude_f069b262:
@@ -3844,13 +3844,13 @@ translate zh_hant a3_lilly_prelude_bb62af54:
 translate zh_hant a3_lilly_prelude_295b8915:
 
     # "A small trickle of scarlet falls downward from her pale fingertip, the knife having cut just deep enough to draw blood."
-    "一條細細的紅涓從她白皙的指尖流下來，她的手指被刀切出血了。"
+    "一條細細的紅涓從她白皙的指尖流下來，她的手指被刀割傷了。"
 
 # game/script-a3-lilly.rpy:2377
 translate zh_hant a3_lilly_prelude_a40aff33:
 
     # "With the television's sound masking my footsteps, she must not have noticed me coming. To compensate for having to use touch to guide everything she does during cooking, she must need to pay extra attention."
-    "電視的聲音蓋住了我的腳步聲，她一定沒有注意到我。而且因為不得不用觸覺來引導自己做菜，她一定需要投入十二分注意力。"
+    "電視的聲音蓋住了我的腳步聲，她一定沒有注意到我。而且因為不得不用觸覺來引導自己切菜，她一定需要投入十二分注意力。"
 
 # game/script-a3-lilly.rpy:2384
 translate zh_hant a3_lilly_prelude_55184a88:
@@ -3868,13 +3868,13 @@ translate zh_hant a3_lilly_prelude_492d0f49:
 translate zh_hant a3_lilly_prelude_0a6b0527:
 
     # hi "You should still get a band-aid on it, at least until it stops bleeding. First aid stuff would be in the bathroom, right?"
-    hi "就算這樣你也得貼個創口貼，至少得貼到血止住為止。急救用品在洗浴室，對吧？"
+    hi "就算這樣你也得貼個OK繃，至少得貼到血止住為止。急救用品在洗浴室，對吧？"
 
 # game/script-a3-lilly.rpy:2396
 translate zh_hant a3_lilly_prelude_debdb7e9:
 
     # li "I think so. Will you be okay here, Hanako?"
-    li "我想是的。你一個人在這沒關係吧，華子？"
+    li "我想是的。妳一個人在這沒關係吧，華子？"
 
 # game/script-a3-lilly.rpy:2401
 translate zh_hant a3_lilly_prelude_3e736aa3:
@@ -3892,7 +3892,7 @@ translate zh_hant a3_lilly_prelude_eabc5540:
 translate zh_hant a3_lilly_prelude_5f857696:
 
     # "An awkward silence reigns as I set the bottle of antiseptic and box of band-aids on the side of the sink, Lilly's finger held out for me to treat."
-    "當我把消毒劑和創口貼放在水池的一邊，莉莉伸出了她的手指給我處理時，房間裡的氣氛安靜得有些尷尬"
+    "當我把消毒劑和創口貼放在洗手台的一邊，莉莉伸出了她的手指給我處理時，房間裡的氣氛安靜得有些尷尬"
 
 # game/script-a3-lilly.rpy:2413
 translate zh_hant a3_lilly_prelude_564d4c9e:
@@ -3940,7 +3940,7 @@ translate zh_hant a3_lilly_prelude_887f85ef:
 translate zh_hant a3_lilly_prelude_cb648754:
 
     # hi "I would tell you to man up, but I can't really do that."
-    hi "我很想告訴你‘能不能想個男人一點’，但我覺得我不能這麼說。"
+    hi "我很想告訴妳“能不能像個男人一點”，但我覺得我不能這麼說。"
 
 # game/script-a3-lilly.rpy:2441
 translate zh_hant a3_lilly_prelude_d3d79fd7:
@@ -3952,13 +3952,13 @@ translate zh_hant a3_lilly_prelude_d3d79fd7:
 translate zh_hant a3_lilly_prelude_53619058:
 
     # "We both settle somewhat as I bring the band-aid over the tip of her finger, covering the wound while making sure not to get it stuck to her fingernail."
-    "我們兩都稍稍放鬆下來，同時我把創口貼貼到她手指上，蓋住傷口，同時注意不讓它黏在她的指甲上。"
+    "我們兩都稍稍放鬆下來，同時我把OK繃貼到她手指上，蓋住傷口，同時留意不讓它黏在她的指甲上。"
 
 # game/script-a3-lilly.rpy:2445
 translate zh_hant a3_lilly_prelude_aab4cc2d:
 
     # hi "There, finished. You can move now."
-    hi "好了，搞定了。你現在能動了。"
+    hi "好了，搞定了。妳現在能動了。"
 
 # game/script-a3-lilly.rpy:2447
 translate zh_hant a3_lilly_prelude_6cfdf436:
@@ -3976,13 +3976,13 @@ translate zh_hant a3_lilly_prelude_58cff27e:
 translate zh_hant a3_lilly_prelude_57c0f62a:
 
     # hi "It's no problem. It's the least I can do after causing you to hurt yourself, after all."
-    hi "沒事。我也沒幫上什麼忙，再說你受的傷還得怪我呢。"
+    hi "沒事。我也沒幫上什麼忙，再說妳受的傷還得怪我呢。"
 
 # game/script-a3-lilly.rpy:2459
 translate zh_hant a3_lilly_prelude_eb167da2:
 
     # "She lowers her head slightly at the apology, absentmindedly rubbing her hand in what seems to be embarrassment."
-    "我的道歉讓她輕輕低下頭，似乎有點尷尬地無意識地搓著手掌。"
+    "我的道歉讓她輕輕低下頭，似乎有點尷尬地搓著手掌。"
 
 # game/script-a3-lilly.rpy:2464
 translate zh_hant a3_lilly_prelude_13227b15:
@@ -4006,7 +4006,7 @@ translate zh_hant a3_lilly_prelude_257e26ed:
 translate zh_hant a3_lilly_prelude_07ae241c:
 
     # "It's something I can't possibly fault her for. I've fallen prey to the same kind of feelings before, despite my condition not being nearly as ubiquitous in my life."
-    "這不是我能指責她的事。我之前也曾陷入同樣的情感，儘管我的問題並不像她的那樣無處不在貫穿始終。"
+    "我沒辦法怪她。我之前也曾陷入同樣的情緒，儘管我的問題並不像她的那樣，無時無刻得去面對。"
 
 # game/script-a3-lilly.rpy:2474
 translate zh_hant a3_lilly_prelude_a1bce1f0:
@@ -4018,7 +4018,7 @@ translate zh_hant a3_lilly_prelude_a1bce1f0:
 translate zh_hant a3_lilly_prelude_7bcc5134:
 
     # "I lay out the plates of food, steam slowly rising from the well-cooked rice and curry dishes, while Hanako lays out the cutlery."
-    "我盛好了食物，華子擺好了餐具。白色的蒸汽慢慢從米飯和咖喱上升起。"
+    "我盛好了菜餚，華子擺好了餐具。白色的蒸汽慢慢從白飯和咖喱升起。"
 
 # game/script-a3-lilly.rpy:2483
 translate zh_hant a3_lilly_prelude_7b91d38f:
@@ -4048,7 +4048,7 @@ translate zh_hant a3_lilly_prelude_dac4b3d2:
 translate zh_hant a3_lilly_prelude_3ca87859:
 
     # hi "Alcohol? Seriously?"
-    hi "酒？你當真？"
+    hi "酒？妳當真？"
 
 # game/script-a3-lilly.rpy:2496
 translate zh_hant a3_lilly_prelude_0bfd064d:
@@ -4060,13 +4060,13 @@ translate zh_hant a3_lilly_prelude_0bfd064d:
 translate zh_hant a3_lilly_prelude_289d5e9d:
 
     # li "Akira specifically gave permission to take a bottle from her collection."
-    li "晃特別准許我從她的收藏裡拿了這瓶酒。"
+    li "晃特別准許我從她的收藏裡拿了這瓶。"
 
 # game/script-a3-lilly.rpy:2503
 translate zh_hant a3_lilly_prelude_fbbe8dde:
 
     # "Not only does she give alcohol to minors, she even lets them pilfer their own? The perfect model of a responsible adult Akira is not."
-    "她不僅送酒給未成年人，她還讓他們自己去拿？晃還真是個負責人的好大人，才怪。"
+    "她不僅送酒給未成年人，她還讓她們自己去拿？晃還真是個負責人的好大人，才怪。"
 
 # game/script-a3-lilly.rpy:2505
 translate zh_hant a3_lilly_prelude_fe2a4dbc:
@@ -4078,7 +4078,7 @@ translate zh_hant a3_lilly_prelude_fe2a4dbc:
 translate zh_hant a3_lilly_prelude_80346152:
 
     # hi "That's not really the problem. I don't really have any qualms with it, but didn't you have a bad experience with it last time?"
-    hi "我問的可不是這個。我倒不是真的擔心這有什麼不對，但你難道忘了我們上次的經歷了嗎？"
+    hi "我問的可不是這個。我倒不是真的擔心這有什麼不對，但妳難道忘了我們上次的經歷了嗎？"
 
 # game/script-a3-lilly.rpy:2512
 translate zh_hant a3_lilly_prelude_3a0116ec:
@@ -4096,7 +4096,7 @@ translate zh_hant a3_lilly_prelude_821136c6:
 translate zh_hant a3_lilly_prelude_7b008e40:
 
     # hi "I can't recall many learning experiences that made me feel rotten before putting me to sleep, but I'll take your word for it."
-    hi "我可不記得喝得爛醉倒在床上給我積累了什麼經驗，不過還是聽你的吧。"
+    hi "我可不記得喝得爛醉倒在床上給我積累了什麼經驗，不過還是聽妳的吧。"
 
 # game/script-a3-lilly.rpy:2524
 translate zh_hant a3_lilly_prelude_20ca2fd4:
@@ -4114,19 +4114,19 @@ translate zh_hant a3_lilly_prelude_f977c75b:
 translate zh_hant a3_lilly_prelude_f8a9730d:
 
     # "Her fingers are definitely longer than mine, the kind I'd think more suited to a pianist than a teacher. She'd likely have done well if she'd learned how to play."
-    "她的手指一定比我的長，是那種給我感覺更適合當鋼琴家而不是老師的手指。她要是學鋼琴的話一定能學得很好。"
+    "她的手指一定比我的長，是那種給我感覺更適合當鋼琴家而不是老師的手指。她要是學鋼琴的話一定能彈得很好。"
 
 # game/script-a3-lilly.rpy:2533
 translate zh_hant a3_lilly_prelude_5d882c7c:
 
     # "We quickly dig into our meal, forks and knives clattering against plates."
-    "我們快速處理起各自面前的食物，刀叉敲在盤子上呤呤作響。"
+    "我們快速處理起各自面前的菜餚，刀叉敲在盤子上叮叮作響。"
 
 # game/script-a3-lilly.rpy:2535
 translate zh_hant a3_lilly_prelude_563591ad:
 
     # "None of us are particularly eager to speak while eating, Lilly altogether too reserved for such a thing, Hanako probably too shy to start conversation, and I too busy savoring the food."
-    "我們都不想在吃飯的時候講話。莉莉的修養和習慣讓她不能這麼做。華子則太膽小了，不知道怎麼挑起話頭。而我則忙著消滅我的食物。"
+    "我們都沒有很想在吃飯的時候講話。莉莉的修養和習慣讓她不能這麼做。華子則太膽小了，不知道怎麼挑起話頭。而我則忙著消滅我的食物。"
 
 # game/script-a3-lilly.rpy:2537
 translate zh_hant a3_lilly_prelude_a03380b0:
@@ -4138,13 +4138,13 @@ translate zh_hant a3_lilly_prelude_a03380b0:
 translate zh_hant a3_lilly_prelude_6b16ca5b:
 
     # "Just the three of us, sitting around a single table eating as if we were a malformed family. Maybe this trip, as far away from everything as we are, was worth it."
-    "就我們三個，坐在一張桌旁吃飯，就像一個畸形的家庭。也許這次旅行，雖然地點在遠離一切，也是值得的。"
+    "就我們三個，坐在一張桌旁吃飯，就像一個畸形的家庭。也許這次旅行，雖然地點遠一些，也是值得的。"
 
 # game/script-a3-lilly.rpy:2543
 translate zh_hant a3_lilly_prelude_85a00400:
 
     # "It takes quite a long time, but eventually we all finish our surprisingly filling meal. The wine, thankfully, has little effect given we've only had a glass or two each."
-    "我們花了好一會才吃完這頓量意外的大的飯。謝天謝地，我們只喝了一兩杯酒，所以沒受太大影響。"
+    "我們花了好一會才吃完這頓意外大份量的中餐。謝天謝地，我們只喝了一兩杯酒，所以沒受太大影響。"
 
 # game/script-a3-lilly.rpy:2545
 translate zh_hant a3_lilly_prelude_dc186895:
@@ -4210,7 +4210,7 @@ translate zh_hant a3_lilly_prelude_c9f3521f:
 translate zh_hant a3_lilly_prelude_1426f22a:
 
     # "I guess I should have expected two girls to take a holiday as an excuse to go shopping, no matter where on the planet they may be."
-    "我就該猜到她們會趁著休假去購物。女人真是不管走到天涯海角也不會忘了這個。"
+    "我就該猜到她們會趁著休假去購物。女人真是不管走到天涯海角也不會忘了購物。"
 
 # game/script-a3-lilly.rpy:2586
 translate zh_hant a3_lilly_prelude_17f22e84:
@@ -4234,7 +4234,7 @@ translate zh_hant a3_lilly_prelude_283b4fe6:
 translate zh_hant a3_lilly_prelude_61def393:
 
     # hi "Nearby, huh? Great."
-    hi "‘附近’是吧？不錯。"
+    hi "”附近“是吧？不錯。"
 
 # game/script-a3-lilly.rpy:2599
 translate zh_hant a3_lilly_prelude_38d01d9c:
@@ -4246,13 +4246,13 @@ translate zh_hant a3_lilly_prelude_38d01d9c:
 translate zh_hant a3_lilly_prelude_9a22eaa2:
 
     # "As we climb up the path surrounded by trees and undergrowth, I watch Lilly and Hanako walking ahead."
-    "當我們爬上被樹和灌木圍繞著的小路，我看著莉莉和華子走在前面。"
+    "我跟在莉莉和華子後面，走在被樹林和灌木圍繞著的小路。"
 
 # game/script-a3-lilly.rpy:2610
 translate zh_hant a3_lilly_prelude_aca485a2:
 
     # "The slight breeze all but whisks away the sound of Lilly's cane gently tapping on the ground. I notice that Lilly's since removed the bandaid now that the bleeding of her finger has stopped."
-    "清風拂過，幾乎帶走了莉莉手杖點地的聲音。我注意到莉莉一等血止住就揭掉了創口貼。"
+    "一陣風徐徐吹過，幾乎把莉莉手杖的聲音藏了起來。我注意到莉莉一等血止住就撕掉了OK繃。"
 
 # game/script-a3-lilly.rpy:2612
 translate zh_hant a3_lilly_prelude_dc3dce3e:
@@ -4264,13 +4264,13 @@ translate zh_hant a3_lilly_prelude_dc3dce3e:
 translate zh_hant a3_lilly_prelude_5128c349:
 
     # "It can't have even been half a mile, but I'm already working up a sweat. It isn't a pleasantly cool day, though, so I shouldn't be too hard on myself for it."
-    "我們肯定連半英里都還沒走到，但是我已經開始出汗了。當然今天也不是很涼爽，我不應該因為這種事太怪我自己。"
+    "我們肯定連半英里都還沒走到，但是我已經開始出汗了。當然今天也不是非常冷，我不應該因為這種事責怪自己。"
 
 # game/script-a3-lilly.rpy:2616
 translate zh_hant a3_lilly_prelude_762fff19:
 
     # hi "Hey Lilly, how well do you know this town, anyway?"
-    hi "嘿，莉莉！你對這個鎮子到底有多熟？"
+    hi "嘿，莉莉！妳對這個鎮子有多熟？"
 
 # game/script-a3-lilly.rpy:2622
 translate zh_hant a3_lilly_prelude_83e2f0f4:
@@ -4288,7 +4288,7 @@ translate zh_hant a3_lilly_prelude_e1f4fa43:
 translate zh_hant a3_lilly_prelude_fd6752e8:
 
     # "I quickly take a moment to rub my hands a couple of times, staving off the oddly cold feeling in them."
-    "我迅速花了點時間搓了搓手掌，搓掉手上那種莫名的冷意。"
+    "我迅速花了點時間搓了搓手掌，搓掉手上那種莫名的寒意。"
 
 # game/script-a3-lilly.rpy:2628
 translate zh_hant a3_lilly_prelude_0d310642:
@@ -4312,7 +4312,7 @@ translate zh_hant a3_lilly_prelude_035c0a14:
 translate zh_hant a3_lilly_prelude_0bee280c:
 
     # hi "Well, quiet certainly describes this place."
-    hi "好吧，謝謝你的介紹。"
+    hi "好吧，謝謝妳的介紹。"
 
 # game/script-a3-lilly.rpy:2640
 translate zh_hant a3_lilly_prelude_1a37661a:
@@ -4336,7 +4336,7 @@ translate zh_hant a3_lilly_prelude_b3daa4d2:
 translate zh_hant a3_lilly_prelude_8006aeec:
 
     # "After getting accustomed to the school's isolation, though, the idea of living in a place such as this has become almost inviting. To be somewhere away from the hustle and bustle of the metropolitan centers."
-    "不過自從習慣了與世隔絕的學校之後，能遠離都市的嘈雜和喧鬧住在這種地方，開始變得像個好主意起來。"
+    "不過自從習慣了與世隔絕的學校之後，能遠離都市的嘈雜和喧鬧住在這種地方，開始變得像個不錯的主意。"
 
 # game/script-a3-lilly.rpy:2651
 translate zh_hant a3_lilly_prelude_92e6d060:
@@ -4348,7 +4348,7 @@ translate zh_hant a3_lilly_prelude_92e6d060:
 translate zh_hant a3_lilly_prelude_28eaaa75:
 
     # hi "Nah. I used to live down south, and we never had any field trips or holidays up this far."
-    hi "沒。我住在南方。無論是修學旅行還是放假，我都沒來過這麼遠的地方。"
+    hi "沒。我住在南方。無論是學校旅行還是放假，我都沒來過這麼遠的地方。"
 
 # game/script-a3-lilly.rpy:2658
 translate zh_hant a3_lilly_prelude_d4aed074:
@@ -4384,13 +4384,13 @@ translate zh_hant a3_lilly_prelude_d75e7af4:
 translate zh_hant a3_lilly_prelude_7d843ef3:
 
     # "As we continue walking, I begin to feel pins and needles in my legs. It's a little disturbing, given there's no reason for it to be happening."
-    "隨著我們繼續前進，我開始覺得彷彿有針在扎著我的腿。這有點令人不安，考慮到這根本沒理由發生。"
+    "隨著我們繼續前進，我開始覺得彷彿有針在扎著我的腿。這有點令人不安，考慮到這根本沒理由。"
 
 # game/script-a3-lilly.rpy:2683
 translate zh_hant a3_lilly_prelude_2ecfedf1:
 
     # hi "Could you two hold on a moment? I just need to…"
-    hi "你們倆能等會嗎？我需要……"
+    hi "妳們倆能等會嗎？我需要……"
 
 # game/script-a3-lilly.rpy:2688
 translate zh_hant a3_lilly_prelude_6965b05b:
@@ -4576,7 +4576,7 @@ translate zh_hant a3_lilly_crescendo_050fedd7:
 translate zh_hant a3_lilly_crescendo_3d128fec:
 
     # "I can only remember each period of time as a snapshot, but the timeline is clear enough. The memory of the girls' faces as I struggled to stand is an unpleasant one, stinging my feelings harshly."
-    "每段場景我都只能回想起一個畫面，但是整個時間線足夠清晰。記憶中女孩們看我試著站起來時候擔心的臉讓我覺得不舒服，刺痛著我。"
+    "每段場景我都只能回想起一個畫面，但是整個時間線足夠清晰。女孩們看我試圖站起來時擔心的臉讓我覺得不舒服，刺痛著我。"
 
 # game/script-a3-lilly.rpy:2855
 translate zh_hant a3_lilly_crescendo_89080086:
@@ -4588,7 +4588,7 @@ translate zh_hant a3_lilly_crescendo_89080086:
 translate zh_hant a3_lilly_crescendo_11b3cc22:
 
     # "I scratch the back of my disheveled hair, glancing around the room. Lilly and Hanako are nowhere to be seen, and the television's turned off."
-    "我撓著鳥窩一般的頭髮，環視著房間。莉莉和華子都不在，電視也關掉了。"
+    "我抓了抓鳥窩一般的頭髮，環視著房間。莉莉和華子都不在，電視也關掉了。"
 
 # game/script-a3-lilly.rpy:2859
 translate zh_hant a3_lilly_crescendo_ea46cb91:
@@ -4600,7 +4600,7 @@ translate zh_hant a3_lilly_crescendo_ea46cb91:
 translate zh_hant a3_lilly_crescendo_66b1c6eb:
 
     # "I turn and pick myself off the futon, swaying slightly as I put my arms out for balance. I suppose I'd better go look for the girls to see if they're… all right…"
-    "我從被窩裡翻身戰起來。我搖晃了一下，趕緊伸出手臂保持平衡。我覺得我最好去找她們，看她們是否……沒事……"
+    "我從被窩裡翻身站了起來。搖晃了一下，趕緊伸手保持平衡。我覺得我最好去找她們，看她們是否……沒事……"
 
 # game/script-a3-lilly.rpy:2863
 translate zh_hant a3_lilly_crescendo_5a62ab18:
@@ -4636,7 +4636,7 @@ translate zh_hant a3_lilly_crescendo_ba515864:
 translate zh_hant a3_lilly_crescendo_75b84c5d:
 
     # "Regardless, my eyes stay fixed ahead, true to that solitary figure. Within minutes I reach her, meters behind her turned back."
-    "我的目光堅定地對著那孤單的身影。我幾分鐘就走到了她身後，在離她幾米的地方停了下來。"
+    "我的目光堅定地跟著那孤單的身影。幾分鐘我走到了她身後，在離她幾米的地方停了下來。"
 
 # game/script-a3-lilly.rpy:2883
 translate zh_hant a3_lilly_crescendo_2eecae53:
@@ -4690,7 +4690,7 @@ translate zh_hant a3_lilly_crescendo_5212317c:
 translate zh_hant a3_lilly_crescendo_f2d65ab3:
 
     # hi "What's wrong, Lilly? You're not acting like you usually do."
-    hi "有什麼不對嗎，莉莉？你和平常有點不一樣。"
+    hi "有什麼不對嗎，莉莉？妳和平常有點不一樣。"
 
 # game/script-a3-lilly.rpy:2911
 translate zh_hant a3_lilly_crescendo_e167c90e:
@@ -4702,7 +4702,7 @@ translate zh_hant a3_lilly_crescendo_e167c90e:
 translate zh_hant a3_lilly_crescendo_61a65173:
 
     # hi "Your family…"
-    hi "你的家庭……"
+    hi "妳的家庭……"
 
 # game/script-a3-lilly.rpy:2915
 translate zh_hant a3_lilly_crescendo_0d8da431:
@@ -4756,7 +4756,7 @@ translate zh_hant a3_lilly_crescendo_46d280c3:
 translate zh_hant a3_lilly_crescendo_9555ea1d:
 
     # hi "I'm sorry, Lilly. I know my body's weak, but even then I make the most stupid of mistakes."
-    hi "對不起，莉莉。我知道我的身體很虛弱，還這麼不小心。"
+    hi "對不起，莉莉。我知道我的身體很脆弱，還這麼不小心。"
 
 # game/script-a3-lilly.rpy:2947
 translate zh_hant a3_lilly_crescendo_069feb53:
@@ -4780,7 +4780,7 @@ translate zh_hant a3_lilly_crescendo_e84e5f65:
 translate zh_hant a3_lilly_crescendo_67a65c3a:
 
     # "One misguided step after another she stumbles towards me, her arms held out in search of so much as a faint brush against me."
-    "盲目的一步接著一步，她磕磕絆絆地向我走來，伸出手臂不停地探尋著，直到輕輕劃過我的身體。"
+    "她一步步蹣跚向我走來，每一步都顯得迷亂而無助。她伸出雙臂，仿若只為尋求與我那麼一縷輕微的觸碰。"
 
 # game/script-a3-lilly.rpy:2972
 translate zh_hant a3_lilly_crescendo_58a953e3:
@@ -4852,13 +4852,13 @@ translate zh_hant a3_lilly_crescendo_ddcaf6a8:
 translate zh_hant a3_lilly_crescendo_af599b1c:
 
     # hi "I'm still here, and I'll always be here, because I want to see you more each day. To share in your happiness, to support you in your sadness…"
-    hi "我還在這裡，並且我會一直在你身邊。因為我每天都在變得更想見到你，和你同甘共苦……"
+    hi "我還在這裡，並且我會一直在妳身邊。因為我每天都變得更想見到妳，和妳同甘共苦……"
 
 # game/script-a3-lilly.rpy:2996
 translate zh_hant a3_lilly_crescendo_678e2238:
 
     # hi "But most of all, I'll still be here because I want to see your smile. Your true smile."
-    hi "最重要的是，我想看到你的笑容。你真心的笑容。"
+    hi "最重要的是，我想看到妳的笑容。妳真心的笑容。"
 
 # game/script-a3-lilly.rpy:2998
 translate zh_hant a3_lilly_crescendo_c459daad:
@@ -4870,7 +4870,7 @@ translate zh_hant a3_lilly_crescendo_c459daad:
 translate zh_hant a3_lilly_crescendo_8a63b410:
 
     # hi "Smile when you want to smile. Cry when you want to cry. I love you, Lilly. So you don't have to hold back any more."
-    hi "想笑時便笑。想哭時便哭。我愛你，莉莉。所以你不用再隱藏你的感情了。"
+    hi "想笑時便笑。想哭時便哭。我愛妳，莉莉。所以妳不用再隱藏妳的感情了。"
 
 # game/script-a3-lilly.rpy:3002
 translate zh_hant a3_lilly_crescendo_61af76c6:
@@ -4900,7 +4900,7 @@ translate zh_hant a3_lilly_crescendo_f2b19ae0:
 translate zh_hant a3_lilly_crescendo_07bcf40c:
 
     # hi "It's okay, Lilly. I'll never go away."
-    hi "沒事的，莉莉。我絕不會丟下你的。"
+    hi "沒事的，莉莉。我絕不會丟下妳的。"
 
 # game/script-a3-lilly.rpy:3017
 translate zh_hant a3_lilly_crescendo_4d336ac5:
@@ -4960,7 +4960,7 @@ translate zh_hant a3_lilly_diminuendo_446c0956:
 translate zh_hant a3_lilly_diminuendo_4351411a:
 
     # hi "Did you think I wouldn't?"
-    hi "你以為我不會？"
+    hi "妳以為我不會？"
 
 # game/script-a3-lilly.rpy:3057
 translate zh_hant a3_lilly_diminuendo_2b6b6dd9:
@@ -4978,13 +4978,13 @@ translate zh_hant a3_lilly_diminuendo_598a1abb:
 translate zh_hant a3_lilly_diminuendo_e00b0d13:
 
     # hi "It's funny, actually. I was thinking of telling you about my own feelings sometime soon."
-    hi "說來也巧。其實我也在想要不要告訴你我對你的感情。"
+    hi "說來也巧。其實我也在想要不要告訴妳我對妳的感情。"
 
 # game/script-a3-lilly.rpy:3063
 translate zh_hant a3_lilly_diminuendo_1c1a30c9:
 
     # hi "I guess, in that way, you saved me the effort."
-    hi "我猜，你替我省了麻煩。"
+    hi "我猜，妳替我省了麻煩。"
 
 # game/script-a3-lilly.rpy:3068
 translate zh_hant a3_lilly_diminuendo_e3c4ac26:
@@ -5014,7 +5014,7 @@ translate zh_hant a3_lilly_diminuendo_b7316d6e:
 translate zh_hant a3_lilly_diminuendo_710d8c03:
 
     # hi "I'm sorry I'm like this. As much as I didn't want to make you concerned for me, I couldn't do anything to prevent it."
-    hi "我對我現在的狀況很抱歉。我不想讓你擔心我，但我什麼也做不到。"
+    hi "我對我現在的狀況很抱歉。我不想讓妳擔心我，但我什麼也做不到。"
 
 # game/script-a3-lilly.rpy:3087
 translate zh_hant a3_lilly_diminuendo_2909f8c6:
@@ -5032,13 +5032,13 @@ translate zh_hant a3_lilly_diminuendo_2eecae53:
 translate zh_hant a3_lilly_diminuendo_d8d884a7:
 
     # li "Have I ever apologized for my blindness, even once? You can't help the way you were born, Hisao. There's no point in apologizing for who you are."
-    li "我為我的看不見道過歉嗎？你不能決定你生下來是什麼樣子，久夫。為這種事道歉沒有意義。"
+    li "我為我看不見道過歉嗎？你不能決定你生下來是什麼樣子，久夫。為這種事道歉沒有意義。"
 
 # game/script-a3-lilly.rpy:3096
 translate zh_hant a3_lilly_diminuendo_0647f01c:
 
     # "She says this with surprising conviction. In the end, it was perhaps this mentality which spurred her to befriend me in such a short time, in addition to her motherly instincts."
-    "她的說法出人意料的令人信服。說到底，可能就是這種思想讓她讓她在短時間內和我成了朋友，此外還有她的母性。"
+    "她的說法出人意料的有說服力。說到底，可能就是這種思想讓她讓她在短時間內和我成了朋友，此外還有她的母性。"
 
 # game/script-a3-lilly.rpy:3098
 translate zh_hant a3_lilly_diminuendo_dd8742a8:
@@ -5206,13 +5206,13 @@ translate zh_hant a3_lilly_diminuendo_6271ed6a:
 translate zh_hant a3_lilly_diminuendo_1ffeeba8:
 
     # "Now that she mentions it, this futon would be a bit too narrow to do much on. Considering the thoughts running through both our minds, it's no small wonder one of us has any measure of foresight left."
-    "經她這麼一提，這沙發椅對於要做點什麼的我們來說確實太窄小了。不過考慮到我們現在都是慾火焚身，她還能想到這一點真是讓我吃驚不小。"
+    "既然她這麼一提，確實——這張被褥的寬度實在太窄，能做的事情也有限。想到我們倆此刻都是慾火焚身，能還保持一點理智，已經算是奇蹟了。"
 
 # game/script-a3-lilly.rpy:3199
 translate zh_hant a3_lilly_diminuendo_b001ce11:
 
     # "I take her hands and guide her sideways as I move, the brief and awkward dance ending with both of us tentatively sitting on the floor opposite each other."
-    "我握住她的手，一邊往旁邊走一邊為她指引方向。這短暫而尷尬的雙人舞以我倆坐在地板上，試探地對著對方結束。"
+    "我握住她的手，輕輕引導她隨著我的動作側身移動。這場短暫而略顯笨拙的舞步最終結束，兩人小心翼翼地相對而坐。"
 
 # game/script-a3-lilly.rpy:3201
 translate zh_hant a3_lilly_diminuendo_a39a269b:
@@ -5404,7 +5404,7 @@ translate zh_hant a3_lilly_diminuendo_69e08117:
 translate zh_hant a3_lilly_diminuendo_2db412a9:
 
     # "Those words bother me beyond what is rational. Lilly's face breaks my heart more than even her words possibly could, yet I don't even know the answer to her question."
-    "這話讓我覺得到了超乎理性的不舒服。而莉莉的臉更是比她的話千百倍地讓我心碎，但我又想不出一句話來回答她。"
+    "那句話讓我心神不寧，遠超出理性所能解釋的程度。而莉莉的臉更是比她的話千百倍地讓我心碎，但我又想不出一句話來回答她。"
 
 # game/script-a3-lilly.rpy:3302
 translate zh_hant a3_lilly_diminuendo_fb6a8b58:
@@ -5554,7 +5554,7 @@ translate zh_hant a3_lilly_diminuendo_93e43b8d:
 translate zh_hant a3_lilly_diminuendo_55c0f5e5:
 
     # li "I… it's okay… I'm okay."
-    li "沒……沒事……我能行。"
+    li "沒……沒事……我可以。"
 
 # game/script-a3-lilly.rpy:3387
 translate zh_hant a3_lilly_diminuendo_7fe58880:
@@ -5590,7 +5590,7 @@ translate zh_hant a3_lilly_diminuendo_5521aef1:
 translate zh_hant a3_lilly_diminuendo_5806e9ad:
 
     # hi "I love you… Lilly…"
-    hi "我愛你……莉莉……"
+    hi "我愛妳……莉莉……"
 
 # game/script-a3-lilly.rpy:3405
 translate zh_hant a3_lilly_diminuendo_ffddda04:
@@ -5602,7 +5602,7 @@ translate zh_hant a3_lilly_diminuendo_ffddda04:
 translate zh_hant a3_lilly_diminuendo_50a6cb9e:
 
     # "I can feel her body tensing, her breathing and movements becoming steadily less carefully controlled. I'm happy to be making her feel so good, but as my thoughts become increasingly focused, I can feel myself rapidly nearing my limit."
-    "我可以感覺到她的身體繃緊，她對呼吸和動作變得不那麼仔細。我很高興我能讓她這麼舒服，但我的思想變得越來越集中，我也要到極限了。"
+    "我可以感覺到她的身體繃緊，她的呼吸和動作變得不那麼仔細。我很高興我能讓她這麼舒服，但我的思緒變得越來越集中，我也要到極限了。"
 
 # game/script-a3-lilly.rpy:3412
 translate zh_hant a3_lilly_diminuendo_57289b6b:
@@ -5644,7 +5644,7 @@ translate zh_hant a3_lilly_diminuendo_174ca5d5:
 translate zh_hant a3_lilly_diminuendo_cea4921d_1:
 
     # hi "I love you, Lilly."
-    hi "我愛你，莉莉。"
+    hi "我愛妳，莉莉。"
 
 # game/script-a3-lilly.rpy:3432
 translate zh_hant a3_lilly_diminuendo_1fe70588:
@@ -5668,7 +5668,7 @@ translate zh_hant a3_lilly_gray_outlook_fa724298:
 translate zh_hant a3_lilly_gray_outlook_b30fdd9c:
 
     # "I sit up in the futon, holding the back of my neck to try and subdue the pain from my awkward sleeping position."
-    "我從沙發床上坐了起來，用手揉著頸背，試圖減輕我的不雅睡姿所造成的痛苦。"
+    "我從被褥裡坐起來，用手揉著頸背，試圖減輕我的不雅睡姿所造成的痛苦。"
 
 # game/script-a3-lilly.rpy:3457
 translate zh_hant a3_lilly_gray_outlook_2387292a:
@@ -5680,7 +5680,7 @@ translate zh_hant a3_lilly_gray_outlook_2387292a:
 translate zh_hant a3_lilly_gray_outlook_f99a61d6:
 
     # "The feeling of holding Lilly's crying body in my arms. The rush of lust and hormones that flowed through us as we spent the night together. It seems almost futile to try and rationalize everything that happened."
-    "臂彎中環抱莉莉哭泣的身軀的感覺，身體中激盪的慾望和情感——要想理清發生的一切完全是徒勞的。"
+    "懷中摟著莉莉顫抖啜泣的身軀，那份真切的感覺；還有那一夜裡在我們之間奔湧的慾望和情感——此刻回想起來，似乎再怎麼試圖用理性去解釋，都顯得徒勞無功。"
 
 # game/script-a3-lilly.rpy:3461
 translate zh_hant a3_lilly_gray_outlook_1d7cc4ac:
@@ -5790,7 +5790,7 @@ translate zh_hant a3_lilly_gray_outlook_5c514a35:
 translate zh_hant a3_lilly_gray_outlook_77137d31:
 
     # "Walking, no, staggering in behind Hanako is the familiar figure of Lilly, also dressed in her pajamas. With her eyes full of sleep and hair bedraggled, she's a sight to behold."
-    "跟在華子後面走，不，蹣跚而入的是莉莉熟悉的身影。她也穿著睡衣，滿眼睡意，披頭散髮。她這樣子也算得上是一景。"
+    "跟在華子後面走，不，蹣跚而來的是莉莉熟悉的身影。她也穿著睡衣，滿眼睡意，披頭散髮。她這樣子也算得上是一景。"
 
 # game/script-a3-lilly.rpy:3530
 translate zh_hant a3_lilly_gray_outlook_4d5294c9:
@@ -5862,7 +5862,7 @@ translate zh_hant a3_lilly_gray_outlook_39a4d067:
 translate zh_hant a3_lilly_gray_outlook_f5015ab4:
 
     # hi "Are you okay, Lilly? After last night…"
-    hi "你還好嗎，莉莉？昨天晚上……"
+    hi "妳還好嗎，莉莉？昨天晚上……"
 
 # game/script-a3-lilly.rpy:3568
 translate zh_hant a3_lilly_gray_outlook_04cd878d:
@@ -5874,7 +5874,7 @@ translate zh_hant a3_lilly_gray_outlook_04cd878d:
 translate zh_hant a3_lilly_gray_outlook_18b019b4:
 
     # "Though her tiredness surely plays a part, she seems genuinely unsure about what's happened between us, and how to move ahead. I can't say I blame her, considering my feelings are the same."
-    "雖然她的疲倦也是一個原因，不過更多的是她似乎著實不太清楚我們之間發生的事，也不太清楚該如何繼續。我不能說我怪她，因為我的感覺也是一樣。"
+    "雖然她的疲倦也是一個原因，不過更多的是她似乎沒有很清楚我們之間發生的事，也不太清楚該如何繼續。我不能說我怪她，因為我的感覺也是一樣。"
 
 # game/script-a3-lilly.rpy:3575
 translate zh_hant a3_lilly_gray_outlook_0ebe277e:
@@ -5886,13 +5886,13 @@ translate zh_hant a3_lilly_gray_outlook_0ebe277e:
 translate zh_hant a3_lilly_gray_outlook_f4a6a6bc:
 
     # "She's winding herself up. With her hands and voice both tightening, I give her a gentle bump to try and lighten up the situation."
-    "她蜷縮起來，雙手和聲音都變得緊張，我輕輕敲了她一下試著緩解緊張的氣氛。"
+    "她蜷縮起來，雙手和聲音都變得緊張，我輕輕拍了她一下試著緩解緊張的氣氛。"
 
 # game/script-a3-lilly.rpy:3579
 translate zh_hant a3_lilly_gray_outlook_c7c8d84b:
 
     # hi "You don't have to apologize. I said I liked you as well, after all."
-    hi "你用不著道歉。不管怎麼說，我說了我也喜歡你的。"
+    hi "妳用不著道歉。不管怎麼說，我說了我也喜歡妳的。"
 
 # game/script-a3-lilly.rpy:3584
 translate zh_hant a3_lilly_gray_outlook_87c34db5:
@@ -5946,7 +5946,7 @@ translate zh_hant a3_lilly_gray_outlook_5e04a1b9:
 translate zh_hant a3_lilly_gray_outlook_08e54d8d:
 
     # "She solemnly nods, gently laying her spoon onto the plate in front of her. Neither of us knows exactly how we regard each other, let alone how Hanako would view us."
-    "她鄭重地點了點頭，把勺子輕輕放在她面前的盤子上。連我們自己都不太清楚我們對互相的看法，更別說華子是怎麼看我們的了。"
+    "她鄭重地點了點頭，把勺子輕輕放在她面前的盤子上。連我們自己都不太清楚我們對彼此的看法，更別說華子是怎麼看我們的了。"
 
 # game/script-a3-lilly.rpy:3633
 translate zh_hant a3_lilly_gray_outlook_f855f278:
@@ -5958,7 +5958,7 @@ translate zh_hant a3_lilly_gray_outlook_f855f278:
 translate zh_hant a3_lilly_gray_outlook_8e99f27f:
 
     # "For a moment, Hanako looks almost confused; precisely the reaction I'd thought she would have. She eventually nods, her spoon still in her mouth as she does."
-    "華子看上去有點迷糊，和我預期的反應一模一樣。不過她最終還是點了點頭，嘴裡還含著勺子呢。"
+    "華子看上去有點迷糊，和我預期的反應一模一樣。不過她最終還是點了點頭，嘴裡還含著湯匙。"
 
 # game/script-a3-lilly.rpy:3643
 translate zh_hant a3_lilly_gray_outlook_ee42563e:
@@ -5988,7 +5988,7 @@ translate zh_hant a3_lilly_gray_outlook_f975527a:
 translate zh_hant a3_lilly_gray_outlook_5888dca1:
 
     # li "I'm sorry for not telling you anything about it before. Things have been…"
-    li "很抱歉之前我什麼也沒告訴你，事情……"
+    li "很抱歉之前我什麼也沒告訴妳，事情……"
 
 # game/script-a3-lilly.rpy:3661
 translate zh_hant a3_lilly_gray_outlook_05eb7eb8:
@@ -6006,7 +6006,7 @@ translate zh_hant a3_lilly_gray_outlook_61787ea8:
 translate zh_hant a3_lilly_gray_outlook_ca048762:
 
     # ha "To be honest, I began to think you might like each other a while ago. At first I didn't really know what to think about it… but I…"
-    ha "說實話，我早就注意到你們可能喜歡上對方了。一開始我不知道該怎麼辦好……不過，我……"
+    ha "說實話，我早就注意到妳們可能喜歡上對方了。一開始我不知道該怎麼辦好……不過，我……"
 
 # game/script-a3-lilly.rpy:3673
 translate zh_hant a3_lilly_gray_outlook_6203cc6e:
@@ -6018,7 +6018,7 @@ translate zh_hant a3_lilly_gray_outlook_6203cc6e:
 translate zh_hant a3_lilly_gray_outlook_83107b8d:
 
     # ha "I was really glad to have another friend when we met Hisao, so you finding love through him is even better… right?"
-    ha "當我們遇上久夫的時我很開心有了另一個朋友，你在他身上找到了愛，那就更好了……對吧？"
+    ha "當我們遇上久夫的時我很開心有了另一個朋友，妳在他身上找到了愛，那就更好了……對吧？"
 
 # game/script-a3-lilly.rpy:3677
 translate zh_hant a3_lilly_gray_outlook_c3189320:
@@ -6030,7 +6030,7 @@ translate zh_hant a3_lilly_gray_outlook_c3189320:
 translate zh_hant a3_lilly_gray_outlook_b07e36e4:
 
     # li "Thank you, Hanako. I really appreciate you being so understanding."
-    li "謝謝你，華子。你能理解我真是太感謝了。"
+    li "謝謝你，華子。妳能理解我真是太感謝了。"
 
 # game/script-a3-lilly.rpy:3687
 translate zh_hant a3_lilly_gray_outlook_1a73e217:
@@ -6078,13 +6078,13 @@ translate zh_hant a3_lilly_gray_outlook_16185b69:
 translate zh_hant a3_lilly_gray_outlook_ab0ee8fe:
 
     # "I suppose that might well be the best way to describe the relationship we share. A father, mother and daughter, all playing around in our little make-believe family as if it could last forever."
-    "我想這大概就是對我們的關係的最好描述了。父親、母親和女兒，玩著他們以為可以一直持續下去的過家家遊戲。"
+    "我想這大概就是對我們的關係的最好描述了。父親、母親和女兒，扮著他們以為可以一直持續下去的家家酒。"
 
 # game/script-a3-lilly.rpy:3722
 translate zh_hant a3_lilly_gray_outlook_c65e3000:
 
     # "It might be a strange dynamic, and one that certainly can't last for long… but maybe, just for this one small moment, it's okay."
-    "這也許是一個沒法持續多久的動態平衡……不過，就現在看來，一切都挺好的。"
+    "這也許是一個沒法持續很久的動態平衡……不過，就現在看來，一切都挺好的。"
 
 # game/script-a3-lilly.rpy:3724
 translate zh_hant a3_lilly_gray_outlook_89bb3162:
@@ -6108,7 +6108,7 @@ translate zh_hant a3_lilly_rhapsody_in_blue_f5f687cb:
 translate zh_hant a3_lilly_rhapsody_in_blue_25d6306b:
 
     # "I have no idea how long it's been since I had a genuine hot bath, but right now I can hardly be bothered trying to remember."
-    "我都不記得我有多久沒像這樣好好洗個熱水澡了，不過現在這樣舒服，我也懶得去回憶了。"
+    "我都不記得我有多久沒像這樣好好洗個熱水澡了，不過現在這麼舒服，我也懶得去回想了。"
 
 # game/script-a3-lilly.rpy:3744
 translate zh_hant a3_lilly_rhapsody_in_blue_76b2fe88:
@@ -6120,25 +6120,25 @@ translate zh_hant a3_lilly_rhapsody_in_blue_76b2fe88:
 translate zh_hant a3_lilly_rhapsody_in_blue_81de881d:
 
     # n "Maybe I'm giving the simple fact that for once I get to have a real bath more credit than it's due; the chance to just calm down, allow myself to unwind and have some time to myself is a welcome one."
-    n "也許我把洗個熱水澡這件普通的事看得太高了，不過能有這樣讓自己平靜下來，獨自一人沉浸在回憶裡的機會確實是一件好事。"
+    n "也許我把洗個熱水澡這件普通的事看得太高了，不過能有這樣讓自己平靜下來，獨自一人沉浸在回憶裡的機會，確實是一件好事。"
 
 # game/script-a3-lilly.rpy:3749
 translate zh_hant a3_lilly_rhapsody_in_blue_70632b1b:
 
     # n "Hanako, Lilly and I wandered about outside, exploring the extent of the surprisingly large tract of land surrounding the house. Then we spent the majority of the afternoon resting, watching television, reading, and playing cards."
-    n "華子，莉莉和我在外面逛了會兒，探索著環繞著房子這一片出人意料地大的空地到底延伸到哪兒。然後我們把下午剩下來的時間花在了休息，看電視和打牌上。"
+    n "剛剛華子，莉莉和我在外面逛了會兒，探索著環繞著房子這一片出人意料地大的空地到底延伸到哪兒。然後我們把下午剩下來的時間花在了休息，看電視和打牌上。"
 
 # game/script-a3-lilly.rpy:3751
 translate zh_hant a3_lilly_rhapsody_in_blue_269ef718:
 
     # n "It may not have been the most exciting finale to the trip, but such tranquil peacefulness is something to savor. Even after we return to the school tomorrow, I think I'll remember this little house in Hokkaido for a long time."
-    n "作為旅行的結尾來說可能太平淡了，但這寧靜平和的氣氛也有它獨特的魅力。就算回到學校之後，北海道的這間小房子也會在我的記憶裡裡停留很久"
+    n "作為旅行的結尾來說可能太平淡了，但這寧靜平和的氣氛也有它獨特的魅力。就算回到學校之後，北海道的這間小房子也會一直留在我的記憶中"
 
 # game/script-a3-lilly.rpy:3753
 translate zh_hant a3_lilly_rhapsody_in_blue_19baac3a:
 
     # n "It's a pity we only have a couple more hours to spend here before going to get the train back."
-    n "雖然我們只能再一起待在這裡幾個小時就要坐上火車回家這件事實在太可惜了。"
+    n "真可惜，再過幾個小時我們就得去趕火車回去了。"
 
 # game/script-a3-lilly.rpy:3755
 translate zh_hant a3_lilly_rhapsody_in_blue_fa347bf4:
@@ -6150,19 +6150,19 @@ translate zh_hant a3_lilly_rhapsody_in_blue_fa347bf4:
 translate zh_hant a3_lilly_rhapsody_in_blue_68f552e1:
 
     # n "Our exams are imminent. I've barely studied at all for them."
-    n "我們馬上就要考試了。而我還幾乎沒有學習過。"
+    n "我們馬上就要考試了。而我的書幾乎都還沒有唸。"
 
 # game/script-a3-lilly.rpy:3759
 translate zh_hant a3_lilly_rhapsody_in_blue_0dbd0fef:
 
     # n "On top of that, I don't even know what I'll do after graduation. Passing exams is all well and good, but to what end?"
-    n "還得算上，我還不知道我畢業後該去幹什麼呢。通過考試是不錯，但又有什麼用呢？"
+    n "還得再算上，我還不知道我畢業之後該去幹什麼呢。通過考試是不錯，但又有什麼用呢？"
 
 # game/script-a3-lilly.rpy:3761
 translate zh_hant a3_lilly_rhapsody_in_blue_3553b764:
 
     # n "Also now, of all times, I'm getting into a relationship."
-    n "更要命的是，我還專挑這麼個時候，交上了女朋友。"
+    n "更要命的是，我還挑這種時間交了女朋友。"
 
 # game/script-a3-lilly.rpy:3763
 translate zh_hant a3_lilly_rhapsody_in_blue_76b2fe88_1:
@@ -6186,13 +6186,13 @@ translate zh_hant a3_lilly_rhapsody_in_blue_ce617998:
 translate zh_hant a3_lilly_rhapsody_in_blue_98e4d7a6:
 
     # "…I guess I shouldn't think like that. What's done is done, and maybe this could be viewed as just another aspect of my new life that I'm working on."
-    "……或許我不該這樣想。事情既然已經做了，那就應該把它看作我正在構築的新生活的一部分。"
+    "……或許我不該這樣想。事情既然已經做了，那就應該把它當作我正在構築的新生活的一部分。"
 
 # game/script-a3-lilly.rpy:3772
 translate zh_hant a3_lilly_rhapsody_in_blue_4f9eb757:
 
     # "I enjoy being with Lilly, and there's more to life than school and a career after all."
-    "我喜歡和莉莉在一起，再說生活也並不僅僅包括學校和工作。"
+    "我喜歡和莉莉在一起。再說生活也並不僅僅包括學校和工作。"
 
 # game/script-a3-lilly.rpy:3774
 translate zh_hant a3_lilly_rhapsody_in_blue_a1e74857:
@@ -6258,7 +6258,7 @@ translate zh_hant a3_lilly_rhapsody_in_blue_a7bf9adc:
 translate zh_hant a3_lilly_rhapsody_in_blue_d6acef30:
 
     # hi "Ah… h-hey… Lilly."
-    hi "啊……你-你好，莉莉"
+    hi "啊……妳-妳好，莉莉"
 
 # game/script-a3-lilly.rpy:3813
 translate zh_hant a3_lilly_rhapsody_in_blue_c4de9b48:
@@ -6282,7 +6282,7 @@ translate zh_hant a3_lilly_rhapsody_in_blue_b964ab81:
 translate zh_hant a3_lilly_rhapsody_in_blue_236167fb:
 
     # hi "I could do that for you, if you'd like."
-    hi "我可以幫你，如果你想的話。"
+    hi "我可以幫妳，如果妳想的話。"
 
 # game/script-a3-lilly.rpy:3827
 translate zh_hant a3_lilly_rhapsody_in_blue_be8b5d04:
@@ -6312,7 +6312,7 @@ translate zh_hant a3_lilly_rhapsody_in_blue_9cf967b8:
 translate zh_hant a3_lilly_rhapsody_in_blue_bbd4afc9:
 
     # "She continues undressing, her shirt and skirt falling to the floor and leaving her in her white lace bra and panties. Eventually, she stands bare in the center of the room."
-    "她繼續脫著衣服。她的襯衫和裙子落在了地上，現在她身上只剩她的花邊胸罩和內褲。最終，她光著身子站在房間中間。"
+    "她繼續脫著衣服。她的襯衫和裙子落在了地上，現在她身上只剩她的花邊胸罩和內褲。最終，她光著身子站在浴室中間。"
 
 # game/script-a3-lilly.rpy:3848
 translate zh_hant a3_lilly_rhapsody_in_blue_4f1f4bee:
@@ -6342,7 +6342,7 @@ translate zh_hant a3_lilly_rhapsody_in_blue_896f0785:
 translate zh_hant a3_lilly_rhapsody_in_blue_5c9c33ab:
 
     # hi "Give me a break, you're undressing in front of me."
-    hi "饒了我吧，你可是在我面前脫衣服啊。"
+    hi "饒了我吧，妳可是在我面前脫衣服啊。"
 
 # game/script-a3-lilly.rpy:3864
 translate zh_hant a3_lilly_rhapsody_in_blue_3988bb26:
@@ -6390,7 +6390,7 @@ translate zh_hant a3_lilly_rhapsody_in_blue_294c15f0:
 translate zh_hant a3_lilly_rhapsody_in_blue_7af97bfd:
 
     # hi "You're really beautiful, you know."
-    hi "你真是太美了，你知道嗎。"
+    hi "妳真是太美了，妳知道嗎。"
 
 # game/script-a3-lilly.rpy:3889
 translate zh_hant a3_lilly_rhapsody_in_blue_19721e17:
@@ -6444,7 +6444,7 @@ translate zh_hant a3_lilly_rhapsody_in_blue_7db3ae7a:
 translate zh_hant a3_lilly_rhapsody_in_blue_8deb949b:
 
     # "Far from missing the sight of her… assets, the feeling of her body against mine is surprisingly relaxing. If Lilly's so sensitive to touch, it must be all the more so for her."
-    "我根本無法不注意到她的……資本，她的身體靠在我身上的感覺真是出人意料得讓人放鬆。既然莉莉對觸覺這麼敏感，這對她來說肯定更是如此。"
+    "我倒不是在沒注意到她那誘人的身影，她那身體相貼時的觸感出人意料的令人放鬆。若莉莉對觸覺如此敏銳，對她而言這份感受必定更為強烈。"
 
 # game/script-a3-lilly.rpy:3916
 translate zh_hant a3_lilly_rhapsody_in_blue_921c45e7:
@@ -6522,7 +6522,7 @@ translate zh_hant a3_lilly_rhapsody_in_blue_9c46082f:
 translate zh_hant a3_lilly_rhapsody_in_blue_82eabebc:
 
     # hi "You know, compared to Akira, you look a lot more foreign."
-    hi "你知道嗎，跟晃比起來，你看起來更像外國人。"
+    hi "你知道嗎，跟晃比起來，妳看起來更像外國人。"
 
 # game/script-a3-lilly.rpy:3945
 translate zh_hant a3_lilly_rhapsody_in_blue_f04d49f9:
@@ -6534,7 +6534,7 @@ translate zh_hant a3_lilly_rhapsody_in_blue_f04d49f9:
 translate zh_hant a3_lilly_rhapsody_in_blue_2a3d429c:
 
     # hi "I guess that makes sense. How on Earth did a native Scot and a Japanese businessman meet, anyway?"
-    hi "聽起來挺有道理的。話說回來，一個日本商人是怎麼遇上一個本土蘇格蘭人的？"
+    hi "聽起來可以解釋。話說回來，一個日本商人是怎麼遇上一個本土蘇格蘭人的？"
 
 # game/script-a3-lilly.rpy:3949
 translate zh_hant a3_lilly_rhapsody_in_blue_14263ef7:
@@ -6546,7 +6546,7 @@ translate zh_hant a3_lilly_rhapsody_in_blue_14263ef7:
 translate zh_hant a3_lilly_rhapsody_in_blue_ec8251b0:
 
     # hi "Ah, I see. Taking after your Scottish side would also explain your height, I suppose."
-    hi "原來如此。這樣看來你的身高也是因為你的蘇格蘭血統吧。"
+    hi "原來如此。這樣看來妳的身高也是因為妳的蘇格蘭血統吧。"
 
 # game/script-a3-lilly.rpy:3953
 translate zh_hant a3_lilly_rhapsody_in_blue_ceebcdb0:
@@ -6558,13 +6558,13 @@ translate zh_hant a3_lilly_rhapsody_in_blue_ceebcdb0:
 translate zh_hant a3_lilly_rhapsody_in_blue_fef6acd1:
 
     # hi "This really is too much, isn't it?"
-    hi "這確實太過了，是吧？"
+    hi "這確實太超過了，是吧？"
 
 # game/script-a3-lilly.rpy:3960
 translate zh_hant a3_lilly_rhapsody_in_blue_5cdcf9b1:
 
     # li "You're enjoying it though, aren't you?"
-    li "你看起來倒挺享受的，不是嗎？"
+    li "你感覺倒挺享受的，不是嗎？"
 
 # game/script-a3-lilly.rpy:3962
 translate zh_hant a3_lilly_rhapsody_in_blue_d349c850:
@@ -6588,7 +6588,7 @@ translate zh_hant a3_lilly_rhapsody_in_blue_8a3846db:
 translate zh_hant a3_lilly_rhapsody_in_blue_63cf4dfc:
 
     # hi "Memories, huh? I suppose so. We'll have to see how everything goes once we get back, but for now… I'm just glad you like me."
-    hi "回憶，嗯？可以這麼說吧。還不知道我們回去之後會怎麼樣呢，不過就眼下來說……我只覺得你能喜歡上我真是太好了。"
+    hi "回憶，嗯？可以這麼說吧。還不知道我們回去之後會怎麼樣呢，不過就眼下來說……我只覺得妳能喜歡上我真是太好了。"
 
 # game/script-a3-lilly.rpy:3970
 translate zh_hant a3_lilly_rhapsody_in_blue_30d8646f:
@@ -6804,7 +6804,7 @@ translate zh_hant a3_lilly_rhapsody_in_blue_116d5b8e:
 translate zh_hant a3_lilly_the_momentary_present_ebd66ba2:
 
     # "After a chaotic dash to the station and finding our seats in the otherwise deserted carriage, we promptly crashed. Looking at the time - close to midnight - it's little surprise that few take this particular train."
-    "我們急匆匆地衝到火車站，在空蕩蕩的車廂裡找到了我們的座位，然後癱倒在上面。看看時間——都快到半夜了——怪不得沒人會坐這列火車。"
+    "我們匆匆忙忙地衝到火車站，在空蕩蕩的車廂裡找到了我們的座位，然後癱倒在上面。看看時間——都快到半夜了——怪不得沒人會坐這列火車。"
 
 # game/script-a3-lilly.rpy:4083
 translate zh_hant a3_lilly_the_momentary_present_bcf2e1c2:
@@ -6816,7 +6816,7 @@ translate zh_hant a3_lilly_the_momentary_present_bcf2e1c2:
 translate zh_hant a3_lilly_the_momentary_present_e37a8f91:
 
     # "I'd probably be pretty depressed about going back to school if my brain was actually working."
-    "如果現在我的大腦還能正常工作的話，我一定會對回學校這件事非常沮喪。"
+    "如果現在我的大腦還能正常工作的話，它一定會對回學校這件事非常沮喪。"
 
 # game/script-a3-lilly.rpy:4087
 translate zh_hant a3_lilly_the_momentary_present_d6701c5d:
@@ -6846,7 +6846,7 @@ translate zh_hant a3_lilly_the_momentary_present_e083d5a6:
 translate zh_hant a3_lilly_the_momentary_present_93e1b1fe:
 
     # "She really does toe the line between insulting and amusing sometimes, though I manage to wring out a weary smile."
-    "她有時候真是踩在責怪和打趣的邊界上，不過我還是擠出了一點疲憊的笑容。"
+    "她有時真是遊走在惹人發笑與令人無語的界線上，不過我還是勉強擠出了一個疲憊的微笑。"
 
 # game/script-a3-lilly.rpy:4102
 translate zh_hant a3_lilly_the_momentary_present_431dcfae:
@@ -6894,7 +6894,7 @@ translate zh_hant a3_lilly_the_momentary_present_171c5cf5:
 translate zh_hant a3_lilly_the_momentary_present_2be74d2c:
 
     # hi "Say it."
-    hi "說老實話。"
+    hi "說實話。"
 
 # game/script-a3-lilly.rpy:4124
 translate zh_hant a3_lilly_the_momentary_present_3cc5728a:
@@ -6906,25 +6906,25 @@ translate zh_hant a3_lilly_the_momentary_present_3cc5728a:
 translate zh_hant a3_lilly_the_momentary_present_8fdff32c:
 
     # hi "I knew it. You're just as dirty-minded as I am."
-    hi "我就知道！你的思想比我純潔不到哪去。"
+    hi "我就知道！妳的思想比我純潔不到哪去。"
 
 # game/script-a3-lilly.rpy:4128
 translate zh_hant a3_lilly_the_momentary_present_d9eaa75f:
 
     # "She quickly coughs into her free hand, making her disapproval crystal clear."
-    "她對著自己的手咳嗽了一下，以示抗議。"
+    "她迅速掩嘴咳嗽了一下，以示抗議。"
 
 # game/script-a3-lilly.rpy:4133
 translate zh_hant a3_lilly_the_momentary_present_97d1188c:
 
     # li "That's a rather crude way of putting it."
-    li "這種說法也太粗了。"
+    li "這種說法也太粗俗了。"
 
 # game/script-a3-lilly.rpy:4135
 translate zh_hant a3_lilly_the_momentary_present_d07e663f:
 
     # hi "Oh? And you would suggest?"
-    hi "嗯？那你要我怎麼說？"
+    hi "嗯？那妳覺得要怎麼說？"
 
 # game/script-a3-lilly.rpy:4137
 translate zh_hant a3_lilly_the_momentary_present_91387464:
@@ -6972,7 +6972,7 @@ translate zh_hant a3_lilly_the_momentary_present_9939254f:
 translate zh_hant a3_lilly_the_momentary_present_e0a44abf:
 
     # hi "You really love Hanako, don't you?"
-    hi "你真的很愛華子，不是嗎？"
+    hi "妳真的很愛華子，不是嗎？"
 
 # game/script-a3-lilly.rpy:4159
 translate zh_hant a3_lilly_the_momentary_present_d0c6118b:
@@ -6984,13 +6984,13 @@ translate zh_hant a3_lilly_the_momentary_present_d0c6118b:
 translate zh_hant a3_lilly_the_momentary_present_73f52a61:
 
     # li "It's a pity we have to return to school. She seemed to relax so much while we were all away." nointeract
-    li "真希望我們不用現在就要回學校。我們離開學校後她看上去休息得那麼好。" nointeract
+    li "真希望我們不用現在就要回學校。我們離開學校後她看起來休息得那麼好。" nointeract
 
 # game/script-a3-lilly.rpy:4171
 translate zh_hant a3_lilly_the_momentary_present_173707b1:
 
     # hi "On the bright side, it won't take long for the summer holidays to arrive after our exams are finished. We could come back here during the summer holidays if you want."
-    hi "想想好的一面，考完之後就是暑假了。如果你願意的話，我們暑假還能回這裡來。"
+    hi "想想好的一面，考完之後就是暑假了。如果妳願意的話，我們暑假還能回這裡來。"
 
 # game/script-a3-lilly.rpy:4173
 translate zh_hant a3_lilly_the_momentary_present_7344e2e8:
@@ -7014,7 +7014,7 @@ translate zh_hant a3_lilly_the_momentary_present_2a34a543:
 translate zh_hant a3_lilly_the_momentary_present_9adb1749:
 
     # "Summer, together with Lilly. This idea seems like the perfect way to spend our holiday."
-    "和莉莉在一起的夏天。聽上去真是再好不過的度過假期的方法了。"
+    "和莉莉在一起的夏天。聽上去真是再好不過的度假期方式了。"
 
 # game/script-a3-lilly.rpy:4193
 translate zh_hant a3lc1o1_96400da0:
@@ -7026,7 +7026,7 @@ translate zh_hant a3lc1o1_96400da0:
 translate zh_hant a3lc1o1_721c3d64:
 
     # ke "I just lost 1000 yen, man! 1000 yen! Damn, this is the worst day ever."
-    ke "我剛剛輸了一千元！一千元！該死，這是我打從孃胎以來最糟糕的一天。"
+    ke "我剛剛輸了一千元！一千元！該死，這是我打從娘胎以來最糟糕的一天。"
 
 # game/script-a3-lilly.rpy:4200
 translate zh_hant a3lc1o2_d9c2e241:
@@ -7038,7 +7038,7 @@ translate zh_hant a3lc1o2_d9c2e241:
 translate zh_hant a3lc1o2_721c3d64:
 
     # ke "I just lost 1000 yen, man! 1000 yen! Damn, this is the worst day ever."
-    ke "我剛剛輸了一千元！一千元！該死，這是我打從孃胎以來最糟糕的一天。"
+    ke "我剛剛輸了一千元！一千元！該死，這是我打從娘胎以來最糟糕的一天。"
 
 # game/script-a3-lilly.rpy:4204
 translate zh_hant a3lc1o2_ed6bb294:
@@ -7056,19 +7056,19 @@ translate zh_hant a3lc2o1_5bef9510:
 translate zh_hant a3lc2o1_fe33b37c:
 
     # hi "Hey. Excuse me, do you know if Hanako's come out of her room today or not? She doesn't seem to be answering."
-    hi "嗨。打擾一下，你知道華子今天有離開這個房間嗎？她好像沒有回應我的敲門。"
+    hi "嗨。打擾一下，妳知道華子今天有離開這個房間嗎？她好像沒有回應我的敲門。"
 
 # game/script-a3-lilly.rpy:4213
 translate zh_hant a3lc2o1_e18372ec:
 
     # "Girl" "Ikezawa is Ikezawa. Her not answering the door is totally normal. That tall foreign girl's the only person she'll ever talk to, after all."
-    "女孩" "池澤就是池澤，她會有回應就不叫池澤了，畢竟，那個高高的外國女孩是唯一一個她會與之交談的人。"
+    "女孩" "池澤就是池澤，她會有回應就不叫池澤了，她唯一會交談的只有那個高高的外國女孩。"
 
 # game/script-a3-lilly.rpy:4215
 translate zh_hant a3lc2o1_33e09793:
 
     # "She gives a shrug before walking off down the hallway, having much more important matters to attend to than Hanako or me."
-    "她走過走廊時聳了聳肩，似乎比起應付我和華子其他的事情更重要的樣子。"
+    "她走過走廊時聳了聳肩，似乎有比起應付我和華子更重要的事。"
 
 # game/script-a3-lilly.rpy:4217
 translate zh_hant a3lc2o1_6c8fed6a:
@@ -7092,13 +7092,13 @@ translate zh_hant a3lc2o2_37c00af3:
 translate zh_hant a3lc2o2_1d0a896b:
 
     # "I think the situation with Hanako should be kept as private as possible, for her sake. I don't really know anything about what's happened to her, and my gut tells me that it's not physical sickness that's befallen her."
-    "我想華子現在的狀況應該儘量保密，為她著想。我不知道她發生了什麼事，但我的直覺告訴我降臨至她身上的並非生理上的病痛。"
+    "我想華子現在的狀況應該儘量保密，為她著想。我不知道她發生了什麼事，但我的直覺告訴她遭遇的並非生理的病痛。"
 
 # game/script-a3-lilly.rpy:4228
 translate zh_hant a3lc2o2_c645948c:
 
     # "She doesn't need rumors about her going around. As much as it may pain me to think so, she'd likely prefer to keep her status as a strangely-ignored member of the class over having people talk behind her back."
-    "沒必要讓她被流言蜚語所包圍。我很心痛的發現，對她來說，在班上當一個總是被忽視的人，也好過有人在她的背後交頭接耳。"
+    "沒必要讓她被流言蜚語所包圍。我很心痛的發現，她或許寧可在班上當一個被忽視的人，也好過有人在她的背後交頭接耳。"
 
 # game/script-a3-lilly.rpy:4230
 translate zh_hant a3lc2o2_7517b4a9:
@@ -7116,7 +7116,7 @@ translate zh_hant a3lc2o2_b2ed167c:
 translate zh_hant a3lc3o1_c34978ed:
 
     # hi "Come on, you worry about me more than I do at times. It just means I have to sleep a bit longer, that's all."
-    hi "得了吧，有時候你比我自己還替我擔心了。我多睡會就行了，沒什麼的。"
+    hi "得了吧，有時候妳比我自己還擔心我了。我多睡一下就行了，沒什麼的。"
 
 # game/script-a3-lilly.rpy:4242
 translate zh_hant a3lc3o1_adf2b8b8:
@@ -7128,7 +7128,7 @@ translate zh_hant a3lc3o1_adf2b8b8:
 translate zh_hant a3lc3o1_a211204a:
 
     # hi "I'd say that I look absolutely fine, but I guess that wouldn't have a lot of meaning for you."
-    hi "我本想說我一點事都沒有，但我想你大概不會相信我說的。"
+    hi "我本想說我一點事都沒有，但我想妳大概不會相信我說的。"
 
 # game/script-a3-lilly.rpy:4249
 translate zh_hant a3lc3o1_f8ad586c:
@@ -7152,13 +7152,13 @@ translate zh_hant a3lc3o1_b8d7e4c8:
 translate zh_hant a3lc3o1_d8ab4425:
 
     # "She moves to protest, but reluctantly acquiesces and disappears into the kitchen, her hand running along the smooth white walls as she slowly walks."
-    "她剛想說些什麼，但還是不情願地放棄了並走進廚房，一路緩步而行時手一直摸著光滑潔白的牆壁。"
+    "她剛想說些什麼，但還是不情願地放棄了並走進廚房，手摸著光滑潔白的牆壁一路緩步而行。"
 
 # game/script-a3-lilly.rpy:4266
 translate zh_hant a3lc3o2_43991b88:
 
     # hi "Hanako could… probably use some help."
-    hi "我想……你也許該去幫幫華子。"
+    hi "我想……妳也許該去幫幫華子。"
 
 # game/script-a3-lilly.rpy:4274
 translate zh_hant a3lc3o2_c29fa3f0:
@@ -7170,13 +7170,13 @@ translate zh_hant a3lc3o2_c29fa3f0:
 translate zh_hant a3lc4o1_28842903:
 
     # hi "I wouldn't worry. Hanako's been gaining confidence thanks to you, at least for as long as I've known you two."
-    hi "我覺得不用擔心。多虧了你，華子現在比以前自信多了。至少和我剛認識你們的時候比。"
+    hi "我覺得不用擔心。多虧了妳，華子現在比以前自信多了。至少和我剛認識妳們的時候比。"
 
 # game/script-a3-lilly.rpy:4286
 translate zh_hant a3lc4o1_5793a400:
 
     # "She gives a self-deprecating sigh."
-    "她並不認同地嘆了口氣。"
+    "她不認同地嘆了口氣。"
 
 # game/script-a3-lilly.rpy:4288
 translate zh_hant a3lc4o1_dd9cca01:
@@ -7206,31 +7206,31 @@ translate zh_hant a3lc4o1_24e8a171:
 translate zh_hant a3lc4o1_153c339a:
 
     # "Indeed, we're all going to have to make decisions. Maybe that's the reason why, despite our return to school also heralding a return to the normalcy of everyday life, I can't help feeling a little restless."
-    "是啊，到頭來我們都必須做出決定。也許這也是為什麼，雖然回到學校也意味著回到我的日常生活，但它還是讓我感到有些煩躁不安的原因。"
+    "是啊，到頭來我們都必須做出決定。也許這也是為什麼，雖然回到學校也意味著回到我的正常生活，但還是讓我感到有些煩躁不安的原因。"
 
 # game/script-a3-lilly.rpy:4303
 translate zh_hant a3lc4o2_ddf0716a:
 
     # hi "Indeed. Exams will be starting, too, which will be another thing to deal with. Think you're ready for them?"
-    hi "是啊。考試也馬上就要開始了，不得不對付好才行。想必你已經準備好了吧？"
+    hi "是啊。考試也馬上就要開始了，不得不好好應付。妳已經準備好了吧？"
 
 # game/script-a3-lilly.rpy:4308
 translate zh_hant a3lc4o2_7a97bc88:
 
     # li "I think so. I don't think it will be a pleasant period at all, though."
-    li "也許吧。不過我不認為這會是一段愉快的時光。"
+    li "也許吧。不過我不認為這會是一段開心的日子。"
 
 # game/script-a3-lilly.rpy:4310
 translate zh_hant a3lc4o2_384fdd76:
 
     # "I can't say I disagree with her. The exams had completely slipped my mind for a while now, and even though I may score well on most of our tests, I can't assume that I can pass easily with so little studying beforehand."
-    "我對她的說法十分贊同。我都快忘了考試這回事了，雖然到目前為止我的考試成績都還不錯，但我不認為我不用複習也能輕鬆通過考試。"
+    "我對她的說法十分贊同。我都快忘了考試這回事了，雖然到目前為止我的成績都還不錯，但我不認為我不用複習也能輕鬆通過。"
 
 # game/script-a3-lilly.rpy:4312
 translate zh_hant a3lc4o2_15245c57:
 
     # "Lilly does seem more studious, or at least more regimented, than me. That said, she has to contend with doing rather badly in some subjects no matter how much she tries."
-    "莉莉看上去確實是會用功學習的人，至少看上去比我自律多了。雖然如此，她還是不得不承認不管再怎麼用功，她總有些課學不好。"
+    "莉莉看上去確實是用功的人，至少比我自律多了。雖然如此，她還是得承認不管再怎麼用功，她總有些課學不好。"
 
 # game/script-a3-lilly.rpy:4314
 translate zh_hant a3lc4o2_f8557e5d:
@@ -7246,7 +7246,7 @@ translate zh_hant strings:
 
     # game/script-a3-lilly.rpy:548
     old "Humor him."
-    new "附和他。"
+    new "逗逗他。"
 
     # game/script-a3-lilly.rpy:551
     old "Ignore his insane ramblings."
@@ -7270,7 +7270,7 @@ translate zh_hant strings:
 
     # game/script-a3-lilly.rpy:1432
     old "{color=#FF2AAA}Student council work with Shicchan, of course.{/color}"
-    new "{color=#FF2AAA}當然是和小靜在學生會里工作咯。{/color}"
+    new "{color=#FF2AAA}當然是和小靜在學生會裡工作嘍。{/color}"
 
     # game/script-a3-lilly.rpy:1434
     old "You're not still brooding over that, surely?"
@@ -7278,11 +7278,11 @@ translate zh_hant strings:
 
     # game/script-a3-lilly.rpy:1439
     old "{color=#FF2AAA}But Hicchan could have helped us poor, lonely girls."
-    new "{color=#FF2AAA}但小久可以本來對我們兩個可憐又孤獨的女孩伸出援手的。"
+    new "{color=#FF2AAA}但小久本來可以對我們兩個可憐又孤獨的女孩伸出援手的。"
 
     # game/script-a3-lilly.rpy:1441
     old "I'd lend you a hand for today if I weren't going to be busy."
-    new "如今不是因為我還有事的話今天我會幫助你們的。"
+    new "如果今天不是因為我還有事的話，我會幫妳們的。"
 
     # game/script-a3-lilly.rpy:1446
     old "{color=#FF2AAA}Ooh, naughty naughty Hicchan!{/color}"
@@ -7290,7 +7290,7 @@ translate zh_hant strings:
 
     # game/script-a3-lilly.rpy:1448
     old "I'm just going to meet Lilly with Hanako. I don't know what you've got going through your head."
-    new "我要跟華子去接莉莉，我不知道你到底想到了什麼。"
+    new "我要跟華子去接莉莉，我不知道妳到底想到了什麼。"
 
     # game/script-a3-lilly.rpy:1453
     old "{color=#FF2AAA}So Lilly's back?{/color}"
@@ -7322,9 +7322,9 @@ translate zh_hant strings:
 
     # game/script-a3-lilly.rpy:4165
     old "Talk about Hanako."
-    new "談談華子。"
+    new "聊華子。"
 
     # game/script-a3-lilly.rpy:4168
     old "Talk about school."
-    new "談談學校。"
+    new "聊學校。"
 

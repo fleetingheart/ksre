@@ -2140,7 +2140,7 @@ translate zh_hant a3_emi_invisible_rock_2ecf04ef:
 translate zh_hant a3_emi_invisible_rock_d039dee4:
 
     # "I find myself ruefully rubbing the back of my head."
-    "我有點遲疑不決地撓了撓後腦勺。"
+    "我有點遲疑不決地抓了抓後腦勺。"
 
 # game/script-a3-emi.rpy:1221
 translate zh_hant a3_emi_invisible_rock_e004f71c:
@@ -7462,7 +7462,7 @@ translate zh_hant a3_emi_storage_space_3798bf3f:
 translate zh_hant a3_emi_storage_space_9011b581:
 
     # "Emi is finally blushing, rubbing the back of her head ruefully."
-    "笑美終於臉紅了，懊悔地撓著後腦勺。"
+    "笑美終於臉紅了，懊悔地抓著後腦勺。"
 
 # game/script-a3-emi.rpy:4384
 translate zh_hant a3_emi_storage_space_5f22abfc:

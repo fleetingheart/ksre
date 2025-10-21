@@ -11486,7 +11486,7 @@ translate zh_hant a2_emi_dropping_by_4f30954e:
 translate zh_hant a2_emi_dropping_by_b68611b4:
 
     # "A wave of laughter erupts from her, and I find myself grinning and rubbing the back of my head ruefully."
-    "她笑了出來，而我不自覺地撓了撓後腦勺。"
+    "她笑了出來，而我不自覺地抓了抓後腦勺。"
 
 # game/script-a2-emi.rpy:7141
 translate zh_hant a2_emi_dropping_by_76651ca1:

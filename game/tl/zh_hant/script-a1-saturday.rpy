@@ -94,7 +94,7 @@ translate zh_hant a1_saturday_support_dc827ef9:
 translate zh_hant a1_saturday_support_52bfa7aa:
 
     # "Mutou stands in the hallway, scratching his head as he works out what he is trying to say. Not knowing what's going on, I wait silently."
-    "武藤站在走廊上，一邊撓著頭一邊想著怎樣把話說出來。我靜靜地等著，不知道接下來會是什麼情況。"
+    "武藤站在走廊上，一邊抓著頭一邊想著怎樣把話說出來。我靜靜地等著，不知道接下來會是什麼情況。"
 
 # game/script-a1-saturday.rpy:90
 translate zh_hant a1_saturday_support_5cd581f5:

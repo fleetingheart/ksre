@@ -5794,7 +5794,7 @@ translate zh_hant a2_lilly_a_brief_history_of_thyme_d4ff12b9:
 translate zh_hant a2_lilly_a_brief_history_of_thyme_0cd9d769:
 
     # "I reach around and scratch the back of my neck. I kind of want to address this."
-    "我伸手撓了撓後頸。我覺得我該對此說點什麼。"
+    "我伸手抓了抓後頸。我覺得我該對此說點什麼。"
 
 # game/script-a2-lilly.rpy:3977
 translate zh_hant a2_lilly_a_brief_history_of_thyme_466b47b5:

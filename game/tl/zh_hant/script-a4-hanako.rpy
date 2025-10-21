@@ -958,7 +958,7 @@ translate zh_hant a4_hanako_truancy_13a0c68e:
 translate zh_hant a4_hanako_truancy_afbe116f:
 
     # "Scratching my head, I make one last attempt at getting her to answer as I knock on the door one final time."
-    "我撓了撓頭，準備最後試一次。"
+    "我抓了抓頭，準備最後試一次。"
 
 # game/script-a4-hanako.rpy:595
 translate zh_hant a4_hanako_truancy_a170e415:
