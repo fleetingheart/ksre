@@ -2260,7 +2260,7 @@ translate zh_hant a4_lilly_correct_procedure_6c7def3f:
 translate zh_hant a4_lilly_correct_procedure_7ff8d8cd:
 
     # "Storewoman" "Thank you, please come again!"
-    "Storewoman" "女店員"
+    "女店員" "謝謝，歡迎再度光臨！"
 
 # game/script-a4-lilly.rpy:1461
 translate zh_hant a4_lilly_correct_procedure_49ae4c2b:
@@ -8182,7 +8182,7 @@ translate zh_hant a4_lilly_a_faraway_future_d9485347:
 translate zh_hant a4_lilly_a_faraway_future_a753b678:
 
     # "The chill of the rapidly darkening evening permeates the dormitory hallways. While trudging down the corridor to my room, I see an unwelcome movement from up ahead."
-    "夜晚迅速褪暗，一股寒意瀰漫在宿舍過道里。當我步履蹣跚地經過走廊走向房間時，看到前方掠過一道煩人的身影。"
+    "夜晚迅速褪暗，一股寒意瀰漫在宿舍走廊里。當我步履蹣跚地經過走廊走向房間時，看到前方掠過一道煩人的身影。"
 
 # game/script-a4-lilly.rpy:4935
 translate zh_hant a4_lilly_a_faraway_future_e5d72a8b:
@@ -11626,7 +11626,7 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_accd39a1:
 translate zh_hant a4_lilly_under_a_maudlin_sky_52c546d2:
 
     # "Doctor" "Ah, I see you're awake… Mr. Nakai."
-    "Doctor" "醫生"
+    "醫生" "啊，看來你醒了……中井先生。"
 
 # game/script-a4-lilly.rpy:7077
 translate zh_hant a4_lilly_under_a_maudlin_sky_2b2db0bc:
@@ -11638,7 +11638,7 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_2b2db0bc:
 translate zh_hant a4_lilly_under_a_maudlin_sky_34d0fab9:
 
     # "Doctor" "I must admit this is a bit unfortunate; your parents visited just earlier while you were asleep. I could notify them you're awake now, if you'd like."
-    "Doctor" "醫生"
+    "醫生" "我得承認有點不巧；早些時候，你的父母在你睡著時來探訪了。如果你願意的話，我可以通知他們你已經醒了。"
 
 # game/script-a4-lilly.rpy:7081
 translate zh_hant a4_lilly_under_a_maudlin_sky_03b6c41d:
@@ -11656,13 +11656,13 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_9d241277:
 translate zh_hant a4_lilly_under_a_maudlin_sky_56a38a2c:
 
     # "Doctor" "Not a problem."
-    "Doctor" "醫生"
+    "醫生" "沒問題。"
 
 # game/script-a4-lilly.rpy:7087
 translate zh_hant a4_lilly_under_a_maudlin_sky_fcaf871d:
 
     # "Doctor" "If you have any questions you'd like to ask, I'll be happy to answer them. That is, unless you'd prefer to rest; the anaesthetic's still going to be affecting you a bit, I'm afraid."
-    "Doctor" "醫生"
+    "醫生" "如果你有什麼想問的問題，儘管問吧。除非你想要休息，恐怕麻醉劑對你還會有一段時間的影響。"
 
 # game/script-a4-lilly.rpy:7089
 translate zh_hant a4_lilly_under_a_maudlin_sky_273dfb86:
@@ -11686,19 +11686,19 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_4b02dd70:
 translate zh_hant a4_lilly_under_a_maudlin_sky_8f6530f6:
 
     # "Doctor" "To put it simply, you've unfortunately had another heart attack. While not as severe as your first, you were very lucky it occurred so close to a hospital."
-    "Doctor" "醫生"
+    "醫生" "簡單說來，你不幸又經歷了一次心臟病發作。雖然沒有第一次那麼嚴重，不過還是很幸運的，你發作時離醫院這麼近。"
 
 # game/script-a4-lilly.rpy:7097
 translate zh_hant a4_lilly_under_a_maudlin_sky_2c426f58:
 
     # "Doctor" "After being stabilized, you were taken to the operating room. What followed was keyhole surgery in order to insert a temporary pacemaker."
-    "Doctor" "醫生"
+    "醫生" "等你穩定下來後，我們把你送到了手術室。我們進行了微創手術，植入了一個臨時起搏器。"
 
 # game/script-a4-lilly.rpy:7099
 translate zh_hant a4_lilly_under_a_maudlin_sky_05023011:
 
     # "Doctor" "All in all, the incident happened two days ago, with emergency treatment being carried out very soon afterward. Since then, we've kept you under close observation while you were asleep."
-    "Doctor" "醫生"
+    "醫生" "總而言之，這意外是兩天前的事了，之後我們立即進行了緊急治療。那之後，我們一直在密切監測你的狀況，你則持續昏睡。"
 
 # game/script-a4-lilly.rpy:7101
 translate zh_hant a4_lilly_under_a_maudlin_sky_ea2b3856:
@@ -11710,13 +11710,13 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_ea2b3856:
 translate zh_hant a4_lilly_under_a_maudlin_sky_15cdd2b2:
 
     # "Doctor" "Compared to the procedure carried out for your first heart attack, this was relatively minor."
-    "Doctor" "醫生"
+    "醫生" "和你第一次發作後的治療相比，這次的要相對小得多。"
 
 # game/script-a4-lilly.rpy:7105
 translate zh_hant a4_lilly_under_a_maudlin_sky_78aabafb:
 
     # "Doctor" "While you will have to undergo surgery once more in a few days' time to remove the pacemaker, assuming there are no complications, there should be no lasting implications."
-    "Doctor" "醫生"
+    "醫生" "不過幾天以後，你必須再做一次手術，把起搏器給移除，如果沒有併發症，應該就不會有長期的影響了。"
 
 # game/script-a4-lilly.rpy:7107
 translate zh_hant a4_lilly_under_a_maudlin_sky_402c6b87:
@@ -11734,7 +11734,7 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_5504fe60:
 translate zh_hant a4_lilly_under_a_maudlin_sky_b0b5b022:
 
     # "Doctor" "If my mumbling bores you, you are quite welcome to say so, Mr. Nakai. Lord knows, I lose track of myself sometimes."
-    "Doctor" "醫生"
+    "醫生" "如果我的囉嗦讓你心煩了，儘管說出來，中井先生。老天，有時候我真是自己都忘了自己在說些什麼。"
 
 # game/script-a4-lilly.rpy:7113
 translate zh_hant a4_lilly_under_a_maudlin_sky_ca9898bb:
@@ -11800,13 +11800,13 @@ translate zh_hant a4_lilly_under_a_maudlin_sky_12818236:
 translate zh_hant a4_lilly_under_a_maudlin_sky_cf9710f3:
 
     # "Doctor" "I understand you must still be tired. You've been through a lot, and as I mentioned before, the anaesthetic would still be affecting you."
-    "Doctor" "醫生"
+    "醫生" "我懂，你肯定很累了。你經歷了不少事，而且我也說過了，麻醉仍會對你產生影響的。"
 
 # game/script-a4-lilly.rpy:7135
 translate zh_hant a4_lilly_under_a_maudlin_sky_48ff0e06:
 
     # "Doctor" "If you don't mind, I'll let you get some rest and tell your parents you've woken up for you."
-    "Doctor" "醫生"
+    "醫生" "所以如果你不介意的話，我就讓你繼續休息好了，再替你告訴你父母，你已經醒了。"
 
 # game/script-a4-lilly.rpy:7137
 translate zh_hant a4_lilly_under_a_maudlin_sky_f349f0dc:

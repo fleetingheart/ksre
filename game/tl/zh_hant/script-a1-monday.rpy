@@ -124,7 +124,7 @@ translate zh_hant a1_monday_out_cold_04cf4a2b:
 translate zh_hant a1_monday_out_cold_dc34d5c5:
 
     # "Iwanako" "Ahmm… yes. I asked a friend to give you that note… I'm so glad you got it."
-    "Iwanako" "巖魚子"
+    "巖魚子" "啊……嗯。我請一個朋友把紙條拿給你的……還好你收到了。"
 
 # game/script-a1-monday.rpy:61
 translate zh_hant a1_monday_out_cold_9865b953:
@@ -184,19 +184,19 @@ translate zh_hant a1_monday_out_cold_592a62b5:
 translate zh_hant a1_monday_out_cold_ae21233d:
 
     # "Iwanako" "You see…"
-    "Iwanako" "巖魚子"
+    "巖魚子" "我說……"
 
 # game/script-a1-monday.rpy:118
 translate zh_hant a1_monday_out_cold_2021a2e6:
 
     # "Iwanako" "…I wanted to know…"
-    "Iwanako" "巖魚子"
+    "巖魚子" "……我想知道……"
 
 # game/script-a1-monday.rpy:138
 translate zh_hant a1_monday_out_cold_1f544bbd:
 
     # "Iwanako" "… if you'd go out with me…"
-    "Iwanako" "巖魚子"
+    "巖魚子" "……你可以和我約會嗎……"
 
 # game/script-a1-monday.rpy:140
 translate zh_hant a1_monday_out_cold_6c61e701:
@@ -214,7 +214,7 @@ translate zh_hant a1_monday_out_cold_c6865dbb:
 translate zh_hant a1_monday_out_cold_8c200948:
 
     # "Iwanako" "… Hisao?"
-    "Iwanako" "巖魚子"
+    "巖魚子" "……久夫？"
 
 # game/script-a1-monday.rpy:148
 translate zh_hant a1_monday_out_cold_2c1773f6:
@@ -226,7 +226,7 @@ translate zh_hant a1_monday_out_cold_2c1773f6:
 translate zh_hant a1_monday_out_cold_5de9e5a4:
 
     # "Iwanako" "Hisao?!"
-    "Iwanako" "巖魚子"
+    "巖魚子" "久夫？！"
 
 # game/script-a1-monday.rpy:159
 translate zh_hant a1_monday_out_cold_b126c492:
@@ -238,7 +238,7 @@ translate zh_hant a1_monday_out_cold_b126c492:
 translate zh_hant a1_monday_out_cold_c2d52363:
 
     # "Iwanako" "HISAO!"
-    "Iwanako" "巖魚子"
+    "巖魚子" "久夫！"
 
 # game/script-a1-monday.rpy:197
 translate zh_hant a1_monday_out_cold_1c8e79cf:
@@ -556,7 +556,7 @@ translate zh_hant a1_monday_bundle_of_hisao_645ccc5e:
 translate zh_hant a1_monday_bundle_of_hisao_ae1dc4a1:
 
     # "Doctor" "Hello, Hisao. How are you today?"
-    "Doctor" "醫生"
+    "醫生" "你好，久夫。你今天好嗎？"
 
 # game/script-a1-monday.rpy:345
 translate zh_hant a1_monday_bundle_of_hisao_74264518:
@@ -568,13 +568,13 @@ translate zh_hant a1_monday_bundle_of_hisao_74264518:
 translate zh_hant a1_monday_bundle_of_hisao_a9872b53:
 
     # "Doctor" "I believe that you can go home; your heart is stronger now, and with some precautions, you should be fine."
-    "Doctor" "醫生"
+    "醫生" "我認為你可以回家了；你的心臟比以前稍微強壯些，如果注意一下的話應該沒有問題的。"
 
 # game/script-a1-monday.rpy:349
 translate zh_hant a1_monday_bundle_of_hisao_84464266:
 
     # "Doctor" "We have all your medication sorted out. I'll give your father the prescription."
-    "Doctor" "醫生"
+    "醫生" "我們已經把你所有的藥都整理好了。我會把處方給你父親。"
 
 # game/script-a1-monday.rpy:351
 translate zh_hant a1_monday_bundle_of_hisao_d20e71ba:
@@ -586,7 +586,7 @@ translate zh_hant a1_monday_bundle_of_hisao_d20e71ba:
 translate zh_hant a1_monday_bundle_of_hisao_b9806ad0:
 
     # "Dad" "So many…"
-    "Dad" "父親"
+    "父親" "這麼多……"
 
 # game/script-a1-monday.rpy:355
 translate zh_hant a1_monday_bundle_of_hisao_36ab31f4:
@@ -634,13 +634,13 @@ translate zh_hant a1_monday_bundle_of_hisao_a87d8486:
 translate zh_hant a1_monday_bundle_of_hisao_fbb2c13a:
 
     # "Doctor" "I'm afraid that is the best we can do at this point."
-    "Doctor" "醫生"
+    "醫生" "很抱歉，這是現在我們能提供最好的治療了。"
 
 # game/script-a1-monday.rpy:387
 translate zh_hant a1_monday_bundle_of_hisao_ce45deb5:
 
     # "Doctor" "However, new medications are always being developed, so I wouldn't be surprised to see that list fade over the years."
-    "Doctor" "醫生"
+    "醫生" "不過，新藥還會不斷出現，所以過幾年到幾十年這個處方會慢慢縮短，我也不會感到意外。"
 
 # game/script-a1-monday.rpy:389
 translate zh_hant a1_monday_bundle_of_hisao_dc324ee1:
@@ -652,7 +652,7 @@ translate zh_hant a1_monday_bundle_of_hisao_dc324ee1:
 translate zh_hant a1_monday_bundle_of_hisao_8a2def8e:
 
     # "Doctor" "Also, I've spoken with your parents and we believe that it would be best if you don't return to your old school."
-    "Doctor" "醫生"
+    "醫生" "對了，我和你的父母談過了，我們認為你最好不要回到你原先的學校。"
 
 # game/script-a1-monday.rpy:393
 translate zh_hant a1_monday_bundle_of_hisao_269d3433:
@@ -664,7 +664,7 @@ translate zh_hant a1_monday_bundle_of_hisao_269d3433:
 translate zh_hant a1_monday_bundle_of_hisao_8b741e48:
 
     # "Dad" "Please, calm down, Hisao. Listen to what the doctor has to say…"
-    "Dad" "父親"
+    "父親" "久夫，冷靜一下，聽聽醫生怎樣說……"
 
 # game/script-a1-monday.rpy:397
 translate zh_hant a1_monday_bundle_of_hisao_10489774:
@@ -682,25 +682,25 @@ translate zh_hant a1_monday_bundle_of_hisao_e5f6e2c7:
 translate zh_hant a1_monday_bundle_of_hisao_81b432ed:
 
     # "Doctor" "We all understand that your education is paramount; however, I don't think that it's wise for you to be without supervision."
-    "Doctor" "醫生"
+    "醫生" "我們都明白你的教育是最重要的；但是我覺得你還是需要別人的看護。"
 
 # game/script-a1-monday.rpy:403
 translate zh_hant a1_monday_bundle_of_hisao_39aaa66d:
 
     # "Doctor" "At least not until we're sure that your medication is suitable."
-    "Doctor" "醫生"
+    "醫生" "至少直到我們確認這些藥對你有效再說。"
 
 # game/script-a1-monday.rpy:405
 translate zh_hant a1_monday_bundle_of_hisao_6aa50d84:
 
     # "Doctor" "So, I've spoken to your parents about a transfer."
-    "Doctor" "醫生"
+    "醫生" "所以，我和你的父母談了談關於轉學的問題。"
 
 # game/script-a1-monday.rpy:407
 translate zh_hant a1_monday_bundle_of_hisao_e8fc164c:
 
     # "Doctor" "It's a school called Yamaku Academy that specializes in dealing with disabled students."
-    "Doctor" "醫生"
+    "醫生" "那是一所叫做山久高校的學校，專門招收殘障學生。"
 
 # game/script-a1-monday.rpy:409
 translate zh_hant a1_monday_bundle_of_hisao_df01d864:
@@ -712,13 +712,13 @@ translate zh_hant a1_monday_bundle_of_hisao_df01d864:
 translate zh_hant a1_monday_bundle_of_hisao_e721b086:
 
     # "Doctor" "It has a 24-hour nursing staff and it's only a few minutes from a highly regarded general hospital. The majority of students live on the campus."
-    "Doctor" "醫生"
+    "醫生" "那裡有24小時的護理人員，而且離一間評價很高的綜合醫院只有幾分鐘的路程。大部分學生都住在校園裡。"
 
 # game/script-a1-monday.rpy:413
 translate zh_hant a1_monday_bundle_of_hisao_a7b43cb3:
 
     # "Doctor" "Think of it as a boarding school of sorts. It's designed to give students a degree of independence, while keeping help nearby."
-    "Doctor" "醫生"
+    "醫生" "把它想成一所寄宿學校。它的設計是為了給學生一定程度的獨立，同時又能隨時提供幫助。"
 
 # game/script-a1-monday.rpy:415
 translate zh_hant a1_monday_bundle_of_hisao_a64d3c87:
@@ -736,13 +736,13 @@ translate zh_hant a1_monday_bundle_of_hisao_edda9b03:
 translate zh_hant a1_monday_bundle_of_hisao_dde7915e:
 
     # "Dad" "Of course, that's only if you want to go. But… your mother and I aren't really able to home school you."
-    "Dad" "父親"
+    "父親" "當然，那是在你願意去的情況下。但是……你媽媽和我也沒辦法在家教你。"
 
 # game/script-a1-monday.rpy:421
 translate zh_hant a1_monday_bundle_of_hisao_ec5265c6:
 
     # "Dad" "We went out there and had a look a couple of weeks back; I think you'd like it."
-    "Dad" "父親"
+    "父親" "幾個星期前我們去那裡逛了一下，我覺得你會喜歡的。"
 
 # game/script-a1-monday.rpy:423
 translate zh_hant a1_monday_bundle_of_hisao_3a7cc194:
@@ -754,7 +754,7 @@ translate zh_hant a1_monday_bundle_of_hisao_3a7cc194:
 translate zh_hant a1_monday_bundle_of_hisao_a3e36ce4:
 
     # "Doctor" "Compared to other heart problems, people with your condition usually tend to live long lives. You'll need a job one day and this is a good opportunity to continue your education."
-    "Doctor" "醫生"
+    "醫生" "你這類症狀的人相比其他心臟疾病通常會活得久很多。早晚有一天你會需要去工作，想完成你的教育的話這是一個很好的機會。"
 
 # game/script-a1-monday.rpy:427
 translate zh_hant a1_monday_bundle_of_hisao_e54aea15:
@@ -766,7 +766,7 @@ translate zh_hant a1_monday_bundle_of_hisao_e54aea15:
 translate zh_hant a1_monday_bundle_of_hisao_61bc19a8:
 
     # "Doctor" "Well, you should be excited at the chance to go back to school. I remember you wanted to return to school, and while it's not the same one…"
-    "Doctor" "醫生"
+    "醫生" "嗯，能回到學校你應該覺得開心才對。我記得你一直想回學校，雖然不是同一間……"
 
 # game/script-a1-monday.rpy:431
 translate zh_hant a1_monday_bundle_of_hisao_51d6fade:
@@ -784,25 +784,25 @@ translate zh_hant a1_monday_bundle_of_hisao_96f69568:
 translate zh_hant a1_monday_bundle_of_hisao_c39dab3f:
 
     # "Dad" "It's not what you think. All of the students there are pretty active, in their own sort of way."
-    "Dad" "父親"
+    "父親" "不是你想的那樣。那裡的學生都很有活力，以他們自己的求學生活方式。"
 
 # game/script-a1-monday.rpy:437
 translate zh_hant a1_monday_bundle_of_hisao_5b0cb836:
 
     # "Dad" "It's geared towards students that can still get around and learn, but just need a little help… in one way or another."
-    "Dad" "父親"
+    "父親" "它是為那些仍然可以四處走動和學習，但只是需要一點幫助的學生而設計的……無論如何。"
 
 # game/script-a1-monday.rpy:439
 translate zh_hant a1_monday_bundle_of_hisao_3176a865:
 
     # "Doctor" "Your father's right. And many of the graduates of the school have gone on to do amazing things. A person doesn't have to be held back by their disability."
-    "Doctor" "醫生"
+    "醫生" "你父親說得沒錯。很多那所學校的畢業生現在都有了驚人的成就。一個人不應該被殘疾阻擋他的人生。"
 
 # game/script-a1-monday.rpy:441
 translate zh_hant a1_monday_bundle_of_hisao_4ea4b688:
 
     # "Doctor" "One of my colleagues in another hospital is a graduate."
-    "Doctor" "醫生"
+    "醫生" "我在別的醫院有個同事，就是那裡的畢業生。"
 
 # game/script-a1-monday.rpy:443
 translate zh_hant a1_monday_bundle_of_hisao_344dd572:

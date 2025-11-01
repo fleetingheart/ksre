@@ -8422,7 +8422,7 @@ translate zh_hant a3_hanako_stripes_and_solids_ae3ad556:
 translate zh_hant a3_hanako_stripes_and_solids_aa3af8e8:
 
     # "Bartender" "Good evening, ladies. What'll it be?"
-    "Bartender" "酒保"
+    "酒保" "晚安，美女們。有什麼可以效勞的？"
 
 # game/script-a3-hanako.rpy:5570
 translate zh_hant a3_hanako_stripes_and_solids_caf60be3:
@@ -8452,7 +8452,7 @@ translate zh_hant a3_hanako_stripes_and_solids_3baaeb29:
 translate zh_hant a3_hanako_stripes_and_solids_fd0df372:
 
     # "Bartender" "No problem, coming right up."
-    "Bartender" "酒保"
+    "酒保" "沒問題，馬上來。"
 
 # game/script-a3-hanako.rpy:5590
 translate zh_hant a3_hanako_stripes_and_solids_7bcb06ac:

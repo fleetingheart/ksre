@@ -2464,7 +2464,7 @@ translate zh_hant a4_emi_clean_teeth_7d2e39bc:
 translate zh_hant a4_emi_clean_teeth_353b951c:
 
     # emi "Good morning, Hisao."
-    emi "早上好，久夫。"
+    emi "早安，久夫。"
 
 # game/script-a4-emi.rpy:1528
 translate zh_hant a4_emi_clean_teeth_2ffa756c:

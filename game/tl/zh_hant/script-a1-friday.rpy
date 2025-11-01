@@ -2434,7 +2434,7 @@ translate zh_hant a1_friday_foot_and_mouth_66a61c9e:
 translate zh_hant a1_friday_foot_and_mouth_7fa7d3b5:
 
     # "After an indiscernible amount of time spent perusing the aisles, I finally decide on a couple of books to get and slide them off the shelf."
-    "不知道在過道里翻了多久的書，最後我選好了幾本書，然後把它們從架子上抽出來。"
+    "不知道在走道里翻了多久的書，最後我選好了幾本書，然後把它們從架子上抽出來。"
 
 # game/script-a1-friday.rpy:1640
 translate zh_hant a1_friday_foot_and_mouth_5a006c53:

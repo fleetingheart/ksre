@@ -5962,7 +5962,7 @@ translate zh_hant a2_emi_track_meeting_328b4b99:
 translate zh_hant a2_emi_track_meeting_46dd8a0c:
 
     # "Teammate" "Hey, Emi! You're going to miss the medal ceremony!"
-    "Teammate" "田徑隊員"
+    "田徑隊員" "喂！笑美！妳要錯過頒獎典禮了！"
 
 # game/script-a2-emi.rpy:3836
 translate zh_hant a2_emi_track_meeting_8388fbc4:
@@ -11486,7 +11486,7 @@ translate zh_hant a2_emi_dropping_by_4f30954e:
 translate zh_hant a2_emi_dropping_by_b68611b4:
 
     # "A wave of laughter erupts from her, and I find myself grinning and rubbing the back of my head ruefully."
-    "她笑了出來，而我不自覺地撓了撓後腦勺。"
+    "她笑了出來，而我不自覺地抓了抓後腦勺。"
 
 # game/script-a2-emi.rpy:7141
 translate zh_hant a2_emi_dropping_by_76651ca1:
@@ -14916,23 +14916,23 @@ translate zh_hant strings:
 
     # game/script-a2-emi.rpy:5046
     old "Dear Hisao,\n\nHow are you? I hope you are well and happy at your new school. Everyone here misses you. Almost all of our second-year class got put together in class 3-1 for the final year, so we are pretty comfortable right from the beginning of the year. I'm sure you would've been assigned to this class as well."
-    new "致親愛的久夫，\n\n你好，過得還好嗎？我希望你已經適應新學校了。大家都很想你，我們二年級班裡的大部分人今年都被編排到三年一班了，所以我們也都很開心。我想如果你還在的話，你肯定也會加入到我們班的。"
+    new "致親愛的久夫，\n\n你好，過得還好嗎？我希望你已經適應新學校了。大家都很想你，我們二年級班裡的大部分人今年都被編排到三年一班了，所以我們也都很開心。如果你還在的話，你肯定也會被邊到我們班的。"
 
     # game/script-a2-emi.rpy:5048
     old "The mood among the third-years seems to be very anxious about the final exams, even though they are so far away. The teachers are badgering us about it all the time - even old Mr. Tachibana who is, by the way, our homeroom teacher this year. Would you believe it? I was sure that he'd retire after our second year, but here he is, nagging everyone about studying for exams.{vspace=30}"
-    new "因為是三年級了，大家都對考試十分緊張，儘管我們離到那還有一段時間。老師們已經開始給我們跟我們做心理攻勢了 - 就連今年的班導師立花老師也在這麼做，你能相信嗎？我還以為他教完我們二年級後肯定會退休，但他現在可沒有走的意思，在那裡緊緊督促我們好好為考試做準備。{vspace=30}"
+    new "三年級期末考大家變得很緊張，雖然還有一些時間。老師們時刻不停地用它們來煩我們 —— 就連立花老先生也不例外，順便提一句，他是我們今年的班導師。你能相信嗎？我還以為他在我們讀完二年級後就要退休了呢，不過他就在這兒，對著每個人嘮叨期末考試的事。{vspace=30}"
 
     # game/script-a2-emi.rpy:5050
     old "I think things like that are the main reason why the mood among the third-years is so nervous. I must admit that I'm somehow losing confidence in myself as well, even though I've always fared reasonably well in exams.{vspace=150}"
-    new "我想之所以會這樣是因為三年級太令人緊張了。我也得承認，我也已經開始失去信心了，即便我一直以來在考試中發揮得都很不錯。{vspace=150}"
+    new "我想之所以會這樣是因為三年級太令人緊張了。我也得承認，我也已經開始失去信心了，即便我一直以來考試都發揮得不錯。{vspace=150}"
 
     # game/script-a2-emi.rpy:5052
     old "It's so weird to think we are already seniors, isn't it? Time has really flown past. I wonder where it went. The new first-years seem so young and somehow really innocent. I keep wondering if I was like them in my first year. I've been feeling nostalgic like this for the whole first trimester.{vspace=90}"
-    new "想想看，我們已經要畢業了……這真的很讓人難以置信，不是嗎？真是光陰似箭，轉眼間我們已經要走完旅程了。新的一年生們看起來十分天真無邪，我在想我一年級時是不是也像他們那樣。我整個第一學期都在這樣懷舊。{vspace=90}"
+    new "想想看，我們已經要畢業了……真的讓人很難以置信，不是嗎？真是光陰似箭，轉眼間我們已經要走完旅程了。一年級新生們看起來十分天真無邪，我在想我一年級時是不是也像他們那樣。我整個學期都在這樣懷舊。{vspace=90}"
 
     # game/script-a2-emi.rpy:5054
     old "There are other things I want to say. I'm writing to you because I felt that there are things I should've said after the incident back in winter. I really regret that I wasn't able to say them in person, and I have no excuse for it…{vspace=150}"
-    new "我還有其它想說的事情。我寫信給你是因為我覺得在冬天發生的那起事件時，我有該說卻沒能說的東西。我真的很後悔沒能親口說出來，我也沒有可辯解的理由……{vspace=150}"
+    new "我還有其它想說的事情。我寫信給你是因為我覺得冬天發生那件事請的時候，我有該說卻沒和你說的東西。我真的很後悔沒能親口說出來，卻也沒有可辯解的理由……{vspace=150}"
 
     # game/script-a2-emi.rpy:5989
     old "What?"

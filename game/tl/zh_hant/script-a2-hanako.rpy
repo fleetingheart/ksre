@@ -220,13 +220,13 @@ translate zh_hant a2_hanako_to_town_to_town_96a6932e:
 translate zh_hant a2_hanako_to_town_to_town_a2f9183d:
 
     # ha "G… good morning Hisao."
-    ha "早……早上好，久夫。"
+    ha "早……早安，久夫。"
 
 # game/script-a2-hanako.rpy:186
 translate zh_hant a2_hanako_to_town_to_town_5b914455:
 
     # hi "Morning Hanako. You're a little late, aren't you?"
-    hi "早上好，華子。你來的稍微晚了點，不是嗎？"
+    hi "早安，華子。你來的稍微晚了點，不是嗎？"
 
 # game/script-a2-hanako.rpy:191
 translate zh_hant a2_hanako_to_town_to_town_8c4f89fb:
@@ -556,7 +556,7 @@ translate zh_hant a2_hanako_to_town_to_town_10c37307:
 translate zh_hant a2_hanako_to_town_to_town_61eb7fc0:
 
     # "Using me as a shield between herself and the attendant, Hanako moves through the narrow aisles, adding an assortment of items to her basket."
-    "華子把我當作是一面擋在她和售貨員之間的盾牌，一邊穿過狹窄的過道，往她的購物籃裡放著各種各樣的東西。"
+    "華子把我當作是一面擋在她和售貨員之間的盾牌，一邊穿過狹窄的走道，往她的購物籃裡放著各種各樣的東西。"
 
 # game/script-a2-hanako.rpy:389
 translate zh_hant a2_hanako_to_town_to_town_d0ae944a:
@@ -1848,7 +1848,7 @@ translate zh_hant a2_hanako_office_confessional_66701b4e:
 translate zh_hant a2_hanako_office_confessional_90266d02:
 
     # "Shizune drops a large pile of paperwork on the desk in front of me, and smiles succinctly."
-    "靜音把一大厚摞紙放到我面前的桌子上，臉上帶著明瞭的微笑。"
+    "靜音把一大厚疊紙放到我面前的桌子上，臉上帶著明瞭的微笑。"
 
 # game/script-a2-hanako.rpy:1268
 translate zh_hant a2_hanako_office_confessional_bce21edc:
@@ -2388,7 +2388,7 @@ translate zh_hant a2_hanako_office_confessional_16c9516d:
 translate zh_hant a2_hanako_office_confessional_dc0f00ad:
 
     # "Misha slides the multiple stacks of paper to one side to make room for the avalanche of food Shizune is spreading out."
-    "米莎把那幾摞紙掃到一旁給靜音成堆的食物騰空。"
+    "米莎把那幾疊紙掃到一旁給靜音成堆的食物騰空。"
 
 # game/script-a2-hanako.rpy:1622
 translate zh_hant a2_hanako_office_confessional_205e4391:
@@ -2718,7 +2718,7 @@ translate zh_hant a2_hanako_chess_and_slides_059633e4:
 translate zh_hant a2_hanako_chess_and_slides_562360bb:
 
     # "Towards the end of the aisle, between a book on card tricks and some book on kid's games, stands a single book bearing the title 'Chess Tactics for Champions'."
-    "在快到過道的盡頭的地方，在一本關於紙牌戲法的書和一些兒童遊戲的書之間，豎著一本“西洋棋冠軍戰術”。"
+    "在快到走道的盡頭的地方，在一本關於紙牌戲法的書和一些兒童遊戲的書之間，豎著一本“西洋棋冠軍戰術”。"
 
 # game/script-a2-hanako.rpy:1874
 translate zh_hant a2_hanako_chess_and_slides_30cddeef:
@@ -3234,7 +3234,7 @@ translate zh_hant a2_hanako_rise_and_shine_e28ca64d:
 translate zh_hant a2_hanako_rise_and_shine_973e7a5f:
 
     # hi "Good morning, Lilly. I didn't expect you to be here this early."
-    hi "早上好，莉莉。我沒意料到你會這麼早在這兒。"
+    hi "早安，莉莉。我沒意料到你會這麼早在這兒。"
 
 # game/script-a2-hanako.rpy:2190
 translate zh_hant a2_hanako_rise_and_shine_8fc8ed6e:
@@ -3678,7 +3678,7 @@ translate zh_hant a2_hanako_mad_hatter_6c9ec6b5:
 translate zh_hant a2_hanako_mad_hatter_23dac982:
 
     # "It seems that everything in this room has its place, possibly excepting the several piles of books stacked up against the wall."
-    "看起來除了牆角堆方的幾摞書本之外，房間裡所有的東西都整齊的擺放在各自的位置。"
+    "看起來除了牆角堆方的幾疊書本之外，房間裡所有的東西都整齊的擺放在各自的位置。"
 
 # game/script-a2-hanako.rpy:2443
 translate zh_hant a2_hanako_mad_hatter_4d3afb09:

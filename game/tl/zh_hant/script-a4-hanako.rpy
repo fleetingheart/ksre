@@ -70,7 +70,7 @@ translate zh_hant a4_hanako_truancy_57c2cd0a:
 translate zh_hant a4_hanako_truancy_68e457e7:
 
     # mi "'Afternoon, Hicchan~!"
-    mi "‘下午好，小久~！"
+    mi "‘午安，小久~！"
 
 # game/script-a4-hanako.rpy:68
 translate zh_hant a4_hanako_truancy_ef2b123c:
@@ -82,7 +82,7 @@ translate zh_hant a4_hanako_truancy_ef2b123c:
 translate zh_hant a4_hanako_truancy_e0faf254:
 
     # hi "'Afternoon Misha, Shizune. You both look as bright as ever."
-    hi "下午好，米莎，靜音。你們倆一如既往的開朗啊。"
+    hi "午安，米莎，靜音。你們倆一如既往的開朗啊。"
 
 # game/script-a4-hanako.rpy:75
 translate zh_hant a4_hanako_truancy_ef2b123c_1:
@@ -958,7 +958,7 @@ translate zh_hant a4_hanako_truancy_13a0c68e:
 translate zh_hant a4_hanako_truancy_afbe116f:
 
     # "Scratching my head, I make one last attempt at getting her to answer as I knock on the door one final time."
-    "我撓了撓頭，準備最後試一次。"
+    "我抓了抓頭，準備最後試一次。"
 
 # game/script-a4-hanako.rpy:595
 translate zh_hant a4_hanako_truancy_a170e415:
@@ -1222,7 +1222,7 @@ translate zh_hant a4_hanako_faraway_presence_3ac7d1af:
 translate zh_hant a4_hanako_faraway_presence_fc3e6151:
 
     # "Mrs. Satou" "Ah, you must be one of Lilly's friends from school, correct?"
-    "Mrs. Satou" "砂藤夫人"
+    "砂藤夫人" "噢，你肯定是莉莉在學校的朋友，對吧？"
 
 # game/script-a4-hanako.rpy:750
 translate zh_hant a4_hanako_faraway_presence_3cda47f5:
@@ -1240,7 +1240,7 @@ translate zh_hant a4_hanako_faraway_presence_b201fe5f:
 translate zh_hant a4_hanako_faraway_presence_2ea8bf2c:
 
     # "Mrs. Satou" "It's so nice of her to find someone so polite! Lilly dear, it's for you!"
-    "Mrs. Satou" "砂藤夫人"
+    "砂藤夫人" "真好啊，她能認識這麼懂禮貌的人！莉莉，你的電話！"
 
 # game/script-a4-hanako.rpy:756
 translate zh_hant a4_hanako_faraway_presence_fc61db99:
@@ -2404,7 +2404,7 @@ translate zh_hant a4_hanako_cut_petals_1cd442ca:
 translate zh_hant a4_hanako_cut_petals_74998cb8:
 
     # hi "'Evening, Hanako. It's just me."
-    hi "'晚上好，華子。是我。"
+    hi "'晚安，華子。是我。"
 
 # game/script-a4-hanako.rpy:1341
 translate zh_hant a4_hanako_cut_petals_9e4b07bc:
@@ -3358,7 +3358,7 @@ translate zh_hant a4_hanako_shanghai_studiousness_ea305f45:
 translate zh_hant a4_hanako_shanghai_studiousness_ae64a285:
 
     # yu "Good afternoon."
-    yu "下午好。"
+    yu "午安。"
 
 # game/script-a4-hanako.rpy:1960
 translate zh_hant a4_hanako_shanghai_studiousness_c333ac03:
@@ -3562,7 +3562,7 @@ translate zh_hant a4_hanako_shanghai_studiousness_cc14ce3c:
 translate zh_hant a4_hanako_shanghai_studiousness_c378b340:
 
     # "Iwanako's letter lies on my desk beside a blank sheet of lined paper and an unused envelope. The tapping of my pen is the only thing to be heard this late at night."
-    "巖魚子的信就放在我的桌上,在一摞紙和一個沒用過的信封旁。我的筆輕叩著桌面，那聲音是我今晚唯一聽到的聲響。"
+    "巖魚子的信就放在我的桌上,在一疊紙和一個沒用過的信封旁。我的筆輕叩著桌面，那聲音是我今晚唯一聽到的聲響。"
 
 # game/script-a4-hanako.rpy:2101
 translate zh_hant a4_hanako_shanghai_studiousness_fdd99b27:
@@ -3754,7 +3754,7 @@ translate zh_hant a4_hanako_his_past_6eee94ab:
 translate zh_hant a4_hanako_his_past_932eac6f:
 
     # hi "Good evening, Hanako."
-    hi "晚上好，華子。"
+    hi "晚安，華子。"
 
 # game/script-a4-hanako.rpy:2222
 translate zh_hant a4_hanako_his_past_2f696630:
@@ -6352,13 +6352,13 @@ translate zh_hant a4_hanako_indeterminate_future_58f315bd:
 translate zh_hant a4_hanako_indeterminate_future_bb2f7bb2:
 
     # hi "Good morning, Hanako."
-    hi "早上好，華子。"
+    hi "早安，華子。"
 
 # game/script-a4-hanako.rpy:3755
 translate zh_hant a4_hanako_indeterminate_future_ff22eeaa:
 
     # ha "M… 'morning."
-    ha "早……早上好。"
+    ha "早……早安。"
 
 # game/script-a4-hanako.rpy:3757
 translate zh_hant a4_hanako_indeterminate_future_46cfd4f2:

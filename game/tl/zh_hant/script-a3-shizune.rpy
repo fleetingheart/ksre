@@ -58,7 +58,7 @@ translate zh_hant a3_shizune_force_feedback_97b26cd3:
 translate zh_hant a3_shizune_force_feedback_ece4a6b6:
 
     # ssh "Good morning."
-    ssh "早上好。"
+    ssh "早安。"
 
 # game/script-a3-shizune.rpy:47
 translate zh_hant a3_shizune_force_feedback_98426aac:
@@ -1846,7 +1846,7 @@ translate zh_hant a3_shizune_use_mention_distinction_6dc06dbe:
 translate zh_hant a3_shizune_use_mention_distinction_b26e927c:
 
     # hh "Good morning."
-    hh "早上好。。"
+    hh "早安。。"
 
 # game/script-a3-shizune.rpy:1290
 translate zh_hant a3_shizune_use_mention_distinction_2b50228b:
@@ -6520,7 +6520,7 @@ translate zh_hant a3_shizune_roadmap_a6ae80ac:
 translate zh_hant a3_shizune_roadmap_300b2599:
 
     # mi "Hi, Hicchan~!"
-    mi "晚上好，小久~！"
+    mi "晚安，小久~！"
 
 # game/script-a3-shizune.rpy:4264
 translate zh_hant a3_shizune_roadmap_c9f012d2:
@@ -6736,7 +6736,7 @@ translate zh_hant a3_shizune_roadmap_2f5a73e8:
 translate zh_hant a3_shizune_roadmap_9aff38d3:
 
     # mi "Mm~. Parfaits are the best~, I have sensitive teeth, so ice cream is a no-no~. Cake is too soft, though, and if there is too much icing, I get bored. Parfait is interesting."
-    mi "嗯。百匯最好吃了~。我的牙齒有點敏感，所以冰激凌完全不行~。蛋糕又太軟了，而且如果上面糖衣放多了會感覺很單調。相比之下還是內容豐富的百匯比較好。"
+    mi "嗯。百匯最好吃了~。我的牙齒有點敏感，所以冰淇淋完全不行~。蛋糕又太軟了，而且如果上面糖衣放多了會感覺很單調。相比之下還是內容豐富的百匯比較好。"
 
 # game/script-a3-shizune.rpy:4401
 translate zh_hant a3_shizune_roadmap_3e860413:
@@ -6790,7 +6790,7 @@ translate zh_hant a3_shizune_roadmap_142d50b9:
 translate zh_hant a3_shizune_roadmap_8631bf29:
 
     # "Misha giggles, raising her hand to her face. It looks like some ice cream accidentally got on her nose. She doesn't notice it. I can't stop noticing it. I wish she would wipe it off. I'm about to tell her about it, but she suddenly says,"
-    "米莎笑了笑，把手舉到臉邊。我發現有一點冰激凌蘸到了她鼻子上，但她本人好像沒注意到。我希望她能快的擦掉。就在我快要開口說時候，她先發話了。"
+    "米莎笑了笑，把手舉到臉邊。我發現有一點冰淇淋沾到了她鼻子上，但她本人好像沒注意到。我希望她能快的擦掉。就在我快要開口說時候，她先發話了。"
 
 # game/script-a3-shizune.rpy:4434
 translate zh_hant a3_shizune_roadmap_5696d99d:
@@ -8776,7 +8776,7 @@ translate zh_hant a3_shizune_dewey_decimated_c956ec02:
 translate zh_hant a3_shizune_dewey_decimated_300b2599:
 
     # mi "Hi, Hicchan~!"
-    mi "晚上好，小久~！"
+    mi "晚安，小久~！"
 
 # game/script-a3-shizune.rpy:5595
 translate zh_hant a3_shizune_dewey_decimated_9621fe6b:
@@ -9076,7 +9076,7 @@ translate zh_hant a3_shizune_tongue_tied_c6296ad5:
 translate zh_hant a3_shizune_tongue_tied_a70d5860:
 
     # ssh "Hello. Good afternoon."
-    ssh "你好。下午好。"
+    ssh "你好。午安。"
 
 # game/script-a3-shizune.rpy:5797
 translate zh_hant a3_shizune_tongue_tied_2b24b113:
@@ -9676,7 +9676,7 @@ translate zh_hant a3_shizune_tongue_tied_d6e27f61:
 translate zh_hant a3_shizune_tongue_tied_300b2599:
 
     # mi "Hi, Hicchan~!"
-    mi "晚上好，小久~！"
+    mi "晚安，小久~！"
 
 # game/script-a3-shizune.rpy:6166
 translate zh_hant a3_shizune_tongue_tied_1d1f2986:
