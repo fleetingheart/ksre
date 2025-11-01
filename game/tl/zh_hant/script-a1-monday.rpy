@@ -557,7 +557,7 @@ translate zh_hant a1_monday_bundle_of_hisao_ae1dc4a1:
 
     # "Doctor" "Hello, Hisao. How are you today?"
     "醫生" "你好，久夫。你今天好嗎？"
-\
+
 # game/script-a1-monday.rpy:345
 translate zh_hant a1_monday_bundle_of_hisao_74264518:
 
