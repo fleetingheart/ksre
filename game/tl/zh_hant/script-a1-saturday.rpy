@@ -46,7 +46,7 @@ translate zh_hant a1_saturday_support_a869be7f:
 translate zh_hant a1_saturday_support_7d06c4c9:
 
     # "That can partly be attributed to the two empty seats beside me. For some reason Misha and Shizune aren't present; probably doing council work for the festival."
-    "我旁邊的兩個空座位更加重了我的這種感覺。不知為何，米莎和靜音沒有來上課，也許在為園遊會做準備工作吧。"
+    "我旁邊的兩個空座位更加重了我的這種感覺。不知為何，米莎和靜音沒有來上課，也許在為學園祭做準備工作吧。"
 
 # game/script-a1-saturday.rpy:57
 translate zh_hant a1_saturday_support_afe7193c:
@@ -436,13 +436,13 @@ translate zh_hant a1_saturday_support_7685c328:
 translate zh_hant a1_saturday_support_a2bee472:
 
     # "The classroom empties in a blink as everyone rushes to their last-minute festival preparations."
-    "眨眼間教室裡就變得空蕩蕩的了，每個人都趕著去進行最後的園遊會準備了。"
+    "眨眼間教室裡就變得空蕩蕩的了，每個人都趕著去進行最後的學園祭準備了。"
 
 # game/script-a1-saturday.rpy:263
 translate zh_hant a1_saturday_support_15f5b046:
 
     # "I stay behind and try to quickly finish the questions so I don't have to bother with it over the rest of the weekend, with the festival and all tomorrow."
-    "我待在教室裡，想迅速把題目解決掉，我可不想在週末還要掛念著作業，而且明天還有園遊會之類的麻煩事。"
+    "我待在教室裡，想迅速把題目解決掉，我可不想在週末還要掛念著作業，而且明天還有學園祭之類的麻煩事。"
 
 # game/script-a1-saturday.rpy:272
 translate zh_hant a1_saturday_support_47d5a638:
@@ -670,7 +670,7 @@ translate zh_hant a1_saturday_an_asethetics_9fd8abef:
 translate zh_hant a1_saturday_an_asethetics_865194e4:
 
     # hi "Nothing, really. I don't have anything to do for the festival and everyone else seems to be doing something important."
-    hi "實際上，什麼都沒做。我沒有什麼園遊會的工作要做，而別人看起來都有重要的事情要做。"
+    hi "實際上，什麼都沒做。我沒有什麼學園祭的工作要做，而別人看起來都有重要的事情要做。"
 
 # game/script-a1-saturday.rpy:445
 translate zh_hant a1_saturday_an_asethetics_9c187217:
@@ -682,7 +682,7 @@ translate zh_hant a1_saturday_an_asethetics_9c187217:
 translate zh_hant a1_saturday_an_asethetics_40461049:
 
     # hi "With the festival preparations? Eeeh, I'm not sure if I would be of much help."
-    hi "幫你們做園遊會的準備工作嗎？呃，我不知道我能不能幫上什麼忙。"
+    hi "幫你們做學園祭的準備工作嗎？呃，我不知道我能不能幫上什麼忙。"
 
 # game/script-a1-saturday.rpy:452
 translate zh_hant a1_saturday_an_asethetics_10b4f477:
@@ -2260,7 +2260,7 @@ translate zh_hant a1_saturday_proper_exercise_c18d100b:
 translate zh_hant a1_saturday_proper_exercise_af02e292:
 
     # "Then again, this dietary plan seems to cut out just about everything that'll be offered at the festival tomorrow."
-    "話又說回來，這個飲食計畫似乎否決了明天園遊會會出現的所有食物。"
+    "話又說回來，這個飲食計畫似乎否決了明天學園祭會出現的所有食物。"
 
 # game/script-a1-saturday.rpy:1397
 translate zh_hant a1_saturday_proper_exercise_e886e7c7:
@@ -2278,7 +2278,7 @@ translate zh_hant a1_saturday_proper_exercise_be6005e4:
 translate zh_hant a1_saturday_proper_exercise_c6ee7fc8:
 
     # emi "After the festival."
-    emi "園遊會之後吧。"
+    emi "學園祭之後吧。"
 
 # game/script-a1-saturday.rpy:1406
 translate zh_hant a1_saturday_proper_exercise_497e1ccb:
@@ -2290,7 +2290,7 @@ translate zh_hant a1_saturday_proper_exercise_497e1ccb:
 translate zh_hant a1_saturday_proper_exercise_6eeb088a:
 
     # emi "I meant the day after the festival."
-    emi "我是說園遊會的隔天啦。"
+    emi "我是說學園祭的隔天啦。"
 
 # game/script-a1-saturday.rpy:1413
 translate zh_hant a1_saturday_proper_exercise_7e42a5ee:
@@ -2344,7 +2344,7 @@ translate zh_hant a1_saturday_proper_exercise_c3a02d94:
 translate zh_hant a1_saturday_proper_exercise_bf5c6620:
 
     # "Festival's tomorrow. I'm actually a little excited for it."
-    "明天就是園遊會了。我其實有點興奮。"
+    "明天就是學園祭了。我其實有點興奮。"
 
 # game/script-a1-saturday.rpy:1442
 translate zh_hant a1_saturday_proper_exercise_9ca6771c:
@@ -2998,7 +2998,7 @@ translate zh_hant a1_saturday_sip_p2_2515ef69:
 translate zh_hant a1_saturday_sip_p2_0c8aaf49:
 
     # "I guess I'd better get going back to Yamaku. There's only so long I can stall studying for, and I want to get a good night's sleep before the festival."
-    "我想我該回山久了。書不能再拖下去了，而且園遊會前一晚我想好好睡一覺。"
+    "我想我該回山久了。書不能再拖下去了，而且學園祭前一晚我想好好睡一覺。"
 
 # game/script-a1-saturday.rpy:1855
 translate zh_hant a1_saturday_sip_p2_d6e26891:
@@ -4114,7 +4114,7 @@ translate zh_hant a1_saturday_shanghaied_ef2b123c_21:
 translate zh_hant a1_saturday_shanghaied_ac67c1b6:
 
     # mi "Okay, Hicchan, if you're that busy. We don't have anything to do tomorrow, so we thought maybe you would want to hang out with us at the festival!"
-    mi "好吧，小久，如果你真的那麼忙。我們明天無事可做。我們還以為你想要和我們一起去逛園遊會！"
+    mi "好吧，小久，如果你真的那麼忙。我們明天無事可做。我們還以為你想要和我們一起去逛學園祭！"
 
 # game/script-a1-saturday.rpy:2551
 translate zh_hant a1_saturday_shanghaied_0ceefe47:
@@ -4576,7 +4576,7 @@ translate zh_hant a1_saturday_shanghaied_679f04c4:
 translate zh_hant a1_saturday_shanghaied_506b1101:
 
     # mi "Well, Hicchan, it'd be really nice if we could all celebrate how well we put everything together for the festival by taking a look at our handiwork…"
-    mi "啊啊，小久，如果我們可以一起去看看親手搭建的東西，同時慶祝我們把園遊會的所有東西安排妥當，那是多麼美好的一件事……"
+    mi "啊啊，小久，如果我們可以一起去看看親手搭建的東西，同時慶祝我們把學園祭的所有東西安排妥當，那是多麼美好的一件事……"
 
 # game/script-a1-saturday.rpy:2823
 translate zh_hant a1_saturday_shanghaied_0a3ca316:
@@ -6130,13 +6130,13 @@ translate zh_hant a1_saturday_quiet_cad9afb1:
 translate zh_hant a1_saturday_quiet_5f52a926:
 
     # "The walls of the library only partially insulate the noise of the festival preparations, but they're the only sounds to be heard."
-    "圖書館的牆壁只能部分隔絕園遊會準備工作的噪音，但這也是唯一能聽到的聲音。"
+    "圖書館的牆壁只能部分隔絕學園祭準備工作的噪音，但這也是唯一能聽到的聲音。"
 
 # game/script-a1-saturday.rpy:3869
 translate zh_hant a1_saturday_quiet_3a660e22:
 
     # "Not a soul stirs here, with everyone apparently enjoying the weather outside or working on festival events."
-    "每個人都在外面享受陽光，或忙著準備園遊會的節目，圖書館裡面連半個鬼影都看不見。"
+    "每個人都在外面享受陽光，或忙著準備學園祭的節目，圖書館裡面連半個鬼影都看不見。"
 
 # game/script-a1-saturday.rpy:3871
 translate zh_hant a1_saturday_quiet_458fecd1:
@@ -6346,13 +6346,13 @@ translate zh_hant a1_saturday_quiet_d12461a9:
 translate zh_hant a1_saturday_quiet_41d8f8ab:
 
     # "Though now that I'm thinking about the festival, another question comes up…"
-    "既然我現在想起了園遊會，我的腦海中有了一個疑問……"
+    "既然我現在想起了學園祭，我的腦海中有了一個疑問……"
 
 # game/script-a1-saturday.rpy:3970
 translate zh_hant a1_saturday_quiet_7fc9006c:
 
     # hi "Hey, Hanako, what are you doing for the festival?"
-    hi "華子，妳在園遊會的時候打算怎麼過？"
+    hi "華子，妳在學園祭的時候打算怎麼過？"
 
 # game/script-a1-saturday.rpy:3977
 translate zh_hant a1_saturday_quiet_7a615812:
@@ -6370,7 +6370,7 @@ translate zh_hant a1_saturday_quiet_80087b46:
 translate zh_hant a1_saturday_quiet_7161fa2b:
 
     # hi "I was just asking what you're doing for the festival tomorrow. Anything planned?"
-    hi "我想知道妳明天在園遊會的時候會做些什麼。有什麼計劃嗎？"
+    hi "我想知道妳明天在學園祭的時候會做些什麼。有什麼計劃嗎？"
 
 # game/script-a1-saturday.rpy:3986
 translate zh_hant a1_saturday_quiet_1baf3df3:
@@ -6628,7 +6628,7 @@ translate zh_hant a1c14o1_9219df6f:
 translate zh_hant a1c14o1_e9319ae2:
 
     # no "I just stopped by to remind you to not run off by yourself, tomorrow. I've invited certain people to the festival for you, and I'm sure they'd like to meet you as well."
-    no "我只是路過，順便來提醒你明天可別溜了。我專門為妳邀請了一些人來參加園遊會，我敢肯定他們會很想和妳見面的。"
+    no "我只是路過，順便來提醒你明天可別溜了。我專門為妳邀請了一些人來參加學園祭，我敢肯定他們會很想和妳見面的。"
 
 # game/script-a1-saturday.rpy:4134
 translate zh_hant a1c14o1_4c966ecb:
@@ -6664,7 +6664,7 @@ translate zh_hant a1c14o1_3dea4466:
 translate zh_hant a1c14o1_e0089f10:
 
     # "Maybe, if I can finish reading these books today, the entirety of tomorrow will be free for the festival."
-    "也許，如果今天能看完這些書的話，明天就能一整天享受園遊會了。"
+    "也許，如果今天能看完這些書的話，明天就能一整天享受學園祭了。"
 
 # game/script-a1-saturday.rpy:4161
 translate zh_hant a1c14o2_fc1860ea:
@@ -6778,7 +6778,7 @@ translate zh_hant a1c14o2_2a2c4f54:
 translate zh_hant a1c14o2_e9319ae2:
 
     # no "I just stopped by to remind you to not run off by yourself, tomorrow. I've invited certain people to the festival for you, and I'm sure they'd like to meet you as well."
-    no "我只是順道過來提醒妳明天別自己跑掉。我為妳邀請了某些人來園遊會，我相信他們也會想見妳的。"
+    no "我只是順道過來提醒妳明天別自己跑掉。我為妳邀請了某些人來學園祭，我相信他們也會想見妳的。"
 
 # game/script-a1-saturday.rpy:4220
 translate zh_hant a1c14o2_4133276f:

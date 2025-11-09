@@ -1420,7 +1420,7 @@ translate zh_hant a1_thursday_cold_war_532d470c:
 translate zh_hant a1_thursday_cold_war_cbf1ec41:
 
     # li "It's a very busy morning today. The festival is coming up soon, and today is the deadline for event registration, budget reports, and any other official paperwork."
-    li "今天早上會很忙的。園遊會快到了，今天是活動申請、預算報告和其他文件繳交的截止日。"
+    li "今天早上會很忙的。學園祭快到了，今天是活動申請、預算報告和其他文件繳交的截止日。"
 
 # game/script-a1-thursday.rpy:761
 translate zh_hant a1_thursday_cold_war_e4c76f88:
@@ -1582,7 +1582,7 @@ translate zh_hant a1_thursday_cold_war_ef2b123c_4:
 translate zh_hant a1_thursday_cold_war_a087ec1f:
 
     # mi "The festival is coming up in three days, right? Every other class has already handed in their projected budget reports for their events! Even the first-years! Except you~!"
-    mi "園遊會三天後就開始了，對吧？其他班級一早就交齊他們班的活動預算報告了！連一年級的都交了！除了妳～！"
+    mi "學園祭三天後就開始了，對吧？其他班級一早就交齊他們班的活動預算報告了！連一年級的都交了！除了妳～！"
 
 # game/script-a1-thursday.rpy:875
 translate zh_hant a1_thursday_cold_war_e39fcd2d:
@@ -1876,7 +1876,7 @@ translate zh_hant a1_thursday_cold_war_ef2b123c_13:
 translate zh_hant a1_thursday_cold_war_fd426676:
 
     # mi "Aren't you taking part in the festival, Hicchan? You are, aren't you? Then~! I hope you're going to do a lot more to make sure it goes smoothly than this person~!"
-    mi "小久，你也會來參加園遊會的，是吧？那麼～！我希望你會比這個人做得更多，確保校慶順利進行～！"
+    mi "小久，你也會來參加學園祭的，是吧？那麼～！我希望你會比這個人做得更多，確保校慶順利進行～！"
 
 # game/script-a1-thursday.rpy:1137
 translate zh_hant a1_thursday_cold_war_3a1139d1:
@@ -2170,13 +2170,13 @@ translate zh_hant a1_thursday_proof_of_competency_f2b05975:
 translate zh_hant a1_thursday_proof_of_competency_e28eb4ac:
 
     # hi "Festival preparations must be tough for you."
-    hi "準備園遊會好像很辛苦啊。"
+    hi "準備學園祭好像很辛苦啊。"
 
 # game/script-a1-thursday.rpy:1304
 translate zh_hant a1_thursday_proof_of_competency_80433201:
 
     # "Indeed, the people in this school seem to be taking the festival very seriously. Whenever I see people idling around before and after classes they're always talking about their plans for it."
-    "確實，這間學校的人對園遊會似乎很重視。課前課後我看到人們的談論，都是關於園遊會的事。"
+    "確實，這間學校的人對學園祭似乎很重視。課前課後我看到人們的談論，都是關於學園祭的事。"
 
 # game/script-a1-thursday.rpy:1306
 translate zh_hant a1_thursday_proof_of_competency_8c17bdf8:
@@ -2392,7 +2392,7 @@ translate zh_hant a1_thursday_proof_of_competency_ef2b123c_2:
 translate zh_hant a1_thursday_proof_of_competency_7feda52a:
 
     # mi "If she has any sense in her head, she's in her classroom, working on their festival project. But who knows where that woman is loitering at."
-    mi "如果她腦袋還正常的話，就會在教室裡面趕園遊會的文件。但誰會知道那女人會逛去哪裡呢？"
+    mi "如果她腦袋還正常的話，就會在教室裡面趕學園祭的文件。但誰會知道那女人會逛去哪裡呢？"
 
 # game/script-a1-thursday.rpy:1474
 translate zh_hant a1_thursday_proof_of_competency_95762286:
@@ -2476,7 +2476,7 @@ translate zh_hant a1_thursday_event_horizon_25061564:
 translate zh_hant a1_thursday_event_horizon_908c5f94:
 
     # mi "But~! that's the intent, so, please? I can't keep up, we have to actually build stalls for the festival, almost all of them all by ourselves, can you believe that?"
-    mi "但是～！那是一份心意，吶，好不好？進度太緊了，我們還要給園遊會搭棚，全部都要我們自己做完啊，你能想像嗎？"
+    mi "但是～！那是一份心意，吶，好不好？進度太緊了，我們還要給學園祭搭棚，全部都要我們自己做完啊，你能想像嗎？"
 
 # game/script-a1-thursday.rpy:1560
 translate zh_hant a1_thursday_event_horizon_c2cf2e85:
@@ -3208,7 +3208,7 @@ translate zh_hant a1_thursday_event_horizon_81d99227:
 translate zh_hant a1_thursday_event_horizon_c811a062:
 
     # "I could think of a million things I'd rather do, but I suppose everyone has to do their share for the festival, even me."
-    "我能想出一百萬件我更想做的事，但我想每個人都得為園遊會盡一份力，我也一樣。"
+    "我能想出一百萬件我更想做的事，但我想每個人都得為學園祭盡一份力，我也一樣。"
 
 # game/script-a1-thursday.rpy:2035
 translate zh_hant a1_thursday_event_horizon_f8cb87ff:
@@ -3742,7 +3742,7 @@ translate zh_hant a1_thursday_event_horizon_69ac20db:
 translate zh_hant a1_thursday_event_horizon_f603e3ba:
 
     # "I'm not looking forward to this kind of work every day, but there should be less after the festival."
-    "但我也不打算每天都這樣幹活，園遊會過後應該會輕鬆一點了吧。"
+    "但我也不打算每天都這樣幹活，學園祭過後應該會輕鬆一點了吧。"
 
 # game/script-a1-thursday.rpy:2387
 translate zh_hant a1_thursday_event_horizon_d4f12c8b:
@@ -4018,13 +4018,13 @@ translate zh_hant a1_thursday_above_and_beyond_be458f5c:
 translate zh_hant a1_thursday_above_and_beyond_e28eb4ac:
 
     # hi "Festival preparations must be tough for you."
-    hi "準備園遊會看來很辛苦啊。"
+    hi "準備學園祭看來很辛苦啊。"
 
 # game/script-a1-thursday.rpy:2533
 translate zh_hant a1_thursday_above_and_beyond_80433201:
 
     # "Indeed, the people in this school seem to be taking the festival very seriously. Whenever I see people idling around before and after classes they're always talking about their plans for it."
-    "確實，這間學校的人對園遊會似乎很重視。課前課後我看到人們的談論，都是關於園遊會的事。"
+    "確實，這間學校的人對學園祭似乎很重視。課前課後我看到人們的談論，都是關於學園祭的事。"
 
 # game/script-a1-thursday.rpy:2535
 translate zh_hant a1_thursday_above_and_beyond_8c17bdf8:
@@ -4096,7 +4096,7 @@ translate zh_hant a1_thursday_above_and_beyond_ef2b123c_1:
 translate zh_hant a1_thursday_above_and_beyond_071a9241:
 
     # mi "It's an important duty of ours, to ensure the success of the festival with all our strength."
-    mi "拼盡全力確保園遊會成功舉行是我們的重要職責。"
+    mi "拼盡全力確保學園祭成功舉行是我們的重要職責。"
 
 # game/script-a1-thursday.rpy:2580
 translate zh_hant a1_thursday_above_and_beyond_ef2b123c_2:
@@ -4108,7 +4108,7 @@ translate zh_hant a1_thursday_above_and_beyond_ef2b123c_2:
 translate zh_hant a1_thursday_above_and_beyond_6024cf23:
 
     # mi "We would shame ourselves in front of the past student council generations if the festival were to fail."
-    mi "如果園遊會出了什麼差錯，我們就沒臉去面對過去的學生會成員了。"
+    mi "如果學園祭出了什麼差錯，我們就沒臉去面對過去的學生會成員了。"
 
 # game/script-a1-thursday.rpy:2590
 translate zh_hant a1_thursday_above_and_beyond_ef2b123c_3:
@@ -4120,7 +4120,7 @@ translate zh_hant a1_thursday_above_and_beyond_ef2b123c_3:
 translate zh_hant a1_thursday_above_and_beyond_42f99426:
 
     # mi "That's why there must be no flaws, no… errr I think that was 'incumbrances,' no nothing that might make the festival short of perfect."
-    mi "所以絕對不允許有任何瑕疵，沒有……呃，我想那個詞是『阻礙』，不允許有任何東西讓園遊會不完美。"
+    mi "所以絕對不允許有任何瑕疵，沒有……呃，我想那個詞是『阻礙』，不允許有任何東西讓學園祭不完美。"
 
 # game/script-a1-thursday.rpy:2597
 translate zh_hant a1_thursday_above_and_beyond_9b2093d5:
@@ -4228,7 +4228,7 @@ translate zh_hant a1_thursday_above_and_beyond_ef2b123c_5:
 translate zh_hant a1_thursday_above_and_beyond_7feda52a:
 
     # mi "If she has any sense in her head, she's in her classroom, working on their festival project. But who knows where that woman is loitering at."
-    mi "如果她腦袋還正常的話，就會在教室裡面趕園遊會的文件。但誰會知道那女人會逛去哪裡呢？"
+    mi "如果她腦袋還正常的話，就會在教室裡面趕學園祭的文件。但誰會知道那女人會逛去哪裡呢？"
 
 # game/script-a1-thursday.rpy:2709
 translate zh_hant a1_thursday_paint_by_numbers_c4674ee7:
@@ -4558,7 +4558,7 @@ translate zh_hant a1_thursday_paint_by_numbers_5048be63:
 translate zh_hant a1_thursday_paint_by_numbers_ad05a3da:
 
     # "Going by the paint cans, decorations and banners being made, it must be for the upcoming school festival."
-    "從顏料堆，正在佈置的裝飾和橫幅來看，肯定是在做園遊會的準備。"
+    "從顏料堆，正在佈置的裝飾和橫幅來看，肯定是在做學園祭的準備。"
 
 # game/script-a1-thursday.rpy:2899
 translate zh_hant a1_thursday_paint_by_numbers_a06eba4d:
@@ -4672,7 +4672,7 @@ translate zh_hant a1_thursday_paint_by_numbers_d0c15076:
 translate zh_hant a1_thursday_paint_by_numbers_b3536a86:
 
     # "That's right, class 3-2 was specially for students with poor vision. Preparing for the festival must be pretty arduous for them."
-    "對了，3-2班是專為視力不佳的學生開設的。對他們來說，準備園遊會想必是件很辛苦的事。"
+    "對了，3-2班是專為視力不佳的學生開設的。對他們來說，準備學園祭想必是件很辛苦的事。"
 
 # game/script-a1-thursday.rpy:2960
 translate zh_hant a1_thursday_paint_by_numbers_d51e50ee:
@@ -4876,7 +4876,7 @@ translate zh_hant a1_thursday_paint_by_numbers_d5ff6ce1:
 translate zh_hant a1_thursday_paint_by_numbers_e81a5add:
 
     # hi "You guys selling noodles at the festival on Sunday?"
-    hi "你們在星期天園遊會裡面賣麵條？"
+    hi "你們在星期天學園祭裡面賣麵條？"
 
 # game/script-a1-thursday.rpy:3079
 translate zh_hant a1_thursday_paint_by_numbers_5a0d1a3f:
@@ -5206,7 +5206,7 @@ translate zh_hant a1_thursday_paint_by_numbers_837fabb2:
 translate zh_hant a1_thursday_paint_by_numbers_81475ff8:
 
     # li "My my, I'm sure a lot of us would be glad to hear that. At least now there's not much work to do until the festival itself."
-    li "哎呀，我敢肯定我們班的人聽到的話會很高興的。起碼到園遊會當天為止都不需要做太多工作了。"
+    li "哎呀，我敢肯定我們班的人聽到的話會很高興的。起碼到學園祭當天為止都不需要做太多工作了。"
 
 # game/script-a1-thursday.rpy:3301
 translate zh_hant a1_thursday_paint_by_numbers_ac5d4a55:
@@ -5314,7 +5314,7 @@ translate zh_hant a1_thursday_paint_by_numbers_487ce202:
 translate zh_hant a1_thursday_paint_by_numbers_837783be:
 
     # li "I'll be glad once the festival is over, in any case."
-    li "無論如何，等園遊會結束後，就能鬆一口氣了。"
+    li "無論如何，等學園祭結束後，就能鬆一口氣了。"
 
 # game/script-a1-thursday.rpy:3356
 translate zh_hant a1_thursday_paint_by_numbers_5e4150c5:
@@ -5326,13 +5326,13 @@ translate zh_hant a1_thursday_paint_by_numbers_5e4150c5:
 translate zh_hant a1_thursday_paint_by_numbers_e24350b5:
 
     # hi "I can imagine. My old school's festivals were a lot more low-key than this."
-    hi "我能想像。我以前學校的園遊會比這平淡多了。"
+    hi "我能想像。我以前學校的學園祭比這平淡多了。"
 
 # game/script-a1-thursday.rpy:3363
 translate zh_hant a1_thursday_paint_by_numbers_8a695294:
 
     # li "Yamaku stresses the idea of a school community, so the staff likes to make our festivals and such special occasions."
-    li "山久很強調學校社群的理念，所以教職員們喜歡把我們的園遊會之類的活動辦得更特別。"
+    li "山久很強調學校社群的理念，所以教職員們喜歡把我們的學園祭之類的活動辦得更特別。"
 
 # game/script-a1-thursday.rpy:3365
 translate zh_hant a1_thursday_paint_by_numbers_7f85d0b3:
@@ -5410,7 +5410,7 @@ translate zh_hant a1_thursday_things_you_can_do_08c41f2f:
 translate zh_hant a1_thursday_things_you_can_do_d9569cc8:
 
     # mi "What were we talking about? Oh yeah, we are really working hard to make the festival happen."
-    mi "我們剛才在聊什麼？喔對了，我們真的很努力地在籌備園遊會。"
+    mi "我們剛才在聊什麼？喔對了，我們真的很努力地在籌備學園祭。"
 
 # game/script-a1-thursday.rpy:3433
 translate zh_hant a1_thursday_things_you_can_do_02cc1c2d:
@@ -5434,7 +5434,7 @@ translate zh_hant a1_thursday_things_you_can_do_4a0f79ee:
 translate zh_hant a1_thursday_things_you_can_do_0f0447b9:
 
     # "The halls are somewhat quiet, as expected. Everyone must be in club meetings or at festival preparations. Or both."
-    "走廊有些安靜，不出所料。大家一定都在社團會議或園遊會的籌備中。或者兩者都是。"
+    "走廊有些安靜，不出所料。大家一定都在社團會議或學園祭的籌備中。或者兩者都是。"
 
 # game/script-a1-thursday.rpy:3444
 translate zh_hant a1_thursday_things_you_can_do_fe341652:
@@ -5452,7 +5452,7 @@ translate zh_hant a1_thursday_things_you_can_do_da2ace70:
 translate zh_hant a1_thursday_things_you_can_do_9060482e:
 
     # "For the festival, it's too late already unless I count helping Shizune and Misha which I naturally don't. And clubs… I don't know."
-    "園遊會的話，現在已經太遲了，除非我去幫靜音和米莎，但我當然不會。至於社團……我不知道。"
+    "學園祭的話，現在已經太遲了，除非我去幫靜音和米莎，但我當然不會。至於社團……我不知道。"
 
 # game/script-a1-thursday.rpy:3450
 translate zh_hant a1_thursday_things_you_can_do_03046b73:
@@ -6580,7 +6580,7 @@ translate zh_hant a1c8o2_c50c4cd5:
 translate zh_hant a1c8o2_62390796:
 
     # mi "And we repeatedly offered you a position to help with the student council work, but you refused to commit yourself to making the festival a success."
-    mi "而且我們一再邀請你來幫忙學生會的工作，但你卻拒絕投入讓園遊會成功。"
+    mi "而且我們一再邀請你來幫忙學生會的工作，但你卻拒絕投入讓學園祭成功。"
 
 # game/script-a1-thursday.rpy:4102
 translate zh_hant a1c8o2_3579514a:

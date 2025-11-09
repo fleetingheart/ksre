@@ -1414,7 +1414,7 @@ translate zh_hant a1_wednesday_detour_ahead_ef2b123c_14:
 translate zh_hant a1_wednesday_detour_ahead_b4f561fc:
 
     # mi "Wahaha~! Hicchan, that isn't important. What matters is that the number is low, and that is why we would appreciate you giving us a hand, especially with the festival coming up so soon, and it looking to be a busy year ahead in general."
-    mi "哇哈哈～！小久，這個可不重要喲。重要的是我們缺人呀，這就是為什麼我們感謝你能幫我們忙，特別是在園遊會就要開幕的時刻，而且以後看起來也會很忙的呀。"
+    mi "哇哈哈～！小久，這個可不重要喲。重要的是我們缺人呀，這就是為什麼我們感謝你能幫我們忙，特別是在學園祭就要開幕的時刻，而且以後看起來也會很忙的呀。"
 
 # game/script-a1-wednesday.rpy:1003
 translate zh_hant a1_wednesday_detour_ahead_2789216d:
@@ -1528,7 +1528,7 @@ translate zh_hant a1_wednesday_detour_ahead_4871b854:
 translate zh_hant a1_wednesday_detour_ahead_bdcefa20:
 
     # mi "Yeah, it would be great if you could just file some papers for us, and… the festival is coming up, and we have to build some stalls for the games and food, just a few, so if you were there, it would be a lot easier for us…"
-    mi "耶，如果你能幫我們處理文件檔案的話就太好了，而且……園遊會就要開始了，我們要給那些賣食品的和佈置遊戲的販子做些攤子，只有幾個而已，如果你在的話，我們就能很快做完嘛……"
+    mi "耶，如果你能幫我們處理文件檔案的話就太好了，而且……學園祭就要開始了，我們要給那些賣食品的和佈置遊戲的販子做些攤子，只有幾個而已，如果你在的話，我們就能很快做完嘛……"
 
 # game/script-a1-wednesday.rpy:1077
 translate zh_hant a1_wednesday_detour_ahead_fc392e91:
@@ -2776,7 +2776,7 @@ translate zh_hant a1_wednesday_it_builds_character_5ab9085a:
 translate zh_hant a1_wednesday_it_builds_character_bb8deac5:
 
     # mi "I… we need help! We are running out of supplies for the festival stands!"
-    mi "我……我們需要幫忙！我們缺少製作園遊會攤位的材料！"
+    mi "我……我們需要幫忙！我們缺少製作學園祭攤位的材料！"
 
 # game/script-a1-wednesday.rpy:1859
 translate zh_hant a1_wednesday_it_builds_character_fe632aad:
@@ -3160,7 +3160,7 @@ translate zh_hant a1_wednesday_a_private_lunch_4ccd1e5c:
 translate zh_hant a1_wednesday_a_private_lunch_67569e56:
 
     # hi "Umm… hello. I was told to pick up some supplies from here. For some festival stalls I think. I didn't think there would be someone here."
-    hi "呃……妳好。有人讓我來這兒拿些園遊會需要的材料。我還以為這裡沒人呢。"
+    hi "呃……妳好。有人讓我來這兒拿些學園祭需要的材料。我還以為這裡沒人呢。"
 
 # game/script-a1-wednesday.rpy:2050
 translate zh_hant a1_wednesday_a_private_lunch_f1ed90b4:
