@@ -88,15 +88,15 @@ translate zh_hant strings:
 
     # game/screens.rpy:251
     old "Skip unread text"
-    new "跳過未讀文字"
+    new "也跳過未讀文字"
 
     # game/screens.rpy:253
     old "Skip after choices"
-    new "跳過選擇"
+    new "選擇後繼續跳過"
 
     # game/screens.rpy:256
     old "Parallax"
-    new "視差"
+    new "Parallax"
 
     # game/screens.rpy:259
     old "Discord activity"
@@ -280,7 +280,7 @@ translate zh_hant strings:
 
     # game/screens.rpy:1073
     old "Colorblind filter"
-    new "色盲調整"
+    new "色盲輔助"
 
     # game/screens.rpy:1172
     old "You must be 18+ to see adult content within this game.\nDo you meet these requirements?"

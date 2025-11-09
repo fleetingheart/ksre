@@ -178,7 +178,7 @@ translate zh_hant a2_lilly_earl_grey_ef2b123c_1:
 translate zh_hant a2_lilly_earl_grey_8e8e1c9e:
 
     # mi "Did you enjoy the festival, then~?"
-    mi "那麼～園遊會玩得開心嗎？"
+    mi "那麼～學園祭玩得開心嗎？"
 
 # game/script-a2-lilly.rpy:137
 translate zh_hant a2_lilly_earl_grey_f33b2189:
@@ -418,7 +418,7 @@ translate zh_hant a2_lilly_earl_grey_a5388aac:
 translate zh_hant a2_lilly_earl_grey_44ae68d3:
 
     # li "How was class, now that the festival's over?"
-    li "現在園遊會結束了，你們班上的情況怎麼樣？"
+    li "現在學園祭結束了，你們班上的情況怎麼樣？"
 
 # game/script-a2-lilly.rpy:386
 translate zh_hant a2_lilly_earl_grey_a8f4627f:
@@ -1678,7 +1678,7 @@ translate zh_hant a2_lilly_presents_and_presence_fedcaa36:
 translate zh_hant a2_lilly_presents_and_presence_f53092f8:
 
     # "While the school may have its fair share of hustle and bustle during the festival, the outside world is much different."
-    "儘管學校也會在園遊會時有著忙亂和喧囂的一面，但和外面的世界還是大不相同的。"
+    "儘管學校也會在學園祭時有著忙亂和喧囂的一面，但和外面的世界還是大不相同的。"
 
 # game/script-a2-lilly.rpy:1179
 translate zh_hant a2_lilly_presents_and_presence_2b8845d1:

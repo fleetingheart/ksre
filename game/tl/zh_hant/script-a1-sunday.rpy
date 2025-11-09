@@ -16,7 +16,7 @@ translate zh_hant a1_sunday_dont_panic_1791ed4f:
 translate zh_hant a1_sunday_dont_panic_d1dd5936:
 
     # "Not just a Sunday, though, but the festival as well."
-    "但今天不只是星期天，還是園遊會的日子。"
+    "但今天不只是星期天，還是學園祭的日子。"
 
 # game/script-a1-sunday.rpy:27
 translate zh_hant a1_sunday_dont_panic_007b9c25:
@@ -40,7 +40,7 @@ translate zh_hant a1_sunday_dont_panic_8c9aadb4:
 translate zh_hant a1_sunday_dont_panic_ba9c4ec9:
 
     # "With no urgent obligations regarding education, I should be free to spend the day at the festival as I like."
-    "既然課業上沒有什麼急事，我今天應該可以隨心所欲地在園遊會逛逛。"
+    "既然課業上沒有什麼急事，我今天應該可以隨心所欲地在學園祭逛逛。"
 
 # game/script-a1-sunday.rpy:38
 translate zh_hant a1_sunday_dont_panic_cca8f25f:
@@ -178,7 +178,7 @@ translate zh_hant a1_sunday_dont_panic_f24bf65b:
 translate zh_hant a1_sunday_dont_panic_435498cb:
 
     # hi "Uhh, it's the festival. You know that… right?"
-    hi "呃，是園遊會啦。你知道的……對吧？"
+    hi "呃，是學園祭啦。你知道的……對吧？"
 
 # game/script-a1-sunday.rpy:117
 translate zh_hant a1_sunday_dont_panic_608da5f4:
@@ -274,7 +274,7 @@ translate zh_hant a1_sunday_dont_panic_b8aedbbb:
 translate zh_hant a1_sunday_dont_panic_26d2a047:
 
     # hi "The weather is even good. Yesterday was really windy, so I thought today would be cold. It's not, though, so there's no reason to just stay inside. Yeah, you should check the festival out."
-    hi "而且天氣還不錯。昨天風很大，我還以為今天會很冷。結果沒有，所以沒理由一直待在室內。是啊，你應該去園遊會看看。"
+    hi "而且天氣還不錯。昨天風很大，我還以為今天會很冷。結果沒有，所以沒理由一直待在室內。是啊，你應該去學園祭看看。"
 
 # game/script-a1-sunday.rpy:161
 translate zh_hant a1_sunday_dont_panic_a441da99:
@@ -388,7 +388,7 @@ translate zh_hant a1_sunday_is_carnival_dce3f7d2:
 translate zh_hant a1_sunday_is_carnival_e0547e62:
 
     # ke "This festival too; it's just one of their ploys."
-    ke "這次的園遊會也是，這不過是她們的其中一個詭計。"
+    ke "這次的學園祭也是，這不過是她們的其中一個詭計。"
 
 # game/script-a1-sunday.rpy:223
 translate zh_hant a1_sunday_is_carnival_430f2fd4:
@@ -442,7 +442,7 @@ translate zh_hant a1_sunday_is_carnival_11e20a95:
 translate zh_hant a1_sunday_is_carnival_669bd374:
 
     # "See the festival."
-    "看看這個園遊會。"
+    "看看這個學園祭。"
 
 # game/script-a1-sunday.rpy:241
 translate zh_hant a1_sunday_is_carnival_6352bfb2:
@@ -478,7 +478,7 @@ translate zh_hant a1_sunday_is_carnival_dd2e5805:
 translate zh_hant a1_sunday_is_carnival_15d244c9:
 
     # "Every so often I catch a glimpse of someone who clearly just came up from town for the promise of a festival."
-    "我不時瞥見一些顯然是為了參加園遊會而從鎮上來的人。"
+    "我不時瞥見一些顯然是為了參加學園祭而從鎮上來的人。"
 
 # game/script-a1-sunday.rpy:260
 translate zh_hant a1_sunday_is_carnival_eaeead98:
@@ -1228,7 +1228,7 @@ translate zh_hant a1_sunday_is_carnival_da9749d8:
 translate zh_hant a1_sunday_is_carnival_b9d4395c:
 
     # "Of course I don't add that I wouldn't be in this state if she hadn't dragged me across the festival grounds."
-    "我當然沒補充說明，如果她沒有拖著我穿過整個園遊會會場，我也不會變成這副德性。"
+    "我當然沒補充說明，如果她沒有拖著我穿過整個學園祭會場，我也不會變成這副德性。"
 
 # game/script-a1-sunday.rpy:652
 translate zh_hant a1_sunday_is_carnival_47c9e7e9:
@@ -1594,7 +1594,7 @@ translate zh_hant a1_sunday_is_carnival_6fabd62f:
 translate zh_hant a1_sunday_is_carnival_18390310:
 
     # "Wandering around the festival with these two has actually been fun."
-    "和她們兩個一起逛園遊會其實也挺開心的。"
+    "和她們兩個一起逛學園祭其實也挺開心的。"
 
 # game/script-a1-sunday.rpy:866
 translate zh_hant a1_sunday_is_carnival_1f9dc14e:
@@ -2044,7 +2044,7 @@ translate zh_hant a1_sunday_clouds_in_my_head_89c5850e:
 translate zh_hant a1_sunday_clouds_in_my_head_8604e465:
 
     # "The carillon bursts into life and the principal's squeaky voice announces the opening of the festival over the PA system."
-    "鐘樓的排鐘聲響徹雲霄，校長尖銳的聲音透過廣播系統宣布園遊會正式開始。"
+    "鐘樓的排鐘聲響徹雲霄，校長尖銳的聲音透過廣播系統宣布學園祭正式開始。"
 
 # game/script-a1-sunday.rpy:1105
 translate zh_hant a1_sunday_clouds_in_my_head_e3987c45:
@@ -2074,7 +2074,7 @@ translate zh_hant a1_sunday_clouds_in_my_head_12d9127a:
 translate zh_hant a1_sunday_clouds_in_my_head_29b2d665:
 
     # "I can't remember the program for the festival, even though Mutou went through it during class just the other day."
-    "我記不得園遊會的活動流程了，雖然武藤前幾天才在課堂上講過。"
+    "我記不得學園祭的活動流程了，雖然武藤前幾天才在課堂上講過。"
 
 # game/script-a1-sunday.rpy:1115
 translate zh_hant a1_sunday_clouds_in_my_head_e49d7ca4:
@@ -2278,7 +2278,7 @@ translate zh_hant a1_sunday_clouds_in_my_head_4c3c0e2c:
 translate zh_hant a1_sunday_clouds_in_my_head_95d06112:
 
     # "The happy noises of the festival are becoming louder as more and more folks enter the grounds."
-    "隨著越來越多人進入校園，園遊會歡樂的喧鬧聲也越來越大。"
+    "隨著越來越多人進入校園，學園祭歡樂的喧鬧聲也越來越大。"
 
 # game/script-a1-sunday.rpy:1232
 translate zh_hant a1_sunday_clouds_in_my_head_404677c0:
@@ -2464,7 +2464,7 @@ translate zh_hant a1_sunday_clouds_in_my_head_be162ee9:
 translate zh_hant a1_sunday_clouds_in_my_head_bffeb373:
 
     # hi "Nothing? But there's the festival, don't you want to go have some fun?"
-    hi "什麼也不做？但今天是園遊會耶，妳不想去玩玩嗎？"
+    hi "什麼也不做？但今天是學園祭耶，妳不想去玩玩嗎？"
 
 # game/script-a1-sunday.rpy:1343
 translate zh_hant a1_sunday_clouds_in_my_head_dfb2cc52:
@@ -2692,7 +2692,7 @@ translate zh_hant a1_sunday_clouds_in_my_head_b22f25f8:
 translate zh_hant a1_sunday_clouds_in_my_head_b3f218ab:
 
     # "This is the pinnacle of social failure. A whole free day, a festival right outside my doorstep, and what do I do?"
-    "這真是社交失敗的典範。一整天的自由時間，門外就是園遊會，結果我做了什麼？"
+    "這真是社交失敗的典範。一整天的自由時間，門外就是學園祭，結果我做了什麼？"
 
 # game/script-a1-sunday.rpy:1461
 translate zh_hant a1_sunday_clouds_in_my_head_6233b155:
@@ -3628,7 +3628,7 @@ translate zh_hant a1_sunday_clouds_in_my_head_0bcb7f89:
 translate zh_hant a1_sunday_clouds_in_my_head_ecb49e2f:
 
     # "The festival turned out to be nothing like I expected."
-    "這次的園遊會和我預期的完全不一樣。"
+    "這次的學園祭和我預期的完全不一樣。"
 
 # game/script-a1-sunday.rpy:1997
 translate zh_hant a1_sunday_clouds_in_my_head_72ba202f:
@@ -4090,7 +4090,7 @@ translate zh_hant a1_sunday_promise_of_time_3b6e73ca:
 translate zh_hant a1_sunday_promise_of_time_93a2fe78:
 
     # ha "I just thought that… Lilly might not be enjoying the festival."
-    ha "我只是以為……莉莉可能不太喜歡園遊會。"
+    ha "我只是以為……莉莉可能不太喜歡學園祭。"
 
 # game/script-a1-sunday.rpy:2273
 translate zh_hant a1_sunday_promise_of_time_69f89abf:
@@ -4102,7 +4102,7 @@ translate zh_hant a1_sunday_promise_of_time_69f89abf:
 translate zh_hant a1_sunday_promise_of_time_a9547d75:
 
     # "The two nod happily before we set out of the library and towards the festivities."
-    "她們兩人高興地點點頭，接著我們便離開圖書館，朝著熱鬧的園遊會走去。"
+    "她們兩人高興地點點頭，接著我們便離開圖書館，朝著熱鬧的學園祭走去。"
 
 # game/script-a1-sunday.rpy:2289
 translate zh_hant a1_sunday_promise_of_time_ae7cf5b0:
@@ -4174,7 +4174,7 @@ translate zh_hant a1_sunday_promise_of_time_824d179c:
 translate zh_hant a1_sunday_promise_of_time_cdca091b:
 
     # li "Did you enjoy the festival then, Hisao?"
-    li "那麼，你喜歡這次的園遊會嗎，久夫？"
+    li "那麼，你喜歡這次的學園祭嗎，久夫？"
 
 # game/script-a1-sunday.rpy:2328
 translate zh_hant a1_sunday_promise_of_time_724736c9:
@@ -4234,7 +4234,7 @@ translate zh_hant a1_sunday_promise_of_time_c95895da:
 translate zh_hant a1_sunday_promise_of_time_8327ed47:
 
     # li "So… that's it. The festival's finally ending."
-    li "所以……就這樣了。園遊會終究是要結束了。"
+    li "所以……就這樣了。學園祭終究是要結束了。"
 
 # game/script-a1-sunday.rpy:2365
 translate zh_hant a1_sunday_promise_of_time_142d50b9:
@@ -4390,7 +4390,7 @@ translate zh_hant a1_sunday_nc5xb3_b1cd5e19:
 translate zh_hant a1_sunday_nc5xb3_fd0ada46:
 
     # "The halls are packed with swaying crowds meandering throughout the festival."
-    "大廳裡擠滿了在園遊會中閒逛、搖擺的人群。"
+    "大廳裡擠滿了在學園祭中閒逛、搖擺的人群。"
 
 # game/script-a1-sunday.rpy:2471
 translate zh_hant a1_sunday_nc5xb3_56cbd4e4:
@@ -4414,7 +4414,7 @@ translate zh_hant a1_sunday_nc5xb3_3dac0cf7:
 translate zh_hant a1_sunday_nc5xb3_1312ab66:
 
     # "Thankfully, this crowd seems to be slightly less festive than your usual festival crowd; I assume this is out of consideration for the student body."
-    "謝天謝地，這裡的人群似乎沒有一般園遊會那麼狂熱；我猜這是出於對學生們的考量。"
+    "謝天謝地，這裡的人群似乎沒有一般學園祭那麼狂熱；我猜這是出於對學生們的考量。"
 
 # game/script-a1-sunday.rpy:2481
 translate zh_hant a1_sunday_nc5xb3_f5b8e67c:
@@ -4438,7 +4438,7 @@ translate zh_hant a1_sunday_nc5xb3_dcb4c0c7:
 translate zh_hant a1_sunday_nc5xb3_40d2c500:
 
     # "As I enter the library, the noise of the festival fades into a dull background noise, and soon I am in the reading area at the rear of the room."
-    "當我走進圖書館，園遊會的喧囂聲逐漸淡化為沉悶的背景噪音，很快地，我便置身於房間後方的閱讀區。"
+    "當我走進圖書館，學園祭的喧囂聲逐漸淡化為沉悶的背景噪音，很快地，我便置身於房間後方的閱讀區。"
 
 # game/script-a1-sunday.rpy:2496
 translate zh_hant a1_sunday_nc5xb3_27c80a8b:
@@ -4768,7 +4768,7 @@ translate zh_hant a1_sunday_nc5xb3_b8fdacf5:
 translate zh_hant a1_sunday_nc5xb3_fb7dd7d6:
 
     # "The noise of the festival is slightly louder inside the tea room, but the breeze coming through the open window makes it worth it."
-    "園遊會的喧囂在茶室裡稍微大聲了點，但從敞開的窗戶吹進來的微風讓一切都值了。"
+    "學園祭的喧囂在茶室裡稍微大聲了點，但從敞開的窗戶吹進來的微風讓一切都值了。"
 
 # game/script-a1-sunday.rpy:2687
 translate zh_hant a1_sunday_nc5xb3_b74cabfe:
@@ -5158,7 +5158,7 @@ translate zh_hant a1_sunday_movement_ceaba2eb:
 translate zh_hant a1_sunday_movement_2de7eece:
 
     # li "Of course; with everyone at the festival it should be practically empty."
-    li "當然。大家都在園遊會，那裡應該幾乎是空的。"
+    li "當然。大家都在學園祭，那裡應該幾乎是空的。"
 
 # game/script-a1-sunday.rpy:2916
 translate zh_hant a1_sunday_movement_ac86271c:
@@ -5278,7 +5278,7 @@ translate zh_hant a1_sunday_movement_40d96c46:
 translate zh_hant a1_sunday_movement_39abfb00:
 
     # "Only now that I can barely hear the incessant noise of the festival do I realize how loud it was. I can hear my ears ringing slightly in the still evening air as they recover from the day's assault on them."
-    "直到現在幾乎聽不見園遊會持續不斷的噪音時，我才意識到它有多吵。在寂靜的傍晚空氣中，我能聽見自己的耳朵在嗡嗡作響，彷彿正從白天的聲音轟炸中恢復過來。"
+    "直到現在幾乎聽不見學園祭持續不斷的噪音時，我才意識到它有多吵。在寂靜的傍晚空氣中，我能聽見自己的耳朵在嗡嗡作響，彷彿正從白天的聲音轟炸中恢復過來。"
 
 # game/script-a1-sunday.rpy:3016
 translate zh_hant a1_sunday_movement_8ef8fbf8:
@@ -5962,7 +5962,7 @@ translate zh_hant a1_sunday_movement_2c17e195:
 translate zh_hant a1_sunday_movement_4513c5a0:
 
     # "I think that's why the school makes such a fuss over this festival. It's a chance to show the similarities between everyone."
-    "學校如此重視他們的園遊會，也許就是這個原因吧。人與人之間總會有相似的地方，這正是分享喜悅的機會。"
+    "學校如此重視他們的學園祭，也許就是這個原因吧。人與人之間總會有相似的地方，這正是分享喜悅的機會。"
 
 # game/script-a1-sunday.rpy:3537
 translate zh_hant a1_sunday_movement_434f301c:
@@ -6496,7 +6496,7 @@ translate zh_hant a1_sunday_throwing_balls_89594031:
 translate zh_hant a1_sunday_throwing_balls_a10b8ec0:
 
     # mi "We just came to make sure you're coming along with us to the festival."
-    mi "我們是來確保你會跟我們一起去逛園遊會的。"
+    mi "我們是來確保你會跟我們一起去逛學園祭的。"
 
 # game/script-a1-sunday.rpy:3892
 translate zh_hant a1_sunday_throwing_balls_ef2b123c:
