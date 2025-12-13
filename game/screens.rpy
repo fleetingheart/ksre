@@ -293,7 +293,7 @@ screen prefs():
 
                 null height 3
 
-                if config.has_music and not renpy.android and not renpy.ios:
+                if config.has_music:
                     hbox:
                         bar value Preference("mixer music volume")
 
@@ -303,7 +303,7 @@ screen prefs():
 
                     null height 3
 
-                if config.has_sound and not renpy.android and not renpy.ios:
+                if config.has_sound:
                     hbox:
                         bar value Preference("mixer sfx volume")
 
