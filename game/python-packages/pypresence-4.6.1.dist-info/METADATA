@@ -1,40 +1,52 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: pypresence
-Version: 4.3.0
+Version: 4.6.1
 Summary: Discord RPC client written in Python
-Home-page: https://github.com/qwertyquerty/pypresence
 Author: qwertyquerty
-License: MIT
-Keywords: discord rich presence pypresence rpc api wrapper gamers chat irc
-Platform: Windows
-Platform: Linux
-Platform: OSX
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/qwertyquerty/pypresence
+Project-URL: Repository, https://github.com/qwertyquerty/pypresence
+Project-URL: Issues, https://github.com/qwertyquerty/pypresence/issues
+Keywords: discord,rich presence,pypresence,rpc,api,wrapper,gamers,chat,irc
 Classifier: Development Status :: 5 - Production/Stable
-Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: Microsoft :: Windows
 Classifier: Operating System :: POSIX :: Linux
 Classifier: Operating System :: MacOS :: MacOS X
 Classifier: Programming Language :: Python
-Classifier: Programming Language :: Python :: 3.8
 Classifier: Programming Language :: Python :: 3.9
 Classifier: Programming Language :: Python :: 3.10
 Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.13
 Classifier: Programming Language :: Python :: 3 :: Only
 Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Typing :: Typed
 Classifier: Intended Audience :: Developers
 Classifier: Topic :: Software Development :: Libraries :: Python Modules
 Classifier: Topic :: Software Development :: Libraries
 Classifier: Topic :: Communications :: Chat
 Classifier: Framework :: AsyncIO
-Requires-Python: >=3.8
+Requires-Python: >=3.9
 Description-Content-Type: text/markdown
 License-File: LICENSE
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0.0; extra == "dev"
+Requires-Dist: pytest-asyncio>=0.21.0; extra == "dev"
+Requires-Dist: pytest-mock>=3.10.0; extra == "dev"
+Requires-Dist: pytest-cov>=4.0.0; extra == "dev"
+Requires-Dist: black>=23.0.0; extra == "dev"
+Requires-Dist: flake8>=6.0.0; extra == "dev"
+Requires-Dist: mypy>=1.0.0; extra == "dev"
+Requires-Dist: isort>=5.12.0; extra == "dev"
+Requires-Dist: sphinx>=5.0.0; extra == "dev"
+Requires-Dist: sphinx-rtd-theme>=1.2.0; extra == "dev"
+Dynamic: license-file
 
 > A Discord Rich Presence Client in Python? Looks like you've come to the right place.
 
 [![GitHub stars](https://img.shields.io/github/stars/qwertyquerty/pypresence.svg?style=for-the-badge&label=Stars)](https://github.com/qwertyquerty/pypresence) [![license](https://img.shields.io/github/license/qwertyquerty/pypresence.svg?style=for-the-badge)](https://github.com/qwertyquerty/pypresence/blob/master/LICENSE) ![GitHub last commit](https://img.shields.io/github/last-commit/qwertyquerty/pypresence.svg?style=for-the-badge) ![GitHub top language](https://img.shields.io/github/languages/top/qwertyquerty/pypresence.svg?style=for-the-badge) ![PyPI](https://img.shields.io/pypi/v/pypresence.svg?style=for-the-badge)
 
-## NOTE: Only Python versions 3.8 and above are supported.
+## NOTE: Only Python versions 3.9 and above are supported.
 
 ### [Documentation](https://qwertyquerty.github.io/pypresence/html/index.html), [Discord Server](https://discord.gg/JF3kg77), [Patreon](https://www.patreon.com/qwertyquerty)
 
@@ -68,7 +80,8 @@ For the latest stable version:
 
 # Documentation
 
-> **NOTE**: You need an **authorized app** to do anything besides rich presence!
+> [!Note]
+> You need an **authorized app** to do anything besides rich presence!
 
 ####  [pypresence Documentation](https://qwertyquerty.github.io/pypresence/html/index.html)
 ####  [Discord Rich Presence Documentation](https://discord.com/developers/docs/rich-presence/how-to)
@@ -81,6 +94,12 @@ For the latest stable version:
 # Examples
 
 Examples can be found in the [examples](https://github.com/qwertyquerty/pypresence/tree/master/examples) directory, and you can contribute your own examples if you wish, just read [examples.md](https://github.com/qwertyquerty/pypresence/blob/master/examples/examples.md)!
+
+----------
+
+# Development
+
+Want to contribute? Check out the **[Development Guide](DEVELOPMENT.md)** for setup instructions, testing, code quality tools, and contribution guidelines.
 
 ----------
 Written by: [qwertyquerty](https://github.com/qwertyquerty)

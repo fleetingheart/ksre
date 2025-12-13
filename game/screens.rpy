@@ -11,7 +11,7 @@ screen say(who, what):
 
     vbox:
         style_suffix "vbox"
-        
+
         if who and who.strip():
             window id "namebox":
                 at colorblind(persistent.colorblind)
@@ -22,6 +22,8 @@ screen say(who, what):
 
         window id "window":
             text what id "what"
+
+    key "K_UP" action ShowMenu("history")
 
 screen doublespeak(c1, t1, c2, t2):
     style_prefix "doublespeak"
@@ -947,6 +949,7 @@ screen history():
                 draggable True
                 xsize 730
                 ysize 500
+                yinitial 1.0
 
                 has vbox
 
