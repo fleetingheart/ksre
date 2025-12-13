@@ -701,6 +701,8 @@ screen gallery(page=0):
     default return_hovered = False
     default local_items = set()
 
+    on "show" action SetVariable("_gallery_page", page)
+
     add "main_menu_bg" at colorblind(persistent.colorblind)
     add "blind"
 
@@ -737,9 +739,9 @@ screen gallery(page=0):
                         hovered Function(local_items.add, i)
                         unhovered Function(local_items.remove, i)
                         if i is len(_gallery_images) - 1:
-                            action [Function(ach, "fullcomplete_achieve"), Call("watch_gallery", img[1:] if img[0].startswith("thumb/") else img)]
+                            action [SetVariable("_gallery_page", page), Function(ach, "fullcomplete_achieve"), Call("watch_gallery", img[1:] if img[0].startswith("thumb/") else img)]
                         else:
-                            action Call("watch_gallery", img[1:] if img[0].startswith("thumb/") else img )
+                            action [SetVariable("_gallery_page", page), Call("watch_gallery", img[1:] if img[0].startswith("thumb/") else img)]
 
                         if i in local_items:
                             image Composite((220, 170),

@@ -25,10 +25,12 @@ label main_menu:
 
     return
 
+default _gallery_page = 0
+
 label gallery:
-    show screen gallery(0)
-    call screen gallery(0)
-    
+    show screen gallery(_gallery_page)
+    call screen gallery(_gallery_page)
+
     return
 
 
@@ -84,9 +86,9 @@ label watch_gallery(images):
         pause
 
     scene black
-    show screen gallery
+    show screen gallery(_gallery_page)
     with dotwipe_up
-    
+
     jump gallery
 
 label watch_video(video):

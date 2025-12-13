@@ -1142,9 +1142,7 @@ image evul hisao_teacup:
     zoom 0.8
 
 image ev akira_park = "event/akira_park.png"
-image evul akira_park:
-    "event/akira_park.png"
-    zoom 0.8
+image evul akira_park = "event/akira_park.png"
 
 image ev lilly_sheets = "event/lilly_sheets.png"
 
