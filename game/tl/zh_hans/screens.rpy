@@ -291,3 +291,23 @@ translate zh_hans strings:
     old "Skip hurtful adult scenes"
     new "跳过伤害性的成人场景"
 
+# TODO: Translation updated at 2026-01-25 19:50
+
+translate zh_hans strings:
+
+    # game/screens.rpy:273
+    old "Disable expression transitions"
+    new ""
+
+    # game/screens.rpy:361
+    old "Brazilian Portuguese"
+    new "巴西葡萄牙语"
+
+    # game/screens.rpy:858
+    old "Completion: [completion_percentage]"
+    new ""
+
+    # game/screens.rpy:1079
+    old "Colorblind filter"
+    new ""
+

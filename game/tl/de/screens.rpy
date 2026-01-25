@@ -292,3 +292,23 @@ translate de strings:
     old "Skip hurtful adult scenes"
     new "Überspringe psychisch belastende Inhalte"
 
+# TODO: Translation updated at 2026-01-25 19:33
+
+translate de strings:
+
+    # game/screens.rpy:273
+    old "Disable expression transitions"
+    new ""
+
+    # game/screens.rpy:361
+    old "Brazilian Portuguese"
+    new "Brasilianisches Portugiesisch"
+
+    # game/screens.rpy:858
+    old "Completion: [completion_percentage]"
+    new ""
+
+    # game/screens.rpy:1079
+    old "Colorblind filter"
+    new ""
+

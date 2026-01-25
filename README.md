@@ -22,6 +22,7 @@ The game currently supports the following languages:
 * Japanese
 * Simplified Chinese
 * Traditional Chinese
+* Brazilian Portuguese
 
 ## Features
 The project offers several notable features:

@@ -301,3 +301,23 @@ translate fr strings:
     old "Simplified Chinese"
     new "Chinois simplifié"
 
+# TODO: Translation updated at 2026-01-25 19:41
+
+translate fr strings:
+
+    # game/screens.rpy:273
+    old "Disable expression transitions"
+    new ""
+
+    # game/screens.rpy:361
+    old "Brazilian Portuguese"
+    new "Portugais brésilien"
+
+    # game/screens.rpy:858
+    old "Completion: [completion_percentage]"
+    new ""
+
+    # game/screens.rpy:1079
+    old "Colorblind filter"
+    new ""
+

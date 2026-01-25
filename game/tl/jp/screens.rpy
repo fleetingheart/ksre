@@ -144,7 +144,7 @@ translate jp strings:
 
     # game/screens.rpy:293
     old "Portuguese"
-    new "ポルトガル語"
+    new "ポルトガル語eee"
 
     # game/screens.rpy:294
     old "Japanese"
@@ -313,3 +313,19 @@ translate jp strings:
     # game/screens.rpy:841
     old "Completion: [completion_percentage]"
     new "進捗率: [completion_percentage]"
+# TODO: Translation updated at 2026-01-25 19:46
+
+translate jp strings:
+
+    # game/screens.rpy:273
+    old "Disable expression transitions"
+    new ""
+
+    # game/screens.rpy:361
+    old "Brazilian Portuguese"
+    new "ブラジルポルトガル語"
+
+    # game/screens.rpy:1079
+    old "Colorblind filter"
+    new ""
+

@@ -1230,3 +1230,43 @@ translate fr strings:
     old "Parsing the script failed."
     new "Parsing the script failed."
 
+# TODO: Translation updated at 2026-01-25 19:41
+
+translate fr strings:
+
+    # renpy/common/000statements.rpy:28
+    old "Click to play the video."
+    new ""
+
+    # renpy/common/00accessibility.rpy:180
+    old "Mono Audio"
+    new ""
+
+    # renpy/common/00accessibility.rpy:246
+    old "Kerning"
+    new ""
+
+    # renpy/common/00accessibility.rpy:288
+    old "Self-Voicing and Audio"
+    new ""
+
+    # renpy/common/00accessibility.rpy:292
+    old "Text"
+    new ""
+
+    # renpy/common/00preferences.rpy:602
+    old "mono audio"
+    new ""
+
+    # renpy/common/00preferences.rpy:611
+    old "font kerning"
+    new ""
+
+    # renpy/common/00updater.rpy:1935
+    old "An error has occurred:"
+    new ""
+
+    # renpy/common/00updater.rpy:1992
+    old "An error occurred when trying to download game data:"
+    new ""
+

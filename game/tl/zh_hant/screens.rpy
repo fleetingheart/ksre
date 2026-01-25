@@ -294,3 +294,11 @@ translate zh_hant strings:
     old "This question will not be shown again after you start playing."
     new "在遊戲開始後，此問題不會再次顯示。"
 
+# TODO: Translation updated at 2026-01-25 19:51
+
+translate zh_hant strings:
+
+    # game/screens.rpy:361
+    old "Brazilian Portuguese"
+    new "巴西葡萄牙語"
+

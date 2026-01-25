@@ -292,3 +292,11 @@ translate it strings:
     old "This question will not be shown again after you start playing."
     new "Questa domanda non verrà più visualizzata dopo aver iniziato a giocare."
 
+# TODO: Translation updated at 2026-01-25 19:44
+
+translate it strings:
+
+    # game/screens.rpy:361
+    old "Brazilian Portuguese"
+    new "Portoghese brasiliano"
+

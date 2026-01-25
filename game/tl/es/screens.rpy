@@ -303,3 +303,11 @@ translate es strings:
     # game/screens.rpy:841
     old "Completion: [completion_percentage]"
     new "Completado: [completion_percentage]"
+# TODO: Translation updated at 2026-01-25 19:38
+
+translate es strings:
+
+    # game/screens.rpy:361
+    old "Brazilian Portuguese"
+    new "Portugués brasileño"
+
