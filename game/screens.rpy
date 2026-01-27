@@ -1067,6 +1067,20 @@ screen accessibility():
 
                         text _("Volume drop")
 
+                    hbox:
+                        bar value FieldValue(object=persistent, field='opacity', range=1.0, max_is_zero=False, style="slider", offset=0, step=0.1)
+
+                        null width 15
+
+                        text _("Opacity")
+
+                    hbox:
+                        bar value FieldValue(object=persistent, field='text_size_offset', range=18, max_is_zero=False, style="slider", offset=-10, step=2)
+
+                        null width 15
+
+                        text _("Text size")
+
             text _("Mental health"):
                 bold True
                 size bold_size
@@ -1114,9 +1128,9 @@ screen accessibility():
 
             textbutton _("Return"):
                 style "return_button"
-                action [SetVariable("expanded", False), If(main_menu, true=Return(), false=ShowMenu("game_menu"))]
+                action [SetVariable("expanded", False), If(main_menu, true=Return(), false=ShowMenu("game_menu")), Function(update_opacity), Function(update_text_size)]
 
-    key "game_menu" action If(main_menu, true=Return(), false=ShowMenu("game_menu"))
+    key "game_menu" action [If(main_menu, true=Return(), false=ShowMenu("game_menu")), Function(update_opacity), Function(update_text_size)]
 
 screen mods():
     tag menu

@@ -92,7 +92,7 @@ style say_namebox:
     ysize 0.135
     xpadding 20
     top_padding 10
-    background Frame("gui/bg/namebox.png")
+    background Transform(Frame("gui/bg/namebox.png"), alpha=persistent.opacity)
 
 style say_window:
     xalign 0.5
@@ -103,7 +103,7 @@ style say_window:
     xpadding 40
     top_padding 10
     bottom_padding 20
-    background Frame("gui/bg/saybox.png")
+    background Transform(Frame("gui/bg/saybox.png"), alpha=persistent.opacity)
 
 style say_dialogue is default:
     size 42 + (mobile_ts_add - 6) * is_mobile

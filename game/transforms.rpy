@@ -11,6 +11,15 @@ init python:
             before=MoveTransition(time, time_warp=time_warp, old=True),
             after=MoveTransition(time, time_warp=time_warp))
 
+    def update_opacity():
+        style.say_window.background = Transform(Frame("gui/bg/saybox.png"), alpha=persistent.opacity)
+        style.say_namebox.background = Transform(Frame("gui/bg/namebox.png"), alpha=persistent.opacity)
+        style.rebuild()
+
+    def update_text_size():
+        style.say_dialogue.size = 42 + persistent.text_size_offset
+        style.rebuild()
+
     class SoundTransition(renpy.display.transition.Transition):
         def __init__(self, sound, old_widget=None, new_widget=None, **properties):
             super(SoundTransition, self).__init__(0.0001, **properties)
@@ -468,3 +477,7 @@ define easein = MoveTransition(0.5, time_warp=_ease_in_time_warp)
 
 define charamove_accel = MoveTransition(1.0, time_warp=_ease_out_time_warp)
 define charamove_decel = MoveTransition(1.0, time_warp=_ease_in_time_warp)
+
+default persistent.opacity = 1.0
+default persistent.outline = 0
+default persistent.text_size_offset = 0
