@@ -75,6 +75,13 @@ translations:
     - font: ../game/font/playtime.ttf
       size: 52
       text: "Lesen lernen"
+  pt_br:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Ato 2:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Aprendendo a Ler"
   es:
     - font: ../game/font/playtime_bold.ttf
       size: 52

@@ -31,6 +31,7 @@ EOF
 
 LANGUAGES=$(cat <<EOF
 de
+pt_br
 es
 fr
 it

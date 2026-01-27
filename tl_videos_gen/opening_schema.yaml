@@ -9,6 +9,7 @@ font_size: 42
 
 langs:
   - de
+  - pt_br
   - es
   - fr
   - it
@@ -24,6 +25,7 @@ blocks:
     values:
       default: "Four Leaf Studios presents"
       de: "Four Leaf Studios präsentiert"
+      pt_br: "Four Leaf Studios apresenta"
       es: "Four Leaf Studios presenta"
       fr: "Four Leaf Studios présente"
       it: "Four Leaf Studios presenta"
@@ -37,6 +39,7 @@ blocks:
     items:
       - default: "Inspiration"
         de: "Inspiration"
+        pt_br: "Inspiração"
         es: "Inspiración"
         fr: "Inspiration"
         it: "Ispirazione"
@@ -51,6 +54,7 @@ blocks:
     items:
       - default: "Writing"
         de: "Autoren"
+        pt_br: "Escrito por"
         es: "Escrito por"
         fr: "Écriture"
         it: "Scrittori"
@@ -69,6 +73,7 @@ blocks:
     items:
       - default: "Editing"
         de: "Editoren"
+        pt_br: "Edição"
         es: "Edición"
         fr: "Édition"
         it: "Editori"
@@ -85,6 +90,7 @@ blocks:
     items:
       - default: "Music"
         de: "Musik"
+        pt_br: "Música"
         es: "Música"
         fr: "Musique"
         it: "Musica"
@@ -100,6 +106,7 @@ blocks:
     items:
       - default: "Art"
         de: "Künstler"
+        pt_br: "Arte"
         es: "Arte"
         fr: "Visuels"
         it: "Artisti"
@@ -116,6 +123,7 @@ blocks:
     items:
       - default: "Art"
         de: "Künstler"
+        pt_br: "Arte"
         es: "Arte"
         fr: "Visuels"
         it: "Artisti"
@@ -132,6 +140,7 @@ blocks:
     items:
       - default: "Additional Art"
         de: "Zusätzliches Material"
+        pt_br: "Arte Adicional"
         es: "Arte Adicional"
         fr: "Visuels supplémentaires"
         it: "Artisti Addizionali"
@@ -148,6 +157,7 @@ blocks:
     items:
       - default: "FMV Animation"
         de: "FMV Animation"
+        pt_br: "Animação FMV"
         es: "Animación FMV"
         fr: "Animation FMV"
         it: "Animazioni FMV"
@@ -162,6 +172,7 @@ blocks:
     items:
       - default: "Directing"
         de: "Regie"
+        pt_br: "Direção"
         es: "Dirección"
         fr: "Direction"
         it: "Direttori"
@@ -178,6 +189,7 @@ blocks:
     items:
       - default: "Engineering"
         de: "Technik"
+        pt_br: "Programação"
         es: "Ingeniería"
         fr: "Programmation"
         it: "Programmatore"
@@ -192,6 +204,7 @@ blocks:
     items:
       - default: "Production"
         de: "Produktion"
+        pt_br: "Produção"
         es: "Producción"
         fr: "Production"
         it: "Produttori"

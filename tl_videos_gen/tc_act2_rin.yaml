@@ -75,6 +75,13 @@ translations:
     - font: ../game/font/playtime.ttf
       size: 52
       text: "Losgelöst"
+  pt_br:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Ato 2:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Desconexão"
   es:
     - font: ../game/font/playtime_bold.ttf
       size: 52

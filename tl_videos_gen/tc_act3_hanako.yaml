@@ -67,6 +67,13 @@ translations:
     - font: ../game/font/playtime.ttf
       size: 52
       text: "Rochaden"
+  pt_br:
+    - font: ../game/font/playtime_bold.ttf
+      size: 52
+      text: "Ato 3:"
+    - font: ../game/font/playtime.ttf
+      size: 52
+      text: "Roque"
   es:
     - font: ../game/font/playtime_bold.ttf
       size: 52
