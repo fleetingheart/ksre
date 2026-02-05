@@ -43,7 +43,7 @@ steps:
       - prepare-env
 
   build:
-    image: source.hodakov.me/containers/renkit:v6.1.0
+    image: source.hodakov.me/containers/renkit:6.1.0
     environment:
       SDL_AUDIODRIVER: dummy
       SDL_VIDEODRIVER: dummy
