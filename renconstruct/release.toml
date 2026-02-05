@@ -21,3 +21,4 @@
 
 [renutil]
   version = "RENPY_VERSION" # the Ren'Py version to use (required)
+  update_pickle = true

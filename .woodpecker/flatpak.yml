@@ -1,6 +1,9 @@
 when:
   event: tag
 
+depends_on:
+  - build
+
 labels:
   platform: linux/amd64 # it doesn't work on arm64 unfortunately
 
@@ -18,30 +21,6 @@ steps:
       - chmod +x ./scripts/*.sh
       - ./scripts/prepare_env.sh
 
-  prepare-storage:
-    image: alpine:latest
-    environment:
-      CI_SSH_HOST:
-        from_secret: storage_ssh_host
-      CI_SSH_PORT:
-        from_secret: storage_ssh_port
-      CI_SSH_USER:
-        from_secret: storage_ssh_user
-      CI_PRIVATE_SSH_KEY:
-        from_secret: storage_ssh_key
-      CI_STORAGE_PREFIX:
-        from_secret: storage_directory_prefix
-    commands:
-      - export $(grep -v '^#' .env | xargs)
-      - *install_ssh
-      - *ssh_setup_start_agent
-      - *ssh_setup_import_key
-      - *ssh_setup_configure
-      - mkdir ./dists/
-      - ssh -p $${CI_SSH_PORT} $${CI_SSH_USER}@$${CI_SSH_HOST} -- "mkdir $${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
-    depends_on:
-      - prepare-env
-
   build:
     image: source.hodakov.me/containers/renkit:6.1.0
     environment:
@@ -54,17 +33,35 @@ steps:
         from_secret: keystore_pass
     commands:
       - export $(grep -v '^#' .env | xargs)
-      - sed -i "s#0.0.0-localbuild#$${CI_KSRE_VERSION}#" game/config.rpy
-      - sed -i "s#KEYSTORE_APK#$${KEYSTORE_APK}#" renconstruct/release.toml
-      - sed -i "s#KEYSTORE_ALIAS#$${KEYSTORE_ALIAS}#" renconstruct/release.toml
-      - sed -i "s#KEYSTORE_PASS#$${KEYSTORE_PASS}#" renconstruct/release.toml
-      - sed -i "s#RENPY_VERSION#$${RENPY_VERSION}#" renconstruct/release.toml
-      - renconstruct build -c renconstruct/release.toml . ./dists
+      - mkdir ./dists/
+      # Disable Steam Achievements for Flatpak release since they're no-op outside of Steam.
+      - sed -i 's/define config.steam_appid = "3068300"/define config.steam_appid = None/g' game/achievement.rpy
+      - sed -i "s#RENPY_VERSION#$${RENPY_VERSION}#" renconstruct/flatpak.toml
+      - renconstruct build -c renconstruct/flatpak.toml . ./dists
     depends_on:
       - prepare-env
-      - prepare-storage
 
-  upload-assets:
+  package-flatpak:
+    image: alpine:latest
+    commands:
+      - cd ./dists/
+      - tar xf ./KSRE-linux.tar.bz2
+      - mkdir -p ./bundle/{amd64,aarch64}
+      - cp -R ./KSRE-linux/* ./bundle/amd64/
+      - cp -R ./KSRE-linux/* ./bundle/aarch64/
+      # It's simpler to remove unneccessary stuff than to filter neccessary, lol.
+      - rm -rf ./bundle/amd64/lib/py3-linux-aarch64
+      - rm -rf ./bundle/aarch64/lib/py3-linux-amd64
+      - cp ../scripts/flatpak-launcher.sh ./bundle/{amd64,aarch64}/ksre
+      - chmod +x ./bundle/{amd64,aarch64}/ksre
+      - tar cjvf ./sh.fhs.ksre.flatpak-root-amd64.tar.bz2 ./bundle/amd64
+      - tar cjvf ./sh.fhs.ksre.flatpak-root-aarch64.tar.bz2 ./bundle/aarch64
+    depends_on:
+      - prepare-env
+      - build
+
+
+  upload-flatpak-assets:
     image: alpine:latest
     environment:
       CI_SSH_HOST:
@@ -83,8 +80,8 @@ steps:
       - *ssh_setup_start_agent
       - *ssh_setup_import_key
       - *ssh_setup_configure
-      - scp -P $${CI_SSH_PORT} ./dists/* "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
+      - scp -P $${CI_SSH_PORT} ./dists/KSRE-flatpak-root-* "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
     depends_on:
       - prepare-env
-      - prepare-storage
       - build
+      - package-flatpak

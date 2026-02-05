@@ -29,7 +29,7 @@ init python:
     build.classify("/steamdeck/*.*", None)
     build.classify("/.woodpecker/*.*", None)
     build.classify("/scripts/*.*", None)
-    build.classify("**/renconstruct.toml", None)
+    build.classify("/renconstruct/*.*", None)
     build.classify("**/caddy.conf.template", None)
     build.classify("**/CONTRIBUTING.md", None)
     build.classify("**/_android-presplash.png", None)

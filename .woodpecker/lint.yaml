@@ -13,7 +13,7 @@ steps:
       - ./scripts/prepare_env.sh
 
   lint:
-    image: source.hodakov.me/containers/renkit:latest
+    image: source.hodakov.me/containers/renkit:6.1.0
     environment:
       SDL_AUDIODRIVER: dummy
       SDL_VIDEODRIVER: dummy

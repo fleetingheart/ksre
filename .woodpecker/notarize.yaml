@@ -43,11 +43,11 @@ steps:
       - prepare-env
 
   notarize:
-    image: source.hodakov.me/containers/renkit:latest
+    image: source.hodakov.me/containers/renkit:6.1.0
     environment:
       SDL_AUDIODRIVER: dummy
       SDL_VIDEODRIVER: dummy
-      RENPY_VERSION: 8.4.1
+      RENPY_VERSION: 8.5.2
       MACOS_APPSTORE_KEY:
         from_secret: macos_app_store_key
       MACOS_NOTARIZE_CERTIFICATE:
