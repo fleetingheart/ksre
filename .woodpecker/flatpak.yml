@@ -34,6 +34,7 @@ steps:
     commands:
       - export $(grep -v '^#' .env | xargs)
       - mkdir ./dists/
+      - sed -i "s#0.0.0-localbuild#$${CI_KSRE_VERSION}#" game/config.rpy
       # Disable Steam Achievements for Flatpak release since they're no-op outside of Steam.
       - sed -i 's/define config.steam_appid = "3068300"/define config.steam_appid = None/g' game/achievement.rpy
       - sed -i "s#RENPY_VERSION#$${RENPY_VERSION}#" renconstruct/flatpak.toml
