@@ -46,16 +46,18 @@ steps:
     commands:
       - cd ./dists/
       - tar xf ./KSRE-linux.tar.bz2
-      - mkdir -p ./bundle/{amd64,aarch64}
+      - mkdir -p ./bundle/amd64 ./bundle/aarch64
       - cp -R ./KSRE-linux/* ./bundle/amd64/
       - cp -R ./KSRE-linux/* ./bundle/aarch64/
       # It's simpler to remove unneccessary stuff than to filter neccessary, lol.
       - rm -rf ./bundle/amd64/lib/py3-linux-aarch64
       - rm -rf ./bundle/aarch64/lib/py3-linux-amd64
-      - cp ../scripts/flatpak-launcher.sh ./bundle/{amd64,aarch64}/ksre
-      - chmod +x ./bundle/{amd64,aarch64}/ksre
-      - tar cjvf ./sh.fhs.ksre.flatpak-root-amd64.tar.bz2 ./bundle/amd64
-      - tar cjvf ./sh.fhs.ksre.flatpak-root-aarch64.tar.bz2 ./bundle/aarch64
+      - cp ../scripts/flatpak-launcher.sh ./bundle/amd64/ksre
+      - cp ../scripts/flatpak-launcher.sh ./bundle/aarch64/ksre
+      - chmod +x ./bundle/amd64/ksre
+      - chmod +x ./bundle/aarch64/ksre
+      - tar cjvf ./sh.fhs.ksre.flatpak-root-amd64.tar.bz2 -C ./bundle/amd64 .
+      - tar cjvf ./sh.fhs.ksre.flatpak-root-aarch64.tar.bz2 -C ./bundle/aarch64 .
     depends_on:
       - prepare-env
       - build
