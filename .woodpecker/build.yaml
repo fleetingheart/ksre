@@ -38,7 +38,7 @@ steps:
       - *ssh_setup_import_key
       - *ssh_setup_configure
       - mkdir ./dists/
-      - ssh -p $${CI_SSH_PORT} $${CI_SSH_USER}@$${CI_SSH_HOST} -- "mkdir $${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
+      - ssh -p $${CI_SSH_PORT} $${CI_SSH_USER}@$${CI_SSH_HOST} -- "mkdir -p $${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
     depends_on:
       - prepare-env
 

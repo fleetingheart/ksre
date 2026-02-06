@@ -62,7 +62,7 @@ steps:
       - *ssh_setup_import_key
       - *ssh_setup_configure
       - scp -P $${CI_SSH_PORT} -r ./dists/web.zip $${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_DESTINATION_DIRECTORY}/
-      - ssh -p $${CI_SSH_PORT} $${CI_SSH_USER}@$${CI_SSH_HOST} -- "mkdir $${CI_DESTINATION_DIRECTORY}/$${CI_KSRE_VERSION} && cd $${CI_DESTINATION_DIRECTORY}/$${CI_KSRE_VERSION} && unzip ../web.zip && rm ../web.zip"
+      - ssh -p $${CI_SSH_PORT} $${CI_SSH_USER}@$${CI_SSH_HOST} -- "mkdir -p $${CI_DESTINATION_DIRECTORY}/$${CI_KSRE_VERSION} && cd $${CI_DESTINATION_DIRECTORY}/$${CI_KSRE_VERSION} && unzip ../web.zip && rm ../web.zip"
     depends_on:
       - prepare-storage
 
