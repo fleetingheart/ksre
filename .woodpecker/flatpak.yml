@@ -1,12 +1,6 @@
 when:
   event: tag
 
-depends_on:
-  - build
-
-labels:
-  platform: linux/amd64 # it doesn't work on arm64 unfortunately
-
 variables:
   .ssh_setup_start_agent: &ssh_setup_start_agent eval $(ssh-agent -s)
   .ssh_setup_import_key: &ssh_setup_import_key echo "$${CI_PRIVATE_SSH_KEY}" | ssh-add -
@@ -20,6 +14,30 @@ steps:
       - apk update && apk add git
       - chmod +x ./scripts/*.sh
       - ./scripts/prepare_env.sh
+
+  prepare-storage:
+    image: alpine:latest
+    environment:
+      CI_SSH_HOST:
+        from_secret: storage_ssh_host
+      CI_SSH_PORT:
+        from_secret: storage_ssh_port
+      CI_SSH_USER:
+        from_secret: storage_ssh_user
+      CI_PRIVATE_SSH_KEY:
+        from_secret: storage_ssh_key
+      CI_STORAGE_PREFIX:
+        from_secret: storage_directory_prefix
+    commands:
+      - export $(grep -v '^#' .env | xargs)
+      - *install_ssh
+      - *ssh_setup_start_agent
+      - *ssh_setup_import_key
+      - *ssh_setup_configure
+      - mkdir ./dists/
+      - ssh -p $${CI_SSH_PORT} $${CI_SSH_USER}@$${CI_SSH_HOST} -- "mkdir -p $${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}"
+    depends_on:
+      - prepare-env
 
   build:
     image: source.hodakov.me/containers/renkit:6.1.0
@@ -63,7 +81,6 @@ steps:
     depends_on:
       - prepare-env
       - build
-
 
   upload-flatpak-assets:
     image: alpine:latest
