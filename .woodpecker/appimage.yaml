@@ -9,6 +9,8 @@ labels:
 when:
   event: tag
 
+skip_clone: true
+
 depends_on:
   - build
 
