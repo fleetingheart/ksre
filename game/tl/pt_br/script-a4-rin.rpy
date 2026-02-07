@@ -10667,12 +10667,12 @@ translate pt_br a4_rin_proof_of_existence_a1f16ab2:
     extend " Ainda que a existência continuará mesmo que você esqueça dela por um tempo, é bom aproveitar o dia de vez em quando."
 
 # game/script-a4-rin.rpy:5518
-translate pt_br a4_rin_proof_of_existence_0799c3cd:
+#translate pt_br a4_rin_proof_of_existence_0799c3cd:
 
     # nvl clear
     # centered_alive "That way… you can confirm that you are, in fact…"
-    nvl clear
-    centered_alive "Dessa maneira… você pode confirmar que você está, de fato…"
+    # nvl clear
+    # centered_alive "Dessa maneira… você pode confirmar que você está, de fato…"
 
 # game/script-a4-rin.rpy:5540
 translate pt_br a4_rin_proof_of_existence_7460cbe0:
@@ -12927,11 +12927,11 @@ translate pt_br strings:
 
     # game/script-a4-rin.rpy:5522
     old "That way… you can confirm that you are, in fact…"
-    new "Dessa maneira… você pode confirmar que você está, de fato…"
+    new "Dessa maneira… você pode confirmar que está, de fato…"
 
     # game/script-a4-rin.rpy:5527
     old "That way… you can confirm that you are, in fact… alive."
-    new "Dessa maneira… você pode confirmar que você está, de fato… viva."
+    new "Dessa maneira… você pode confirmar que está, de fato… viva."
 
 # TODO: Translation updated at 2025-12-20 12:54
 
@@ -12941,11 +12941,11 @@ translate pt_br a4_rin_proof_of_existence_115223a8:
     # nvl clear
     # centered_b "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
     nvl clear
-    centered_b "Dessa maneira... você pode confirmar que está, de fato... {color=#fff}viva.{/color}"
+    centered_b "Dessa maneira… você pode confirmar que está, de fato… {color=#fff}viva.{/color}"
 
 translate pt_br strings:
 
     # game/script-a4-rin.rpy:5562
     old "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
-    new "Dessa maneira... você pode confirmar que está, de fato... {color=#fff}viva.{/color}"
+    new "Dessa maneira… você pode confirmar que está, de fato… {color=#fff}viva.{/color}"
 
