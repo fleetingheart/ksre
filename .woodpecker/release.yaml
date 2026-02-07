@@ -7,8 +7,6 @@ depends_on:
   - notarize
   - flatpak
 
-skip_clone: true
-
 variables:
   .ssh_setup_start_agent: &ssh_setup_start_agent eval $(ssh-agent -s)
   .ssh_setup_import_key: &ssh_setup_import_key echo "$${CI_PRIVATE_SSH_KEY}" | ssh-add -
