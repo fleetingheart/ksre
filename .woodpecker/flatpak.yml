@@ -51,19 +51,20 @@ steps:
         from_secret: keystore_pass
     commands:
       - export $(grep -v '^#' .env | xargs)
-      - mkdir ./dists/
+      - mkdir -p ./dists/flatpak
       - sed -i "s#0.0.0-localbuild#$${CI_KSRE_VERSION}#" game/config.rpy
       # Disable Steam Achievements for Flatpak release since they're no-op outside of Steam.
       - sed -i 's/define config.steam_appid = "3068300"/define config.steam_appid = None/g' game/achievement.rpy
       - sed -i "s#RENPY_VERSION#$${RENPY_VERSION}#" renconstruct/flatpak.toml
-      - renconstruct build -c renconstruct/flatpak.toml . ./dists
+      - renconstruct build -c renconstruct/flatpak.toml . ./dists/flatpak
     depends_on:
       - prepare-env
+      - prepare-storage
 
   package-flatpak:
     image: alpine:latest
     commands:
-      - cd ./dists/
+      - cd ./dists/flatpak
       - tar xf ./KSRE-linux.tar.bz2
       - mkdir -p ./bundle/amd64/app/ksre ./bundle/aarch64/app/ksre
       - mkdir -p ./bundle/amd64/bin ./bundle/aarch64/bin
@@ -72,12 +73,12 @@ steps:
       # It's simpler to remove unneccessary stuff than to filter neccessary, lol.
       - rm -rf ./bundle/amd64/app/ksre/lib/py3-linux-aarch64
       - rm -rf ./bundle/aarch64/app/ksre/lib/py3-linux-amd64
-      - cp ../scripts/flatpak-launcher.sh ./bundle/amd64/bin/ksre
-      - cp ../scripts/flatpak-launcher.sh ./bundle/aarch64/bin/ksre
+      - cp ../../scripts/flatpak-launcher.sh ./bundle/amd64/bin/ksre
+      - cp ../../scripts/flatpak-launcher.sh ./bundle/aarch64/bin/ksre
       - chmod +x ./bundle/amd64/bin/ksre
       - chmod +x ./bundle/aarch64/bin/ksre
-      - tar cjvf ./sh.fhs.ksre.flatpak-root-amd64.tar.bz2 -C ./bundle/amd64 .
-      - tar cjvf ./sh.fhs.ksre.flatpak-root-aarch64.tar.bz2 -C ./bundle/aarch64 .
+      - tar cjvf ../sh.fhs.ksre.flatpak-root-amd64.tar.bz2 -C ./bundle/amd64 .
+      - tar cjvf ../sh.fhs.ksre.flatpak-root-aarch64.tar.bz2 -C ./bundle/aarch64 .
     depends_on:
       - prepare-env
       - build
