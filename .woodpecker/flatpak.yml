@@ -73,8 +73,20 @@ steps:
       # It's simpler to remove unneccessary stuff than to filter neccessary, lol.
       - rm -rf ./bundle/amd64/app/ksre/lib/py3-linux-aarch64
       - rm -rf ./bundle/aarch64/app/ksre/lib/py3-linux-amd64
-      - cp ../../scripts/flatpak-launcher.sh ./bundle/amd64/bin/ksre
-      - cp ../../scripts/flatpak-launcher.sh ./bundle/aarch64/bin/ksre
+      - mkdir -p ./bundle/amd64/usr/share/appdata
+      - mkdir -p ./bundle/aarch64/usr/share/appdata
+      - mkdir -p ./bundle/amd64/usr/share/applications
+      - mkdir -p ./bundle/aarch64/usr/share/applications
+      - mkdir -p ./bundle/amd64/usr/share/icons/hicolor/scalable/apps/
+      - mkdir -p ./bundle/aarch64/usr/share/icons/hicolor/scalable/apps/
+      - cp ../../flatpak/launcher.sh ./bundle/amd64/bin/ksre
+      - cp ../../flatpak/launcher.sh ./bundle/aarch64/bin/ksre
+      - cp ../../flatpak/sh.fhs.ksre.appdata.xml ./bundle/amd64/usr/share/appdata/sh.fhs.ksre.appdata.xml
+      - cp ../../flatpak/sh.fhs.ksre.appdata.xml ./bundle/aarch64/usr/share/appdata/sh.fhs.ksre.appdata.xml
+      - cp ../../flatpak/sh.fhs.ksre.desktop ./bundle/amd64/usr/share/applications/sh.fhs.ksre.desktop
+      - cp ../../flatpak/sh.fhs.ksre.desktop ./bundle/aarch64/usr/share/applications/sh.fhs.ksre.desktop
+      - cp ../../flatpak/sh.fhs.ksre.svg ./bundle/amd64/usr/share/icons/hicolor/scalable/apps/sh.fhs.ksre.svg
+      - cp ../../flatpak/sh.fhs.ksre.svg ./bundle/aarch64/usr/share/icons/hicolor/scalable/apps/sh.fhs.ksre.svg
       - chmod +x ./bundle/amd64/bin/ksre
       - chmod +x ./bundle/aarch64/bin/ksre
       - tar cjvf ../sh.fhs.ksre.flatpak-root-amd64.tar.bz2 -C ./bundle/amd64 .
