@@ -10220,7 +10220,7 @@ translate ru strings:
 
     # game/script-a3-hanako.rpy:5058
     old "Now that the distance between us is also physical, it also feels more final, somehow. I wonder if we will meet again. Perhaps it's for the best if we don't? Still, if you would like to correspond with me, by all means write me back. I'd very much like to hear about your new school and how you are doing. I wish you all the best.\n\nSincerely, Iwanako"
-    new "Я хотела как-то выразить свои чувства, но так и не нашла подходящих слов. Я ничем не могла тебя успокоить. Ты мне нравился, а я не смогла тебя поддержать, когда ты в этом так нуждался. Мне очень жаль. Но хотя бы теперь я могу в этом признаться.{vspace=120}"
+    new "Теперь, когда между нами пролегли ещё и немалые расстояния, кажется, что обратного пути уже нет. Интересно, встретимся ли мы когда-нибудь снова? Наверное, будет к лучшему, если не встретимся. И всё же, если захочешь переписываться со мной, то обязательно ответь мне. Я хотела бы узнать, как у тебя дела, как тебе новая школа. Желаю тебе всего наилучшего.\n\nС уважением, Иванако"
 
     # game/script-a3-hanako.rpy:6224
     old "Do you want to go into the city?"
