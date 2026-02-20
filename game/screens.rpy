@@ -738,7 +738,7 @@ screen gallery(page=0):
                     button:
                         xysize 220, 170
                         hovered Function(local_items.add, i)
-                        unhovered Function(local_items.remove, i)
+                        unhovered Function(local_items.discard, i)
                         if i is len(_gallery_images) - 1:
                             action [SetVariable("_gallery_page", page), Function(ach, "fullcomplete_achieve"), Call("watch_gallery", img[1:] if img[0].startswith("thumb/") else img)]
                         else:
