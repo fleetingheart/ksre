@@ -1056,6 +1056,9 @@ screen accessibility():
                     style_prefix "check"
 
                     textbutton (_("Enable")) action Preference("self voicing", "toggle")
+                
+                vbox:
+                    text _("Current voice: ") + renpy.config.tts_voice
 
                 vbox:
                     style_prefix "slider"
