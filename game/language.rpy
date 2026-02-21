@@ -26,9 +26,8 @@ init python:
         lang = renpy.game.preferences.language
         info = languages.get(lang, languages[None])
 
-        # Windows support is not here yet because I don't have a Windows box
-        # right now.
-        # TODO: select proper voices for Windows too.
+        # Windows support is not here, because Windows sets the voice that is
+        # used by Ren'Py system-wide, we can't control it reliably.
         if renpy.linux:
             renpy.config.tts_voice = info.linux_voice
         elif renpy.macintosh:
