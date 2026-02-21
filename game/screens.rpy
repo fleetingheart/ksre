@@ -354,16 +354,16 @@ screen language():
 
             has vbox
 
-            textbutton _("English") action Language(None)
-            textbutton _("Russian") action Language("ru")
-            textbutton _("French") action Language("fr")
-            textbutton _("Italian") action Language("it")
-            textbutton _("Brazilian Portuguese") action Language("pt_br")
-            textbutton _("Spanish") action Language("es")
-            textbutton _("German") action Language("de")
-            textbutton _("Japanese") action Language("jp")
-            textbutton _("Simplified Chinese") action Language("zh_hans")
-            textbutton _("Traditional Chinese") action Language("zh_hant")
+            $ current = renpy.game.preferences.language
+
+            for lang, info in languages.items():
+
+                textbutton info.label action [
+                    Language(lang),
+                    Function(update_tts_voice),
+                    renpy.restart_interaction
+                ]:
+                    selected (lang == current)
 
         textbutton _("Return"):
             style "return_button"
