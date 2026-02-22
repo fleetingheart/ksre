@@ -1040,12 +1040,17 @@ screen accessibility():
             vbox:
                 style_prefix "check"
 
+                $ allow_font_selection = languages[renpy.game.preferences.language].allow_fonts
+
                 textbutton _("Default") action Preference("font transform", "none")
 
-                # TODO: Do not allow "Deja Vu Sans" in current language is "jp"
-                textbutton "DejaVu Sans" action Preference("font transform", "dejavusans")
+                # Japanese and Chinese are not supported by either Dejavu Sans or OpenDyslexic,
+                # so we don't show the options for those languages.
+                # Controlled in language.rpy.
+                if allow_font_selection:
+                    textbutton "DejaVu Sans" action Preference("font transform", "dejavusans")
 
-                textbutton "OpenDyslexic" action Preference("font transform", "opendyslexic")
+                    textbutton "OpenDyslexic" action Preference("font transform", "opendyslexic")
 
                 textbutton _("High contrast") action Preference("high contrast text", "toggle")
 

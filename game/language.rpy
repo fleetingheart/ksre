@@ -4,22 +4,23 @@
 
 init python:
     class LanguageInformation(python_object):
-        def __init__(self, label=None, linux_voice=None, mac_voice=None):
+        def __init__(self, label=None, linux_voice=None, mac_voice=None, allow_fonts=True):
             self.label = label
             self.linux_voice = linux_voice
             self.mac_voice = mac_voice
+            self.allow_fonts = allow_fonts
 
     languages = {
-        None:      LanguageInformation(_("English"), "en-us", "Samantha"),
-        "ru":      LanguageInformation(_("Russian"), "ru", "Milena"),
-        "fr":      LanguageInformation(_("French"), "fr-fr", "Thomas"),
-        "it":      LanguageInformation(_("Italian"), "it", "Alice"),
-        "pt_br":   LanguageInformation(_("Brazilian Portuguese"), "pt-br", "Luciana"),
-        "es":      LanguageInformation(_("Spanish"), "es", "Monica"),
-        "de":      LanguageInformation(_("German"), "de", "Anna"),
-        "jp":      LanguageInformation(_("Japanese"), "ja", "Kyoko"),
-        "zh_hans": LanguageInformation(_("Simplified Chinese"), "cmn", "Tingting"),
-        "zh_hant": LanguageInformation(_("Traditional Chinese"), "cmn", "Sinji"),
+        None:      LanguageInformation(_("English"), "en-us", "Samantha", True),
+        "ru":      LanguageInformation(_("Russian"), "ru", "Milena", True),
+        "fr":      LanguageInformation(_("French"), "fr-fr", "Thomas", True),
+        "it":      LanguageInformation(_("Italian"), "it", "Alice", True),
+        "pt_br":   LanguageInformation(_("Brazilian Portuguese"), "pt-br", "Luciana", True),
+        "es":      LanguageInformation(_("Spanish"), "es", "Monica", True),
+        "de":      LanguageInformation(_("German"), "de", "Anna", True),
+        "jp":      LanguageInformation(_("Japanese"), "ja", "Kyoko", False),
+        "zh_hans": LanguageInformation(_("Simplified Chinese"), "cmn", "Tingting", False),
+        "zh_hant": LanguageInformation(_("Traditional Chinese"), "cmn", "Sinji", False),
     }
 
     def update_tts_voice():
