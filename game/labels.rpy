@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 label splashscreen:
+    # Fix for the first run of the game: update TTS voice based on current
+    # language.
+    $ update_tts_voice()
+
     if renpy.emscripten:
             show screen adult_warning
             call screen adult_warning

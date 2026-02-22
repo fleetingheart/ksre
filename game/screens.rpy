@@ -354,16 +354,18 @@ screen language():
 
             has vbox
 
-            textbutton _("English") action Language(None)
-            textbutton _("Russian") action Language("ru")
-            textbutton _("French") action Language("fr")
-            textbutton _("Italian") action Language("it")
-            textbutton _("Brazilian Portuguese") action Language("pt_br")
-            textbutton _("Spanish") action Language("es")
-            textbutton _("German") action Language("de")
-            textbutton _("Japanese") action Language("jp")
-            textbutton _("Simplified Chinese") action Language("zh_hans")
-            textbutton _("Traditional Chinese") action Language("zh_hant")
+
+            style_prefix "check"
+
+            $ current = renpy.game.preferences.language
+
+            for lang, info in languages.items():
+
+                textbutton info.label action [
+                    Language(lang),
+                    Function(update_tts_voice),
+                    renpy.restart_interaction
+                ]
 
         textbutton _("Return"):
             style "return_button"
@@ -1038,12 +1040,17 @@ screen accessibility():
             vbox:
                 style_prefix "check"
 
+                $ allow_font_selection = languages[renpy.game.preferences.language].allow_fonts
+
                 textbutton _("Default") action Preference("font transform", "none")
 
-                # TODO: Do not allow "Deja Vu Sans" in current language is "jp"
-                textbutton "DejaVu Sans" action Preference("font transform", "dejavusans")
+                # Japanese and Chinese are not supported by either Dejavu Sans or OpenDyslexic,
+                # so we don't show the options for those languages.
+                # Controlled in language.rpy.
+                if allow_font_selection:
+                    textbutton "DejaVu Sans" action Preference("font transform", "dejavusans")
 
-                textbutton "OpenDyslexic" action Preference("font transform", "opendyslexic")
+                    textbutton "OpenDyslexic" action Preference("font transform", "opendyslexic")
 
                 textbutton _("High contrast") action Preference("high contrast text", "toggle")
 
@@ -1056,6 +1063,9 @@ screen accessibility():
                     style_prefix "check"
 
                     textbutton (_("Enable")) action Preference("self voicing", "toggle")
+                if renpy.config.tts_voice is not None:
+                    vbox:
+                        text _("Current voice: ") + renpy.config.tts_voice
 
                 vbox:
                     style_prefix "slider"
