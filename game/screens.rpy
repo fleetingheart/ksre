@@ -1056,7 +1056,7 @@ screen accessibility():
                     style_prefix "check"
 
                     textbutton (_("Enable")) action Preference("self voicing", "toggle")
-                if renpy.linux or renpy.macintosh:
+                if renpy.config.tts_voice is not None:
                     vbox:
                         text _("Current voice: ") + renpy.config.tts_voice
 

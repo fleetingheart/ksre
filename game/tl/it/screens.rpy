@@ -282,7 +282,7 @@ translate it strings:
 
     # game/screens.rpy:1160
     old "You must be 18+ to see adult content within this game.\nDo you meet these requirements?"
-    new "Devi avere più di 18 anni per vedere contenuti per adulti in questo gioco.\Soddisfi questi requisiti?"
+    new "Devi avere più di 18 anni per vedere contenuti per adulti in questo gioco.\nSoddisfi questi requisiti?"
 
     # game/screens.rpy:1161
     old "Note: answering \"No\" does NOT prevent you from playing the game."
