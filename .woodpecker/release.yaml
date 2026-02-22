@@ -5,7 +5,6 @@ depends_on:
   - build
   - appimage
   - notarize
-  - flatpak
 
 variables:
   .ssh_setup_start_agent: &ssh_setup_start_agent eval $(ssh-agent -s)
@@ -45,7 +44,6 @@ steps:
       - scp -P $${CI_SSH_PORT} "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}/KSRE-linux.tar.bz2" ./dists/
       - scp -P $${CI_SSH_PORT} "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}/KSRE-mac.zip" ./dists/
       - scp -P $${CI_SSH_PORT} "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}/sh.fhs.ksre*" ./dists/
-      - scp -P $${CI_SSH_PORT} "$${CI_SSH_USER}@$${CI_SSH_HOST}:$${CI_STORAGE_PREFIX}/$${CI_PRETTY_VERSION}/sh.fhs.ksre.flatpak-root-*" ./dists/
       - mv ./dists/sh.fhs.ksre*.apk ./dists/sh.fhs.ksre-release.apk
     depends_on:
       - prepare-env
