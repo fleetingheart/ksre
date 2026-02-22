@@ -354,6 +354,9 @@ screen language():
 
             has vbox
 
+
+            style_prefix "check"
+
             $ current = renpy.game.preferences.language
 
             for lang, info in languages.items():
@@ -362,8 +365,7 @@ screen language():
                     Language(lang),
                     Function(update_tts_voice),
                     renpy.restart_interaction
-                ]:
-                    selected (lang == current)
+                ]
 
         textbutton _("Return"):
             style "return_button"
