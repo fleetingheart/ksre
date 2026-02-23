@@ -3957,7 +3957,7 @@ label a4_hanako:
 
         nvl clear
 
-        n "{vspace=60}I know that there's a wall that Hanako has between me and her. I've been hitting that wall every time I've tried to interact with her on any level."
+        n "{vspace=60}I know that there's a wall that Hanako has between me and her. I've been hitting that wall every time I've tried to interact with her on any level." id a4_hanako_indeterminate_future_0222e66f
 
         n "But now I'm beginning to think that I have my own wall between us just as much as she does. She had to practically drag my past out of me, and mine was much less traumatic than hers."
 
@@ -3972,7 +3972,7 @@ label a4_hanako:
         nvl hide dissolve
         nvl clear
 
-        "My mind begins to tick as I sit against her desk, thinking to myself in the empty classroom that we've spent so much time in together."
+        "My mind begins to tick as I sit against her desk, thinking to myself in the empty classroom that we've spent so much time in together." id a4_hanako_indeterminate_future_66d1500c
 
         stop music fadeout 2.0
 

@@ -12930,8 +12930,6 @@ translate ru strings:
     old "Yup."
     new "Ага."
 
-# TODO: Translation updated at 2026-02-23 04:24
-
 # game/script-a4-lilly.rpy:10
 translate ru a4_lilly_slow_steps_d41d8cd9:
 
@@ -13003,4 +13001,3 @@ translate ru a4_lilly_under_a_maudlin_sky_d41d8cd9_1:
 
     # nvl clear
     nvl clear
-

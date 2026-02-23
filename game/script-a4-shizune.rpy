@@ -66,7 +66,7 @@ label a4_shizune:
 
         nvl clear
 
-        n "{vspace=60}Misha turned out to be more sensitive than she seemed. It would have crushed her, even more so because Shizune's reaction could come off as pretty cold. I don't know if that's how Shizune handled it, but it seems likely, and I can understand why she would act that way."
+        n "{vspace=60}Misha turned out to be more sensitive than she seemed. It would have crushed her, even more so because Shizune's reaction could come off as pretty cold. I don't know if that's how Shizune handled it, but it seems likely, and I can understand why she would act that way." id a4_shizune_grand_strategy_79a00879
 
         n "I can also understand why Misha would be troubled by the thought of drifting away from someone who is such an important part of her. I'd never thought about graduation until that moment."
 
@@ -79,7 +79,7 @@ label a4_shizune:
         nvl hide dissolve
         nvl clear
 
-        hi "Actually, I kind of want to."
+        hi "Actually, I kind of want to." id a4_shizune_grand_strategy_6f14dbe9
 
         show yuuko worried_up
         with persistent.charachange
@@ -965,7 +965,7 @@ label a4_shizune:
 
         nvl clear
 
-        n "{vspace=60}Even though I felt like I was at the bottom of the world, I still wanted to have a normal life again, I'm sure, because I enjoy what I have now. I think it must be the same for everyone. Including Misha. Everyone wants someone there to pull them up, out of their self-pity."
+        n "{vspace=60}Even though I felt like I was at the bottom of the world, I still wanted to have a normal life again, I'm sure, because I enjoy what I have now. I think it must be the same for everyone. Including Misha. Everyone wants someone there to pull them up, out of their self-pity." id a4_shizune_off_by_one_2485bf82
 
         n "It's just that Misha always wanted Shizune to be that person, but because they can't be together, I think Misha feels that she can't accept Shizune's hand. And that frustrates Shizune. But if she could cheer up a stranger like me, then she'll die trying with Misha."
 
@@ -973,7 +973,7 @@ label a4_shizune:
 
         nvl clear
 
-        n "{vspace=150}I end up not saying anything. Partly because sitting next to her like this, just the two of us, is pleasant enough in itself that I don't want to interrupt the moment with a question."
+        n "{vspace=150}I end up not saying anything. Partly because sitting next to her like this, just the two of us, is pleasant enough in itself that I don't want to interrupt the moment with a question." id a4_shizune_off_by_one_2e85f53c
 
         n "{vspace=60}And partly for a more cowardly reason. I've started to think they weren't, but I don't know if her actions that day might not have been an afterthought, or even a fluke, just a collection of coincidences. I don't know if that would change anything, but I'm uncomfortable thinking about it."
 
@@ -1339,7 +1339,7 @@ label a4_shizune:
 
         nvl clear
 
-        n "{vspace=60}Shizune's way of thinking is abnormal. Few normal people would reject a friend, and then expect things to go back to the way they were so easily. Shizune does, because she sees life as, if I had to put it simply, capable of being segmented and compartmentalized."
+        n "{vspace=60}Shizune's way of thinking is abnormal. Few normal people would reject a friend, and then expect things to go back to the way they were so easily. Shizune does, because she sees life as, if I had to put it simply, capable of being segmented and compartmentalized." id a4_shizune_invasion_9d10bcd1
 
         n "Misha, like anyone else, sees it as a whole experience. A long, continuous journey, where one moment of heartache can follow you forever."
 
@@ -1351,7 +1351,7 @@ label a4_shizune:
 
         nvl clear
 
-        n "{vspace=30}Shizune is just Shizune to herself. It's likely she doesn't even think about the aftereffects of her actions in the long term, as long as they stir up other people's lives. To Misha, though, I'm sure it made her seem almost heroic. Like Yuuko admiring her bravery, and even myself."
+        n "{vspace=30}Shizune is just Shizune to herself. It's likely she doesn't even think about the aftereffects of her actions in the long term, as long as they stir up other people's lives. To Misha, though, I'm sure it made her seem almost heroic. Like Yuuko admiring her bravery, and even myself." id a4_shizune_invasion_0d284797
 
         n "And Shizune's thoughts on that sentiment are that it was good she could touch someone's life. But it ends there. It's easy to captivate; much harder to nurture. On to the next thing. Thinking of life in terms of almost completely isolated events has a tendency to isolate a person, too."
 
@@ -1366,7 +1366,7 @@ label a4_shizune:
         nvl hide dissolve
         nvl clear
 
-        his "Are you working on your plan right now? This second?"
+        his "Are you working on your plan right now? This second?" id a4_shizune_invasion_d816b0a2
 
         his "Your cheer-up-Misha plan."
 
@@ -4086,7 +4086,7 @@ label a4_shizune:
 
             nvl clear
 
-            n "{vspace=30}Of course, that's what I thought the week before that. And Shizune and Misha's sudden, newfound clarity had left me feeling a little lost and envious. I thought there was no way I could rest easy at the time."
+            n "{vspace=30}Of course, that's what I thought the week before that. And Shizune and Misha's sudden, newfound clarity had left me feeling a little lost and envious. I thought there was no way I could rest easy at the time." id a4_shizune_infinity_5eb97a45
 
             n "But fortunately, nothing came of my worries. Then before I knew it, there was enough to deal with in school that I even managed to put them off my mind. And still, everything was fine."
 
@@ -4228,7 +4228,7 @@ label a4_shizune:
             nvl hide dissolve
             nvl clear
 
-            "I indulged in these thoughts for too long. When I snap out of it, I realize that I'm still standing there, surrounded by the new Student Council. I do the only thing I can do, and apologize for zoning out. Then, I thank them back."
+            "I indulged in these thoughts for too long. When I snap out of it, I realize that I'm still standing there, surrounded by the new Student Council. I do the only thing I can do, and apologize for zoning out. Then, I thank them back." id a4_shizune_infinity_c2041980
 
             stop ambient fadeout 0.5
 
@@ -4599,7 +4599,7 @@ label a4_shizune:
 
             nvl clear
 
-            n "{vspace=120}I wonder if I'll be able to meet someone in the future like me. Someone filled with bitterness."
+            n "{vspace=120}I wonder if I'll be able to meet someone in the future like me. Someone filled with bitterness." id a4_shizune_infinity_4ff94d8e
 
             n "I want to talk to that person, since I can't talk to myself. I want to tell them that life is too short; something that couldn't be told to me, only shown. I want to do it without pity."
 
@@ -5331,7 +5331,7 @@ label a4_shizune:
             nvl hide dissolve
             nvl clear
 
-            ke "…So I realized that I could use the cover of darkness to buy milk. Usually, I only go out when it's raining or I can shroud myself in a sea of bikers, or tourists. This is much more consistent… I'm spending too much money on milk now, though."
+            ke "…So I realized that I could use the cover of darkness to buy milk. Usually, I only go out when it's raining or I can shroud myself in a sea of bikers, or tourists. This is much more consistent… I'm spending too much money on milk now, though." id a4_shizune_spiral_58cb0844
 
             show kenji happy_ni
             with persistent.charachange

@@ -9066,8 +9066,6 @@ translate ru strings:
     old "Then explain."
     new "Тогда объясни."
 
-# TODO: Translation updated at 2026-02-23 04:24
-
 # game/script-a3-rin.rpy:756
 translate ru a3_rin_the_scent_of_light_d41d8cd9:
 

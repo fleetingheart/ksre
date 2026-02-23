@@ -1797,7 +1797,7 @@ label a2_rin:
 
         nvl clear
 
-        n "{vspace=60}It's a rare case when I see someone sitting alone, just spacing out or whatever. Obviously there are people like that here, too; that Hanako girl and myself, just to name two from my own class. But overall, they are a minority."
+        n "{vspace=60}It's a rare case when I see someone sitting alone, just spacing out or whatever. Obviously there are people like that here, too; that Hanako girl and myself, just to name two from my own class. But overall, they are a minority." id a2_rin_hisaos_smile_68133e62
 
         n "At any rate, I wouldn't exactly call what Rin and I do 'socializing,' either, but it's something, at least."
 
@@ -2869,7 +2869,7 @@ label a2_rin:
         nvl hide dissolve
         nvl clear
 
-        "The relay's about to begin, but I don't see Emi anywhere."
+        "The relay's about to begin, but I don't see Emi anywhere." id a2_rin_target_audience_2b8ea96b
 
         hi "I thought Emi ran the relay."
 
@@ -3950,7 +3950,7 @@ label a2_rin:
 
         nvl clear
 
-        n "{vspace=90}It's not that I want to impress her; I think that truly impressing Rin would take near-superhuman effort just because of how she is. Instead, it's because there is this relentless feeling inside of me that I shouldn't let Rin down."
+        n "{vspace=90}It's not that I want to impress her; I think that truly impressing Rin would take near-superhuman effort just because of how she is. Instead, it's because there is this relentless feeling inside of me that I shouldn't let Rin down." id a2_rin_underwater_and_maple_b68c7331
 
         n "It's really weird. I wonder why I started thinking like that. I don't even know what sort of expectations she has about pretty much anything."
 
@@ -4225,7 +4225,7 @@ label a2_rin:
 
         nvl clear
 
-        n "{vspace=150}She looked so sad that I didn't want to say anything that might upset her, and I never could figure out the right words to say."
+        n "{vspace=150}She looked so sad that I didn't want to say anything that might upset her, and I never could figure out the right words to say." id a2_rin_iwanakos_regret_79f3a644
 
         n "I told her that it wasn't her fault, she nodded and I really think she understood that if it hadn't been that, then sooner or later something else would've made my heart give out."
 
@@ -4346,7 +4346,7 @@ label a2_rin:
 
         nvl clear
 
-        n "I try to think what it means, what I can learn from others. I wonder if deep down, everyone is as lost as I am. Is there even one person in here who has truly found peace? I start to feel doubtful about myself once again."
+        n "I try to think what it means, what I can learn from others. I wonder if deep down, everyone is as lost as I am. Is there even one person in here who has truly found peace? I start to feel doubtful about myself once again." id a2_rin_in_her_own_image_4e9413b0
 
         n "I can't decide whether these people are happy, unhappy, or if they've just learned to cope and now live in an unfeeling limbo like I did all spring."
 
@@ -4362,7 +4362,7 @@ label a2_rin:
 
         nvl clear
 
-        n "{vspace=90}The object of his affection, however, has no favorites. She says she appreciates the teacher a lot for going the extra mile for her sake, but even when she says that, her expression is the same as always."
+        n "{vspace=90}The object of his affection, however, has no favorites. She says she appreciates the teacher a lot for going the extra mile for her sake, but even when she says that, her expression is the same as always." id a2_rin_in_her_own_image_dd653e4b
 
         n "It's as if she was talking about a particularly unremarkable rock that she saw the other day. I can't really figure out their relationship."
 

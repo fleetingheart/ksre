@@ -17268,3 +17268,165 @@ translate ru strings:
     old "Now that the distance between us is also physical, it also feels more final, somehow. I wonder if we will meet again. Perhaps it's for the best if we don't? Still, if you would like to correspond with me, by all means write me back. I'd very much like to hear about your new school and how you are doing. I wish you all the best.\nSincerely, Iwanako"
     new "Теперь, когда между нами пролегли ещё и немалые расстояния, кажется, что обратного пути уже нет. Интересно, встретимся ли мы когда-нибудь снова? Наверное, будет к лучшему, если не встретимся. И всё же, если захочешь переписываться со мной, обязательно ответь мне. Я хотела бы узнать, как у тебя дела, как тебе новая школа. Желаю тебе всего наилучшего.\n\nС уважением, Иванако"
 
+# game/script-a3-emi.rpy:10
+translate ru a3_emi_eet_ees_scienca_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:36
+translate ru a3_emi_eet_ees_scienca_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5441
+translate ru a3_emi_detached_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5498
+translate ru a3_emi_detached_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5514
+translate ru a3_emi_detached_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5537
+translate ru a3_emi_detached_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5848
+translate ru a3_emi_detached_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5878
+translate ru a3_emi_detached_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5946
+translate ru a3_emi_phantom_pain_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5975
+translate ru a3_emi_phantom_pain_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6465
+translate ru a3_emi_phantom_pain_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6490
+translate ru a3_emi_phantom_pain_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6529
+translate ru a3_emi_phantom_pain_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6546
+translate ru a3_emi_phantom_pain_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6553
+translate ru a3_emi_phantom_pain_d41d8cd9_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6564
+translate ru a3_emi_phantom_pain_d41d8cd9_7:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6586
+translate ru a3_emi_debate_expresses_doubt_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6619
+translate ru a3_emi_debate_expresses_doubt_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6817
+translate ru a3_emi_debate_expresses_doubt_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6834
+translate ru a3_emi_debate_expresses_doubt_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7077
+translate ru a3_emi_guess_whos_coming_never_mind_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7108
+translate ru a3_emi_guess_whos_coming_never_mind_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7143
+translate ru a3_emi_guess_whos_coming_never_mind_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7757
+translate ru a3_emi_instant_replay_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7774
+translate ru a3_emi_instant_replay_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:8903
+translate ru a3ec4o2_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:8922
+translate ru a3ec4o2_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+

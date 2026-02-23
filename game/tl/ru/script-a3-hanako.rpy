@@ -10230,8 +10230,6 @@ translate ru strings:
     old "How about we call it a day?"
     new "Тогда всё на сегодня?"
 
-# TODO: Translation updated at 2026-02-23 04:24
-
 # game/script-a3-hanako.rpy:2950
 translate ru a3_hanako_treading_softly_d41d8cd9:
 

@@ -12798,8 +12798,6 @@ translate ru strings:
     old "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
     new "Ведь так… ты можешь доказать, что ты по-настоящему… {color=#fff}живёшь.{/color}"
 
-# TODO: Translation updated at 2026-02-23 04:24
-
 # game/script-a4-rin.rpy:240
 translate ru a4_rin_demused_d41d8cd9:
 
@@ -13069,4 +13067,3 @@ translate ru a4_rin_proof_of_existence_d41d8cd9_2:
 
     # nvl clear
     nvl clear
-

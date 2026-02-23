@@ -8590,8 +8590,6 @@ translate ru strings:
     old "This was the real surprise. See?"
     new "Вот настоящий сюрприз. Видишь?"
 
-# TODO: Translation updated at 2026-02-23 04:24
-
 # game/script-a4-shizune.rpy:56
 translate ru a4_shizune_grand_strategy_d41d8cd9:
 
@@ -8663,4 +8661,3 @@ translate ru a4_shizune_spiral_d41d8cd9_2:
 
     # nvl clear
     nvl clear
-

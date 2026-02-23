@@ -7328,8 +7328,6 @@ translate ru strings:
     old "Oh, 'morning Hisao."
     new "Ой, доброе утро, Хисао."
 
-# TODO: Translation updated at 2026-02-23 04:24
-
 # game/script-a3-lilly.rpy:690
 translate ru a3_lilly_minor_discord_d41d8cd9:
 
@@ -7395,4 +7393,3 @@ translate ru a3_lilly_rhapsody_in_blue_d41d8cd9_1:
 
     # nvl clear
     nvl clear
-
