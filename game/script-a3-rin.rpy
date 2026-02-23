@@ -2055,7 +2055,7 @@ label a3_rin:
 
         nvl clear
 
-        n "{vspace=150}What does she think of me?" id a3_rin_the_edge_of_the_world_16a2380
+        n "{vspace=150}What does she think of me?" id a3_rin_the_edge_of_the_world_16a23802
 
         n "I have no idea. Last week, I thought she might have liked me romantically, what with the kiss and all."
 
