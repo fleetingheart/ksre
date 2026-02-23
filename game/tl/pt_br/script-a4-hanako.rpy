@@ -7519,3 +7519,11 @@ translate pt_br strings:
     old "Trust my own judgment."
     new "Acreditar no meu próprio julgamento."
 
+# TODO: Translation updated at 2026-02-23 16:54
+
+# game/script-a4-hanako.rpy:3945
+translate pt_br a4_hanako_indeterminate_future_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+

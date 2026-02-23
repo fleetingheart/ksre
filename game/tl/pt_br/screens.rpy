@@ -305,3 +305,19 @@ translate pt_br strings:
 
 
 
+# TODO: Translation updated at 2026-02-23 16:54
+
+translate pt_br strings:
+
+    # game/screens.rpy:1068
+    old "Current voice: "
+    new "Current voice: "
+
+    # game/screens.rpy:1085
+    old "Opacity"
+    new "Opacity"
+
+    # game/screens.rpy:1092
+    old "Text size"
+    new "Text size"
+

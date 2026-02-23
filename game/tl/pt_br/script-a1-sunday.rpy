@@ -10222,3 +10222,17 @@ translate pt_br strings:
 
 
 
+# TODO: Translation updated at 2026-02-23 16:54
+
+# game/script-a1-sunday.rpy:3026
+translate pt_br a1_sunday_movement_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a1-sunday.rpy:3046
+translate pt_br a1_sunday_movement_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+

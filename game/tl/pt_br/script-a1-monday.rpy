@@ -3300,3 +3300,11 @@ translate pt_br strings:
 
 
 
+# TODO: Translation updated at 2026-02-23 16:54
+
+# game/script-a1-monday.rpy:209
+translate pt_br a1_monday_out_cold_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+

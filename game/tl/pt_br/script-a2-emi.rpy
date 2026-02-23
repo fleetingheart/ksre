@@ -14979,3 +14979,95 @@ translate pt_br strings:
     new  "Ficar quieto."
 
 
+# TODO: Translation updated at 2026-02-23 16:54
+
+# game/script-a2-emi.rpy:2760
+translate pt_br a2_emi_track_meeting_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:2787
+translate pt_br a2_emi_track_meeting_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:4355
+translate pt_br a2_emi_piracy_on_the_high_seas_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:5011
+translate pt_br a2_emi_piracy_on_the_high_seas_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:5039
+translate pt_br a2_emi_piracy_on_the_high_seas_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:6511
+translate pt_br a2_emi_tracking_absences_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:6538
+translate pt_br a2_emi_tracking_absences_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:7694
+translate pt_br a2_emi_dropping_by_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:7730
+translate pt_br a2_emi_dropping_by_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:7851
+translate pt_br a2_emi_the_first_morning_after_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:7877
+translate pt_br a2_emi_the_first_morning_after_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:8566
+translate pt_br a2_emi_the_real_beginning_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:8576
+translate pt_br a2_emi_the_real_beginning_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:8869
+translate pt_br a2_emi_the_real_beginning_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:8891
+translate pt_br a2_emi_the_real_beginning_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+

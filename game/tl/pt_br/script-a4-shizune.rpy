@@ -8695,3 +8695,77 @@ translate pt_br strings:
     old "This was the real surprise. See?"
     new "Essa era a verdadeira surpresa, viu?"
 
+# TODO: Translation updated at 2026-02-23 16:54
+
+# game/script-a4-shizune.rpy:56
+translate pt_br a4_shizune_grand_strategy_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:955
+translate pt_br a4_shizune_off_by_one_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:984
+translate pt_br a4_shizune_off_by_one_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:1329
+translate pt_br a4_shizune_invasion_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:4075
+translate pt_br a4_shizune_infinity_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:4104
+translate pt_br a4_shizune_infinity_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:4211
+translate pt_br a4_shizune_infinity_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:4589
+translate pt_br a4_shizune_infinity_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:4614
+translate pt_br a4_shizune_infinity_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:5165
+translate pt_br a4_shizune_spiral_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:5178
+translate pt_br a4_shizune_spiral_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:5318
+translate pt_br a4_shizune_spiral_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
