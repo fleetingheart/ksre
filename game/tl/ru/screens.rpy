@@ -314,7 +314,7 @@ translate ru strings:
 
     # game/screens.rpy:273
     old "Disable expression transitions"
-    new ""
+    new "Отключить анимацию выражений"
 
     # game/screens.rpy:361
     old "Brazilian Portuguese"
@@ -322,9 +322,9 @@ translate ru strings:
 
     # game/screens.rpy:858
     old "Completion: [completion_percentage]"
-    new ""
+    new "Прогресс: [completion_percentage]"
 
     # game/screens.rpy:1079
     old "Colorblind filter"
-    new ""
+    new "Фильтр для дальтоников"
 
