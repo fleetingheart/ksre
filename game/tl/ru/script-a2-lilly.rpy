@@ -8678,4 +8678,29 @@ translate ru strings:
     new "Ой!"
 
     old "Ah!"
-    new "Ай!"
+    new "Ай!"# TODO: Translation updated at 2026-02-23 04:24
+
+# game/script-a2-lilly.rpy:4404
+translate ru a2_lilly_a_brief_history_of_thyme_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-lilly.rpy:4415
+translate ru a2_lilly_a_brief_history_of_thyme_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-lilly.rpy:4440
+translate ru a2_lilly_a_brief_history_of_thyme_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-lilly.rpy:4479
+translate ru a2_lilly_little_wing_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+

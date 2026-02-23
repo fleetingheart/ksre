@@ -417,7 +417,7 @@ label a2_hanako:
         nvl hide dissolve
         nvl clear
 
-        "…"
+        "…" id a2_hanako_to_town_to_town_00e4ae06
 
         "Hanako throws one last item into her basket then sheepishly holds it out to me, along with a few bank notes."
 

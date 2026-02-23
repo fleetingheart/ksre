@@ -12798,3 +12798,275 @@ translate ru strings:
     old "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
     new "Ведь так… ты можешь доказать, что ты по-настоящему… {color=#fff}живёшь.{/color}"
 
+# TODO: Translation updated at 2026-02-23 04:24
+
+# game/script-a4-rin.rpy:240
+translate ru a4_rin_demused_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:251
+translate ru a4_rin_demused_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:260
+translate ru a4_rin_demused_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:269
+translate ru a4_rin_demused_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:278
+translate ru a4_rin_demused_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:287
+translate ru a4_rin_demused_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:692
+translate ru a4_rin_the_scene_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:727
+translate ru a4_rin_the_scene_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1254
+translate ru a4_rin_wavelength_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1271
+translate ru a4_rin_wavelength_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1281
+translate ru a4_rin_wavelength_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1300
+translate ru a4_rin_wavelength_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1411
+translate ru a4_rin_wavelength_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1432
+translate ru a4_rin_wavelength_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1450
+translate ru a4_rin_wavelength_d41d8cd9_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1475
+translate ru a4_rin_wavelength_d41d8cd9_7:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1528
+translate ru a4_rin_wavelength_d41d8cd9_8:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1560
+translate ru a4_rin_wavelength_d41d8cd9_9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1569
+translate ru a4_rin_wavelength_d41d8cd9_10:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1601
+translate ru a4_rin_wavelength_d41d8cd9_11:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1652
+translate ru a4_rin_wavelength_d41d8cd9_12:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1660
+translate ru a4_rin_wavelength_d41d8cd9_13:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1672
+translate ru a4_rin_wavelength_d41d8cd9_14:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2098
+translate ru a4_rin_blue_period_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2123
+translate ru a4_rin_blue_period_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2500
+translate ru a4_rin_the_world_only_can_you_see_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2531
+translate ru a4_rin_the_world_only_can_you_see_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2980
+translate ru a4_rin_desperate_glory_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2999
+translate ru a4_rin_desperate_glory_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:3469
+translate ru a4_rin_problems_of_self_referential_logic_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:3577
+translate ru a4_rin_problems_of_self_referential_logic_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4177
+translate ru a4_rin_raison_detre_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4194
+translate ru a4_rin_raison_detre_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4216
+translate ru a4_rin_raison_detre_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4244
+translate ru a4_rin_raison_detre_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4302
+translate ru a4_rin_raison_detre_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4659
+translate ru a4_rin_raison_detre_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4666
+translate ru a4_rin_raison_detre_d41d8cd9_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4990
+translate ru a4_rin_wb_and_ws_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:5013
+translate ru a4_rin_wb_and_ws_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:5299
+translate ru a4_rin_wb_and_ws_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:5339
+translate ru a4_rin_wb_and_ws_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:6123
+translate ru a4_rin_proof_of_existence_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:6145
+translate ru a4_rin_proof_of_existence_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:6311
+translate ru a4_rin_proof_of_existence_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+

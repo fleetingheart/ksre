@@ -252,7 +252,7 @@ label a1_monday:
 
         nvl clear
 
-        n "{vspace=150}My parents, I think, were hit harder by the news than I was. They practically had two hemorrhages apiece."
+        n "{vspace=150}My parents, I think, were hit harder by the news than I was. They practically had two hemorrhages apiece." id a1_monday_bundle_of_hisao_40bfb4d0
 
         n "{vspace=30}I had already had a full day by then to digest everything. To them, it was all fresh. They were even willing to sell our house in order to pay for a cure."
 
@@ -260,7 +260,7 @@ label a1_monday:
 
         nvl clear
 
-        n "{vspace=30}Because of the late discovery of this… condition, I've had to stay at the hospital, to recuperate from the treatments."
+        n "{vspace=30}Because of the late discovery of this… condition, I've had to stay at the hospital, to recuperate from the treatments." id a1_monday_bundle_of_hisao_9651b812
 
         n "When I was first admitted, it felt as if I was missed…"
 
@@ -280,7 +280,7 @@ label a1_monday:
 
         nvl clear
 
-        n "{vspace=30}The hospital?"
+        n "{vspace=30}The hospital?" id a1_monday_bundle_of_hisao_5a39979d
 
         n "It's not really a place I'd like to live in."
 
@@ -298,7 +298,7 @@ label a1_monday:
 
         nvl clear
 
-        n "{vspace=120}At some point I stopped watching TV. I don't know why, I just did."
+        n "{vspace=120}At some point I stopped watching TV. I don't know why, I just did." id a1_monday_bundle_of_hisao_e0fa902a
 
         n "Maybe it was the wrong kind of escapism for my situation."
 
@@ -310,7 +310,7 @@ label a1_monday:
 
         nvl clear
 
-        n "{vspace=30}That was what my life was like."
+        n "{vspace=30}That was what my life was like." id a1_monday_bundle_of_hisao_b319e002
 
         n "{vspace=30}The days became increasingly harder to distinguish from each other, differing only by the book I was reading and the weather outside. It felt like time blurred into some kind of gooey mass I was trapped inside, instead of moving within."
 
@@ -332,7 +332,7 @@ label a1_monday:
 
         nvl clear
 
-        "Today, the doctor comes in and gives me a smile. He seems excited, but not very. It's like he is trying to make an effort to be happy on my behalf."
+        "Today, the doctor comes in and gives me a smile. He seems excited, but not very. It's like he is trying to make an effort to be happy on my behalf." id a1_monday_bundle_of_hisao_f77d5b5d
 
         "My parents are here. It's been a few days since I've last seen them. Both of them are even sort of dressed up. Is this supposed to be some kind of special occasion? It's not a party."
 

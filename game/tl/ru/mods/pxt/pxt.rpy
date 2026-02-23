@@ -1448,3 +1448,37 @@ translate ru strings:
     old "\n    {image=gui/icons/flourish_left.png} {b}Writing{/b} {image=gui/icons/flourish_right.png}\n    Peter Quince\n\n    {image=gui/icons/flourish_left.png} {b}Sprites{/b} {image=gui/icons/flourish_right.png}\n    http://senji4.uijin.com/\n    http://www.vita-chi.net/\n\n    {image=gui/icons/flourish_left.png} {b}Backgrounds{/b} {image=gui/icons/flourish_right.png}\n    Kaikei Sozai Mise (http://shass.sakura.ne.jp/)\n    gustty (http://www.flickr.com/people/gustty/)\n\n    {image=gui/icons/flourish_left.png} {b}Music{/b} {image=gui/icons/flourish_right.png}\n    TAM Music Factory (http://www.tam-music.com/)\n\n    {image=gui/icons/flourish_left.png} {b}Special Thanks{/b} {image=gui/icons/flourish_right.png}\n    Aura\n    "
     new "\n    {image=gui/icons/flourish_left.png} {b}Writing{/b} {image=gui/icons/flourish_right.png}\n    Peter Quince\n\n    {image=gui/icons/flourish_left.png} {b}Sprites{/b} {image=gui/icons/flourish_right.png}\n    http://senji4.uijin.com/\n    http://www.vita-chi.net/\n\n    {image=gui/icons/flourish_left.png} {b}Backgrounds{/b} {image=gui/icons/flourish_right.png}\n    Kaikei Sozai Mise (http://shass.sakura.ne.jp/)\n    gustty (http://www.flickr.com/people/gustty/)\n\n    {image=gui/icons/flourish_left.png} {b}Music{/b} {image=gui/icons/flourish_right.png}\n    TAM Music Factory (http://www.tam-music.com/)\n\n    {image=gui/icons/flourish_left.png} {b}Special Thanks{/b} {image=gui/icons/flourish_right.png}\n    Aura\n    "
 
+# TODO: Translation updated at 2026-02-23 04:24
+
+# game/mods/pxt/pxt.rpy:72
+translate ru pxt_real_start_pxt_a5s1_b4d7ddd8:
+
+    # nvl clear
+    # pr "If we offend, it is with our good will."
+    nvl clear
+    pr ""
+
+# game/mods/pxt/pxt.rpy:85
+translate ru pxt_real_start_pxt_a5s1_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/mods/pxt/pxt.rpy:111
+translate ru pxt_real_start_pxt_a5s1_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/mods/pxt/pxt.rpy:146
+translate ru pxt_real_start_pxt_a5s1_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/mods/pxt/pxt.rpy:166
+translate ru pxt_real_start_pxt_a5s1_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+

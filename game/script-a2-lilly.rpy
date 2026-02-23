@@ -4430,7 +4430,7 @@ label a2_lilly:
 
         nvl clear
 
-        n "{vspace=240}'If you would like to correspond with me, by all means write me back.'"
+        n "{vspace=240}'If you would like to correspond with me, by all means write me back.'" id a2_lilly_a_brief_history_of_thyme_2b06ee39
 
         n "It's plainly obvious that this is not the type of letter to be replied to. In the end, this letter is no more than a simple abdication of responsibility; a final statement to reassure herself that our relationship is over."
 

@@ -9359,5 +9359,3 @@ translate ru strings:
     # game/script-a2-shizune.rpy:1313
     old "I'll help you carry it.\n ___________________\n\nBut, it's a game! The first one to stumble loses, and the loser has to carry it the rest of the way by themselves."
     new "Я помогу тебе нести её.\n ___________________\n\nНо это игра! Тот, кто первым споткнётся, проиграет и будет нести её весь остаток пути один."
-
-    

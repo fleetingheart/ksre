@@ -3240,3 +3240,11 @@ translate ru strings:
     old "Hisao Nakai\n\nTwo tablets daily to stay alive"
     new "Хисао Накай\n\nДве таблетки в день, чтобы оставаться в живых."
 
+# TODO: Translation updated at 2026-02-23 04:33
+
+# game/script-a1-monday.rpy:209
+translate ru a1_monday_out_cold_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
