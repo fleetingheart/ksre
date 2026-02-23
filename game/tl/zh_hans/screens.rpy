@@ -297,7 +297,7 @@ translate zh_hans strings:
 
     # game/screens.rpy:273
     old "Disable expression transitions"
-    new ""
+    new "Disable expression transitions"
 
     # game/screens.rpy:361
     old "Brazilian Portuguese"
@@ -305,9 +305,9 @@ translate zh_hans strings:
 
     # game/screens.rpy:858
     old "Completion: [completion_percentage]"
-    new ""
+    new "Completion: [completion_percentage]"
 
     # game/screens.rpy:1079
     old "Colorblind filter"
-    new ""
+    new "Colorblind filter"
 

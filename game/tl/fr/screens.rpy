@@ -307,7 +307,7 @@ translate fr strings:
 
     # game/screens.rpy:273
     old "Disable expression transitions"
-    new ""
+    new "Désactiver les transitions d'expression"
 
     # game/screens.rpy:361
     old "Brazilian Portuguese"
@@ -315,9 +315,9 @@ translate fr strings:
 
     # game/screens.rpy:858
     old "Completion: [completion_percentage]"
-    new ""
+    new "Complétion : [completion_percentage]"
 
     # game/screens.rpy:1079
     old "Colorblind filter"
-    new ""
+    new "Filtre daltonisme"
 
