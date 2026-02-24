@@ -5304,12 +5304,6 @@ translate zh_hans a1_sunday_movement_f8dca8a3:
     # "It's striking how different they are in their way of holding themselves outside of Yamaku's grounds. That said, it's obvious in both their cases that they do visibly change."
     "她们离开山久后的处事方法截然不同，对比还真是明显。不过话说回来，她们两人走出学园后显然都有了显而易见的变化。"
 
-# game/script-a1-sunday.rpy:3027
-translate zh_hans a1_sunday_movement_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a1-sunday.rpy:3033
 translate zh_hans a1_sunday_movement_6c50a58e:
 
@@ -5339,12 +5333,6 @@ translate zh_hans a1_sunday_movement_7f115645:
 
     # n "{vspace=30}Or maybe I'm the only one that sees this as a stigma? Maybe you get used to it after a time, like any other school uniform."
     n "{vspace=30}或者，也许我是唯一认为将这看作是一种污名的人？说不定像其他校服一样，过段时间就会逐渐适应的。"
-
-# game/script-a1-sunday.rpy:3047
-translate zh_hans a1_sunday_movement_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a1-sunday.rpy:3052
 translate zh_hans a1_sunday_movement_26cf3622:
@@ -10185,4 +10173,18 @@ translate zh_hans strings:
     # game/script-a1-sunday.rpy:5327
     old "AHHHHHHHHHHHHH!"
     new "啊啊啊！"
+
+# TODO: Translation updated at 2026-02-25 00:03
+
+# game/script-a1-sunday.rpy:3026
+translate zh_hans a1_sunday_movement_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a1-sunday.rpy:3046
+translate zh_hans a1_sunday_movement_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 

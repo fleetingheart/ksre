@@ -5748,6 +5748,20 @@ translate zh_hans a4_hanako_whispered_touch_bb1befee:
     # hi "I've already seen the real you, though. You didn't need to take off your clothes for that."
     hi "我已经见过真正的你了，你不用把衣服脱下才能让我看见。"
 
+# game/script-a4-hanako.rpy:3420
+translate zh_hans a4_hanako_whispered_touch_27005eb4:
+
+    # "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
+    "根据您的辅助功能设置，后续场景已被禁用。若继续推进，您将跳到下一天。"
+
+# TODO: Translation updated at 2026-02-25 00:03
+
+# game/script-a4-hanako.rpy:3945
+translate zh_hans a4_hanako_indeterminate_future_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
 # game/script-a4-hanako.rpy:3423
 translate zh_hans a4_hanako_whispered_touch_168faa6e:
 
@@ -6593,12 +6607,6 @@ translate zh_hans a4_hanako_indeterminate_future_467bce13:
 
     # "I pick myself up, books and pens in hand, and place them inside Hanako's desk. With the classroom now empty, I end up just leaning against her desk and thinking to myself in silence."
     "我站起身，手中拿着书本和笔，把它们放回华子的桌子。现在教室里已经空无一人了，我靠在她的桌上，默默思忖着。"
-
-# game/script-a4-hanako.rpy:3924
-translate zh_hans a4_hanako_indeterminate_future_76b2fe88:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-hanako.rpy:3927
 translate zh_hans a4_hanako_indeterminate_future_0bd7d29f:
@@ -7475,12 +7483,4 @@ translate zh_hans strings:
     # game/script-a4-hanako.rpy:837
     old "Trust my own judgment."
     new "相信自己的判断。"
-
-# TODO: Translation updated at 2024-12-18 15:16
-
-# game/script-a4-hanako.rpy:3420
-translate zh_hans a4_hanako_whispered_touch_27005eb4:
-
-    # "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
-    "根据您的辅助功能设置，后续场景已被禁用。若继续推进，您将跳到下一天。"
 

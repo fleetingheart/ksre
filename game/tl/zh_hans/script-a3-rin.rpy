@@ -1050,12 +1050,6 @@ translate zh_hans a3_rin_tt_corner_bef0d17d:
     # "Rin looks back at her silently, her eyes serious and impenetrable like the dark of the night."
     "琳沉默地看着她，眼神非常严肃，就像深夜无法被穿透的黑暗。"
 
-# game/script-a3-rin.rpy:753
-translate zh_hans a3_rin_the_scent_of_light_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:756
 translate zh_hans a3_rin_the_scent_of_light_9aff151b:
 
@@ -1079,12 +1073,6 @@ translate zh_hans a3_rin_the_scent_of_light_0d200e9b:
 
     # n "It's the last day of school for Rin. I feel like I should send her off with a word of encouragement, or at least say something. It was sort of due to my influence that she decided to dive headfirst into this, after all."
     n "今天是琳最后一次来上课。我觉得应该送她一些鼓励的话，或者至少说些什么。毕竟她做出这样的选择，多少也是因为我的影响。"
-
-# game/script-a3-rin.rpy:766
-translate zh_hans a3_rin_the_scent_of_light_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:772
 translate zh_hans a3_rin_the_scent_of_light_2034b413:
@@ -2100,12 +2088,6 @@ translate zh_hans a3_rin_things_you_cant_give_up_fac0d2c4:
     # "She skips downstairs, leaving me wondering if what I said - or what Rin said, rather - hurt her or not. Maybe what Emi herself said hurt her the most, come to that."
     "她蹦跳着下楼了，我开始琢磨自己的话——准确地说，是琳的话——是不是伤到她了。不过想来，或许笑美自己说的那些对她来说才真正痛心。"
 
-# game/script-a3-rin.rpy:1395
-translate zh_hans a3_rin_things_you_cant_give_up_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:1398
 translate zh_hans a3_rin_things_you_cant_give_up_7b3f9b7c:
 
@@ -2135,12 +2117,6 @@ translate zh_hans a3_rin_things_you_cant_give_up_d5fd751a:
 
     # n "{vspace=30}I refuse to belong to that other place, but maybe she's found comfort there."
     n "{vspace=30}我不愿被那另一边吞没，不过，或许她在那里找到了慰藉。"
-
-# game/script-a3-rin.rpy:1410
-translate zh_hans a3_rin_things_you_cant_give_up_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:1423
 translate zh_hans a3_rin_badaan_92cc9123:
@@ -3156,12 +3132,6 @@ translate zh_hans a3_rin_the_edge_of_the_world_e5a02fa5:
     # "It pisses me off."
     "这些真的让我很恼火。"
 
-# game/script-a3-rin.rpy:2017
-translate zh_hans a3_rin_the_edge_of_the_world_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:2020
 translate zh_hans a3_rin_the_edge_of_the_world_1e095191:
 
@@ -3203,12 +3173,6 @@ translate zh_hans a3_rin_the_edge_of_the_world_0d4547b0:
 
     # n "If I went too close, I wonder if I would fall off."
     n "我想知道如果我靠得太近，是否就会从边缘落下。"
-
-# game/script-a3-rin.rpy:2034
-translate zh_hans a3_rin_the_edge_of_the_world_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:2040
 translate zh_hans a3_rin_the_edge_of_the_world_36b20958:
@@ -3309,12 +3273,6 @@ translate zh_hans a3_rin_the_edge_of_the_world_ff0d382f:
 
     # n "Nothing."
     n "没有任何事。"
-
-# game/script-a3-rin.rpy:2077
-translate zh_hans a3_rin_the_edge_of_the_world_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:2086
 translate zh_hans a3_rin_the_edge_of_the_world_f9fffa70:
@@ -3838,12 +3796,6 @@ translate zh_hans a3_rin_the_context_of_rin_8f251741:
     # "After that, I quietly leave the studio and catch the bus, taking me back to school."
     "那之后，我就不出声地离开了画室，坐车回到了学校。"
 
-# game/script-a3-rin.rpy:2373
-translate zh_hans a3_rin_fast_forward_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:2376
 translate zh_hans a3_rin_fast_forward_31266b57:
 
@@ -3981,12 +3933,6 @@ translate zh_hans a3_rin_fast_forward_00483841:
 
     # n "{vspace=330}I can't explain it, and she never talks about it."
     n "{vspace=330}我没法弄清为什么，她也从不就此谈论。"
-
-# game/script-a3-rin.rpy:2428
-translate zh_hans a3_rin_fast_forward_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:2437
 translate zh_hans a3_rin_fast_forward_dfceca80:
@@ -5482,12 +5428,6 @@ translate zh_hans a3_rin_reverse_escapism_d8d12c5f:
     # "There are around-the-clock shops and cafés, sure, but the atmosphere is like the town itself is slumbering. A town that sleeps eight hours a day."
     "当然，街上有一些全天营业的商店和咖啡厅，不过整个城镇依旧让人感觉像在熟睡之中。一座一天睡八小时的小城。"
 
-# game/script-a3-rin.rpy:3351
-translate zh_hans a3_rin_reverse_escapism_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:3354
 translate zh_hans a3_rin_reverse_escapism_46871d6a:
 
@@ -5561,12 +5501,6 @@ translate zh_hans a3_rin_reverse_escapism_239f1f7e:
 
     # n "{vspace=30}The aimless wandering made me see things differently. I hope it'll do the same for Rin."
     n "{vspace=30}这种漫无目的的行走让我以一种全新的眼光去看待事物。我希望琳也能有同样的感受。"
-
-# game/script-a3-rin.rpy:3380
-translate zh_hans a3_rin_reverse_escapism_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:3389
 translate zh_hans a3_rin_reverse_escapism_c5e62edf:
@@ -6186,12 +6120,6 @@ translate zh_hans a3_rin_reverse_escapism_8fdd03e0:
     # "Then she disappears from my reach for an undefined period of time."
     "接着，她就从我能够触到的世界里消失，不知何时才会再次出现。"
 
-# game/script-a3-rin.rpy:3745
-translate zh_hans a3_rin_boundless_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:3748
 translate zh_hans a3_rin_boundless_20e4fe40:
 
@@ -6239,12 +6167,6 @@ translate zh_hans a3_rin_boundless_c0029de4:
 
     # n "Her request makes me worry about her and think about her, more than I did when I could go and see her when I wanted. It bothers me that I can't."
     n "与从前我能随时去探望她时相比，她的要求让我更担心她了，对她的思念变得更频繁。但让我心烦的是，我没法去见她。"
-
-# game/script-a3-rin.rpy:3764
-translate zh_hans a3_rin_boundless_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:3773
 translate zh_hans a3_rin_boundless_98b2031f:
@@ -7438,12 +7360,6 @@ translate zh_hans a3_rin_delirium_b7f8fd67:
     # rin "Ah…"
     rin "啊……"
 
-# game/script-a3-rin.rpy:4402
-translate zh_hans a3_rin_delirium_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:4405
 translate zh_hans a3_rin_delirium_28934add:
 
@@ -7473,12 +7389,6 @@ translate zh_hans a3_rin_delirium_b413d351:
 
     # n "Whether it's the truth or not, I couldn't say. But that's how I felt."
     n "我不知道这是不是事实，至少我是这么认为的。"
-
-# game/script-a3-rin.rpy:4418
-translate zh_hans a3_rin_delirium_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:4427
 translate zh_hans a3_rin_delirium_8008e873:
@@ -8392,12 +8302,6 @@ translate zh_hans a3_rin_shards_of_ire_108b19d4:
     # "I leave the atelier, feeling angry and guilty."
     "我离开了画室，感觉愤怒又愧疚。"
 
-# game/script-a3-rin.rpy:4909
-translate zh_hans a3_rin_shards_of_ire_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:4912
 translate zh_hans a3_rin_shards_of_ire_0c6f0648:
 
@@ -8439,12 +8343,6 @@ translate zh_hans a3_rin_shards_of_ire_a7a3aaa4:
 
     # n "Maybe it was the only way that could have brought us closer, but all it did was separate us further away from each other and now, beyond the reach of either of us."
     n "或许这是唯一能把我们变得更近的方式，不过最后的结果却仅仅是把我们分开得更远，让我们互相变得遥不可及。"
-
-# game/script-a3-rin.rpy:4930
-translate zh_hans a3_rin_shards_of_ire_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:4938
 translate zh_hans a3_rin_shards_of_ire_8064b3aa:
@@ -9065,4 +8963,108 @@ translate zh_hans strings:
     # game/script-a3-rin.rpy:4698
     old "Then explain."
     new "那就解释啊。"
+
+# TODO: Translation updated at 2026-02-25 00:03
+
+# game/script-a3-rin.rpy:756
+translate zh_hans a3_rin_the_scent_of_light_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:769
+translate zh_hans a3_rin_the_scent_of_light_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:1399
+translate zh_hans a3_rin_things_you_cant_give_up_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:1414
+translate zh_hans a3_rin_things_you_cant_give_up_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:2021
+translate zh_hans a3_rin_the_edge_of_the_world_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:2038
+translate zh_hans a3_rin_the_edge_of_the_world_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:2081
+translate zh_hans a3_rin_the_edge_of_the_world_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:2377
+translate zh_hans a3_rin_fast_forward_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:2432
+translate zh_hans a3_rin_fast_forward_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:3358
+translate zh_hans a3_rin_reverse_escapism_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:3387
+translate zh_hans a3_rin_reverse_escapism_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:3752
+translate zh_hans a3_rin_boundless_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:3771
+translate zh_hans a3_rin_boundless_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:4406
+translate zh_hans a3_rin_delirium_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:4422
+translate zh_hans a3_rin_delirium_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:4913
+translate zh_hans a3_rin_shards_of_ire_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:4934
+translate zh_hans a3_rin_shards_of_ire_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 

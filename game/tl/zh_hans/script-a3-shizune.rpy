@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2024-04-23 17:26
 
-# game/script-a3-shizune.rpy:10
-translate zh_hans a3_shizune_force_feedback_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-shizune.rpy:16
 translate zh_hans a3_shizune_force_feedback_4e6d804c:
 
@@ -29,12 +23,6 @@ translate zh_hans a3_shizune_force_feedback_16ad86aa:
 
     # n "{vspace=60}Today, I woke up early to come to school before everyone else, hoping to catch Shizune. She has a habit of coming in first thing in the morning, to be more punctual than all the other students. Unfortunately, I think I am earlier than her."
     n "{vspace=60}今天我起个大早在其他人到校之前去了学校，希望可以遇到静音。静音有早起到校的习惯，好让自己显得比其它学生都要更守时。很不幸，我想我比她还要早。"
-
-# game/script-a3-shizune.rpy:26
-translate zh_hans a3_shizune_force_feedback_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-shizune.rpy:31
 translate zh_hans a3_shizune_force_feedback_0420f681:
@@ -5958,12 +5946,6 @@ translate zh_hans a3_shizune_the_anchor_254cb6b1:
     # "My first instinct is to call out to her and ask her if she has seen Shizune, or if she wants to go to town with me, but now that I've seen her I don't feel like disturbing her. I leave her alone."
     "我的第一反应是出声招呼她，问一下她有没有看到静音，或者想不想和我一起去镇里，但是看她这个样子我不太想搅扰她，所以最后我留她在那儿了。"
 
-# game/script-a3-shizune.rpy:3905
-translate zh_hans a3_shizune_roadmap_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-shizune.rpy:3908
 translate zh_hans a3_shizune_roadmap_40c32b64:
 
@@ -5987,12 +5969,6 @@ translate zh_hans a3_shizune_roadmap_01121c5e:
 
     # n "{vspace=60}After awhile, the idea of having some free time again had started to grow on me, though there were still periods when I felt like I had too much of it."
     n "{vspace=60}一段时间后，我已经逐渐适应了有充分的自由时间的生活了，虽然有的时候我还是觉得时间充分得有点过分了。"
-
-# game/script-a3-shizune.rpy:3919
-translate zh_hans a3_shizune_roadmap_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-shizune.rpy:3925
 translate zh_hans a3_shizune_roadmap_80e37154:
@@ -11399,4 +11375,30 @@ translate zh_hans strings:
     # game/script-a3-shizune.rpy:6354
     old "Refuse."
     new "拒绝。"
+
+# TODO: Translation updated at 2026-02-25 00:03
+
+# game/script-a3-shizune.rpy:10
+translate zh_hans a3_shizune_force_feedback_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-shizune.rpy:26
+translate zh_hans a3_shizune_force_feedback_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-shizune.rpy:3917
+translate zh_hans a3_shizune_roadmap_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-shizune.rpy:3931
+translate zh_hans a3_shizune_roadmap_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 
