@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2022-08-12 21:54
 
-# game/script-a2-shizune.rpy:8
-translate ru a2_shizune_message_passing_76b2fe88:
+# game/script-a2-shizune.rpy:12
+translate ru a2_shizune_message_passing_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -42,8 +42,8 @@ translate ru a2_shizune_message_passing_1f91f161:
     # n "{vspace=60}Well, at least the weather this morning is nice enough that I can study outside before class."
     n "{vspace=60}Что ж, по крайней мере, погода сегодня хорошая, так что я могу до начала уроков позаниматься на улице."
 
-# game/script-a2-shizune.rpy:31
-translate ru a2_shizune_message_passing_76b2fe88_1:
+# game/script-a2-shizune.rpy:37
+translate ru a2_shizune_message_passing_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -312,8 +312,8 @@ translate ru a2_shizune_message_passing_81adc568:
     # "As she walks into the school building, I can't help feeling a little sad."
     "Она направляется в сторону школы, и мне становится немного грустно."
 
-# game/script-a2-shizune.rpy:211
-translate ru a2_shizune_message_passing_76b2fe88_2:
+# game/script-a2-shizune.rpy:217
+translate ru a2_shizune_message_passing_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -354,8 +354,8 @@ translate ru a2_shizune_message_passing_1bb73432:
     # n "I guess I'll go now, but I'm not certain where she is. My best bet would be to start searching for her in the girls' dorm, though. After all, if she wasn't with Shizune, that's probably the only place where she would be."
     n "Я, конечно, попробую её найти, но не уверен, что знаю, где искать. Впрочем, лучше всего посмотреть в женском общежитии. В конце концов, раз она не с Сидзунэ, то общежитие – единственное место, где она может находиться."
 
-# game/script-a2-shizune.rpy:229
-translate ru a2_shizune_message_passing_76b2fe88_3:
+# game/script-a2-shizune.rpy:235
+translate ru a2_shizune_message_passing_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -396,8 +396,8 @@ translate ru a2_shizune_message_passing_9b185b81:
     # n "Eventually I catch sight of her. While she bounces across the grounds, it hits me that I'd have to be blind to miss her with her incredibly distinctive hair."
     n "Наконец я её замечаю. Пока она бежит через двор, меня вдруг осеняет, что надо быть совсем слепым, чтобы не разглядеть её с такой невероятно эффектной причёской."
 
-# game/script-a2-shizune.rpy:253
-translate ru a2_shizune_message_passing_76b2fe88_4:
+# game/script-a2-shizune.rpy:259
+translate ru a2_shizune_message_passing_d41d8cd9_4:
 
     # nvl clear
     nvl clear
@@ -2322,8 +2322,8 @@ translate ru a2_shizune_chinese_whispers_5e268974:
     # "I'm sure that what she means is 'thank you.' I'm glad that I was able to catch it."
     "Уверен, она говорит мне «спасибо». Я рад, что смог это понять."
 
-# game/script-a2-shizune.rpy:1473
-translate ru a2_shizune_advanced_game_theory_76b2fe88:
+# game/script-a2-shizune.rpy:1482
+translate ru a2_shizune_advanced_game_theory_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -2364,8 +2364,8 @@ translate ru a2_shizune_advanced_game_theory_01a2001e:
     # n "{vspace=30}I'm doing my best to get to that point one step at a time by doing as much studying as I can squeeze in during lunch."
     n "{vspace=30}Я изо всех сил стараюсь достичь поставленной цели, занимаясь даже во время больших перемен."
 
-# game/script-a2-shizune.rpy:1494
-translate ru a2_shizune_advanced_game_theory_76b2fe88_1:
+# game/script-a2-shizune.rpy:1503
+translate ru a2_shizune_advanced_game_theory_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -2438,8 +2438,8 @@ translate ru a2_shizune_advanced_game_theory_5626da4c:
     # n "{vspace=30}So to me, this is the only option. Especially now that I've decided to be so resolute with it."
     n "{vspace=30}Так что ничего другого мне не остаётся. Особенно теперь, когда я набрался решимости."
 
-# game/script-a2-shizune.rpy:1528
-translate ru a2_shizune_advanced_game_theory_76b2fe88_2:
+# game/script-a2-shizune.rpy:1537
+translate ru a2_shizune_advanced_game_theory_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -3242,8 +3242,8 @@ translate ru a2_shizune_advanced_game_theory_abae7a70:
     # "Despite that, it's an interesting game."
     "Что ни говори, а партия очень интересная."
 
-# game/script-a2-shizune.rpy:2071
-translate ru a2_shizune_advanced_game_theory_76b2fe88_3:
+# game/script-a2-shizune.rpy:2084
+translate ru a2_shizune_advanced_game_theory_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -3340,8 +3340,8 @@ translate ru a2_shizune_advanced_game_theory_3249dd7c:
     # n "The game ends."
     n "Игра окончена."
 
-# game/script-a2-shizune.rpy:2111
-translate ru a2_shizune_advanced_game_theory_76b2fe88_4:
+# game/script-a2-shizune.rpy:2124
+translate ru a2_shizune_advanced_game_theory_d41d8cd9_4:
 
     # nvl clear
     nvl clear
@@ -3766,8 +3766,8 @@ translate ru a2_shizune_advanced_game_theory_d870e543:
     # "But the bell rings and cuts me off."
     "Но тут, не дав мне договорить, звенит звонок."
 
-# game/script-a2-shizune.rpy:2432
-translate ru a2_shizune_bread_scissors_paper_76b2fe88:
+# game/script-a2-shizune.rpy:2448
+translate ru a2_shizune_bread_scissors_paper_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -3814,8 +3814,8 @@ translate ru a2_shizune_bread_scissors_paper_3b1e169e:
     # n "I dread the amount of work that's going to hit me in Student Council after school, enough to want to consider stepping out on my duties, just this once. Yet it's nice to feel like there is something I can do."
     n "Объём работы, что ожидает меня в Школьном совете, пугает до того, что хочется хотя бы разок уклониться от своих обязанностей. Хотя, с другой стороны, приятно осознавать, что я на что-то гожусь."
 
-# game/script-a2-shizune.rpy:2455
-translate ru a2_shizune_bread_scissors_paper_76b2fe88_1:
+# game/script-a2-shizune.rpy:2471
+translate ru a2_shizune_bread_scissors_paper_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -4930,8 +4930,8 @@ translate ru a2_shizune_interface_62964872:
     # "After a solid eight hours of sleep, I don't really know what I was so afraid of last night. As I chew a particularly large tablet in half, I continue to rationalize my worries away."
     "После хорошего восьмичасового сна я никак не пойму, чего я так боялся вчера. Раскусывая пополам особо крупную таблетку, я вновь пытаюсь разобраться в причине своей тревоги и избавиться от неё."
 
-# game/script-a2-shizune.rpy:3198
-translate ru a2_shizune_interface_76b2fe88:
+# game/script-a2-shizune.rpy:3216
+translate ru a2_shizune_interface_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -4978,8 +4978,8 @@ translate ru a2_shizune_interface_4b4c80d0:
     # n "Signing, too, is not my strong suit. Doing both at the same time like Misha can is still a distant dream."
     n "Жестикуляция – тоже не самая сильная моя сторона. А о том, чтобы одновременно говорить и показывать жесты, как Миша, можно пока только мечтать."
 
-# game/script-a2-shizune.rpy:3218
-translate ru a2_shizune_interface_76b2fe88_1:
+# game/script-a2-shizune.rpy:3236
+translate ru a2_shizune_interface_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -9070,8 +9070,8 @@ translate ru a2_shizune_when_stars_embrace_630676bd:
     # "It makes me think back to that day, the other festival that I went to with her. She had looked the same way then."
     "Её вид заставляет меня задуматься о том дне, другом фестивале, который я провёл с ней. Тогда она выглядела так же."
 
-# game/script-a2-shizune.rpy:5799
-translate ru a2_shizune_when_stars_embrace_76b2fe88:
+# game/script-a2-shizune.rpy:5827
+translate ru a2_shizune_when_stars_embrace_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -9118,8 +9118,8 @@ translate ru a2_shizune_when_stars_embrace_5b1b4af2:
     # n "I still think about it from time to time. I can't say that it's not a legitimate concern. Times like these are nice enough that I can forget, though."
     n "Я периодически вспоминаю этот образ. Не могу сказать, что это неразумное беспокойство. Однако в такие моменты о подобных вещах можно забыть."
 
-# game/script-a2-shizune.rpy:5817
-translate ru a2_shizune_when_stars_embrace_76b2fe88_1:
+# game/script-a2-shizune.rpy:5845
+translate ru a2_shizune_when_stars_embrace_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -9286,8 +9286,8 @@ translate ru a2_shizune_when_stars_embrace_1cef7732:
     # "That's a simple reply. But as soon as I think that, Shizune takes a step forward and embraces me."
     "Простой ответ. Но стоит мне об этом подумать, как Сидзунэ делает шаг вперёд и обнимает меня."
 
-# game/script-a2-shizune.rpy:5908
-translate ru a2_shizune_when_stars_embrace_76b2fe88_2:
+# game/script-a2-shizune.rpy:5936
+translate ru a2_shizune_when_stars_embrace_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -9360,105 +9360,4 @@ translate ru strings:
     old "I'll help you carry it.\n ___________________\n\nBut, it's a game! The first one to stumble loses, and the loser has to carry it the rest of the way by themselves."
     new "Я помогу тебе нести её.\n ___________________\n\nНо это игра! Тот, кто первым споткнётся, проиграет и будет нести её весь остаток пути один."
 
-# game/script-a2-shizune.rpy:12
-translate ru a2_shizune_message_passing_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:37
-translate ru a2_shizune_message_passing_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:217
-translate ru a2_shizune_message_passing_d41d8cd9_2:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:235
-translate ru a2_shizune_message_passing_d41d8cd9_3:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:259
-translate ru a2_shizune_message_passing_d41d8cd9_4:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:1482
-translate ru a2_shizune_advanced_game_theory_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:1503
-translate ru a2_shizune_advanced_game_theory_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:1537
-translate ru a2_shizune_advanced_game_theory_d41d8cd9_2:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:2084
-translate ru a2_shizune_advanced_game_theory_d41d8cd9_3:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:2124
-translate ru a2_shizune_advanced_game_theory_d41d8cd9_4:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:2448
-translate ru a2_shizune_bread_scissors_paper_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:2471
-translate ru a2_shizune_bread_scissors_paper_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:3216
-translate ru a2_shizune_interface_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:3236
-translate ru a2_shizune_interface_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:5827
-translate ru a2_shizune_when_stars_embrace_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:5845
-translate ru a2_shizune_when_stars_embrace_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-shizune.rpy:5936
-translate ru a2_shizune_when_stars_embrace_d41d8cd9_2:
-
-    # nvl clear
-    nvl clear
 

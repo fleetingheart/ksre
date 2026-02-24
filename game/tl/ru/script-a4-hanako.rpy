@@ -5748,6 +5748,13 @@ translate ru a4_hanako_whispered_touch_bb1befee:
     # hi "I've already seen the real you, though. You didn't need to take off your clothes for that."
     hi "Я уже видел настоящую тебя. Для этого не обязательно было раздеваться."
 
+# game/script-a4-hanako.rpy:3420
+translate ru a4_hanako_whispered_touch_27005eb4:
+
+    # "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
+    "Следующая сцена будет пропущена на основании ваших настроек доступности. На следующем экране вы пропустите сцену и сюжет будет промотан до следующего утра. "
+
+
 # game/script-a4-hanako.rpy:3387
 translate ru a4_hanako_whispered_touch_168faa6e:
 
@@ -6594,12 +6601,11 @@ translate ru a4_hanako_indeterminate_future_467bce13:
     # "I pick myself up, books and pens in hand, and place them inside Hanako's desk. With the classroom now empty, I end up just leaning against her desk and thinking to myself in silence."
     "Собрав книги и ручки, я поднимаюсь и возвращаю их на парту Ханако. Прислонившись к ней, я принимаюсь размышлять в тишине опустевшего класса."
 
-# game/script-a4-hanako.rpy:3886
-translate ru a4_hanako_indeterminate_future_76b2fe88:
+# game/script-a4-hanako.rpy:3945
+translate ru a4_hanako_indeterminate_future_d41d8cd9:
 
     # nvl clear
     nvl clear
-
 # game/script-a4-hanako.rpy:3889
 translate ru a4_hanako_indeterminate_future_0bd7d29f:
 
@@ -7476,17 +7482,3 @@ translate ru strings:
     old "Trust my own judgment."
     new "Остаться при своём мнении."
 
-# TODO: Translation updated at 2024-05-17 04:41
-
-# game/script-a4-hanako.rpy:3420
-translate ru a4_hanako_whispered_touch_27005eb4:
-
-    # "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
-    "Следующая сцена будет пропущена на основании ваших настроек доступности. На следующем экране вы пропустите сцену и сюжет будет промотан до следующего утра. "
-
-
-# game/script-a4-hanako.rpy:3945
-translate ru a4_hanako_indeterminate_future_d41d8cd9:
-
-    # nvl clear
-    nvl clear

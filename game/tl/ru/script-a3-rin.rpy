@@ -1050,8 +1050,8 @@ translate ru a3_rin_tt_corner_bef0d17d:
     # "Rin looks back at her silently, her eyes serious and impenetrable like the dark of the night."
     "Рин окидывает её взглядом, серьёзным и непроницаемым, как тьма ночи."
 
-# game/script-a3-rin.rpy:746
-translate ru a3_rin_the_scent_of_light_76b2fe88:
+# game/script-a3-rin.rpy:756
+translate ru a3_rin_the_scent_of_light_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -1080,8 +1080,8 @@ translate ru a3_rin_the_scent_of_light_0d200e9b:
     # n "It's the last day of school for Rin. I feel like I should send her off with a word of encouragement, or at least say something. It was sort of due to my influence that she decided to dive headfirst into this, after all."
     n "Сегодня последний день занятий Рин. Я чувствую, что должен проводить её словами поддержки, ну хоть какими-нибудь словами. В конце концов, вроде как благодаря мне она решила окунуться во всё это с головой."
 
-# game/script-a3-rin.rpy:759
-translate ru a3_rin_the_scent_of_light_76b2fe88_1:
+# game/script-a3-rin.rpy:769
+translate ru a3_rin_the_scent_of_light_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -2100,8 +2100,8 @@ translate ru a3_rin_things_you_cant_give_up_fac0d2c4:
     # "She skips downstairs, leaving me wondering if what I said - or what Rin said, rather - hurt her or not. Maybe what Emi herself said hurt her the most, come to that."
     "Она сбегает по лестнице, а мне остаётся только гадать, не ранило ли её сказанное мной, а точнее, сказанное Рин. Хотя, возможно, Эми больше всего ранили её же собственные слова."
 
-# game/script-a3-rin.rpy:1385
-translate ru a3_rin_things_you_cant_give_up_76b2fe88:
+# game/script-a3-rin.rpy:1399
+translate ru a3_rin_things_you_cant_give_up_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -2136,8 +2136,8 @@ translate ru a3_rin_things_you_cant_give_up_d5fd751a:
     # n "{vspace=30}I refuse to belong to that other place, but maybe she's found comfort there."
     n "{vspace=30}То, другое место мне совершенно не по душе, но ей там, возможно, спокойнее."
 
-# game/script-a3-rin.rpy:1400
-translate ru a3_rin_things_you_cant_give_up_76b2fe88_1:
+# game/script-a3-rin.rpy:1414
+translate ru a3_rin_things_you_cant_give_up_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -3156,8 +3156,8 @@ translate ru a3_rin_the_edge_of_the_world_e5a02fa5:
     # "It pisses me off."
     "Это выводит меня из себя."
 
-# game/script-a3-rin.rpy:2009
-translate ru a3_rin_the_edge_of_the_world_76b2fe88:
+# game/script-a3-rin.rpy:2021
+translate ru a3_rin_the_edge_of_the_world_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -3204,8 +3204,8 @@ translate ru a3_rin_the_edge_of_the_world_0d4547b0:
     # n "If I went too close, I wonder if I would fall off."
     n "Подойди я слишком близко и, наверное, рухну за грань."
 
-# game/script-a3-rin.rpy:2026
-translate ru a3_rin_the_edge_of_the_world_76b2fe88_1:
+# game/script-a3-rin.rpy:2038
+translate ru a3_rin_the_edge_of_the_world_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -3310,8 +3310,8 @@ translate ru a3_rin_the_edge_of_the_world_ff0d382f:
     # n "Nothing."
     n "Ничто."
 
-# game/script-a3-rin.rpy:2070
-translate ru a3_rin_the_edge_of_the_world_76b2fe88_2:
+# game/script-a3-rin.rpy:2081
+translate ru a3_rin_the_edge_of_the_world_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -3838,8 +3838,8 @@ translate ru a3_rin_the_context_of_rin_8f251741:
     # "After that, I quietly leave the studio and catch the bus, taking me back to school."
     "После этого я спокойно покидаю мастерскую и успеваю на автобус, который отвозит меня обратно в интернат."
 
-# game/script-a3-rin.rpy:2368
-translate ru a3_rin_fast_forward_76b2fe88:
+# game/script-a3-rin.rpy:2377
+translate ru a3_rin_fast_forward_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -3982,8 +3982,8 @@ translate ru a3_rin_fast_forward_00483841:
     # n "{vspace=330}I can't explain it, and she never talks about it."
     n "{vspace=330}Я не могу понять её причину, а Саэ об этом не говорит."
 
-# game/script-a3-rin.rpy:2423
-translate ru a3_rin_fast_forward_76b2fe88_1:
+# game/script-a3-rin.rpy:2432
+translate ru a3_rin_fast_forward_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -5482,8 +5482,8 @@ translate ru a3_rin_reverse_escapism_d8d12c5f:
     # "There are around-the-clock shops and cafés, sure, but the atmosphere is like the town itself is slumbering. A town that sleeps eight hours a day."
     "Конечно, есть и круглосуточные магазины, и кафешки, но атмосфера, как и сам город, сонная. Город, который спит восемь часов в день."
 
-# game/script-a3-rin.rpy:3348
-translate ru a3_rin_reverse_escapism_76b2fe88:
+# game/script-a3-rin.rpy:3358
+translate ru a3_rin_reverse_escapism_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5562,8 +5562,8 @@ translate ru a3_rin_reverse_escapism_239f1f7e:
     # n "{vspace=30}The aimless wandering made me see things differently. I hope it'll do the same for Rin."
     n "{vspace=30}Бесцельное блуждание заставило меня взглянуть на вещи иначе. Надеюсь, это так же поможет и Рин."
 
-# game/script-a3-rin.rpy:3377
-translate ru a3_rin_reverse_escapism_76b2fe88_1:
+# game/script-a3-rin.rpy:3387
+translate ru a3_rin_reverse_escapism_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -6186,8 +6186,8 @@ translate ru a3_rin_reverse_escapism_8fdd03e0:
     # "Then she disappears from my reach for an undefined period of time."
     "Затем она исчезает из моей жизни на неопределённое время."
 
-# game/script-a3-rin.rpy:3742
-translate ru a3_rin_boundless_76b2fe88:
+# game/script-a3-rin.rpy:3752
+translate ru a3_rin_boundless_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6240,8 +6240,8 @@ translate ru a3_rin_boundless_c0029de4:
     # n "Her request makes me worry about her and think about her, more than I did when I could go and see her when I wanted. It bothers me that I can't."
     n "Её просьба заставляет меня волноваться и думать о ней чаще, чем когда я навещал её. Меня раздражает, что я ничего не могу с этим поделать."
 
-# game/script-a3-rin.rpy:3761
-translate ru a3_rin_boundless_76b2fe88_1:
+# game/script-a3-rin.rpy:3771
+translate ru a3_rin_boundless_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -7438,8 +7438,8 @@ translate ru a3_rin_delirium_b7f8fd67:
     # rin "Ah…"
     rin "Ах…"
 
-# game/script-a3-rin.rpy:4406
-translate ru a3_rin_delirium_76b2fe88:
+# game/script-a3-rin.rpy:4405
+translate ru a3_rin_delirium_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -7474,8 +7474,8 @@ translate ru a3_rin_delirium_b413d351:
     # n "Whether it's the truth or not, I couldn't say. But that's how I felt."
     n "Верной оказалась моя догадка или нет – не знаю, но именно так я тогда посчитал."
 
-# game/script-a3-rin.rpy:4422
-translate ru a3_rin_delirium_76b2fe88_1:
+# game/script-a3-rin.rpy:4421
+translate ru a3_rin_delirium_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -8392,8 +8392,8 @@ translate ru a3_rin_shards_of_ire_108b19d4:
     # "I leave the atelier, feeling angry and guilty."
     "Я покидаю мастерскую, испытывая злость и чувство вины."
 
-# game/script-a3-rin.rpy:4917
-translate ru a3_rin_shards_of_ire_76b2fe88:
+# game/script-a3-rin.rpy:4912
+translate ru a3_rin_shards_of_ire_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -8440,12 +8440,11 @@ translate ru a3_rin_shards_of_ire_a7a3aaa4:
     # n "Maybe it was the only way that could have brought us closer, but all it did was separate us further away from each other and now, beyond the reach of either of us."
     n "Возможно, благодаря ей мы могли бы сблизиться, но мы только отдалились друг от друга и теперь уже не сможем быть вместе."
 
-# game/script-a3-rin.rpy:4938
-translate ru a3_rin_shards_of_ire_76b2fe88_1:
+# game/script-a3-rin.rpy:4933
+translate ru a3_rin_shards_of_ire_d41d8cd9_1:
 
     # nvl clear
     nvl clear
-
 # game/script-a3-rin.rpy:4947
 translate ru a3_rin_shards_of_ire_8064b3aa:
 
@@ -9066,104 +9065,3 @@ translate ru strings:
     old "Then explain."
     new "Тогда объясни."
 
-# game/script-a3-rin.rpy:756
-translate ru a3_rin_the_scent_of_light_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:769
-translate ru a3_rin_the_scent_of_light_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:1399
-translate ru a3_rin_things_you_cant_give_up_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:1414
-translate ru a3_rin_things_you_cant_give_up_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:2021
-translate ru a3_rin_the_edge_of_the_world_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:2038
-translate ru a3_rin_the_edge_of_the_world_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:2081
-translate ru a3_rin_the_edge_of_the_world_d41d8cd9_2:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:2377
-translate ru a3_rin_fast_forward_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:2432
-translate ru a3_rin_fast_forward_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:3358
-translate ru a3_rin_reverse_escapism_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:3387
-translate ru a3_rin_reverse_escapism_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:3752
-translate ru a3_rin_boundless_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:3771
-translate ru a3_rin_boundless_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:4405
-translate ru a3_rin_delirium_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:4421
-translate ru a3_rin_delirium_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:4912
-translate ru a3_rin_shards_of_ire_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-rin.rpy:4933
-translate ru a3_rin_shards_of_ire_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear

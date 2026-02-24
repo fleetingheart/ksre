@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2022-08-13 21:40
 
-# game/script-a4-lilly.rpy:6
-translate ru a4_lilly_slow_steps_76b2fe88:
+# game/script-a4-lilly.rpy:10
+translate ru a4_lilly_slow_steps_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -36,8 +36,8 @@ translate ru a4_lilly_slow_steps_b2db8d4d:
     # n "One day until exams start. It's horrific, really, that instead of studying we went and wasted our time up north. We were such model students, too."
     n "До начала экзаменов остаётся один день. Это ужасно, что мы, вместо того чтобы учиться, бездельничали на севере. Ведь раньше мы тоже были примерными учениками."
 
-# game/script-a4-lilly.rpy:25
-translate ru a4_lilly_slow_steps_76b2fe88_1:
+# game/script-a4-lilly.rpy:29
+translate ru a4_lilly_slow_steps_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -4944,8 +4944,8 @@ translate ru a4_lilly_a_mornings_reverse_85879fae:
     # hi "Thank you."
     hi "Спасибо."
 
-# game/script-a4-lilly.rpy:3021
-translate ru a4_lilly_blackout_76b2fe88:
+# game/script-a4-lilly.rpy:3046
+translate ru a4_lilly_blackout_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5044,8 +5044,8 @@ translate ru a4_lilly_blackout_fd0ab66c:
     # n "{vspace=60}I can navigate the halls that I once lost myself in with an ease I'd not expected to ever have, thanks to the school's logical layout, and can engage my teachers in comfortable discussion."
     n "{vspace=60}Благодаря продуманной планировке зданий, я научился с лёгкостью ориентироваться в помещениях школы, в которых раньше с лёгкостью мог заблудиться, и могу спокойно общаться с учителями."
 
-# game/script-a4-lilly.rpy:3066
-translate ru a4_lilly_blackout_76b2fe88_1:
+# game/script-a4-lilly.rpy:3090
+translate ru a4_lilly_blackout_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -8032,8 +8032,8 @@ translate ru a4_lilly_a_faraway_future_6736385a:
     # "Even as she says it, the tone of her voice gives away that she doesn't truly believe what she's saying."
     "Её голос выдаёт, что она сама не верит в то, о чём говорит."
 
-# game/script-a4-lilly.rpy:4815
-translate ru a4_lilly_a_faraway_future_76b2fe88:
+# game/script-a4-lilly.rpy:4839
+translate ru a4_lilly_a_faraway_future_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -8280,8 +8280,8 @@ translate ru a4_lilly_farewell_ba9a2dc8:
     # "As class ends, I simply rest my head on my hand and stare out of the window to pass the time."
     "Поскольку занятия заканчиваются, я просто подпираю голову рукой и выглядываю в окно, чтобы скоротать время."
 
-# game/script-a4-lilly.rpy:4974
-translate ru a4_lilly_farewell_76b2fe88:
+# game/script-a4-lilly.rpy:4999
+translate ru a4_lilly_farewell_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -10222,8 +10222,8 @@ translate ru a4_lilly_false_cadence_a996223f:
     # "She really has grown."
     "Она действительно повзрослела."
 
-# game/script-a4-lilly.rpy:6235
-translate ru a4_lilly_false_cadence_76b2fe88:
+# game/script-a4-lilly.rpy:6279
+translate ru a4_lilly_false_cadence_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -10284,8 +10284,8 @@ translate ru a4_lilly_false_cadence_24ff359c:
     # n "{vspace=30}When I think about it, I'd always depended on them, even if they hadn't been at home all the time. To say I never depended on anyone after moving to the Yamaku dormitories would be far from the truth, though."
     n "{vspace=30}Если подумать, я всегда зависел от них, хоть они и не всегда были дома. С другой стороны, сказать, что я ни от кого не зависел после переезда в «Ямаку», тоже нельзя."
 
-# game/script-a4-lilly.rpy:6260
-translate ru a4_lilly_false_cadence_76b2fe88_1:
+# game/script-a4-lilly.rpy:6304
+translate ru a4_lilly_false_cadence_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -10536,8 +10536,8 @@ translate ru a4_lilly_false_cadence_3df5a7ad:
     # "I turn the bird in my fingers another way, looking at it from yet another angle."
     "Я поворачиваю птицу в руке, глядя на неё под другим углом."
 
-# game/script-a4-lilly.rpy:6421
-translate ru a4_lilly_false_cadence_76b2fe88_2:
+# game/script-a4-lilly.rpy:6460
+translate ru a4_lilly_false_cadence_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -10692,8 +10692,8 @@ translate ru a4_lilly_false_cadence_da43819c:
     # n "Thanks to that, I lost Lilly. I lost the one person I loved most because I wasn't there for her when she needed me."
     n "Поэтому я и потерял Лилли. Я потерял того, кого любил больше всех на свете, из-за того, что не поддержал её в трудную минуту."
 
-# game/script-a4-lilly.rpy:6480
-translate ru a4_lilly_false_cadence_76b2fe88_3:
+# game/script-a4-lilly.rpy:6519
+translate ru a4_lilly_false_cadence_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -11412,8 +11412,8 @@ translate ru a4_lilly_under_a_maudlin_sky_4992c769:
     # "The silence of the private room suddenly feels overwhelming."
     "Тишина комнаты вдруг начинает действовать угнетающе."
 
-# game/script-a4-lilly.rpy:6958
-translate ru a4_lilly_under_a_maudlin_sky_76b2fe88:
+# game/script-a4-lilly.rpy:6993
+translate ru a4_lilly_under_a_maudlin_sky_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -11580,12 +11580,11 @@ translate ru a4_lilly_under_a_maudlin_sky_45f0335e:
     # n "Maybe that's why I feel so tired. It feels almost as if I've lived the entire last few months of my life in the space of minutes."
     n "Может, поэтому я чувствую себя таким уставшим. Такое чувство, будто я прожил последние несколько месяцев своей жизни за несколько минут."
 
-# game/script-a4-lilly.rpy:7020
-translate ru a4_lilly_under_a_maudlin_sky_76b2fe88_1:
+# game/script-a4-lilly.rpy:7055
+translate ru a4_lilly_under_a_maudlin_sky_d41d8cd9_1:
 
     # nvl clear
     nvl clear
-
 # game/script-a4-lilly.rpy:7025
 translate ru a4_lilly_under_a_maudlin_sky_28109729:
 
@@ -12930,74 +12929,3 @@ translate ru strings:
     old "Yup."
     new "Ага."
 
-# game/script-a4-lilly.rpy:10
-translate ru a4_lilly_slow_steps_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-lilly.rpy:29
-translate ru a4_lilly_slow_steps_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-lilly.rpy:3046
-translate ru a4_lilly_blackout_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-lilly.rpy:3090
-translate ru a4_lilly_blackout_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-lilly.rpy:4839
-translate ru a4_lilly_a_faraway_future_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-lilly.rpy:4999
-translate ru a4_lilly_farewell_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-lilly.rpy:6279
-translate ru a4_lilly_false_cadence_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-lilly.rpy:6304
-translate ru a4_lilly_false_cadence_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-lilly.rpy:6460
-translate ru a4_lilly_false_cadence_d41d8cd9_2:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-lilly.rpy:6519
-translate ru a4_lilly_false_cadence_d41d8cd9_3:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-lilly.rpy:6993
-translate ru a4_lilly_under_a_maudlin_sky_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-lilly.rpy:7055
-translate ru a4_lilly_under_a_maudlin_sky_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
