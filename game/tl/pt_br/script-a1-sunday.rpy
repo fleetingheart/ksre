@@ -5323,8 +5323,8 @@ translate pt_br a1_sunday_movement_f8dca8a3:
     # "It's striking how different they are in their way of holding themselves outside of Yamaku's grounds. That said, it's obvious in both their cases that they do visibly change."
     "É impressionante o quão diferentes elas são em suas maneiras de se portar fora da Yamaku. Dito isso, é óbvio em ambos os casos que elas mudam visivelmente."
 
-# game/script-a1-sunday.rpy:3027
-translate pt_br a1_sunday_movement_76b2fe88:
+# game/script-a1-sunday.rpy:3026
+translate pt_br a1_sunday_movement_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5360,8 +5360,8 @@ translate pt_br a1_sunday_movement_7f115645:
     # n "{vspace=30}Or maybe I'm the only one that sees this as a stigma? Maybe you get used to it after a time, like any other school uniform."
     n "{vspace=30}Ou talvez eu seja o único que vê isso como um estigma? Talvez você se acostume com isso depois de um tempo, como qualquer outro uniforme escolar."
 
-# game/script-a1-sunday.rpy:3047
-translate pt_br a1_sunday_movement_76b2fe88_1:
+# game/script-a1-sunday.rpy:3046
+translate pt_br a1_sunday_movement_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -10217,22 +10217,4 @@ translate pt_br strings:
     # game/script-a1-sunday.rpy:5327
     old "AHHHHHHHHHHHHH!"
     new "AHHHHHHHHHHHHH!"
-
-
-
-
-
-# TODO: Translation updated at 2026-02-23 16:54
-
-# game/script-a1-sunday.rpy:3026
-translate pt_br a1_sunday_movement_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a1-sunday.rpy:3046
-translate pt_br a1_sunday_movement_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
 

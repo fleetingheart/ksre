@@ -6633,8 +6633,8 @@ translate pt_br a4_hanako_indeterminate_future_467bce13:
     # "I pick myself up, books and pens in hand, and place them inside Hanako's desk. With the classroom now empty, I end up just leaning against her desk and thinking to myself in silence."
     "Eu me levanto, com as canetas e livros na mão, e coloco eles de volta na mesa da Hanako. Com a sala agora vazia, eu acabo me apoiando na cadeira dela e fico pensando em silêncio."
 
-# game/script-a4-hanako.rpy:3939
-translate pt_br a4_hanako_indeterminate_future_76b2fe88:
+# game/script-a4-hanako.rpy:3945
+translate pt_br a4_hanako_indeterminate_future_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -7518,12 +7518,4 @@ translate pt_br strings:
     # game/script-a4-hanako.rpy:837
     old "Trust my own judgment."
     new "Acreditar no meu próprio julgamento."
-
-# TODO: Translation updated at 2026-02-23 16:54
-
-# game/script-a4-hanako.rpy:3945
-translate pt_br a4_hanako_indeterminate_future_d41d8cd9:
-
-    # nvl clear
-    nvl clear
 
