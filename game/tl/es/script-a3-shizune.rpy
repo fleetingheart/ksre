@@ -1,7 +1,7 @@
 ﻿#Adapted and fixed by Dr.Simp/Adaptado y corregido por Dr.Simp
 
 # game/script-a3-shizune.rpy:10
-translate es a3_shizune_force_feedback_76b2fe88:
+translate es a3_shizune_force_feedback_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -31,7 +31,7 @@ translate es a3_shizune_force_feedback_16ad86aa:
     n "{vspace=60}Hoy, desperté temprano para venir a la escuela antes que todos los demás, con la esperanza de alcanzar a Shizune. Ella tiene la costumbre de venir a primera hora en la mañana, para ser más puntual que todos los demás estudiantes. Desafortunadamente, creo que estoy más temprano que ella."
 
 # game/script-a3-shizune.rpy:26
-translate es a3_shizune_force_feedback_76b2fe88_1:
+translate es a3_shizune_force_feedback_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -5958,8 +5958,8 @@ translate es a3_shizune_the_anchor_254cb6b1:
     # "My first instinct is to call out to her and ask her if she has seen Shizune, or if she wants to go to town with me, but now that I've seen her I don't feel like disturbing her. I leave her alone."
     "Mi primer instinto es llamarla y preguntarle si ha visto a Shizune, o si quiere ir al pueblo conmigo, pero ahora que la he visto no tengo ganas de molestarla. La dejo sola."
 
-# game/script-a3-shizune.rpy:3894
-translate es a3_shizune_roadmap_76b2fe88:
+# game/script-a3-shizune.rpy:3917
+translate es a3_shizune_roadmap_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5988,8 +5988,8 @@ translate es a3_shizune_roadmap_01121c5e:
     # n "{vspace=60}After awhile, the idea of having some free time again had started to grow on me, though there were still periods when I felt like I had too much of it."
     n "{vspace=60}Después de un tiempo, la idea de tener algo de tiempo libre nuevamente ha comenzado a crecer en mí, aunque todavía había periodos en los que sentía que tenía demasiado."
 
-# game/script-a3-shizune.rpy:3908
-translate es a3_shizune_roadmap_76b2fe88_1:
+# game/script-a3-shizune.rpy:3931
+translate es a3_shizune_roadmap_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -11399,29 +11399,3 @@ translate es strings:
     # game/script-a3-shizune.rpy:6340
     old "Refuse."
     new "Rechazar."
-# TODO: Translation updated at 2026-02-24 12:49
-
-# game/script-a3-shizune.rpy:10
-translate es a3_shizune_force_feedback_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-shizune.rpy:26
-translate es a3_shizune_force_feedback_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-shizune.rpy:3917
-translate es a3_shizune_roadmap_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-shizune.rpy:3931
-translate es a3_shizune_roadmap_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-

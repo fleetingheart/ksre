@@ -54,8 +54,8 @@ translate es a4_shizune_grand_strategy_1a106f4d:
     # yu "Oh… Um, I suppose you don't want to talk about it…"
     yu "Oh… Em, supongo que no quieres hablar de ello…"
 
-# game/script-a4-shizune.rpy:55
-translate es a4_shizune_grand_strategy_76b2fe88:
+# game/script-a4-shizune.rpy:56
+translate es a4_shizune_grand_strategy_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -1390,8 +1390,8 @@ translate es a4_shizune_off_by_one_9cb4e459:
     # "For someone like Shizune, who has only ever interacted with the world by locking horns with every obstacle in her path, understanding only goes so far."
     "Para alguien como Shizune, quien ha interactuado con el mundo únicamente midiendo fuerzas con cada obstáculo en su camino, el entendimiento solo llega hasta allí."
 
-# game/script-a4-shizune.rpy:954
-translate es a4_shizune_off_by_one_76b2fe88:
+# game/script-a4-shizune.rpy:955
+translate es a4_shizune_off_by_one_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -1454,8 +1454,8 @@ translate es a4_shizune_off_by_one_5476fd7d:
     # n "{vspace=60}And partly for a more cowardly reason. I've started to think they weren't, but I don't know if her actions that day might not have been an afterthought, or even a fluke, just a collection of coincidences. I don't know if that would change anything, but I'm uncomfortable thinking about it."
     n "{vspace=60}Y en parte por una razón más cobarde. He comenzado a pensar que no lo eran, pero no sé si las acciones de ella en ese día podrían no haber sido una idea de último momento, o ni siquiera una casualidad, solo un conjunto de coincidencias. No sé si eso cambie algo, pero me siento incómodo pensando en ello."
 
-# game/script-a4-shizune.rpy:983
-translate es a4_shizune_off_by_one_76b2fe88_1:
+# game/script-a4-shizune.rpy:984
+translate es a4_shizune_off_by_one_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -1982,8 +1982,8 @@ translate es a4_shizune_invasion_5c6810a7:
     # ssh "I'm sorry, but it's just how I am."
     ssh "Lo siento, pero así es como soy."
 
-# game/script-a4-shizune.rpy:1328
-translate es a4_shizune_invasion_76b2fe88:
+# game/script-a4-shizune.rpy:1329
+translate es a4_shizune_invasion_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6182,8 +6182,8 @@ translate es a4_shizune_sneaking_mission_9f234bbb:
     # "But she has something to hold on to now. I can genuinely believe that she does. I'm happy for her. And at the same time, I feel a little cold. I'm the one who's behind. Now, I'm the only one without a goal."
     "Pero ahora tiene algo a qué aferrarse. Genuinamente puedo creer que lo tiene. Estoy feliz por ella. Y al mismo tiempo, me siento un poco frío. Yo soy el único que está atrasado. Ahora, yo soy el único sin una meta."
 
-# game/script-a4-shizune.rpy:4073
-translate es a4_shizune_infinity_76b2fe88:
+# game/script-a4-shizune.rpy:4075
+translate es a4_shizune_infinity_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6232,8 +6232,8 @@ translate es a4_shizune_infinity_39e567ee:
     # n "Somehow, it ended up like that anyway, even though it also ended up being a shorter list than I expected it to be. Kenji is somewhere in the middle."
     n "De alguna manera, terminó así de todos modos, aunque también terminó siendo una lista más corta de lo que esperaba que fuera. Kenji está en algún lugar en el medio."
 
-# game/script-a4-shizune.rpy:4102
-translate es a4_shizune_infinity_76b2fe88_1:
+# game/script-a4-shizune.rpy:4104
+translate es a4_shizune_infinity_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -6412,8 +6412,8 @@ translate es a4_shizune_infinity_e064b31a:
     # "I'm being thanked. This should make me happy, considering how often I would think to myself that being in the Student Council was a completely thankless job. It does make me happy, but I can't enjoy it fully."
     "Me están dando las gracias. Esto debería hacerme feliz, considerando lo mucho que pensaba para mí mismo que estar en el consejo estudiantil era un trabajo completamente ingrato. Sí me hace feliz, pero no puedo disfrutarlo por completo."
 
-# game/script-a4-shizune.rpy:4209
-translate es a4_shizune_infinity_76b2fe88_2:
+# game/script-a4-shizune.rpy:4211
+translate es a4_shizune_infinity_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -6960,8 +6960,8 @@ translate es a4_shizune_infinity_c458e2b2:
     # hi "Not really, not for me."
     hi "No realmente, no para mí."
 
-# game/script-a4-shizune.rpy:4587
-translate es a4_shizune_infinity_76b2fe88_3:
+# game/script-a4-shizune.rpy:4589
+translate es a4_shizune_infinity_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -7016,8 +7016,8 @@ translate es a4_shizune_infinity_978706b1:
     # n "{vspace=30}And I also want to keep chasing Shizune."
     n "{vspace=30}Y también quiero seguir persiguiendo a Shizune."
 
-# game/script-a4-shizune.rpy:4612
-translate es a4_shizune_infinity_76b2fe88_4:
+# game/script-a4-shizune.rpy:4614
+translate es a4_shizune_infinity_d41d8cd9_4:
 
     # nvl clear
     nvl clear
@@ -7880,8 +7880,8 @@ translate es a4_shizune_spiral_53da747b:
     # "She signs it again for emphasis, to shut down the notion that there's anything more behind it. But there is, since she's definitely not acting normally."
     "Ella hace las señas de nuevo para enfatizar, para cerrar la noción de que haya algo más detrás de ello. Pero lo hay, ya que definitivamente ella no está actuando normalmente."
 
-# game/script-a4-shizune.rpy:5161
-translate es a4_shizune_spiral_76b2fe88:
+# game/script-a4-shizune.rpy:5165
+translate es a4_shizune_spiral_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -7904,8 +7904,8 @@ translate es a4_shizune_spiral_e4ee499a:
     # n "{vspace=30}Somehow, that only makes me want to find out more. And that means I have to ask Misha. The problem is, I don't really know where Misha goes in her spare time."
     n "{vspace=30}De alguna manera, eso solamente me hace querer averiguar más. Y eso significa que tengo que preguntarle a Misha. El problema es que no sé realmente adónde va Misha en su tiempo libre."
 
-# game/script-a4-shizune.rpy:5174
-translate es a4_shizune_spiral_76b2fe88_1:
+# game/script-a4-shizune.rpy:5178
+translate es a4_shizune_spiral_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -8114,8 +8114,8 @@ translate es a4_shizune_spiral_541629ac:
     # "I barely even hear him, feeling a bit resentful at the interruption."
     "Casi ni lo oigo, sintiéndome un poco resentido por la interrupción."
 
-# game/script-a4-shizune.rpy:5314
-translate es a4_shizune_spiral_76b2fe88_2:
+# game/script-a4-shizune.rpy:5318
+translate es a4_shizune_spiral_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -8589,77 +8589,3 @@ translate es strings:
     # game/script-a4-shizune.rpy:2518
     old "This was the real surprise. See?"
     new "Esta era la verdadera sorpresa. ¿Ves?"
-# TODO: Translation updated at 2026-02-24 12:49
-
-# game/script-a4-shizune.rpy:56
-translate es a4_shizune_grand_strategy_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:955
-translate es a4_shizune_off_by_one_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:984
-translate es a4_shizune_off_by_one_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:1329
-translate es a4_shizune_invasion_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4075
-translate es a4_shizune_infinity_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4104
-translate es a4_shizune_infinity_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4211
-translate es a4_shizune_infinity_d41d8cd9_2:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4589
-translate es a4_shizune_infinity_d41d8cd9_3:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4614
-translate es a4_shizune_infinity_d41d8cd9_4:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:5165
-translate es a4_shizune_spiral_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:5178
-translate es a4_shizune_spiral_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:5318
-translate es a4_shizune_spiral_d41d8cd9_2:
-
-    # nvl clear
-    nvl clear
-
