@@ -10225,3 +10225,17 @@ translate es strings:
     # game/script-a3-hanako.rpy:6284
     old "How about we call it a day?"
     new "¿Qué tal si decimos que está bien por hoy?"
+# TODO: Translation updated at 2026-02-24 12:49
+
+# game/script-a3-hanako.rpy:2950
+translate es a3_hanako_treading_softly_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-hanako.rpy:2969
+translate es a3_hanako_treading_softly_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+

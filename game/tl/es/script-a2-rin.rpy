@@ -12029,3 +12029,137 @@ translate es a2_rin_eternity_in_an_hour_83447599:
     # extend "\nAnd eternity in an hour."
     extend "\nY la Eternidad en una hora."
 
+# TODO: Translation updated at 2026-02-24 12:49
+
+# game/script-a2-rin.rpy:1783
+translate es a2_rin_hisaos_smile_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:1811
+translate es a2_rin_hisaos_smile_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:1929
+translate es a2_rin_hisaos_smile_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:1946
+translate es a2_rin_hisaos_smile_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:1970
+translate es a2_rin_hisaos_smile_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:2019
+translate es a2_rin_hisaos_smile_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:2037
+translate es a2_rin_hisaos_smile_d41d8cd9_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:2852
+translate es a2_rin_target_audience_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:3934
+translate es a2_rin_underwater_and_maple_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:3963
+translate es a2_rin_underwater_and_maple_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4210
+translate es a2_rin_iwanakos_regret_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4239
+translate es a2_rin_iwanakos_regret_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4273
+translate es a2_rin_iwanakos_regret_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4291
+translate es a2_rin_iwanakos_regret_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4326
+translate es a2_rin_in_her_own_image_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4380
+translate es a2_rin_in_her_own_image_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4414
+translate es a2_rin_in_her_own_image_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4432
+translate es a2_rin_in_her_own_image_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:6270
+translate es a2_rin_six_meters_closer_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:6285
+translate es a2_rin_six_meters_closer_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:7218
+translate es a2_rin_dandelions_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:7229
+translate es a2_rin_dandelions_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+

@@ -9065,3 +9065,107 @@ translate es strings:
     # game/script-a3-rin.rpy:4700
     old "Then explain."
     new "Entonces explica."
+# TODO: Translation updated at 2026-02-24 12:49
+
+# game/script-a3-rin.rpy:756
+translate es a3_rin_the_scent_of_light_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:769
+translate es a3_rin_the_scent_of_light_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:1399
+translate es a3_rin_things_you_cant_give_up_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:1414
+translate es a3_rin_things_you_cant_give_up_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:2021
+translate es a3_rin_the_edge_of_the_world_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:2038
+translate es a3_rin_the_edge_of_the_world_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:2081
+translate es a3_rin_the_edge_of_the_world_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:2377
+translate es a3_rin_fast_forward_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:2432
+translate es a3_rin_fast_forward_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:3358
+translate es a3_rin_reverse_escapism_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:3387
+translate es a3_rin_reverse_escapism_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:3752
+translate es a3_rin_boundless_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:3771
+translate es a3_rin_boundless_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:4406
+translate es a3_rin_delirium_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:4422
+translate es a3_rin_delirium_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:4913
+translate es a3_rin_shards_of_ire_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:4934
+translate es a3_rin_shards_of_ire_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+

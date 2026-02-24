@@ -7481,3 +7481,11 @@ translate es strings:
     # game/script-a4-hanako.rpy:837
     old "Trust my own judgment."
     new "Confiar en mi propio juicio."
+# TODO: Translation updated at 2026-02-24 12:49
+
+# game/script-a4-hanako.rpy:3945
+translate es a4_hanako_indeterminate_future_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+

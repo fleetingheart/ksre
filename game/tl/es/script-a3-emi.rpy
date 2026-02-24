@@ -17247,3 +17247,167 @@ translate es strings:
     # game/script-a3-emi.rpy:7954
     old "Give in and let Misha know."
     new "Ceder y contarle a Misha."
+# TODO: Translation updated at 2026-02-24 12:49
+
+# game/script-a3-emi.rpy:10
+translate es a3_emi_eet_ees_scienca_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:36
+translate es a3_emi_eet_ees_scienca_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5441
+translate es a3_emi_detached_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5498
+translate es a3_emi_detached_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5514
+translate es a3_emi_detached_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5537
+translate es a3_emi_detached_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5848
+translate es a3_emi_detached_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5878
+translate es a3_emi_detached_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5946
+translate es a3_emi_phantom_pain_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5975
+translate es a3_emi_phantom_pain_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6465
+translate es a3_emi_phantom_pain_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6490
+translate es a3_emi_phantom_pain_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6529
+translate es a3_emi_phantom_pain_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6546
+translate es a3_emi_phantom_pain_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6553
+translate es a3_emi_phantom_pain_d41d8cd9_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6564
+translate es a3_emi_phantom_pain_d41d8cd9_7:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6586
+translate es a3_emi_debate_expresses_doubt_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6619
+translate es a3_emi_debate_expresses_doubt_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6817
+translate es a3_emi_debate_expresses_doubt_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6834
+translate es a3_emi_debate_expresses_doubt_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7077
+translate es a3_emi_guess_whos_coming_never_mind_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7108
+translate es a3_emi_guess_whos_coming_never_mind_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7143
+translate es a3_emi_guess_whos_coming_never_mind_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7757
+translate es a3_emi_instant_replay_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7774
+translate es a3_emi_instant_replay_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:8903
+translate es a3ec4o2_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:8922
+translate es a3ec4o2_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
