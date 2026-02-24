@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2025-06-27 23:10
 
-# game/script-a3-shizune.rpy:10
-translate it a3_shizune_force_feedback_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-shizune.rpy:16
 translate it a3_shizune_force_feedback_4e6d804c:
 
@@ -29,12 +23,6 @@ translate it a3_shizune_force_feedback_16ad86aa:
 
     # n "{vspace=60}Today, I woke up early to come to school before everyone else, hoping to catch Shizune. She has a habit of coming in first thing in the morning, to be more punctual than all the other students. Unfortunately, I think I am earlier than her."
     n "\n\nOggi mi sono alzato presto per arrivare a scuola prima di tutti, sperando di trovare Shizune. Lei ha l' abitudine di arrivare per prima la mattina, per essere più puntuale di tutti gli studenti. Sfortunatamente, credo di essere in anticipo su di lei."
-
-# game/script-a3-shizune.rpy:26
-translate it a3_shizune_force_feedback_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-shizune.rpy:31
 translate it a3_shizune_force_feedback_0420f681:
@@ -5958,12 +5946,6 @@ translate it a3_shizune_the_anchor_254cb6b1:
     # "My first instinct is to call out to her and ask her if she has seen Shizune, or if she wants to go to town with me, but now that I've seen her I don't feel like disturbing her. I leave her alone."
     "D' istinto penso di chiamarla e chiederle se ha visto Shizune, o se vuole venire con me in città, ma ora che l' ho vista non me la sento di disturbarla. La lascio stare."
 
-# game/script-a3-shizune.rpy:3917
-translate it a3_shizune_roadmap_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-shizune.rpy:3920
 translate it a3_shizune_roadmap_40c32b64:
 
@@ -5987,12 +5969,6 @@ translate it a3_shizune_roadmap_01121c5e:
 
     # n "{vspace=60}After awhile, the idea of having some free time again had started to grow on me, though there were still periods when I felt like I had too much of it."
     n "\n\nDopo un po', l' idea di avere nuovamente del tempo libero ha cominciato ad allettarmi, anche se rimanevano momenti in cui mi sentivo di averne troppo."
-
-# game/script-a3-shizune.rpy:3931
-translate it a3_shizune_roadmap_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-shizune.rpy:3937
 translate it a3_shizune_roadmap_80e37154:
@@ -11400,3 +11376,28 @@ translate it strings:
     old "Refuse."
     new "Mi rifiuto."
 
+# TODO: Translation updated at 2026-02-24 23:28
+
+# game/script-a3-shizune.rpy:10
+translate it a3_shizune_force_feedback_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-shizune.rpy:26
+translate it a3_shizune_force_feedback_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-shizune.rpy:3917
+translate it a3_shizune_roadmap_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-shizune.rpy:3931
+translate it a3_shizune_roadmap_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear

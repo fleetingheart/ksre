@@ -4368,12 +4368,6 @@ translate it a2_emi_track_meeting_2ab2d277:
     # "And so, I soon find myself quite suddenly surrounded by a crowd of people, all turning out to see our track team compete with another school like this one."
     "E così, presto mi ritrovo improvvisamente circondato da una folla, presentatasi per vedere la nostra squadra di atletica competere contro un' altra scuola simile a questa."
 
-# game/script-a2-emi.rpy:2760
-translate it a2_emi_track_meeting_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:2764
 translate it a2_emi_track_meeting_0fd7c9e8:
 
@@ -4433,12 +4427,6 @@ translate it a2_emi_track_meeting_b3a290a2:
 
     # n "It's a bitter sort of comfort to be able to say 'Well, at least I've got a chance of being alive through college,' but there it is."
     n "È una sorta di amaro conforto poter dire “Bene, almeno ho una possibilità di restare vivo fino alla fine dell' università”, ma tant' è."
-
-# game/script-a2-emi.rpy:2787
-translate it a2_emi_track_meeting_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-emi.rpy:2793
 translate it a2_emi_track_meeting_1815f73c:
@@ -6888,12 +6876,6 @@ translate it a2_emi_down_that_medicine_now_19b1712b:
     # "I really need that shower."
     "Ho davvero bisogno di quella doccia."
 
-# game/script-a2-emi.rpy:4355
-translate it a2_emi_piracy_on_the_high_seas_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:4362
 translate it a2_emi_piracy_on_the_high_seas_f7b64135:
 
@@ -8000,12 +7982,6 @@ translate it a2_emi_piracy_on_the_high_seas_799ef6f3:
     # "I have no idea why she would write to me. I haven't been in contact with anyone from my old school since I transferred, and Iwanako is the last person I'd expect to want to write me a letter."
     "Non ho idea del perché mi avrebbe dovuto scrivere. Non ho avuto contatti con nessuno della mia vecchia scuola da quando mi sono trasferito, e Iwanako è l' ultima persona da cui mi aspetterei una lettera."
 
-# game/script-a2-emi.rpy:5011
-translate it a2_emi_piracy_on_the_high_seas_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:5014
 translate it a2_emi_piracy_on_the_high_seas_f94e2c99:
 
@@ -8067,12 +8043,6 @@ translate it a2_emi_piracy_on_the_high_seas_c8fc7c4a:
 
     # n "So I never managed to say the things I wanted to say. In the end, that might've hurt her even more."
     n "Per cui non riuscii mai a dire le cose che volevo dire. Alla fine, forse questo le ha fatto ancor più male."
-
-# game/script-a2-emi.rpy:5039
-translate it a2_emi_piracy_on_the_high_seas_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-emi.rpy:5044
 translate it a2_emi_piracy_on_the_high_seas_ad45b62a:
@@ -10324,12 +10294,6 @@ translate it a2_emi_tracking_absences_955bea6f:
     # "The run helped to take my mind off it for a little while, but now that I'm finished I'm back to worrying."
     "La corsa mi ha aiutato a non pensarci per un po', ma ora che ho finito torno a preoccuparmi."
 
-# game/script-a2-emi.rpy:6511
-translate it a2_emi_tracking_absences_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:6515
 translate it a2_emi_tracking_absences_04eab752:
 
@@ -10389,12 +10353,6 @@ translate it a2_emi_tracking_absences_c96bc927:
 
     # n "I'll ask the nurse when I stop in to see him."
     n "Chiederò all' infermiere quando passerò a vederlo."
-
-# game/script-a2-emi.rpy:6538
-translate it a2_emi_tracking_absences_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-emi.rpy:6546
 translate it a2_emi_tracking_absences_0740aedb:
@@ -12460,12 +12418,6 @@ translate it a2_emi_dropping_by_f44a8fc1:
     # "I want to turn around and march back down the hallway, open the door and tell her…"
     "Voglio girarmi e marciare giù per il corridoio, aprire la porta e dirle…"
 
-# game/script-a2-emi.rpy:7694
-translate it a2_emi_dropping_by_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:7698
 translate it a2_emi_dropping_by_841527aa:
 
@@ -12551,12 +12503,6 @@ translate it a2_emi_dropping_by_d7596770:
 
     # n "I need to take my mind off of this whole situation."
     n "Devo distrarmi da questa intera situazione."
-
-# game/script-a2-emi.rpy:7730
-translate it a2_emi_dropping_by_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-emi.rpy:7734
 translate it a2_emi_dropping_by_ff4cbdea:
@@ -12800,12 +12746,6 @@ translate it a2_emi_the_first_morning_after_7098156e:
     # n "After the run, I'll talk to him while Emi's waiting outside the office."
     n "Dopo la corsa, gli parlerò mentre Emi aspetta fuori dal suo ufficio."
 
-# game/script-a2-emi.rpy:7851
-translate it a2_emi_the_first_morning_after_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:7860
 translate it a2_emi_the_first_morning_after_4d486ea3:
 
@@ -12847,12 +12787,6 @@ translate it a2_emi_the_first_morning_after_fab85d57:
 
     # n "What if…"
     n "E se…"
-
-# game/script-a2-emi.rpy:7877
-translate it a2_emi_the_first_morning_after_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-emi.rpy:7886
 translate it a2_emi_the_first_morning_after_3fb6275e:
@@ -14054,12 +13988,6 @@ translate it a2_emi_the_real_beginning_5571e34b:
     # hi "You got any more track meets coming up?"
     hi "Hai degli altri raduni di atletica a cui partecipare in futuro?"
 
-# game/script-a2-emi.rpy:8566
-translate it a2_emi_the_real_beginning_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:8570
 translate it a2_emi_the_real_beginning_c30402f9:
 
@@ -14077,12 +14005,6 @@ translate it a2_emi_the_real_beginning_118492ef:
 
     # n "Well, assuming I can get myself to actually form the words."
     n "Beh, assumendo che effettivamente io riesca a formulare una frase."
-
-# game/script-a2-emi.rpy:8576
-translate it a2_emi_the_real_beginning_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-emi.rpy:8583
 translate it a2_emi_the_real_beginning_4a72a162_1:
@@ -14618,12 +14540,6 @@ translate it a2_emi_the_real_beginning_47dac5af:
     # "What a silly worry for her to have."
     "Che cosa sciocca di cui preoccuparsi."
 
-# game/script-a2-emi.rpy:8869
-translate it a2_emi_the_real_beginning_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:8872
 translate it a2_emi_the_real_beginning_046f7ee3:
 
@@ -14671,12 +14587,6 @@ translate it a2_emi_the_real_beginning_fd6b90bf:
 
     # n "I inhale her scent, my mind trying desperately to memorize everything about how she tastes, how she smells, how she feels."
     n "Inalo il suo profumo mentre la mia mente tenta disperatamente di memorizzare tutto: il suo sapore, il suo odore, la sensazione che provo a toccarla."
-
-# game/script-a2-emi.rpy:8891
-translate it a2_emi_the_real_beginning_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-emi.rpy:8902
 translate it a2_emi_the_real_beginning_656d65f8:
@@ -14953,4 +14863,96 @@ translate it strings:
     # game/script-a2-emi.rpy:6156
     old "Keep quiet."
     new "Taccio."
+
+# TODO: Translation updated at 2026-02-24 23:28
+
+# game/script-a2-emi.rpy:2760
+translate it a2_emi_track_meeting_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:2787
+translate it a2_emi_track_meeting_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:4355
+translate it a2_emi_piracy_on_the_high_seas_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:5011
+translate it a2_emi_piracy_on_the_high_seas_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:5039
+translate it a2_emi_piracy_on_the_high_seas_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:6511
+translate it a2_emi_tracking_absences_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:6538
+translate it a2_emi_tracking_absences_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:7694
+translate it a2_emi_dropping_by_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:7730
+translate it a2_emi_dropping_by_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:7851
+translate it a2_emi_the_first_morning_after_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:7877
+translate it a2_emi_the_first_morning_after_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:8566
+translate it a2_emi_the_real_beginning_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:8576
+translate it a2_emi_the_real_beginning_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:8869
+translate it a2_emi_the_real_beginning_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:8891
+translate it a2_emi_the_real_beginning_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
 

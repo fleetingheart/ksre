@@ -6438,12 +6438,6 @@ translate it a2_lilly_a_brief_history_of_thyme_b620de73:
     # "I'd barely given the letter a second thought when it was given to me, but now I can't get its contents out of my mind."
     "Quando la lettera mi è stata data non ci avevo fatto quasi caso, ma ora non riesco a togliermi il suo contenuto dalla testa."
 
-# game/script-a2-lilly.rpy:4404
-translate it a2_lilly_a_brief_history_of_thyme_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-lilly.rpy:4407
 translate it a2_lilly_a_brief_history_of_thyme_511e7377:
 
@@ -6467,12 +6461,6 @@ translate it a2_lilly_a_brief_history_of_thyme_76ba8aef:
 
     # n "The ending, though, is the true reason she sent this. The last couple of lines, added almost as an afterthought."
     n "La conclusione, comunque, è il vero motivo per cui me l' ha mandata. L' ultimo paio di righe, aggiunte quasi come un ripensamento."
-
-# game/script-a2-lilly.rpy:4415
-translate it a2_lilly_a_brief_history_of_thyme_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-lilly.rpy:4425
 translate it a2_lilly_a_brief_history_of_thyme_58f09731:
@@ -6505,12 +6493,6 @@ translate it a2_lilly_a_brief_history_of_thyme_236438f2:
 
     # n "It's plainly obvious that this is not the type of letter to be replied to. In the end, this letter is no more than a simple abdication of responsibility; a final statement to reassure herself that our relationship is over."
     n "È chiaramente ovvio che questo non è il tipo di lettera a cui rispondere. Alla fine, questa lettera non è altro che un semplice modo di assolversi dalle responsabilità; una dichiarazione finale che ci rassicura di come la nostra relazione sia finita."
-
-# game/script-a2-lilly.rpy:4440
-translate it a2_lilly_a_brief_history_of_thyme_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-lilly.rpy:4445
 translate it a2_lilly_a_brief_history_of_thyme_87109222:
@@ -6559,12 +6541,6 @@ translate it a2_lilly_little_wing_53617801:
 
     # n "{vspace=60}Death in the form of a single sheet of paper."
     n "\n\nMorte sotto forma di un unico foglio di carta."
-
-# game/script-a2-lilly.rpy:4479
-translate it a2_lilly_little_wing_76b2fe88:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-lilly.rpy:4485
 translate it a2_lilly_little_wing_c80a94cd:
@@ -8685,4 +8661,30 @@ translate it strings:
     # game/script-a2-lilly.rpy:5006
     old "Thirty-two!"
     new "Trentadue!"
+
+# TODO: Translation updated at 2026-02-24 23:28
+
+# game/script-a2-lilly.rpy:4404
+translate it a2_lilly_a_brief_history_of_thyme_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-lilly.rpy:4415
+translate it a2_lilly_a_brief_history_of_thyme_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-lilly.rpy:4440
+translate it a2_lilly_a_brief_history_of_thyme_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-lilly.rpy:4479
+translate it a2_lilly_little_wing_d41d8cd9:
+
+    # nvl clear
+    nvl clear
 

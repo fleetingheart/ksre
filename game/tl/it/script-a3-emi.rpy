@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2025-06-27 23:10
 
-# game/script-a3-emi.rpy:10
-translate it a3_emi_eet_ees_scienca_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:16
 translate it a3_emi_eet_ees_scienca_15a98fa6:
 
@@ -59,12 +53,6 @@ translate it a3_emi_eet_ees_scienca_ed009a62:
 
     # n "{vspace=30}My mind drifts off, lost in thoughts of Emi."
     n "\nLa mia mente va alla deriva, persa in pensieri di Emi."
-
-# game/script-a3-emi.rpy:36
-translate it a3_emi_eet_ees_scienca_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:42
 translate it a3_emi_eet_ees_scienca_b3b5c77f:
@@ -9348,12 +9336,6 @@ translate it a3_emi_afterschool_plans_a82e9d35:
     # "The rest of the night is not spent worrying about exams."
     "Il resto della notte non viene passato preoccupandosi degli esami."
 
-# game/script-a3-emi.rpy:5441
-translate it a3_emi_detached_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:5444
 translate it a3_emi_detached_f2a49980:
 
@@ -9502,12 +9484,6 @@ translate it a3_emi_detached_d241477e:
     # n "His praise of me carries the veiled implication that anything less than perfect from me would be a disappointment, which has actually caused me to fret more than I should about the exam."
     n "Il suo elogiarmi porta con sé la velata implicazione che qualunque risultato meno che perfetto da parte mia sarebbe una delusione, il che mi ha effettivamente fatto agitare più del dovuto riguardo l' esame."
 
-# game/script-a3-emi.rpy:5498
-translate it a3_emi_detached_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:5504
 translate it a3_emi_detached_a35437b4:
 
@@ -9531,12 +9507,6 @@ translate it a3_emi_detached_c0fd781b:
 
     # "As I flip through my notes one more time, my mind begins to wander."
     "Mentre sfoglio ancora una volta i miei appunti, la mia mente inizia a divagare."
-
-# game/script-a3-emi.rpy:5514
-translate it a3_emi_detached_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:5517
 translate it a3_emi_detached_df418b1a:
@@ -9591,12 +9561,6 @@ translate it a3_emi_detached_ceccb846:
 
     # n "Heh."
     n "Heh."
-
-# game/script-a3-emi.rpy:5537
-translate it a3_emi_detached_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:5545
 translate it a3_emi_detached_7aee21ca:
@@ -10234,12 +10198,6 @@ translate it a3_emi_detached_1b58ae30:
     # hi "Yeah, maybe I should do that."
     hi "Già, forse dovrei fare così."
 
-# game/script-a3-emi.rpy:5848
-translate it a3_emi_detached_76b2fe88_4:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:5851
 translate it a3_emi_detached_61469bf9:
 
@@ -10311,12 +10269,6 @@ translate it a3_emi_detached_cff700c2:
 
     # n "I'll cross that bridge when I come to it."
     n "Mi occuperò del problema quando si presenterà."
-
-# game/script-a3-emi.rpy:5878
-translate it a3_emi_detached_76b2fe88_5:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:5882
 translate it a3_emi_detached_41c71065:
@@ -10402,12 +10354,6 @@ translate it a3_emi_phantom_pain_efbe6d0b:
     # "The question keeps spinning in my head even after I made my way back to my room."
     "La domanda continua a girarmi per la testa perfino dopo che sono ritornato alla mia stanza."
 
-# game/script-a3-emi.rpy:5946
-translate it a3_emi_phantom_pain_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:5949
 translate it a3_emi_phantom_pain_b21cdf59:
 
@@ -10467,12 +10413,6 @@ translate it a3_emi_phantom_pain_7eb56115:
 
     # n "But I want to."
     n "Ma voglio farlo."
-
-# game/script-a3-emi.rpy:5975
-translate it a3_emi_phantom_pain_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:5978
 translate it a3_emi_phantom_pain_a0726d67:
@@ -11422,12 +11362,6 @@ translate it a3_emi_phantom_pain_95e3e68e:
     # emi "Yeah?"
     emi "Sì?"
 
-# game/script-a3-emi.rpy:6465
-translate it a3_emi_phantom_pain_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:6468
 translate it a3_emi_phantom_pain_43a34339:
 
@@ -11487,12 +11421,6 @@ translate it a3_emi_phantom_pain_f9d74b66:
 
     # n "I want to know so badly that being denied that answer feels like a knife in my guts."
     n "Voglio saperlo a tal punto che sentirmi rifiutare quella risposta sembra come un coltello nelle interiora."
-
-# game/script-a3-emi.rpy:6490
-translate it a3_emi_phantom_pain_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:6493
 translate it a3_emi_phantom_pain_a18df911_1:
@@ -11560,12 +11488,6 @@ translate it a3_emi_phantom_pain_52ae208b:
     # "Somehow I wander back to my own room. My brains are doing a mile a minute, going nowhere fast."
     "In un modo o nell' altro, vago fino a tornare alla mia stanza. Il mio cervello sta correndo ai mille all' ora, e andando di gran fretta da nessuna parte."
 
-# game/script-a3-emi.rpy:6529
-translate it a3_emi_phantom_pain_76b2fe88_4:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:6532
 translate it a3_emi_phantom_pain_3e789cab:
 
@@ -11608,12 +11530,6 @@ translate it a3_emi_phantom_pain_942f56f4:
     # n "And unfortunately, no time to watch out for lagging teammates either."
     n "E sfortunatamente, anche niente tempo per occuparsi dei compagni più lenti."
 
-# game/script-a3-emi.rpy:6546
-translate it a3_emi_phantom_pain_76b2fe88_5:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:6549
 translate it a3_emi_phantom_pain_8684421a:
 
@@ -11625,12 +11541,6 @@ translate it a3_emi_phantom_pain_ffeb3ec8:
 
     # "No such luck, of course."
     "Niente da fare, ovviamente."
-
-# game/script-a3-emi.rpy:6553
-translate it a3_emi_phantom_pain_76b2fe88_6:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:6556
 translate it a3_emi_phantom_pain_0685fba6:
@@ -11655,12 +11565,6 @@ translate it a3_emi_phantom_pain_250e5b09:
 
     # n "{vspace=30}Maybe this is just as fixed as the both of us can get."
     n "\nForse questo è solo il limite di quanto entrambi possiamo essere aggiustati."
-
-# game/script-a3-emi.rpy:6564
-translate it a3_emi_phantom_pain_76b2fe88_7:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:6567
 translate it a3_emi_phantom_pain_f67d47cf:
@@ -11697,12 +11601,6 @@ translate it a3_emi_debate_expresses_doubt_a1583b46:
 
     # "That clenched feeling in my gut is still there."
     "Quella sensazione contratta nelle mie interiora è ancora lì."
-
-# game/script-a3-emi.rpy:6586
-translate it a3_emi_debate_expresses_doubt_76b2fe88:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:6589
 translate it a3_emi_debate_expresses_doubt_524d2c66:
@@ -11789,12 +11687,6 @@ translate it a3_emi_debate_expresses_doubt_4cca4b06:
 
     # n "{vspace=30}I hope so."
     n "\nLo spero."
-
-# game/script-a3-emi.rpy:6619
-translate it a3_emi_debate_expresses_doubt_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:6625
 translate it a3_emi_debate_expresses_doubt_0cadd00a:
@@ -12204,12 +12096,6 @@ translate it a3_emi_debate_expresses_doubt_4c593746:
     # "I can't get myself to calm down the whole time."
     "Per tutto il tempo non riesco a tranquillizzarmi."
 
-# game/script-a3-emi.rpy:6817
-translate it a3_emi_debate_expresses_doubt_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:6820
 translate it a3_emi_debate_expresses_doubt_05ccc61b:
 
@@ -12245,12 +12131,6 @@ translate it a3_emi_debate_expresses_doubt_a8302645:
 
     # n "I very nearly didn't even bring anything up with her, was just gonna hop on in there and let it ride, wasn't I?"
     n "A momenti stavo per non sollevare nemmeno la questione con lei, stavo per seguire il flusso e lasciar correre, no?"
-
-# game/script-a3-emi.rpy:6834
-translate it a3_emi_debate_expresses_doubt_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:6840
 translate it a3_emi_debate_expresses_doubt_25d5da16:
@@ -12588,12 +12468,6 @@ translate it a3_emi_debate_expresses_doubt_dcfe7be7:
     # "I settle for a combination of all three and hop in the shower."
     "Opto per una combinazione di tutti e tre e faccio un salto alle docce."
 
-# game/script-a3-emi.rpy:7077
-translate it a3_emi_guess_whos_coming_never_mind_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:7080
 translate it a3_emi_guess_whos_coming_never_mind_8a7ed09f:
 
@@ -12674,12 +12548,6 @@ translate it a3_emi_guess_whos_coming_never_mind_c63a736f:
     # n "I can't seem to come to terms with the fact that Emi appears to be trying to bring me closer while at the same time pushing me away."
     n "Non riesco ad accettare il fatto che Emi sembra star cercando di avvicinarsi a me mentre allo stesso tempo mi respinge."
 
-# game/script-a3-emi.rpy:7108
-translate it a3_emi_guess_whos_coming_never_mind_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:7111
 translate it a3_emi_guess_whos_coming_never_mind_d0e4abc5:
 
@@ -12759,12 +12627,6 @@ translate it a3_emi_guess_whos_coming_never_mind_b16aa4e1:
 
     # n "{vspace=30}Now if only I could manage my relationship as well as I've managed my heart, I'd be in great shape."
     n "\nAdesso se solo potessi gestire la mia relazione tanto bene quanto ho gestito il mio cuore, sarei a posto."
-
-# game/script-a3-emi.rpy:7143
-translate it a3_emi_guess_whos_coming_never_mind_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:7153
 translate it a3_emi_guess_whos_coming_never_mind_3215f00b:
@@ -13738,12 +13600,6 @@ translate it a3_emi_instant_replay_b680217d:
     # "The morning alarm sounds and I roll over, switching it off. My eyes open blearily to stare at the ceiling."
     "L' allarme del mattino suona e mi giro nel letto, spegnendolo. I miei occhi annebbiati si aprono per fissare il soffitto."
 
-# game/script-a3-emi.rpy:7757
-translate it a3_emi_instant_replay_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:7760
 translate it a3_emi_instant_replay_6a3194b6:
 
@@ -13785,12 +13641,6 @@ translate it a3_emi_instant_replay_59b1b5a2:
 
     # n "{vspace=30}Can I really bring myself to go down there and see her, knowing that I'm never going to get past where I am now?"
     n "\nPosso davvero costringermi ad andare e a vederla, sapendo che non potrò mai progredire oltre il punto dove sono ora?"
-
-# game/script-a3-emi.rpy:7774
-translate it a3_emi_instant_replay_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:7780
 translate it a3_emi_instant_replay_b558f347:
@@ -15808,12 +15658,6 @@ translate it a3ec4o2_920f684a:
     # "After finishing reading the letter I smooth it out carefully and set it aside on my desk."
     "Dopo aver finito di leggere la lettera la liscio con attenzione e la metto da parte sulla mia scrivania."
 
-# game/script-a3-emi.rpy:8903
-translate it a3ec4o2_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:8906
 translate it a3ec4o2_00283d1a:
 
@@ -15849,12 +15693,6 @@ translate it a3ec4o2_41c2efed:
 
     # n "{vspace=60}And the past may just have taught me an important lesson now."
     n "\n\nE il passato potrebbe avermi appena dato un' importante lezione."
-
-# game/script-a3-emi.rpy:8922
-translate it a3ec4o2_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:8928
 translate it a3ec5o1_82832ea0:
@@ -17247,4 +17085,168 @@ translate it strings:
     # game/script-a3-emi.rpy:7957
     old "Give in and let Misha know."
     new "Cedo e ne parlo a Misha."
+
+# TODO: Translation updated at 2026-02-24 23:28
+
+# game/script-a3-emi.rpy:10
+translate it a3_emi_eet_ees_scienca_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:36
+translate it a3_emi_eet_ees_scienca_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5441
+translate it a3_emi_detached_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5498
+translate it a3_emi_detached_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5514
+translate it a3_emi_detached_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5537
+translate it a3_emi_detached_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5848
+translate it a3_emi_detached_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5878
+translate it a3_emi_detached_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5946
+translate it a3_emi_phantom_pain_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5975
+translate it a3_emi_phantom_pain_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6465
+translate it a3_emi_phantom_pain_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6490
+translate it a3_emi_phantom_pain_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6529
+translate it a3_emi_phantom_pain_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6546
+translate it a3_emi_phantom_pain_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6553
+translate it a3_emi_phantom_pain_d41d8cd9_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6564
+translate it a3_emi_phantom_pain_d41d8cd9_7:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6586
+translate it a3_emi_debate_expresses_doubt_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6619
+translate it a3_emi_debate_expresses_doubt_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6817
+translate it a3_emi_debate_expresses_doubt_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6834
+translate it a3_emi_debate_expresses_doubt_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7077
+translate it a3_emi_guess_whos_coming_never_mind_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7108
+translate it a3_emi_guess_whos_coming_never_mind_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7143
+translate it a3_emi_guess_whos_coming_never_mind_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7757
+translate it a3_emi_instant_replay_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7774
+translate it a3_emi_instant_replay_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:8903
+translate it a3ec4o2_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:8922
+translate it a3ec4o2_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 

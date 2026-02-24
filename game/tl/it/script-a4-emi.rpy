@@ -348,12 +348,6 @@ translate it a4_emi_a_swing_and_a_miss_4e5de42f:
     # hi "Yeah, sure…"
     hi "Già, certo…"
 
-# game/script-a4-emi.rpy:213
-translate it a4_emi_a_swing_and_a_miss_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-emi.rpy:216
 translate it a4_emi_a_swing_and_a_miss_342369ae:
 
@@ -389,12 +383,6 @@ translate it a4_emi_a_swing_and_a_miss_24f51d1f:
 
     # n "{vspace=30}I'm absolutely miserable."
     n "\nSono assolutamente infelice."
-
-# game/script-a4-emi.rpy:233
-translate it a4_emi_a_swing_and_a_miss_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-emi.rpy:248
 translate it a4_emi_saving_throw_1a2608b5:
@@ -2634,3 +2622,16 @@ translate it a4_emi_clean_teeth_84eaf109:
     # emi "What do you want to do today?"
     emi "Che cosa vuoi fare oggi?"
 
+# TODO: Translation updated at 2026-02-24 23:28
+
+# game/script-a4-emi.rpy:213
+translate it a4_emi_a_swing_and_a_miss_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-emi.rpy:233
+translate it a4_emi_a_swing_and_a_miss_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
