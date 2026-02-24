@@ -5304,8 +5304,8 @@ translate de a1_sunday_movement_f8dca8a3:
     # "It's striking how different they are in their way of holding themselves outside of Yamaku's grounds. That said, it's obvious in both their cases that they do visibly change."
     "Es ist auffällig, wie unterschiedlich die Art und Weise ist, wie sie sich außerhalb der Mauern von Yamaku geben. Abgesehen davon ist es offensichtlich, dass sie sich beide sichtbar verändern."
 
-# game/script-a1-sunday.rpy:3027
-translate de a1_sunday_movement_76b2fe88:
+# game/script-a1-sunday.rpy:3026
+translate de a1_sunday_movement_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5340,8 +5340,8 @@ translate de a1_sunday_movement_7f115645:
     # n "{vspace=30}Or maybe I'm the only one that sees this as a stigma? Maybe you get used to it after a time, like any other school uniform."
     n "{vspace=30}Oder vielleicht bin ich der Einzige, der das als Makel sieht? Vielleicht gewöhnt man sich nach einer Zeit daran, wie an jede andere Schuluniform."
 
-# game/script-a1-sunday.rpy:3047
-translate de a1_sunday_movement_76b2fe88_1:
+# game/script-a1-sunday.rpy:3046
+translate de a1_sunday_movement_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -10185,4 +10185,3 @@ translate de strings:
     # game/script-a1-sunday.rpy:5327
     old "AHHHHHHHHHHHHH!"
     new "AHHHHHHHHHHHHH!"
-

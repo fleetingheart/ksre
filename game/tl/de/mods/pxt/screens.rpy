@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-16 21:54
+﻿# TODO: Translation updated at 2026-02-24 12:31
 
 translate de strings:
 

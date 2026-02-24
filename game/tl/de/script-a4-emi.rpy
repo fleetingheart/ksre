@@ -349,7 +349,7 @@ translate de a4_emi_a_swing_and_a_miss_4e5de42f:
     hi "Ja, schon in Ordnung…"
 
 # game/script-a4-emi.rpy:213
-translate de a4_emi_a_swing_and_a_miss_76b2fe88:
+translate de a4_emi_a_swing_and_a_miss_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -391,7 +391,7 @@ translate de a4_emi_a_swing_and_a_miss_24f51d1f:
     n "{vspace=30}Es geht mir einfach nur mies."
 
 # game/script-a4-emi.rpy:233
-translate de a4_emi_a_swing_and_a_miss_76b2fe88_1:
+translate de a4_emi_a_swing_and_a_miss_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -2633,4 +2633,3 @@ translate de a4_emi_clean_teeth_84eaf109:
 
     # emi "What do you want to do today?"
     emi "Was willst du heute machen?"
-

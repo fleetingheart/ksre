@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2024-03-16 21:54
 
 # game/script-a2-shizune.rpy:12
-translate de a2_shizune_message_passing_76b2fe88:
+translate de a2_shizune_message_passing_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -42,8 +42,8 @@ translate de a2_shizune_message_passing_1f91f161:
     # n "{vspace=60}Well, at least the weather this morning is nice enough that I can study outside before class."
     n "{vspace=60}Na ja, immerhin ist das Wetter gut genug, um draußen noch ein wenig zu lernen, bevor der Unterricht losgeht."
 
-# game/script-a2-shizune.rpy:35
-translate de a2_shizune_message_passing_76b2fe88_1:
+# game/script-a2-shizune.rpy:37
+translate de a2_shizune_message_passing_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -312,8 +312,8 @@ translate de a2_shizune_message_passing_81adc568:
     # "As she walks into the school building, I can't help feeling a little sad."
     "Irgendwie fühle ich mich etwas niedergeschlagen, als sie im Schulgebäude verschwindet."
 
-# game/script-a2-shizune.rpy:215
-translate de a2_shizune_message_passing_76b2fe88_2:
+# game/script-a2-shizune.rpy:217
+translate de a2_shizune_message_passing_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -354,8 +354,8 @@ translate de a2_shizune_message_passing_1bb73432:
     # n "I guess I'll go now, but I'm not certain where she is. My best bet would be to start searching for her in the girls' dorm, though. After all, if she wasn't with Shizune, that's probably the only place where she would be."
     n "Ich schätze, ich werde sie gleich suchen gehen, aber ich bin mir nicht sicher, wo sie gerade steckt. Die besten Chancen habe ich wohl, wenn ich vor dem Mädchenwohnheim auf sie warte. Da sie ja nicht bei Shizune war, ist das vermutlich der einzige Ort, an dem sie sonst sein könnte."
 
-# game/script-a2-shizune.rpy:233
-translate de a2_shizune_message_passing_76b2fe88_3:
+# game/script-a2-shizune.rpy:235
+translate de a2_shizune_message_passing_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -396,8 +396,8 @@ translate de a2_shizune_message_passing_9b185b81:
     # n "Eventually I catch sight of her. While she bounces across the grounds, it hits me that I'd have to be blind to miss her with her incredibly distinctive hair."
     n "Am Ende erspähe ich sie dann aber doch. Während sie über den Schulhof stürmt, wird mir klar, dass ich blind sein müsste, um ihr extrem auffälliges Haar zu übersehen."
 
-# game/script-a2-shizune.rpy:257
-translate de a2_shizune_message_passing_76b2fe88_4:
+# game/script-a2-shizune.rpy:259
+translate de a2_shizune_message_passing_d41d8cd9_4:
 
     # nvl clear
     nvl clear
@@ -2322,8 +2322,8 @@ translate de a2_shizune_chinese_whispers_5e268974:
     # "I'm sure that what she means is 'thank you.' I'm glad that I was able to catch it."
     "Ich bin mir sicher, dass das 'Danke' bedeutet. Ich freue mich, dass ich es verstehen konnte."
 
-# game/script-a2-shizune.rpy:1479
-translate de a2_shizune_advanced_game_theory_76b2fe88:
+# game/script-a2-shizune.rpy:1482
+translate de a2_shizune_advanced_game_theory_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -2364,8 +2364,8 @@ translate de a2_shizune_advanced_game_theory_01a2001e:
     # n "{vspace=30}I'm doing my best to get to that point one step at a time by doing as much studying as I can squeeze in during lunch."
     n "{vspace=30}Ich gebe mein Bestes, Schritt für Schritt zu lernen, indem ich während des Mittagessens so viel Wissen wie möglich in mich hineinstopfe."
 
-# game/script-a2-shizune.rpy:1500
-translate de a2_shizune_advanced_game_theory_76b2fe88_1:
+# game/script-a2-shizune.rpy:1503
+translate de a2_shizune_advanced_game_theory_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -2438,8 +2438,8 @@ translate de a2_shizune_advanced_game_theory_5626da4c:
     # n "{vspace=30}So to me, this is the only option. Especially now that I've decided to be so resolute with it."
     n "{vspace=30}Für mich ist das die einzige Option. Besonders jetzt, wo ich mich entschieden habe, es voll durchzuziehen."
 
-# game/script-a2-shizune.rpy:1534
-translate de a2_shizune_advanced_game_theory_76b2fe88_2:
+# game/script-a2-shizune.rpy:1537
+translate de a2_shizune_advanced_game_theory_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -3242,8 +3242,8 @@ translate de a2_shizune_advanced_game_theory_abae7a70:
     # "Despite that, it's an interesting game."
     "Trotzdem ist es ein interessantes Spiel."
 
-# game/script-a2-shizune.rpy:2081
-translate de a2_shizune_advanced_game_theory_76b2fe88_3:
+# game/script-a2-shizune.rpy:2084
+translate de a2_shizune_advanced_game_theory_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -3340,8 +3340,8 @@ translate de a2_shizune_advanced_game_theory_3249dd7c:
     # n "The game ends."
     n "Das Spiel ist aus."
 
-# game/script-a2-shizune.rpy:2121
-translate de a2_shizune_advanced_game_theory_76b2fe88_4:
+# game/script-a2-shizune.rpy:2124
+translate de a2_shizune_advanced_game_theory_d41d8cd9_4:
 
     # nvl clear
     nvl clear
@@ -3766,8 +3766,8 @@ translate de a2_shizune_advanced_game_theory_d870e543:
     # "But the bell rings and cuts me off."
     "Doch das Läuten der Klingel unterbricht mich."
 
-# game/script-a2-shizune.rpy:2445
-translate de a2_shizune_bread_scissors_paper_76b2fe88:
+# game/script-a2-shizune.rpy:2448
+translate de a2_shizune_bread_scissors_paper_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -3814,8 +3814,8 @@ translate de a2_shizune_bread_scissors_paper_3b1e169e:
     # n "I dread the amount of work that's going to hit me in Student Council after school, enough to want to consider stepping out on my duties, just this once. Yet it's nice to feel like there is something I can do."
     n "Mir graut es vor dem Berg Arbeit, der mich nach dem Unterricht im Schülerrat erwartet. Ich spiele mit dem Gedanken, meine Pflichten zu vernachlässigen, nur dieses eine Mal. Und trotzdem ist es schön, wenn man etwas zu tun hat."
 
-# game/script-a2-shizune.rpy:2468
-translate de a2_shizune_bread_scissors_paper_76b2fe88_1:
+# game/script-a2-shizune.rpy:2471
+translate de a2_shizune_bread_scissors_paper_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -4930,8 +4930,8 @@ translate de a2_shizune_interface_62964872:
     # "After a solid eight hours of sleep, I don't really know what I was so afraid of last night. As I chew a particularly large tablet in half, I continue to rationalize my worries away."
     "Nach gut und gern acht Stunden Schlaf weiß ich echt nicht mehr, wovor ich letzte Nacht so eine Angst hatte. Während ich ein besonders großes Kaliber einer Tablette entzweikaue, versuche ich meine Sorgen mit Vernunft wegzudenken."
 
-# game/script-a2-shizune.rpy:3213
-translate de a2_shizune_interface_76b2fe88:
+# game/script-a2-shizune.rpy:3216
+translate de a2_shizune_interface_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -4978,8 +4978,8 @@ translate de a2_shizune_interface_4b4c80d0:
     # n "Signing, too, is not my strong suit. Doing both at the same time like Misha can is still a distant dream."
     n "Auch das Ausführen der Gesten ist nicht gerade meine Stärke. Beides gleichzeitig zu schaffen wie Misha ist noch Wunschdenken."
 
-# game/script-a2-shizune.rpy:3233
-translate de a2_shizune_interface_76b2fe88_1:
+# game/script-a2-shizune.rpy:3236
+translate de a2_shizune_interface_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -9070,8 +9070,8 @@ translate de a2_shizune_when_stars_embrace_630676bd:
     # "It makes me think back to that day, the other festival that I went to with her. She had looked the same way then."
     "Es erinnert mich an diesen vergangenen Tag, an dieses andere Fest, zu dem ich mit ihr gegangen bin. Damals sah sie genau so aus."
 
-# game/script-a2-shizune.rpy:5823
-translate de a2_shizune_when_stars_embrace_76b2fe88:
+# game/script-a2-shizune.rpy:5827
+translate de a2_shizune_when_stars_embrace_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -9118,8 +9118,8 @@ translate de a2_shizune_when_stars_embrace_5b1b4af2:
     # n "I still think about it from time to time. I can't say that it's not a legitimate concern. Times like these are nice enough that I can forget, though."
     n "Ich denke immer noch von Zeit zu Zeit daran. Ich kann nicht behaupten, dass es keine berechtigte Sorge ist. Jedoch sind Zeiten wie diese schön genug, dass ich das vergessen kann."
 
-# game/script-a2-shizune.rpy:5841
-translate de a2_shizune_when_stars_embrace_76b2fe88_1:
+# game/script-a2-shizune.rpy:5845
+translate de a2_shizune_when_stars_embrace_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -9286,8 +9286,8 @@ translate de a2_shizune_when_stars_embrace_1cef7732:
     # "That's a simple reply. But as soon as I think that, Shizune takes a step forward and embraces me."
     "Das ist eine schlichte Antwort. Doch sowie ich das denke, macht Shizune einen Schritt nach vorn und umarmt mich."
 
-# game/script-a2-shizune.rpy:5932
-translate de a2_shizune_when_stars_embrace_76b2fe88_2:
+# game/script-a2-shizune.rpy:5936
+translate de a2_shizune_when_stars_embrace_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -9359,4 +9359,3 @@ translate de strings:
     # game/script-a2-shizune.rpy:1325
     old "I'll help you carry it.\n ___________________\n\nBut, it's a game! The first one to stumble loses, and the loser has to carry it the rest of the way by themselves."
     new "Ich helfe dir beim Tragen.\n ___________________\n\nAber – es ist ein Spiel! Es verliert der Erste, der stolpert. Und der Verlierer muss es den restlichen Weg selbst tragen."
-
