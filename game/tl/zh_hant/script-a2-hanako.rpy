@@ -570,12 +570,6 @@ translate zh_hant a2_hanako_to_town_to_town_b57613d1:
     # "What kind of convenience store sells herbs?"
     "什麼樣的便利商店會出售香草啊？"
 
-# game/script-a2-hanako.rpy:395
-translate zh_hant a2_hanako_to_town_to_town_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-hanako.rpy:399
 translate zh_hant a2_hanako_to_town_to_town_69982a8b:
 
@@ -3962,12 +3956,6 @@ translate zh_hant a2_hanako_mad_hatter_1d2664be:
     # "Hanako, finally beginning to relax, sips from her cup."
     "終於放鬆下來的華子對著茶杯小口地喝著。"
 
-# game/script-a2-hanako.rpy:2651
-translate zh_hant a2_hanako_mad_hatter_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-hanako.rpy:2654
 translate zh_hant a2_hanako_mad_hatter_dd6c1788:
 
@@ -4034,18 +4022,6 @@ translate zh_hant a2_hanako_mad_hatter_f57eaa86:
     # n "However, I see no harm in becoming better friends with Hanako. Now that she's warming up to me I kind of enjoy hanging out with her."
     n "不過，我不認為和華子成為更好的朋友會是一件壞事，而如今華子對我的態度漸漸升溫，我也挺享受和她在一起度過時間。"
 
-# game/script-a2-hanako.rpy:2677
-translate zh_hant a2_hanako_mad_hatter_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-hanako.rpy:2682
-translate zh_hant a2_hanako_mad_hatter_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-hanako.rpy:2685
 translate zh_hant a2_hanako_mad_hatter_00bbcaa4:
 
@@ -4081,12 +4057,6 @@ translate zh_hant a2_hanako_mad_hatter_384a99ca:
 
     # n "{vspace=30}Isn't that enough?"
     n "{vspace=30}這樣不就足夠了嗎？"
-
-# game/script-a2-hanako.rpy:2698
-translate zh_hant a2_hanako_mad_hatter_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-hanako.rpy:2704
 translate zh_hant a2_hanako_mad_hatter_481c50c2:
@@ -5456,12 +5426,6 @@ translate zh_hant a2_hanako_equivalent_exchange_de5bd408:
     # "I imagine Hanako is going through the same thing now."
     "華子可能現在也有著同樣的回憶。"
 
-# game/script-a2-hanako.rpy:3530
-translate zh_hant a2_hanako_equivalent_exchange_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-hanako.rpy:3533
 translate zh_hant a2_hanako_equivalent_exchange_8c19269f:
 
@@ -5503,12 +5467,6 @@ translate zh_hant a2_hanako_equivalent_exchange_7afe38dd:
 
     # n "Did her parents die? I'll have to ask Lilly about it. I can imagine myself saying something dumb unintentionally."
     n "她的父母死了嗎？這個問題我得去問問莉莉。我可以想像得到自己可能會無意中說出什麼蠢話來。"
-
-# game/script-a2-hanako.rpy:3549
-translate zh_hant a2_hanako_equivalent_exchange_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-hanako.rpy:3555
 translate zh_hant a2_hanako_equivalent_exchange_74c2ab5d:
@@ -5567,4 +5525,48 @@ translate zh_hant strings:
     # game/script-a2-hanako.rpy:1180
     old "I've done enough work for the council already."
     new "我幫學生會做的工作已經夠多了。"
+
+# TODO: Translation updated at 2026-02-25 00:11
+
+# game/script-a2-hanako.rpy:395
+translate zh_hant a2_hanako_to_town_to_town_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:2651
+translate zh_hant a2_hanako_mad_hatter_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:2677
+translate zh_hant a2_hanako_mad_hatter_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:2682
+translate zh_hant a2_hanako_mad_hatter_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:2698
+translate zh_hant a2_hanako_mad_hatter_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:3530
+translate zh_hant a2_hanako_equivalent_exchange_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:3549
+translate zh_hant a2_hanako_equivalent_exchange_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 

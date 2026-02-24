@@ -1020,12 +1020,6 @@ translate zh_hant a3_lilly_minor_discord_f24f54df:
     # "Once he starts rambling into conspiracy territory, my juice suddenly becomes of much more importance."
     "只要他一開始胡扯起他的陰謀論，我的果汁突然變得更重要了。"
 
-# game/script-a3-lilly.rpy:690
-translate zh_hant a3_lilly_minor_discord_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-lilly.rpy:693
 translate zh_hant a3_lilly_minor_discord_d0ccf9d8:
 
@@ -1049,12 +1043,6 @@ translate zh_hant a3_lilly_minor_discord_769f017b:
 
     # n "Come to think of it, I need to go check on Hanako after school, too. Considering her much improved attendance, I'm guessing she's come down with something."
     n "想到這裡，我還需要在放後學探望一下華子。考慮到她比之前進步得多的出席率，我猜她大概是生了什麼病。"
-
-# game/script-a3-lilly.rpy:704
-translate zh_hant a3_lilly_minor_discord_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-lilly.rpy:713
 translate zh_hant a3_lilly_minor_discord_d9d03008:
@@ -1746,12 +1734,6 @@ translate zh_hant a3_lilly_a_world_away_a68f6852:
     # "Giving up on reading, I simply let my head drop onto the book in front of me."
     "我放棄了讀書，一頭倒在了臉前的書上。"
 
-# game/script-a3-lilly.rpy:1092
-translate zh_hant a3_lilly_a_world_away_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-lilly.rpy:1095
 translate zh_hant a3_lilly_a_world_away_93a02b23:
 
@@ -1787,12 +1769,6 @@ translate zh_hant a3_lilly_a_world_away_04c3c7dc:
 
     # n "It doesn't help that many attempts to do so have led to the troublesome topic of Iwanako. Every time my thoughts drift into that direction, I reflexively try to think about something else."
     n "更糟的是，每當我試著那麼做時，思緒總會飄到關於巖魚子的麻煩上。每次一想到那裡，我就會下意識地轉念，去想別的事情。"
-
-# game/script-a3-lilly.rpy:1109
-translate zh_hant a3_lilly_a_world_away_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-lilly.rpy:1113
 translate zh_hant a3_lilly_a_world_away_58cb0069:
@@ -1992,12 +1968,6 @@ translate zh_hant a3_lilly_a_world_away_adc309ed:
     # "She gives a girlish giggle, which only reinforces my view of her as being different from the usual staff here."
     "她像個小女孩那樣咯咯地笑了起來，這加深了我對她的映像：她果然和其他職員不同。"
 
-# game/script-a3-lilly.rpy:1223
-translate zh_hant a3_lilly_a_world_away_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-lilly.rpy:1226
 translate zh_hant a3_lilly_a_world_away_ab0daf1a:
 
@@ -2015,12 +1985,6 @@ translate zh_hant a3_lilly_a_world_away_1a4d5321:
 
     # n "It's just one more motive to move on from the past. The last thing I need right now is to get too caught up in that and getting homesick while I'm at it."
     n "這又成了我想擺脫過去的另一個理由。現在最不需要的，就是陷在過去那些回憶裡。"
-
-# game/script-a3-lilly.rpy:1232
-translate zh_hant a3_lilly_a_world_away_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-lilly.rpy:1238
 translate zh_hant a3_lilly_a_world_away_a75460a9:
@@ -2358,12 +2322,6 @@ translate zh_hant a3_lilly_renewal_2004258f:
     # "I sit listening to another of Mutou's long-winded lectures, my mind wandering far from the scribbles on the dirty blackboard."
     "我坐在位子上聽著武藤又一次冗長的講課，思緒早已飄得遠遠的，離那塵土斑斑黑板上的字跡十萬八千里。"
 
-# game/script-a3-lilly.rpy:1390
-translate zh_hant a3_lilly_renewal_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-lilly.rpy:1393
 translate zh_hant a3_lilly_renewal_ed5e1b7e:
 
@@ -2393,12 +2351,6 @@ translate zh_hant a3_lilly_renewal_9ae080da:
 
     # n "It's amazing how quickly one becomes used to the environment they're forced to live in, really. And now I've even found someone that's got me entirely smitten. What a strange life."
     n "當人們被強迫進入一個新的環境時的他們的適應速度快的令人驚奇。並且現在我甚至找到了令我為之深深著迷的人。多奇異的生活。"
-
-# game/script-a3-lilly.rpy:1403
-translate zh_hant a3_lilly_renewal_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-lilly.rpy:1406
 translate zh_hant a3_lilly_renewal_495573f0:
@@ -5714,12 +5666,6 @@ translate zh_hant a3_lilly_gray_outlook_60cef8ec:
     # n "I never thought I'd say it, but the idea of living away from the city in a nice, tranquil area is an inviting one. It's a thought that, barely a year ago, would have seemed simply ludicrous."
     n "真沒想到，現在的我會認為能離開城市，在一個美麗、安靜的地方生活是一個有吸引力的主意。一年前的我絕對會認為這是個荒唐的想法。"
 
-# game/script-a3-lilly.rpy:3479
-translate zh_hant a3_lilly_gray_outlook_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-lilly.rpy:3482
 translate zh_hant a3_lilly_gray_outlook_bbcb44a1:
 
@@ -6110,12 +6056,6 @@ translate zh_hant a3_lilly_rhapsody_in_blue_25d6306b:
     # "I have no idea how long it's been since I had a genuine hot bath, but right now I can hardly be bothered trying to remember."
     "我都不記得我有多久沒像這樣好好洗個熱水澡了，不過現在這麼舒服，我也懶得去回想了。"
 
-# game/script-a3-lilly.rpy:3744
-translate zh_hant a3_lilly_rhapsody_in_blue_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-lilly.rpy:3747
 translate zh_hant a3_lilly_rhapsody_in_blue_81de881d:
 
@@ -6163,12 +6103,6 @@ translate zh_hant a3_lilly_rhapsody_in_blue_3553b764:
 
     # n "Also now, of all times, I'm getting into a relationship."
     n "更要命的是，我還挑這種時間交了女朋友。"
-
-# game/script-a3-lilly.rpy:3763
-translate zh_hant a3_lilly_rhapsody_in_blue_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-lilly.rpy:3766
 translate zh_hant a3_lilly_rhapsody_in_blue_0d768b95:
@@ -7327,4 +7261,72 @@ translate zh_hant strings:
     # game/script-a3-lilly.rpy:4168
     old "Talk about school."
     new "聊學校。"
+
+# TODO: Translation updated at 2026-02-25 00:11
+
+# game/script-a3-lilly.rpy:690
+translate zh_hant a3_lilly_minor_discord_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:704
+translate zh_hant a3_lilly_minor_discord_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1092
+translate zh_hant a3_lilly_a_world_away_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1109
+translate zh_hant a3_lilly_a_world_away_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1223
+translate zh_hant a3_lilly_a_world_away_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1232
+translate zh_hant a3_lilly_a_world_away_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1390
+translate zh_hant a3_lilly_renewal_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1403
+translate zh_hant a3_lilly_renewal_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:3479
+translate zh_hant a3_lilly_gray_outlook_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:3744
+translate zh_hant a3_lilly_rhapsody_in_blue_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:3763
+translate zh_hant a3_lilly_rhapsody_in_blue_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 

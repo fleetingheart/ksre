@@ -54,12 +54,6 @@ translate zh_hant a4_shizune_grand_strategy_1a106f4d:
     # yu "Oh… Um, I suppose you don't want to talk about it…"
     yu "啊哈哈……是嗎。我猜你大概不希望別人過多幹涉吧……"
 
-# game/script-a4-shizune.rpy:56
-translate zh_hant a4_shizune_grand_strategy_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-shizune.rpy:59
 translate zh_hant a4_shizune_grand_strategy_60e036f6:
 
@@ -1390,12 +1384,6 @@ translate zh_hant a4_shizune_off_by_one_9cb4e459:
     # "For someone like Shizune, who has only ever interacted with the world by locking horns with every obstacle in her path, understanding only goes so far."
     "對於靜音這種遇到困難時，唯一的解決方法就是迎頭而上的人來說，“理解”也只能是這種程度罷了"
 
-# game/script-a4-shizune.rpy:955
-translate zh_hant a4_shizune_off_by_one_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-shizune.rpy:958
 translate zh_hant a4_shizune_off_by_one_5db7104a:
 
@@ -1453,12 +1441,6 @@ translate zh_hant a4_shizune_off_by_one_5476fd7d:
 
     # n "{vspace=60}And partly for a more cowardly reason. I've started to think they weren't, but I don't know if her actions that day might not have been an afterthought, or even a fluke, just a collection of coincidences. I don't know if that would change anything, but I'm uncomfortable thinking about it."
     n "{vspace=60}也可能是因為一個更加怯懦的原因，我不能確定。但是我不知道她那天的舉動是否只是一種補償，甚至只是一種巧合；只是一系列單純因為命運的安排而發生的機緣巧合。我不知道這能改變什麼，但是這種想法，讓我感到有些不適。"
-
-# game/script-a4-shizune.rpy:984
-translate zh_hant a4_shizune_off_by_one_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-shizune.rpy:991
 translate zh_hant a4_shizune_off_by_one_57788a22:
@@ -1981,12 +1963,6 @@ translate zh_hant a4_shizune_invasion_5c6810a7:
 
     # ssh "I'm sorry, but it's just how I am."
     ssh "對不起，我就是這樣的人。"
-
-# game/script-a4-shizune.rpy:1329
-translate zh_hant a4_shizune_invasion_76b2fe88:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-shizune.rpy:1332
 translate zh_hant a4_shizune_invasion_e7b9b64d:
@@ -6182,12 +6158,6 @@ translate zh_hant a4_shizune_sneaking_mission_9f234bbb:
     # "But she has something to hold on to now. I can genuinely believe that she does. I'm happy for her. And at the same time, I feel a little cold. I'm the one who's behind. Now, I'm the only one without a goal."
     " 不過現在她有了能為之努力的事。我真覺得她有了目標。我為她而感到高興。而同時，我感覺到一陣寒意。我是落後的人。現在我是唯一一個毫無目標的人。"
 
-# game/script-a4-shizune.rpy:4075
-translate zh_hant a4_shizune_infinity_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-shizune.rpy:4085
 translate zh_hant a4_shizune_infinity_80bb1ed3:
 
@@ -6231,12 +6201,6 @@ translate zh_hant a4_shizune_infinity_39e567ee:
 
     # n "Somehow, it ended up like that anyway, even though it also ended up being a shorter list than I expected it to be. Kenji is somewhere in the middle."
     n "但結果不知為何還是變成了那樣，儘管名單還比我預計的要短。健二在中間的某個位置。"
-
-# game/script-a4-shizune.rpy:4104
-translate zh_hant a4_shizune_infinity_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-shizune.rpy:4110
 translate zh_hant a4_shizune_infinity_c5c68cde:
@@ -6411,12 +6375,6 @@ translate zh_hant a4_shizune_infinity_e064b31a:
 
     # "I'm being thanked. This should make me happy, considering how often I would think to myself that being in the Student Council was a completely thankless job. It does make me happy, but I can't enjoy it fully."
     "他們在感謝我。考慮到我總以為學生會的工作是吃力不討好，我該感到高興。他們的確讓我感到高興了，但我無法全然享受他們的感謝。"
-
-# game/script-a4-shizune.rpy:4211
-translate zh_hant a4_shizune_infinity_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-shizune.rpy:4214
 translate zh_hant a4_shizune_infinity_fa987a85:
@@ -6960,12 +6918,6 @@ translate zh_hant a4_shizune_infinity_c458e2b2:
     # hi "Not really, not for me."
     hi "對我來說並不是。"
 
-# game/script-a4-shizune.rpy:4589
-translate zh_hant a4_shizune_infinity_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-shizune.rpy:4592
 translate zh_hant a4_shizune_infinity_46ff8dea:
 
@@ -7015,12 +6967,6 @@ translate zh_hant a4_shizune_infinity_978706b1:
 
     # n "{vspace=30}And I also want to keep chasing Shizune."
     n "{vspace=30}同時我也想永遠追隨靜音的腳步。"
-
-# game/script-a4-shizune.rpy:4614
-translate zh_hant a4_shizune_infinity_76b2fe88_4:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-shizune.rpy:4619
 translate zh_hant a4_shizune_infinity_41ee97af:
@@ -7880,12 +7826,6 @@ translate zh_hant a4_shizune_spiral_53da747b:
     # "She signs it again for emphasis, to shut down the notion that there's anything more behind it. But there is, since she's definitely not acting normally."
     "她打了兩次同樣的手語來強調她的話，否決了其後有任何的含義。但絕對有什麼原因，因為她表現得很反常。"
 
-# game/script-a4-shizune.rpy:5165
-translate zh_hant a4_shizune_spiral_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-shizune.rpy:5168
 translate zh_hant a4_shizune_spiral_df40b66d:
 
@@ -7903,12 +7843,6 @@ translate zh_hant a4_shizune_spiral_e4ee499a:
 
     # n "{vspace=30}Somehow, that only makes me want to find out more. And that means I have to ask Misha. The problem is, I don't really know where Misha goes in her spare time."
     n "{vspace=30}不知為何，那更讓我想弄清楚了。那也意味著我必須去問米莎。問題是，我不太清楚米莎在她空閒時會去哪裡。"
-
-# game/script-a4-shizune.rpy:5178
-translate zh_hant a4_shizune_spiral_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-shizune.rpy:5183
 translate zh_hant a4_shizune_spiral_472616cb:
@@ -8113,12 +8047,6 @@ translate zh_hant a4_shizune_spiral_541629ac:
 
     # "I barely even hear him, feeling a bit resentful at the interruption."
     "我都沒聽他說話，被他打斷思路讓我有點生氣。"
-
-# game/script-a4-shizune.rpy:5318
-translate zh_hant a4_shizune_spiral_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-shizune.rpy:5321
 translate zh_hant a4_shizune_spiral_94a95e1c:
@@ -8589,4 +8517,78 @@ translate zh_hant strings:
     # game/script-a4-shizune.rpy:2519
     old "This was the real surprise. See?"
     new "這才是真正的驚喜。看到了嗎？"
+
+# TODO: Translation updated at 2026-02-25 00:11
+
+# game/script-a4-shizune.rpy:56
+translate zh_hant a4_shizune_grand_strategy_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:955
+translate zh_hant a4_shizune_off_by_one_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:984
+translate zh_hant a4_shizune_off_by_one_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:1329
+translate zh_hant a4_shizune_invasion_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:4075
+translate zh_hant a4_shizune_infinity_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:4104
+translate zh_hant a4_shizune_infinity_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:4211
+translate zh_hant a4_shizune_infinity_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:4589
+translate zh_hant a4_shizune_infinity_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:4614
+translate zh_hant a4_shizune_infinity_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:5165
+translate zh_hant a4_shizune_spiral_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:5178
+translate zh_hant a4_shizune_spiral_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-shizune.rpy:5318
+translate zh_hant a4_shizune_spiral_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
 

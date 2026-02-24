@@ -2646,12 +2646,6 @@ translate zh_hant a2_rin_hisaos_smile_811c5f41:
     # rin "Hello."
     rin "你好。"
 
-# game/script-a2-rin.rpy:1783
-translate zh_hant a2_rin_hisaos_smile_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:1788
 translate zh_hant a2_rin_hisaos_smile_7dca636a:
 
@@ -2713,12 +2707,6 @@ translate zh_hant a2_rin_hisaos_smile_33809380:
 
     # n "{vspace=60}However, this sense of a budding friendship is completely wrecked every time Rin opens her mouth."
     n "{vspace=60}然而，每當琳開口時，那種似乎正隱然綻放的友誼就被徹底扼殺了。"
-
-# game/script-a2-rin.rpy:1811
-translate zh_hant a2_rin_hisaos_smile_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:1819
 translate zh_hant a2_rin_hisaos_smile_06d21fa2:
@@ -2918,12 +2906,6 @@ translate zh_hant a2_rin_hisaos_smile_7de8baa1:
     # "A group of boys walk past us to Rin's classroom, but she doesn't pay them any mind. They pay none to her, either. My mind wanders off, spurred by the silence."
     "一羣男生經過了琳的教室，但她沒去注意他們。他們對她也視若無睹。在寂靜的牽引下，我的思緒漸漸飄遠了。"
 
-# game/script-a2-rin.rpy:1929
-translate zh_hant a2_rin_hisaos_smile_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:1935
 translate zh_hant a2_rin_hisaos_smile_2e79ac04:
 
@@ -2954,12 +2936,6 @@ translate zh_hant a2_rin_hisaos_smile_f6d0c724:
     # n "{vspace=60}I can't decide which one of us is worse off."
     n "{vspace=60}我說不清我們誰要更可悲一些。"
 
-# game/script-a2-rin.rpy:1946
-translate zh_hant a2_rin_hisaos_smile_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:1953
 translate zh_hant a2_rin_hisaos_smile_920047c4:
 
@@ -2989,12 +2965,6 @@ translate zh_hant a2_rin_hisaos_smile_f975fe21:
 
     # n "{vspace=30}When I finally ask Rin on Thursday about something that's been bothering me for the entire week, it's already lunch time."
     n "{vspace=30}週二，我終於決定向琳提一個困擾我已久的問題，那時已經是午飯時間了。"
-
-# game/script-a2-rin.rpy:1970
-translate zh_hant a2_rin_hisaos_smile_76b2fe88_4:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:1977
 translate zh_hant a2_rin_hisaos_smile_ab0a3a09:
@@ -3050,12 +3020,6 @@ translate zh_hant a2_rin_hisaos_smile_a12b9df8:
     # "Her striking observation gives me pause."
     "她銳利的評論讓我啞口無言。"
 
-# game/script-a2-rin.rpy:2019
-translate zh_hant a2_rin_hisaos_smile_76b2fe88_5:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:2022
 translate zh_hant a2_rin_hisaos_smile_c072d50f:
 
@@ -3097,12 +3061,6 @@ translate zh_hant a2_rin_hisaos_smile_b9ec8dd7:
 
     # n "{vspace=30}Have I really stopped smiling?"
     n "{vspace=30}莫非我真的已經不再笑了嗎？"
-
-# game/script-a2-rin.rpy:2037
-translate zh_hant a2_rin_hisaos_smile_76b2fe88_6:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:2041
 translate zh_hant a2_rin_hisaos_smile_e1f8a5e6:
@@ -4255,12 +4213,6 @@ translate zh_hant a2_rin_target_audience_cd465943:
 
     # "While waiting for the relay to start, I peer at Rin. She seems uninterested in her surroundings, myself included."
     "趁著接力跑準備開始時，我瞥了瞥琳，她似乎對自己周身的事物漠不關心，包括我。"
-
-# game/script-a2-rin.rpy:2852
-translate zh_hant a2_rin_target_audience_76b2fe88:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:2855
 translate zh_hant a2_rin_target_audience_55d72c45:
@@ -5926,12 +5878,6 @@ translate zh_hant a2_rin_underwater_and_maple_ae426c4d:
     # "I become very self-conscious about Rin's presence."
     "琳的存在對我而言變得異常敏感。"
 
-# game/script-a2-rin.rpy:3934
-translate zh_hant a2_rin_underwater_and_maple_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:3939
 translate zh_hant a2_rin_underwater_and_maple_83a6b97f:
 
@@ -5999,12 +5945,6 @@ translate zh_hant a2_rin_underwater_and_maple_c9c42da6:
 
     # n "The realization suddenly dawns on me that Rin is basically the only person I talk to nowadays, apart from whatever I have to endure from Shizune, Misha or Kenji. I feel slightly depressed."
     n "忽然，我意識到琳差不多是我如今唯一與之交流的人了，除了靜音，米莎或健二那些我不得不忍受的人以外。這讓我有些消沉。"
-
-# game/script-a2-rin.rpy:3963
-translate zh_hant a2_rin_underwater_and_maple_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:3973
 translate zh_hant a2_rin_underwater_and_maple_5d0f5756:
@@ -6324,12 +6264,6 @@ translate zh_hant a2_rin_iwanakos_regret_799ef6f3:
     # "I have no idea why she would write to me. I haven't been in contact with anyone from my old school since I transferred, and Iwanako is the last person I'd expect to want to write me a letter."
     "我不知道她為什麼要寫信給我。自從轉校以來，我還沒和老學校的任何人聯繫過，而巖魚子是我最沒料到會給我寄信的人。"
 
-# game/script-a2-rin.rpy:4210
-translate zh_hant a2_rin_iwanakos_regret_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:4216
 translate zh_hant a2_rin_iwanakos_regret_2101c589:
 
@@ -6386,12 +6320,6 @@ translate zh_hant a2_rin_iwanakos_regret_c8fc7c4a:
     # n "So I never managed to say the things I wanted to say. In the end, that might've hurt her even more."
     n "所以我從來沒法說出自己想說的話。到了最後，這可能比任何事都要傷她更深。"
 
-# game/script-a2-rin.rpy:4239
-translate zh_hant a2_rin_iwanakos_regret_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:4244
 translate zh_hant a2_rin_iwanakos_regret_ad45b62a:
 
@@ -6409,12 +6337,6 @@ translate zh_hant a2_rin_iwanakos_regret_1b84d0c2:
 
     # "I don't know what to think of this. I feel empty and confused."
     "我不知道該怎麼想，感覺空虛又迷茫。"
-
-# game/script-a2-rin.rpy:4273
-translate zh_hant a2_rin_iwanakos_regret_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:4276
 translate zh_hant a2_rin_iwanakos_regret_f6d02331:
@@ -6452,12 +6374,6 @@ translate zh_hant a2_rin_iwanakos_regret_0eb29a35:
     # n "{vspace=30}Of course, she is right. I thought of the same thing yesterday. I had fallen into a pit of depression and now have to try to climb out."
     n "{vspace=30}當然，她是對的。我昨天也意識到了同樣的事，我已經墮入了一個無望的深淵，正試圖向外攀爬。"
 
-# game/script-a2-rin.rpy:4291
-translate zh_hant a2_rin_iwanakos_regret_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:4296
 translate zh_hant a2_rin_iwanakos_regret_b0768104:
 
@@ -6493,12 +6409,6 @@ translate zh_hant a2_rin_iwanakos_regret_52d337ba:
 
     # "I think about all the things I've lost and will never regain."
     "我想著所有那些已經失去，而且永遠沒法找回的過去。"
-
-# game/script-a2-rin.rpy:4326
-translate zh_hant a2_rin_in_her_own_image_76b2fe88:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:4329
 translate zh_hant a2_rin_in_her_own_image_227ca630:
@@ -6630,12 +6540,6 @@ translate zh_hant a2_rin_in_her_own_image_da468326:
     # n "Somewhere, the school bells ring the last call of the day."
     n "放學鈴在某處響起了。"
 
-# game/script-a2-rin.rpy:4380
-translate zh_hant a2_rin_in_her_own_image_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:4385
 translate zh_hant a2_rin_in_her_own_image_e28d4011:
 
@@ -6678,12 +6582,6 @@ translate zh_hant a2_rin_in_her_own_image_1dbd175a:
     # "It occurs to me that I am literally watching paint dry. And yet somehow I'm not feeling bored, despite spacing out just now."
     "我突然意識到自己正在望著顏料慢慢變幹。可是不知為何，我卻不覺得無聊，雖然剛才有些走神。"
 
-# game/script-a2-rin.rpy:4414
-translate zh_hant a2_rin_in_her_own_image_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:4417
 translate zh_hant a2_rin_in_her_own_image_17f9fe6f:
 
@@ -6719,12 +6617,6 @@ translate zh_hant a2_rin_in_her_own_image_420b6a97:
 
     # n "{vspace=30}Unsatisfied maybe, but I've got only myself to blame for that."
     n "{vspace=30}可能有些不滿足，不過那隻能怪我自己。"
-
-# game/script-a2-rin.rpy:4432
-translate zh_hant a2_rin_in_her_own_image_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:4437
 translate zh_hant a2_rin_in_her_own_image_35fd7417:
@@ -9306,12 +9198,6 @@ translate zh_hant a2_rin_six_meters_closer_4c2f4395:
     # "I have no answer, so a brief silence falls between us for a moment. I shift my gaze back to the sky above us."
     "我不知該如何回答，所以我們之間落下了短暫的沉默。我又重新望向頭頂的蒼穹。"
 
-# game/script-a2-rin.rpy:6270
-translate zh_hant a2_rin_six_meters_closer_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:6273
 translate zh_hant a2_rin_six_meters_closer_9c58aac5:
 
@@ -9341,12 +9227,6 @@ translate zh_hant a2_rin_six_meters_closer_c3f30b3b:
 
     # n "I wish I could forget everything up until now and that time would stop completely. There would be only me, Rin, and the sky, an eternal lunch break on this rooftop. Perfect, unchanging, and forever."
     n "我希望自己能忘掉這一刻之前的所有一切，希望時間能在此時凝固。世界會只剩下我、琳，還有天空，一個在屋頂上永遠不會結束的午休。一切都是完美的，不會改變，只有永恆。"
-
-# game/script-a2-rin.rpy:6285
-translate zh_hant a2_rin_six_meters_closer_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:6288
 translate zh_hant a2_rin_six_meters_closer_a5e3b947:
@@ -10782,12 +10662,6 @@ translate zh_hant a2_rin_dandelions_bad2a4a7:
     # "Today I'm especially distracted, as I keep thinking about Rin."
     "今天我尤其心亂如麻，總是忍不住去惦記琳。"
 
-# game/script-a2-rin.rpy:7218
-translate zh_hant a2_rin_dandelions_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:7221
 translate zh_hant a2_rin_dandelions_a7ad55fe:
 
@@ -10805,12 +10679,6 @@ translate zh_hant a2_rin_dandelions_2d385375:
 
     # n "{vspace=150}I think about Rin more and more nowadays. I wonder if she thinks about me."
     n "{vspace=150}如今我越來越容易想起琳。我想知道她是否也會想起我。"
-
-# game/script-a2-rin.rpy:7229
-translate zh_hant a2_rin_dandelions_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:7232
 translate zh_hant a2_rin_dandelions_1214d37b:
@@ -12015,4 +11883,138 @@ translate zh_hant strings:
     # game/script-a2-rin.rpy:7562
     old "What about Emi?"
     new "笑美不算嗎？"
+
+# TODO: Translation updated at 2026-02-25 00:11
+
+# game/script-a2-rin.rpy:1783
+translate zh_hant a2_rin_hisaos_smile_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:1811
+translate zh_hant a2_rin_hisaos_smile_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:1929
+translate zh_hant a2_rin_hisaos_smile_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:1946
+translate zh_hant a2_rin_hisaos_smile_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:1970
+translate zh_hant a2_rin_hisaos_smile_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:2019
+translate zh_hant a2_rin_hisaos_smile_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:2037
+translate zh_hant a2_rin_hisaos_smile_d41d8cd9_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:2852
+translate zh_hant a2_rin_target_audience_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:3934
+translate zh_hant a2_rin_underwater_and_maple_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:3963
+translate zh_hant a2_rin_underwater_and_maple_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4210
+translate zh_hant a2_rin_iwanakos_regret_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4239
+translate zh_hant a2_rin_iwanakos_regret_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4273
+translate zh_hant a2_rin_iwanakos_regret_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4291
+translate zh_hant a2_rin_iwanakos_regret_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4326
+translate zh_hant a2_rin_in_her_own_image_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4380
+translate zh_hant a2_rin_in_her_own_image_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4414
+translate zh_hant a2_rin_in_her_own_image_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4432
+translate zh_hant a2_rin_in_her_own_image_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:6270
+translate zh_hant a2_rin_six_meters_closer_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:6285
+translate zh_hant a2_rin_six_meters_closer_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:7218
+translate zh_hant a2_rin_dandelions_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:7229
+translate zh_hant a2_rin_dandelions_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 

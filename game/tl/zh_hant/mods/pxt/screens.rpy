@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-12-18 15:16
+﻿# TODO: Translation updated at 2026-02-25 00:11
 
 translate zh_hant strings:
 

@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2025-10-17 09:34
 
-# game/script-a3-emi.rpy:10
-translate zh_hant a3_emi_eet_ees_scienca_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:16
 translate zh_hant a3_emi_eet_ees_scienca_15a98fa6:
 
@@ -59,12 +53,6 @@ translate zh_hant a3_emi_eet_ees_scienca_ed009a62:
 
     # n "{vspace=30}My mind drifts off, lost in thoughts of Emi."
     n "{vspace=30}我的思緒飛遠了，沉浸在對笑美的想像中。"
-
-# game/script-a3-emi.rpy:36
-translate zh_hant a3_emi_eet_ees_scienca_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:42
 translate zh_hant a3_emi_eet_ees_scienca_b3b5c77f:
@@ -9348,12 +9336,6 @@ translate zh_hant a3_emi_afterschool_plans_a82e9d35:
     # "The rest of the night is not spent worrying about exams."
     "晚上剩餘的時間被我們用在了完全無關考試的事上。"
 
-# game/script-a3-emi.rpy:5441
-translate zh_hant a3_emi_detached_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:5444
 translate zh_hant a3_emi_detached_f2a49980:
 
@@ -9502,12 +9484,6 @@ translate zh_hant a3_emi_detached_d241477e:
     # n "His praise of me carries the veiled implication that anything less than perfect from me would be a disappointment, which has actually caused me to fret more than I should about the exam."
     n "他對我的讚美帶有隱含的意味，即任何不完美的表現都會令人失望，這反而讓我對考試感到比應有的更焦慮。"
 
-# game/script-a3-emi.rpy:5498
-translate zh_hant a3_emi_detached_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:5504
 translate zh_hant a3_emi_detached_a35437b4:
 
@@ -9531,12 +9507,6 @@ translate zh_hant a3_emi_detached_c0fd781b:
 
     # "As I flip through my notes one more time, my mind begins to wander."
     "當我再翻一遍筆記時，我的思緒開始飄走了。"
-
-# game/script-a3-emi.rpy:5514
-translate zh_hant a3_emi_detached_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:5517
 translate zh_hant a3_emi_detached_df418b1a:
@@ -9591,12 +9561,6 @@ translate zh_hant a3_emi_detached_ceccb846:
 
     # n "Heh."
     n "哼。"
-
-# game/script-a3-emi.rpy:5537
-translate zh_hant a3_emi_detached_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:5545
 translate zh_hant a3_emi_detached_7aee21ca:
@@ -10234,12 +10198,6 @@ translate zh_hant a3_emi_detached_1b58ae30:
     # hi "Yeah, maybe I should do that."
     hi "是啊，也許我們的確該談談了……"
 
-# game/script-a3-emi.rpy:5848
-translate zh_hant a3_emi_detached_76b2fe88_4:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:5851
 translate zh_hant a3_emi_detached_61469bf9:
 
@@ -10311,12 +10269,6 @@ translate zh_hant a3_emi_detached_cff700c2:
 
     # n "I'll cross that bridge when I come to it."
     n "船到橋頭自然直吧。"
-
-# game/script-a3-emi.rpy:5878
-translate zh_hant a3_emi_detached_76b2fe88_5:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:5882
 translate zh_hant a3_emi_detached_41c71065:
@@ -10402,12 +10354,6 @@ translate zh_hant a3_emi_phantom_pain_efbe6d0b:
     # "The question keeps spinning in my head even after I made my way back to my room."
     "即便我回到了房間以後，笑美的問題也還在我的腦海裡轉來轉去。"
 
-# game/script-a3-emi.rpy:5946
-translate zh_hant a3_emi_phantom_pain_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:5949
 translate zh_hant a3_emi_phantom_pain_b21cdf59:
 
@@ -10467,12 +10413,6 @@ translate zh_hant a3_emi_phantom_pain_7eb56115:
 
     # n "But I want to."
     n "但是我還是想幫她。"
-
-# game/script-a3-emi.rpy:5975
-translate zh_hant a3_emi_phantom_pain_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:5978
 translate zh_hant a3_emi_phantom_pain_a0726d67:
@@ -11422,12 +11362,6 @@ translate zh_hant a3_emi_phantom_pain_95e3e68e:
     # emi "Yeah?"
     emi "嗯？"
 
-# game/script-a3-emi.rpy:6465
-translate zh_hant a3_emi_phantom_pain_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:6468
 translate zh_hant a3_emi_phantom_pain_43a34339:
 
@@ -11487,12 +11421,6 @@ translate zh_hant a3_emi_phantom_pain_f9d74b66:
 
     # n "I want to know so badly that being denied that answer feels like a knife in my guts."
     n "是如此迫切地想要知道，笑美的拒絕就像是一把尖刀，插在了我的胸口。"
-
-# game/script-a3-emi.rpy:6490
-translate zh_hant a3_emi_phantom_pain_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:6493
 translate zh_hant a3_emi_phantom_pain_a18df911_1:
@@ -11560,12 +11488,6 @@ translate zh_hant a3_emi_phantom_pain_52ae208b:
     # "Somehow I wander back to my own room. My brains are doing a mile a minute, going nowhere fast."
     "連自己都不知道究竟是怎麼走回房間的。無數想法在腦海裡奔騰，卻完全無法思考。"
 
-# game/script-a3-emi.rpy:6529
-translate zh_hant a3_emi_phantom_pain_76b2fe88_4:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:6532
 translate zh_hant a3_emi_phantom_pain_3e789cab:
 
@@ -11608,12 +11530,6 @@ translate zh_hant a3_emi_phantom_pain_942f56f4:
     # n "And unfortunately, no time to watch out for lagging teammates either."
     n "不幸的是，也沒時間留意落後的隊友。"
 
-# game/script-a3-emi.rpy:6546
-translate zh_hant a3_emi_phantom_pain_76b2fe88_5:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:6549
 translate zh_hant a3_emi_phantom_pain_8684421a:
 
@@ -11625,12 +11541,6 @@ translate zh_hant a3_emi_phantom_pain_ffeb3ec8:
 
     # "No such luck, of course."
     "當然，沒那種好事。"
-
-# game/script-a3-emi.rpy:6553
-translate zh_hant a3_emi_phantom_pain_76b2fe88_6:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:6556
 translate zh_hant a3_emi_phantom_pain_0685fba6:
@@ -11655,12 +11565,6 @@ translate zh_hant a3_emi_phantom_pain_250e5b09:
 
     # n "{vspace=30}Maybe this is just as fixed as the both of us can get."
     n "{vspace=30}也許這就是我們倆能被「修復」的最大程度了。"
-
-# game/script-a3-emi.rpy:6564
-translate zh_hant a3_emi_phantom_pain_76b2fe88_7:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:6567
 translate zh_hant a3_emi_phantom_pain_f67d47cf:
@@ -11697,12 +11601,6 @@ translate zh_hant a3_emi_debate_expresses_doubt_a1583b46:
 
     # "That clenched feeling in my gut is still there."
     "昨天被她所傷害的心靈，依然在隱隱作痛。"
-
-# game/script-a3-emi.rpy:6586
-translate zh_hant a3_emi_debate_expresses_doubt_76b2fe88:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:6589
 translate zh_hant a3_emi_debate_expresses_doubt_524d2c66:
@@ -11789,12 +11687,6 @@ translate zh_hant a3_emi_debate_expresses_doubt_4cca4b06:
 
     # n "{vspace=30}I hope so."
     n "{vspace=30}希望如此。"
-
-# game/script-a3-emi.rpy:6619
-translate zh_hant a3_emi_debate_expresses_doubt_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:6625
 translate zh_hant a3_emi_debate_expresses_doubt_0cadd00a:
@@ -12204,12 +12096,6 @@ translate zh_hant a3_emi_debate_expresses_doubt_4c593746:
     # "I can't get myself to calm down the whole time."
     "我始終無法讓自己冷靜下來。"
 
-# game/script-a3-emi.rpy:6817
-translate zh_hant a3_emi_debate_expresses_doubt_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:6820
 translate zh_hant a3_emi_debate_expresses_doubt_05ccc61b:
 
@@ -12245,12 +12131,6 @@ translate zh_hant a3_emi_debate_expresses_doubt_a8302645:
 
     # n "I very nearly didn't even bring anything up with her, was just gonna hop on in there and let it ride, wasn't I?"
     n "幾乎都沒能鼓起勇氣面對她；只想著隨波逐流，順其自然，是嗎？"
-
-# game/script-a3-emi.rpy:6834
-translate zh_hant a3_emi_debate_expresses_doubt_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:6840
 translate zh_hant a3_emi_debate_expresses_doubt_25d5da16:
@@ -12588,12 +12468,6 @@ translate zh_hant a3_emi_debate_expresses_doubt_dcfe7be7:
     # "I settle for a combination of all three and hop in the shower."
     "我決定三種情緒都來一點，然後跳進淋浴間。"
 
-# game/script-a3-emi.rpy:7077
-translate zh_hant a3_emi_guess_whos_coming_never_mind_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:7080
 translate zh_hant a3_emi_guess_whos_coming_never_mind_8a7ed09f:
 
@@ -12674,12 +12548,6 @@ translate zh_hant a3_emi_guess_whos_coming_never_mind_c63a736f:
     # n "I can't seem to come to terms with the fact that Emi appears to be trying to bring me closer while at the same time pushing me away."
     n "我似乎無法接受這個事實：笑美似乎在試圖拉近我的同時，又把我推開。"
 
-# game/script-a3-emi.rpy:7108
-translate zh_hant a3_emi_guess_whos_coming_never_mind_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:7111
 translate zh_hant a3_emi_guess_whos_coming_never_mind_d0e4abc5:
 
@@ -12759,12 +12627,6 @@ translate zh_hant a3_emi_guess_whos_coming_never_mind_b16aa4e1:
 
     # n "{vspace=30}Now if only I could manage my relationship as well as I've managed my heart, I'd be in great shape."
     n "{vspace=30}現在，要是我能像管理我的心臟一樣管理好我的感情關係，那就太好了。"
-
-# game/script-a3-emi.rpy:7143
-translate zh_hant a3_emi_guess_whos_coming_never_mind_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:7153
 translate zh_hant a3_emi_guess_whos_coming_never_mind_3215f00b:
@@ -13738,12 +13600,6 @@ translate zh_hant a3_emi_instant_replay_b680217d:
     # "The morning alarm sounds and I roll over, switching it off. My eyes open blearily to stare at the ceiling."
     "早晨的鬧鐘響起，我翻了個身，把它關掉。睡眼惺忪地睜開眼睛，盯著天花板。"
 
-# game/script-a3-emi.rpy:7757
-translate zh_hant a3_emi_instant_replay_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:7760
 translate zh_hant a3_emi_instant_replay_6a3194b6:
 
@@ -13785,12 +13641,6 @@ translate zh_hant a3_emi_instant_replay_59b1b5a2:
 
     # n "{vspace=30}Can I really bring myself to go down there and see her, knowing that I'm never going to get past where I am now?"
     n "{vspace=30}清楚地知道我們的關係永遠不會再進一步，我真的能現在就這樣去面對她嗎？"
-
-# game/script-a3-emi.rpy:7774
-translate zh_hant a3_emi_instant_replay_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:7780
 translate zh_hant a3_emi_instant_replay_b558f347:
@@ -15808,12 +15658,6 @@ translate zh_hant a3ec4o2_920f684a:
     # "After finishing reading the letter I smooth it out carefully and set it aside on my desk."
     "讀完了信，我小心翼翼地把它再次撫平，放在書桌的一旁。"
 
-# game/script-a3-emi.rpy:8903
-translate zh_hant a3ec4o2_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-emi.rpy:8906
 translate zh_hant a3ec4o2_00283d1a:
 
@@ -15849,12 +15693,6 @@ translate zh_hant a3ec4o2_41c2efed:
 
     # n "{vspace=60}And the past may just have taught me an important lesson now."
     n "{vspace=60}而過去，或許剛剛教會了我重要的一課。"
-
-# game/script-a3-emi.rpy:8922
-translate zh_hant a3ec4o2_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-emi.rpy:8928
 translate zh_hant a3ec5o1_82832ea0:
@@ -17247,4 +17085,168 @@ translate zh_hant strings:
     # game/script-a3-emi.rpy:7965
     old "Give in and let Misha know."
     new "告訴米莎實情吧。"
+
+# TODO: Translation updated at 2026-02-25 00:11
+
+# game/script-a3-emi.rpy:10
+translate zh_hant a3_emi_eet_ees_scienca_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:36
+translate zh_hant a3_emi_eet_ees_scienca_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5441
+translate zh_hant a3_emi_detached_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5498
+translate zh_hant a3_emi_detached_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5514
+translate zh_hant a3_emi_detached_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5537
+translate zh_hant a3_emi_detached_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5848
+translate zh_hant a3_emi_detached_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5878
+translate zh_hant a3_emi_detached_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5946
+translate zh_hant a3_emi_phantom_pain_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:5975
+translate zh_hant a3_emi_phantom_pain_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6465
+translate zh_hant a3_emi_phantom_pain_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6490
+translate zh_hant a3_emi_phantom_pain_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6529
+translate zh_hant a3_emi_phantom_pain_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6546
+translate zh_hant a3_emi_phantom_pain_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6553
+translate zh_hant a3_emi_phantom_pain_d41d8cd9_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6564
+translate zh_hant a3_emi_phantom_pain_d41d8cd9_7:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6586
+translate zh_hant a3_emi_debate_expresses_doubt_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6619
+translate zh_hant a3_emi_debate_expresses_doubt_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6817
+translate zh_hant a3_emi_debate_expresses_doubt_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:6834
+translate zh_hant a3_emi_debate_expresses_doubt_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7077
+translate zh_hant a3_emi_guess_whos_coming_never_mind_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7108
+translate zh_hant a3_emi_guess_whos_coming_never_mind_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7143
+translate zh_hant a3_emi_guess_whos_coming_never_mind_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7757
+translate zh_hant a3_emi_instant_replay_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:7774
+translate zh_hant a3_emi_instant_replay_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:8903
+translate zh_hant a3ec4o2_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-emi.rpy:8922
+translate zh_hant a3ec4o2_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 
