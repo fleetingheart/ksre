@@ -1020,12 +1020,6 @@ translate fr a3_lilly_minor_discord_f24f54df:
     # "Once he starts rambling into conspiracy territory, my juice suddenly becomes of much more importance."
     "À partir du moment où il commence à déblatérer sur la conspiration, ma soupe devient soudainement plus importante."
 
-# game/script-a3-lilly.rpy:686
-translate fr a3_lilly_minor_discord_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-lilly.rpy:689
 translate fr a3_lilly_minor_discord_d0ccf9d8:
 
@@ -1049,12 +1043,6 @@ translate fr a3_lilly_minor_discord_769f017b:
 
     # n "Come to think of it, I need to go check on Hanako after school, too. Considering her much improved attendance, I'm guessing she's come down with something."
     n "En y pensant, je dois aller voir Hanako après les cours, aussi. Vu qu'elle venait beaucoup plus souvent à l'école récemment, je suppose qu'il se passe quelque chose pour qu'elle ne vienne pas."
-
-# game/script-a3-lilly.rpy:700
-translate fr a3_lilly_minor_discord_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-lilly.rpy:709
 translate fr a3_lilly_minor_discord_d9d03008:
@@ -1746,12 +1734,6 @@ translate fr a3_lilly_a_world_away_a68f6852:
     # "Giving up on reading, I simply let my head drop onto the book in front of me."
     "Abandonnant la lecture, je laisse ma tête tomber sur le livre."
 
-# game/script-a3-lilly.rpy:1088
-translate fr a3_lilly_a_world_away_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-lilly.rpy:1091
 translate fr a3_lilly_a_world_away_93a02b23:
 
@@ -1787,12 +1769,6 @@ translate fr a3_lilly_a_world_away_04c3c7dc:
 
     # n "It doesn't help that many attempts to do so have led to the troublesome topic of Iwanako. Every time my thoughts drift into that direction, I reflexively try to think about something else."
     n "Et ce qui n'aide pas, c'est que chaque fois que j'essaye d'y voir plus clair, je finis par dévier sur un autre sujet, comme sur Iwanako."
-
-# game/script-a3-lilly.rpy:1105
-translate fr a3_lilly_a_world_away_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-lilly.rpy:1109
 translate fr a3_lilly_a_world_away_58cb0069:
@@ -1992,12 +1968,6 @@ translate fr a3_lilly_a_world_away_adc309ed:
     # "She gives a girlish giggle, which only reinforces my view of her as being different from the usual staff here."
     "Ça la fait rire, ce qui renforce mon avis qu'elle est vraiment différente du reste du personnel de l'école."
 
-# game/script-a3-lilly.rpy:1219
-translate fr a3_lilly_a_world_away_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-lilly.rpy:1222
 translate fr a3_lilly_a_world_away_ab0daf1a:
 
@@ -2015,12 +1985,6 @@ translate fr a3_lilly_a_world_away_1a4d5321:
 
     # n "It's just one more motive to move on from the past. The last thing I need right now is to get too caught up in that and getting homesick while I'm at it."
     n "C'est une motivation de plus pour avancer. La dernière chose dont j'ai besoin maintenant est de me faire trop devancer et de tomber malade en plus de ça."
-
-# game/script-a3-lilly.rpy:1228
-translate fr a3_lilly_a_world_away_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-lilly.rpy:1234
 translate fr a3_lilly_a_world_away_a75460a9:
@@ -2358,12 +2322,6 @@ translate fr a3_lilly_renewal_2004258f:
     # "I sit listening to another of Mutou's long-winded lectures, my mind wandering far from the scribbles on the dirty blackboard."
     "Je suis en classe à écouter une autre des longues lectures de Mutou, mon esprit vagabondant loin du cours noté sur le tableau."
 
-# game/script-a3-lilly.rpy:1386
-translate fr a3_lilly_renewal_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-lilly.rpy:1389
 translate fr a3_lilly_renewal_ed5e1b7e:
 
@@ -2393,12 +2351,6 @@ translate fr a3_lilly_renewal_9ae080da:
 
     # n "It's amazing how quickly one becomes used to the environment they're forced to live in, really. And now I've even found someone that's got me entirely smitten. What a strange life."
     n "C'est incroyable à quelle vitesse quelqu'un peut s'habituer à l'environnement dans lequel il est forcé de vivre. Et maintenant j'ai même trouvé quelqu'un qui m'intéresse beaucoup. Quelle vie étrange."
-
-# game/script-a3-lilly.rpy:1399
-translate fr a3_lilly_renewal_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-lilly.rpy:1402
 translate fr a3_lilly_renewal_495573f0:
@@ -5714,12 +5666,6 @@ translate fr a3_lilly_gray_outlook_60cef8ec:
     # n "I never thought I'd say it, but the idea of living away from the city in a nice, tranquil area is an inviting one. It's a thought that, barely a year ago, would have seemed simply ludicrous."
     n "Je n'aurais jamais cru dire ça, mais l'idée de vivre loin de la ville est agréable, une zone tranquille est attirante. C'est une pensée qui, il y a un an, m'aurait paru ridicule."
 
-# game/script-a3-lilly.rpy:3474
-translate fr a3_lilly_gray_outlook_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-lilly.rpy:3477
 translate fr a3_lilly_gray_outlook_bbcb44a1:
 
@@ -6110,12 +6056,6 @@ translate fr a3_lilly_rhapsody_in_blue_25d6306b:
     # "I have no idea how long it's been since I had a genuine hot bath, but right now I can hardly be bothered trying to remember."
     "Je ne sais absolument pas depuis quand je n'avais pas pris un bon bain chaud, mais maintenant je m'en moque complètement."
 
-# game/script-a3-lilly.rpy:3739
-translate fr a3_lilly_rhapsody_in_blue_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-lilly.rpy:3742
 translate fr a3_lilly_rhapsody_in_blue_81de881d:
 
@@ -6163,12 +6103,6 @@ translate fr a3_lilly_rhapsody_in_blue_3553b764:
 
     # n "Also now, of all times, I'm getting into a relationship."
     n "Et surtout, maintenant, je suis dans une relation amoureuse."
-
-# game/script-a3-lilly.rpy:3758
-translate fr a3_lilly_rhapsody_in_blue_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-lilly.rpy:3761
 translate fr a3_lilly_rhapsody_in_blue_0d768b95:
@@ -7327,4 +7261,72 @@ translate fr strings:
     # game/script-a3-lilly.rpy:4154
     old "Talk about school."
     new "Parler de l'école."
+
+# TODO: Translation updated at 2026-02-24 23:23
+
+# game/script-a3-lilly.rpy:690
+translate fr a3_lilly_minor_discord_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:704
+translate fr a3_lilly_minor_discord_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1092
+translate fr a3_lilly_a_world_away_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1109
+translate fr a3_lilly_a_world_away_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1223
+translate fr a3_lilly_a_world_away_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1232
+translate fr a3_lilly_a_world_away_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1390
+translate fr a3_lilly_renewal_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1403
+translate fr a3_lilly_renewal_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:3479
+translate fr a3_lilly_gray_outlook_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:3744
+translate fr a3_lilly_rhapsody_in_blue_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:3763
+translate fr a3_lilly_rhapsody_in_blue_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 

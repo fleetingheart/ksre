@@ -258,12 +258,6 @@ translate fr a1_monday_out_cold_3fd9ad67:
     # n "{vspace=30}The last things I remember before slipping away are the sounds of Iwanako screaming for help and the incessant clatter of the branches above…"
     n "{vspace=30}Les dernières choses dont je me souvienne avant de m'évanouir sont Iwanako criant pour demander de l'aide et le cliquetis incessant des branches au-dessus de moi..."
 
-# game/script-a1-monday.rpy:205
-translate fr a1_monday_out_cold_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a1-monday.rpy:218
 translate fr a1_monday_bundle_of_hisao_84705307:
 
@@ -3239,4 +3233,12 @@ translate fr strings:
     # game/script-a1-monday.rpy:1685
     old "Hisao Nakai\n\nTwo tablets daily to stay alive"
     new "Hisao Nakai\n\nDeux comprimés par jour pour rester en vie"
+
+# TODO: Translation updated at 2026-02-24 23:23
+
+# game/script-a1-monday.rpy:209
+translate fr a1_monday_out_cold_d41d8cd9:
+
+    # nvl clear
+    nvl clear
 

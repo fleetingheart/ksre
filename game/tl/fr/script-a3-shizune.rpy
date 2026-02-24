@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2024-05-17 22:54
 
-# game/script-a3-shizune.rpy:6
-translate fr a3_shizune_force_feedback_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-shizune.rpy:12
 translate fr a3_shizune_force_feedback_4e6d804c:
 
@@ -29,12 +23,6 @@ translate fr a3_shizune_force_feedback_16ad86aa:
 
     # n "{vspace=60}Today, I woke up early to come to school before everyone else, hoping to catch Shizune. She has a habit of coming in first thing in the morning, to be more punctual than all the other students. Unfortunately, I think I am earlier than her."
     n "{vspace=60}Aujourd'hui, je me réveille tôt pour arriver à l'école avant tout le monde, espérant voir Shizune. Elle a l'habitude d'arriver tôt le matin, pour être plus ponctuelle que les autres. Malheureusement, je crois que je vais arriver plus tôt qu'elle."
-
-# game/script-a3-shizune.rpy:22
-translate fr a3_shizune_force_feedback_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-shizune.rpy:27
 translate fr a3_shizune_force_feedback_0420f681:
@@ -5958,12 +5946,6 @@ translate fr a3_shizune_the_anchor_254cb6b1:
     # "My first instinct is to call out to her and ask her if she has seen Shizune, or if she wants to go to town with me, but now that I've seen her I don't feel like disturbing her. I leave her alone."
     "Mon premier réflexe est de l’appeler et de lui demander si elle a vu Shizune, ou si elle veut aller en ville avec moi, mais maintenant que je l'ai vue, je n'ai pas envie de la déranger. Je la laisse seule."
 
-# game/script-a3-shizune.rpy:3837
-translate fr a3_shizune_roadmap_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-shizune.rpy:3840
 translate fr a3_shizune_roadmap_40c32b64:
 
@@ -5987,12 +5969,6 @@ translate fr a3_shizune_roadmap_01121c5e:
 
     # n "{vspace=60}After awhile, the idea of having some free time again had started to grow on me, though there were still periods when I felt like I had too much of it."
     n "{vspace=60}Après un moment, l'idée d'avoir du temps libre à nouveau a germé en moi, bien qu'à certains moments j'avais vraiment l'impression d'en avoir trop."
-
-# game/script-a3-shizune.rpy:3851
-translate fr a3_shizune_roadmap_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-shizune.rpy:3857
 translate fr a3_shizune_roadmap_80e37154:
@@ -11395,4 +11371,30 @@ translate fr strings:
     # game/script-a3-shizune.rpy:6265
     old "Refuse."
     new "Refuser."
+
+# TODO: Translation updated at 2026-02-24 23:23
+
+# game/script-a3-shizune.rpy:10
+translate fr a3_shizune_force_feedback_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-shizune.rpy:26
+translate fr a3_shizune_force_feedback_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-shizune.rpy:3917
+translate fr a3_shizune_roadmap_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-shizune.rpy:3931
+translate fr a3_shizune_roadmap_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 

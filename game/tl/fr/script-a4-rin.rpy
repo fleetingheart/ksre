@@ -414,23 +414,11 @@ translate fr a4_rin_illusions_for_people_ca80d7e4:
     # "My message didn't get through, to say the least."
     "Mon message ne semble pas être passé, c'est rien de le dire."
 
-# game/script-a4-rin.rpy:236
-translate fr a4_rin_demused_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:245
 translate fr a4_rin_demused_ff53f23f:
 
     # n "{vspace=270}The day after that, all the missed opportunities and things I should have said come crashing down on me. There's nothing left to do afterwards but brood."
     n "{vspace=270}Le jour après ça, toutes les opportunités loupées et les choses que j'aurais dû dire reviennent me hanter. Il n'y a rien que je puisse faire à part broyer du noir."
-
-# game/script-a4-rin.rpy:247
-translate fr a4_rin_demused_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:254
 translate fr a4_rin_demused_9afb296f:
@@ -438,23 +426,11 @@ translate fr a4_rin_demused_9afb296f:
     # n "{vspace=270}Second day. I begin to feel anxious. I start doubting my doubt and it feels stupid, especially since I still can't think about anything else than Rin."
     n "{vspace=270}Second jour. Je commence à me sentir anxieux. Je commence à douter de mes doutes et je me sens idiot, surtout parce que je n'arrive toujours pas à penser à autre chose qu'à Rin."
 
-# game/script-a4-rin.rpy:256
-translate fr a4_rin_demused_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:263
 translate fr a4_rin_demused_e59a7803:
 
     # n "{vspace=270}Third day. Japanese exam, {b}and{/b} world history exam. Great. The thing I hate most about her is that she can make me feel this awful even though I should be focusing on entirely different stuff right now."
     n "{vspace=270}Troisième jour. Examen de japonais {b}et{/b} d'histoire. Super. La chose que je déteste le plus est qu'elle me fait me sentir aussi mal alors que je devrais me concentrer sur totalement autre chose."
-
-# game/script-a4-rin.rpy:265
-translate fr a4_rin_demused_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:272
 translate fr a4_rin_demused_7bd0d1d0:
@@ -462,23 +438,11 @@ translate fr a4_rin_demused_7bd0d1d0:
     # n "{vspace=270}Fourth day. Math exam. We have a math exam. It goes how it goes. I don't care."
     n "{vspace=270}Quatrième jour. Examen de math. On a un examen de math. Ça ira comme ça ira. Je m'en fous."
 
-# game/script-a4-rin.rpy:274
-translate fr a4_rin_demused_76b2fe88_4:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:281
 translate fr a4_rin_demused_c189afa1:
 
     # n "{vspace=270}Fifth day. Nomiya asks me again if I will attend the exhibition opening. I can't say no to him even though I seriously want to. I just don't want to discuss with him anything Rin-related so it's just better to take the path of least resistance."
     n "{vspace=270}Cinquième jour. Nomiya me demande encore si je compte aller au vernissage de l'exposition. Je ne peux pas lui dire non, même si j'en ai sérieusement envie. Je ne veux pas discuter avec lui de Rin ou quoi que ce soit, alors c'est mieux de n'opposer aucune résistance."
-
-# game/script-a4-rin.rpy:283
-translate fr a4_rin_demused_76b2fe88_5:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:292
 translate fr a4_rin_demused_784a49fa:
@@ -1230,12 +1194,6 @@ translate fr a4_rin_the_scene_4ec2eeed:
     # "Apart from that, I'm perfectly calm."
     "À part ça, je suis parfaitement calme."
 
-# game/script-a4-rin.rpy:683
-translate fr a4_rin_the_scene_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:686
 translate fr a4_rin_the_scene_69ee39bd:
 
@@ -1321,12 +1279,6 @@ translate fr a4_rin_the_scene_c70301ec:
 
     # n "{vspace=30}Maybe that, ultimately, makes her like the rest of us."
     n "Peut-être que ça fait d'elle quelqu'un comme nous en fin de compte."
-
-# game/script-a4-rin.rpy:718
-translate fr a4_rin_the_scene_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:731
 translate fr a4_rin_the_scene_d25001ff:
@@ -2060,12 +2012,6 @@ translate fr a4_rin_the_scene_ef00f851:
     # rin "That someone wouldn't have to ask questions from me." nointeract
     rin "Que quelqu'un n'ait pas à me poser de questions." nointeract
 
-# game/script-a4-rin.rpy:1226
-translate fr a4_rin_wavelength_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1229
 translate fr a4_rin_wavelength_d72a268b:
 
@@ -2102,23 +2048,11 @@ translate fr a4_rin_wavelength_dc5d6e2d:
     # n "{vspace=60}Including me…"
     n "{vspace=60}Ce qui m'inclut..."
 
-# game/script-a4-rin.rpy:1243
-translate fr a4_rin_wavelength_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1249
 translate fr a4_rin_wavelength_ee4c3c2d:
 
     # "A look at my doodles convinces me to stop trying to salvage them. It's a mess of lifeless lines, a waste of paper if it wasn't the flip side of my exam."
     "Un regard à mes griffonnages me convainc d’arrêter d'insister. C'est un bazar de lignes sans vie, un gâchis de papier si ce n'était pas le dos de ma feuille d'examen."
-
-# game/script-a4-rin.rpy:1253
-translate fr a4_rin_wavelength_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:1256
 translate fr a4_rin_wavelength_7ea49f73:
@@ -2161,12 +2095,6 @@ translate fr a4_rin_wavelength_f33578dd:
 
     # n "It pisses me off that she herself can't seem to be happy about it."
     n "Ça m’énerve qu'elle ne semble pas heureuse de ça."
-
-# game/script-a4-rin.rpy:1272
-translate fr a4_rin_wavelength_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:1279
 translate fr a4_rin_wavelength_0e057b53:
@@ -2336,12 +2264,6 @@ translate fr a4_rin_wavelength_6fe3f787:
     # "I stand up with everyone."
     "Je me lève avec tout le monde."
 
-# game/script-a4-rin.rpy:1384
-translate fr a4_rin_wavelength_76b2fe88_4:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1387
 translate fr a4_rin_wavelength_6cc7d4ef:
 
@@ -2384,12 +2306,6 @@ translate fr a4_rin_wavelength_bd48d49c:
     # n "{vspace=60}I wish the whole world could be like this."
     n "{vspace=60}J'aimerais que le monde entier soit comme ça."
 
-# game/script-a4-rin.rpy:1405
-translate fr a4_rin_wavelength_76b2fe88_5:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1411
 translate fr a4_rin_wavelength_7b28a49b:
 
@@ -2401,12 +2317,6 @@ translate fr a4_rin_wavelength_6b23919b:
 
     # "I turn the page slowly, listening to the rustling sound the paper makes when my fingers grasp it."
     "Je tourne lentement la page, écoutant le bruissement du papier lorsque mes doigts le saisissent."
-
-# game/script-a4-rin.rpy:1423
-translate fr a4_rin_wavelength_76b2fe88_6:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:1426
 translate fr a4_rin_wavelength_86da4edd:
@@ -2467,12 +2377,6 @@ translate fr a4_rin_wavelength_ac10d3df:
 
     # n "Besides, my mind is on other matters, stretching in too many directions to make sense of any of them."
     n "En plus, mon esprit vagabonde sur d'autres sujets, s'étirant dans trop de directions pour qu'elles soient toutes logiques."
-
-# game/script-a4-rin.rpy:1448
-translate fr a4_rin_wavelength_76b2fe88_7:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:1451
 translate fr a4_rin_wavelength_8860c35a:
@@ -2582,12 +2486,6 @@ translate fr a4_rin_wavelength_d9d89bdb:
     # "Neither is, so I go back to my own room to dwell on my lethargy."
     "Aucune des deux n'est là, alors je retourne à ma propre chambre pour méditer sur ma léthargie."
 
-# game/script-a4-rin.rpy:1501
-translate fr a4_rin_wavelength_76b2fe88_8:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1504
 translate fr a4_rin_wavelength_e38a9633:
 
@@ -2662,23 +2560,11 @@ translate fr a4_rin_wavelength_554e90c4:
     # n "It's usually like this. When you have 'nothing to do,' you do nothing even if you could."
     n "C'est généralement comme ça. Quand on n'a 'rien à faire', on ne fait rien même si on le pouvait."
 
-# game/script-a4-rin.rpy:1533
-translate fr a4_rin_wavelength_76b2fe88_9:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1539
 translate fr a4_rin_wavelength_61247b6a:
 
     # "As expected, mom calls me and I end up promising to see if I can get a train ticket for tomorrow, or failing that, the day after."
     "Comme prévu, ma mère m'appele et je fini par promettre de regarder si je peux prendre un billet de train pour demain, ou à défaut, pour le lendemain."
-
-# game/script-a4-rin.rpy:1541
-translate fr a4_rin_wavelength_76b2fe88_10:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:1563
 translate fr a4_rin_wavelength_89cff40f:
@@ -2715,12 +2601,6 @@ translate fr a4_rin_wavelength_dce4c6f8:
 
     # n "{vspace=30}Is it because I have changed, or because my world has changed?"
     n "{vspace=30}C'est parce que j'ai changé, ou parce que mon monde a changé?"
-
-# game/script-a4-rin.rpy:1578
-translate fr a4_rin_wavelength_76b2fe88_11:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:1583
 translate fr a4_rin_wavelength_2d1d7ef9:
@@ -2764,12 +2644,6 @@ translate fr a4_rin_wavelength_98aa888b:
     # "One emerges from the mass, clearly rising above the others."
     "Une d'entre elles émerge de la masse, clairement au-dessus des autres."
 
-# game/script-a4-rin.rpy:1614
-translate fr a4_rin_wavelength_76b2fe88_12:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1617
 translate fr a4_rin_wavelength_fe43f2c2:
 
@@ -2782,12 +2656,6 @@ translate fr a4_rin_wavelength_950439c0:
     # n "I can't let my outburst of anger be the last thing between us before the vacation."
     n "Je ne peux pas laisser notre dispute et surtout ma colère être la dernière chose qui soit arrivée entre nous avant les vacances."
 
-# game/script-a4-rin.rpy:1622
-translate fr a4_rin_wavelength_76b2fe88_13:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1629
 translate fr a4_rin_wavelength_4215315d:
 
@@ -2799,12 +2667,6 @@ translate fr a4_rin_wavelength_9f609591:
 
     # n "Sleep overcomes my confused mind with more ease than it should."
     n "Le sommeil triomphe de mon esprit confus avec plus de facilité que prévu."
-
-# game/script-a4-rin.rpy:1634
-translate fr a4_rin_wavelength_76b2fe88_14:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:1654
 translate fr a4_rin_blue_period_8d8a2921:
@@ -3472,12 +3334,6 @@ translate fr a4_rin_blue_period_7b2cdcc7:
     # "I guess it takes a lot to succeed, but I suppose his job would be easier if Rin was more cooperative."
     "J'imagine qu'il faut beaucoup pour réussir, mais je pense que son travail serait plus facile si Rin était plus coopérative."
 
-# game/script-a4-rin.rpy:2057
-translate fr a4_rin_blue_period_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:2060
 translate fr a4_rin_blue_period_b2628fcf:
 
@@ -3531,12 +3387,6 @@ translate fr a4_rin_blue_period_456caa70:
 
     # n "Not that she's hiding anything, she just seems to defy my attempts at making sense of what she is talking about on any given day."
     n "Non pas qu'elle cache quoi que ce soit, elle semble juste défier mes tentatives de comprendre de quoi elle parle à chaque fois que je la vois."
-
-# game/script-a4-rin.rpy:2082
-translate fr a4_rin_blue_period_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:2087
 translate fr a4_rin_blue_period_ef9162e6:
@@ -4240,12 +4090,6 @@ translate fr a4_rin_the_world_only_can_you_see_172269a2:
     # "Rin just shrugs sullenly and looks in the other direction. I give up at this point."
     "Rin hausse les épaules d'un air morne et regarde dans l'autre direction. J'abandonne ce sujet."
 
-# game/script-a4-rin.rpy:2464
-translate fr a4_rin_the_world_only_can_you_see_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:2467
 translate fr a4_rin_the_world_only_can_you_see_0dae1505:
 
@@ -4313,12 +4157,6 @@ translate fr a4_rin_the_world_only_can_you_see_1581ca86:
 
     # n "I'm sure she's not the only one who wishes some things were different, but we can at least grasp the facts as they are."
     n "Je suis sûr qu'elle n'est pas la seule qui aimerait que certaines choses soient différentes, mais on peut au moins saisir les faits tels qu'ils sont."
-
-# game/script-a4-rin.rpy:2495
-translate fr a4_rin_the_world_only_can_you_see_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:2502
 translate fr a4_rin_the_world_only_can_you_see_63d1a98c:
@@ -5316,12 +5154,6 @@ translate fr a4_rin_the_world_only_can_you_see_f4d5e348:
     # "Her words stayed frozen deep inside my heart."
     "Ses mots restent gelés au fond de mon cœur."
 
-# game/script-a4-rin.rpy:2946
-translate fr a4_rin_desperate_glory_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:2949
 translate fr a4_rin_desperate_glory_e96c8674:
 
@@ -5363,12 +5195,6 @@ translate fr a4_rin_desperate_glory_a734eb67:
 
     # n "{vspace=60}The tangle just seems to thicken."
     n "{vspace=60}Le nœud ne semble que se resserrer."
-
-# game/script-a4-rin.rpy:2965
-translate fr a4_rin_desperate_glory_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:2970
 translate fr a4_rin_desperate_glory_bbc8465f:
@@ -6282,12 +6108,6 @@ translate fr a4_rin_problems_of_self_referential_logic_6e44563b:
     # rin "Nobody else has ever asked me to."
     rin "Personne d'autre ne m'a jamais demandé de le faire."
 
-# game/script-a4-rin.rpy:3433
-translate fr a4_rin_problems_of_self_referential_logic_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:3436
 translate fr a4_rin_problems_of_self_referential_logic_cafeb753:
 
@@ -6511,12 +6331,6 @@ translate fr a4_rin_problems_of_self_referential_logic_d1bf587e:
 
     # "Looking at Rin makes me feel bad."
     "Regarder Rin me met mal à l'aise."
-
-# game/script-a4-rin.rpy:3541
-translate fr a4_rin_problems_of_self_referential_logic_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:3544
 translate fr a4_rin_problems_of_self_referential_logic_7a3f251e:
@@ -7792,12 +7606,6 @@ translate fr a4_rin_raison_detre_e97643b3:
     # "Her slim shoulder quivering against my palm is a pitiable sight, and the hopelessness of being part of the cause for Rin's sadness keeps shredding my heart."
     "Sa mince épaule tremblant contre ma paume est un spectable pitoyable, et le désespoir d'être en partie la cause de la tristesse de Rin me brise le cœur."
 
-# game/script-a4-rin.rpy:4130
-translate fr a4_rin_raison_detre_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:4133
 translate fr a4_rin_raison_detre_d368b86c:
 
@@ -7834,12 +7642,6 @@ translate fr a4_rin_raison_detre_b4ed80bb:
     # n "{vspace=60}But no words can express it, and no words can make it better."
     n "{vspace=60}Mais aucun mot ne peut l'exprimer, tout comme aucun mot ne peut arranger ça."
 
-# game/script-a4-rin.rpy:4147
-translate fr a4_rin_raison_detre_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:4156
 translate fr a4_rin_raison_detre_d0080779:
 
@@ -7869,12 +7671,6 @@ translate fr a4_rin_raison_detre_16d51601:
 
     # n "{vspace=60}…"
     n "{vspace=60}…"
-
-# game/script-a4-rin.rpy:4169
-translate fr a4_rin_raison_detre_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:4174
 translate fr a4_rin_raison_detre_b60b0732:
@@ -7929,12 +7725,6 @@ translate fr a4_rin_raison_detre_93c1815a:
 
     # "It's because doing it would just make me so sad that I don't know if I could bear it."
     "C'est parce que le faire me rendrait tellement triste que je ne sais pas si je pourrais le supporter."
-
-# game/script-a4-rin.rpy:4197
-translate fr a4_rin_raison_detre_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:4200
 translate fr a4_rin_raison_detre_2b137976:
@@ -8083,12 +7873,6 @@ translate fr a4_rin_raison_detre_c32b9b24:
 
     # n "{vspace=30}The thought makes me almost laugh, she really does seem to be from another planet at times, minus green skin and possibly some tentacles."
     n "{vspace=30}La pensée me fait presque rire, elle semble vraiment venir d'une autre planète parfois, sauf la peau verte et éventuellement quelques tentacules."
-
-# game/script-a4-rin.rpy:4255
-translate fr a4_rin_raison_detre_76b2fe88_4:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:4260
 translate fr a4_rin_raison_detre_5955a6a7:
@@ -8792,12 +8576,6 @@ translate fr a4_rin_raison_detre_72471f0d:
     # hi "That's what people must do, sometimes."
     hi "C'est ce que font les gens, parfois."
 
-# game/script-a4-rin.rpy:4611
-translate fr a4_rin_raison_detre_76b2fe88_5:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:4614
 translate fr a4_rin_raison_detre_ae118e0e:
 
@@ -8809,12 +8587,6 @@ translate fr a4_rin_raison_detre_dfb8e2b0:
 
     # n "And even those words drown in the all-encompassing silence, disappearing into the stagnant air as if they were never said."
     n "Et même ces mots s'enlisent dans le lourd silence, disparaissant dans l'air stagnant comme si rien n'avait été dit."
-
-# game/script-a4-rin.rpy:4618
-translate fr a4_rin_raison_detre_76b2fe88_6:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:4638
 translate fr a4_rin_wb_and_ws_c1dc1f90:
@@ -9374,12 +9146,6 @@ translate fr a4_rin_wb_and_ws_2dd8ebac:
     # "Here we are, a boy and girl, both in love or something like that with each other, or maybe not… and yet…"
     "Nous sommes là, un garçon et une fille, tous les deux amoureux l'un de l'autre ou quelque chose de proche, ou peut-être pas... et pourtant..."
 
-# game/script-a4-rin.rpy:4945
-translate fr a4_rin_wb_and_ws_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:4948
 translate fr a4_rin_wb_and_ws_b89577d1:
 
@@ -9427,12 +9193,6 @@ translate fr a4_rin_wb_and_ws_3bb38949:
 
     # n "So for now, all I can do is dry her up so she won't get a cold again."
     n "Donc pour maintenant, tout ce que je peux faire est la sécher pour qu'elle n'ait pas à nouveau un rhume."
-
-# game/script-a4-rin.rpy:4968
-translate fr a4_rin_wb_and_ws_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:4973
 translate fr a4_rin_wb_and_ws_0c18ed33:
@@ -9998,12 +9758,6 @@ translate fr a4_rin_wb_and_ws_3c0633da:
     # "Her eyes are sultry, inviting as she sits there bare naked without an inkling of shame. I never thought Rin could look like that."
     "Ses yeux sont sensuels, engageants, alors qu'elle est là, nue, sans un soupçon de honte. Je n'aurais jamais cru que Rin puisse être comme ça."
 
-# game/script-a4-rin.rpy:5256
-translate fr a4_rin_wb_and_ws_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:5259
 translate fr a4_rin_wb_and_ws_37e3fa9f:
 
@@ -10101,12 +9855,6 @@ translate fr a4_rin_wb_and_ws_bfe9e23d:
 
     # n "But she allows herself to want me without any restraint. Here and now."
     n "Mais elle se permet de me vouloir sans aucune retenue. Ici et maintenant."
-
-# game/script-a4-rin.rpy:5296
-translate fr a4_rin_wb_and_ws_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:5302
 translate fr a4_rin_wb_and_ws_958f974a:
@@ -10561,6 +10309,14 @@ translate fr a4_rin_proof_of_existence_a1f16ab2:
 #     # centered_alive "That way… you can confirm that you are, in fact…"
 #     nvl clear
 #     centered_alive "De cette façon... tu peux confirmer que tu es, vraiment..."
+
+# game/script-a4-rin.rpy:5555
+translate fr a4_rin_proof_of_existence_115223a8:
+
+    # nvl clear
+    # centered_b "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
+    nvl clear
+    centered_b "De cette façon... tu peux confirmer que tu es, vraiment... {color=#fff}en vie.{/color}"
 
 # game/script-a4-rin.rpy:5529
 translate fr a4_rin_proof_of_existence_7460cbe0:
@@ -11528,12 +11284,6 @@ translate fr a4_rin_proof_of_existence_30bfda0f:
     # "As I grasp her into an embrace, I feel my heart thumping in my chest painfully."
     "Alors que je la serre dans mes bras, je sens mon cœur frapper douloureusement dans ma poitrine."
 
-# game/script-a4-rin.rpy:6076
-translate fr a4_rin_proof_of_existence_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:6079
 translate fr a4_rin_proof_of_existence_fcc6a40d:
 
@@ -11575,12 +11325,6 @@ translate fr a4_rin_proof_of_existence_eabec665:
 
     # n "…"
     n "…"
-
-# game/script-a4-rin.rpy:6098
-translate fr a4_rin_proof_of_existence_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:6104
 translate fr a4_rin_proof_of_existence_e9d6a185:
@@ -11821,12 +11565,6 @@ translate fr a4_rin_proof_of_existence_e02da6ea:
 
     # rin "It's all right to be me after all."
     rin "Ça va d’être moi en fin de compte."
-
-# game/script-a4-rin.rpy:6267
-translate fr a4_rin_proof_of_existence_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:6270
 translate fr a4_rin_proof_of_existence_711725db:
@@ -12768,35 +12506,293 @@ translate fr a4rc1o2_6f926c60:
 
 translate fr strings:
 
-    # game/script-a4-rin.rpy:1201
-    old "But aren't you happy people are interested in your paintings?"
-    new "T'es pas contente que les gens s’intéressent à tes peintures?"
-
-    # game/script-a4-rin.rpy:1201
-    old "But if you found someone like that, then what?"
-    new "Et qu'est-ce que tu feras si tu trouves quelqu'un comme ça?"
-
-    # game/script-a4-rin.rpy:5514
-    old "That way… you can confirm that you are, in fact…"
-    new "De cette façon... tu peux confirmer que tu es, vraiment..."
-
-    # game/script-a4-rin.rpy:5516
-    old "That way… you can confirm that you are, in fact… alive."
-    new "De cette façon... tu peux confirmer que tu es, vraiment... en vie."
-
-# TODO: Translation updated at 2025-01-03 06:54
-
-# game/script-a4-rin.rpy:5555
-translate fr a4_rin_proof_of_existence_115223a8:
-
-    # nvl clear
-    # centered_b "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
-    nvl clear
-    centered_b "De cette façon... tu peux confirmer que tu es, vraiment... {color=#fff}en vie.{/color}"
-
-translate fr strings:
-
     # game/script-a4-rin.rpy:5559
     old "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
     new "De cette façon... tu peux confirmer que tu es, vraiment... {color=#fff}en vie.{/color}"
+
+# TODO: Translation updated at 2026-02-24 23:23
+
+# game/script-a4-rin.rpy:240
+translate fr a4_rin_demused_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:251
+translate fr a4_rin_demused_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:260
+translate fr a4_rin_demused_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:269
+translate fr a4_rin_demused_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:278
+translate fr a4_rin_demused_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:287
+translate fr a4_rin_demused_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:692
+translate fr a4_rin_the_scene_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:727
+translate fr a4_rin_the_scene_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1254
+translate fr a4_rin_wavelength_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1271
+translate fr a4_rin_wavelength_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1281
+translate fr a4_rin_wavelength_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1300
+translate fr a4_rin_wavelength_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1411
+translate fr a4_rin_wavelength_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1432
+translate fr a4_rin_wavelength_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1450
+translate fr a4_rin_wavelength_d41d8cd9_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1475
+translate fr a4_rin_wavelength_d41d8cd9_7:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1528
+translate fr a4_rin_wavelength_d41d8cd9_8:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1560
+translate fr a4_rin_wavelength_d41d8cd9_9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1569
+translate fr a4_rin_wavelength_d41d8cd9_10:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1601
+translate fr a4_rin_wavelength_d41d8cd9_11:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1652
+translate fr a4_rin_wavelength_d41d8cd9_12:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1660
+translate fr a4_rin_wavelength_d41d8cd9_13:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1672
+translate fr a4_rin_wavelength_d41d8cd9_14:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2098
+translate fr a4_rin_blue_period_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2123
+translate fr a4_rin_blue_period_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2500
+translate fr a4_rin_the_world_only_can_you_see_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2531
+translate fr a4_rin_the_world_only_can_you_see_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2980
+translate fr a4_rin_desperate_glory_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2999
+translate fr a4_rin_desperate_glory_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:3469
+translate fr a4_rin_problems_of_self_referential_logic_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:3577
+translate fr a4_rin_problems_of_self_referential_logic_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4177
+translate fr a4_rin_raison_detre_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4194
+translate fr a4_rin_raison_detre_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4216
+translate fr a4_rin_raison_detre_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4244
+translate fr a4_rin_raison_detre_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4302
+translate fr a4_rin_raison_detre_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4659
+translate fr a4_rin_raison_detre_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4666
+translate fr a4_rin_raison_detre_d41d8cd9_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4990
+translate fr a4_rin_wb_and_ws_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:5013
+translate fr a4_rin_wb_and_ws_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:5299
+translate fr a4_rin_wb_and_ws_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:5339
+translate fr a4_rin_wb_and_ws_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:6123
+translate fr a4_rin_proof_of_existence_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:6145
+translate fr a4_rin_proof_of_existence_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:6311
+translate fr a4_rin_proof_of_existence_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+translate fr strings:
+
+    # game/script-a4-rin.rpy:1233
+    old "But aren't you happy people are interested in your paintings?"
+    new "Mais tu n'es pas contente que les gens s’intéressent à tes peintures?"
+
+    # game/script-a4-rin.rpy:1238
+    old "But if you found someone like that, then what?"
+    new "Et qu'est-ce que tu feras si tu trouves quelqu'un comme ça?"
+
+    # game/script-a4-rin.rpy:5565
+    old "That way… you can confirm that you are, in fact… alive."
+    new "De cette façon... tu peux confirmer que tu es, vraiment... en vie."
 
