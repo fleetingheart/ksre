@@ -259,7 +259,7 @@ translate jp a1_monday_out_cold_3fd9ad67:
     n "意識を失う前に覚えていたのは、助けを呼ぶ岩魚子の叫び声と、いつまでもざわざわと鳴り続ける、頭上の木々の音だけ……"
 
 # game/script-a1-monday.rpy:209
-translate jp a1_monday_out_cold_76b2fe88:
+translate jp a1_monday_out_cold_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -3239,4 +3239,3 @@ translate jp strings:
     # game/script-a1-monday.rpy:1704
     old "Hisao Nakai\n\nTwo tablets daily to stay alive"
     new "中井 久夫\n\n死にたくなければ一日二錠"
-

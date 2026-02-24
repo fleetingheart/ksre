@@ -1,7 +1,7 @@
 # TODO: Translation updated at 2025-06-23 13:41
 
 # game/script-a3-shizune.rpy:10
-translate jp a3_shizune_force_feedback_76b2fe88:
+translate jp a3_shizune_force_feedback_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -31,7 +31,7 @@ translate jp a3_shizune_force_feedback_16ad86aa:
     n "\n\n静音と話ができるのを期待して、今日は誰よりも早く学校に行くために早起きした。あいつはほかのどの生徒よりも先に着くように、いつも朝一番に教室に来る習慣があるから。でも残念なことに、こっちが先に来てしまったようだ。"
 
 # game/script-a3-shizune.rpy:26
-translate jp a3_shizune_force_feedback_76b2fe88_1:
+translate jp a3_shizune_force_feedback_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -5958,8 +5958,8 @@ translate jp a3_shizune_the_anchor_254cb6b1:
     # "My first instinct is to call out to her and ask her if she has seen Shizune, or if she wants to go to town with me, but now that I've seen her I don't feel like disturbing her. I leave her alone."
     "本能的に、声をかけて静音を見ていないかと尋ねるか、いっしょに町に行かないかと誘おうとしたけど、このミーシャの姿を見て邪魔をする気にはなれなかったので、そっとしておく。"
 
-# game/script-a3-shizune.rpy:3905
-translate jp a3_shizune_roadmap_76b2fe88:
+# game/script-a3-shizune.rpy:3917
+translate jp a3_shizune_roadmap_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5988,8 +5988,8 @@ translate jp a3_shizune_roadmap_01121c5e:
     # n "{vspace=60}After awhile, the idea of having some free time again had started to grow on me, though there were still periods when I felt like I had too much of it."
     n "\n\nしばらくして、少し自由な時間を過ごそうという気持ちがだんだん強くなってきた。ひまが多すぎると感じる時期はまだあったけど。"
 
-# game/script-a3-shizune.rpy:3919
-translate jp a3_shizune_roadmap_76b2fe88_1:
+# game/script-a3-shizune.rpy:3931
+translate jp a3_shizune_roadmap_d41d8cd9_1:
 
     # nvl clear
     nvl clear

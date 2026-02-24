@@ -349,7 +349,7 @@ translate jp a4_emi_a_swing_and_a_miss_4e5de42f:
     hi "ああ、もちろんいいよ……"
 
 # game/script-a4-emi.rpy:213
-translate jp a4_emi_a_swing_and_a_miss_76b2fe88:
+translate jp a4_emi_a_swing_and_a_miss_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -391,7 +391,7 @@ translate jp a4_emi_a_swing_and_a_miss_24f51d1f:
     n "俺は本当にみじめだ。"
 
 # game/script-a4-emi.rpy:233
-translate jp a4_emi_a_swing_and_a_miss_76b2fe88_1:
+translate jp a4_emi_a_swing_and_a_miss_d41d8cd9_1:
 
     # nvl clear
     nvl clear

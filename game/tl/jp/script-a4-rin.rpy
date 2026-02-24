@@ -415,7 +415,7 @@ translate jp a4_rin_illusions_for_people_ca80d7e4:
     "控えめに言っても、俺の言いたいことは伝わらなかった。"
 
 # game/script-a4-rin.rpy:240
-translate jp a4_rin_demused_76b2fe88:
+translate jp a4_rin_demused_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -427,7 +427,7 @@ translate jp a4_rin_demused_ff53f23f:
     n "\n\n\n\n\n\n\n\n\n翌日、言うべきなのに言えなかったこと、その機会を逃したことがどっとのしかかってくる。今となってはくよくよと考え込むことしかできない。"
 
 # game/script-a4-rin.rpy:251
-translate jp a4_rin_demused_76b2fe88_1:
+translate jp a4_rin_demused_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -439,7 +439,7 @@ translate jp a4_rin_demused_9afb296f:
     n "\n\n\n\n\n\n\n\n\n２日目。心配になってくる。その心配が疑わしく思えてきてバカみたいな気分になる。今でも琳のこと以外は考えられないおかげで、余計にそう思う。"
 
 # game/script-a4-rin.rpy:260
-translate jp a4_rin_demused_76b2fe88_2:
+translate jp a4_rin_demused_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -451,7 +451,7 @@ translate jp a4_rin_demused_e59a7803:
     n "\n\n\n\n\n\n\n\n\n３日目。国語のテスト、と同時に、世界史のテストがある。参った。あいつの一番嫌なところは、まるっきり別のことに集中しなきゃいけないのに、俺をこんなにひどい気分にさせるってことだ。"
 
 # game/script-a4-rin.rpy:269
-translate jp a4_rin_demused_76b2fe88_3:
+translate jp a4_rin_demused_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -463,7 +463,7 @@ translate jp a4_rin_demused_7bd0d1d0:
     n "\n\n\n\n\n\n\n\n\n４日目。数学のテスト。なんと数学のテストだ。なるようになる。どうでもいい。"
 
 # game/script-a4-rin.rpy:278
-translate jp a4_rin_demused_76b2fe88_4:
+translate jp a4_rin_demused_d41d8cd9_4:
 
     # nvl clear
     nvl clear
@@ -475,7 +475,7 @@ translate jp a4_rin_demused_c189afa1:
     n "\n\n\n\n\n\n\n\n\n５日目。野宮先生がまた展覧会のオープニングに出席するか聞いてくる。行かないと言ってやりたくて仕方ないけど、先生にノーとはいえない。とにかく先生と琳に関することは一切話したくないので、無難な答えを返しておくのがいいってことだ。"
 
 # game/script-a4-rin.rpy:287
-translate jp a4_rin_demused_76b2fe88_5:
+translate jp a4_rin_demused_d41d8cd9_5:
 
     # nvl clear
     nvl clear
@@ -1231,7 +1231,7 @@ translate jp a4_rin_the_scene_4ec2eeed:
     "それを除けば、俺はすっかり落ち着いている。"
 
 # game/script-a4-rin.rpy:692
-translate jp a4_rin_the_scene_76b2fe88:
+translate jp a4_rin_the_scene_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -1323,7 +1323,7 @@ translate jp a4_rin_the_scene_c70301ec:
     n "\nそうすると結局、琳も俺たちと同じってことかもしれない。"
 
 # game/script-a4-rin.rpy:727
-translate jp a4_rin_the_scene_76b2fe88_1:
+translate jp a4_rin_the_scene_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -2061,7 +2061,7 @@ translate jp a4_rin_the_scene_ef00f851:
     rin "人が私に質問しなくてすむようになってほしい" nointeract
 
 # game/script-a4-rin.rpy:1254
-translate jp a4_rin_wavelength_76b2fe88:
+translate jp a4_rin_wavelength_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -2103,7 +2103,7 @@ translate jp a4_rin_wavelength_dc5d6e2d:
     n "\n\nそれは俺もだけど……"
 
 # game/script-a4-rin.rpy:1271
-translate jp a4_rin_wavelength_76b2fe88_1:
+translate jp a4_rin_wavelength_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -2115,7 +2115,7 @@ translate jp a4_rin_wavelength_ee4c3c2d:
     "自分の落書きを見て、それを取っておこうという気が失せる。生気のない線がぐちゃぐちゃに絡まっている。テスト用紙の裏でなければ紙の無駄でしかない。"
 
 # game/script-a4-rin.rpy:1281
-translate jp a4_rin_wavelength_76b2fe88_2:
+translate jp a4_rin_wavelength_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -2163,7 +2163,7 @@ translate jp a4_rin_wavelength_f33578dd:
     n "それなのに琳はちっとも嬉しそうじゃなくて、腹が立つ。"
 
 # game/script-a4-rin.rpy:1300
-translate jp a4_rin_wavelength_76b2fe88_3:
+translate jp a4_rin_wavelength_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -2337,7 +2337,7 @@ translate jp a4_rin_wavelength_6fe3f787:
     "俺もみんなと一緒に立ち上がる。"
 
 # game/script-a4-rin.rpy:1411
-translate jp a4_rin_wavelength_76b2fe88_4:
+translate jp a4_rin_wavelength_d41d8cd9_4:
 
     # nvl clear
     nvl clear
@@ -2385,7 +2385,7 @@ translate jp a4_rin_wavelength_bd48d49c:
     n "\n\n世界全体がそうなればいいのにな。"
 
 # game/script-a4-rin.rpy:1432
-translate jp a4_rin_wavelength_76b2fe88_5:
+translate jp a4_rin_wavelength_d41d8cd9_5:
 
     # nvl clear
     nvl clear
@@ -2403,7 +2403,7 @@ translate jp a4_rin_wavelength_6b23919b:
     "紙を指でつまんだときに擦れる音を聞きながら、俺はゆっくりとページをめくる。"
 
 # game/script-a4-rin.rpy:1450
-translate jp a4_rin_wavelength_76b2fe88_6:
+translate jp a4_rin_wavelength_d41d8cd9_6:
 
     # nvl clear
     nvl clear
@@ -2469,7 +2469,7 @@ translate jp a4_rin_wavelength_ac10d3df:
     n "それに俺の関心は他のことに向いている。でもあっちこっちに広がりすぎていて、そのどれも把握できていない。"
 
 # game/script-a4-rin.rpy:1475
-translate jp a4_rin_wavelength_76b2fe88_7:
+translate jp a4_rin_wavelength_d41d8cd9_7:
 
     # nvl clear
     nvl clear
@@ -2583,7 +2583,7 @@ translate jp a4_rin_wavelength_d9d89bdb:
     "でも二人ともいないので、自分の無気力をくよくよと嘆くために部屋に戻る。"
 
 # game/script-a4-rin.rpy:1528
-translate jp a4_rin_wavelength_76b2fe88_8:
+translate jp a4_rin_wavelength_d41d8cd9_8:
 
     # nvl clear
     nvl clear
@@ -2663,7 +2663,7 @@ translate jp a4_rin_wavelength_554e90c4:
     n "いつものことだけど。『やることがない』というのは、やることがあってもなにもしないということなんだ。"
 
 # game/script-a4-rin.rpy:1560
-translate jp a4_rin_wavelength_76b2fe88_9:
+translate jp a4_rin_wavelength_d41d8cd9_9:
 
     # nvl clear
     nvl clear
@@ -2675,7 +2675,7 @@ translate jp a4_rin_wavelength_61247b6a:
     "案の定、母親から電話があって、明日か、それがだめなら明後日の新幹線のチケットが取れるかどうか確認すると約束してしまった。"
 
 # game/script-a4-rin.rpy:1569
-translate jp a4_rin_wavelength_76b2fe88_10:
+translate jp a4_rin_wavelength_d41d8cd9_10:
 
     # nvl clear
     nvl clear
@@ -2717,7 +2717,7 @@ translate jp a4_rin_wavelength_dce4c6f8:
     n "俺が変わったからなのか、それとも俺のいる世界が変わったのか？"
 
 # game/script-a4-rin.rpy:1601
-translate jp a4_rin_wavelength_76b2fe88_11:
+translate jp a4_rin_wavelength_d41d8cd9_11:
 
     # nvl clear
     nvl clear
@@ -2765,7 +2765,7 @@ translate jp a4_rin_wavelength_98aa888b:
     "塊の中から一つの思考が現れ、はっきりと他の思考の上にそびえ立っている。"
 
 # game/script-a4-rin.rpy:1652
-translate jp a4_rin_wavelength_76b2fe88_12:
+translate jp a4_rin_wavelength_d41d8cd9_12:
 
     # nvl clear
     nvl clear
@@ -2783,7 +2783,7 @@ translate jp a4_rin_wavelength_950439c0:
     n "怒って琳を怒鳴りつけたのを、休みの前の俺たち２人の最後にはできない。"
 
 # game/script-a4-rin.rpy:1660
-translate jp a4_rin_wavelength_76b2fe88_13:
+translate jp a4_rin_wavelength_d41d8cd9_13:
 
     # nvl clear
     nvl clear
@@ -2801,7 +2801,7 @@ translate jp a4_rin_wavelength_9f609591:
     n "混乱した心は眠りにあっけなく打ち倒される。"
 
 # game/script-a4-rin.rpy:1672
-translate jp a4_rin_wavelength_76b2fe88_14:
+translate jp a4_rin_wavelength_d41d8cd9_14:
 
     # nvl clear
     nvl clear
@@ -3472,8 +3472,8 @@ translate jp a4_rin_blue_period_7b2cdcc7:
     # "I guess it takes a lot to succeed, but I suppose his job would be easier if Rin was more cooperative."
     "成功するまでは長い道のりになるんだろうけど、琳がもっと協力的だったら、先生もここまで苦労しないだろうな。"
 
-# game/script-a4-rin.rpy:2097
-translate jp a4_rin_blue_period_76b2fe88:
+# game/script-a4-rin.rpy:2098
+translate jp a4_rin_blue_period_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -3532,8 +3532,8 @@ translate jp a4_rin_blue_period_456caa70:
     # n "Not that she's hiding anything, she just seems to defy my attempts at making sense of what she is talking about on any given day."
     n "なにかを隠しているわけじゃない。ただどの日であろうと、琳の話を理解しようとする俺の試みを受け付けないように見えるだけだ。"
 
-# game/script-a4-rin.rpy:2122
-translate jp a4_rin_blue_period_76b2fe88_1:
+# game/script-a4-rin.rpy:2123
+translate jp a4_rin_blue_period_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -4240,8 +4240,8 @@ translate jp a4_rin_the_world_only_can_you_see_172269a2:
     # "Rin just shrugs sullenly and looks in the other direction. I give up at this point."
     "琳はただぶすっとして肩をすくめると、そっぽを向いてしまう。この時点で俺はさじを投げる。"
 
-# game/script-a4-rin.rpy:2499
-translate jp a4_rin_the_world_only_can_you_see_76b2fe88:
+# game/script-a4-rin.rpy:2500
+translate jp a4_rin_the_world_only_can_you_see_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -4314,8 +4314,8 @@ translate jp a4_rin_the_world_only_can_you_see_1581ca86:
     # n "I'm sure she's not the only one who wishes some things were different, but we can at least grasp the facts as they are."
     n "そうでないものもあってほしい、と願う人はきっと琳以外にもいるだろう。でも事実は事実として把握することはできる。"
 
-# game/script-a4-rin.rpy:2530
-translate jp a4_rin_the_world_only_can_you_see_76b2fe88_1:
+# game/script-a4-rin.rpy:2531
+translate jp a4_rin_the_world_only_can_you_see_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -5316,8 +5316,8 @@ translate jp a4_rin_the_world_only_can_you_see_f4d5e348:
     # "Her words stayed frozen deep inside my heart."
     "琳の言葉は俺の心の奥深くで凍り付いたままだった。"
 
-# game/script-a4-rin.rpy:2979
-translate jp a4_rin_desperate_glory_76b2fe88:
+# game/script-a4-rin.rpy:2980
+translate jp a4_rin_desperate_glory_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5364,8 +5364,8 @@ translate jp a4_rin_desperate_glory_a734eb67:
     # n "{vspace=60}The tangle just seems to thicken."
     n "\n\n話がどんどんもつれていっている気がする。"
 
-# game/script-a4-rin.rpy:2998
-translate jp a4_rin_desperate_glory_76b2fe88_1:
+# game/script-a4-rin.rpy:2999
+translate jp a4_rin_desperate_glory_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -6282,8 +6282,8 @@ translate jp a4_rin_problems_of_self_referential_logic_6e44563b:
     # rin "Nobody else has ever asked me to."
     rin "だって他に誰も聞いてこなかったし"
 
-# game/script-a4-rin.rpy:3468
-translate jp a4_rin_problems_of_self_referential_logic_76b2fe88:
+# game/script-a4-rin.rpy:3469
+translate jp a4_rin_problems_of_self_referential_logic_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6512,8 +6512,8 @@ translate jp a4_rin_problems_of_self_referential_logic_d1bf587e:
     # "Looking at Rin makes me feel bad."
     "琳を見ているとひどい気分になる。"
 
-# game/script-a4-rin.rpy:3576
-translate jp a4_rin_problems_of_self_referential_logic_76b2fe88_1:
+# game/script-a4-rin.rpy:3577
+translate jp a4_rin_problems_of_self_referential_logic_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -7792,8 +7792,8 @@ translate jp a4_rin_raison_detre_e97643b3:
     # "Her slim shoulder quivering against my palm is a pitiable sight, and the hopelessness of being part of the cause for Rin's sadness keeps shredding my heart."
     "俺の手に触れる、その華奢な肩が震えているのは見ていてかわいそうだ。自分自身が琳の悲しみの理由の一部だったという絶望が、俺の心をずたずたにする。"
 
-# game/script-a4-rin.rpy:4176
-translate jp a4_rin_raison_detre_76b2fe88:
+# game/script-a4-rin.rpy:4177
+translate jp a4_rin_raison_detre_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -7834,8 +7834,8 @@ translate jp a4_rin_raison_detre_b4ed80bb:
     # n "{vspace=60}But no words can express it, and no words can make it better."
     n "\n\nでもそれを説明できる言葉も、慰める言葉も存在しない。"
 
-# game/script-a4-rin.rpy:4193
-translate jp a4_rin_raison_detre_76b2fe88_1:
+# game/script-a4-rin.rpy:4194
+translate jp a4_rin_raison_detre_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -7870,8 +7870,8 @@ translate jp a4_rin_raison_detre_16d51601:
     # n "{vspace=60}…"
     n "\n\n……"
 
-# game/script-a4-rin.rpy:4215
-translate jp a4_rin_raison_detre_76b2fe88_2:
+# game/script-a4-rin.rpy:4216
+translate jp a4_rin_raison_detre_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -7930,8 +7930,8 @@ translate jp a4_rin_raison_detre_93c1815a:
     # "It's because doing it would just make me so sad that I don't know if I could bear it."
     "そうしたらあまりに悲しくなってしまうに違いなくて、耐えられる自信がなかった。"
 
-# game/script-a4-rin.rpy:4243
-translate jp a4_rin_raison_detre_76b2fe88_3:
+# game/script-a4-rin.rpy:4244
+translate jp a4_rin_raison_detre_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -8084,8 +8084,8 @@ translate jp a4_rin_raison_detre_c32b9b24:
     # n "{vspace=30}The thought makes me almost laugh, she really does seem to be from another planet at times, minus green skin and possibly some tentacles."
     n "\nそんなことを考えて笑ってしまいそうになる。確かに、琳は本当に別の星から来たように思えることがある。緑の肌と触手はないけど。"
 
-# game/script-a4-rin.rpy:4301
-translate jp a4_rin_raison_detre_76b2fe88_4:
+# game/script-a4-rin.rpy:4302
+translate jp a4_rin_raison_detre_d41d8cd9_4:
 
     # nvl clear
     nvl clear
@@ -8792,8 +8792,8 @@ translate jp a4_rin_raison_detre_72471f0d:
     # hi "That's what people must do, sometimes."
     hi "時には、人は変わらなくちゃいけないのさ"
 
-# game/script-a4-rin.rpy:4658
-translate jp a4_rin_raison_detre_76b2fe88_5:
+# game/script-a4-rin.rpy:4659
+translate jp a4_rin_raison_detre_d41d8cd9_5:
 
     # nvl clear
     nvl clear
@@ -8810,8 +8810,8 @@ translate jp a4_rin_raison_detre_dfb8e2b0:
     # n "And even those words drown in the all-encompassing silence, disappearing into the stagnant air as if they were never said."
     n "その言葉さえすべてを包み込む静けさに沈み、まるで会話などなかったかのように、よどんだ空気の中へ消えていった。"
 
-# game/script-a4-rin.rpy:4665
-translate jp a4_rin_raison_detre_76b2fe88_6:
+# game/script-a4-rin.rpy:4666
+translate jp a4_rin_raison_detre_d41d8cd9_6:
 
     # nvl clear
     nvl clear
@@ -9374,8 +9374,8 @@ translate jp a4_rin_wb_and_ws_2dd8ebac:
     # "Here we are, a boy and girl, both in love or something like that with each other, or maybe not… and yet…"
     "お互いに恋か何かに落ちている少年と少女……いや違うか……まだ……"
 
-# game/script-a4-rin.rpy:4989
-translate jp a4_rin_wb_and_ws_76b2fe88:
+# game/script-a4-rin.rpy:4990
+translate jp a4_rin_wb_and_ws_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -9428,8 +9428,8 @@ translate jp a4_rin_wb_and_ws_3bb38949:
     # n "So for now, all I can do is dry her up so she won't get a cold again."
     n "だから今の俺には、琳がまた風邪を引かないように乾かしてやることしかできない。"
 
-# game/script-a4-rin.rpy:5012
-translate jp a4_rin_wb_and_ws_76b2fe88_1:
+# game/script-a4-rin.rpy:5013
+translate jp a4_rin_wb_and_ws_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -9998,8 +9998,8 @@ translate jp a4_rin_wb_and_ws_3c0633da:
     # "Her eyes are sultry, inviting as she sits there bare naked without an inkling of shame. I never thought Rin could look like that."
     "艶やかな、誘うような目だ。少しも恥じらうことなく、一糸まとわぬ姿で座っている。琳のこんな格好を見ることになるなんて思ってもみなかった。"
 
-# game/script-a4-rin.rpy:5298
-translate jp a4_rin_wb_and_ws_76b2fe88_2:
+# game/script-a4-rin.rpy:5299
+translate jp a4_rin_wb_and_ws_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -10102,8 +10102,8 @@ translate jp a4_rin_wb_and_ws_bfe9e23d:
     # n "But she allows herself to want me without any restraint. Here and now."
     n "でも、琳は何のためらいもなく俺を求めようとしている。今ここで。"
 
-# game/script-a4-rin.rpy:5338
-translate jp a4_rin_wb_and_ws_76b2fe88_3:
+# game/script-a4-rin.rpy:5339
+translate jp a4_rin_wb_and_ws_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -11528,8 +11528,8 @@ translate jp a4_rin_proof_of_existence_30bfda0f:
     # "As I grasp her into an embrace, I feel my heart thumping in my chest painfully."
     "琳を抱き寄せると、心臓が痛いほど高鳴る。"
 
-# game/script-a4-rin.rpy:6122
-translate jp a4_rin_proof_of_existence_76b2fe88:
+# game/script-a4-rin.rpy:6123
+translate jp a4_rin_proof_of_existence_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -11576,8 +11576,8 @@ translate jp a4_rin_proof_of_existence_eabec665:
     # n "…"
     n "……"
 
-# game/script-a4-rin.rpy:6144
-translate jp a4_rin_proof_of_existence_76b2fe88_1:
+# game/script-a4-rin.rpy:6145
+translate jp a4_rin_proof_of_existence_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -11822,8 +11822,8 @@ translate jp a4_rin_proof_of_existence_e02da6ea:
     # rin "It's all right to be me after all."
     rin "結局、私でいるのがいいんだね"
 
-# game/script-a4-rin.rpy:6310
-translate jp a4_rin_proof_of_existence_76b2fe88_2:
+# game/script-a4-rin.rpy:6311
+translate jp a4_rin_proof_of_existence_d41d8cd9_2:
 
     # nvl clear
     nvl clear

@@ -2646,8 +2646,8 @@ translate jp a2_rin_hisaos_smile_811c5f41:
     # rin "Hello."
     rin "やあ"
 
-# game/script-a2-rin.rpy:1780
-translate jp a2_rin_hisaos_smile_76b2fe88:
+# game/script-a2-rin.rpy:1783
+translate jp a2_rin_hisaos_smile_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -2714,8 +2714,8 @@ translate jp a2_rin_hisaos_smile_33809380:
     # n "{vspace=60}However, this sense of a budding friendship is completely wrecked every time Rin opens her mouth."
     n "\n\nでもこの友情が芽生えてくる感覚は、琳が口を開くたびに完全にぶっ壊されてしまう。"
 
-# game/script-a2-rin.rpy:1808
-translate jp a2_rin_hisaos_smile_76b2fe88_1:
+# game/script-a2-rin.rpy:1811
+translate jp a2_rin_hisaos_smile_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -2918,8 +2918,8 @@ translate jp a2_rin_hisaos_smile_7de8baa1:
     # "A group of boys walk past us to Rin's classroom, but she doesn't pay them any mind. They pay none to her, either. My mind wanders off, spurred by the silence."
     "男子たちのグループが俺たちとすれ違って琳の教室のほうへ歩いていくけど、琳は気にもとめないし、彼らも琳になんの注意も払わない。その沈黙に押されて、俺の意識はあてもなく漂い出す。"
 
-# game/script-a2-rin.rpy:1926
-translate jp a2_rin_hisaos_smile_76b2fe88_2:
+# game/script-a2-rin.rpy:1929
+translate jp a2_rin_hisaos_smile_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -2954,8 +2954,8 @@ translate jp a2_rin_hisaos_smile_f6d0c724:
     # n "{vspace=60}I can't decide which one of us is worse off."
     n "\n\nどっちの方がつらいと言えるのか、俺にはわからない。"
 
-# game/script-a2-rin.rpy:1943
-translate jp a2_rin_hisaos_smile_76b2fe88_3:
+# game/script-a2-rin.rpy:1946
+translate jp a2_rin_hisaos_smile_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -2990,8 +2990,8 @@ translate jp a2_rin_hisaos_smile_f975fe21:
     # n "{vspace=30}When I finally ask Rin on Thursday about something that's been bothering me for the entire week, it's already lunch time."
     n "\n木曜になって、この１週間ずっと気がかりになっていたことについて琳にようやく聞いたときには、すでに昼休みになっていた。"
 
-# game/script-a2-rin.rpy:1967
-translate jp a2_rin_hisaos_smile_76b2fe88_4:
+# game/script-a2-rin.rpy:1970
+translate jp a2_rin_hisaos_smile_d41d8cd9_4:
 
     # nvl clear
     nvl clear
@@ -3050,8 +3050,8 @@ translate jp a2_rin_hisaos_smile_a12b9df8:
     # "Her striking observation gives me pause."
     "琳の鋭い観察眼が俺を固まらせる。"
 
-# game/script-a2-rin.rpy:2016
-translate jp a2_rin_hisaos_smile_76b2fe88_5:
+# game/script-a2-rin.rpy:2019
+translate jp a2_rin_hisaos_smile_d41d8cd9_5:
 
     # nvl clear
     nvl clear
@@ -3098,8 +3098,8 @@ translate jp a2_rin_hisaos_smile_b9ec8dd7:
     # n "{vspace=30}Have I really stopped smiling?"
     n "\n俺は本当に笑わなくなったんだろうか？"
 
-# game/script-a2-rin.rpy:2034
-translate jp a2_rin_hisaos_smile_76b2fe88_6:
+# game/script-a2-rin.rpy:2037
+translate jp a2_rin_hisaos_smile_d41d8cd9_6:
 
     # nvl clear
     nvl clear
@@ -4256,8 +4256,8 @@ translate jp a2_rin_target_audience_cd465943:
     # "While waiting for the relay to start, I peer at Rin. She seems uninterested in her surroundings, myself included."
     "リレーが始まるのを待つ間、俺は琳をじっと見る。俺のことも含めて、周りのことに興味がないみたいだ。"
 
-# game/script-a2-rin.rpy:2849
-translate jp a2_rin_target_audience_76b2fe88:
+# game/script-a2-rin.rpy:2852
+translate jp a2_rin_target_audience_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5926,8 +5926,8 @@ translate jp a2_rin_underwater_and_maple_ae426c4d:
     # "I become very self-conscious about Rin's presence."
     "琳がいることに、俺はやけに照れくさくなる。"
 
-# game/script-a2-rin.rpy:3931
-translate jp a2_rin_underwater_and_maple_76b2fe88:
+# game/script-a2-rin.rpy:3934
+translate jp a2_rin_underwater_and_maple_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6000,8 +6000,8 @@ translate jp a2_rin_underwater_and_maple_c9c42da6:
     # n "The realization suddenly dawns on me that Rin is basically the only person I talk to nowadays, apart from whatever I have to endure from Shizune, Misha or Kenji. I feel slightly depressed."
     n "必然的に会話せざるを得ない静音、ミーシャ、健二を除けば、最近の俺はほとんど琳一人としか話をしていない、という事実に突然思い至る。少し気が滅入る。"
 
-# game/script-a2-rin.rpy:3960
-translate jp a2_rin_underwater_and_maple_76b2fe88_1:
+# game/script-a2-rin.rpy:3963
+translate jp a2_rin_underwater_and_maple_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -6324,8 +6324,8 @@ translate jp a2_rin_iwanakos_regret_799ef6f3:
     # "I have no idea why she would write to me. I haven't been in contact with anyone from my old school since I transferred, and Iwanako is the last person I'd expect to want to write me a letter."
     "どうして岩魚子が俺に手紙を書いたのかまったくわからない。転校してきてから前の学校にいた連中とは誰とも連絡はとっていないし、岩魚子はいちばん俺に手紙を寄越しそうにない人間だ。"
 
-# game/script-a2-rin.rpy:4207
-translate jp a2_rin_iwanakos_regret_76b2fe88:
+# game/script-a2-rin.rpy:4210
+translate jp a2_rin_iwanakos_regret_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6386,8 +6386,8 @@ translate jp a2_rin_iwanakos_regret_c8fc7c4a:
     # n "So I never managed to say the things I wanted to say. In the end, that might've hurt her even more."
     n "だから俺は、言いたいと思っていたことを一つも言うことができなかった。結局、それがなおさら岩魚子を傷つけていたのかもしれない。"
 
-# game/script-a2-rin.rpy:4236
-translate jp a2_rin_iwanakos_regret_76b2fe88_1:
+# game/script-a2-rin.rpy:4239
+translate jp a2_rin_iwanakos_regret_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -6410,8 +6410,8 @@ translate jp a2_rin_iwanakos_regret_1b84d0c2:
     # "I don't know what to think of this. I feel empty and confused."
     "なにを思えばいいのかわからない。俺はむなしい気分になり、そして困惑する。"
 
-# game/script-a2-rin.rpy:4270
-translate jp a2_rin_iwanakos_regret_76b2fe88_2:
+# game/script-a2-rin.rpy:4273
+translate jp a2_rin_iwanakos_regret_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -6452,8 +6452,8 @@ translate jp a2_rin_iwanakos_regret_0eb29a35:
     # n "{vspace=30}Of course, she is right. I thought of the same thing yesterday. I had fallen into a pit of depression and now have to try to climb out."
     n "\nもちろん、岩魚子は正しい。俺も同じことを昨日考えた。俺は絶望の穴のなかに落ちて、そこから這い出さなきゃいけなくなっている。"
 
-# game/script-a2-rin.rpy:4288
-translate jp a2_rin_iwanakos_regret_76b2fe88_3:
+# game/script-a2-rin.rpy:4291
+translate jp a2_rin_iwanakos_regret_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -6494,8 +6494,8 @@ translate jp a2_rin_iwanakos_regret_52d337ba:
     # "I think about all the things I've lost and will never regain."
     "俺は自分が失ってしまった、そしてもう二度と取り戻せない、あらゆるものごとに思いを巡らせる。"
 
-# game/script-a2-rin.rpy:4323
-translate jp a2_rin_in_her_own_image_76b2fe88:
+# game/script-a2-rin.rpy:4326
+translate jp a2_rin_in_her_own_image_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6630,8 +6630,8 @@ translate jp a2_rin_in_her_own_image_da468326:
     # n "Somewhere, the school bells ring the last call of the day."
     n "どこかで、この日の最後のチャイムが鳴る。"
 
-# game/script-a2-rin.rpy:4377
-translate jp a2_rin_in_her_own_image_76b2fe88_1:
+# game/script-a2-rin.rpy:4380
+translate jp a2_rin_in_her_own_image_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -6678,8 +6678,8 @@ translate jp a2_rin_in_her_own_image_1dbd175a:
     # "It occurs to me that I am literally watching paint dry. And yet somehow I'm not feeling bored, despite spacing out just now."
     "俺は自分が文字通り、絵の具が乾くのを眺めていることを自覚する。それなのに、どういうわけか俺はただただぼうっとしているにもかかわらず、退屈を感じずにいる。"
 
-# game/script-a2-rin.rpy:4411
-translate jp a2_rin_in_her_own_image_76b2fe88_2:
+# game/script-a2-rin.rpy:4414
+translate jp a2_rin_in_her_own_image_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -6720,8 +6720,8 @@ translate jp a2_rin_in_her_own_image_420b6a97:
     # n "{vspace=30}Unsatisfied maybe, but I've got only myself to blame for that."
     n "\n不満ではあるのかもしれないけど、でもそれは他でもない俺自身のせいだ。"
 
-# game/script-a2-rin.rpy:4429
-translate jp a2_rin_in_her_own_image_76b2fe88_3:
+# game/script-a2-rin.rpy:4432
+translate jp a2_rin_in_her_own_image_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -9306,8 +9306,8 @@ translate jp a2_rin_six_meters_closer_4c2f4395:
     # "I have no answer, so a brief silence falls between us for a moment. I shift my gaze back to the sky above us."
     "俺は答えられず、しばらく二人の間に沈黙が落ちる。俺はまた視線を空に戻す。"
 
-# game/script-a2-rin.rpy:6266
-translate jp a2_rin_six_meters_closer_76b2fe88:
+# game/script-a2-rin.rpy:6270
+translate jp a2_rin_six_meters_closer_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -9342,8 +9342,8 @@ translate jp a2_rin_six_meters_closer_c3f30b3b:
     # n "I wish I could forget everything up until now and that time would stop completely. There would be only me, Rin, and the sky, an eternal lunch break on this rooftop. Perfect, unchanging, and forever."
     n "今までのことを何もかも忘れてしまえたら、時間が完全に止まったらいいのにと思う。俺と琳、そして空だけがある。永遠に続く屋上での昼休み。完璧で、変わることなく、終わることもない。"
 
-# game/script-a2-rin.rpy:6281
-translate jp a2_rin_six_meters_closer_76b2fe88_1:
+# game/script-a2-rin.rpy:6285
+translate jp a2_rin_six_meters_closer_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -10782,8 +10782,8 @@ translate jp a2_rin_dandelions_bad2a4a7:
     # "Today I'm especially distracted, as I keep thinking about Rin."
     "今日は琳のことが頭から離れなくて、なおさら集中できずにいる。"
 
-# game/script-a2-rin.rpy:7213
-translate jp a2_rin_dandelions_76b2fe88:
+# game/script-a2-rin.rpy:7218
+translate jp a2_rin_dandelions_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -10806,8 +10806,8 @@ translate jp a2_rin_dandelions_2d385375:
     # n "{vspace=150}I think about Rin more and more nowadays. I wonder if she thinks about me."
     n "\n\n\nこのごろの俺はますます琳のことばかり考えている。琳も俺のことを考えているんだろうか。"
 
-# game/script-a2-rin.rpy:7224
-translate jp a2_rin_dandelions_76b2fe88_1:
+# game/script-a2-rin.rpy:7229
+translate jp a2_rin_dandelions_d41d8cd9_1:
 
     # nvl clear
     nvl clear

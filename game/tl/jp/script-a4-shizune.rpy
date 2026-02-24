@@ -54,8 +54,8 @@ translate jp a4_shizune_grand_strategy_1a106f4d:
     # yu "Oh… Um, I suppose you don't want to talk about it…"
     yu "そうなんだ……えっと、そのこと話したくはないよね……"
 
-# game/script-a4-shizune.rpy:55
-translate jp a4_shizune_grand_strategy_76b2fe88:
+# game/script-a4-shizune.rpy:56
+translate jp a4_shizune_grand_strategy_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -1390,8 +1390,8 @@ translate jp a4_shizune_off_by_one_9cb4e459:
     # "For someone like Shizune, who has only ever interacted with the world by locking horns with every obstacle in her path, understanding only goes so far."
     "静音のように、あらゆる障害と正面からぶつかることでしか世界に関わってこなかった人には、それ以上の理解をすることはできないんだろう。"
 
-# game/script-a4-shizune.rpy:954
-translate jp a4_shizune_off_by_one_76b2fe88:
+# game/script-a4-shizune.rpy:955
+translate jp a4_shizune_off_by_one_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -1454,8 +1454,8 @@ translate jp a4_shizune_off_by_one_5476fd7d:
     # n "{vspace=60}And partly for a more cowardly reason. I've started to think they weren't, but I don't know if her actions that day might not have been an afterthought, or even a fluke, just a collection of coincidences. I don't know if that would change anything, but I'm uncomfortable thinking about it."
     n "\n\n怖かったからでもある。実際はそうじゃないと思うけど、あの日の静音の行動は全て思いつき、まぐれ、もしくは偶然の連続だったのかもしれない。そうだったとしても何も変わらないけど、そう考えると居心地が悪くなる。"
 
-# game/script-a4-shizune.rpy:983
-translate jp a4_shizune_off_by_one_76b2fe88_1:
+# game/script-a4-shizune.rpy:984
+translate jp a4_shizune_off_by_one_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -1982,8 +1982,8 @@ translate jp a4_shizune_invasion_5c6810a7:
     # ssh "I'm sorry, but it's just how I am."
     ssh "ごめんなさい、でもこれが私なの"
 
-# game/script-a4-shizune.rpy:1328
-translate jp a4_shizune_invasion_76b2fe88:
+# game/script-a4-shizune.rpy:1329
+translate jp a4_shizune_invasion_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6182,8 +6182,8 @@ translate jp a4_shizune_sneaking_mission_9f234bbb:
     # "But she has something to hold on to now. I can genuinely believe that she does. I'm happy for her. And at the same time, I feel a little cold. I'm the one who's behind. Now, I'm the only one without a goal."
     "でも静音には確たる目標ができた。俺には心底からそう思える。俺もうれしい。同時に、少し寒々とした気持ちになる。今度は俺が遅れている。今、目的がないのは俺だけだ。"
 
-# game/script-a4-shizune.rpy:4074
-translate jp a4_shizune_infinity_76b2fe88:
+# game/script-a4-shizune.rpy:4075
+translate jp a4_shizune_infinity_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6232,8 +6232,8 @@ translate jp a4_shizune_infinity_39e567ee:
     # n "Somehow, it ended up like that anyway, even though it also ended up being a shorter list than I expected it to be. Kenji is somewhere in the middle."
     n "でもどういうわけか、結局そういう並びになってしまった。それと、思っていたよりも短いリストになった。健二は真ん中のどこかにおさまった。"
 
-# game/script-a4-shizune.rpy:4103
-translate jp a4_shizune_infinity_76b2fe88_1:
+# game/script-a4-shizune.rpy:4104
+translate jp a4_shizune_infinity_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -6412,8 +6412,8 @@ translate jp a4_shizune_infinity_e064b31a:
     # "I'm being thanked. This should make me happy, considering how often I would think to myself that being in the Student Council was a completely thankless job. It does make me happy, but I can't enjoy it fully."
     "お礼を言われている。今まで何度も、生徒会は報われない仕事だと思ったことを考えれば、いい気分になってしかるべきだ。確かにうれしいけど、完全には喜べない。"
 
-# game/script-a4-shizune.rpy:4210
-translate jp a4_shizune_infinity_76b2fe88_2:
+# game/script-a4-shizune.rpy:4211
+translate jp a4_shizune_infinity_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -6960,8 +6960,8 @@ translate jp a4_shizune_infinity_c458e2b2:
     # hi "Not really, not for me."
     hi "いや、俺はそうでもなかった"
 
-# game/script-a4-shizune.rpy:4588
-translate jp a4_shizune_infinity_76b2fe88_3:
+# game/script-a4-shizune.rpy:4589
+translate jp a4_shizune_infinity_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -7016,8 +7016,8 @@ translate jp a4_shizune_infinity_978706b1:
     # n "{vspace=30}And I also want to keep chasing Shizune."
     n "\nそれと、静音を追いかけ続けたい。"
 
-# game/script-a4-shizune.rpy:4613
-translate jp a4_shizune_infinity_76b2fe88_4:
+# game/script-a4-shizune.rpy:4614
+translate jp a4_shizune_infinity_d41d8cd9_4:
 
     # nvl clear
     nvl clear
@@ -7880,8 +7880,8 @@ translate jp a4_shizune_spiral_53da747b:
     # "She signs it again for emphasis, to shut down the notion that there's anything more behind it. But there is, since she's definitely not acting normally."
     "強調するように、そしてなにか裏があるのかという考えを封じるために、同じ手話を二度する。でもそこには何かがある。間違いなく今の静音の振る舞いは普通じゃない。"
 
-# game/script-a4-shizune.rpy:5164
-translate jp a4_shizune_spiral_76b2fe88:
+# game/script-a4-shizune.rpy:5165
+translate jp a4_shizune_spiral_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -7904,8 +7904,8 @@ translate jp a4_shizune_spiral_e4ee499a:
     # n "{vspace=30}Somehow, that only makes me want to find out more. And that means I have to ask Misha. The problem is, I don't really know where Misha goes in her spare time."
     n "\nなぜか、そのせいで余計に理由が知りたくなる。つまりミーシャに聞かないといけないということだ。問題は、俺はミーシャが暇な時間に何をしているかを知らない。"
 
-# game/script-a4-shizune.rpy:5177
-translate jp a4_shizune_spiral_76b2fe88_1:
+# game/script-a4-shizune.rpy:5178
+translate jp a4_shizune_spiral_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -8114,8 +8114,8 @@ translate jp a4_shizune_spiral_541629ac:
     # "I barely even hear him, feeling a bit resentful at the interruption."
     "俺はほとんど聞いてもいない。邪魔をされたのがちょっと腹が立つ。"
 
-# game/script-a4-shizune.rpy:5317
-translate jp a4_shizune_spiral_76b2fe88_2:
+# game/script-a4-shizune.rpy:5318
+translate jp a4_shizune_spiral_d41d8cd9_2:
 
     # nvl clear
     nvl clear

@@ -1021,7 +1021,7 @@ translate jp a3_lilly_minor_discord_f24f54df:
     "健二が陰謀論の話をグダグダとしゃべり始めると、俺のジュースの重要性は一気に高まる。"
 
 # game/script-a3-lilly.rpy:690
-translate jp a3_lilly_minor_discord_76b2fe88:
+translate jp a3_lilly_minor_discord_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -1051,7 +1051,7 @@ translate jp a3_lilly_minor_discord_769f017b:
     n "そういえば、放課後に華子の様子を確かめに行かなきゃな。最近の華子の出席はかなり良くなってたのを考えると、何か病気にでもかかっているんじゃないだろうか。"
 
 # game/script-a3-lilly.rpy:704
-translate jp a3_lilly_minor_discord_76b2fe88_1:
+translate jp a3_lilly_minor_discord_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -1747,7 +1747,7 @@ translate jp a3_lilly_a_world_away_a68f6852:
     "俺は読むことを諦めて、目の前にある本の上にただ頭を落とす。"
 
 # game/script-a3-lilly.rpy:1092
-translate jp a3_lilly_a_world_away_76b2fe88:
+translate jp a3_lilly_a_world_away_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -1789,7 +1789,7 @@ translate jp a3_lilly_a_world_away_04c3c7dc:
     n "何度もそうしようとしたけど、それは岩魚子というやっかいな問題につながってしまう。思考がその方向にそれてしまうたびに、俺は反射的に何か別のことを考えようとする。"
 
 # game/script-a3-lilly.rpy:1109
-translate jp a3_lilly_a_world_away_76b2fe88_1:
+translate jp a3_lilly_a_world_away_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -1993,7 +1993,7 @@ translate jp a3_lilly_a_world_away_adc309ed:
     "優子さんが女の子っぽくくすくすと笑う。それを目にして、優子さんは山久の普通の職員とは違うという認識がさらに強くなる。"
 
 # game/script-a3-lilly.rpy:1223
-translate jp a3_lilly_a_world_away_76b2fe88_2:
+translate jp a3_lilly_a_world_away_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -2017,7 +2017,7 @@ translate jp a3_lilly_a_world_away_1a4d5321:
     n "過去を乗り越えて前に進む動機付けが一つ増えただけだ。それに必要以上にこだわって、ホームシックになったりするのは避けないといけない。"
 
 # game/script-a3-lilly.rpy:1232
-translate jp a3_lilly_a_world_away_76b2fe88_3:
+translate jp a3_lilly_a_world_away_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -2359,7 +2359,7 @@ translate jp a3_lilly_renewal_2004258f:
     "またしても武藤先生の長ったらしい講義を聞きながら、俺の意識は汚い黒板の殴り書きから遠く離れてさまよっている。"
 
 # game/script-a3-lilly.rpy:1390
-translate jp a3_lilly_renewal_76b2fe88:
+translate jp a3_lilly_renewal_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -2395,7 +2395,7 @@ translate jp a3_lilly_renewal_9ae080da:
     n "ほんとうに、住むことを余儀なくされた環境に人が慣れる早さには驚かされる。しかも、今は惚れた相手まで見つけてしまった。なんて奇妙な人生だろう。"
 
 # game/script-a3-lilly.rpy:1403
-translate jp a3_lilly_renewal_76b2fe88_1:
+translate jp a3_lilly_renewal_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -5715,7 +5715,7 @@ translate jp a3_lilly_gray_outlook_60cef8ec:
     n "こんな気持ちになるとは思わなかったけど、街から離れて静かなところで暮らすというのも悪くないな。たった１年前なら、ばかばかしいとしか思えなかっただろう。"
 
 # game/script-a3-lilly.rpy:3479
-translate jp a3_lilly_gray_outlook_76b2fe88:
+translate jp a3_lilly_gray_outlook_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6111,7 +6111,7 @@ translate jp a3_lilly_rhapsody_in_blue_25d6306b:
     "ゆっくり風呂に入ったのはどれだけ久しぶりだろう。でも今わざわざ思い出す気にはとてもなれない。"
 
 # game/script-a3-lilly.rpy:3744
-translate jp a3_lilly_rhapsody_in_blue_76b2fe88:
+translate jp a3_lilly_rhapsody_in_blue_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6165,7 +6165,7 @@ translate jp a3_lilly_rhapsody_in_blue_3553b764:
     n "それに今は、よりにもよって恋愛関係まで持ち始めている。"
 
 # game/script-a3-lilly.rpy:3763
-translate jp a3_lilly_rhapsody_in_blue_76b2fe88_1:
+translate jp a3_lilly_rhapsody_in_blue_d41d8cd9_1:
 
     # nvl clear
     nvl clear

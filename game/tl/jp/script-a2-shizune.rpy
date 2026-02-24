@@ -1,7 +1,7 @@
 # TODO: Translation updated at 2025-06-23 13:41
 
 # game/script-a2-shizune.rpy:12
-translate jp a2_shizune_message_passing_76b2fe88:
+translate jp a2_shizune_message_passing_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -43,7 +43,7 @@ translate jp a2_shizune_message_passing_1f91f161:
     n "\n\nまあ、少なくとも今朝は天気がいいから、始業前に外で予習ができるな。"
 
 # game/script-a2-shizune.rpy:37
-translate jp a2_shizune_message_passing_76b2fe88_1:
+translate jp a2_shizune_message_passing_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -313,7 +313,7 @@ translate jp a2_shizune_message_passing_81adc568:
     "静音が学校に向かう間、俺は少し悲しい気分になってしまう。"
 
 # game/script-a2-shizune.rpy:217
-translate jp a2_shizune_message_passing_76b2fe88_2:
+translate jp a2_shizune_message_passing_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -355,7 +355,7 @@ translate jp a2_shizune_message_passing_1bb73432:
     n "今すぐ行くことにする。でもミーシャがどこにいるか分からない。女子寮に行って探すのが一番確率が高そうだけど。どっちにしても、静音と一緒にいないなら、たぶんそこにしかいないだろう。"
 
 # game/script-a2-shizune.rpy:235
-translate jp a2_shizune_message_passing_76b2fe88_3:
+translate jp a2_shizune_message_passing_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -397,7 +397,7 @@ translate jp a2_shizune_message_passing_9b185b81:
     n "やがてミーシャの姿が目に入る。地面をぴょんぴょんと跳ねるのを見て、盲目でもなければあれだけ目立つ髪は見逃さないだろうと思い至る。"
 
 # game/script-a2-shizune.rpy:259
-translate jp a2_shizune_message_passing_76b2fe88_4:
+translate jp a2_shizune_message_passing_d41d8cd9_4:
 
     # nvl clear
     nvl clear
@@ -2322,8 +2322,8 @@ translate jp a2_shizune_chinese_whispers_5e268974:
     # "I'm sure that what she means is 'thank you.' I'm glad that I was able to catch it."
     "今のは間違いなく『ありがとう』だ。ちゃんと読みとれてよかった。"
 
-# game/script-a2-shizune.rpy:1481
-translate jp a2_shizune_advanced_game_theory_76b2fe88:
+# game/script-a2-shizune.rpy:1482
+translate jp a2_shizune_advanced_game_theory_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -2364,8 +2364,8 @@ translate jp a2_shizune_advanced_game_theory_01a2001e:
     # n "{vspace=30}I'm doing my best to get to that point one step at a time by doing as much studying as I can squeeze in during lunch."
     n "\n１歩ずつ着実にそこにたどり着くために、俺は全力を尽くしている。昼休みにできる限りのことを詰め込んでいるんだ。"
 
-# game/script-a2-shizune.rpy:1502
-translate jp a2_shizune_advanced_game_theory_76b2fe88_1:
+# game/script-a2-shizune.rpy:1503
+translate jp a2_shizune_advanced_game_theory_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -2438,8 +2438,8 @@ translate jp a2_shizune_advanced_game_theory_5626da4c:
     # n "{vspace=30}So to me, this is the only option. Especially now that I've decided to be so resolute with it."
     n "\nだから俺にとっては、これ以外に選択肢はない。自分でこんなに強く決意したのだから、なおさらだ。"
 
-# game/script-a2-shizune.rpy:1536
-translate jp a2_shizune_advanced_game_theory_76b2fe88_2:
+# game/script-a2-shizune.rpy:1537
+translate jp a2_shizune_advanced_game_theory_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -3242,8 +3242,8 @@ translate jp a2_shizune_advanced_game_theory_abae7a70:
     # "Despite that, it's an interesting game."
     "そのことを抜きにしても、面白い勝負だ。"
 
-# game/script-a2-shizune.rpy:2083
-translate jp a2_shizune_advanced_game_theory_76b2fe88_3:
+# game/script-a2-shizune.rpy:2084
+translate jp a2_shizune_advanced_game_theory_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -3340,8 +3340,8 @@ translate jp a2_shizune_advanced_game_theory_3249dd7c:
     # n "The game ends."
     n "勝負がついた。"
 
-# game/script-a2-shizune.rpy:2123
-translate jp a2_shizune_advanced_game_theory_76b2fe88_4:
+# game/script-a2-shizune.rpy:2124
+translate jp a2_shizune_advanced_game_theory_d41d8cd9_4:
 
     # nvl clear
     nvl clear
@@ -3766,8 +3766,8 @@ translate jp a2_shizune_advanced_game_theory_d870e543:
     # "But the bell rings and cuts me off."
     "でもチャイムの音に俺は遮られる。"
 
-# game/script-a2-shizune.rpy:2447
-translate jp a2_shizune_bread_scissors_paper_76b2fe88:
+# game/script-a2-shizune.rpy:2448
+translate jp a2_shizune_bread_scissors_paper_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -3814,8 +3814,8 @@ translate jp a2_shizune_bread_scissors_paper_3b1e169e:
     # n "I dread the amount of work that's going to hit me in Student Council after school, enough to want to consider stepping out on my duties, just this once. Yet it's nice to feel like there is something I can do."
     n "放課後に待ち受けている生徒会の仕事の量には恐ろしくなる。今度ばかりはさぼりを決め込みたくなる。それでも自分にできることがあるという感覚はいいものだ。"
 
-# game/script-a2-shizune.rpy:2470
-translate jp a2_shizune_bread_scissors_paper_76b2fe88_1:
+# game/script-a2-shizune.rpy:2471
+translate jp a2_shizune_bread_scissors_paper_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -4930,8 +4930,8 @@ translate jp a2_shizune_interface_62964872:
     # "After a solid eight hours of sleep, I don't really know what I was so afraid of last night. As I chew a particularly large tablet in half, I continue to rationalize my worries away."
     "８時間の熟睡から目覚めてみると、昨夜の心配ごとがいったいなんだったのか、もう思い出せない。やたらと大きな錠剤を半分にかみ砕きながら、俺はあれこれ理屈付けをして不安な気持ちを打ち消し続ける。"
 
-# game/script-a2-shizune.rpy:3215
-translate jp a2_shizune_interface_76b2fe88:
+# game/script-a2-shizune.rpy:3216
+translate jp a2_shizune_interface_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -4978,8 +4978,8 @@ translate jp a2_shizune_interface_4b4c80d0:
     # n "Signing, too, is not my strong suit. Doing both at the same time like Misha can is still a distant dream."
     n "手話をするのだって得意とはいえない。ミーシャのように両方を同時にこなすのはまだまだ遠い夢だ。"
 
-# game/script-a2-shizune.rpy:3235
-translate jp a2_shizune_interface_76b2fe88_1:
+# game/script-a2-shizune.rpy:3236
+translate jp a2_shizune_interface_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -9070,8 +9070,8 @@ translate jp a2_shizune_when_stars_embrace_630676bd:
     # "It makes me think back to that day, the other festival that I went to with her. She had looked the same way then."
     "その姿が、前の学園祭を一緒に見て回ったときの日のことを思い起こさせる。その時も静音は同じように見えた。"
 
-# game/script-a2-shizune.rpy:5825
-translate jp a2_shizune_when_stars_embrace_76b2fe88:
+# game/script-a2-shizune.rpy:5827
+translate jp a2_shizune_when_stars_embrace_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -9118,8 +9118,8 @@ translate jp a2_shizune_when_stars_embrace_5b1b4af2:
     # n "I still think about it from time to time. I can't say that it's not a legitimate concern. Times like these are nice enough that I can forget, though."
     n "今でも時々そのことを考える。当然の懸念とは言えない。でもこういう素晴らしい瞬間には、そんな記憶も忘れられる。"
 
-# game/script-a2-shizune.rpy:5843
-translate jp a2_shizune_when_stars_embrace_76b2fe88_1:
+# game/script-a2-shizune.rpy:5845
+translate jp a2_shizune_when_stars_embrace_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -9286,8 +9286,8 @@ translate jp a2_shizune_when_stars_embrace_1cef7732:
     # "That's a simple reply. But as soon as I think that, Shizune takes a step forward and embraces me."
     "シンプルな答えだ。でもそう思った途端に、静音は歩み寄って俺を抱きしめてくる。"
 
-# game/script-a2-shizune.rpy:5934
-translate jp a2_shizune_when_stars_embrace_76b2fe88_2:
+# game/script-a2-shizune.rpy:5936
+translate jp a2_shizune_when_stars_embrace_d41d8cd9_2:
 
     # nvl clear
     nvl clear
