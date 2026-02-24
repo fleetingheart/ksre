@@ -12930,3 +12930,74 @@ translate ru strings:
     old "Yup."
     new "Ага."
 
+# game/script-a4-lilly.rpy:10
+translate ru a4_lilly_slow_steps_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:29
+translate ru a4_lilly_slow_steps_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:3046
+translate ru a4_lilly_blackout_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:3090
+translate ru a4_lilly_blackout_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:4839
+translate ru a4_lilly_a_faraway_future_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:4999
+translate ru a4_lilly_farewell_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:6279
+translate ru a4_lilly_false_cadence_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:6304
+translate ru a4_lilly_false_cadence_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:6460
+translate ru a4_lilly_false_cadence_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:6519
+translate ru a4_lilly_false_cadence_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:6993
+translate ru a4_lilly_under_a_maudlin_sky_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:7055
+translate ru a4_lilly_under_a_maudlin_sky_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear

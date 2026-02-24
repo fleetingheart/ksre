@@ -3466,7 +3466,7 @@ label a3_lilly:
 
         nvl clear
 
-        n "{vspace=120}It took a surprisingly short amount of time to get used to swallowing pills without water. That said, I suppose the same thing goes for getting used to living in a school for disabled students."
+        n "{vspace=120}It took a surprisingly short amount of time to get used to swallowing pills without water. That said, I suppose the same thing goes for getting used to living in a school for disabled students." id a3_lilly_gray_outlook_87d6877d
 
         n "Remembering Yamaku, I become all the more grateful for having the chance to get away, even if it's just for the shortest of times."
 

@@ -10186,3 +10186,17 @@ translate ru strings:
     old "AHHHHHHHHHHHHH!"
     new "А-А-А-А-А-А-А-А-А!"
 
+# TODO: Translation updated at 2026-02-23 04:24
+
+# game/script-a1-sunday.rpy:3026
+translate ru a1_sunday_movement_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a1-sunday.rpy:3046
+translate ru a1_sunday_movement_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+

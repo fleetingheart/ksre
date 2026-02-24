@@ -1518,7 +1518,7 @@ label a2_shizune:
 
         nvl clear
 
-        n "{vspace=60}Every chance she gets, Misha asks me why I want to hide the fact I'm learning sign language from Shizune."
+        n "{vspace=60}Every chance she gets, Misha asks me why I want to hide the fact I'm learning sign language from Shizune." id a2_shizune_advanced_game_theory_44a7ce24
 
         n "Looking back on it, there really wasn't any reason, but now I think I know."
 
@@ -2103,7 +2103,7 @@ label a2_shizune:
 
         nvl clear
 
-        n "{vspace=90}The game continues."
+        n "{vspace=90}The game continues." id a2_shizune_advanced_game_theory_bf105a5b
 
         n "Shizune plays twelve moves in four minutes. What a scary opponent."
 

@@ -708,7 +708,7 @@ label a4_rin:
 
         nvl clear
 
-        n "{vspace=30}I've always thought of her as unchanging, detached from her surroundings so that seeing my yelling get her so upset felt… out of place."
+        n "{vspace=30}I've always thought of her as unchanging, detached from her surroundings so that seeing my yelling get her so upset felt… out of place." id a4_rin_the_scene_18a0c250
 
         n "{vspace=30}I wonder if she understands how I feel?"
 
@@ -1542,7 +1542,7 @@ label a4_rin:
 
             nvl clear
 
-            n "{vspace=60}For the rest of the day, Rin, the hospital, Yamaku and vacation swirl through my head."
+            n "{vspace=60}For the rest of the day, Rin, the hospital, Yamaku and vacation swirl through my head." id a4_rin_wavelength_d46739d0
 
             n "{vspace=30}I can't concentrate even on concentrating."
 
@@ -2514,7 +2514,7 @@ label a4_rin:
 
             nvl clear
 
-            n "{vspace=90}You can't bend the world to fit your twisted, megalomaniac cosmology where everything works just like you want."
+            n "{vspace=90}You can't bend the world to fit your twisted, megalomaniac cosmology where everything works just like you want." id a4_rin_the_world_only_can_you_see_63cf5ae3
 
             n "{vspace=30}That's what frustrates me the most in Rin."
 
@@ -3500,7 +3500,7 @@ label a4_rin:
             nvl hide dissolve
             nvl clear
 
-            hi "Why is it that you paint?"
+            hi "Why is it that you paint?" id a4_rin_problems_of_self_referential_logic_28de4337
 
             show rin basic_awayabsent
             with persistent.charachange
@@ -3606,7 +3606,7 @@ label a4_rin:
             nvl hide dissolve
             nvl clear
 
-            hi "You know, about that thing you just said…"
+            hi "You know, about that thing you just said…" id a4_rin_problems_of_self_referential_logic_6dacf797
 
             show rin basic_absent
             with persistent.charachange
@@ -4264,7 +4264,7 @@ label a4_rin:
 
             nvl clear
 
-            n "{vspace=60}When did I fall in love with her?"
+            n "{vspace=60}When did I fall in love with her?" id a4_rin_raison_detre_d938d1c3
 
             n "I can't remember, but I'm certain it was way before the warm touch of her lips on my own, on that orange-colored afternoon when she was sick with cold and I went to see her because of unclear reasons."
 
@@ -4280,7 +4280,7 @@ label a4_rin:
 
             nvl clear
 
-            n "{vspace=60}Before I noticed it, that irresistible force had pulled me dangerously close to her, but it turned out to be way too alien for me."
+            n "{vspace=60}Before I noticed it, that irresistible force had pulled me dangerously close to her, but it turned out to be way too alien for me." id a4_rin_raison_detre_e5657d2b
 
             n "And I had forgotten Newton, of all things."
 
@@ -5317,7 +5317,7 @@ label a4_rin:
 
             nvl clear
 
-            n "{vspace=60}Rin is a creature of the moment, of whim and of impulse."
+            n "{vspace=60}Rin is a creature of the moment, of whim and of impulse." id a4_rin_wb_and_ws_4a6f1880
 
             n "{vspace=30}I am nothing of the sort."
 
@@ -5541,7 +5541,7 @@ label a4_rin:
 
             nvl clear
 
-            nb "'Present' is a fleeting and vague concept at best."
+            nb "'Present' is a fleeting and vague concept at best." id a4_rin_proof_of_existence_dae2c000
 
             nb "The moment between the past and the future?"
 
@@ -5557,7 +5557,7 @@ label a4_rin:
 
             nvl clear
 
-            centered_b "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}"
+            centered_b "That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}" id a4_rin_proof_of_existence_115223a8
 
             show alivetext _("That way… you can confirm that you are, in fact… {color=#fff}alive.{/color}")
             with None
@@ -6335,7 +6335,7 @@ label a4_rin:
             nvl hide dissolve
             nvl clear
 
-            "Looking at her standing on that rock, I believe that she can find whatever she is looking for."
+            "Looking at her standing on that rock, I believe that she can find whatever she is looking for." id a4_rin_proof_of_existence_04d21395
 
             "And so can I."
 

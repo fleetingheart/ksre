@@ -4385,7 +4385,7 @@ label a2_emi:
 
         nvl clear
 
-        "I focus on the view from the roof, banishing such thoughts from my head."
+        "I focus on the view from the roof, banishing such thoughts from my head." id a2_emi_piracy_on_the_high_seas_c56552b8
 
         "There's a light breeze blowing, and the sun is shining high in the sky."
 
@@ -5023,7 +5023,7 @@ label a2_emi:
 
         nvl clear
 
-        n "{vspace=120}She looked so guilty that I didn't want to say anything that might upset her, and I never could figure out the right words to say."
+        n "{vspace=120}She looked so guilty that I didn't want to say anything that might upset her, and I never could figure out the right words to say." id a2_emi_piracy_on_the_high_seas_b4ee1ed1
 
         n "I think Iwanako blamed herself for my heart attack. That's ridiculous, of course, but knowing it and believing it are two very different things."
 
@@ -7717,7 +7717,7 @@ label a2_emi:
 
         nvl clear
 
-        n "{vspace=180}This track captain of hers who seems so interested in her well-being."
+        n "{vspace=180}This track captain of hers who seems so interested in her well-being." id a2_emi_dropping_by_337ed761
 
         n "True, I've only seen the two of them together a few times, but that doesn't change the fact that they seem better suited to one another."
 
@@ -7782,7 +7782,7 @@ label a2_emi:
 
         nvl clear
 
-        n "{vspace=30}What will happen today?"
+        n "{vspace=30}What will happen today?" id a2_emi_the_first_morning_after_85c0a972
 
         n "Will things just go back to normal?"
 
@@ -7806,7 +7806,7 @@ label a2_emi:
 
         nvl clear
 
-        n "{vspace=120}It's not as if I've even seen the two of them together outside of track practice."
+        n "{vspace=120}It's not as if I've even seen the two of them together outside of track practice." id a2_emi_the_first_morning_after_76debfb8
 
         n "And clearly he's never visited. Emi said as much herself. If they were close, surely he'd visit."
 
@@ -7822,7 +7822,7 @@ label a2_emi:
 
         nvl clear
 
-        n "{vspace=180}But who would be able to clarify their relationship?"
+        n "{vspace=180}But who would be able to clarify their relationship?" id a2_emi_the_first_morning_after_ad5d1819
 
         n "It sure as hell can't be Emi. She'd probably just laugh and ask why I wanted to know… and I'm not ready to answer that yet."
 
@@ -7832,7 +7832,7 @@ label a2_emi:
 
         nvl clear
 
-        n "{vspace=150}Could I get away with asking the nurse? He seems pretty protective of Emi. I'm sure he'd know if something was up…"
+        n "{vspace=150}Could I get away with asking the nurse? He seems pretty protective of Emi. I'm sure he'd know if something was up…" id a2_emi_the_first_morning_after_d94c114c
 
         n "And he owes me for not letting Emi know he forgot to tell me about her being ill, so he'll keep quiet."
 

@@ -319,7 +319,7 @@ translate jp strings:
 
     # game/screens.rpy:273
     old "Disable expression transitions"
-    new ""
+    new "Disable expression transitions"
 
     # game/screens.rpy:361
     old "Brazilian Portuguese"
@@ -327,5 +327,5 @@ translate jp strings:
 
     # game/screens.rpy:1079
     old "Colorblind filter"
-    new ""
+    new "Colorblind filter"
 

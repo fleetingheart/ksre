@@ -5573,3 +5573,47 @@ translate pt_br strings:
     old "I've done enough work for the council already."
     new "Já fiz trabalhos o suficiente para o Conselho."
 
+# TODO: Translation updated at 2026-02-23 16:54
+
+# game/script-a2-hanako.rpy:395
+translate pt_br a2_hanako_to_town_to_town_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:2651
+translate pt_br a2_hanako_mad_hatter_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:2677
+translate pt_br a2_hanako_mad_hatter_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:2682
+translate pt_br a2_hanako_mad_hatter_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:2698
+translate pt_br a2_hanako_mad_hatter_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:3530
+translate pt_br a2_hanako_equivalent_exchange_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:3549
+translate pt_br a2_hanako_equivalent_exchange_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+

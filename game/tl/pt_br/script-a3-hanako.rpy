@@ -10294,3 +10294,17 @@ translate pt_br strings:
     old "How about we call it a day?"
     new "Que tal encerrarmos o dia?"
 
+# TODO: Translation updated at 2026-02-23 16:54
+
+# game/script-a3-hanako.rpy:2950
+translate pt_br a3_hanako_treading_softly_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-hanako.rpy:2969
+translate pt_br a3_hanako_treading_softly_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+

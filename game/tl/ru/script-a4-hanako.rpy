@@ -7484,3 +7484,9 @@ translate ru a4_hanako_whispered_touch_27005eb4:
     # "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
     "Следующая сцена будет пропущена на основании ваших настроек доступности. На следующем экране вы пропустите сцену и сюжет будет промотан до следующего утра. "
 
+
+# game/script-a4-hanako.rpy:3945
+translate ru a4_hanako_indeterminate_future_d41d8cd9:
+
+    # nvl clear
+    nvl clear

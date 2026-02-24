@@ -11396,3 +11396,29 @@ translate ru strings:
     old "Why is Misha absent? And what's the answer to question 3?"
     new "Почему её нет? И какой ответ на третий вопрос?"
 
+# TODO: Translation updated at 2026-02-23 04:24
+
+# game/script-a3-shizune.rpy:10
+translate ru a3_shizune_force_feedback_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-shizune.rpy:26
+translate ru a3_shizune_force_feedback_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-shizune.rpy:3917
+translate ru a3_shizune_roadmap_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-shizune.rpy:3931
+translate ru a3_shizune_roadmap_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+

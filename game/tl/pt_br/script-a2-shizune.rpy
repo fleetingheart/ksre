@@ -9385,3 +9385,107 @@ translate pt_br strings:
     old "I'll help you carry it.\n ___________________\n\nBut, it's a game! The first one to stumble loses, and the loser has to carry it the rest of the way by themselves."
     new "Eu te ajudarei a carregá-la.\n ___________________\n\nMas, é um jogo! O primeiro a tropeçar perde, e o perdedor tem que carregá-la pelo resto do caminho sozinho."
 
+# TODO: Translation updated at 2026-02-23 16:54
+
+# game/script-a2-shizune.rpy:12
+translate pt_br a2_shizune_message_passing_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:37
+translate pt_br a2_shizune_message_passing_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:217
+translate pt_br a2_shizune_message_passing_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:235
+translate pt_br a2_shizune_message_passing_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:259
+translate pt_br a2_shizune_message_passing_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:1482
+translate pt_br a2_shizune_advanced_game_theory_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:1503
+translate pt_br a2_shizune_advanced_game_theory_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:1537
+translate pt_br a2_shizune_advanced_game_theory_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:2084
+translate pt_br a2_shizune_advanced_game_theory_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:2124
+translate pt_br a2_shizune_advanced_game_theory_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:2448
+translate pt_br a2_shizune_bread_scissors_paper_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:2471
+translate pt_br a2_shizune_bread_scissors_paper_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:3216
+translate pt_br a2_shizune_interface_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:3236
+translate pt_br a2_shizune_interface_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:5827
+translate pt_br a2_shizune_when_stars_embrace_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:5845
+translate pt_br a2_shizune_when_stars_embrace_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-shizune.rpy:5936
+translate pt_br a2_shizune_when_stars_embrace_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+

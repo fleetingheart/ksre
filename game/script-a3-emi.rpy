@@ -5463,7 +5463,7 @@ label a3_emi:
 
         nvl clear
 
-        n "{vspace=60}She seems distracted more often, and I've caught her fidgeting nervously more than once."
+        n "{vspace=60}She seems distracted more often, and I've caught her fidgeting nervously more than once." id a3_emi_detached_7028754c
 
         n "Never figured her to be someone who cared that deeply about exams, but they certainly seem to be taking their toll."
 
@@ -5485,7 +5485,7 @@ label a3_emi:
 
         nvl clear
 
-        n "{vspace=180}Mutou thinks I've got the science examination locked up, at any rate."
+        n "{vspace=180}Mutou thinks I've got the science examination locked up, at any rate." id a3_emi_detached_52ac224e
 
         n "Or as he says, 'The last thing that should give you trouble is my exam, Hisao. It's way beneath your talents.'"
 
@@ -6604,7 +6604,7 @@ label a3_emi:
 
         nvl clear
 
-        n "{vspace=120}I've started to enjoy the running itself."
+        n "{vspace=120}I've started to enjoy the running itself." id a3_emi_debate_expresses_doubt_73ab70cf
 
         n "There are worse ways to get the blood flowing, anyway."
 
@@ -7093,7 +7093,7 @@ label a3_emi:
 
         nvl clear
 
-        n "{vspace=90}I shift nervously in my seat, and Emi raises an eyebrow questioningly."
+        n "{vspace=90}I shift nervously in my seat, and Emi raises an eyebrow questioningly." id a3_emi_guess_whos_coming_never_mind_0bf8ef19
 
         n "She doesn't seem to mind the stares; either that or she doesn't even notice that people are staring."
 
@@ -7124,7 +7124,7 @@ label a3_emi:
 
         nvl clear
 
-        n "{vspace=90}Meeting the parents is a big deal, right?"
+        n "{vspace=90}Meeting the parents is a big deal, right?" id a3_emi_guess_whos_coming_never_mind_c8284ac4
 
         n "Not that I haven't already met Emi's mother, but that was just as an acquaintance."
 

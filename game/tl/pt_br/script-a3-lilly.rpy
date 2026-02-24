@@ -7330,3 +7330,71 @@ translate pt_br strings:
     old "Talk about school."
     new "Falar sobre o colégio."
 
+# TODO: Translation updated at 2026-02-23 16:54
+
+# game/script-a3-lilly.rpy:690
+translate pt_br a3_lilly_minor_discord_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:704
+translate pt_br a3_lilly_minor_discord_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1092
+translate pt_br a3_lilly_a_world_away_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1109
+translate pt_br a3_lilly_a_world_away_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1223
+translate pt_br a3_lilly_a_world_away_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1232
+translate pt_br a3_lilly_a_world_away_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1390
+translate pt_br a3_lilly_renewal_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:1403
+translate pt_br a3_lilly_renewal_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:3479
+translate pt_br a3_lilly_gray_outlook_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:3744
+translate pt_br a3_lilly_rhapsody_in_blue_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-lilly.rpy:3763
+translate pt_br a3_lilly_rhapsody_in_blue_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+

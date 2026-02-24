@@ -5568,3 +5568,47 @@ translate ru strings:
     old "I've done enough work for the council already."
     new "Я уже достаточно сделал для Совета."
 
+# TODO: Translation updated at 2026-02-23 04:24
+
+# game/script-a2-hanako.rpy:395
+translate ru a2_hanako_to_town_to_town_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:2651
+translate ru a2_hanako_mad_hatter_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:2677
+translate ru a2_hanako_mad_hatter_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:2682
+translate ru a2_hanako_mad_hatter_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:2698
+translate ru a2_hanako_mad_hatter_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:3530
+translate ru a2_hanako_equivalent_exchange_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-hanako.rpy:3549
+translate ru a2_hanako_equivalent_exchange_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+

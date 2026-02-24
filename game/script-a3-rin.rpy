@@ -2055,7 +2055,7 @@ label a3_rin:
 
         nvl clear
 
-        n "{vspace=150}What does she think of me?"
+        n "{vspace=150}What does she think of me?" id a3_rin_the_edge_of_the_world_16a23802
 
         n "I have no idea. Last week, I thought she might have liked me romantically, what with the kiss and all."
 
@@ -2071,7 +2071,7 @@ label a3_rin:
 
         nvl clear
 
-        n "{vspace=240}Even if I said a thing like that, would it matter?"
+        n "{vspace=240}Even if I said a thing like that, would it matter?" id a3_rin_the_edge_of_the_world_a4a8dbbc
 
         n "Nothing affects Rin."
 
@@ -2393,7 +2393,7 @@ label a3_rin:
 
         nvl clear
 
-        n "{vspace=30}I still can't seem to find the right words to talk to her about anything at all, but I find quiet solace in observing her from nearby. The distance between us doesn't feel that huge when I can be close to her, even if it's like this."
+        n "{vspace=30}I still can't seem to find the right words to talk to her about anything at all, but I find quiet solace in observing her from nearby. The distance between us doesn't feel that huge when I can be close to her, even if it's like this." id a3_rin_fast_forward_7dcc4d87
 
         n "Rin works like a demon. There is barely a moment when she's without a brush between her toes, or not walking in circles around her current work in progress, estimating it from every angle and distance."
 
@@ -2407,7 +2407,7 @@ label a3_rin:
 
         nvl clear
 
-        n "{vspace=30}She knows exactly where everything is, from the tiniest brush to that half-empty tube of crimson that's the perfect shade for some picture in progress."
+        n "{vspace=30}She knows exactly where everything is, from the tiniest brush to that half-empty tube of crimson that's the perfect shade for some picture in progress." id a3_rin_fast_forward_c74ae309
 
         n "Rin walks from one painting to another, looking at them as if not remembering that she made them. She talks to herself - or to the paintings - even when I'm present, always just quietly enough that I can't make out the words."
 
@@ -2421,7 +2421,7 @@ label a3_rin:
 
         nvl clear
 
-        n "{vspace=30}She isn't quite as full of praise for Rin's work as Nomiya, but is visibly impressed nevertheless."
+        n "{vspace=30}She isn't quite as full of praise for Rin's work as Nomiya, but is visibly impressed nevertheless." id a3_rin_fast_forward_33c361ee
 
         n "However, when she turns her eyes from the wonderful works of art to look upon the little redheaded girl that made them, a sudden, deep sadness floats onto the surface of her expression."
 
@@ -3372,7 +3372,7 @@ label a3_rin:
 
         nvl clear
 
-        n "{vspace=90}I didn't feel like going home, so I stayed through the evening and eventually through the entire night."
+        n "{vspace=90}I didn't feel like going home, so I stayed through the evening and eventually through the entire night." id a3_rin_reverse_escapism_01048df7
 
         n "I walked long concentric circles around a landmark chosen at random."
 
@@ -4138,10 +4138,11 @@ label a3_rin:
 
         nvl clear
 
-        rinbabble "I had no idea what it really means to change but I know now you have no idea what I've had to do and all the things that pass through and I think I forget I really don't they just build up inside and grow and grow and grow until they flow out like a flow of everything that has ever been wrong I can't take it I can't think of the things I want because there's only so many things that I can think four six seven doesn't matter it's never enough I have to let this out I have to destroy forget it and nothing else—"
+        rinbabble "I had no idea what it really means to change but I know now you have no idea what I've had to do and all the things that pass through and I think I forget I really don't they just build up inside and grow and grow and grow until they flow out like a flow of everything that has ever been wrong I can't take it I can't think of the things I want because there's only so many things that I can think four six seven doesn't matter it's never enough I have to let this out I have to destroy forget it and nothing else—" id a3_rin_delirium_c231093c
+
         nvl clear
 
-        "Rin is mumbling her words into the air more than talking to me."
+        "Rin is mumbling her words into the air more than talking to me." id a3_rin_delirium_0404e12a
 
         "It is the rambling, ranting, raving speech of a lunatic, even and steady in tone, but taking the form of a never-ending stream of words almost simultaneously spawning from between her lips."
 

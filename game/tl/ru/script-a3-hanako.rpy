@@ -10230,3 +10230,15 @@ translate ru strings:
     old "How about we call it a day?"
     new "Тогда всё на сегодня?"
 
+# game/script-a3-hanako.rpy:2950
+translate ru a3_hanako_treading_softly_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-hanako.rpy:2969
+translate ru a3_hanako_treading_softly_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+

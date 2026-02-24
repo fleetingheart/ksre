@@ -3067,7 +3067,7 @@ label a4_lilly:
 
         nvl clear
 
-        n "{vspace=60}But such situations are also supposed to make you very capable in that language very fast, as you're forced to learn it in order to survive. Put another way, the situation becomes 'sink or swim.'"
+        n "{vspace=60}But such situations are also supposed to make you very capable in that language very fast, as you're forced to learn it in order to survive. Put another way, the situation becomes 'sink or swim.'" id a4_lilly_blackout_370c1d54
 
         n "{vspace=30}I wonder if I've really managed to swim, after all this time."
 
@@ -3079,7 +3079,7 @@ label a4_lilly:
 
         nvl clear
 
-        n "{vspace=60}It really is amazing how fast one comes to accept being surrounded by people with sometimes incredibly jarring disabilities and conditions."
+        n "{vspace=60}It really is amazing how fast one comes to accept being surrounded by people with sometimes incredibly jarring disabilities and conditions." id a4_lilly_blackout_f37e8c10
 
         n "So much so, that I really wonder why I feel so much like a foreigner."
 
@@ -4853,7 +4853,7 @@ label a4_lilly:
         nvl hide dissolve
         nvl clear
 
-        hi "We're just two children pretending to be adults, aren't we?"
+        hi "We're just two children pretending to be adults, aren't we?" id a4_lilly_a_faraway_future_60f4104e
 
         show lilly basic_sad_cas_close
         with persistent.charachange
@@ -5011,7 +5011,7 @@ label a4_lilly:
 
         nvl clear
 
-        n "{vspace=60}Meanwhile, Akira and Lilly will be en route to Scotland, to live out the rest of their lives there."
+        n "{vspace=60}Meanwhile, Akira and Lilly will be en route to Scotland, to live out the rest of their lives there." id a4_lilly_farewell_3e00f6ea
 
         n "No matter how hard I try to rationalize the idea that once the summer holidays begin, my life will return to the way it was, it simply refuses to happen."
 
@@ -5026,7 +5026,7 @@ label a4_lilly:
         nvl hide dissolve
         nvl clear
 
-        mi "Hicchan~!"
+        mi "Hicchan~!" id a4_lilly_farewell_7fc69830
 
         "I quickly stop my ruminating and turn to face the bubbly voice beside me, putting on the most upbeat expression I can muster."
 
@@ -6291,7 +6291,7 @@ label a4_lilly:
 
         nvl clear
 
-        n "{vspace=90}Since coming to Yamaku though, it feels like I've fundamentally changed as a person. The phone call with my parents erased any traces of doubt I might have held on that, in any case."
+        n "{vspace=90}Since coming to Yamaku though, it feels like I've fundamentally changed as a person. The phone call with my parents erased any traces of doubt I might have held on that, in any case." id a4_lilly_false_cadence_396ba483
 
         n "While before I had exercised a fairly normal level of independence for a teenager, that being not a whole lot, my parents were more than pleased to hear of my newfound ability in taking care of myself."
 
@@ -6472,7 +6472,7 @@ label a4_lilly:
 
         nvl clear
 
-        n "{vspace=60}But then I began to treasure our moments together more and more, from our quiet walks to our talking over lunch. The good sides of her personality became ever more obvious, and ever more likable."
+        n "{vspace=60}But then I began to treasure our moments together more and more, from our quiet walks to our talking over lunch. The good sides of her personality became ever more obvious, and ever more likable." id a4_lilly_false_cadence_00a18f1c
 
         n "The absence caused by Lilly's trip to Scotland to visit her long-distant family and sick aunt only made me realize how much I liked just being around her, and I had thought that she felt a similar way."
 
@@ -6484,7 +6484,7 @@ label a4_lilly:
 
         nvl clear
 
-        n "{vspace=60}I had thought her sense of independence to be a good and admirable trait. It was in stark difference to my reliance on my parents before my heart attack, as reluctant as I may have been to admit it."
+        n "{vspace=60}I had thought her sense of independence to be a good and admirable trait. It was in stark difference to my reliance on my parents before my heart attack, as reluctant as I may have been to admit it." id a4_lilly_false_cadence_e32e3836
 
         n "However, it also meant that she never let people get too close to her."
 
@@ -6500,7 +6500,7 @@ label a4_lilly:
 
         nvl clear
 
-        n "{vspace=60}I never questioned it. I never tried to be there or asked when she needed me to."
+        n "{vspace=60}I never questioned it. I never tried to be there or asked when she needed me to." id a4_lilly_false_cadence_830c8bdf
 
         n "I just set my life up and expected it to stay that way forever, with the two of us having a nice long relationship where we pushed forwards towards our future together."
 
@@ -7011,7 +7011,7 @@ label a4_lilly:
 
         nvl clear
 
-        n "{vspace=30}'It was a miracle that you were able to go on so long without anything happening,' they said."
+        n "{vspace=30}'It was a miracle that you were able to go on so long without anything happening,' they said." id a4_lilly_under_a_maudlin_sky_e288a988
 
         n "And then, it did. My condition had taken away everything; my old school was of no importance any more. My home was reduced to a faraway place. Both my friends and my first love simply stopped visiting after a length of time."
 
@@ -7025,7 +7025,7 @@ label a4_lilly:
 
         nvl clear
 
-        n "{vspace=60}People in the streets would sometimes glance awkwardly, or quickly turn their heads as they realized they were staring. Even if my condition wasn't visible, my uniform was."
+        n "{vspace=60}People in the streets would sometimes glance awkwardly, or quickly turn their heads as they realized they were staring. Even if my condition wasn't visible, my uniform was." id a4_lilly_under_a_maudlin_sky_3a0a54af
 
         n "Even if it weren't, I was still different. I took seventeen pills a day, morning, midday and night. My scar, though hidden behind clothing, was still a permanent mark of my condition. And most of all, there was the very real possibility of death."
 
@@ -7039,7 +7039,7 @@ label a4_lilly:
 
         nvl clear
 
-        n "{vspace=30}It's only now that I realize just how delicate my newfound sense of happiness was. Everything depended on her, the linchpin of my life since I first entered Yamaku as a sullen, confused and aimless transfer student."
+        n "{vspace=30}It's only now that I realize just how delicate my newfound sense of happiness was. Everything depended on her, the linchpin of my life since I first entered Yamaku as a sullen, confused and aimless transfer student." id a4_lilly_under_a_maudlin_sky_7bb73334
 
         n "Lilly Satou was the one person I could depend upon above all others, and who reciprocated the love that I felt for her. But I failed her, and only realized it all too late."
 

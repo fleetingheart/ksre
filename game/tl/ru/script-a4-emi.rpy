@@ -2634,3 +2634,17 @@ translate ru a4_emi_clean_teeth_84eaf109:
     # emi "What do you want to do today?"
     emi "Чем займёмся сегодня?"
 
+# TODO: Translation updated at 2026-02-23 04:24
+
+# game/script-a4-emi.rpy:213
+translate ru a4_emi_a_swing_and_a_miss_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-emi.rpy:233
+translate ru a4_emi_a_swing_and_a_miss_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+

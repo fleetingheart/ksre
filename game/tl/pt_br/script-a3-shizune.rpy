@@ -11409,3 +11409,29 @@ translate pt_br strings:
     old "Refuse."
     new "Recusar."
 
+# TODO: Translation updated at 2026-02-23 16:54
+
+# game/script-a3-shizune.rpy:10
+translate pt_br a3_shizune_force_feedback_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-shizune.rpy:26
+translate pt_br a3_shizune_force_feedback_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-shizune.rpy:3917
+translate pt_br a3_shizune_roadmap_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-shizune.rpy:3931
+translate pt_br a3_shizune_roadmap_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
