@@ -2646,12 +2646,6 @@ translate it a2_rin_hisaos_smile_811c5f41:
     # rin "Hello."
     rin "Ciao."
 
-# game/script-a2-rin.rpy:1783
-translate it a2_rin_hisaos_smile_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:1788
 translate it a2_rin_hisaos_smile_7dca636a:
 
@@ -2713,12 +2707,6 @@ translate it a2_rin_hisaos_smile_33809380:
 
     # n "{vspace=60}However, this sense of a budding friendship is completely wrecked every time Rin opens her mouth."
     n "\n\nEppure, questa sensazione di amicizia nascente si sfascia completamente ogniqualvolta Rin apre bocca."
-
-# game/script-a2-rin.rpy:1811
-translate it a2_rin_hisaos_smile_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:1819
 translate it a2_rin_hisaos_smile_06d21fa2:
@@ -2918,12 +2906,6 @@ translate it a2_rin_hisaos_smile_7de8baa1:
     # "A group of boys walk past us to Rin's classroom, but she doesn't pay them any mind. They pay none to her, either. My mind wanders off, spurred by the silence."
     "Un gruppo di ragazzi ci supera ed entra nell' aula di Rin, ma lei non gli bada minimamente. Lo stesso fanno loro. La mia mente vaga, stimolata dal silenzio."
 
-# game/script-a2-rin.rpy:1929
-translate it a2_rin_hisaos_smile_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:1935
 translate it a2_rin_hisaos_smile_2e79ac04:
 
@@ -2954,12 +2936,6 @@ translate it a2_rin_hisaos_smile_f6d0c724:
     # n "{vspace=60}I can't decide which one of us is worse off."
     n "\n\nNon riesco a stabilire chi tra noi sia messo peggio."
 
-# game/script-a2-rin.rpy:1946
-translate it a2_rin_hisaos_smile_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:1953
 translate it a2_rin_hisaos_smile_920047c4:
 
@@ -2989,12 +2965,6 @@ translate it a2_rin_hisaos_smile_f975fe21:
 
     # n "{vspace=30}When I finally ask Rin on Thursday about something that's been bothering me for the entire week, it's already lunch time."
     n "\nQuando alla fine giovedì chiedo a Rin il suo parere su qualcosa che mi ha preoccupato per tutta la settimana, è già ora di pranzo."
-
-# game/script-a2-rin.rpy:1970
-translate it a2_rin_hisaos_smile_76b2fe88_4:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:1977
 translate it a2_rin_hisaos_smile_ab0a3a09:
@@ -3050,12 +3020,6 @@ translate it a2_rin_hisaos_smile_a12b9df8:
     # "Her striking observation gives me pause."
     "La sua osservazione impressionante mi fa pensare."
 
-# game/script-a2-rin.rpy:2019
-translate it a2_rin_hisaos_smile_76b2fe88_5:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:2022
 translate it a2_rin_hisaos_smile_c072d50f:
 
@@ -3097,12 +3061,6 @@ translate it a2_rin_hisaos_smile_b9ec8dd7:
 
     # n "{vspace=30}Have I really stopped smiling?"
     n "\nHo davvero smesso di sorridere?"
-
-# game/script-a2-rin.rpy:2037
-translate it a2_rin_hisaos_smile_76b2fe88_6:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:2041
 translate it a2_rin_hisaos_smile_e1f8a5e6:
@@ -4255,12 +4213,6 @@ translate it a2_rin_target_audience_cd465943:
 
     # "While waiting for the relay to start, I peer at Rin. She seems uninterested in her surroundings, myself included."
     "Mentre aspetto la partenza della staffetta, osservo Rin. Sembra priva di interesse verso ciò che la circonda, incluso me."
-
-# game/script-a2-rin.rpy:2852
-translate it a2_rin_target_audience_76b2fe88:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:2855
 translate it a2_rin_target_audience_55d72c45:
@@ -5926,12 +5878,6 @@ translate it a2_rin_underwater_and_maple_ae426c4d:
     # "I become very self-conscious about Rin's presence."
     "Improvvisamente la presenza di Rin mi mette molto a disagio."
 
-# game/script-a2-rin.rpy:3934
-translate it a2_rin_underwater_and_maple_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:3939
 translate it a2_rin_underwater_and_maple_83a6b97f:
 
@@ -5999,12 +5945,6 @@ translate it a2_rin_underwater_and_maple_c9c42da6:
 
     # n "The realization suddenly dawns on me that Rin is basically the only person I talk to nowadays, apart from whatever I have to endure from Shizune, Misha or Kenji. I feel slightly depressed."
     n "Di colpo mi rendo conto che Rin è praticamente l' unica persona con cui parli, ormai, escludendo ciò che devo sopportare da parte di Shizune, Misha o Kenji. Mi sento un po' depresso."
-
-# game/script-a2-rin.rpy:3963
-translate it a2_rin_underwater_and_maple_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:3973
 translate it a2_rin_underwater_and_maple_5d0f5756:
@@ -6324,12 +6264,6 @@ translate it a2_rin_iwanakos_regret_799ef6f3:
     # "I have no idea why she would write to me. I haven't been in contact with anyone from my old school since I transferred, and Iwanako is the last person I'd expect to want to write me a letter."
     "Non ho idea del perché mi avrebbe dovuto scrivere. Non ho avuto contatti con nessuno della mia vecchia scuola da quando mi sono trasferito, e Iwanako è l' ultima persona da cui mi aspetterei una lettera."
 
-# game/script-a2-rin.rpy:4210
-translate it a2_rin_iwanakos_regret_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:4216
 translate it a2_rin_iwanakos_regret_2101c589:
 
@@ -6386,12 +6320,6 @@ translate it a2_rin_iwanakos_regret_c8fc7c4a:
     # n "So I never managed to say the things I wanted to say. In the end, that might've hurt her even more."
     n "Per cui non riuscii mai a dire le cose che volevo dire. Alla fine, forse questo le ha fatto ancor più male."
 
-# game/script-a2-rin.rpy:4239
-translate it a2_rin_iwanakos_regret_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:4244
 translate it a2_rin_iwanakos_regret_ad45b62a:
 
@@ -6409,12 +6337,6 @@ translate it a2_rin_iwanakos_regret_1b84d0c2:
 
     # "I don't know what to think of this. I feel empty and confused."
     "Non so che pensare di questo. Mi sento vuoto e confuso."
-
-# game/script-a2-rin.rpy:4273
-translate it a2_rin_iwanakos_regret_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:4276
 translate it a2_rin_iwanakos_regret_f6d02331:
@@ -6452,12 +6374,6 @@ translate it a2_rin_iwanakos_regret_0eb29a35:
     # n "{vspace=30}Of course, she is right. I thought of the same thing yesterday. I had fallen into a pit of depression and now have to try to climb out."
     n "\nOvviamente, ha ragione. Avevo pensato la stessa cosa ieri. Ero caduto in un abisso di depressione e ora devo cercare di uscirne."
 
-# game/script-a2-rin.rpy:4291
-translate it a2_rin_iwanakos_regret_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:4296
 translate it a2_rin_iwanakos_regret_b0768104:
 
@@ -6493,12 +6409,6 @@ translate it a2_rin_iwanakos_regret_52d337ba:
 
     # "I think about all the things I've lost and will never regain."
     "Penso a tutte le cose che ho perso e che non riavrò mai."
-
-# game/script-a2-rin.rpy:4326
-translate it a2_rin_in_her_own_image_76b2fe88:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:4329
 translate it a2_rin_in_her_own_image_227ca630:
@@ -6630,12 +6540,6 @@ translate it a2_rin_in_her_own_image_da468326:
     # n "Somewhere, the school bells ring the last call of the day."
     n "Da qualche parte, suonano gli ultimi rintocchi del giorno."
 
-# game/script-a2-rin.rpy:4380
-translate it a2_rin_in_her_own_image_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:4385
 translate it a2_rin_in_her_own_image_e28d4011:
 
@@ -6678,12 +6582,6 @@ translate it a2_rin_in_her_own_image_1dbd175a:
     # "It occurs to me that I am literally watching paint dry. And yet somehow I'm not feeling bored, despite spacing out just now."
     "Mi rendo conto che sto letteralmente fissando la vernice che si asciuga. Eppure per qualche motivo non mi sto annoiando, nonostante proprio adesso la mia mente abbia vagato."
 
-# game/script-a2-rin.rpy:4414
-translate it a2_rin_in_her_own_image_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:4417
 translate it a2_rin_in_her_own_image_17f9fe6f:
 
@@ -6719,12 +6617,6 @@ translate it a2_rin_in_her_own_image_420b6a97:
 
     # n "{vspace=30}Unsatisfied maybe, but I've got only myself to blame for that."
     n "\nInsoddisfatto forse, ma di questo posso prendermela solo con me."
-
-# game/script-a2-rin.rpy:4432
-translate it a2_rin_in_her_own_image_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:4437
 translate it a2_rin_in_her_own_image_35fd7417:
@@ -9306,12 +9198,6 @@ translate it a2_rin_six_meters_closer_4c2f4395:
     # "I have no answer, so a brief silence falls between us for a moment. I shift my gaze back to the sky above us."
     "Non ho una risposta, per cui un breve silenzio si posa tra noi per un attimo. Riporto il mio sguardo al cielo sopra di noi."
 
-# game/script-a2-rin.rpy:6270
-translate it a2_rin_six_meters_closer_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:6273
 translate it a2_rin_six_meters_closer_9c58aac5:
 
@@ -9341,12 +9227,6 @@ translate it a2_rin_six_meters_closer_c3f30b3b:
 
     # n "I wish I could forget everything up until now and that time would stop completely. There would be only me, Rin, and the sky, an eternal lunch break on this rooftop. Perfect, unchanging, and forever."
     n "Vorrei poter dimenticare tutto fino ad oggi e che il tempo si fermasse completamente. Ci saremmo solo io, Rin, e il cielo, un' eterna pausa pranzo su questo terrazzo. Perfetta, immutabile, ed eterna."
-
-# game/script-a2-rin.rpy:6285
-translate it a2_rin_six_meters_closer_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:6288
 translate it a2_rin_six_meters_closer_a5e3b947:
@@ -10782,12 +10662,6 @@ translate it a2_rin_dandelions_bad2a4a7:
     # "Today I'm especially distracted, as I keep thinking about Rin."
     "Oggi sono particolarmente distratto, dato che continuo a pensare a Rin."
 
-# game/script-a2-rin.rpy:7218
-translate it a2_rin_dandelions_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-rin.rpy:7221
 translate it a2_rin_dandelions_a7ad55fe:
 
@@ -10805,12 +10679,6 @@ translate it a2_rin_dandelions_2d385375:
 
     # n "{vspace=150}I think about Rin more and more nowadays. I wonder if she thinks about me."
     n "\n\n\nPenso sempre più a Rin in questi giorni. Mi chiedo se lei pensi a me."
-
-# game/script-a2-rin.rpy:7229
-translate it a2_rin_dandelions_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-rin.rpy:7232
 translate it a2_rin_dandelions_1214d37b:
@@ -12015,4 +11883,138 @@ translate it strings:
     # game/script-a2-rin.rpy:7554
     old "What about Emi?"
     new "Neanche Emi?"
+
+# TODO: Translation updated at 2026-02-24 23:28
+
+# game/script-a2-rin.rpy:1783
+translate it a2_rin_hisaos_smile_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:1811
+translate it a2_rin_hisaos_smile_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:1929
+translate it a2_rin_hisaos_smile_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:1946
+translate it a2_rin_hisaos_smile_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:1970
+translate it a2_rin_hisaos_smile_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:2019
+translate it a2_rin_hisaos_smile_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:2037
+translate it a2_rin_hisaos_smile_d41d8cd9_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:2852
+translate it a2_rin_target_audience_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:3934
+translate it a2_rin_underwater_and_maple_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:3963
+translate it a2_rin_underwater_and_maple_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4210
+translate it a2_rin_iwanakos_regret_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4239
+translate it a2_rin_iwanakos_regret_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4273
+translate it a2_rin_iwanakos_regret_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4291
+translate it a2_rin_iwanakos_regret_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4326
+translate it a2_rin_in_her_own_image_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4380
+translate it a2_rin_in_her_own_image_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4414
+translate it a2_rin_in_her_own_image_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:4432
+translate it a2_rin_in_her_own_image_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:6270
+translate it a2_rin_six_meters_closer_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:6285
+translate it a2_rin_six_meters_closer_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:7218
+translate it a2_rin_dandelions_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-rin.rpy:7229
+translate it a2_rin_dandelions_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 

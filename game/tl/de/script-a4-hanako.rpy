@@ -5748,6 +5748,14 @@ translate de a4_hanako_whispered_touch_bb1befee:
     # hi "I've already seen the real you, though. You didn't need to take off your clothes for that."
     hi "Aber ich habe dein wahres Ich doch schon gesehen. Dafür musstest du dich nicht ausziehen."
 
+# game/script-a4-hanako.rpy:3420
+translate de a4_hanako_whispered_touch_27005eb4:
+
+    # "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
+    "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
+
+# TODO: Translation updated at 2026-02-24 12:31
+
 # game/script-a4-hanako.rpy:3423
 translate de a4_hanako_whispered_touch_168faa6e:
 
@@ -6594,8 +6602,8 @@ translate de a4_hanako_indeterminate_future_467bce13:
     # "I pick myself up, books and pens in hand, and place them inside Hanako's desk. With the classroom now empty, I end up just leaning against her desk and thinking to myself in silence."
     "Ich erhebe mich – mit den Büchern und Stiften in meiner Hand – und lege sie unter Hanakos Tisch. Da das Klassenzimmer nun leer ist, lehne ich mich schließlich nur gegen ihren Schreibtisch und denke still nach."
 
-# game/script-a4-hanako.rpy:3924
-translate de a4_hanako_indeterminate_future_76b2fe88:
+# game/script-a4-hanako.rpy:3945
+translate de a4_hanako_indeterminate_future_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -7475,12 +7483,3 @@ translate de strings:
     # game/script-a4-hanako.rpy:837
     old "Trust my own judgment."
     new "Dem eigenen Urteil vertrauen."
-
-# TODO: Translation updated at 2024-12-18 04:28
-
-# game/script-a4-hanako.rpy:3420
-translate de a4_hanako_whispered_touch_27005eb4:
-
-    # "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
-    "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
-

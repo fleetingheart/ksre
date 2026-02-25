@@ -4560,12 +4560,6 @@ translate fr a3_hanako_treading_softly_965e284e:
     # "I lay on my bed, trying to collect my thoughts."
     "Je suis allongé sur mon lit, réfléchissant."
 
-# game/script-a3-hanako.rpy:2938
-translate fr a3_hanako_treading_softly_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-hanako.rpy:2941
 translate fr a3_hanako_treading_softly_9e7958ed:
 
@@ -4601,12 +4595,6 @@ translate fr a3_hanako_treading_softly_df795a60:
 
     # n "{vspace=60}Just what have I been doing, for all this time I've been with her and Lilly?"
     n "{vspace=60}Mais qu'est-ce que j'ai fait, pendant tout ce temps que j'ai passé avec elle et Lilly?"
-
-# game/script-a3-hanako.rpy:2957
-translate fr a3_hanako_treading_softly_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-hanako.rpy:2960
 translate fr a3_hanako_treading_softly_c13e84e0:
@@ -10225,4 +10213,18 @@ translate fr strings:
     # game/script-a3-hanako.rpy:6264
     old "How about we call it a day?"
     new "Et si on rentrait aux dortoirs?"
+
+# TODO: Translation updated at 2026-02-24 23:23
+
+# game/script-a3-hanako.rpy:2950
+translate fr a3_hanako_treading_softly_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-hanako.rpy:2969
+translate fr a3_hanako_treading_softly_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 

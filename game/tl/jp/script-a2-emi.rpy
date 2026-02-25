@@ -4369,7 +4369,7 @@ translate jp a2_emi_track_meeting_2ab2d277:
     "かくしてその直後、俺はうちの陸上部と他校のチームとの試合を見に来ている大勢の人に囲まれている。"
 
 # game/script-a2-emi.rpy:2760
-translate jp a2_emi_track_meeting_76b2fe88:
+translate jp a2_emi_track_meeting_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -4435,7 +4435,7 @@ translate jp a2_emi_track_meeting_b3a290a2:
     n "『まあ、少なくとも俺は大学卒業までは生き延びられそうだ』と言えてしまうのもなんだか苦々しい慰めだけれど、そういうことだ。"
 
 # game/script-a2-emi.rpy:2787
-translate jp a2_emi_track_meeting_76b2fe88_1:
+translate jp a2_emi_track_meeting_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -6889,7 +6889,7 @@ translate jp a2_emi_down_that_medicine_now_19b1712b:
     "ほんとに、シャワーでも浴びなきゃな。"
 
 # game/script-a2-emi.rpy:4355
-translate jp a2_emi_piracy_on_the_high_seas_76b2fe88:
+translate jp a2_emi_piracy_on_the_high_seas_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -8001,7 +8001,7 @@ translate jp a2_emi_piracy_on_the_high_seas_799ef6f3:
     "どうして岩魚子が俺に手紙を書いたのかまったくわからない。転校してきてから前の学校にいた連中とは誰とも連絡はとっていないし、岩魚子はいちばん俺に手紙を寄越しそうにない人間だ。"
 
 # game/script-a2-emi.rpy:5011
-translate jp a2_emi_piracy_on_the_high_seas_76b2fe88_1:
+translate jp a2_emi_piracy_on_the_high_seas_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -8069,7 +8069,7 @@ translate jp a2_emi_piracy_on_the_high_seas_c8fc7c4a:
     n "だから俺は、言いたいと思っていたことを一つも言うことができなかった。結局、それがなおさら岩魚子を傷つけていたのかもしれない。"
 
 # game/script-a2-emi.rpy:5039
-translate jp a2_emi_piracy_on_the_high_seas_76b2fe88_2:
+translate jp a2_emi_piracy_on_the_high_seas_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -10325,7 +10325,7 @@ translate jp a2_emi_tracking_absences_955bea6f:
     "走っていればそのことはしばらく忘れていられたけど、今は走り終えて心配に逆戻りだ。"
 
 # game/script-a2-emi.rpy:6511
-translate jp a2_emi_tracking_absences_76b2fe88:
+translate jp a2_emi_tracking_absences_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -10391,7 +10391,7 @@ translate jp a2_emi_tracking_absences_c96bc927:
     n "ナースに会いに行ったら聞いてみよう。"
 
 # game/script-a2-emi.rpy:6538
-translate jp a2_emi_tracking_absences_76b2fe88_1:
+translate jp a2_emi_tracking_absences_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -12461,7 +12461,7 @@ translate jp a2_emi_dropping_by_f44a8fc1:
     "引き返して廊下を戻って、ドアを開けて、笑美に……"
 
 # game/script-a2-emi.rpy:7694
-translate jp a2_emi_dropping_by_76b2fe88:
+translate jp a2_emi_dropping_by_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -12553,7 +12553,7 @@ translate jp a2_emi_dropping_by_d7596770:
     n "どうにかしてこの状況から気をそらさないといけない。"
 
 # game/script-a2-emi.rpy:7730
-translate jp a2_emi_dropping_by_76b2fe88_1:
+translate jp a2_emi_dropping_by_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -12801,7 +12801,7 @@ translate jp a2_emi_the_first_morning_after_7098156e:
     n "走った後で、笑美が医務室の外で待っている間に話そう。"
 
 # game/script-a2-emi.rpy:7851
-translate jp a2_emi_the_first_morning_after_76b2fe88:
+translate jp a2_emi_the_first_morning_after_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -12849,7 +12849,7 @@ translate jp a2_emi_the_first_morning_after_fab85d57:
     n "もし……"
 
 # game/script-a2-emi.rpy:7877
-translate jp a2_emi_the_first_morning_after_76b2fe88_1:
+translate jp a2_emi_the_first_morning_after_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -14055,7 +14055,7 @@ translate jp a2_emi_the_real_beginning_5571e34b:
     hi "この先も陸上の試合とかってあるのか？"
 
 # game/script-a2-emi.rpy:8566
-translate jp a2_emi_the_real_beginning_76b2fe88:
+translate jp a2_emi_the_real_beginning_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -14079,7 +14079,7 @@ translate jp a2_emi_the_real_beginning_118492ef:
     n "まあ、うまい具合に言葉を探せればの話だけど。"
 
 # game/script-a2-emi.rpy:8576
-translate jp a2_emi_the_real_beginning_76b2fe88_1:
+translate jp a2_emi_the_real_beginning_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -14619,7 +14619,7 @@ translate jp a2_emi_the_real_beginning_47dac5af:
     "なんておかしな心配だろう。"
 
 # game/script-a2-emi.rpy:8869
-translate jp a2_emi_the_real_beginning_76b2fe88_2:
+translate jp a2_emi_the_real_beginning_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -14673,7 +14673,7 @@ translate jp a2_emi_the_real_beginning_fd6b90bf:
     n "笑美の香りを吸い込んで、俺の意識は笑美の味も、匂いも、感触も、そのすべてを記憶しようと必死になる。"
 
 # game/script-a2-emi.rpy:8891
-translate jp a2_emi_the_real_beginning_76b2fe88_3:
+translate jp a2_emi_the_real_beginning_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -14953,4 +14953,3 @@ translate jp strings:
     # game/script-a2-emi.rpy:6156
     old "Keep quiet."
     new "黙っておく"
-

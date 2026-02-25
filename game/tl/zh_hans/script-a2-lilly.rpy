@@ -6438,12 +6438,6 @@ translate zh_hans a2_lilly_a_brief_history_of_thyme_b620de73:
     # "I'd barely given the letter a second thought when it was given to me, but now I can't get its contents out of my mind."
     "我刚拿到这封信的时候我都没怎么去想它，但现在这封信的内容在我的脑海里已经挥之不去了。"
 
-# game/script-a2-lilly.rpy:4399
-translate zh_hans a2_lilly_a_brief_history_of_thyme_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-lilly.rpy:4402
 translate zh_hans a2_lilly_a_brief_history_of_thyme_511e7377:
 
@@ -6467,12 +6461,6 @@ translate zh_hans a2_lilly_a_brief_history_of_thyme_76ba8aef:
 
     # n "The ending, though, is the true reason she sent this. The last couple of lines, added almost as an afterthought."
     n "然而她寄这封信的真正原因，在信的结尾。在最后的寥寥几行，几乎像是事后想到才加上去的。"
-
-# game/script-a2-lilly.rpy:4410
-translate zh_hans a2_lilly_a_brief_history_of_thyme_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-lilly.rpy:4420
 translate zh_hans a2_lilly_a_brief_history_of_thyme_58f09731:
@@ -6505,12 +6493,6 @@ translate zh_hans a2_lilly_a_brief_history_of_thyme_236438f2:
 
     # n "It's plainly obvious that this is not the type of letter to be replied to. In the end, this letter is no more than a simple abdication of responsibility; a final statement to reassure herself that our relationship is over."
     n "非常明显，这不是一封能回复的信。说到底，这封信是一封放弃责任的声明，是她让自己再次确定我们之前的关系已经结束的道具。"
-
-# game/script-a2-lilly.rpy:4435
-translate zh_hans a2_lilly_a_brief_history_of_thyme_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-lilly.rpy:4440
 translate zh_hans a2_lilly_a_brief_history_of_thyme_87109222:
@@ -6559,12 +6541,6 @@ translate zh_hans a2_lilly_little_wing_53617801:
 
     # n "{vspace=60}Death in the form of a single sheet of paper."
     n "{vspace=60}那附身于一张纸上的死亡。"
-
-# game/script-a2-lilly.rpy:4474
-translate zh_hans a2_lilly_little_wing_76b2fe88:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-lilly.rpy:4480
 translate zh_hans a2_lilly_little_wing_c80a94cd:
@@ -8685,4 +8661,30 @@ translate zh_hans strings:
     # game/script-a2-lilly.rpy:5001
     old "Thirty-two!"
     new "三十二分！"
+
+# TODO: Translation updated at 2026-02-25 00:03
+
+# game/script-a2-lilly.rpy:4404
+translate zh_hans a2_lilly_a_brief_history_of_thyme_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-lilly.rpy:4415
+translate zh_hans a2_lilly_a_brief_history_of_thyme_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-lilly.rpy:4440
+translate zh_hans a2_lilly_a_brief_history_of_thyme_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-lilly.rpy:4479
+translate zh_hans a2_lilly_little_wing_d41d8cd9:
+
+    # nvl clear
+    nvl clear
 

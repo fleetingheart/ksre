@@ -312,3 +312,19 @@ translate de strings:
     old "Colorblind filter"
     new "Farbenblind-Filter"
 
+# TODO: Translation updated at 2026-02-24 12:31
+
+translate de strings:
+
+    # game/screens.rpy:1068
+    old "Current voice: "
+    new "Current voice: "
+
+    # game/screens.rpy:1085
+    old "Opacity"
+    new "Opacity"
+
+    # game/screens.rpy:1092
+    old "Text size"
+    new "Text size"
+

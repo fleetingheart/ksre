@@ -6438,8 +6438,8 @@ translate de a2_lilly_a_brief_history_of_thyme_b620de73:
     # "I'd barely given the letter a second thought when it was given to me, but now I can't get its contents out of my mind."
     "Als man mir den Brief gegeben hat, habe ich kaum darüber nachgedacht, aber jetzt kann ich seinen Inhalt nicht aus dem Kopf kriegen."
 
-# game/script-a2-lilly.rpy:4399
-translate de a2_lilly_a_brief_history_of_thyme_76b2fe88:
+# game/script-a2-lilly.rpy:4404
+translate de a2_lilly_a_brief_history_of_thyme_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6468,8 +6468,8 @@ translate de a2_lilly_a_brief_history_of_thyme_76ba8aef:
     # n "The ending, though, is the true reason she sent this. The last couple of lines, added almost as an afterthought."
     n "Aber das Ende ist der wahre Grund, warum sie dies geschickt hat. Genauer gesagt die letzten paar Zeilen, die fast ein nachträglicher Einfall zu sein scheinen."
 
-# game/script-a2-lilly.rpy:4410
-translate de a2_lilly_a_brief_history_of_thyme_76b2fe88_1:
+# game/script-a2-lilly.rpy:4415
+translate de a2_lilly_a_brief_history_of_thyme_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -6506,8 +6506,8 @@ translate de a2_lilly_a_brief_history_of_thyme_236438f2:
     # n "It's plainly obvious that this is not the type of letter to be replied to. In the end, this letter is no more than a simple abdication of responsibility; a final statement to reassure herself that our relationship is over."
     n "Es ist nur zu offensichtlich, dass man auf diese Art von Brief nicht antworten soll. Letzten Endes ist dieser Brief nicht mehr als ein einfaches Abstreifen der Verantwortung; eine letzte, selbstberuhigende Aussage, mit der sie sich klarmacht, dass unsere Beziehung vorbei ist."
 
-# game/script-a2-lilly.rpy:4435
-translate de a2_lilly_a_brief_history_of_thyme_76b2fe88_2:
+# game/script-a2-lilly.rpy:4440
+translate de a2_lilly_a_brief_history_of_thyme_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -6560,8 +6560,8 @@ translate de a2_lilly_little_wing_53617801:
     # n "{vspace=60}Death in the form of a single sheet of paper."
     n "{vspace=60}Der Tod kommt in der Form eines einzigen Blattes Papier."
 
-# game/script-a2-lilly.rpy:4474
-translate de a2_lilly_little_wing_76b2fe88:
+# game/script-a2-lilly.rpy:4479
+translate de a2_lilly_little_wing_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -8685,4 +8685,3 @@ translate de strings:
     # game/script-a2-lilly.rpy:5001
     old "Thirty-two!"
     new "Zweiunddreißig!"
-

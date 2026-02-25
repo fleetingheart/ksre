@@ -6600,8 +6600,8 @@ translate jp a4_hanako_indeterminate_future_467bce13:
     # "I pick myself up, books and pens in hand, and place them inside Hanako's desk. With the classroom now empty, I end up just leaning against her desk and thinking to myself in silence."
     "俺は本とペンを手に立ち上がると、華子の机の中にそれを戻す。教室にはもう誰もおらず、俺はそのまま華子の机に寄りかかって静かに考える。"
 
-# game/script-a4-hanako.rpy:3942
-translate jp a4_hanako_indeterminate_future_76b2fe88:
+# game/script-a4-hanako.rpy:3945
+translate jp a4_hanako_indeterminate_future_d41d8cd9:
 
     # nvl clear
     nvl clear

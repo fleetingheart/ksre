@@ -4368,12 +4368,6 @@ translate zh_hant a2_emi_track_meeting_2ab2d277:
     # "And so, I soon find myself quite suddenly surrounded by a crowd of people, all turning out to see our track team compete with another school like this one."
     "然後，我很快就發現自己突然被一群人包圍，他們都是來看我們學校的田徑隊和另一所類似的學校比賽的。"
 
-# game/script-a2-emi.rpy:2760
-translate zh_hant a2_emi_track_meeting_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:2764
 translate zh_hant a2_emi_track_meeting_0fd7c9e8:
 
@@ -4433,12 +4427,6 @@ translate zh_hant a2_emi_track_meeting_b3a290a2:
 
     # n "It's a bitter sort of comfort to be able to say 'Well, at least I've got a chance of being alive through college,' but there it is."
     n "「嗯，至少我還有機會活到大學畢業」，這是一種苦澀的安慰，但事實就是如此。"
-
-# game/script-a2-emi.rpy:2787
-translate zh_hant a2_emi_track_meeting_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-emi.rpy:2793
 translate zh_hant a2_emi_track_meeting_1815f73c:
@@ -6888,12 +6876,6 @@ translate zh_hant a2_emi_down_that_medicine_now_19b1712b:
     # "I really need that shower."
     "我真的需要去沖個澡了。"
 
-# game/script-a2-emi.rpy:4355
-translate zh_hant a2_emi_piracy_on_the_high_seas_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:4362
 translate zh_hant a2_emi_piracy_on_the_high_seas_f7b64135:
 
@@ -8000,12 +7982,6 @@ translate zh_hant a2_emi_piracy_on_the_high_seas_799ef6f3:
     # "I have no idea why she would write to me. I haven't been in contact with anyone from my old school since I transferred, and Iwanako is the last person I'd expect to want to write me a letter."
     "我完全不知道她為什麼會寫信給我。自從我轉學後，我就沒跟我以前學校的任何人聯絡了，而巖魚子是我最想不到會寫信給我的人。"
 
-# game/script-a2-emi.rpy:5011
-translate zh_hant a2_emi_piracy_on_the_high_seas_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:5014
 translate zh_hant a2_emi_piracy_on_the_high_seas_f94e2c99:
 
@@ -8067,12 +8043,6 @@ translate zh_hant a2_emi_piracy_on_the_high_seas_c8fc7c4a:
 
     # n "So I never managed to say the things I wanted to say. In the end, that might've hurt her even more."
     n "所以我始終沒能說出我想說的話。到頭來，那或許傷她更深。"
-
-# game/script-a2-emi.rpy:5039
-translate zh_hant a2_emi_piracy_on_the_high_seas_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-emi.rpy:5044
 translate zh_hant a2_emi_piracy_on_the_high_seas_ad45b62a:
@@ -10324,12 +10294,6 @@ translate zh_hant a2_emi_tracking_absences_955bea6f:
     # "The run helped to take my mind off it for a little while, but now that I'm finished I'm back to worrying."
     "跑步讓我暫時忘了這件事，但現在跑完了，我又開始擔心了。"
 
-# game/script-a2-emi.rpy:6511
-translate zh_hant a2_emi_tracking_absences_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:6515
 translate zh_hant a2_emi_tracking_absences_04eab752:
 
@@ -10389,12 +10353,6 @@ translate zh_hant a2_emi_tracking_absences_c96bc927:
 
     # n "I'll ask the nurse when I stop in to see him."
     n "等下去看校醫的時候順便問問他好了。"
-
-# game/script-a2-emi.rpy:6538
-translate zh_hant a2_emi_tracking_absences_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-emi.rpy:6546
 translate zh_hant a2_emi_tracking_absences_0740aedb:
@@ -12460,12 +12418,6 @@ translate zh_hant a2_emi_dropping_by_f44a8fc1:
     # "I want to turn around and march back down the hallway, open the door and tell her…"
     "我想轉過身走到她門口，打開門並告訴她……"
 
-# game/script-a2-emi.rpy:7694
-translate zh_hant a2_emi_dropping_by_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:7698
 translate zh_hant a2_emi_dropping_by_841527aa:
 
@@ -12551,12 +12503,6 @@ translate zh_hant a2_emi_dropping_by_d7596770:
 
     # n "I need to take my mind off of this whole situation."
     n "我得要停下來，少在這裡多費心了。"
-
-# game/script-a2-emi.rpy:7730
-translate zh_hant a2_emi_dropping_by_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-emi.rpy:7734
 translate zh_hant a2_emi_dropping_by_ff4cbdea:
@@ -12800,12 +12746,6 @@ translate zh_hant a2_emi_the_first_morning_after_7098156e:
     # n "After the run, I'll talk to him while Emi's waiting outside the office."
     n "跑完步後，趁笑美在保健室外面等的時候，我就順便問他。"
 
-# game/script-a2-emi.rpy:7851
-translate zh_hant a2_emi_the_first_morning_after_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:7860
 translate zh_hant a2_emi_the_first_morning_after_4d486ea3:
 
@@ -12847,12 +12787,6 @@ translate zh_hant a2_emi_the_first_morning_after_fab85d57:
 
     # n "What if…"
     n "如果……"
-
-# game/script-a2-emi.rpy:7877
-translate zh_hant a2_emi_the_first_morning_after_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-emi.rpy:7886
 translate zh_hant a2_emi_the_first_morning_after_3fb6275e:
@@ -14054,12 +13988,6 @@ translate zh_hant a2_emi_the_real_beginning_5571e34b:
     # hi "You got any more track meets coming up?"
     hi "妳接下來還有田徑比賽嗎？"
 
-# game/script-a2-emi.rpy:8566
-translate zh_hant a2_emi_the_real_beginning_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:8570
 translate zh_hant a2_emi_the_real_beginning_c30402f9:
 
@@ -14077,12 +14005,6 @@ translate zh_hant a2_emi_the_real_beginning_118492ef:
 
     # n "Well, assuming I can get myself to actually form the words."
     n "嗯，前提是我能真的把話說出口。"
-
-# game/script-a2-emi.rpy:8576
-translate zh_hant a2_emi_the_real_beginning_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-emi.rpy:8583
 translate zh_hant a2_emi_the_real_beginning_4a72a162_1:
@@ -14618,12 +14540,6 @@ translate zh_hant a2_emi_the_real_beginning_47dac5af:
     # "What a silly worry for her to have."
     "她真是瞎操心。"
 
-# game/script-a2-emi.rpy:8869
-translate zh_hant a2_emi_the_real_beginning_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a2-emi.rpy:8872
 translate zh_hant a2_emi_the_real_beginning_046f7ee3:
 
@@ -14671,12 +14587,6 @@ translate zh_hant a2_emi_the_real_beginning_fd6b90bf:
 
     # n "I inhale her scent, my mind trying desperately to memorize everything about how she tastes, how she smells, how she feels."
     n "她那美妙的氣息進入我的鼻腔，我的意識則在竭盡全力試圖記下一切————她的味道、她的氣味、她的感覺。"
-
-# game/script-a2-emi.rpy:8891
-translate zh_hant a2_emi_the_real_beginning_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a2-emi.rpy:8902
 translate zh_hant a2_emi_the_real_beginning_656d65f8:
@@ -14953,4 +14863,96 @@ translate zh_hant strings:
     # game/script-a2-emi.rpy:6165
     old "Keep quiet."
     new "保持沉默。"
+
+# TODO: Translation updated at 2026-02-25 00:11
+
+# game/script-a2-emi.rpy:2760
+translate zh_hant a2_emi_track_meeting_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:2787
+translate zh_hant a2_emi_track_meeting_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:4355
+translate zh_hant a2_emi_piracy_on_the_high_seas_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:5011
+translate zh_hant a2_emi_piracy_on_the_high_seas_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:5039
+translate zh_hant a2_emi_piracy_on_the_high_seas_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:6511
+translate zh_hant a2_emi_tracking_absences_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:6538
+translate zh_hant a2_emi_tracking_absences_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:7694
+translate zh_hant a2_emi_dropping_by_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:7730
+translate zh_hant a2_emi_dropping_by_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:7851
+translate zh_hant a2_emi_the_first_morning_after_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:7877
+translate zh_hant a2_emi_the_first_morning_after_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:8566
+translate zh_hant a2_emi_the_real_beginning_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:8576
+translate zh_hant a2_emi_the_real_beginning_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:8869
+translate zh_hant a2_emi_the_real_beginning_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a2-emi.rpy:8891
+translate zh_hant a2_emi_the_real_beginning_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
 

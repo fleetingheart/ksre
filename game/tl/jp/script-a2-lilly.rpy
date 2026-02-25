@@ -6438,8 +6438,8 @@ translate jp a2_lilly_a_brief_history_of_thyme_b620de73:
     # "I'd barely given the letter a second thought when it was given to me, but now I can't get its contents out of my mind."
     "この手紙が渡された時、俺はそれをほとんど気にも留めなかった。だけど今は、この手紙の内容が俺の頭から離れようとしない。"
 
-# game/script-a2-lilly.rpy:4401
-translate jp a2_lilly_a_brief_history_of_thyme_76b2fe88:
+# game/script-a2-lilly.rpy:4404
+translate jp a2_lilly_a_brief_history_of_thyme_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6468,8 +6468,8 @@ translate jp a2_lilly_a_brief_history_of_thyme_76ba8aef:
     # n "The ending, though, is the true reason she sent this. The last couple of lines, added almost as an afterthought."
     n "だけど、手紙の最後の部分、これこそ岩魚子がこの手紙を送った本当の理由だ。思い付きで書き加えられたかのような、最後の数行。"
 
-# game/script-a2-lilly.rpy:4412
-translate jp a2_lilly_a_brief_history_of_thyme_76b2fe88_1:
+# game/script-a2-lilly.rpy:4415
+translate jp a2_lilly_a_brief_history_of_thyme_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -6506,8 +6506,8 @@ translate jp a2_lilly_a_brief_history_of_thyme_236438f2:
     # n "It's plainly obvious that this is not the type of letter to be replied to. In the end, this letter is no more than a simple abdication of responsibility; a final statement to reassure herself that our relationship is over."
     n "これが返事を返すようなたぐいの手紙じゃないのは明らかだ。結局、この手紙はただのやっかい払いでしかない。俺たちの関係が終わったことを岩魚子が自分自身に念押しするための最終通告なんだ。"
 
-# game/script-a2-lilly.rpy:4437
-translate jp a2_lilly_a_brief_history_of_thyme_76b2fe88_2:
+# game/script-a2-lilly.rpy:4440
+translate jp a2_lilly_a_brief_history_of_thyme_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -6560,8 +6560,8 @@ translate jp a2_lilly_little_wing_53617801:
     # n "{vspace=60}Death in the form of a single sheet of paper."
     n "死がやって来る。一枚の紙という形を取って。"
 
-# game/script-a2-lilly.rpy:4476
-translate jp a2_lilly_little_wing_76b2fe88:
+# game/script-a2-lilly.rpy:4479
+translate jp a2_lilly_little_wing_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -8685,4 +8685,3 @@ translate jp strings:
     # game/script-a2-lilly.rpy:5003
     old "Thirty-two!"
     new "３２点！"
-

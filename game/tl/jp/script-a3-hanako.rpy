@@ -4560,8 +4560,8 @@ translate jp a3_hanako_treading_softly_965e284e:
     # "I lay on my bed, trying to collect my thoughts."
     "考えをまとめようとして、ベッドに横たわる。"
 
-# game/script-a3-hanako.rpy:2947
-translate jp a3_hanako_treading_softly_76b2fe88:
+# game/script-a3-hanako.rpy:2950
+translate jp a3_hanako_treading_softly_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -4602,8 +4602,8 @@ translate jp a3_hanako_treading_softly_df795a60:
     # n "{vspace=60}Just what have I been doing, for all this time I've been with her and Lilly?"
     n "今まで華子やリリーと一緒にいて、俺はいったい何をしてきたというんだろう？"
 
-# game/script-a3-hanako.rpy:2966
-translate jp a3_hanako_treading_softly_76b2fe88_1:
+# game/script-a3-hanako.rpy:2969
+translate jp a3_hanako_treading_softly_d41d8cd9_1:
 
     # nvl clear
     nvl clear

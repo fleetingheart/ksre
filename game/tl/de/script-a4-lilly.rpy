@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2024-03-16 21:54
 
 # game/script-a4-lilly.rpy:10
-translate de a4_lilly_slow_steps_76b2fe88:
+translate de a4_lilly_slow_steps_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -37,7 +37,7 @@ translate de a4_lilly_slow_steps_b2db8d4d:
     n "Noch ein Tag bis die Prüfungen losgehen. Es war eigentlich unverantwortlich, dass wir unsere Zeit mit einer Reise verschwendet haben, anstatt zu lernen. Dabei sind wir doch solche Musterschüler."
 
 # game/script-a4-lilly.rpy:29
-translate de a4_lilly_slow_steps_76b2fe88_1:
+translate de a4_lilly_slow_steps_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -4945,7 +4945,7 @@ translate de a4_lilly_a_mornings_reverse_85879fae:
     hi "Ich danke Ihnen."
 
 # game/script-a4-lilly.rpy:3046
-translate de a4_lilly_blackout_76b2fe88:
+translate de a4_lilly_blackout_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5045,7 +5045,7 @@ translate de a4_lilly_blackout_fd0ab66c:
     n "{vspace=60}Ob ihnen ein Arm oder ein Bein fehlt – die Schüler hier sind genau wie alle anderen in ihrem Alter. Dank des ausgeklügelten Schulaufbaus finde ich mich ohne Probleme in den Gängen zurecht, in denen ich mich einst noch verlaufen habe – und das mit einer Leichtigkeit, die ich nie für möglich gehalten hätte. Ich kann mich sogar problemlos mit meinen Lehrern unterhalten."
 
 # game/script-a4-lilly.rpy:3090
-translate de a4_lilly_blackout_76b2fe88_1:
+translate de a4_lilly_blackout_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -8033,7 +8033,7 @@ translate de a4_lilly_a_faraway_future_6736385a:
     "Auch wenn sie es sagt, verrät ihre Stimmlage, dass sie nicht wirklich glaubt, was sie von sich gibt."
 
 # game/script-a4-lilly.rpy:4839
-translate de a4_lilly_a_faraway_future_76b2fe88:
+translate de a4_lilly_a_faraway_future_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -8281,7 +8281,7 @@ translate de a4_lilly_farewell_ba9a2dc8:
     "Als der Unterricht endet, lasse ich meinen Kopf einfach auf meiner Hand ruhen und starre zum Zeitvertreib aus dem Fenster."
 
 # game/script-a4-lilly.rpy:4999
-translate de a4_lilly_farewell_76b2fe88:
+translate de a4_lilly_farewell_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -10222,8 +10222,8 @@ translate de a4_lilly_false_cadence_a996223f:
     # "She really has grown."
     "Sie ist wirklich gewachsen."
 
-# game/script-a4-lilly.rpy:6274
-translate de a4_lilly_false_cadence_76b2fe88:
+# game/script-a4-lilly.rpy:6279
+translate de a4_lilly_false_cadence_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -10284,8 +10284,8 @@ translate de a4_lilly_false_cadence_24ff359c:
     # n "{vspace=30}When I think about it, I'd always depended on them, even if they hadn't been at home all the time. To say I never depended on anyone after moving to the Yamaku dormitories would be far from the truth, though."
     n "{vspace=30}Wenn ich darüber nachdenke, habe ich mich immer auf sie verlassen, obwohl sie die ganze Zeit nicht zu Hause waren. Zu sagen, dass ich mich nie auf jemanden verlassen habe, nachdem ich in das Wohnheim gezogen bin, wäre aber auch nicht die Wahrheit."
 
-# game/script-a4-lilly.rpy:6299
-translate de a4_lilly_false_cadence_76b2fe88_1:
+# game/script-a4-lilly.rpy:6304
+translate de a4_lilly_false_cadence_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -10536,8 +10536,8 @@ translate de a4_lilly_false_cadence_3df5a7ad:
     # "I turn the bird in my fingers another way, looking at it from yet another angle."
     "Ich drehe den Vogel in meinen Fingern und betrachte ihn aus einem anderen Winkel."
 
-# game/script-a4-lilly.rpy:6455
-translate de a4_lilly_false_cadence_76b2fe88_2:
+# game/script-a4-lilly.rpy:6460
+translate de a4_lilly_false_cadence_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -10692,8 +10692,8 @@ translate de a4_lilly_false_cadence_da43819c:
     # n "Thanks to that, I lost Lilly. I lost the one person I loved most because I wasn't there for her when she needed me."
     n "Deswegen habe ich Lilly verloren. Ich habe diesen einen Menschen verloren, den ich am meisten liebte, weil ich nicht für sie da war, als sie mich gebraucht hat."
 
-# game/script-a4-lilly.rpy:6514
-translate de a4_lilly_false_cadence_76b2fe88_3:
+# game/script-a4-lilly.rpy:6519
+translate de a4_lilly_false_cadence_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -11412,8 +11412,8 @@ translate de a4_lilly_under_a_maudlin_sky_4992c769:
     # "The silence of the private room suddenly feels overwhelming."
     "Die Stille in dem Einzelzimmer fühlt sich plötzlich erdrückend an."
 
-# game/script-a4-lilly.rpy:6988
-translate de a4_lilly_under_a_maudlin_sky_76b2fe88:
+# game/script-a4-lilly.rpy:6993
+translate de a4_lilly_under_a_maudlin_sky_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -11580,8 +11580,8 @@ translate de a4_lilly_under_a_maudlin_sky_45f0335e:
     # n "Maybe that's why I feel so tired. It feels almost as if I've lived the entire last few months of my life in the space of minutes."
     n "Vielleicht fühle ich mich deswegen so müde. Es kommt mir fast vor, als hätte ich die letzten paar Monate meines Lebens in ein paar Minuten durchlebt."
 
-# game/script-a4-lilly.rpy:7050
-translate de a4_lilly_under_a_maudlin_sky_76b2fe88_1:
+# game/script-a4-lilly.rpy:7055
+translate de a4_lilly_under_a_maudlin_sky_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -12929,4 +12929,3 @@ translate de strings:
     # game/script-a4-lilly.rpy:7508
     old "Yup."
     new "Jupp."
-

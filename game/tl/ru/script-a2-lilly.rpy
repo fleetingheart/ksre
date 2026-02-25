@@ -6438,8 +6438,8 @@ translate ru a2_lilly_a_brief_history_of_thyme_b620de73:
     # "I'd barely given the letter a second thought when it was given to me, but now I can't get its contents out of my mind."
     "Я почти не задумывался о письме, когда оно только попало ко мне, но сейчас никак не могу выкинуть из головы его содержимое."
 
-# game/script-a2-lilly.rpy:4371
-translate ru a2_lilly_a_brief_history_of_thyme_76b2fe88:
+# game/script-a2-lilly.rpy:4404
+translate ru a2_lilly_a_brief_history_of_thyme_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6468,8 +6468,8 @@ translate ru a2_lilly_a_brief_history_of_thyme_76ba8aef:
     # n "The ending, though, is the true reason she sent this. The last couple of lines, added almost as an afterthought."
     n "В конце, однако, находится истинная причина, почему она отправила письмо. Последние две строки, добавленные как будто бы между делом."
 
-# game/script-a2-lilly.rpy:4382
-translate ru a2_lilly_a_brief_history_of_thyme_76b2fe88_1:
+# game/script-a2-lilly.rpy:4415
+translate ru a2_lilly_a_brief_history_of_thyme_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -6506,8 +6506,8 @@ translate ru a2_lilly_a_brief_history_of_thyme_236438f2:
     # n "It's plainly obvious that this is not the type of letter to be replied to. In the end, this letter is no more than a simple abdication of responsibility; a final statement to reassure herself that our relationship is over."
     n "Совершенно очевидно, что это письмо не из тех, на которые следует отвечать. В конце концов, оно не более, чем простой отказ от обязательств; концовка нужна ей, чтобы убедить себя, что наши отношения закончены."
 
-# game/script-a2-lilly.rpy:4407
-translate ru a2_lilly_a_brief_history_of_thyme_76b2fe88_2:
+# game/script-a2-lilly.rpy:4440
+translate ru a2_lilly_a_brief_history_of_thyme_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -6560,8 +6560,8 @@ translate ru a2_lilly_little_wing_53617801:
     # n "{vspace=60}Death in the form of a single sheet of paper."
     n "{vspace=60}Смерть в виде клочка бумаги."
 
-# game/script-a2-lilly.rpy:4450
-translate ru a2_lilly_little_wing_76b2fe88:
+# game/script-a2-lilly.rpy:4479
+translate ru a2_lilly_little_wing_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -8678,29 +8678,5 @@ translate ru strings:
     new "Ой!"
 
     old "Ah!"
-    new "Ай!"# TODO: Translation updated at 2026-02-23 04:24
-
-# game/script-a2-lilly.rpy:4404
-translate ru a2_lilly_a_brief_history_of_thyme_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-lilly.rpy:4415
-translate ru a2_lilly_a_brief_history_of_thyme_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-lilly.rpy:4440
-translate ru a2_lilly_a_brief_history_of_thyme_d41d8cd9_2:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a2-lilly.rpy:4479
-translate ru a2_lilly_little_wing_d41d8cd9:
-
-    # nvl clear
-    nvl clear
+    new "Ай!"
 

@@ -1050,12 +1050,6 @@ translate it a3_rin_tt_corner_bef0d17d:
     # "Rin looks back at her silently, her eyes serious and impenetrable like the dark of the night."
     "Rin la osserva in silenzio, con gli occhi seri e impenetrabili come la notte fonda."
 
-# game/script-a3-rin.rpy:756
-translate it a3_rin_the_scent_of_light_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:759
 translate it a3_rin_the_scent_of_light_9aff151b:
 
@@ -1079,12 +1073,6 @@ translate it a3_rin_the_scent_of_light_0d200e9b:
 
     # n "It's the last day of school for Rin. I feel like I should send her off with a word of encouragement, or at least say something. It was sort of due to my influence that she decided to dive headfirst into this, after all."
     n "È l' ultimo giorno di scuola, per Rin. Mi sento come se dovessi accomiatarmi con una parola di incoraggiamento, o quantomeno dire qualcosa. È stato in un certo senso a causa della mia influenza che ha deciso di tuffarsi a capofitto in questo, dopotutto."
-
-# game/script-a3-rin.rpy:769
-translate it a3_rin_the_scent_of_light_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:775
 translate it a3_rin_the_scent_of_light_2034b413:
@@ -2100,12 +2088,6 @@ translate it a3_rin_things_you_cant_give_up_fac0d2c4:
     # "She skips downstairs, leaving me wondering if what I said - or what Rin said, rather - hurt her or not. Maybe what Emi herself said hurt her the most, come to that."
     "Saltella giù per le scale, lasciandomi a chiedermi se ciò che ho detto - o meglio, ciò che ha detto Rin - l' abbia ferita o no. Forse ciò che ha detto lei stessa è la cosa che l' ha ferita di più, tutto sommato."
 
-# game/script-a3-rin.rpy:1399
-translate it a3_rin_things_you_cant_give_up_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:1402
 translate it a3_rin_things_you_cant_give_up_7b3f9b7c:
 
@@ -2135,12 +2117,6 @@ translate it a3_rin_things_you_cant_give_up_d5fd751a:
 
     # n "{vspace=30}I refuse to belong to that other place, but maybe she's found comfort there."
     n "\nIo mi rifiuto di far parte di quel mondo, ma forse lei lì ha trovato pace."
-
-# game/script-a3-rin.rpy:1414
-translate it a3_rin_things_you_cant_give_up_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:1427
 translate it a3_rin_badaan_92cc9123:
@@ -3156,12 +3132,6 @@ translate it a3_rin_the_edge_of_the_world_e5a02fa5:
     # "It pisses me off."
     "Mi fa incazzare."
 
-# game/script-a3-rin.rpy:2021
-translate it a3_rin_the_edge_of_the_world_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:2024
 translate it a3_rin_the_edge_of_the_world_1e095191:
 
@@ -3203,12 +3173,6 @@ translate it a3_rin_the_edge_of_the_world_0d4547b0:
 
     # n "If I went too close, I wonder if I would fall off."
     n "Se mi avvicinassi troppo, mi chiedo se cadrei."
-
-# game/script-a3-rin.rpy:2038
-translate it a3_rin_the_edge_of_the_world_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:2044
 translate it a3_rin_the_edge_of_the_world_36b20958:
@@ -3309,12 +3273,6 @@ translate it a3_rin_the_edge_of_the_world_ff0d382f:
 
     # n "Nothing."
     n "Niente."
-
-# game/script-a3-rin.rpy:2081
-translate it a3_rin_the_edge_of_the_world_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:2090
 translate it a3_rin_the_edge_of_the_world_f9fffa70:
@@ -3838,12 +3796,6 @@ translate it a3_rin_the_context_of_rin_8f251741:
     # "After that, I quietly leave the studio and catch the bus, taking me back to school."
     "Dopodiché abbandono l' atelier in silenzio e riprendo l' autobus che mi riporta a scuola."
 
-# game/script-a3-rin.rpy:2377
-translate it a3_rin_fast_forward_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:2380
 translate it a3_rin_fast_forward_31266b57:
 
@@ -3981,12 +3933,6 @@ translate it a3_rin_fast_forward_00483841:
 
     # n "{vspace=330}I can't explain it, and she never talks about it."
     n "\n\n\n\n\n\n\n\n\n\n\nNon riesco a spiegarmela, e lei non ne parla mai."
-
-# game/script-a3-rin.rpy:2432
-translate it a3_rin_fast_forward_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:2441
 translate it a3_rin_fast_forward_dfceca80:
@@ -5482,12 +5428,6 @@ translate it a3_rin_reverse_escapism_d8d12c5f:
     # "There are around-the-clock shops and cafés, sure, but the atmosphere is like the town itself is slumbering. A town that sleeps eight hours a day."
     "Ci sono negozi e bar sempre aperti, certo, ma dall' atmosfera è come se la città stessa stesse sonnecchiando. Una città che dorme otto ore al giorno."
 
-# game/script-a3-rin.rpy:3358
-translate it a3_rin_reverse_escapism_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:3361
 translate it a3_rin_reverse_escapism_46871d6a:
 
@@ -5561,12 +5501,6 @@ translate it a3_rin_reverse_escapism_239f1f7e:
 
     # n "{vspace=30}The aimless wandering made me see things differently. I hope it'll do the same for Rin."
     n "\nIl vagare senza meta mi aveva fatto vedere le cose in modo diverso. Spero che abbia lo stesso effetto su Rin."
-
-# game/script-a3-rin.rpy:3387
-translate it a3_rin_reverse_escapism_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:3396
 translate it a3_rin_reverse_escapism_c5e62edf:
@@ -6186,12 +6120,6 @@ translate it a3_rin_reverse_escapism_8fdd03e0:
     # "Then she disappears from my reach for an undefined period of time."
     "Dopodiché scompare dalla mia portata per un periodo indeterminato di tempo."
 
-# game/script-a3-rin.rpy:3752
-translate it a3_rin_boundless_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:3755
 translate it a3_rin_boundless_20e4fe40:
 
@@ -6239,12 +6167,6 @@ translate it a3_rin_boundless_c0029de4:
 
     # n "Her request makes me worry about her and think about her, more than I did when I could go and see her when I wanted. It bothers me that I can't."
     n "La sua richiesta mi fa preoccupare per lei e pensare a lei, più di quando potevo andarla a trovare quando volevo. Mi turba non poterlo fare."
-
-# game/script-a3-rin.rpy:3771
-translate it a3_rin_boundless_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:3780
 translate it a3_rin_boundless_98b2031f:
@@ -7438,12 +7360,6 @@ translate it a3_rin_delirium_b7f8fd67:
     # rin "Ah…"
     rin "Ah…"
 
-# game/script-a3-rin.rpy:4405
-translate it a3_rin_delirium_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:4408
 translate it a3_rin_delirium_28934add:
 
@@ -7473,12 +7389,6 @@ translate it a3_rin_delirium_b413d351:
 
     # n "Whether it's the truth or not, I couldn't say. But that's how I felt."
     n "Se sia la verità o no, non lo saprei dire. Ma è così che mi sentii."
-
-# game/script-a3-rin.rpy:4421
-translate it a3_rin_delirium_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:4430
 translate it a3_rin_delirium_8008e873:
@@ -8392,12 +8302,6 @@ translate it a3_rin_shards_of_ire_108b19d4:
     # "I leave the atelier, feeling angry and guilty."
     "Abbandono lo studio, in preda all' ira e al senso di colpa."
 
-# game/script-a3-rin.rpy:4912
-translate it a3_rin_shards_of_ire_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-rin.rpy:4915
 translate it a3_rin_shards_of_ire_0c6f0648:
 
@@ -8439,12 +8343,6 @@ translate it a3_rin_shards_of_ire_a7a3aaa4:
 
     # n "Maybe it was the only way that could have brought us closer, but all it did was separate us further away from each other and now, beyond the reach of either of us."
     n "Forse era l' unico modo che avrebbe potuto avvicinarci, ma ci ha solo separati ancor più l' uno dall' altra e adesso siamo fuori dalla portata di entrambi."
-
-# game/script-a3-rin.rpy:4933
-translate it a3_rin_shards_of_ire_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-rin.rpy:4941
 translate it a3_rin_shards_of_ire_8064b3aa:
@@ -9065,4 +8963,108 @@ translate it strings:
     # game/script-a3-rin.rpy:4701
     old "Then explain."
     new "E allora spiegami."
+
+# TODO: Translation updated at 2026-02-24 23:28
+
+# game/script-a3-rin.rpy:756
+translate it a3_rin_the_scent_of_light_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:769
+translate it a3_rin_the_scent_of_light_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:1399
+translate it a3_rin_things_you_cant_give_up_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:1414
+translate it a3_rin_things_you_cant_give_up_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:2021
+translate it a3_rin_the_edge_of_the_world_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:2038
+translate it a3_rin_the_edge_of_the_world_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:2081
+translate it a3_rin_the_edge_of_the_world_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:2377
+translate it a3_rin_fast_forward_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:2432
+translate it a3_rin_fast_forward_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:3358
+translate it a3_rin_reverse_escapism_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:3387
+translate it a3_rin_reverse_escapism_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:3752
+translate it a3_rin_boundless_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:3771
+translate it a3_rin_boundless_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:4406
+translate it a3_rin_delirium_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:4422
+translate it a3_rin_delirium_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:4913
+translate it a3_rin_shards_of_ire_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-rin.rpy:4934
+translate it a3_rin_shards_of_ire_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 

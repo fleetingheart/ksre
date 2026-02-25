@@ -16,6 +16,7 @@ translate jp strings:
     # renpy/common/00preferences.rpy:661
     old "Self-voicing enabled. Press 'v' to disable."
     new "セルフボイスが有効です。無効にするには「v」を押してください。"
+
 # TODO: Translation updated at 2024-12-18 15:22
 
 translate jp strings:
@@ -1231,4 +1232,44 @@ translate jp strings:
     # renpy/common/_errorhandling.rpym:796
     old "Parsing the script failed."
     new "Parsing the script failed."
+
+# TODO: Translation updated at 2026-02-24 23:40
+
+translate jp strings:
+
+    # renpy/common/000statements.rpy:28
+    old "Click to play the video."
+    new "Click to play the video."
+
+    # renpy/common/00accessibility.rpy:180
+    old "Mono Audio"
+    new "Mono Audio"
+
+    # renpy/common/00accessibility.rpy:246
+    old "Kerning"
+    new "Kerning"
+
+    # renpy/common/00accessibility.rpy:288
+    old "Self-Voicing and Audio"
+    new "Self-Voicing and Audio"
+
+    # renpy/common/00accessibility.rpy:292
+    old "Text"
+    new "Text"
+
+    # renpy/common/00preferences.rpy:602
+    old "mono audio"
+    new "mono audio"
+
+    # renpy/common/00preferences.rpy:611
+    old "font kerning"
+    new "font kerning"
+
+    # renpy/common/00updater.rpy:1935
+    old "An error has occurred:"
+    new "An error has occurred:"
+
+    # renpy/common/00updater.rpy:1992
+    old "An error occurred when trying to download game data:"
+    new "An error occurred when trying to download game data:"
 

@@ -321,3 +321,19 @@ translate fr strings:
     old "Colorblind filter"
     new "Filtre daltonisme"
 
+# TODO: Translation updated at 2026-02-24 23:23
+
+translate fr strings:
+
+    # game/screens.rpy:1068
+    old "Current voice: "
+    new "Current voice: "
+
+    # game/screens.rpy:1085
+    old "Opacity"
+    new "Opacity"
+
+    # game/screens.rpy:1092
+    old "Text size"
+    new "Text size"
+

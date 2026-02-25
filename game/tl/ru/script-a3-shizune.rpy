@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2022-08-12 21:54
 
-# game/script-a3-shizune.rpy:6
-translate ru a3_shizune_force_feedback_76b2fe88:
+# game/script-a3-shizune.rpy:10
+translate ru a3_shizune_force_feedback_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -30,8 +30,8 @@ translate ru a3_shizune_force_feedback_16ad86aa:
     # n "{vspace=60}Today, I woke up early to come to school before everyone else, hoping to catch Shizune. She has a habit of coming in first thing in the morning, to be more punctual than all the other students. Unfortunately, I think I am earlier than her."
     n "{vspace=60}Сегодня я проснулся рано, рассчитывая прийти на занятия раньше всех в надежде поймать Сидзунэ. Она обладает привычкой приходить первой, чтобы быть пунктуальней всех остальных учеников. Увы, но мне кажется, что я пришёл раньше неё."
 
-# game/script-a3-shizune.rpy:22
-translate ru a3_shizune_force_feedback_76b2fe88_1:
+# game/script-a3-shizune.rpy:26
+translate ru a3_shizune_force_feedback_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -5958,8 +5958,8 @@ translate ru a3_shizune_the_anchor_254cb6b1:
     # "My first instinct is to call out to her and ask her if she has seen Shizune, or if she wants to go to town with me, but now that I've seen her I don't feel like disturbing her. I leave her alone."
     "Мой первый порыв – позвать её и спросить, не видела ли она Сидзунэ или не хочет ли она пойти со мной в город, но, внимательно посмотрев на неё, я решаю ей не мешать и оставляю в покое."
 
-# game/script-a3-shizune.rpy:3839
-translate ru a3_shizune_roadmap_76b2fe88:
+# game/script-a3-shizune.rpy:3917
+translate ru a3_shizune_roadmap_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5988,8 +5988,8 @@ translate ru a3_shizune_roadmap_01121c5e:
     # n "{vspace=60}After awhile, the idea of having some free time again had started to grow on me, though there were still periods when I felt like I had too much of it."
     n "{vspace=60}Некоторое время спустя я начал радоваться снова появившемуся свободному времени. Впрочем, порой кажется, что его слишком много."
 
-# game/script-a3-shizune.rpy:3853
-translate ru a3_shizune_roadmap_76b2fe88_1:
+# game/script-a3-shizune.rpy:3931
+translate ru a3_shizune_roadmap_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -11395,30 +11395,4 @@ translate ru strings:
     # game/script-a3-shizune.rpy:4541
     old "Why is Misha absent? And what's the answer to question 3?"
     new "Почему её нет? И какой ответ на третий вопрос?"
-
-# TODO: Translation updated at 2026-02-23 04:24
-
-# game/script-a3-shizune.rpy:10
-translate ru a3_shizune_force_feedback_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-shizune.rpy:26
-translate ru a3_shizune_force_feedback_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-shizune.rpy:3917
-translate ru a3_shizune_roadmap_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-shizune.rpy:3931
-translate ru a3_shizune_roadmap_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
 

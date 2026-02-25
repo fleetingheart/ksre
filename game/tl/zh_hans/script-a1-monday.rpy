@@ -258,12 +258,6 @@ translate zh_hans a1_monday_out_cold_3fd9ad67:
     # n "{vspace=30}The last things I remember before slipping away are the sounds of Iwanako screaming for help and the incessant clatter of the branches above…"
     n "{vspace=30}在失去意识前，我记住的最后一件事就是岩鱼子的惊叫和头顶树枝的哗哗声……"
 
-# game/script-a1-monday.rpy:209
-translate zh_hans a1_monday_out_cold_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a1-monday.rpy:222
 translate zh_hans a1_monday_bundle_of_hisao_84705307:
 
@@ -3239,4 +3233,12 @@ translate zh_hans strings:
     # game/script-a1-monday.rpy:1701
     old "Hisao Nakai\n\nTwo tablets daily to stay alive"
     new "中井久夫\n\n想要活下去的话每日两片"
+
+# TODO: Translation updated at 2026-02-25 00:03
+
+# game/script-a1-monday.rpy:209
+translate zh_hans a1_monday_out_cold_d41d8cd9:
+
+    # nvl clear
+    nvl clear
 

@@ -5748,6 +5748,10 @@ translate fr a4_hanako_whispered_touch_bb1befee:
     # hi "I've already seen the real you, though. You didn't need to take off your clothes for that."
     hi "Je connais déjà la vraie toi. Tu n'as pas besoin de retirer tes vêtements pour ça."
 
+# game/script-a4-hanako.rpy:3240
+translate fr a4_hanako_whispered_touch_27005eb4:
+    # "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
+    "La scène qui va suivre est désactivée en raison de vos options d'accessibilité. En continuant après ce message, vous sauterez directement au jour suivant. "
 # game/script-a4-hanako.rpy:3410
 translate fr a4_hanako_whispered_touch_168faa6e:
 
@@ -6593,12 +6597,6 @@ translate fr a4_hanako_indeterminate_future_467bce13:
 
     # "I pick myself up, books and pens in hand, and place them inside Hanako's desk. With the classroom now empty, I end up just leaning against her desk and thinking to myself in silence."
     "Je me redresse, tenant ses livres et crayons, et les remets dans son bureau. Maintenant que la classe est vide, je me tiens contre son bureau à réfléchir en silence."
-
-# game/script-a4-hanako.rpy:3908
-translate fr a4_hanako_indeterminate_future_76b2fe88:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-hanako.rpy:3911
 translate fr a4_hanako_indeterminate_future_0bd7d29f:
@@ -7476,9 +7474,11 @@ translate fr strings:
     old "Trust my own judgment."
     new "Faire confiance à mon propre avis."
 
-# TODO: Translation updated at 2024-05-17 22:47
+# TODO: Translation updated at 2026-02-24 23:23
 
-# game/script-a4-hanako.rpy:3240
-translate fr a4_hanako_whispered_touch_27005eb4:
-    # "The following scene is disabled based on your accessibility options. By proceeding forward, you'll skip to the next day. "
-    "La scène qui va suivre est désactivée en raison de vos options d'accessibilité. En continuant après ce message, vous sauterez directement au jour suivant. "
+# game/script-a4-hanako.rpy:3945
+translate fr a4_hanako_indeterminate_future_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+

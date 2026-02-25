@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2024-04-23 17:26
 
-# game/script-a4-lilly.rpy:10
-translate zh_hans a4_lilly_slow_steps_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-lilly.rpy:16
 translate zh_hans a4_lilly_slow_steps_4e413f61:
 
@@ -35,12 +29,6 @@ translate zh_hans a4_lilly_slow_steps_b2db8d4d:
 
     # n "One day until exams start. It's horrific, really, that instead of studying we went and wasted our time up north. We were such model students, too."
     n "离考试开始还有一天。我们却选择去北方浪费了时间，而不是学习，真是太糟糕了。我们身为三好学生，真是愧疚啊。"
-
-# game/script-a4-lilly.rpy:29
-translate zh_hans a4_lilly_slow_steps_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-lilly.rpy:42
 translate zh_hans a4_lilly_slow_steps_cfc9cd31:
@@ -4944,12 +4932,6 @@ translate zh_hans a4_lilly_a_mornings_reverse_85879fae:
     # hi "Thank you."
     hi "多谢了。"
 
-# game/script-a4-lilly.rpy:3046
-translate zh_hans a4_lilly_blackout_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-lilly.rpy:3049
 translate zh_hans a4_lilly_blackout_8f4d1ed5:
 
@@ -5043,12 +5025,6 @@ translate zh_hans a4_lilly_blackout_fd0ab66c:
 
     # n "{vspace=60}I can navigate the halls that I once lost myself in with an ease I'd not expected to ever have, thanks to the school's logical layout, and can engage my teachers in comfortable discussion."
     n "{vspace=60}曾经我还在这走廊里迷过路，现在也已经可以轻而易举地找到方向了，这点是我从前始料未及的，还得归功于学校布局的逻辑性，此外，我还能和老师们进行舒适的谈话。"
-
-# game/script-a4-lilly.rpy:3090
-translate zh_hans a4_lilly_blackout_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-lilly.rpy:3098
 translate zh_hans a4_lilly_blackout_912fb274:
@@ -8032,12 +8008,6 @@ translate zh_hans a4_lilly_a_faraway_future_6736385a:
     # "Even as she says it, the tone of her voice gives away that she doesn't truly believe what she's saying."
     "就算她这么说，话里的语调也透露出了她其实并不真的相信自己所说的话。"
 
-# game/script-a4-lilly.rpy:4839
-translate zh_hans a4_lilly_a_faraway_future_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-lilly.rpy:4842
 translate zh_hans a4_lilly_a_faraway_future_c0d1cebd:
 
@@ -8279,12 +8249,6 @@ translate zh_hans a4_lilly_farewell_ba9a2dc8:
 
     # "As class ends, I simply rest my head on my hand and stare out of the window to pass the time."
     "下课后，我把头枕在手上，看着窗外消磨时间。"
-
-# game/script-a4-lilly.rpy:4999
-translate zh_hans a4_lilly_farewell_76b2fe88:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-lilly.rpy:5002
 translate zh_hans a4_lilly_farewell_898d33e1:
@@ -10222,12 +10186,6 @@ translate zh_hans a4_lilly_false_cadence_a996223f:
     # "She really has grown."
     "她真的已经成长了。"
 
-# game/script-a4-lilly.rpy:6274
-translate zh_hans a4_lilly_false_cadence_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-lilly.rpy:6277
 translate zh_hans a4_lilly_false_cadence_0686fd77:
 
@@ -10283,12 +10241,6 @@ translate zh_hans a4_lilly_false_cadence_24ff359c:
 
     # n "{vspace=30}When I think about it, I'd always depended on them, even if they hadn't been at home all the time. To say I never depended on anyone after moving to the Yamaku dormitories would be far from the truth, though."
     n "{vspace=30}当我回想起来时，我意识到自己总是在依赖他们，哪怕他们根本不怎么回家。不过，我也没法说自己进入山久高中后，就能独立生活了。"
-
-# game/script-a4-lilly.rpy:6299
-translate zh_hans a4_lilly_false_cadence_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-lilly.rpy:6302
 translate zh_hans a4_lilly_false_cadence_bc3775af:
@@ -10536,12 +10488,6 @@ translate zh_hans a4_lilly_false_cadence_3df5a7ad:
     # "I turn the bird in my fingers another way, looking at it from yet another angle."
     "我把手中的纸鸟转向了一边，从另一个角度去看它。"
 
-# game/script-a4-lilly.rpy:6455
-translate zh_hans a4_lilly_false_cadence_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-lilly.rpy:6458
 translate zh_hans a4_lilly_false_cadence_38281dd1:
 
@@ -10691,12 +10637,6 @@ translate zh_hans a4_lilly_false_cadence_da43819c:
 
     # n "Thanks to that, I lost Lilly. I lost the one person I loved most because I wasn't there for her when she needed me."
     n "正因为此，我才失去了莉莉。我失去了一个自己最爱的人，因为当她需要我的时候，我并没有在她身边。"
-
-# game/script-a4-lilly.rpy:6514
-translate zh_hans a4_lilly_false_cadence_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-lilly.rpy:6525
 translate zh_hans a4_lilly_false_cadence_1c9efa45:
@@ -11412,12 +11352,6 @@ translate zh_hans a4_lilly_under_a_maudlin_sky_4992c769:
     # "The silence of the private room suddenly feels overwhelming."
     "私人病房的寂静突然间变得震耳欲聋。"
 
-# game/script-a4-lilly.rpy:6988
-translate zh_hans a4_lilly_under_a_maudlin_sky_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-lilly.rpy:6991
 translate zh_hans a4_lilly_under_a_maudlin_sky_8d70b7ea:
 
@@ -11579,12 +11513,6 @@ translate zh_hans a4_lilly_under_a_maudlin_sky_45f0335e:
 
     # n "Maybe that's why I feel so tired. It feels almost as if I've lived the entire last few months of my life in the space of minutes."
     n "可能这就是我如此疲倦的原因。我感觉自己几乎在数分钟内过完了先前数个月的生活。"
-
-# game/script-a4-lilly.rpy:7050
-translate zh_hans a4_lilly_under_a_maudlin_sky_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-lilly.rpy:7055
 translate zh_hans a4_lilly_under_a_maudlin_sky_28109729:
@@ -12929,4 +12857,78 @@ translate zh_hans strings:
     # game/script-a4-lilly.rpy:7508
     old "Yup."
     new "嗯。"
+
+# TODO: Translation updated at 2026-02-25 00:03
+
+# game/script-a4-lilly.rpy:10
+translate zh_hans a4_lilly_slow_steps_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:29
+translate zh_hans a4_lilly_slow_steps_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:3046
+translate zh_hans a4_lilly_blackout_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:3090
+translate zh_hans a4_lilly_blackout_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:4839
+translate zh_hans a4_lilly_a_faraway_future_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:4999
+translate zh_hans a4_lilly_farewell_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:6279
+translate zh_hans a4_lilly_false_cadence_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:6304
+translate zh_hans a4_lilly_false_cadence_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:6460
+translate zh_hans a4_lilly_false_cadence_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:6519
+translate zh_hans a4_lilly_false_cadence_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:6993
+translate zh_hans a4_lilly_under_a_maudlin_sky_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-lilly.rpy:7055
+translate zh_hans a4_lilly_under_a_maudlin_sky_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 

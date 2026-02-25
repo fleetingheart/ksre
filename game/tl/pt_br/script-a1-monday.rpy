@@ -260,7 +260,7 @@ translate pt_br a1_monday_out_cold_3fd9ad67:
     n "{vspace=30}As últimas coisas que me lembro antes de apagar são os gritos por socorro da Iwanako e o ruído incessante dos galhos acima…"
 
 # game/script-a1-monday.rpy:209
-translate pt_br a1_monday_out_cold_76b2fe88:
+translate pt_br a1_monday_out_cold_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -3297,14 +3297,4 @@ translate pt_br strings:
     # game/script-a1-monday.rpy:1701
     old "Hisao Nakai\n\nTwo tablets daily to stay alive"
     new "Hisao Nakai\n\nDois comprimidos por dia para sobreviver"
-
-
-
-# TODO: Translation updated at 2026-02-23 16:54
-
-# game/script-a1-monday.rpy:209
-translate pt_br a1_monday_out_cold_d41d8cd9:
-
-    # nvl clear
-    nvl clear
 

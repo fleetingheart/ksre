@@ -1020,8 +1020,8 @@ translate ru a3_lilly_minor_discord_f24f54df:
     # "Once he starts rambling into conspiracy territory, my juice suddenly becomes of much more importance."
     "Как только он начинает молоть чушь про заговоры, мой сок вдруг становится для меня гораздо важнее."
 
-# game/script-a3-lilly.rpy:679
-translate ru a3_lilly_minor_discord_76b2fe88:
+# game/script-a3-lilly.rpy:690
+translate ru a3_lilly_minor_discord_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -1050,8 +1050,8 @@ translate ru a3_lilly_minor_discord_769f017b:
     # n "Come to think of it, I need to go check on Hanako after school, too. Considering her much improved attendance, I'm guessing she's come down with something."
     n "Кстати, мне нужно зайти проведать Ханако после школы. Она стала гораздо чаще посещать занятия, так что, думаю, сейчас она просто приболела."
 
-# game/script-a3-lilly.rpy:693
-translate ru a3_lilly_minor_discord_76b2fe88_1:
+# game/script-a3-lilly.rpy:704
+translate ru a3_lilly_minor_discord_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -1746,8 +1746,8 @@ translate ru a3_lilly_a_world_away_a68f6852:
     # "Giving up on reading, I simply let my head drop onto the book in front of me."
     "Махнув рукой на чтение, я роняю голову на лежащую передо мной книгу."
 
-# game/script-a3-lilly.rpy:1076
-translate ru a3_lilly_a_world_away_76b2fe88:
+# game/script-a3-lilly.rpy:1092
+translate ru a3_lilly_a_world_away_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -1788,8 +1788,8 @@ translate ru a3_lilly_a_world_away_04c3c7dc:
     # n "It doesn't help that many attempts to do so have led to the troublesome topic of Iwanako. Every time my thoughts drift into that direction, I reflexively try to think about something else."
     n "Легче не стало, ведь все попытки разобраться в себе приводят к неприятной теме Иванако. Каждый раз, когда мои мысли сносит в этом направлении, я рефлекторно пытаюсь думать о чём-то другом."
 
-# game/script-a3-lilly.rpy:1093
-translate ru a3_lilly_a_world_away_76b2fe88_1:
+# game/script-a3-lilly.rpy:1109
+translate ru a3_lilly_a_world_away_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -1992,8 +1992,8 @@ translate ru a3_lilly_a_world_away_adc309ed:
     # "She gives a girlish giggle, which only reinforces my view of her as being different from the usual staff here."
     "Она по-девчачьи хихикает, что только укрепляет меня во мнении, что она отличается от остального персонала интерната."
 
-# game/script-a3-lilly.rpy:1208
-translate ru a3_lilly_a_world_away_76b2fe88_2:
+# game/script-a3-lilly.rpy:1223
+translate ru a3_lilly_a_world_away_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -2016,8 +2016,8 @@ translate ru a3_lilly_a_world_away_1a4d5321:
     # n "It's just one more motive to move on from the past. The last thing I need right now is to get too caught up in that and getting homesick while I'm at it."
     n "Это всего лишь ещё один повод двигаться дальше. Меньше всего мне сейчас нужно застрять в воспоминаниях и тоске по прошлому."
 
-# game/script-a3-lilly.rpy:1217
-translate ru a3_lilly_a_world_away_76b2fe88_3:
+# game/script-a3-lilly.rpy:1232
+translate ru a3_lilly_a_world_away_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -2358,8 +2358,8 @@ translate ru a3_lilly_renewal_2004258f:
     # "I sit listening to another of Mutou's long-winded lectures, my mind wandering far from the scribbles on the dirty blackboard."
     "Я сижу, слушая очередную тягучую лекцию Муто, но мой разум блуждает вдалеке от каракулей на исписанной доске."
 
-# game/script-a3-lilly.rpy:1376
-translate ru a3_lilly_renewal_76b2fe88:
+# game/script-a3-lilly.rpy:1390
+translate ru a3_lilly_renewal_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -2394,8 +2394,8 @@ translate ru a3_lilly_renewal_9ae080da:
     # n "It's amazing how quickly one becomes used to the environment they're forced to live in, really. And now I've even found someone that's got me entirely smitten. What a strange life."
     n "Удивительно, в самом деле, как быстро мы привыкаем к окружению, в котором вынуждены жить. А теперь я даже встретил человека, который совершенно меня очаровал. Какая чудная жизнь."
 
-# game/script-a3-lilly.rpy:1389
-translate ru a3_lilly_renewal_76b2fe88_1:
+# game/script-a3-lilly.rpy:1403
+translate ru a3_lilly_renewal_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -5714,8 +5714,8 @@ translate ru a3_lilly_gray_outlook_60cef8ec:
     # n "I never thought I'd say it, but the idea of living away from the city in a nice, tranquil area is an inviting one. It's a thought that, barely a year ago, would have seemed simply ludicrous."
     n "Никогда бы не подумал, что скажу это, но мысль о жизни вдали от больших городов, в приятном, спокойном районе довольно привлекательна. Мысль, которая всего год назад показалось бы просто смехотворной."
 
-# game/script-a3-lilly.rpy:3461
-translate ru a3_lilly_gray_outlook_76b2fe88:
+# game/script-a3-lilly.rpy:3479
+translate ru a3_lilly_gray_outlook_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6110,8 +6110,8 @@ translate ru a3_lilly_rhapsody_in_blue_25d6306b:
     # "I have no idea how long it's been since I had a genuine hot bath, but right now I can hardly be bothered trying to remember."
     "Понятия не имею, как давно я по-настоящему не принимал горячую ванну, но в данный момент я даже вспоминать не хочу."
 
-# game/script-a3-lilly.rpy:3726
-translate ru a3_lilly_rhapsody_in_blue_76b2fe88:
+# game/script-a3-lilly.rpy:3744
+translate ru a3_lilly_rhapsody_in_blue_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6164,12 +6164,11 @@ translate ru a3_lilly_rhapsody_in_blue_3553b764:
     # n "Also now, of all times, I'm getting into a relationship."
     n "И, что важнее всего, я влюбился."
 
-# game/script-a3-lilly.rpy:3745
-translate ru a3_lilly_rhapsody_in_blue_76b2fe88_1:
+# game/script-a3-lilly.rpy:3763
+translate ru a3_lilly_rhapsody_in_blue_d41d8cd9_1:
 
     # nvl clear
     nvl clear
-
 # game/script-a3-lilly.rpy:3748
 translate ru a3_lilly_rhapsody_in_blue_0d768b95:
 
@@ -7328,68 +7327,3 @@ translate ru strings:
     old "Oh, 'morning Hisao."
     new "Ой, доброе утро, Хисао."
 
-# game/script-a3-lilly.rpy:690
-translate ru a3_lilly_minor_discord_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-lilly.rpy:704
-translate ru a3_lilly_minor_discord_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-lilly.rpy:1092
-translate ru a3_lilly_a_world_away_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-lilly.rpy:1109
-translate ru a3_lilly_a_world_away_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-lilly.rpy:1223
-translate ru a3_lilly_a_world_away_d41d8cd9_2:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-lilly.rpy:1232
-translate ru a3_lilly_a_world_away_d41d8cd9_3:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-lilly.rpy:1390
-translate ru a3_lilly_renewal_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-lilly.rpy:1403
-translate ru a3_lilly_renewal_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-lilly.rpy:3479
-translate ru a3_lilly_gray_outlook_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-lilly.rpy:3744
-translate ru a3_lilly_rhapsody_in_blue_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-lilly.rpy:3763
-translate ru a3_lilly_rhapsody_in_blue_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear

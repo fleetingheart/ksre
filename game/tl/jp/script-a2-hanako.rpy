@@ -571,7 +571,7 @@ translate jp a2_hanako_to_town_to_town_b57613d1:
     "ハーブを売ってるコンビニって、なんだそれ。"
 
 # game/script-a2-hanako.rpy:395
-translate jp a2_hanako_to_town_to_town_76b2fe88:
+translate jp a2_hanako_to_town_to_town_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -3962,8 +3962,8 @@ translate jp a2_hanako_mad_hatter_1d2664be:
     # "Hanako, finally beginning to relax, sips from her cup."
     "華子も緊張がとけたようで、カップから紅茶をすすりはじめる。"
 
-# game/script-a2-hanako.rpy:2648
-translate jp a2_hanako_mad_hatter_76b2fe88:
+# game/script-a2-hanako.rpy:2651
+translate jp a2_hanako_mad_hatter_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -4034,14 +4034,14 @@ translate jp a2_hanako_mad_hatter_f57eaa86:
     # n "However, I see no harm in becoming better friends with Hanako. Now that she's warming up to me I kind of enjoy hanging out with her."
     n "でも華子と友情を深めていくことは嫌じゃない。今は華子が俺に好意的になってくれているので、俺も華子と一緒に過ごす時間を楽しんでいる。"
 
-# game/script-a2-hanako.rpy:2674
-translate jp a2_hanako_mad_hatter_76b2fe88_1:
+# game/script-a2-hanako.rpy:2677
+translate jp a2_hanako_mad_hatter_d41d8cd9_1:
 
     # nvl clear
     nvl clear
 
-# game/script-a2-hanako.rpy:2679
-translate jp a2_hanako_mad_hatter_76b2fe88_2:
+# game/script-a2-hanako.rpy:2682
+translate jp a2_hanako_mad_hatter_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -4082,8 +4082,8 @@ translate jp a2_hanako_mad_hatter_384a99ca:
     # n "{vspace=30}Isn't that enough?"
     n "\nそれで十分じゃないのか？"
 
-# game/script-a2-hanako.rpy:2695
-translate jp a2_hanako_mad_hatter_76b2fe88_3:
+# game/script-a2-hanako.rpy:2698
+translate jp a2_hanako_mad_hatter_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -5456,8 +5456,8 @@ translate jp a2_hanako_equivalent_exchange_de5bd408:
     # "I imagine Hanako is going through the same thing now."
     "華子も今同じものを感じているだろう。"
 
-# game/script-a2-hanako.rpy:3525
-translate jp a2_hanako_equivalent_exchange_76b2fe88:
+# game/script-a2-hanako.rpy:3530
+translate jp a2_hanako_equivalent_exchange_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5504,8 +5504,8 @@ translate jp a2_hanako_equivalent_exchange_7afe38dd:
     # n "Did her parents die? I'll have to ask Lilly about it. I can imagine myself saying something dumb unintentionally."
     n "親は亡くなったのだろうか？　今度リリーに聞いておこう。じゃないと意図せず何かバカなことを口走って地雷を踏むのが目に見える。"
 
-# game/script-a2-hanako.rpy:3544
-translate jp a2_hanako_equivalent_exchange_76b2fe88_1:
+# game/script-a2-hanako.rpy:3549
+translate jp a2_hanako_equivalent_exchange_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -5567,4 +5567,3 @@ translate jp strings:
     # game/script-a2-hanako.rpy:1170
     old "I've done enough work for the council already."
     new "俺はもう十分生徒会の仕事に貢献したよ"
-

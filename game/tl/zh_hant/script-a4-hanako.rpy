@@ -6600,12 +6600,6 @@ translate zh_hant a4_hanako_indeterminate_future_467bce13:
     # "I pick myself up, books and pens in hand, and place them inside Hanako's desk. With the classroom now empty, I end up just leaning against her desk and thinking to myself in silence."
     "我站起身，手中拿著書本和筆，把它們放回華子的桌子。現在教室裡已經空無一人了，我靠在她的桌上，默默思忖著。"
 
-# game/script-a4-hanako.rpy:3945
-translate zh_hant a4_hanako_indeterminate_future_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-hanako.rpy:3948
 translate zh_hant a4_hanako_indeterminate_future_0bd7d29f:
 
@@ -7481,4 +7475,12 @@ translate zh_hant strings:
     # game/script-a4-hanako.rpy:843
     old "Trust my own judgment."
     new "相信自己的判斷。"
+
+# TODO: Translation updated at 2026-02-25 00:11
+
+# game/script-a4-hanako.rpy:3945
+translate zh_hant a4_hanako_indeterminate_future_d41d8cd9:
+
+    # nvl clear
+    nvl clear
 

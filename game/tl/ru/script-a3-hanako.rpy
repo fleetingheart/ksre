@@ -4560,8 +4560,8 @@ translate ru a3_hanako_treading_softly_965e284e:
     # "I lay on my bed, trying to collect my thoughts."
     "Я ложусь на кровать, пытаясь разобраться в собственных мыслях."
 
-# game/script-a3-hanako.rpy:2925
-translate ru a3_hanako_treading_softly_76b2fe88:
+# game/script-a3-hanako.rpy:2950
+translate ru a3_hanako_treading_softly_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -4602,8 +4602,8 @@ translate ru a3_hanako_treading_softly_df795a60:
     # n "{vspace=60}Just what have I been doing, for all this time I've been with her and Lilly?"
     n "{vspace=60}Чем я вообще занимался, пока проводил время с ней и Лилли?"
 
-# game/script-a3-hanako.rpy:2944
-translate ru a3_hanako_treading_softly_76b2fe88_1:
+# game/script-a3-hanako.rpy:2969
+translate ru a3_hanako_treading_softly_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -10229,16 +10229,4 @@ translate ru strings:
     # game/script-a3-hanako.rpy:6224
     old "How about we call it a day?"
     new "Тогда всё на сегодня?"
-
-# game/script-a3-hanako.rpy:2950
-translate ru a3_hanako_treading_softly_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-hanako.rpy:2969
-translate ru a3_hanako_treading_softly_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
 

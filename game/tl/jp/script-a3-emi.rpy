@@ -1,7 +1,7 @@
 # TODO: Translation updated at 2025-06-23 13:41
 
 # game/script-a3-emi.rpy:10
-translate jp a3_emi_eet_ees_scienca_76b2fe88:
+translate jp a3_emi_eet_ees_scienca_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -61,7 +61,7 @@ translate jp a3_emi_eet_ees_scienca_ed009a62:
     n "笑美への思いで頭が一杯になり、意識がふっと遠ざかってしまう。"
 
 # game/script-a3-emi.rpy:36
-translate jp a3_emi_eet_ees_scienca_76b2fe88_1:
+translate jp a3_emi_eet_ees_scienca_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -9348,8 +9348,8 @@ translate jp a3_emi_afterschool_plans_a82e9d35:
     # "The rest of the night is not spent worrying about exams."
     "その日の残りの夜はテストの心配をすることなく過ごした。"
 
-# game/script-a3-emi.rpy:5439
-translate jp a3_emi_detached_76b2fe88:
+# game/script-a3-emi.rpy:5441
+translate jp a3_emi_detached_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -9502,8 +9502,8 @@ translate jp a3_emi_detached_d241477e:
     # n "His praise of me carries the veiled implication that anything less than perfect from me would be a disappointment, which has actually caused me to fret more than I should about the exam."
     n "先生の褒め言葉は、満点以外は認めないような、妙な含みがある気がして、おかげで必要以上にテストに対して不安になってしまう。"
 
-# game/script-a3-emi.rpy:5496
-translate jp a3_emi_detached_76b2fe88_1:
+# game/script-a3-emi.rpy:5498
+translate jp a3_emi_detached_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -9532,8 +9532,8 @@ translate jp a3_emi_detached_c0fd781b:
     # "As I flip through my notes one more time, my mind begins to wander."
     "もう一度ノートをめくると、俺の意識はさまよい始める。"
 
-# game/script-a3-emi.rpy:5512
-translate jp a3_emi_detached_76b2fe88_2:
+# game/script-a3-emi.rpy:5514
+translate jp a3_emi_detached_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -9592,8 +9592,8 @@ translate jp a3_emi_detached_ceccb846:
     # n "Heh."
     n "はあ。"
 
-# game/script-a3-emi.rpy:5535
-translate jp a3_emi_detached_76b2fe88_3:
+# game/script-a3-emi.rpy:5537
+translate jp a3_emi_detached_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -10234,8 +10234,8 @@ translate jp a3_emi_detached_1b58ae30:
     # hi "Yeah, maybe I should do that."
     hi "ええ、それがよさそうですね"
 
-# game/script-a3-emi.rpy:5846
-translate jp a3_emi_detached_76b2fe88_4:
+# game/script-a3-emi.rpy:5848
+translate jp a3_emi_detached_d41d8cd9_4:
 
     # nvl clear
     nvl clear
@@ -10312,8 +10312,8 @@ translate jp a3_emi_detached_cff700c2:
     # n "I'll cross that bridge when I come to it."
     n "やるときはやってやるさ。"
 
-# game/script-a3-emi.rpy:5876
-translate jp a3_emi_detached_76b2fe88_5:
+# game/script-a3-emi.rpy:5878
+translate jp a3_emi_detached_d41d8cd9_5:
 
     # nvl clear
     nvl clear
@@ -10402,8 +10402,8 @@ translate jp a3_emi_phantom_pain_efbe6d0b:
     # "The question keeps spinning in my head even after I made my way back to my room."
     "部屋に戻ってからも、その疑問が頭の中をめぐり続ける。"
 
-# game/script-a3-emi.rpy:5944
-translate jp a3_emi_phantom_pain_76b2fe88:
+# game/script-a3-emi.rpy:5946
+translate jp a3_emi_phantom_pain_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -10468,8 +10468,8 @@ translate jp a3_emi_phantom_pain_7eb56115:
     # n "But I want to."
     n "でも助けたいんだ。"
 
-# game/script-a3-emi.rpy:5973
-translate jp a3_emi_phantom_pain_76b2fe88_1:
+# game/script-a3-emi.rpy:5975
+translate jp a3_emi_phantom_pain_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -11422,8 +11422,8 @@ translate jp a3_emi_phantom_pain_95e3e68e:
     # emi "Yeah?"
     emi "なに？"
 
-# game/script-a3-emi.rpy:6463
-translate jp a3_emi_phantom_pain_76b2fe88_2:
+# game/script-a3-emi.rpy:6465
+translate jp a3_emi_phantom_pain_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -11488,8 +11488,8 @@ translate jp a3_emi_phantom_pain_f9d74b66:
     # n "I want to know so badly that being denied that answer feels like a knife in my guts."
     n "答えを拒否されたことが、はらわたにナイフを突き立てられるように感じるくらい、俺は知りたいんだ。"
 
-# game/script-a3-emi.rpy:6488
-translate jp a3_emi_phantom_pain_76b2fe88_3:
+# game/script-a3-emi.rpy:6490
+translate jp a3_emi_phantom_pain_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -11560,8 +11560,8 @@ translate jp a3_emi_phantom_pain_52ae208b:
     # "Somehow I wander back to my own room. My brains are doing a mile a minute, going nowhere fast."
     "どういうわけか俺は自分の部屋に戻ってくる。脳が猛烈なスピードで、目的もなくはたらいている。"
 
-# game/script-a3-emi.rpy:6527
-translate jp a3_emi_phantom_pain_76b2fe88_4:
+# game/script-a3-emi.rpy:6529
+translate jp a3_emi_phantom_pain_d41d8cd9_4:
 
     # nvl clear
     nvl clear
@@ -11608,8 +11608,8 @@ translate jp a3_emi_phantom_pain_942f56f4:
     # n "And unfortunately, no time to watch out for lagging teammates either."
     n "そして不運にも、遅れをとったチームメイトに注意する暇もない。"
 
-# game/script-a3-emi.rpy:6544
-translate jp a3_emi_phantom_pain_76b2fe88_5:
+# game/script-a3-emi.rpy:6546
+translate jp a3_emi_phantom_pain_d41d8cd9_5:
 
     # nvl clear
     nvl clear
@@ -11626,8 +11626,8 @@ translate jp a3_emi_phantom_pain_ffeb3ec8:
     # "No such luck, of course."
     "もちろん、そんなはずはない。"
 
-# game/script-a3-emi.rpy:6551
-translate jp a3_emi_phantom_pain_76b2fe88_6:
+# game/script-a3-emi.rpy:6553
+translate jp a3_emi_phantom_pain_d41d8cd9_6:
 
     # nvl clear
     nvl clear
@@ -11656,8 +11656,8 @@ translate jp a3_emi_phantom_pain_250e5b09:
     # n "{vspace=30}Maybe this is just as fixed as the both of us can get."
     n "\nもしかしたら、俺たち二人の仲はここまでしか直らないのかもしれない。"
 
-# game/script-a3-emi.rpy:6562
-translate jp a3_emi_phantom_pain_76b2fe88_7:
+# game/script-a3-emi.rpy:6564
+translate jp a3_emi_phantom_pain_d41d8cd9_7:
 
     # nvl clear
     nvl clear
@@ -11698,8 +11698,8 @@ translate jp a3_emi_debate_expresses_doubt_a1583b46:
     # "That clenched feeling in my gut is still there."
     "はらわたを締め付けられるような感覚がまだ残っている。"
 
-# game/script-a3-emi.rpy:6584
-translate jp a3_emi_debate_expresses_doubt_76b2fe88:
+# game/script-a3-emi.rpy:6586
+translate jp a3_emi_debate_expresses_doubt_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -11790,8 +11790,8 @@ translate jp a3_emi_debate_expresses_doubt_4cca4b06:
     # n "{vspace=30}I hope so."
     n "\nそう願いたい。"
 
-# game/script-a3-emi.rpy:6617
-translate jp a3_emi_debate_expresses_doubt_76b2fe88_1:
+# game/script-a3-emi.rpy:6619
+translate jp a3_emi_debate_expresses_doubt_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -12204,8 +12204,8 @@ translate jp a3_emi_debate_expresses_doubt_4c593746:
     # "I can't get myself to calm down the whole time."
     "ずっと落ち着かないままにナースのところへ向かう。"
 
-# game/script-a3-emi.rpy:6815
-translate jp a3_emi_debate_expresses_doubt_76b2fe88_2:
+# game/script-a3-emi.rpy:6817
+translate jp a3_emi_debate_expresses_doubt_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -12246,8 +12246,8 @@ translate jp a3_emi_debate_expresses_doubt_a8302645:
     # n "I very nearly didn't even bring anything up with her, was just gonna hop on in there and let it ride, wasn't I?"
     n "そもそも笑美と何かを育んできたってことすらない。ただ飛び乗って、成り行きに任せただけじゃないか？"
 
-# game/script-a3-emi.rpy:6832
-translate jp a3_emi_debate_expresses_doubt_76b2fe88_3:
+# game/script-a3-emi.rpy:6834
+translate jp a3_emi_debate_expresses_doubt_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -12588,8 +12588,8 @@ translate jp a3_emi_debate_expresses_doubt_dcfe7be7:
     # "I settle for a combination of all three and hop in the shower."
     "俺はその３つが入り混じった気分のまま、シャワー室に駆け込む。"
 
-# game/script-a3-emi.rpy:7075
-translate jp a3_emi_guess_whos_coming_never_mind_76b2fe88:
+# game/script-a3-emi.rpy:7077
+translate jp a3_emi_guess_whos_coming_never_mind_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -12674,8 +12674,8 @@ translate jp a3_emi_guess_whos_coming_never_mind_c63a736f:
     # n "I can't seem to come to terms with the fact that Emi appears to be trying to bring me closer while at the same time pushing me away."
     n "笑美は俺を遠ざけようとする一方で、同時に俺を近くに置こうとしている。どうにもその事実に折り合いをつけられない。"
 
-# game/script-a3-emi.rpy:7106
-translate jp a3_emi_guess_whos_coming_never_mind_76b2fe88_1:
+# game/script-a3-emi.rpy:7108
+translate jp a3_emi_guess_whos_coming_never_mind_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -12760,8 +12760,8 @@ translate jp a3_emi_guess_whos_coming_never_mind_b16aa4e1:
     # n "{vspace=30}Now if only I could manage my relationship as well as I've managed my heart, I'd be in great shape."
     n "\nあとは心臓と同じように笑美との関係さえなんとかできれば、俺は絶好調と言えるだろう。"
 
-# game/script-a3-emi.rpy:7141
-translate jp a3_emi_guess_whos_coming_never_mind_76b2fe88_2:
+# game/script-a3-emi.rpy:7143
+translate jp a3_emi_guess_whos_coming_never_mind_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -13738,8 +13738,8 @@ translate jp a3_emi_instant_replay_b680217d:
     # "The morning alarm sounds and I roll over, switching it off. My eyes open blearily to stare at the ceiling."
     "目覚まし時計の音が鳴り響き、俺は寝返りを打ってアラームを止める。俺はかすんだ目を開いて天井を見つめる。"
 
-# game/script-a3-emi.rpy:7755
-translate jp a3_emi_instant_replay_76b2fe88:
+# game/script-a3-emi.rpy:7757
+translate jp a3_emi_instant_replay_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -13786,8 +13786,8 @@ translate jp a3_emi_instant_replay_59b1b5a2:
     # n "{vspace=30}Can I really bring myself to go down there and see her, knowing that I'm never going to get past where I am now?"
     n "\n俺は本当に笑美に会いに行くことができるのか？　この状況から前進することができないとわかっていても？"
 
-# game/script-a3-emi.rpy:7772
-translate jp a3_emi_instant_replay_76b2fe88_1:
+# game/script-a3-emi.rpy:7774
+translate jp a3_emi_instant_replay_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -15808,8 +15808,8 @@ translate jp a3ec4o2_920f684a:
     # "After finishing reading the letter I smooth it out carefully and set it aside on my desk."
     "手紙を読み終わった俺は、丁寧にしわを取ってからそれを机の傍らに置く。"
 
-# game/script-a3-emi.rpy:8901
-translate jp a3ec4o2_76b2fe88:
+# game/script-a3-emi.rpy:8903
+translate jp a3ec4o2_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -15850,8 +15850,8 @@ translate jp a3ec4o2_41c2efed:
     # n "{vspace=60}And the past may just have taught me an important lesson now."
     n "\n\nそしてその過去は俺に大切なことを教えてくれたのかもしれない。"
 
-# game/script-a3-emi.rpy:8920
-translate jp a3ec4o2_76b2fe88_1:
+# game/script-a3-emi.rpy:8922
+translate jp a3ec4o2_d41d8cd9_1:
 
     # nvl clear
     nvl clear

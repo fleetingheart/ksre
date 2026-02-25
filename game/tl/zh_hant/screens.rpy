@@ -302,3 +302,19 @@ translate zh_hant strings:
     old "Brazilian Portuguese"
     new "巴西葡萄牙語"
 
+# TODO: Translation updated at 2026-02-25 00:11
+
+translate zh_hant strings:
+
+    # game/screens.rpy:1068
+    old "Current voice: "
+    new "Current voice: "
+
+    # game/screens.rpy:1085
+    old "Opacity"
+    new "Opacity"
+
+    # game/screens.rpy:1092
+    old "Text size"
+    new "Text size"
+

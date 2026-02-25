@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2024-03-16 21:54
 
 # game/script-a3-shizune.rpy:10
-translate de a3_shizune_force_feedback_76b2fe88:
+translate de a3_shizune_force_feedback_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -31,7 +31,7 @@ translate de a3_shizune_force_feedback_16ad86aa:
     n "{vspace=60}Heute bin ich früh aufgestanden, um vor allen anderen zur Schule zu kommen, in der Hoffnung, Shizune zu erwischen. Sie hat die Angewohnheit, Morgens als erste zu kommen, um pünktlicher als alle anderen Schüler zu sein. Leider bin ich wohl noch früher da als sie."
 
 # game/script-a3-shizune.rpy:26
-translate de a3_shizune_force_feedback_76b2fe88_1:
+translate de a3_shizune_force_feedback_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -5958,8 +5958,8 @@ translate de a3_shizune_the_anchor_254cb6b1:
     # "My first instinct is to call out to her and ask her if she has seen Shizune, or if she wants to go to town with me, but now that I've seen her I don't feel like disturbing her. I leave her alone."
     "Zuerst will ich sie rufen und sie fragen, ob sie Shizune gesehen hat, oder ob sie mit mir in die Stadt kommen will. Aber jetzt, wo ich sie so sehe, will ich sie nicht stören. Ich lasse sie in Ruhe."
 
-# game/script-a3-shizune.rpy:3905
-translate de a3_shizune_roadmap_76b2fe88:
+# game/script-a3-shizune.rpy:3917
+translate de a3_shizune_roadmap_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5988,8 +5988,8 @@ translate de a3_shizune_roadmap_01121c5e:
     # n "{vspace=60}After awhile, the idea of having some free time again had started to grow on me, though there were still periods when I felt like I had too much of it."
     n "{vspace=60}Nach einer Weile hatte ich mich wieder daran gewöhnt, etwas mehr Freizeit zu haben – obwohl es Phasen gab, in denen es mir wie zu viel Freizeit vorkam."
 
-# game/script-a3-shizune.rpy:3919
-translate de a3_shizune_roadmap_76b2fe88_1:
+# game/script-a3-shizune.rpy:3931
+translate de a3_shizune_roadmap_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -11399,4 +11399,3 @@ translate de strings:
     # game/script-a3-shizune.rpy:6354
     old "Refuse."
     new "Ablehnen."
-

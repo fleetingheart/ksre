@@ -348,8 +348,8 @@ translate ru a4_emi_a_swing_and_a_miss_4e5de42f:
     # hi "Yeah, sure…"
     hi "Ладно, без проблем…"
 
-# game/script-a4-emi.rpy:210
-translate ru a4_emi_a_swing_and_a_miss_76b2fe88:
+# game/script-a4-emi.rpy:213
+translate ru a4_emi_a_swing_and_a_miss_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -390,8 +390,8 @@ translate ru a4_emi_a_swing_and_a_miss_24f51d1f:
     # n "{vspace=30}I'm absolutely miserable."
     n "{vspace=30}Я просто жалок."
 
-# game/script-a4-emi.rpy:231
-translate ru a4_emi_a_swing_and_a_miss_76b2fe88_1:
+# game/script-a4-emi.rpy:233
+translate ru a4_emi_a_swing_and_a_miss_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -2633,18 +2633,4 @@ translate ru a4_emi_clean_teeth_84eaf109:
 
     # emi "What do you want to do today?"
     emi "Чем займёмся сегодня?"
-
-# TODO: Translation updated at 2026-02-23 04:24
-
-# game/script-a4-emi.rpy:213
-translate ru a4_emi_a_swing_and_a_miss_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-emi.rpy:233
-translate ru a4_emi_a_swing_and_a_miss_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
 

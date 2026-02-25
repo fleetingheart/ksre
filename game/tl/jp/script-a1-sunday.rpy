@@ -5305,7 +5305,7 @@ translate jp a1_sunday_movement_f8dca8a3:
     "学校の外での二人の振る舞いがこんなに違うことに驚く。とはいっても、どちらの振る舞いも明らかに目に見えて変わっている。"
 
 # game/script-a1-sunday.rpy:3026
-translate jp a1_sunday_movement_76b2fe88:
+translate jp a1_sunday_movement_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5341,7 +5341,7 @@ translate jp a1_sunday_movement_7f115645:
     n "\nそれとも、これを不名誉な代物として見ているのはもしかして俺だけなのか？　しばらくすれば他の学校の制服のように慣れるのだろうか。"
 
 # game/script-a1-sunday.rpy:3046
-translate jp a1_sunday_movement_76b2fe88_1:
+translate jp a1_sunday_movement_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -10185,4 +10185,3 @@ translate jp strings:
     # game/script-a1-sunday.rpy:5327
     old "AHHHHHHHHHHHHH!"
     new "わああああああああ！"
-

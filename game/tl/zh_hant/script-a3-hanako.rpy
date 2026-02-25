@@ -4560,12 +4560,6 @@ translate zh_hant a3_hanako_treading_softly_965e284e:
     # "I lay on my bed, trying to collect my thoughts."
     "我躺在床上，試著集中思想。"
 
-# game/script-a3-hanako.rpy:2950
-translate zh_hant a3_hanako_treading_softly_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-hanako.rpy:2953
 translate zh_hant a3_hanako_treading_softly_9e7958ed:
 
@@ -4601,12 +4595,6 @@ translate zh_hant a3_hanako_treading_softly_df795a60:
 
     # n "{vspace=60}Just what have I been doing, for all this time I've been with her and Lilly?"
     n "{vspace=60}這些日子跟著她與莉莉混，我都在做什麼？"
-
-# game/script-a3-hanako.rpy:2969
-translate zh_hant a3_hanako_treading_softly_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-hanako.rpy:2972
 translate zh_hant a3_hanako_treading_softly_c13e84e0:
@@ -10225,4 +10213,18 @@ translate zh_hant strings:
     # game/script-a3-hanako.rpy:6294
     old "How about we call it a day?"
     new "不如我們今天就這麼結束了，怎麼樣？"
+
+# TODO: Translation updated at 2026-02-25 00:11
+
+# game/script-a3-hanako.rpy:2950
+translate zh_hant a3_hanako_treading_softly_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-hanako.rpy:2969
+translate zh_hant a3_hanako_treading_softly_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 

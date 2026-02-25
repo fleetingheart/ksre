@@ -414,23 +414,11 @@ translate zh_hant a4_rin_illusions_for_people_ca80d7e4:
     # "My message didn't get through, to say the least."
     "毫不誇張地說，我想說的東西完全沒被聽見。"
 
-# game/script-a4-rin.rpy:240
-translate zh_hant a4_rin_demused_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:249
 translate zh_hant a4_rin_demused_ff53f23f:
 
     # n "{vspace=270}The day after that, all the missed opportunities and things I should have said come crashing down on me. There's nothing left to do afterwards but brood."
     n "{vspace=270}那天之後，所有錯失的機會和該說出的話都砸落在了我身上。除了在鬱悶中等待外，我什麼也做不了。"
-
-# game/script-a4-rin.rpy:251
-translate zh_hant a4_rin_demused_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:258
 translate zh_hant a4_rin_demused_9afb296f:
@@ -438,23 +426,11 @@ translate zh_hant a4_rin_demused_9afb296f:
     # n "{vspace=270}Second day. I begin to feel anxious. I start doubting my doubt and it feels stupid, especially since I still can't think about anything else than Rin."
     n "{vspace=270}第二天，我開始感到焦慮。我開始懷疑自己的疑慮，而且感覺蠢極了，尤其是考慮到我除了琳之外什麼都想不了。"
 
-# game/script-a4-rin.rpy:260
-translate zh_hant a4_rin_demused_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:267
 translate zh_hant a4_rin_demused_e59a7803:
 
     # n "{vspace=270}Third day. Japanese exam, {b}and{/b} world history exam. Great. The thing I hate most about her is that she can make me feel this awful even though I should be focusing on entirely different stuff right now."
     n "{vspace=270}第三天是日語考試，{b}以及{/b}世界歷史測驗。棒呆了。我最恨她的一點，就是當我像現在這樣，應該把精力集中在完全不同的事上時，她還是能讓我感覺糟糕透頂。"
-
-# game/script-a4-rin.rpy:269
-translate zh_hant a4_rin_demused_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:276
 translate zh_hant a4_rin_demused_7bd0d1d0:
@@ -462,23 +438,11 @@ translate zh_hant a4_rin_demused_7bd0d1d0:
     # n "{vspace=270}Fourth day. Math exam. We have a math exam. It goes how it goes. I don't care."
     n "{vspace=270}第四天，數學測驗。我們有一場數學測驗。該怎樣就怎樣吧。我不在乎了。"
 
-# game/script-a4-rin.rpy:278
-translate zh_hant a4_rin_demused_76b2fe88_4:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:285
 translate zh_hant a4_rin_demused_c189afa1:
 
     # n "{vspace=270}Fifth day. Nomiya asks me again if I will attend the exhibition opening. I can't say no to him even though I seriously want to. I just don't want to discuss with him anything Rin-related so it's just better to take the path of least resistance."
     n "{vspace=270}第五天，野宮又問我要不要去畫展開幕式。我正經考慮過拒絕，但沒法這麼做。我只是完全不想和他談論任何同琳有關的事，所以最好還是選擇那條摩擦更少一些的路。"
-
-# game/script-a4-rin.rpy:287
-translate zh_hant a4_rin_demused_76b2fe88_5:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:296
 translate zh_hant a4_rin_demused_784a49fa:
@@ -1230,12 +1194,6 @@ translate zh_hant a4_rin_the_scene_4ec2eeed:
     # "Apart from that, I'm perfectly calm."
     "除此之外，我非常冷靜。"
 
-# game/script-a4-rin.rpy:692
-translate zh_hant a4_rin_the_scene_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:695
 translate zh_hant a4_rin_the_scene_69ee39bd:
 
@@ -1321,12 +1279,6 @@ translate zh_hant a4_rin_the_scene_c70301ec:
 
     # n "{vspace=30}Maybe that, ultimately, makes her like the rest of us."
     n "{vspace=30}或許出於這些原因，我們說到底都是和她一樣的。"
-
-# game/script-a4-rin.rpy:727
-translate zh_hant a4_rin_the_scene_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:740
 translate zh_hant a4_rin_the_scene_d25001ff:
@@ -2060,12 +2012,6 @@ translate zh_hant a4_rin_the_scene_ef00f851:
     # rin "That someone wouldn't have to ask questions from me." nointeract
     rin "一個不用問我問題的人。" nointeract
 
-# game/script-a4-rin.rpy:1254
-translate zh_hant a4_rin_wavelength_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1257
 translate zh_hant a4_rin_wavelength_d72a268b:
 
@@ -2102,23 +2048,11 @@ translate zh_hant a4_rin_wavelength_dc5d6e2d:
     # n "{vspace=60}Including me…"
     n "{vspace=60}包括我……"
 
-# game/script-a4-rin.rpy:1271
-translate zh_hant a4_rin_wavelength_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1277
 translate zh_hant a4_rin_wavelength_ee4c3c2d:
 
     # "A look at my doodles convinces me to stop trying to salvage them. It's a mess of lifeless lines, a waste of paper if it wasn't the flip side of my exam."
     "我看了一眼自己的塗鴉，意識到應該放棄補救它們了。那只是一堆毫無聲息的亂線，假如作畫的地方不是我的試卷背面，那我還浪費了一張紙。"
-
-# game/script-a4-rin.rpy:1281
-translate zh_hant a4_rin_wavelength_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:1284
 translate zh_hant a4_rin_wavelength_7ea49f73:
@@ -2161,12 +2095,6 @@ translate zh_hant a4_rin_wavelength_f33578dd:
 
     # n "It pisses me off that she herself can't seem to be happy about it."
     n "可她自己卻總是沒法滿足，我真是有些氣憤。"
-
-# game/script-a4-rin.rpy:1300
-translate zh_hant a4_rin_wavelength_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:1307
 translate zh_hant a4_rin_wavelength_0e057b53:
@@ -2336,12 +2264,6 @@ translate zh_hant a4_rin_wavelength_6fe3f787:
     # "I stand up with everyone."
     "我和大家一起站了起來。"
 
-# game/script-a4-rin.rpy:1411
-translate zh_hant a4_rin_wavelength_76b2fe88_4:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1414
 translate zh_hant a4_rin_wavelength_6cc7d4ef:
 
@@ -2384,12 +2306,6 @@ translate zh_hant a4_rin_wavelength_bd48d49c:
     # n "{vspace=60}I wish the whole world could be like this."
     n "{vspace=60}真希望整個世界都能如此。"
 
-# game/script-a4-rin.rpy:1432
-translate zh_hant a4_rin_wavelength_76b2fe88_5:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1438
 translate zh_hant a4_rin_wavelength_7b28a49b:
 
@@ -2401,12 +2317,6 @@ translate zh_hant a4_rin_wavelength_6b23919b:
 
     # "I turn the page slowly, listening to the rustling sound the paper makes when my fingers grasp it."
     "我緩緩地翻著書頁，聽著書頁在手指間發出的沙沙聲。"
-
-# game/script-a4-rin.rpy:1450
-translate zh_hant a4_rin_wavelength_76b2fe88_6:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:1453
 translate zh_hant a4_rin_wavelength_86da4edd:
@@ -2467,12 +2377,6 @@ translate zh_hant a4_rin_wavelength_ac10d3df:
 
     # n "Besides, my mind is on other matters, stretching in too many directions to make sense of any of them."
     n "再說，我正在想別的事，思緒向太多的方向延伸了，以至於什麼都想不清。"
-
-# game/script-a4-rin.rpy:1475
-translate zh_hant a4_rin_wavelength_76b2fe88_7:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:1478
 translate zh_hant a4_rin_wavelength_8860c35a:
@@ -2582,12 +2486,6 @@ translate zh_hant a4_rin_wavelength_d9d89bdb:
     # "Neither is, so I go back to my own room to dwell on my lethargy."
     "但兩人都不在，於是我回到了房間裡，想借著昏沉的狀態想想東西。"
 
-# game/script-a4-rin.rpy:1528
-translate zh_hant a4_rin_wavelength_76b2fe88_8:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1531
 translate zh_hant a4_rin_wavelength_e38a9633:
 
@@ -2662,23 +2560,11 @@ translate zh_hant a4_rin_wavelength_554e90c4:
     # n "It's usually like this. When you have 'nothing to do,' you do nothing even if you could."
     n "總是如此。當你“沒什麼要做”時，你就什麼也做不了了。"
 
-# game/script-a4-rin.rpy:1560
-translate zh_hant a4_rin_wavelength_76b2fe88_9:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1566
 translate zh_hant a4_rin_wavelength_61247b6a:
 
     # "As expected, mom calls me and I end up promising to see if I can get a train ticket for tomorrow, or failing that, the day after."
     "如我所料，媽媽給我打了電話，讓我保證明天去看看能不能買張火車票，如果不行，後天再試一次。"
-
-# game/script-a4-rin.rpy:1569
-translate zh_hant a4_rin_wavelength_76b2fe88_10:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:1586
 translate zh_hant a4_rin_wavelength_89cff40f:
@@ -2715,12 +2601,6 @@ translate zh_hant a4_rin_wavelength_dce4c6f8:
 
     # n "{vspace=30}Is it because I have changed, or because my world has changed?"
     n "{vspace=30}是因為我變了，還是我的世界變了？"
-
-# game/script-a4-rin.rpy:1601
-translate zh_hant a4_rin_wavelength_76b2fe88_11:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:1607
 translate zh_hant a4_rin_wavelength_2d1d7ef9:
@@ -2764,12 +2644,6 @@ translate zh_hant a4_rin_wavelength_98aa888b:
     # "One emerges from the mass, clearly rising above the others."
     "在眾多思緒中，一個想法清晰地浮了出來。"
 
-# game/script-a4-rin.rpy:1652
-translate zh_hant a4_rin_wavelength_76b2fe88_12:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1655
 translate zh_hant a4_rin_wavelength_fe43f2c2:
 
@@ -2782,12 +2656,6 @@ translate zh_hant a4_rin_wavelength_950439c0:
     # n "I can't let my outburst of anger be the last thing between us before the vacation."
     n "我不能讓自己發火時說的話變成假期前隔在我們間的最後一件事。"
 
-# game/script-a4-rin.rpy:1660
-translate zh_hant a4_rin_wavelength_76b2fe88_13:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:1667
 translate zh_hant a4_rin_wavelength_4215315d:
 
@@ -2799,12 +2667,6 @@ translate zh_hant a4_rin_wavelength_9f609591:
 
     # n "Sleep overcomes my confused mind with more ease than it should."
     n "睡意輕而易舉地淹沒了我迷茫的想法。"
-
-# game/script-a4-rin.rpy:1672
-translate zh_hant a4_rin_wavelength_76b2fe88_14:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:1692
 translate zh_hant a4_rin_blue_period_8d8a2921:
@@ -3472,12 +3334,6 @@ translate zh_hant a4_rin_blue_period_7b2cdcc7:
     # "I guess it takes a lot to succeed, but I suppose his job would be easier if Rin was more cooperative."
     "我猜成功的代價很大，不過假如琳更合作一點，他的工作也會更容易一些。"
 
-# game/script-a4-rin.rpy:2098
-translate zh_hant a4_rin_blue_period_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:2101
 translate zh_hant a4_rin_blue_period_b2628fcf:
 
@@ -3531,12 +3387,6 @@ translate zh_hant a4_rin_blue_period_456caa70:
 
     # n "Not that she's hiding anything, she just seems to defy my attempts at making sense of what she is talking about on any given day."
     n "不是說她在藏些什麼，她只是總對我試圖解讀她內心的嘗試不屑一顧而已，每天都一樣。"
-
-# game/script-a4-rin.rpy:2123
-translate zh_hant a4_rin_blue_period_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:2128
 translate zh_hant a4_rin_blue_period_ef9162e6:
@@ -4240,12 +4090,6 @@ translate zh_hant a4_rin_the_world_only_can_you_see_172269a2:
     # "Rin just shrugs sullenly and looks in the other direction. I give up at this point."
     "琳只是陰鬱地聳聳肩，看向了另一個方向。於是我放棄了。"
 
-# game/script-a4-rin.rpy:2500
-translate zh_hant a4_rin_the_world_only_can_you_see_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:2503
 translate zh_hant a4_rin_the_world_only_can_you_see_0dae1505:
 
@@ -4313,12 +4157,6 @@ translate zh_hant a4_rin_the_world_only_can_you_see_1581ca86:
 
     # n "I'm sure she's not the only one who wishes some things were different, but we can at least grasp the facts as they are."
     n "我確信她不是唯一那個希望事情能不一樣的人，不過至少，我們應該接受現實。"
-
-# game/script-a4-rin.rpy:2531
-translate zh_hant a4_rin_the_world_only_can_you_see_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:2538
 translate zh_hant a4_rin_the_world_only_can_you_see_63d1a98c:
@@ -5316,12 +5154,6 @@ translate zh_hant a4_rin_the_world_only_can_you_see_f4d5e348:
     # "Her words stayed frozen deep inside my heart."
     "她的話語留在了我的心裡，被深深地凍結成了冰。"
 
-# game/script-a4-rin.rpy:2980
-translate zh_hant a4_rin_desperate_glory_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:2983
 translate zh_hant a4_rin_desperate_glory_e96c8674:
 
@@ -5363,12 +5195,6 @@ translate zh_hant a4_rin_desperate_glory_a734eb67:
 
     # n "{vspace=60}The tangle just seems to thicken."
     n "{vspace=60}亂子似乎變得更糾結了。"
-
-# game/script-a4-rin.rpy:2999
-translate zh_hant a4_rin_desperate_glory_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:3004
 translate zh_hant a4_rin_desperate_glory_bbc8465f:
@@ -6282,12 +6108,6 @@ translate zh_hant a4_rin_problems_of_self_referential_logic_6e44563b:
     # rin "Nobody else has ever asked me to."
     rin "從來都沒人讓我那麼做過。"
 
-# game/script-a4-rin.rpy:3469
-translate zh_hant a4_rin_problems_of_self_referential_logic_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:3472
 translate zh_hant a4_rin_problems_of_self_referential_logic_cafeb753:
 
@@ -6511,12 +6331,6 @@ translate zh_hant a4_rin_problems_of_self_referential_logic_d1bf587e:
 
     # "Looking at Rin makes me feel bad."
     "看著琳，我感覺很糟。"
-
-# game/script-a4-rin.rpy:3577
-translate zh_hant a4_rin_problems_of_self_referential_logic_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:3580
 translate zh_hant a4_rin_problems_of_self_referential_logic_7a3f251e:
@@ -7792,12 +7606,6 @@ translate zh_hant a4_rin_raison_detre_e97643b3:
     # "Her slim shoulder quivering against my palm is a pitiable sight, and the hopelessness of being part of the cause for Rin's sadness keeps shredding my heart."
     "她纖細的肩膀顫抖著，貼向我的手掌，令人憐憫，我卻是讓琳變成這樣的一個原因，這是沒法擺脫的事實，一點一點地撕著我的心。"
 
-# game/script-a4-rin.rpy:4177
-translate zh_hant a4_rin_raison_detre_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:4180
 translate zh_hant a4_rin_raison_detre_d368b86c:
 
@@ -7834,12 +7642,6 @@ translate zh_hant a4_rin_raison_detre_b4ed80bb:
     # n "{vspace=60}But no words can express it, and no words can make it better."
     n "{vspace=60}可是卻沒有話語能將它表達出來，也沒有話語能讓它變得好一些。"
 
-# game/script-a4-rin.rpy:4194
-translate zh_hant a4_rin_raison_detre_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:4203
 translate zh_hant a4_rin_raison_detre_d0080779:
 
@@ -7869,12 +7671,6 @@ translate zh_hant a4_rin_raison_detre_16d51601:
 
     # n "{vspace=60}…"
     n "{vspace=60}……"
-
-# game/script-a4-rin.rpy:4216
-translate zh_hant a4_rin_raison_detre_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:4221
 translate zh_hant a4_rin_raison_detre_b60b0732:
@@ -7929,12 +7725,6 @@ translate zh_hant a4_rin_raison_detre_93c1815a:
 
     # "It's because doing it would just make me so sad that I don't know if I could bear it."
     "因為那麼做一定會讓我非常悲傷的，我不知道自己能不能忍受。"
-
-# game/script-a4-rin.rpy:4244
-translate zh_hant a4_rin_raison_detre_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:4247
 translate zh_hant a4_rin_raison_detre_2b137976:
@@ -8083,12 +7873,6 @@ translate zh_hant a4_rin_raison_detre_c32b9b24:
 
     # n "{vspace=30}The thought makes me almost laugh, she really does seem to be from another planet at times, minus green skin and possibly some tentacles."
     n "{vspace=30}這想法幾乎讓我笑出聲來，她有時真的像是來自另一顆星球一樣，淺綠色的皮膚，可能還有一些觸手。"
-
-# game/script-a4-rin.rpy:4302
-translate zh_hant a4_rin_raison_detre_76b2fe88_4:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:4307
 translate zh_hant a4_rin_raison_detre_5955a6a7:
@@ -8792,12 +8576,6 @@ translate zh_hant a4_rin_raison_detre_72471f0d:
     # hi "That's what people must do, sometimes."
     hi "有的時候人必須那麼做。"
 
-# game/script-a4-rin.rpy:4659
-translate zh_hant a4_rin_raison_detre_76b2fe88_5:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:4662
 translate zh_hant a4_rin_raison_detre_ae118e0e:
 
@@ -8809,12 +8587,6 @@ translate zh_hant a4_rin_raison_detre_dfb8e2b0:
 
     # n "And even those words drown in the all-encompassing silence, disappearing into the stagnant air as if they were never said."
     n "而且就連那幾個詞也被包裹一切的沉默淹沒了，消失在凝滯的空氣之中，如同從未存在過一般。"
-
-# game/script-a4-rin.rpy:4666
-translate zh_hant a4_rin_raison_detre_76b2fe88_6:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:4686
 translate zh_hant a4_rin_wb_and_ws_c1dc1f90:
@@ -9374,12 +9146,6 @@ translate zh_hant a4_rin_wb_and_ws_2dd8ebac:
     # "Here we are, a boy and girl, both in love or something like that with each other, or maybe not… and yet…"
     "我們就在這兒，一個男孩和一個女孩，雙雙墜入愛河，或是類似的事，或是什麼也沒有……但是依然……"
 
-# game/script-a4-rin.rpy:4990
-translate zh_hant a4_rin_wb_and_ws_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:4993
 translate zh_hant a4_rin_wb_and_ws_b89577d1:
 
@@ -9427,12 +9193,6 @@ translate zh_hant a4_rin_wb_and_ws_3bb38949:
 
     # n "So for now, all I can do is dry her up so she won't get a cold again."
     n "所以現在，我能做的只有將她擦乾，這樣她不會再得感冒。"
-
-# game/script-a4-rin.rpy:5013
-translate zh_hant a4_rin_wb_and_ws_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:5018
 translate zh_hant a4_rin_wb_and_ws_0c18ed33:
@@ -9998,12 +9758,6 @@ translate zh_hant a4_rin_wb_and_ws_3c0633da:
     # "Her eyes are sultry, inviting as she sits there bare naked without an inkling of shame. I never thought Rin could look like that."
     "她的眼睛幾乎是淫蕩的，無比撩人，而她就坐在這兒，赤身裸體，沒有一絲羞畏的痕跡。我從沒想到琳會看上去像這樣。"
 
-# game/script-a4-rin.rpy:5299
-translate zh_hant a4_rin_wb_and_ws_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:5302
 translate zh_hant a4_rin_wb_and_ws_37e3fa9f:
 
@@ -10101,12 +9855,6 @@ translate zh_hant a4_rin_wb_and_ws_bfe9e23d:
 
     # n "But she allows herself to want me without any restraint. Here and now."
     n "可是此時此刻，她已經放開了自己，允許自己去渴望我，沒有任何束縛."
-
-# game/script-a4-rin.rpy:5339
-translate zh_hant a4_rin_wb_and_ws_76b2fe88_3:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:5345
 translate zh_hant a4_rin_wb_and_ws_958f974a:
@@ -11528,12 +11276,6 @@ translate zh_hant a4_rin_proof_of_existence_30bfda0f:
     # "As I grasp her into an embrace, I feel my heart thumping in my chest painfully."
     "我把她攬入懷抱，心臟在胸腔裡痛苦地跳動著。"
 
-# game/script-a4-rin.rpy:6123
-translate zh_hant a4_rin_proof_of_existence_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-rin.rpy:6126
 translate zh_hant a4_rin_proof_of_existence_fcc6a40d:
 
@@ -11575,12 +11317,6 @@ translate zh_hant a4_rin_proof_of_existence_eabec665:
 
     # n "…"
     n "……"
-
-# game/script-a4-rin.rpy:6145
-translate zh_hant a4_rin_proof_of_existence_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:6150
 translate zh_hant a4_rin_proof_of_existence_e9d6a185:
@@ -11821,12 +11557,6 @@ translate zh_hant a4_rin_proof_of_existence_e02da6ea:
 
     # rin "It's all right to be me after all."
     rin "我可以繼續做我自己的，沒關係。"
-
-# game/script-a4-rin.rpy:6311
-translate zh_hant a4_rin_proof_of_existence_76b2fe88_2:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-rin.rpy:6314
 translate zh_hant a4_rin_proof_of_existence_711725db:
@@ -12783,4 +12513,276 @@ translate zh_hant strings:
     # game/script-a4-rin.rpy:5565
     old "That way… you can confirm that you are, in fact… alive."
     new "這樣一來……你才能向自己證明，你確實……活著。"
+
+# TODO: Translation updated at 2026-02-25 00:11
+
+# game/script-a4-rin.rpy:240
+translate zh_hant a4_rin_demused_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:251
+translate zh_hant a4_rin_demused_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:260
+translate zh_hant a4_rin_demused_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:269
+translate zh_hant a4_rin_demused_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:278
+translate zh_hant a4_rin_demused_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:287
+translate zh_hant a4_rin_demused_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:692
+translate zh_hant a4_rin_the_scene_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:727
+translate zh_hant a4_rin_the_scene_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1254
+translate zh_hant a4_rin_wavelength_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1271
+translate zh_hant a4_rin_wavelength_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1281
+translate zh_hant a4_rin_wavelength_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1300
+translate zh_hant a4_rin_wavelength_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1411
+translate zh_hant a4_rin_wavelength_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1432
+translate zh_hant a4_rin_wavelength_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1450
+translate zh_hant a4_rin_wavelength_d41d8cd9_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1475
+translate zh_hant a4_rin_wavelength_d41d8cd9_7:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1528
+translate zh_hant a4_rin_wavelength_d41d8cd9_8:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1560
+translate zh_hant a4_rin_wavelength_d41d8cd9_9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1569
+translate zh_hant a4_rin_wavelength_d41d8cd9_10:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1601
+translate zh_hant a4_rin_wavelength_d41d8cd9_11:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1652
+translate zh_hant a4_rin_wavelength_d41d8cd9_12:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1660
+translate zh_hant a4_rin_wavelength_d41d8cd9_13:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:1672
+translate zh_hant a4_rin_wavelength_d41d8cd9_14:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2098
+translate zh_hant a4_rin_blue_period_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2123
+translate zh_hant a4_rin_blue_period_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2500
+translate zh_hant a4_rin_the_world_only_can_you_see_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2531
+translate zh_hant a4_rin_the_world_only_can_you_see_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2980
+translate zh_hant a4_rin_desperate_glory_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:2999
+translate zh_hant a4_rin_desperate_glory_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:3469
+translate zh_hant a4_rin_problems_of_self_referential_logic_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:3577
+translate zh_hant a4_rin_problems_of_self_referential_logic_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4177
+translate zh_hant a4_rin_raison_detre_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4194
+translate zh_hant a4_rin_raison_detre_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4216
+translate zh_hant a4_rin_raison_detre_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4244
+translate zh_hant a4_rin_raison_detre_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4302
+translate zh_hant a4_rin_raison_detre_d41d8cd9_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4659
+translate zh_hant a4_rin_raison_detre_d41d8cd9_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4666
+translate zh_hant a4_rin_raison_detre_d41d8cd9_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:4990
+translate zh_hant a4_rin_wb_and_ws_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:5013
+translate zh_hant a4_rin_wb_and_ws_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:5299
+translate zh_hant a4_rin_wb_and_ws_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:5339
+translate zh_hant a4_rin_wb_and_ws_d41d8cd9_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:6123
+translate zh_hant a4_rin_proof_of_existence_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:6145
+translate zh_hant a4_rin_proof_of_existence_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a4-rin.rpy:6311
+translate zh_hant a4_rin_proof_of_existence_d41d8cd9_2:
+
+    # nvl clear
+    nvl clear
 

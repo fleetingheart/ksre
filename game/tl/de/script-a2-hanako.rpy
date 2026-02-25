@@ -570,8 +570,8 @@ translate de a2_hanako_to_town_to_town_b57613d1:
     # "What kind of convenience store sells herbs?"
     "Was für ein Mini-Markt verkauft Kräuter?"
 
-# game/script-a2-hanako.rpy:393
-translate de a2_hanako_to_town_to_town_76b2fe88:
+# game/script-a2-hanako.rpy:395
+translate de a2_hanako_to_town_to_town_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -3962,8 +3962,8 @@ translate de a2_hanako_mad_hatter_1d2664be:
     # "Hanako, finally beginning to relax, sips from her cup."
     "Hanako wird endlich lockerer und nimmt einen kleinen Schluck aus ihrer Tasse."
 
-# game/script-a2-hanako.rpy:2646
-translate de a2_hanako_mad_hatter_76b2fe88:
+# game/script-a2-hanako.rpy:2651
+translate de a2_hanako_mad_hatter_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -4034,14 +4034,14 @@ translate de a2_hanako_mad_hatter_f57eaa86:
     # n "However, I see no harm in becoming better friends with Hanako. Now that she's warming up to me I kind of enjoy hanging out with her."
     n "Ich sehe jedoch nichts Schlechtes darin, mich mit Hanako näher anzufreunden. Jetzt, wo sie sich mir mehr öffnet, gefällt es mir irgendwie, Zeit mit ihr zu verbringen."
 
-# game/script-a2-hanako.rpy:2672
-translate de a2_hanako_mad_hatter_76b2fe88_1:
+# game/script-a2-hanako.rpy:2677
+translate de a2_hanako_mad_hatter_d41d8cd9_1:
 
     # nvl clear
     nvl clear
 
-# game/script-a2-hanako.rpy:2677
-translate de a2_hanako_mad_hatter_76b2fe88_2:
+# game/script-a2-hanako.rpy:2682
+translate de a2_hanako_mad_hatter_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -4082,8 +4082,8 @@ translate de a2_hanako_mad_hatter_384a99ca:
     # n "{vspace=30}Isn't that enough?"
     n "{vspace=30}Reicht das nicht?"
 
-# game/script-a2-hanako.rpy:2693
-translate de a2_hanako_mad_hatter_76b2fe88_3:
+# game/script-a2-hanako.rpy:2698
+translate de a2_hanako_mad_hatter_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -5456,8 +5456,8 @@ translate de a2_hanako_equivalent_exchange_de5bd408:
     # "I imagine Hanako is going through the same thing now."
     "Ich kann mir vorstellen, dass Hanako gerade das gleiche durchmacht."
 
-# game/script-a2-hanako.rpy:3523
-translate de a2_hanako_equivalent_exchange_76b2fe88:
+# game/script-a2-hanako.rpy:3530
+translate de a2_hanako_equivalent_exchange_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5504,8 +5504,8 @@ translate de a2_hanako_equivalent_exchange_7afe38dd:
     # n "Did her parents die? I'll have to ask Lilly about it. I can imagine myself saying something dumb unintentionally."
     n "Sind ihre Eltern gestorben? Ich muss Lilly danach fragen. Ich kann mir vorstellen, dass ich aus Versehen etwas Dummes sage."
 
-# game/script-a2-hanako.rpy:3542
-translate de a2_hanako_equivalent_exchange_76b2fe88_1:
+# game/script-a2-hanako.rpy:3549
+translate de a2_hanako_equivalent_exchange_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -5567,4 +5567,3 @@ translate de strings:
     # game/script-a2-hanako.rpy:1168
     old "I've done enough work for the council already."
     new "Ich hab heute schon genug für den Rat gemacht."
-

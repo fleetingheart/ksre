@@ -259,7 +259,7 @@ translate es a1_monday_out_cold_3fd9ad67:
     n "{vspace=30}Lo último que recuerdo antes de caer son los sonidos de Iwanako gritando pidiendo ayuda y el traqueteo incesante de las ramas en lo alto…"
 
 # game/script-a1-monday.rpy:209
-translate es a1_monday_out_cold_76b2fe88:
+translate es a1_monday_out_cold_d41d8cd9:
 
     # nvl clear
     nvl clear

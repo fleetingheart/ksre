@@ -4560,12 +4560,6 @@ translate it a3_hanako_treading_softly_965e284e:
     # "I lay on my bed, trying to collect my thoughts."
     "Mi sdraio sul letto, cercando di raccogliere i pensieri."
 
-# game/script-a3-hanako.rpy:2950
-translate it a3_hanako_treading_softly_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a3-hanako.rpy:2953
 translate it a3_hanako_treading_softly_9e7958ed:
 
@@ -4601,12 +4595,6 @@ translate it a3_hanako_treading_softly_df795a60:
 
     # n "{vspace=60}Just what have I been doing, for all this time I've been with her and Lilly?"
     n "\n\nCos' ho fatto per tutto il tempo che sono stato con lei e Lilly?"
-
-# game/script-a3-hanako.rpy:2969
-translate it a3_hanako_treading_softly_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a3-hanako.rpy:2972
 translate it a3_hanako_treading_softly_c13e84e0:
@@ -10225,4 +10213,18 @@ translate it strings:
     # game/script-a3-hanako.rpy:6287
     old "How about we call it a day?"
     new "Che ne dici se per oggi basta?"
+
+# TODO: Translation updated at 2026-02-24 23:28
+
+# game/script-a3-hanako.rpy:2950
+translate it a3_hanako_treading_softly_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a3-hanako.rpy:2969
+translate it a3_hanako_treading_softly_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear
 

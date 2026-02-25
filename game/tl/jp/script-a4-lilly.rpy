@@ -1,7 +1,7 @@
 # TODO: Translation updated at 2025-06-23 13:41
 
 # game/script-a4-lilly.rpy:10
-translate jp a4_lilly_slow_steps_76b2fe88:
+translate jp a4_lilly_slow_steps_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -37,7 +37,7 @@ translate jp a4_lilly_slow_steps_b2db8d4d:
     n "試験が始まるまであと一日しかない。勉強をする代わりに北への旅行で時間を浪費したことが本当に恐ろしい。俺たちはあんなに模範的な生徒だったっていうのに。"
 
 # game/script-a4-lilly.rpy:29
-translate jp a4_lilly_slow_steps_76b2fe88_1:
+translate jp a4_lilly_slow_steps_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -4945,7 +4945,7 @@ translate jp a4_lilly_a_mornings_reverse_85879fae:
     hi "ありがとうございます"
 
 # game/script-a4-lilly.rpy:3046
-translate jp a4_lilly_blackout_76b2fe88:
+translate jp a4_lilly_blackout_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5045,7 +5045,7 @@ translate jp a4_lilly_blackout_fd0ab66c:
     n "\n\n一度は迷ってしまい、絶対に覚えられないと思った学校の廊下も、理にかなった建物のレイアウトのおかげで今では簡単に移動できる。先生たちとは気さくな議論を交わすことができる。"
 
 # game/script-a4-lilly.rpy:3090
-translate jp a4_lilly_blackout_76b2fe88_1:
+translate jp a4_lilly_blackout_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -8033,7 +8033,7 @@ translate jp a4_lilly_a_faraway_future_6736385a:
     "リリーはそう言うけど、その声色を聞けば自分でも本気でそう信じているわけじゃないのは明らかだ。"
 
 # game/script-a4-lilly.rpy:4839
-translate jp a4_lilly_a_faraway_future_76b2fe88:
+translate jp a4_lilly_a_faraway_future_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -8281,7 +8281,7 @@ translate jp a4_lilly_farewell_ba9a2dc8:
     "授業が終わって、俺はただ頬杖をついて時の過ぎるままにぼーっと窓の外を眺める。"
 
 # game/script-a4-lilly.rpy:4999
-translate jp a4_lilly_farewell_76b2fe88:
+translate jp a4_lilly_farewell_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -10222,8 +10222,8 @@ translate jp a4_lilly_false_cadence_a996223f:
     # "She really has grown."
     "華子、本当に成長したな。"
 
-# game/script-a4-lilly.rpy:6276
-translate jp a4_lilly_false_cadence_76b2fe88:
+# game/script-a4-lilly.rpy:6279
+translate jp a4_lilly_false_cadence_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -10284,8 +10284,8 @@ translate jp a4_lilly_false_cadence_24ff359c:
     # n "{vspace=30}When I think about it, I'd always depended on them, even if they hadn't been at home all the time. To say I never depended on anyone after moving to the Yamaku dormitories would be far from the truth, though."
     n "\nこうして考えてみると、たとえ親が家にずっといなくても、俺はいつも親に依存していたんだ。だけど山久の寮に入ってからは誰にも頼らずに生活してきたと言えば、それは嘘になる。"
 
-# game/script-a4-lilly.rpy:6301
-translate jp a4_lilly_false_cadence_76b2fe88_1:
+# game/script-a4-lilly.rpy:6304
+translate jp a4_lilly_false_cadence_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -10536,8 +10536,8 @@ translate jp a4_lilly_false_cadence_3df5a7ad:
     # "I turn the bird in my fingers another way, looking at it from yet another angle."
     "俺は指で鶴の向きを変え、別の角度からそれを見つめる。"
 
-# game/script-a4-lilly.rpy:6457
-translate jp a4_lilly_false_cadence_76b2fe88_2:
+# game/script-a4-lilly.rpy:6460
+translate jp a4_lilly_false_cadence_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -10692,8 +10692,8 @@ translate jp a4_lilly_false_cadence_da43819c:
     # n "Thanks to that, I lost Lilly. I lost the one person I loved most because I wasn't there for her when she needed me."
     n "そのせいで、俺はリリーを失った。最愛の人を失ったんだ。彼女が俺を必要としていた時に、俺が彼女のそばにいてあげなかったからだ。"
 
-# game/script-a4-lilly.rpy:6516
-translate jp a4_lilly_false_cadence_76b2fe88_3:
+# game/script-a4-lilly.rpy:6519
+translate jp a4_lilly_false_cadence_d41d8cd9_3:
 
     # nvl clear
     nvl clear
@@ -11412,8 +11412,8 @@ translate jp a4_lilly_under_a_maudlin_sky_4992c769:
     # "The silence of the private room suddenly feels overwhelming."
     "突然、俺は個室の静けさに圧倒される。"
 
-# game/script-a4-lilly.rpy:6990
-translate jp a4_lilly_under_a_maudlin_sky_76b2fe88:
+# game/script-a4-lilly.rpy:6993
+translate jp a4_lilly_under_a_maudlin_sky_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -11580,8 +11580,8 @@ translate jp a4_lilly_under_a_maudlin_sky_45f0335e:
     # n "Maybe that's why I feel so tired. It feels almost as if I've lived the entire last few months of my life in the space of minutes."
     n "こんなに疲れた感じがするのはそのせいかもしれない。たった数分の間に、自分の人生の最後の数ヶ月をまるごと生きてきたんじゃないかという気さえする。"
 
-# game/script-a4-lilly.rpy:7052
-translate jp a4_lilly_under_a_maudlin_sky_76b2fe88_1:
+# game/script-a4-lilly.rpy:7055
+translate jp a4_lilly_under_a_maudlin_sky_d41d8cd9_1:
 
     # nvl clear
     nvl clear

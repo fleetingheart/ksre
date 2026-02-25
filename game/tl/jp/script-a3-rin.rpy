@@ -1051,7 +1051,7 @@ translate jp a3_rin_tt_corner_bef0d17d:
     "琳は静かに見つめ返す。その目は重々しく、夜の闇のように計り知れなかった。"
 
 # game/script-a3-rin.rpy:756
-translate jp a3_rin_the_scent_of_light_76b2fe88:
+translate jp a3_rin_the_scent_of_light_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -1081,7 +1081,7 @@ translate jp a3_rin_the_scent_of_light_0d200e9b:
     n "今日は琳が学校にいる最後の日だ。励ましの言葉か、せめてなにか声をかけて送り出すべきなのだろう。琳がこの活動に頭から飛び込むと決めたのは俺の影響もあるのだから。"
 
 # game/script-a3-rin.rpy:769
-translate jp a3_rin_the_scent_of_light_76b2fe88_1:
+translate jp a3_rin_the_scent_of_light_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -2101,7 +2101,7 @@ translate jp a3_rin_things_you_cant_give_up_fac0d2c4:
     "笑美は下の階へ急いで立ち去る。俺が言ったこと――というより、琳が言ったこと――は彼女を傷つけただろうか、という疑問を残して。 そのことについて言えば、笑美自身が言ったことがいちばん彼女を傷つけたのかもしれない。"
 
 # game/script-a3-rin.rpy:1399
-translate jp a3_rin_things_you_cant_give_up_76b2fe88:
+translate jp a3_rin_things_you_cant_give_up_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -2137,7 +2137,7 @@ translate jp a3_rin_things_you_cant_give_up_d5fd751a:
     n "俺はその向こう側に属するのはごめんだ。でも琳はそこに安らぎを見いだしたのかもしれない。"
 
 # game/script-a3-rin.rpy:1414
-translate jp a3_rin_things_you_cant_give_up_76b2fe88_1:
+translate jp a3_rin_things_you_cant_give_up_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -3157,7 +3157,7 @@ translate jp a3_rin_the_edge_of_the_world_e5a02fa5:
     "腹が立ってくる。"
 
 # game/script-a3-rin.rpy:2021
-translate jp a3_rin_the_edge_of_the_world_76b2fe88:
+translate jp a3_rin_the_edge_of_the_world_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -3205,7 +3205,7 @@ translate jp a3_rin_the_edge_of_the_world_0d4547b0:
     n "もし近づきすぎたら、落ちてしまうのだろうか。"
 
 # game/script-a3-rin.rpy:2038
-translate jp a3_rin_the_edge_of_the_world_76b2fe88_1:
+translate jp a3_rin_the_edge_of_the_world_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -3311,7 +3311,7 @@ translate jp a3_rin_the_edge_of_the_world_ff0d382f:
     n "何も。"
 
 # game/script-a3-rin.rpy:2081
-translate jp a3_rin_the_edge_of_the_world_76b2fe88_2:
+translate jp a3_rin_the_edge_of_the_world_d41d8cd9_2:
 
     # nvl clear
     nvl clear
@@ -3839,7 +3839,7 @@ translate jp a3_rin_the_context_of_rin_8f251741:
     "その後、俺は静かにアトリエを離れてバスを捕まえ、学校へ戻る。"
 
 # game/script-a3-rin.rpy:2377
-translate jp a3_rin_fast_forward_76b2fe88:
+translate jp a3_rin_fast_forward_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -3983,7 +3983,7 @@ translate jp a3_rin_fast_forward_00483841:
     n "\n\n\n\n\n\n\n\n\n\n\n俺にはそれを説明することができない。さえさんも、そのことについてはまったく話さない。"
 
 # game/script-a3-rin.rpy:2432
-translate jp a3_rin_fast_forward_76b2fe88_1:
+translate jp a3_rin_fast_forward_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -5483,7 +5483,7 @@ translate jp a3_rin_reverse_escapism_d8d12c5f:
     "確かに２４時間営業の店や喫茶店はあるけど、雰囲気としては街そのものがまどろんでいるみたいだ。１日に８時間眠る街。"
 
 # game/script-a3-rin.rpy:3358
-translate jp a3_rin_reverse_escapism_76b2fe88:
+translate jp a3_rin_reverse_escapism_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -5563,7 +5563,7 @@ translate jp a3_rin_reverse_escapism_239f1f7e:
     n "\nあてもなく放浪することで、物事を異なった風に見られるようになった。琳にも同じことが起きてくれれば。"
 
 # game/script-a3-rin.rpy:3387
-translate jp a3_rin_reverse_escapism_76b2fe88_1:
+translate jp a3_rin_reverse_escapism_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -6187,7 +6187,7 @@ translate jp a3_rin_reverse_escapism_8fdd03e0:
     "そしていつまでかはわからないまま、琳は俺の手の届く場所から消える。"
 
 # game/script-a3-rin.rpy:3752
-translate jp a3_rin_boundless_76b2fe88:
+translate jp a3_rin_boundless_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -6241,7 +6241,7 @@ translate jp a3_rin_boundless_c0029de4:
     n "琳の要求のおかげで、琳に自由に会えていたとき以上に琳のことが心配になるし、琳のことを考えてしまう。琳に会えないのが苦しい。"
 
 # game/script-a3-rin.rpy:3771
-translate jp a3_rin_boundless_76b2fe88_1:
+translate jp a3_rin_boundless_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -7438,8 +7438,8 @@ translate jp a3_rin_delirium_b7f8fd67:
     # rin "Ah…"
     rin "ああ……"
 
-# game/script-a3-rin.rpy:4404
-translate jp a3_rin_delirium_76b2fe88:
+# game/script-a3-rin.rpy:4406
+translate jp a3_rin_delirium_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -7474,8 +7474,8 @@ translate jp a3_rin_delirium_b413d351:
     # n "Whether it's the truth or not, I couldn't say. But that's how I felt."
     n "それが真実なのかどうか、俺にはわからなかった。でも俺はそう感じた。"
 
-# game/script-a3-rin.rpy:4420
-translate jp a3_rin_delirium_76b2fe88_1:
+# game/script-a3-rin.rpy:4422
+translate jp a3_rin_delirium_d41d8cd9_1:
 
     # nvl clear
     nvl clear
@@ -8392,8 +8392,8 @@ translate jp a3_rin_shards_of_ire_108b19d4:
     # "I leave the atelier, feeling angry and guilty."
     "俺はアトリエを離れる。怒りと罪の意識を感じながら。"
 
-# game/script-a3-rin.rpy:4911
-translate jp a3_rin_shards_of_ire_76b2fe88:
+# game/script-a3-rin.rpy:4913
+translate jp a3_rin_shards_of_ire_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -8440,8 +8440,8 @@ translate jp a3_rin_shards_of_ire_a7a3aaa4:
     # n "Maybe it was the only way that could have brought us closer, but all it did was separate us further away from each other and now, beyond the reach of either of us."
     n "これが俺たちが仲を深めることができる唯一の方法だったのかもしれない。でもその結果は、お互いをもっと遠くへと引き離しただけだった。今となっては、どちらからも手の届かない場所に。"
 
-# game/script-a3-rin.rpy:4932
-translate jp a3_rin_shards_of_ire_76b2fe88_1:
+# game/script-a3-rin.rpy:4934
+translate jp a3_rin_shards_of_ire_d41d8cd9_1:
 
     # nvl clear
     nvl clear

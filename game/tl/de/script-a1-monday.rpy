@@ -259,7 +259,7 @@ translate de a1_monday_out_cold_3fd9ad67:
     n "{vspace=30}Iwanako schreit nach Hilfe, die Äste über mir rauschen unablässig; es sind die letzten Dinge, an die ich mich erinnere, bevor ich selbst in diesem Nichts versinke."
 
 # game/script-a1-monday.rpy:209
-translate de a1_monday_out_cold_76b2fe88:
+translate de a1_monday_out_cold_d41d8cd9:
 
     # nvl clear
     nvl clear
@@ -3239,4 +3239,3 @@ translate de strings:
     # game/script-a1-monday.rpy:1701
     old "Hisao Nakai\n\nTwo tablets daily to stay alive"
     new "Hisao Nakai\n\nZwei Tabletten täglich, um am Leben zu bleiben"
-
