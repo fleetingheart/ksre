@@ -1,16 +1,16 @@
 init python:
-    phi = Character("Philostrate", who_color="#CCCCCC")
-    the = Character("Theseus", who_color="#CCCCCC")
-    hip = Character("Hippolyta", color="#CCCCCC")
-    lys = Character("Lysander", who_color="#CCCCCC")
-    dem = Character("Demetrius", who_color="#CCCCCC")
+    phi = Character(_("Philostrate"), who_color="#CCCCCC")
+    the = Character(_("Theseus"), who_color="#CCCCCC")
+    hip = Character(_("Hippolyta"), color="#CCCCCC")
+    lys = Character(_("Lysander"), who_color="#CCCCCC")
+    dem = Character(_("Demetrius"), who_color="#CCCCCC")
 
-    py = Character("Pyramus", who_color="#77654d")
-    bo = Character("Bottom", kind=py)
-    th = Character("Thisbe", who_color="#c7966d")
-    wa = Character("Wall", who_color="#a7935e")
-    mo = Character("Moon", who_color="#ff8a66")
-    lio = Character("Lion", who_color="#d17079")
+    py = Character(_("Pyramus"), who_color="#77654d")
+    bo = Character(_("Bottom"), kind=py)
+    th = Character(_("Thisbe"), who_color="#c7966d")
+    wa = Character(_("Wall"), who_color="#a7935e")
+    mo = Character(_("Moon"), who_color="#ff8a66")
+    lio = Character(_("Lion"), who_color="#d17079")
 
     pr = Character(kind=n)
 

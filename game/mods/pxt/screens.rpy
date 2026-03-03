@@ -60,7 +60,9 @@ screen pxt_about():
 
                 text _("A short concept piece based around using only freely available resources for NaNoRenO by 4LS.\n")
 
-                text _("Tells the love story of Pyramus and Thisbe, which is a part of Roman mythology.\n")
+                text _("It tells the love story of Pyramus and Thisbe, which is a part of Roman mythology.\n")
+
+                text _("Author of the original text: William Shakespeare.\n")
 
                 text _("Port by Ikariya.\n")
 

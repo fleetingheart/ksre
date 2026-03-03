@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-12-18 15:22
-
-translate ru strings:
+﻿translate ru strings:
 
     # game/mods/pxt/screens.rpy:15
     old "Mods > pXt"
@@ -22,11 +20,15 @@ translate ru strings:
     old "A short concept piece based around using only freely available resources for NaNoRenO by 4LS.\n"
     new "Небольшая концептуальная пьеса, созданная с использованием свободно доступных ресурсов для NaNoRenO командой 4LS.\n"
 
-    # game/mods/pxt/screens.rpy:63
-    old "Tells the love story of Pyramus and Thisbe, which is a part of Roman mythology.\n"
-    new "Пьеса рассказывает об истории любви Пирамуса и Тисбе, которая является частью римской мифологии.\n"
-
     # game/mods/pxt/screens.rpy:65
     old "Port by Ikariya.\n"
     new "Автор порта: Ikariya.\n"
+
+    # game/mods/pxt/screens.rpy:63
+    old "It tells the love story of Pyramus and Thisbe, which is a part of Roman mythology.\n"
+    new "Пьеса рассказывает об истории любви Пирама и Фисбы, которая является частью римской мифологии.\n"
+
+    # game/mods/pxt/screens.rpy:65
+    old "Author of the original text: William Shakespeare.\n"
+    new "Автор оригинального текста: Уильям Шекспир.\nПеревод: Татьяна Щепкина-Куперник, издание 1958 года.\n"
 
