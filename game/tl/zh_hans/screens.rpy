@@ -265,7 +265,7 @@ translate zh_hans strings:
 
     # game/screens.rpy:1059
     old "Colorblind Filter"
-    new "色盲过滤器"
+    new "色盲模式"
 
     # game/screens.rpy:1153
     old "You must be 18+ to see adult content within this game.\nDo you meet these requirements?"
@@ -297,7 +297,7 @@ translate zh_hans strings:
 
     # game/screens.rpy:273
     old "Disable expression transitions"
-    new "Disable expression transitions"
+    new "关闭表情转换效果"
 
     # game/screens.rpy:361
     old "Brazilian Portuguese"
@@ -305,11 +305,11 @@ translate zh_hans strings:
 
     # game/screens.rpy:858
     old "Completion: [completion_percentage]"
-    new "Completion: [completion_percentage]"
+    new "进度: [completion_percentage]"
 
     # game/screens.rpy:1079
     old "Colorblind filter"
-    new "Colorblind filter"
+    new "色盲模式"
 
 # TODO: Translation updated at 2026-02-25 00:03
 
@@ -317,13 +317,13 @@ translate zh_hans strings:
 
     # game/screens.rpy:1068
     old "Current voice: "
-    new "Current voice: "
+    new "当前声音："
 
     # game/screens.rpy:1085
     old "Opacity"
-    new "Opacity"
+    new "不透明度"
 
     # game/screens.rpy:1092
     old "Text size"
-    new "Text size"
+    new "文本大小"
 

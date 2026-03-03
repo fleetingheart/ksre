@@ -340,7 +340,7 @@ translate zh_hans a2_rin_a_wider_field_of_vision_ab822ceb:
 translate zh_hans a2_rin_a_wider_field_of_vision_064b06bf:
 
     # hi "That's what I'm worried about. Don't get into another accident."
-    hi "我就是担心这个。拜托别再撞上别的什么东西了"
+    hi "我就是担心这个。拜托别再撞上别的什么东西了。"
 
 # game/script-a2-rin.rpy:203
 translate zh_hans a2_rin_a_wider_field_of_vision_47b20e3f:
@@ -766,7 +766,7 @@ translate zh_hans a2_rin_a_wider_field_of_vision_1fd2fda2:
 translate zh_hans a2_rin_a_wider_field_of_vision_6ec75092:
 
     # "A comprehensive sensation of calmness spreads from my sight to my other senses, finally hitting my brain."
-    "一种广袤的情感从我的视野流向其他的感官，最终触到我思绪。"
+    "一种广袤的情感从我的视野流向其他的感官，最终触到我的思绪。"
 
 # game/script-a2-rin.rpy:419
 translate zh_hans a2_rin_a_wider_field_of_vision_7ac15c72:
@@ -1258,7 +1258,7 @@ translate zh_hans a2_rin_studies_in_grayscale_eaec0b63:
 translate zh_hans a2_rin_studies_in_grayscale_bec6153c:
 
     # "Since she's the only other one without a partner, I walk to her seat."
-    "因为她是惟一没有搭档的，所以我走向了她。"
+    "因为她是唯一没有搭档的，所以我走向了她。"
 
 # game/script-a2-rin.rpy:795
 translate zh_hans a2_rin_studies_in_grayscale_265b0290:
@@ -1438,7 +1438,7 @@ translate zh_hans a2_rin_studies_in_grayscale_75e2b74b:
 translate zh_hans a2_rin_studies_in_grayscale_72840fd6:
 
     # "In two fluid motions, she picks up the paper sheet and drops it on the floor, then snatches the brush between her toes before sitting on the floor in a weird half-crosslegged position."
-    "两个行云流水般的动作之后，她拿起画夹扔到地上，用脚迅速夹住画刷，然后以一个怪异的半盘腿姿势坐下。"
+    "两个行云流水般的动作之后，她拿起画纸扔到地上，用脚迅速夹住画刷，然后以一个怪异的半盘腿姿势坐下。"
 
 # game/script-a2-rin.rpy:908
 translate zh_hans a2_rin_studies_in_grayscale_81bcfac4:
@@ -1450,7 +1450,7 @@ translate zh_hans a2_rin_studies_in_grayscale_81bcfac4:
 translate zh_hans a2_rin_studies_in_grayscale_ffca34e3:
 
     # "Rin contemplates her blank paper intently. The sharp tip of her brush hovers over the paper in anticipation."
-    "琳专注地凝视着她面前的黑纸。画刷的尖端期待地在纸上盘旋着。。"
+    "琳专注地凝视着她面前的白纸。画刷的尖端期待地在纸上盘旋着。"
 
 # game/script-a2-rin.rpy:918
 translate zh_hans a2_rin_studies_in_grayscale_6fba8368:
@@ -1678,7 +1678,7 @@ translate zh_hans a2_rin_studies_in_grayscale_70eacb7d_1:
 translate zh_hans a2_rin_studies_in_grayscale_64ed76ea:
 
     # hi "Why do you keep asking that?"
-    hi "你问什么一直问这个？"
+    hi "你为什么一直问这个？"
 
 # game/script-a2-rin.rpy:1056
 translate zh_hans a2_rin_studies_in_grayscale_ec47f6c5:
@@ -1816,7 +1816,7 @@ translate zh_hans a2_rin_studies_in_grayscale_6cbc2e93:
 translate zh_hans a2_rin_studies_in_grayscale_a5b3cd02:
 
     # rin "You do look kind of grim. I mean, I agree; but it's also true otherwise, too. Like this you, not the you I made."
-    rin "你确实看起来有点阴郁的。我是说，我同意；但是另一个也是一样的。我是说真正的你，不是我画出来的那个。"
+    rin "你确实看起来有点阴郁。我是说，我同意；但是另一个也是一样的。我是说真正的你，不是我画出来的那个。"
 
 # game/script-a2-rin.rpy:1166
 translate zh_hans a2_rin_studies_in_grayscale_49164a11:
@@ -1888,7 +1888,7 @@ translate zh_hans a2_rin_studies_in_grayscale_f5fca6d7:
 translate zh_hans a2_rin_studies_in_grayscale_08d265f8:
 
     # "I want to retort something snappy, but Nomiya gives me no time to think, ushering us to the door."
-    "我想来个敏锐的反驳，可以野宫没给我什么思考时间，他把我们引到了门口。"
+    "我想来个敏锐的反驳，可是野宫没给我什么思考时间，他把我们引到了门口。"
 
 # game/script-a2-rin.rpy:1215
 translate zh_hans a2_rin_studies_in_grayscale_f2e10370:
@@ -2038,7 +2038,7 @@ translate zh_hans a2_rin_interstitial_85a0be69:
 translate zh_hans a2_rin_interstitial_5cd6be5d:
 
     # ke "They are now mine."
-    ke "他们现在属于我了。"
+    ke "它们现在属于我了。"
 
 # game/script-a2-rin.rpy:1321
 translate zh_hans a2_rin_interstitial_1af8a04f:
@@ -2200,7 +2200,7 @@ translate zh_hans a2_rin_self_study_e5713b66:
 translate zh_hans a2_rin_self_study_6809aded:
 
     # hi "Mornin'."
-    hi "早安‘。"
+    hi "早安。"
 
 # game/script-a2-rin.rpy:1441
 translate zh_hans a2_rin_self_study_0b6cd562:

@@ -9082,7 +9082,7 @@ translate zh_hans a3_hanako_stripes_and_solids_f555ae30:
 translate zh_hans a3_hanako_stripes_and_solids_3ad0bb2a:
 
     # "With a thud, I send the white sphere careening down the table into my target."
-    "一声闷响，我把白球倒转着送向了目标。"
+    "一声闷响，我把白球击向了目标。"
 
 # game/script-a3-hanako.rpy:5969
 translate zh_hans a3_hanako_stripes_and_solids_9930b52c:
@@ -9106,7 +9106,7 @@ translate zh_hans a3_hanako_stripes_and_solids_e2464d9e:
 translate zh_hans a3_hanako_stripes_and_solids_c7981f9b:
 
     # "All I can do is sigh. It looks like Hanako is smiling again though, so maybe it wasn't for naught."
-    "我只有叹气。不过华子又在微笑了，看来这一杆也不是不值的。"
+    "我只能叹气。不过华子又在微笑了，看来这一杆也不是不值的。"
 
 # game/script-a3-hanako.rpy:5980
 translate zh_hans a3_hanako_stripes_and_solids_629218bb:
@@ -9166,13 +9166,13 @@ translate zh_hans a3_hanako_stripes_and_solids_3e1659ba:
 translate zh_hans a3_hanako_stripes_and_solids_f8b2d4a4:
 
     # "I feel sorry for her, having gone through so much in her life. Her parents died in a housefire, and she lived in an orphanage for much of her childhood… I can't even imagine that kind of life."
-    "我同情她，她不得不经历这么多。父母死在了那场火灾里，她只有生活在孤儿院，还有那样的童年……我根本无法想象那样的生活。"
+    "我同情她，她不得不经历这么多。父母死在了那场火灾里，她一直生活在孤儿院，还有那样的童年……我根本无法想象那样的生活。"
 
 # game/script-a3-hanako.rpy:6016
 translate zh_hans a3_hanako_stripes_and_solids_ad22d489:
 
     # "But I feel like there's so little I can do for her, especially now that Lilly is going to be leaving the country."
-    "但我感觉我能为她做的事情少之又少，特别是现在，莉莉马上就要离开这个城市了。"
+    "但我感觉我能为她做的事情少之又少，特别是现在，莉莉马上就要离开这个国家了。"
 
 # game/script-a3-hanako.rpy:6033
 translate zh_hans a3_hanako_stripes_and_solids_20c12e8c:
@@ -9286,7 +9286,7 @@ translate zh_hans a3_hanako_beginning_of_the_end_5e3e124f:
 translate zh_hans a3_hanako_beginning_of_the_end_845bfe6d:
 
     # "She has no qualms about accepting, and I end up picking it up. It's not what I'd call light, but it's not exactly heavy, either. I don't think I'll have too much trouble carrying it."
-    "她自然地接受了我的帮助，让我把箱子提起来。这种量对我来说不能算轻，但也不算沉。我觉得对我来说应该不是什么问题。"
+    "她自然地接受了我的帮助，让我把箱子提起来。这分量对我来说不能算轻，但也不算沉。我觉得对我来说应该不是什么问题。"
 
 # game/script-a3-hanako.rpy:6128
 translate zh_hans a3_hanako_beginning_of_the_end_3a9b0459:
@@ -9430,7 +9430,7 @@ translate zh_hans a3_hanako_beginning_of_the_end_df3e8c14:
 translate zh_hans a3_hanako_beginning_of_the_end_1d7446c7:
 
     # "Anyway, we won't have to call the taxi company, nor worry about missing Lilly's plane."
-    "不管怎样，我们不用再给出租车公司打电话了，莉莉不会错过她的火车的。"
+    "不管怎样，我们不用再给出租车公司打电话了，莉莉不会错过她的飞机的。"
 
 # game/script-a3-hanako.rpy:6226
 translate zh_hans a3_hanako_beginning_of_the_end_e5467d1c:
@@ -9490,7 +9490,7 @@ translate zh_hans a3_hanako_beginning_of_the_end_0b9cf93e:
 translate zh_hans a3_hanako_beginning_of_the_end_af98a749:
 
     # "She only manages to keep eye contact with me for a couple of seconds, her cheeks red all the while, before turning back to Lilly."
-    "她只与我对视了几秒，便脸红得红到了脖颈，于是又迅速地转向莉莉。"
+    "她只与我对视了几秒，便脸红到了脖颈，于是又迅速地转向莉莉。"
 
 # game/script-a3-hanako.rpy:6258
 translate zh_hans a3_hanako_beginning_of_the_end_2f4bdbb1:
@@ -9556,7 +9556,7 @@ translate zh_hans a3hc1o1_9d5a9627:
 translate zh_hans a3hc1o1_747a47cc:
 
     # "She may say that, but she was just talking about Hanako having 'issues.' Still, I want to hold myself to the words I said. Hanako's problems don't matter; I'll deal with anything that comes up, because I want to help her."
-    "她虽然是这样说，但刚才她还在说华子有“问题”。不过我刚刚的是真心话。华子的困难不重要。无论出现什么事情我都会去解决，因为我想要帮助她。"
+    "她虽然是这样说，但刚才她还在说华子有“问题”。不过，我还是会信守我的诺言。华子的困难不重要。无论出现什么事情我都会去解决，因为我想要帮助她。"
 
 # game/script-a3-hanako.rpy:6316
 translate zh_hans a3hc1o1_63afde23:
@@ -9640,7 +9640,7 @@ translate zh_hans a3hc2o1_82af07a5:
 translate zh_hans a3hc2o1_ad65997e:
 
     # "Stepping off the bus, I immediately notice that a lot of people are around us. In hindsight, it should have been obvious; of course lots of people will be downtown on a Saturday afternoon."
-    "我走出公交车，立刻发现有这附近有很多人。后面想起来，应该早就料到的，这是周六下午，当然会有很多人在市中心了。"
+    "我走出公交车，立刻发现这附近有很多人。后面想起来，应该早就料到的，这是周六下午，当然会有很多人在市中心了。"
 
 # game/script-a3-hanako.rpy:6376
 translate zh_hans a3hc2o1_5045b56b:
@@ -9928,7 +9928,7 @@ translate zh_hans a3hc2o1_fac6d670:
 translate zh_hans a3hc2o1_ae165089:
 
     # "If I hadn't spent so much time with Hanako I wouldn't even have realized that she said anything. Then again, the store owner's mumble was hardly clear either, thanks in part to being directed away from us."
-    "如果我没有花这么久的时间与华子相处，我都不会注意到她说了些什么。同时，由于店主离我们特别远，要听到他的喃喃的声也不是个容易的事。"
+    "如果我没有花这么久的时间与华子相处，我都不会注意到她说了些什么。同时，由于店主离我们特别远，要听到他的喃喃声也不是个容易的事。"
 
 # game/script-a3-hanako.rpy:6570
 translate zh_hans a3hc2o1_a248d370:
@@ -10042,7 +10042,7 @@ translate zh_hans a3hc2o1_72aadb5a:
 translate zh_hans a3hc2o1_040267b1:
 
     # "Hanako and I stop walking once we reach the concrete area between the dormitory buildings. There was barely a word said between us on the way back from the city."
-    "华子和我在混凝土宿舍前停下了脚步。回来的路上，我们之间几乎没怎么讲话。"
+    "华子和我在宿舍楼之间的水泥地停下了脚步。回来的路上，我们之间几乎没怎么讲话。"
 
 # game/script-a3-hanako.rpy:6640
 translate zh_hans a3hc2o1_f68038b9:
@@ -10150,7 +10150,7 @@ translate zh_hans a3hc2o2_c5295c90:
 translate zh_hans a3hc2o2_d0a0f9f1:
 
     # ha "I… I'm tired. Maybe tomorrow? I've got homework…"
-    ha "我……我太累了。可能晚些时候可以？我还有一些作业要做……"
+    ha "我……我太累了。可能明天可以？我还有一些作业要做……"
 
 # game/script-a3-hanako.rpy:6713
 translate zh_hans a3hc2o2_caab29ef:

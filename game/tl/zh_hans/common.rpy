@@ -1229,43 +1229,42 @@ translate zh_hans strings:
     # renpy/common/_errorhandling.rpym:796
     old "Parsing the script failed."
     new "脚本解析失败。"
-# TODO: Translation updated at 2026-02-25 00:03
 
 translate zh_hans strings:
 
     # renpy/common/000statements.rpy:28
     old "Click to play the video."
-    new "Click to play the video."
+    new "单击播放视频。"
 
     # renpy/common/00accessibility.rpy:180
     old "Mono Audio"
-    new "Mono Audio"
+    new "单声道音频"
 
     # renpy/common/00accessibility.rpy:246
     old "Kerning"
-    new "Kerning"
+    new "字距调整"
 
     # renpy/common/00accessibility.rpy:288
     old "Self-Voicing and Audio"
-    new "Self-Voicing and Audio"
+    new "自动发声"
 
     # renpy/common/00accessibility.rpy:292
     old "Text"
-    new "Text"
+    new "文本"
 
     # renpy/common/00preferences.rpy:602
     old "mono audio"
-    new "mono audio"
+    new "单声道音频"
 
     # renpy/common/00preferences.rpy:611
     old "font kerning"
-    new "font kerning"
+    new "字距调整"
 
     # renpy/common/00updater.rpy:1935
     old "An error has occurred:"
-    new "An error has occurred:"
+    new "发生错误："
 
     # renpy/common/00updater.rpy:1992
     old "An error occurred when trying to download game data:"
-    new "An error occurred when trying to download game data:"
+    new "尝试下载游戏数据时发生错误："
 
