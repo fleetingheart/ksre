@@ -2288,21 +2288,25 @@ label a1_friday:
 
                     "Now that she brings it up, I notice that my breathing is strangely heavy. The uphill walk has really done a job on me."
 
-                    menu:
-                        set choices
-                        with menueffect
+                    if kick_shizu:
+                        call a1c13o2
 
-                        "Lilly noticed it all too quickly…"
+                    else:
+                        menu:
+                            set choices
+                            with menueffect
 
-                        "Sorry, I'm not in very good condition.":
-                            $ not_much_talking = False
+                            "Lilly noticed it all too quickly…"
 
-                            call a1c13o1
+                            "Sorry, I'm not in very good condition.":
+                                $ not_much_talking = False
 
-                        "I don't really want to talk about it.":
-                            $ not_much_talking = True
+                                call a1c13o1
 
-                            call a1c13o2
+                            "I don't really want to talk about it.":
+                                $ not_much_talking = True
+
+                                call a1c13o2
 
                     if _in_replay:
                         return
