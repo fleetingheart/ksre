@@ -143,6 +143,10 @@ python early:
             "preferences.high_contrast", Transform(image, matrixcolor=ColorizeMatrix("#ccc", "#fff")),
             "True", Transform(image, matrixcolor=mrx or IdentityMatrix()))
 
+    def _mm_easein(t):
+        import math
+        return 1.0 - math.cos(t * math.pi / 2.0)
+
     def main_menu_composer(st, at):
         _widgets = [
             ("a4_shizune", (1491, 479), "gui/icons/16_tc4-shizune.png"),
@@ -164,6 +168,12 @@ python early:
             ("a1_monday.bundle_of_hisao", (1260, 826), "gui/icons/00_tc1-hisao.png")
         ]
 
+        basedelay = 0.07
+        icon_delay = basedelay * len(_widgets)
+        anim_duration = icon_delay + 0.3
+        is_animated = st < anim_duration
+        max_yoffset = 216
+
         _args = [
             (1920, 1080),
             (0, 0), "gui/bg/main.png"
@@ -171,7 +181,24 @@ python early:
 
         for trigger, offset, widget in _widgets:
             if renpy.seen_label(trigger) or config.developer:
-                _args.extend((offset, widget))
+                if is_animated:
+                    elapsed = st - icon_delay
+                    if elapsed < 0:
+                        alpha = 0.0
+                        yoffset = max_yoffset
+                    elif elapsed < 0.3:
+                        t = _mm_easein(elapsed / 0.3)
+                        alpha = t
+                        yoffset = max_yoffset * (1.0 - t)
+                    else:
+                        alpha = 1.0
+                        yoffset = 0
+                    _args.append((offset[0], offset[1] + int(yoffset)))
+                    _args.append(Transform(widget, alpha=alpha, subpixel=True))
+                else:
+                    _args.append(offset)
+                    _args.append(widget)
+                icon_delay -= basedelay
 
         _args.extend((
             (1650, 1010), Text(
@@ -180,6 +207,8 @@ python early:
                 "\nMade by Fleeting Heartbeat Studios", color="#00000080", size=15, alt="Menu")
         ))
 
+        if is_animated:
+            return Composite(*_args), 0.0
         return Composite(*_args), None
 
     def acdc_generic(x, n):
