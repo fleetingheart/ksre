@@ -805,7 +805,7 @@ label a3_hanako:
         show miki smile
         with persistent.charachange
 
-        "We both look back out to the field were the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
+        "We both look back out to the field where the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
 
         "Sure enough, the whistle is blown to begin the match and they get right back into it."
 

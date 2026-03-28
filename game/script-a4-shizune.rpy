@@ -755,7 +755,7 @@ label a4_shizune:
         show shizu behind_blank
         with persistent.charachange
 
-        call screen doublespeak(ssh, _("Let's go on a date."), his, _("Let's use it, then."))
+        call screen doublespeak(ssh, _("[[Let's go on a date.]"), his, _("[[Let's use it, then.]"))
 
         show shizu adjust_blush
         with persistent.charachange
@@ -959,7 +959,7 @@ label a4_shizune:
 
         n "In retrospect, I must have looked like kind of a dick, being in such a sour mood from the moment I came here. Even though I don't think I was being unreasonable."
 
-        n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had had much less time to mull over suddenly being transferred to Yamaku, on top of that."
+        n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had much less time to mull over suddenly being transferred to Yamaku, on top of that."
 
         n "{vspace=60}Spending the festival with Shizune really helped me out of a rut. I was happy, enough to forget that the entire time it had felt as though she were manipulating me. I understand now that I had allowed myself to be manipulated."
 
@@ -2516,7 +2516,7 @@ label a4_shizune:
             show shizu behind_smile
             with persistent.charachange
 
-            call screen doublespeak(ke, _("Is that for me?"), ssh, _("This was the real surprise. See?"))
+            call screen doublespeak(ke, _("Is that for me?"), ssh, _("[[This was the real surprise. See?]"))
 
             show shizu adjust_smug
             with persistent.charachange

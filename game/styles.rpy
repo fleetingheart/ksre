@@ -12,6 +12,9 @@ define is_mobile = renpy.android or renpy.ios
 
 define default_font = "font/playtime.ttf"
 
+init python:
+    config.font_replacement_map["font/playtime.ttf", True, False] = ("font/playtime_bold.ttf", False, False)
+
 translate zh_hans python:
     default_font = FontGroup().add("font/XiaolaiSC-Regular.ttf", 0x2e80, 0xffff).add("font/playtime.ttf", 0x0000, 0xffff)
     gui.text_size = 36 + mobile_ts_add * is_mobile
