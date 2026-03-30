@@ -66,6 +66,7 @@ default persistent.colorblind = None
 default persistent.disable_disturbing_content = False
 
 default persistent.hardware_cursor = True if renpy.emscripten else False
+default persistent.save_slots = []
 
 define mouse = MouseDisplayable("gui/icons/cursor.png", 0, 0)
 

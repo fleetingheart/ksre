@@ -126,6 +126,42 @@ screen confirm(message, yes_action, no_action=None, yes_text=None, no_text=None)
 
     key "game_menu" action (no_action or Hide("confirm", transition=config.intra_transition))
 
+screen success_dialog(message, continue_action=None, continue_text=None):
+    modal True
+    zorder 200
+    style_prefix "confirm"
+
+    add "blind"
+
+    frame:
+        style_suffix "interface"
+        at colorblind(persistent.colorblind)
+
+        top_padding 0.05
+        xpadding 0.04
+
+        has vbox
+
+        spacing 30
+
+        hbox:
+            null width 20
+            text message
+            null width 20
+
+        null height 24
+
+        hbox:
+            spacing 40
+            xalign 0.5
+
+            textbutton (continue_text or _("Continue")) action [(continue_action or NullAction()), Hide("success_dialog", transition=config.intra_transition)]
+
+        frame:
+            ysize 1
+
+            image "icon_rin" xpos 485 ypos -355
+
 screen game_menu():
     tag menu
     style_prefix "game_menu"
@@ -412,7 +448,18 @@ screen file_slots():
 
                 spacing 4
 
-                for i, save in enumerate(renpy.list_saved_games(r'\d+')):
+                python:
+                    saved_games = []
+                    for save_file in persistent.save_slots:
+                        metadata = renpy.slot_json(save_file)
+                        if metadata is not None:
+                            screenshot = renpy.slot_screenshot(save_file)
+                            saved_games.append((save_file, metadata.get('_save_name'), screenshot, metadata.get('_ctime')))
+                    for save in renpy.list_saved_games(r'\d+'):
+                        if save[0] not in persistent.save_slots:
+                            saved_games.append(save)
+
+                for i, save in enumerate(saved_games):
                     python:
                         if ";" in save[1]:
                             playtime, save_scene = save[1].split(";", 1)
@@ -433,13 +480,10 @@ screen file_slots():
                                     Function(renpy.load, save[0])
                                 ]
                             else:
-                                action Show("confirm", config.intra_transition, _("Are you sure you want to\nload this save?"),
-                                    [
-                                        Function(setattr, config, "skipping", False),
-                                        Function(setattr, config, "allow_skipping", True),
-                                        Function(renpy.load, save[0])
-                                    ]
-                                )
+                                action Show("confirm", config.intra_transition, _("Are you sure you want to\noverwrite your save?"), [
+                                    Function(create_save_slot, save[0]),
+                                    Show("success_dialog", config.intra_transition, _("Progress successfully saved."))
+                                ])
 
                             if i in local_saves_items:
                                 background "button_scribble"
@@ -481,8 +525,9 @@ screen file_slots():
         textbutton _("Save"):
             style "save_button"
             action If(not (main_menu or _in_replay),
-                true=Function(renpy.save, str(int(time.time() * 100000)), format_time(renpy.get_game_runtime()) + ";" + (current_scene or "")),
-                false=None)
+                true=[Function(create_save_slot), Show("success_dialog", config.intra_transition, _("Progress successfully saved."))],
+                false=None
+            )
 
         textbutton _("Return"):
             yoffset 5

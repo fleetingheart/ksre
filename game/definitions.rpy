@@ -358,6 +358,17 @@ python early:
     if not renpy.emscripten:
         rpc = RPCThread(store)
 
+    def create_save_slot(overwrite_old_file=None):
+        if overwrite_old_file is not None:
+            renpy.unlink_save(overwrite_old_file)
+        save_file = str(int(time.time() * 100000))
+        renpy.save(save_file, format_time(renpy.get_game_runtime()) + ";" + (current_scene or ""))
+        if overwrite_old_file is not None and overwrite_old_file in persistent.save_slots:
+            index = persistent.save_slots.index(overwrite_old_file)
+            persistent.save_slots.insert(index, save_file)
+        else:
+            persistent.save_slots.append(save_file)
+
 init 999 python:
     if not renpy.emscripten:
         rpc.start()
@@ -649,6 +660,11 @@ init 1 python:
         for act in route[1]:
             for scene in act[1]:
                 scene_names[scene[1]] = scene[0]
+
+    for save in renpy.list_saved_games(r'\d+'):
+        if save[0] not in persistent.save_slots:
+            persistent.save_slots.append(save[0])
+    persistent.save_slots = [save_file for save_file in persistent.save_slots if renpy.can_load(save_file)]
 
 define _gallery_images = (
     ("thumb/other_iwanako.jpg", Trigger("ev other_iwanako_start", "evul other_iwanako")),
