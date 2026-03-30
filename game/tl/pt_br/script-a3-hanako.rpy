@@ -1128,9 +1128,9 @@ translate pt_br a3_hanako_shady_encounter_081a7806:
     hi "Como quiser, então."
 
 # game/script-a3-hanako.rpy:808
-translate pt_br a3_hanako_shady_encounter_1569b52d:
+translate pt_br a3_hanako_shady_encounter_5806afba:
 
-    # "We both look back out to the field were the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
+    # "We both look back out to the field where the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
     "Nós dois olhamos de volta para o campo onde os garotos estavam jogando. Parece que eles estavam se preparando para um segundo jogo, com todos se espalhando para suas posições e a bola sendo levada para o centro do campo."
 
 # game/script-a3-hanako.rpy:810

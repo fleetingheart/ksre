@@ -1117,9 +1117,9 @@ translate es a3_hanako_shady_encounter_081a7806:
     hi "Así lo haré, entonces."
 
 # game/script-a3-hanako.rpy:808
-translate es a3_hanako_shady_encounter_1569b52d:
+translate es a3_hanako_shady_encounter_5806afba:
 
-    # "We both look back out to the field were the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
+    # "We both look back out to the field where the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
     "Ambos volvemos a mirar hacia el campo donde los chicos están jugando. Parece que se están preparando para un segundo juego, con las personas dispersándose a sus posiciones y el balón siendo llevado al centro del campo."
 
 # game/script-a3-hanako.rpy:810

@@ -344,3 +344,15 @@ translate ru strings:
     old "Text size"
     new "Размер текста"
 
+# TODO: Translation updated at 2026-03-29 23:19
+
+translate ru strings:
+
+    # game/screens.rpy:483
+    old "Are you sure you want to\noverwrite your save?"
+    new "Вы уверены, что хотите\nпереписать сохранение?"
+
+    # game/screens.rpy:483
+    old "Progress successfully saved."
+    new "Игра успешно сохранена."
+

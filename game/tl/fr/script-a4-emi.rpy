@@ -2621,18 +2621,3 @@ translate fr a4_emi_clean_teeth_84eaf109:
 
     # emi "What do you want to do today?"
     emi "Qu'est-ce que tu veux faire aujourd'hui?"
-
-# TODO: Translation updated at 2026-02-24 23:23
-
-# game/script-a4-emi.rpy:213
-translate fr a4_emi_a_swing_and_a_miss_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-emi.rpy:233
-translate fr a4_emi_a_swing_and_a_miss_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-

@@ -1408,10 +1408,10 @@ translate de a4_shizune_off_by_one_d69e03ff:
     # n "In retrospect, I must have looked like kind of a dick, being in such a sour mood from the moment I came here. Even though I don't think I was being unreasonable."
     n "Rückblickend muss ich wie ein Arsch rübergekommen sein – seit dem Moment meiner Ankunft hatte ich ständig miese Laune. Auch wenn ich nicht glaube, dass das unberechtigt war."
 
-# game/script-a4-shizune.rpy:961
-translate de a4_shizune_off_by_one_34cc76da:
+# game/script-a4-shizune.rpy:962
+translate de a4_shizune_off_by_one_298d134f:
 
-    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had had much less time to mull over suddenly being transferred to Yamaku, on top of that."
+    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had much less time to mull over suddenly being transferred to Yamaku, on top of that."
     n "Obwohl ich monatelang Zeit hatte, es zu verdauen, ist es schwierig, meinen Herzfehler einfach zu akzeptieren. Darüber hinaus hatte ich noch viel weniger Zeit, um über meinen Wechsel an die Yamaku nachzudenken."
 
 # game/script-a4-shizune.rpy:963
@@ -8574,18 +8574,18 @@ translate de a4_shizune_terminal_70390fe8:
 
 translate de strings:
 
-    # game/script-a4-shizune.rpy:757
-    old "Let's go on a date."
-    new "Lass uns zusammen ausgehen."
+    # game/script-a4-shizune.rpy:758
+    old "[[Let's go on a date.]"
+    new "[[Lass uns zusammen ausgehen.]"
 
-    # game/script-a4-shizune.rpy:757
-    old "Let's use it, then."
-    new "Dann essen wir es eben."
+    # game/script-a4-shizune.rpy:758
+    old "[[Let's use it, then.]"
+    new "[[Dann essen wir es eben.]"
 
     # game/script-a4-shizune.rpy:2518
     old "Is that for me?"
     new "Ist das für mich?"
 
-    # game/script-a4-shizune.rpy:2518
-    old "This was the real surprise. See?"
-    new "Das war die echte Überraschung. Siehst du?"
+    # game/script-a4-shizune.rpy:2519
+    old "[[This was the real surprise. See?]"
+    new "[[Das war die echte Überraschung. Siehst du?]"

@@ -2622,17 +2622,3 @@ translate zh_hant a4_emi_clean_teeth_84eaf109:
     # emi "What do you want to do today?"
     emi "你今天想做什麼？"
 
-# TODO: Translation updated at 2026-02-25 00:11
-
-# game/script-a4-emi.rpy:213
-translate zh_hant a4_emi_a_swing_and_a_miss_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-emi.rpy:233
-translate zh_hant a4_emi_a_swing_and_a_miss_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-

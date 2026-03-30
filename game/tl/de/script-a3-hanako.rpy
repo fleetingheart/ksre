@@ -1117,9 +1117,9 @@ translate de a3_hanako_shady_encounter_081a7806:
     hi "Okay. Hisao."
 
 # game/script-a3-hanako.rpy:808
-translate de a3_hanako_shady_encounter_1569b52d:
+translate de a3_hanako_shady_encounter_5806afba:
 
-    # "We both look back out to the field were the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
+    # "We both look back out to the field where the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
     "Wir schauen beide wieder auf den Sportplatz, wo das Spiel abläuft. Sieht so aus, als würden sie sich bereit machen, eine zweite Runde zu spielen, da sich alle auf ihre Positionen verteilen und der Ball in die Mitte des Feldes getragen wird."
 
 # game/script-a3-hanako.rpy:810

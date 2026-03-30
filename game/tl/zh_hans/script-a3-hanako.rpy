@@ -1117,9 +1117,9 @@ translate zh_hans a3_hanako_shady_encounter_081a7806:
     hi "那彼此吧。"
 
 # game/script-a3-hanako.rpy:808
-translate zh_hans a3_hanako_shady_encounter_1569b52d:
+translate zh_hans a3_hanako_shady_encounter_5806afba:
 
-    # "We both look back out to the field were the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
+    # "We both look back out to the field where the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
     "我们一同看向操场上玩耍的人们。他们看来正准备第二场比赛，队员开始散开而球被拿向场地的中央。"
 
 # game/script-a3-hanako.rpy:810
@@ -10213,18 +10213,4 @@ translate zh_hans strings:
     # game/script-a3-hanako.rpy:6282
     old "How about we call it a day?"
     new "不如我们今天就这么结束了，怎么样？"
-
-# TODO: Translation updated at 2026-02-25 00:03
-
-# game/script-a3-hanako.rpy:2950
-translate zh_hans a3_hanako_treading_softly_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-hanako.rpy:2969
-translate zh_hans a3_hanako_treading_softly_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
 

@@ -1117,9 +1117,9 @@ translate jp a3_hanako_shady_encounter_081a7806:
     hi "じゃあ、俺も久夫でいいよ"
 
 # game/script-a3-hanako.rpy:808
-translate jp a3_hanako_shady_encounter_1569b52d:
+translate jp a3_hanako_shady_encounter_5806afba:
 
-    # "We both look back out to the field were the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
+    # "We both look back out to the field where the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
     "俺たちは男子がサッカーをしているグラウンドに目をやる。彼らは第２戦目の用意をしているようだ。それぞれのポジションに向かってみんな散らばっていき、ボールがセンターに運ばれる。"
 
 # game/script-a3-hanako.rpy:810

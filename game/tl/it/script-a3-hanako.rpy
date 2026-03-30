@@ -1117,9 +1117,9 @@ translate it a3_hanako_shady_encounter_081a7806:
     hi "Lo stesso per me, allora."
 
 # game/script-a3-hanako.rpy:808
-translate it a3_hanako_shady_encounter_1569b52d:
+translate it a3_hanako_shady_encounter_5806afba:
 
-    # "We both look back out to the field were the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
+    # "We both look back out to the field where the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
     "Torniamo entrambi a guardare il campo dove gli altri stanno giocando. Sembra si stiano preparando per un' altra partita, con ragazzi che prendono posizione e la palla che viene messa al centro."
 
 # game/script-a3-hanako.rpy:810
@@ -10213,18 +10213,3 @@ translate it strings:
     # game/script-a3-hanako.rpy:6287
     old "How about we call it a day?"
     new "Che ne dici se per oggi basta?"
-
-# TODO: Translation updated at 2026-02-24 23:28
-
-# game/script-a3-hanako.rpy:2950
-translate it a3_hanako_treading_softly_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-hanako.rpy:2969
-translate it a3_hanako_treading_softly_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-

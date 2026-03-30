@@ -1116,10 +1116,10 @@ translate fr a3_hanako_shady_encounter_081a7806:
     # hi "Likewise, then."
     hi "Appelle-moi Hisao alors."
 
-# game/script-a3-hanako.rpy:803
-translate fr a3_hanako_shady_encounter_1569b52d:
+# game/script-a3-hanako.rpy:808
+translate fr a3_hanako_shady_encounter_5806afba:
 
-    # "We both look back out to the field were the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
+    # "We both look back out to the field where the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
     "Nous regardons tous les deux le terrain où les gars sont en train de jouer. On dirait qu'ils sont prêts pour une deuxième partie ; les gens se mettent en place et le ballon est amené au milieu du terrain."
 
 # game/script-a3-hanako.rpy:805
@@ -10213,18 +10213,3 @@ translate fr strings:
     # game/script-a3-hanako.rpy:6264
     old "How about we call it a day?"
     new "Et si on rentrait aux dortoirs?"
-
-# TODO: Translation updated at 2026-02-24 23:23
-
-# game/script-a3-hanako.rpy:2950
-translate fr a3_hanako_treading_softly_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-hanako.rpy:2969
-translate fr a3_hanako_treading_softly_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-

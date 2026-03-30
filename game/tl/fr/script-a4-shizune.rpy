@@ -1396,10 +1396,10 @@ translate fr a4_shizune_off_by_one_d69e03ff:
     # n "In retrospect, I must have looked like kind of a dick, being in such a sour mood from the moment I came here. Even though I don't think I was being unreasonable."
     n "Rétrospectivement, je devais avoir l'air d'un idiot à être si aigri quand je suis arrivé. Même si je ne trouve pas ça si déraisonnable."
 
-# game/script-a4-shizune.rpy:957
-translate fr a4_shizune_off_by_one_34cc76da:
+# game/script-a4-shizune.rpy:962
+translate fr a4_shizune_off_by_one_298d134f:
 
-    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had had much less time to mull over suddenly being transferred to Yamaku, on top of that."
+    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had much less time to mull over suddenly being transferred to Yamaku, on top of that."
     n "Même après avoir eu des mois pour le digérer, découvrir que j'ai un cœur défectueux est difficile à gérer. J'ai eu moins de temps pour encaisser le fait d’être transféré à Yamaku en plus de ça."
 
 # game/script-a4-shizune.rpy:959
@@ -8503,92 +8503,17 @@ translate fr a4_shizune_terminal_70390fe8:
 translate fr strings:
 
     # game/script-a4-shizune.rpy:753
-    old "Let's go on a date."
-    new "Allons au rendez-vous."
+    old "[[Let's go on a date.]"
+    new "[[Allons au rendez-vous.]"
 
     # game/script-a4-shizune.rpy:753
-    old "Let's use it, then."
-    new "Mangeons-le, dans ce cas."
+    old "[[Let's use it, then.]"
+    new "[[Mangeons-le, dans ce cas.]"
 
     # game/script-a4-shizune.rpy:2519
     old "Is that for me?"
     new "C'est pour moi?"
 
     # game/script-a4-shizune.rpy:2519
-    old "This was the real surprise. See?"
-    new "C'est la vraie surprise. Alors?"
-
-# TODO: Translation updated at 2026-02-24 23:23
-
-# game/script-a4-shizune.rpy:56
-translate fr a4_shizune_grand_strategy_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:955
-translate fr a4_shizune_off_by_one_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:984
-translate fr a4_shizune_off_by_one_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:1329
-translate fr a4_shizune_invasion_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4075
-translate fr a4_shizune_infinity_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4104
-translate fr a4_shizune_infinity_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4211
-translate fr a4_shizune_infinity_d41d8cd9_2:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4589
-translate fr a4_shizune_infinity_d41d8cd9_3:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4614
-translate fr a4_shizune_infinity_d41d8cd9_4:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:5165
-translate fr a4_shizune_spiral_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:5178
-translate fr a4_shizune_spiral_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:5318
-translate fr a4_shizune_spiral_d41d8cd9_2:
-
-    # nvl clear
-    nvl clear
-
+    old "[[This was the real surprise. See?]"
+    new "[[C'est la vraie surprise. Alors?]"

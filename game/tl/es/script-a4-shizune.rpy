@@ -1408,10 +1408,10 @@ translate es a4_shizune_off_by_one_d69e03ff:
     # n "In retrospect, I must have looked like kind of a dick, being in such a sour mood from the moment I came here. Even though I don't think I was being unreasonable."
     n "En retrospectiva, debo haberme visto casi como un idiota, al estar tan amargado desde el momento en que llegué aquí. Aunque no creo que estuviera siendo poco razonable."
 
-# game/script-a4-shizune.rpy:961
-translate es a4_shizune_off_by_one_34cc76da:
+# game/script-a4-shizune.rpy:962
+translate es a4_shizune_off_by_one_298d134f:
 
-    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had had much less time to mull over suddenly being transferred to Yamaku, on top of that."
+    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had much less time to mull over suddenly being transferred to Yamaku, on top of that."
     n "Aun teniendo meses para digerirlo, descubrir que tienes un defecto cardiaco como yo lo hice es algo difícil de lidiar. Además de eso, había tenido mucho menos tiempo para reflexionar sobre ser trasladado de repente a Yamaku."
 
 # game/script-a4-shizune.rpy:963
@@ -8575,17 +8575,17 @@ translate es a4_shizune_terminal_70390fe8:
 translate es strings:
 
     # game/script-a4-shizune.rpy:757
-    old "Let's go on a date."
-    new "Vamos a una cita."
+    old "[[Let's go on a date.]"
+    new "[[Vamos a una cita.]"
 
     # game/script-a4-shizune.rpy:757
-    old "Let's use it, then."
-    new "Vamos a usarla, entonces."
+    old "[[Let's use it, then.]"
+    new "[[Vamos a usarla, entonces.]"
 
     # game/script-a4-shizune.rpy:2518
     old "Is that for me?"
     new "¿Eso es para mí?"
 
     # game/script-a4-shizune.rpy:2518
-    old "This was the real surprise. See?"
-    new "Esta era la verdadera sorpresa. ¿Ves?"
+    old "[[This was the real surprise. See?]"
+    new "[[Esta era la verdadera sorpresa. ¿Ves?]"

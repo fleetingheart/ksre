@@ -1396,10 +1396,10 @@ translate zh_hans a4_shizune_off_by_one_d69e03ff:
     # n "In retrospect, I must have looked like kind of a dick, being in such a sour mood from the moment I came here. Even though I don't think I was being unreasonable."
     n "现在回想起来，我当时一定表现的像个傻瓜。因为自从我来到这里，就一直心怀不满。"
 
-# game/script-a4-shizune.rpy:961
-translate zh_hans a4_shizune_off_by_one_34cc76da:
+# game/script-a4-shizune.rpy:962
+translate zh_hans a4_shizune_off_by_one_298d134f:
 
-    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had had much less time to mull over suddenly being transferred to Yamaku, on top of that."
+    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had much less time to mull over suddenly being transferred to Yamaku, on top of that."
     n "就算有好几个月的时间静养，接受自己有这种心脏疾病的事实也十分困难。更何况，在那以外，我几乎都没有时间为自己突然来到山久做心理准备。"
 
 # game/script-a4-shizune.rpy:963
@@ -8503,92 +8503,18 @@ translate zh_hans a4_shizune_terminal_70390fe8:
 translate zh_hans strings:
 
     # game/script-a4-shizune.rpy:757
-    old "Let's go on a date."
-    new "我们去约会吧。"
+    old "[[Let's go on a date.]"
+    new "[[我们去约会吧。]"
 
     # game/script-a4-shizune.rpy:757
-    old "Let's use it, then."
-    new "那我们就用用它吧。"
+    old "[[Let's use it, then.]"
+    new "[[那我们就用用它吧。]"
 
     # game/script-a4-shizune.rpy:2518
     old "Is that for me?"
     new "那是给我的吗？"
 
     # game/script-a4-shizune.rpy:2518
-    old "This was the real surprise. See?"
-    new "这才是真正的惊喜。看到了吗？"
-
-# TODO: Translation updated at 2026-02-25 00:03
-
-# game/script-a4-shizune.rpy:56
-translate zh_hans a4_shizune_grand_strategy_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:955
-translate zh_hans a4_shizune_off_by_one_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:984
-translate zh_hans a4_shizune_off_by_one_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:1329
-translate zh_hans a4_shizune_invasion_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4075
-translate zh_hans a4_shizune_infinity_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4104
-translate zh_hans a4_shizune_infinity_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4211
-translate zh_hans a4_shizune_infinity_d41d8cd9_2:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4589
-translate zh_hans a4_shizune_infinity_d41d8cd9_3:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4614
-translate zh_hans a4_shizune_infinity_d41d8cd9_4:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:5165
-translate zh_hans a4_shizune_spiral_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:5178
-translate zh_hans a4_shizune_spiral_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:5318
-translate zh_hans a4_shizune_spiral_d41d8cd9_2:
-
-    # nvl clear
-    nvl clear
+    old "[[This was the real surprise. See?]"
+    new "[[这才是真正的惊喜。看到了吗？]"
 

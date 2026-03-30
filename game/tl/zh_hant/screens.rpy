@@ -318,3 +318,15 @@ translate zh_hant strings:
     old "Text size"
     new "Text size"
 
+# TODO: Translation updated at 2026-03-29 23:20
+
+translate zh_hant strings:
+
+    # game/screens.rpy:483
+    old "Are you sure you want to\noverwrite your save?"
+    new "確認要覆寫這個存檔嗎?"
+
+    # game/screens.rpy:483
+    old "Progress successfully saved."
+    new "成功記錄進度。"
+

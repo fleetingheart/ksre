@@ -1116,10 +1116,10 @@ translate ru a3_hanako_shady_encounter_081a7806:
     # hi "Likewise, then."
     hi "Тогда и ты ко мне обращайся по имени."
 
-# game/script-a3-hanako.rpy:796
-translate ru a3_hanako_shady_encounter_1569b52d:
+# game/script-a3-hanako.rpy:808
+translate ru a3_hanako_shady_encounter_5806afba:
 
-    # "We both look back out to the field were the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
+    # "We both look back out to the field where the guys are playing. It looks like they're getting ready to have a second game, with people spreading out to their positions and the ball being carried to the center of the field."
     "Мы оглядываемся на поле, где проходит игра. Похоже, команды готовятся ко второму тайму. Игроки встают по местам, и арбитр выносит мяч на середину поля."
 
 # game/script-a3-hanako.rpy:798

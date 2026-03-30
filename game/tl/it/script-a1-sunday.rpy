@@ -10173,18 +10173,3 @@ translate it strings:
     # game/script-a1-sunday.rpy:5327
     old "AHHHHHHHHHHHHH!"
     new "AHHHHHHHHHHHHH!"
-
-# TODO: Translation updated at 2026-02-24 23:28
-
-# game/script-a1-sunday.rpy:3026
-translate it a1_sunday_movement_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a1-sunday.rpy:3046
-translate it a1_sunday_movement_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-

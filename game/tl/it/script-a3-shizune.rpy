@@ -11375,29 +11375,3 @@ translate it strings:
     # game/script-a3-shizune.rpy:6367
     old "Refuse."
     new "Mi rifiuto."
-
-# TODO: Translation updated at 2026-02-24 23:28
-
-# game/script-a3-shizune.rpy:10
-translate it a3_shizune_force_feedback_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-shizune.rpy:26
-translate it a3_shizune_force_feedback_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-shizune.rpy:3917
-translate it a3_shizune_roadmap_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-shizune.rpy:3931
-translate it a3_shizune_roadmap_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear

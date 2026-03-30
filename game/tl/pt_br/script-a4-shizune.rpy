@@ -1420,10 +1420,10 @@ translate pt_br a4_shizune_off_by_one_d69e03ff:
     # n "In retrospect, I must have looked like kind of a dick, being in such a sour mood from the moment I came here. Even though I don't think I was being unreasonable."
     n "Em restropecto, eu devo ter parecido um otário, estando num clima tão amargo. Mesmo eu achando que eu não estava sendo irracional."
 
-# game/script-a4-shizune.rpy:961
-translate pt_br a4_shizune_off_by_one_34cc76da:
+# game/script-a4-shizune.rpy:962
+translate pt_br a4_shizune_off_by_one_298d134f:
 
-    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had had much less time to mull over suddenly being transferred to Yamaku, on top of that."
+    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had much less time to mull over suddenly being transferred to Yamaku, on top of that."
     n "Mesmo tendo mêses para absorver tudo, saber que você tem um defeito no coração como eu é algo difícil de se lidar. Além disso, eu tive pouco tempo pra ponderar sobre isso, sendo transferido repentinamente pra Yamaku."
 
 # game/script-a4-shizune.rpy:963
@@ -8680,18 +8680,18 @@ translate pt_br a4_shizune_terminal_70390fe8:
 translate pt_br strings:
 
     # game/script-a4-shizune.rpy:757
-    old "Let's go on a date."
-    new "Vamos num encontro."
+    old "[[Let's go on a date.]"
+    new "[[Vamos num encontro.]"
 
     # game/script-a4-shizune.rpy:757
-    old "Let's use it, then."
-    new "Então, vamos usar isso."
+    old "[[Let's use it, then.]"
+    new "[[Então, vamos usar isso.]"
 
     # game/script-a4-shizune.rpy:2518
     old "Is that for me?"
     new "Isso é pra mim?"
 
     # game/script-a4-shizune.rpy:2518
-    old "This was the real surprise. See?"
-    new "Essa era a verdadeira surpresa, viu?"
+    old "[[This was the real surprise. See?]"
+    new "[[Essa era a verdadeira surpresa, viu?]"
 

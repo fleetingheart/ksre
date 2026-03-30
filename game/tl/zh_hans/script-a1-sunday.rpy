@@ -10174,17 +10174,3 @@ translate zh_hans strings:
     old "AHHHHHHHHHHHHH!"
     new "啊啊啊！"
 
-# TODO: Translation updated at 2026-02-25 00:03
-
-# game/script-a1-sunday.rpy:3026
-translate zh_hans a1_sunday_movement_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a1-sunday.rpy:3046
-translate zh_hans a1_sunday_movement_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-

@@ -1397,9 +1397,9 @@ translate it a4_shizune_off_by_one_d69e03ff:
     n "A ripensarci, devo essere sembrato un po' uno stronzo, rimanendo di malumore fin dal momento in cui sono entrato qui. Anche se non penso di aver avuto tutti i torti."
 
 # game/script-a4-shizune.rpy:962
-translate it a4_shizune_off_by_one_34cc76da:
+translate it a4_shizune_off_by_one_298d134f:
 
-    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had had much less time to mull over suddenly being transferred to Yamaku, on top of that."
+    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had much less time to mull over suddenly being transferred to Yamaku, on top of that."
     n "Anche avendo avuto mesi per metabolizzarlo, scoprire che hai un problema cardiaco come è successo a me è difficile da affrontare. Per di più, ho avuto molto meno tempo per rimuginare sul mio repentino trasferimento alla Yamaku."
 
 # game/script-a4-shizune.rpy:964
@@ -8503,92 +8503,17 @@ translate it a4_shizune_terminal_70390fe8:
 translate it strings:
 
     # game/script-a4-shizune.rpy:758
-    old "Let's go on a date."
-    new "Usciamo insieme."
+    old "[[Let's go on a date.]"
+    new "[[Usciamo insieme.]"
 
     # game/script-a4-shizune.rpy:758
-    old "Let's use it, then."
-    new "Usiamolo, allora."
+    old "[[Let's use it, then.]"
+    new "[[Usiamolo, allora.]"
 
     # game/script-a4-shizune.rpy:2519
     old "Is that for me?"
     new "Sono per me?"
 
     # game/script-a4-shizune.rpy:2519
-    old "This was the real surprise. See?"
-    new "Questa era la vera sorpresa. Visto?"
-
-# TODO: Translation updated at 2026-02-24 23:28
-
-# game/script-a4-shizune.rpy:56
-translate it a4_shizune_grand_strategy_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:955
-translate it a4_shizune_off_by_one_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:984
-translate it a4_shizune_off_by_one_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:1329
-translate it a4_shizune_invasion_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4075
-translate it a4_shizune_infinity_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4104
-translate it a4_shizune_infinity_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4211
-translate it a4_shizune_infinity_d41d8cd9_2:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4589
-translate it a4_shizune_infinity_d41d8cd9_3:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:4614
-translate it a4_shizune_infinity_d41d8cd9_4:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:5165
-translate it a4_shizune_spiral_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:5178
-translate it a4_shizune_spiral_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a4-shizune.rpy:5318
-translate it a4_shizune_spiral_d41d8cd9_2:
-
-    # nvl clear
-    nvl clear
-
+    old "[[This was the real surprise. See?]"
+    new "[[Questa era la vera sorpresa. Visto?]"

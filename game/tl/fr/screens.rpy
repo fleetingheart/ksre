@@ -337,3 +337,15 @@ translate fr strings:
     old "Text size"
     new "Text size"
 
+# TODO: Translation updated at 2026-03-29 23:18
+
+translate fr strings:
+
+    # game/screens.rpy:483
+    old "Are you sure you want to\noverwrite your save?"
+    new "Voulez-vous vraiment écraser cette sauvegarde ?"
+
+    # game/screens.rpy:483
+    old "Progress successfully saved."
+    new "Progression sauvegardée avec succès."
+

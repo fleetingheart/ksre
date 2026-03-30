@@ -1408,10 +1408,10 @@ translate jp a4_shizune_off_by_one_d69e03ff:
     # n "In retrospect, I must have looked like kind of a dick, being in such a sour mood from the moment I came here. Even though I don't think I was being unreasonable."
     n "振り返ってみると、ここに来たばかりの俺はいやな奴に見えたに違いない。転校早々、あんなにひねくれた態度でいたのだから。それが理不尽だったとは思わないけど。"
 
-# game/script-a4-shizune.rpy:961
-translate jp a4_shizune_off_by_one_34cc76da:
+# game/script-a4-shizune.rpy:962
+translate jp a4_shizune_off_by_one_298d134f:
 
-    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had had much less time to mull over suddenly being transferred to Yamaku, on top of that."
+    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had much less time to mull over suddenly being transferred to Yamaku, on top of that."
     n "それを受け入れる時間が何ヶ月もあったとはいえ、俺のような形で心臓病があると知らされるのはつらいことだ。その上、突然山久に転校させられることについては、考える時間はずっと少なかった。"
 
 # game/script-a4-shizune.rpy:963
@@ -8575,18 +8575,18 @@ translate jp a4_shizune_terminal_70390fe8:
 translate jp strings:
 
     # game/script-a4-shizune.rpy:757
-    old "Let's go on a date."
-    new "デートしましょう"
+    old "[[Let's go on a date.]"
+    new "[[デートしましょう]"
 
     # game/script-a4-shizune.rpy:757
-    old "Let's use it, then."
-    new "じゃあ役に立てようぜ"
+    old "[[Let's use it, then.]"
+    new "[[じゃあ役に立てようぜ]"
 
     # game/script-a4-shizune.rpy:2518
     old "Is that for me?"
     new "それ、俺にか？"
 
     # game/script-a4-shizune.rpy:2518
-    old "This was the real surprise. See?"
-    new "こっちが本当のサプライズ。どう？"
+    old "[[This was the real surprise. See?]"
+    new "[[こっちが本当のサプライズ。どう？]"
 

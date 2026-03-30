@@ -345,3 +345,15 @@ translate jp strings:
     old "Text size"
     new "Text size"
 
+# TODO: Translation updated at 2026-03-29 23:18
+
+translate jp strings:
+
+    # game/screens.rpy:483
+    old "Are you sure you want to\noverwrite your save?"
+    new "セーブデータを上書きしても\nよろしいですか？"
+
+    # game/screens.rpy:483
+    old "Progress successfully saved."
+    new "セーブが完了しました。"
+

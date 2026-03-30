@@ -1408,10 +1408,10 @@ translate ru a4_shizune_off_by_one_d69e03ff:
     # n "In retrospect, I must have looked like kind of a dick, being in such a sour mood from the moment I came here. Even though I don't think I was being unreasonable."
     n "Я, должно быть, выглядел как лох, пребывая в столь кислом расположении духа с самого момента перевода сюда. Хотя у меня были на то причины."
 
-# game/script-a4-shizune.rpy:959
-translate ru a4_shizune_off_by_one_34cc76da:
+# game/script-a4-shizune.rpy:962
+translate ru a4_shizune_off_by_one_298d134f:
 
-    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had had much less time to mull over suddenly being transferred to Yamaku, on top of that."
+    # n "Even having months to digest it, finding out that you have a heart defect like I did is hard to deal with. I'd had much less time to mull over suddenly being transferred to Yamaku, on top of that."
     n "Даже имея месяцы на то, чтобы прийти в себя после новости о пороке сердца, смириться с таким трудно. К тому же времени на это у меня оказалось мало, особенно тогда, когда меня внезапно перевели в «Ямаку»."
 
 # game/script-a4-shizune.rpy:961
@@ -8574,18 +8574,18 @@ translate ru a4_shizune_terminal_70390fe8:
 translate ru strings:
 
     # game/script-a4-shizune.rpy:753
-    old "Let's go on a date."
-    new "Давай сходим на свидание."
+    old "[[Let's go on a date.]"
+    new "[[Давай сходим на свидание.]"
 
     # game/script-a4-shizune.rpy:753
-    old "Let's use it, then."
-    new "Давай перекусим."
+    old "[[Let's use it, then.]"
+    new "[[Давай перекусим.]"
 
     # game/script-a4-shizune.rpy:2520
     old "Is that for me?"
     new "Это мне?"
 
     # game/script-a4-shizune.rpy:2520
-    old "This was the real surprise. See?"
-    new "Вот настоящий сюрприз. Видишь?"
+    old "[[This was the real surprise. See?]"
+    new "[[Вот настоящий сюрприз. Видишь?]"
 

@@ -11376,29 +11376,3 @@ translate zh_hans strings:
     old "Refuse."
     new "拒绝。"
 
-# TODO: Translation updated at 2026-02-25 00:03
-
-# game/script-a3-shizune.rpy:10
-translate zh_hans a3_shizune_force_feedback_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-shizune.rpy:26
-translate zh_hans a3_shizune_force_feedback_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-shizune.rpy:3917
-translate zh_hans a3_shizune_roadmap_d41d8cd9:
-
-    # nvl clear
-    nvl clear
-
-# game/script-a3-shizune.rpy:3931
-translate zh_hans a3_shizune_roadmap_d41d8cd9_1:
-
-    # nvl clear
-    nvl clear
-

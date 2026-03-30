@@ -328,3 +328,15 @@ translate de strings:
     old "Text size"
     new "Text size"
 
+# TODO: Translation updated at 2026-03-29 23:09
+
+translate de strings:
+
+    # game/screens.rpy:483
+    old "Are you sure you want to\noverwrite your save?"
+    new "Willst du diesen Spielstand\nwirklich überschreiben?"
+
+    # game/screens.rpy:483
+    old "Progress successfully saved."
+    new "Spielstand erfolgreich gespeichert."
+
