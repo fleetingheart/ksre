@@ -205,7 +205,7 @@ style game_menu_button is gui_button:
     xalign 0.5
 
 style game_menu_button_text is gui_button_text:
-    size 54 + mobile_ts_add * is_mobile
+    size 42 + mobile_ts_add * is_mobile
 
 translate jp style game_menu_button_text:
     size 42 + mobile_ts_add * (renpy.android or renpy.ios)

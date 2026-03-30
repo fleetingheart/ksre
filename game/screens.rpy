@@ -197,7 +197,9 @@ screen game_menu():
 
         textbutton _("Accessibility") action ShowMenu("accessibility")
 
-        textbutton _("Saves") action ShowMenu("file_slots")
+        textbutton _("Save") action ShowMenu("file_slots", True)
+
+        textbutton _("Load") action ShowMenu("file_slots")
 
         if not renpy.emscripten:
             textbutton _("Mods") action ShowMenu("mods")
@@ -409,7 +411,7 @@ screen language():
 
     key "game_menu" action ShowMenu("prefs")
 
-screen file_slots():
+screen file_slots(allow_saving=False):
     tag menu
     style_prefix "file_slots"
 
@@ -473,7 +475,7 @@ screen file_slots():
                             top_padding 6
                             hovered Function(local_saves_items.add, i)
                             unhovered Function(local_saves_items.remove, i)
-                            if main_menu:
+                            if main_menu or not allow_saving:
                                 action [
                                     Function(setattr, config, "skipping", False),
                                     Function(setattr, config, "allow_skipping", True),
@@ -522,12 +524,13 @@ screen file_slots():
 
             vbar value YScrollValue("file_slots_vp") style "vslider"
 
-        textbutton _("Save"):
-            style "save_button"
-            action If(not (main_menu or _in_replay),
-                true=[Function(create_save_slot), Show("success_dialog", config.intra_transition, _("Progress successfully saved."))],
-                false=None
-            )
+        if not main_menu and allow_saving:
+            textbutton _("Save"):
+                style "save_button"
+                action [
+                    Function(create_save_slot),
+                    Show("success_dialog", config.intra_transition, _("Progress successfully saved."))
+                ]
 
         textbutton _("Return"):
             yoffset 5
