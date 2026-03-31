@@ -858,7 +858,7 @@ translate ru strings:
 
     # renpy/common/00sync.rpy:526
     old "Continue"
-    new "Continue"
+    new "Продолжить"
 
     # renpy/common/00sync.rpy:551
     old "Sync Error"

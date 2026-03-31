@@ -899,7 +899,7 @@ translate pt_br strings:
 
     # renpy/common/00sync.rpy:511
     old "Continue"
-    new "Continue"
+    new "Continuar"
 
     # renpy/common/00sync.rpy:536
     old "Sync Error"

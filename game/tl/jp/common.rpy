@@ -859,7 +859,7 @@ translate jp strings:
 
     # renpy/common/00sync.rpy:526
     old "Continue"
-    new "Continue"
+    new "続ける"
 
     # renpy/common/00sync.rpy:551
     old "Sync Error"
