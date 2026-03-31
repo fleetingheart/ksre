@@ -177,6 +177,24 @@ style confirm_button is gui_button
 
 style confirm_button_text is gui_button_text
 
+style success_text is confirm_text
+
+style success_label is confirm_label
+
+style success_button is confirm_button
+
+style success_button_text is confirm_button_text
+
+style success_interface is confirm_interface:
+    align (0.5, 0.5)
+    xsize 0.35
+    xpadding 0.1
+    ypadding 0.05
+
+style success_vbox:
+    xalign 0.5
+    xfill True
+
 style main_menu_vbox is vbox:
     xpos 0.075
     ypos 0.9

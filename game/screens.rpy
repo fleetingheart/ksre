@@ -129,7 +129,7 @@ screen confirm(message, yes_action, no_action=None, yes_text=None, no_text=None)
 screen success_dialog(message, continue_action=None, continue_text=None):
     modal True
     zorder 200
-    style_prefix "confirm"
+    style_prefix "success"
 
     add "blind"
 
@@ -137,30 +137,26 @@ screen success_dialog(message, continue_action=None, continue_text=None):
         style_suffix "interface"
         at colorblind(persistent.colorblind)
 
-        top_padding 0.05
-        xpadding 0.04
-
         has vbox
-
-        spacing 30
-
-        hbox:
-            null width 20
-            text message
-            null width 20
-
-        null height 24
-
-        hbox:
-            spacing 40
-            xalign 0.5
-
-            textbutton (continue_text or _("Continue")) action [(continue_action or NullAction()), Hide("success_dialog", transition=config.intra_transition)]
 
         frame:
             ysize 1
 
-            image "icon_rin" xpos 485 ypos -355
+            image "icon_rin" offset (495, -146)
+
+        hbox:
+            xalign 0.5
+            
+            text message
+        
+        null height 100
+
+        hbox:
+            xalign 0.5
+
+            textbutton (continue_text or _("Continue")) action [(continue_action or NullAction()), Hide("success_dialog", transition=config.intra_transition)]
+
+    key "game_menu" action Hide("success_dialog", transition=config.intra_transition)
 
 screen game_menu():
     tag menu
