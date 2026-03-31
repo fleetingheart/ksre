@@ -327,9 +327,13 @@ translate zh_hans strings:
     old "Text size"
     new "文本大小"
 
-# TODO: Translation updated at 2026-03-29 23:20
+# TODO: Translation updated at 2026-03-30 21:37
 
 translate zh_hans strings:
+
+    # game/screens.rpy:202
+    old "Load"
+    new "读取"
 
     # game/screens.rpy:483
     old "Are you sure you want to\noverwrite your save?"

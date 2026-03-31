@@ -11399,3 +11399,4 @@ translate es strings:
     # game/script-a3-shizune.rpy:6340
     old "Refuse."
     new "Rechazar."
+

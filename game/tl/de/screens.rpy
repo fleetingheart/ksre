@@ -328,9 +328,13 @@ translate de strings:
     old "Text size"
     new "Text size"
 
-# TODO: Translation updated at 2026-03-29 23:09
+# TODO: Translation updated at 2026-03-30 21:37
 
 translate de strings:
+
+    # game/screens.rpy:202
+    old "Load"
+    new "Laden"
 
     # game/screens.rpy:483
     old "Are you sure you want to\noverwrite your save?"

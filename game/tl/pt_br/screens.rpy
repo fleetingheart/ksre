@@ -321,9 +321,13 @@ translate pt_br strings:
     old "Text size"
     new "Text size"
 
-# TODO: Translation updated at 2026-03-29 23:19
+# TODO: Translation updated at 2026-03-30 21:37
 
 translate pt_br strings:
+
+    # game/screens.rpy:202
+    old "Load"
+    new "Carregar"
 
     # game/screens.rpy:483
     old "Are you sure you want to\noverwrite your save?"

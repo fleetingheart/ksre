@@ -431,7 +431,7 @@ screen file_slots(allow_saving=False):
 
         spacing 6
 
-        text _("Saves"):
+        text (_("Save") if allow_saving else _("Load")):
             bold True
             size bold_size
 

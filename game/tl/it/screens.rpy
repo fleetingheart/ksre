@@ -316,15 +316,19 @@ translate it strings:
     old "Text size"
     new "Text size"
 
-# TODO: Translation updated at 2026-03-29 23:18
+# TODO: Translation updated at 2026-03-30 21:37
 
-# translate it strings:
+translate it strings:
 
-#     # game/screens.rpy:483
-#     old "Are you sure you want to\noverwrite your save?"
-#     new ""
+    # game/screens.rpy:202
+    old "Load"
+    new "Load"
 
-#     # game/screens.rpy:483
-#     old "Progress successfully saved."
-#     new ""
+    # game/screens.rpy:483
+    old "Are you sure you want to\noverwrite your save?"
+    new "Are you sure you want to\noverwrite your save?"
+
+    # game/screens.rpy:483
+    old "Progress successfully saved."
+    new "Progress successfully saved."
 
