@@ -23,9 +23,13 @@ translate es strings:
     new "Una pieza de concepto corto basado en el uso de recursos libremente disponibles para NaNoRenO por 4LS.\n"
 
     # game/mods/pxt/screens.rpy:63
-    old "Tells the love story of Pyramus and Thisbe, which is a part of Roman mythology.\n"
-    new "Cuenta la historia de amor de Píramo y Tisbe, que forma parte de la mitología Romana.\n"
+    old "It tells the love story of Pyramus and Thisbe, which is a part of Roman mythology.\n"
+    new "Cuenta la historia de amor de Píramo y Tisbe, que forma parte de la mitología romana.\n"
 
     # game/mods/pxt/screens.rpy:65
     old "Port by Ikariya.\n"
     new "Port por Ikariya.\n"
+    
+    # game/mods/pxt/screens.rpy:65
+    old "Author of the original text: William Shakespeare.\n"
+    new "Autor del texto original: William Shakespeare.\n"

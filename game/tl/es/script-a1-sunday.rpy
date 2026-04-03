@@ -5305,7 +5305,7 @@ translate es a1_sunday_movement_f8dca8a3:
     "Es sorprendente lo diferentes que son en la forma que se desenvuelven fuera de los terrenos de Yamaku. Dicho lo anterior, es obvio que en ambos casos cambian visiblemente."
 
 # game/script-a1-sunday.rpy:3026
-translate es a1_sunday_movement_d41d8cd9:
+translate es a1_sunday_movement_76b2fe88:
 
     # nvl clear
     nvl clear
@@ -5341,7 +5341,7 @@ translate es a1_sunday_movement_7f115645:
     n "{vspace=30}¿O tal vez soy el único que ve esto como un estigma? Tal vez te acostumbras a ello después de un tiempo, como cualquier otro uniforme escolar."
 
 # game/script-a1-sunday.rpy:3046
-translate es a1_sunday_movement_d41d8cd9_1:
+translate es a1_sunday_movement_76b2fe88_1:
 
     # nvl clear
     nvl clear

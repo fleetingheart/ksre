@@ -317,15 +317,15 @@ translate es strings:
 
     # game/screens.rpy:1068
     old "Current voice: "
-    new ""
+    new "Voz actual: "
 
     # game/screens.rpy:1085
     old "Opacity"
-    new ""
+    new "Opacidad"
 
     # game/screens.rpy:1092
     old "Text size"
-    new ""
+    new "Tamaño del texto"
 
 # TODO: Translation updated at 2026-03-30 21:37
 

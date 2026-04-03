@@ -349,7 +349,7 @@ translate es a4_emi_a_swing_and_a_miss_4e5de42f:
     hi "Sí, seguro…"
 
 # game/script-a4-emi.rpy:213
-translate es a4_emi_a_swing_and_a_miss_d41d8cd9:
+translate es a4_emi_a_swing_and_a_miss_76b2fe88:
 
     # nvl clear
     nvl clear
@@ -391,7 +391,7 @@ translate es a4_emi_a_swing_and_a_miss_24f51d1f:
     n "{vspace=30}Soy absolutamente miserable."
 
 # game/script-a4-emi.rpy:233
-translate es a4_emi_a_swing_and_a_miss_d41d8cd9_1:
+translate es a4_emi_a_swing_and_a_miss_76b2fe88_1:
 
     # nvl clear
     nvl clear
