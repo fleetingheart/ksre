@@ -6138,6 +6138,7 @@ translate ru a3_lilly_rhapsody_in_blue_269ef718:
 translate ru a3_lilly_rhapsody_in_blue_19baac3a:
 
     # n "It's a pity we only have a couple more hours to spend here before going to get the train back."
+    nvl clear
     n "Жаль, что нам осталось провести здесь лишь несколько часов, прежде чем отправиться на обратный поезд."
 
 # game/script-a3-lilly.rpy:3737
