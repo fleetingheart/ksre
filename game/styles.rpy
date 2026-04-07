@@ -12,8 +12,13 @@ define is_mobile = renpy.android or renpy.ios
 
 define default_font = "font/playtime.ttf"
 
-init python:
+translate None python:
+    # set bold variant for all languages that use the Playtime font...
     config.font_replacement_map["font/playtime.ttf", True, False] = ("font/playtime_bold.ttf", False, False)
+
+translate ru python:
+    # ...except for Russian, since it doesn't support cyrillic characters
+    config.font_replacement_map.pop(("font/playtime.ttf", True, False), None)
 
 translate zh_hans python:
     default_font = FontGroup().add("font/XiaolaiSC-Regular.ttf", 0x2e80, 0xffff).add("font/playtime.ttf", 0x0000, 0xffff)
