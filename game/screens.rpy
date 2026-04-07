@@ -1170,8 +1170,8 @@ screen accessibility():
                                     xoffset 55
                                     yoffset -84
                                 else:
-                                    xoffset 43
-                                    yoffset -71
+                                    xoffset 41
+                                    yoffset -233
                                 xpadding 13
                                 ypadding 13
 
