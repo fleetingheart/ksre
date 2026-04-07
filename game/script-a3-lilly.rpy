@@ -3750,7 +3750,7 @@ label a3_lilly:
 
         n "It may not have been the most exciting finale to the trip, but such tranquil peacefulness is something to savor. Even after we return to the school tomorrow, I think I'll remember this little house in Hokkaido for a long time."
 
-        n "It's a pity we only have a couple more hours to spend here before going to get the train back."
+        n "It's a pity we only have a couple more hours to spend here before going to get the train back." id a3_lilly_rhapsody_in_blue_19baac3a
 
         n "All I can do is yawn contentedly while I watch the steam slowly rising from the clear water's placid surface, my eyes eventually locking onto the ceiling."
 

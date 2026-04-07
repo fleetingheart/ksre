@@ -272,7 +272,7 @@ label a1_monday:
 
         n "Maybe some people were genuinely concerned, but I doubt it. Even in the beginning, I barely had visitors. By the end of the first month, only my parents came by on a regular basis."
 
-        n "Iwanako was the last to stop visiting."
+        n "Iwanako was the last to stop visiting." id a1_monday_bundle_of_hisao_928fd142
 
         n "After six weeks, I never saw her again. We never had that much to talk about when she visited, anyway."
 
