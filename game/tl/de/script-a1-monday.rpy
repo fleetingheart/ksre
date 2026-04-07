@@ -380,6 +380,7 @@ translate de a1_monday_bundle_of_hisao_b5c56144:
 translate de a1_monday_bundle_of_hisao_928fd142:
 
     # n "Iwanako was the last to stop visiting."
+    nvl clear
     n "Iwanako war diejenige, die noch am längsten durchhielt."
 
 # game/script-a1-monday.rpy:275
