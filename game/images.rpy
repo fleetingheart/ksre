@@ -1832,13 +1832,12 @@ image dandelions_blurbg = SnowBlossom(Transform("vfx/dandelion_blur.png", size=(
 image dandelions_blurfg = SnowBlossom("vfx/dandelion_blur.png", count=20, border=25, xspeed=(100, 200), yspeed=(-72, -27), start=8.0, fast=True, horizontal=True)
 
 image steam:
-    "vfx/steam1.png"
+    "vfx/steam1.png" with Dissolve(0.5)
     1.5
     "vfx/steam2.png" with Dissolve(0.5)
     1.5
     "vfx/steam3.png" with Dissolve(0.5)
     1.5
-    "vfx/steam1.png" with Dissolve(0.5)
     repeat
 
 image steam2:
