@@ -1784,7 +1784,7 @@ label a4_rin:
 
             "They are like sisters, even though they seem to have nothing in common."
 
-            if what_about_emi:
+            if not what_about_emi:
                 "I wonder which one is the elder sister? Probably Emi, against all odds."
 
                 "She is really diligent, even though she gives the feeling of someone who would be a total airhead."

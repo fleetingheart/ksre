@@ -1467,7 +1467,7 @@ label a1_thursday:
 
             mi "If she has any sense in her head, she's in her classroom, working on their festival project. But who knows where that woman is loitering at."
 
-            if not wait_for_shizu or not _in_replay:
+            if not wait_for_shizu or _in_replay:
                 show misha hips_grin
                 with persistent.charachange
 

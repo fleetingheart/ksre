@@ -490,7 +490,7 @@ label a1_friday:
 
                 "I shrug and he gestures at me to run along so I naturally do."
 
-            if not go_through_shizu() or kick_shizu:
+            if not get_tired() and (not go_through_shizu() or kick_shizu):
                 scene bg school_scienceroom
                 with locationskip
 
@@ -652,7 +652,7 @@ label a1_friday:
 
             mi "Just kidding!"
 
-            if get_tired() or _in_replay:
+            if (not go_for_it and not kick_shizu) or _in_replay:
                 scene bg school_council
                 with shorttimeskip
 
@@ -1076,7 +1076,7 @@ label a1_friday:
 
                 "Huh."
 
-                if go_through_shizu() and not got_kenji() or _in_replay:
+                if kick_shizu or _in_replay:
                     "Her expression is so funny that I almost laugh out loud."
 
                     "Emi giggles, to herself or to something or other, or maybe for no reason at all. I like the sound of it."

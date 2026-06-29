@@ -3419,7 +3419,7 @@ label a3_shizune:
 
         "The answer is yes. I wasn't this persistent or argumentative before meeting Shizune and Misha. After all, prior to meeting them, I'd just experienced a small death. It's a mystery as to why I refused to join the Student Council in the first place."
 
-        if wanted_introduce or _in_replay:
+        if not wanted_introduce or _in_replay:
             "It took monumental effort just to introduce myself on my first day there. I might have rolled over for anyone and any cause. It might have just been chance that Student Council appealed to me so little that I would fight it."
 
         "Possibly it was from trying to get away from their nagging so much that I was able to get my energy back. It's a cute idea."
