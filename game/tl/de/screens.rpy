@@ -138,40 +138,6 @@ translate de strings:
     old "Options > Language"
     new "Optionen > Sprache"
 
-    # game/screens.rpy:370
-    old "English"
-    new "Englisch"
-
-    # game/screens.rpy:371
-    old "Russian"
-    new "Russisch"
-
-    # game/screens.rpy:372
-    old "French"
-    new "Französisch"
-
-    # game/screens.rpy:373
-    old "Spanish"
-    new "Spanisch"
-
-    # game/screens.rpy:374
-    old "German"
-    new "Deutsch"
-
-    # game/screens.rpy:375
-    old "Portuguese"
-    new "Portugiesisch"
-
-    # game/screens.rpy:376
-    old "Japanese"
-    new "Japanisch"
-
-    old "Italian"
-    new "Italienisch"
-
-    old "Traditional Chinese"
-    new "Chinesisch (traditionell)"
-
     # game/screens.rpy:439
     old "Are you sure you want to\nload this save?"
     new "Sind Sie sicher, dass Sie\ndiesen Spielstand laden möchten?"
@@ -280,10 +246,6 @@ translate de strings:
 
 translate de strings:
 
-    # game/screens.rpy:376
-    old "Simplified Chinese"
-    new "Chinesisch (vereinfacht)"
-
     # game/screens.rpy:1061
     old "Mental health"
     new "Mentale Gesundheit"
@@ -299,10 +261,6 @@ translate de strings:
     # game/screens.rpy:273
     old "Disable expression transitions"
     new "Ausdrucksübergänge deaktivieren"
-
-    # game/screens.rpy:361
-    old "Brazilian Portuguese"
-    new "Brasilianisches Portugiesisch"
 
     # game/screens.rpy:858
     old "Completion: [completion_percentage]"
@@ -343,4 +301,3 @@ translate de strings:
     # game/screens.rpy:483
     old "Progress successfully saved."
     new "Spielstand erfolgreich gespeichert."
-

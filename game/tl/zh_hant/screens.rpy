@@ -142,42 +142,6 @@ translate zh_hant strings:
     old "Options > Language"
     new "設置 > 語言"
 
-    # game/screens.rpy:355
-    old "English"
-    new "英語"
-
-    # game/screens.rpy:356
-    old "Russian"
-    new "俄語"
-
-    # game/screens.rpy:357
-    old "French"
-    new "法語"
-
-    # game/screens.rpy:358
-    old "Italian"
-    new "意大利語"
-
-    # game/screens.rpy:359
-    old "Spanish"
-    new "西班牙語"
-
-    # game/screens.rpy:360
-    old "German"
-    new "荷蘭語"
-
-    # game/screens.rpy:361
-    old "Japanese"
-    new "日語"
-
-    # game/screens.rpy:362
-    old "Simplified Chinese"
-    new "簡體中文"
-
-    # game/screens.rpy:363
-    old "Traditional Chinese"
-    new "正體中文"
-
     # game/screens.rpy:431
     old "Are you sure you want to\nload this save?"
     new "你確定要\n載入此存檔嗎？"
@@ -296,12 +260,6 @@ translate zh_hant strings:
 
 # TODO: Translation updated at 2026-01-25 19:51
 
-translate zh_hant strings:
-
-    # game/screens.rpy:361
-    old "Brazilian Portuguese"
-    new "巴西葡萄牙語"
-
 # TODO: Translation updated at 2026-02-25 00:11
 
 translate zh_hant strings:
@@ -333,4 +291,3 @@ translate zh_hant strings:
     # game/screens.rpy:483
     old "Progress successfully saved."
     new "成功記錄進度。"
-

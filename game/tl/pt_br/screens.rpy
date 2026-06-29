@@ -143,42 +143,6 @@ translate pt_br strings:
     old "Options > Language"
     new "Opções > Idiomas"
 
-    # game/screens.rpy:357
-    old "English"
-    new "Inglês"
-
-    # game/screens.rpy:358
-    old "Russian"
-    new "Russo"
-
-    # game/screens.rpy:359
-    old "French"
-    new "Françês"
-
-    # game/screens.rpy:360
-    old "Italian"
-    new "Italiano"
-
-    # game/screens.rpy:361
-    old "Spanish"
-    new "Espanhol"
-
-    # game/screens.rpy:362
-    old "German"
-    new "Alemão"
-
-    # game/screens.rpy:363
-    old "Japanese"
-    new "Japonês"
-
-    # game/screens.rpy:364
-    old "Simplified Chinese"
-    new "Chinês Simplificado"
-
-    # game/screens.rpy:365
-    old "Traditional Chinese"
-    new "Chinês Tradicional"
-
     # game/screens.rpy:433
     old "Are you sure you want to\nload this save?"
     new "Tem certeza que deseja\ncarregar este arquivo?"
@@ -243,13 +207,9 @@ translate pt_br strings:
     old "Completion: [completion_percentage]"
     new "Progresso: [completion_percentage]"
 
-
-
     # game/screens.rpy:888
     old "Extras > Cinema"
     new "Extras > Cinema"
-
-
 
     # game/screens.rpy:1033
     old "Fonts"
@@ -299,12 +259,6 @@ translate pt_br strings:
     old "This question will not be shown again after you start playing."
     new "Essa pergunta não será feita novamente depois que você começar a jogar."
 
-    # game/screens.rpy:362
-    old "Brazilian Portuguese"
-    new "Português Brasileiro"
-
-
-
 # TODO: Translation updated at 2026-02-23 16:54
 
 translate pt_br strings:
@@ -336,4 +290,3 @@ translate pt_br strings:
     # game/screens.rpy:483
     old "Progress successfully saved."
     new "Progresso salvo com sucesso."
-

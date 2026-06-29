@@ -142,40 +142,6 @@ translate it strings:
     old "Options > Language"
     new "Preferenze > Selezione lingua"
 
-    # game/screens.rpy:355
-    old "English"
-    new "Inglese"
-
-    # game/screens.rpy:356
-    old "Russian"
-    new "Russo"
-
-    # game/screens.rpy:357
-    old "French"
-    new "Francese"
-
-    # game/screens.rpy:358
-    old "Spanish"
-    new "Spagnolo"
-
-    # game/screens.rpy:359
-    old "German"
-    new "Tedesco"
-
-    # game/screens.rpy:360
-    old "Japanese"
-    new "Giapponese"
-
-    # game/screens.rpy:361
-    old "Simplified Chinese"
-    new "Cinese Semplificato"
-
-    old "Italian"
-    new "Italiano"
-
-    old "Traditional Chinese"
-    new "Cinese Tradizionale"
-
     # game/screens.rpy:425
     old "Are you sure you want to\nload this save?"
     new "Vuoi davvero scartare\ni tuoi progressi?"
@@ -294,12 +260,6 @@ translate it strings:
 
 # TODO: Translation updated at 2026-01-25 19:44
 
-translate it strings:
-
-    # game/screens.rpy:361
-    old "Brazilian Portuguese"
-    new "Portoghese brasiliano"
-
 # TODO: Translation updated at 2026-02-24 23:28
 
 translate it strings:
@@ -331,4 +291,3 @@ translate it strings:
     # game/screens.rpy:483
     old "Progress successfully saved."
     new "Progress successfully saved."
-

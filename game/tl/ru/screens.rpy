@@ -122,40 +122,6 @@ translate ru strings:
     old "Options > Language"
     new "Настройки » Язык"
 
-    # game/screens.rpy:318
-    old "English"
-    new "Английский"
-
-    # game/screens.rpy:320
-    old "Russian"
-    new "Русский"
-
-    # game/screens.rpy:290
-    old "French"
-    new "Французский"
-
-    # game/screens.rpy:291
-    old "Spanish"
-    new "Испанский"
-
-    # game/screens.rpy:292
-    old "German"
-    new "Немецкий"
-
-    # game/screens.rpy:293
-    old "Portuguese"
-    new "Португальский"
-
-    # game/screens.rpy:294
-    old "Japanese"
-    new "Японский"
-
-    old "Italian"
-    new "Итальянский"
-
-    old "Traditional Chinese"
-    new "Традиционный китайский"
-
     # game/screens.rpy:401
     old "Playtime"
     new "Наиграно"
@@ -302,12 +268,6 @@ translate ru strings:
 
 # TODO: Translation updated at 2024-12-18 15:22
 
-translate ru strings:
-
-    # game/screens.rpy:376
-    old "Simplified Chinese"
-    new "Упрощённый китайский"
-
 # TODO: Translation updated at 2026-01-25 19:15
 
 translate ru strings:
@@ -315,10 +275,6 @@ translate ru strings:
     # game/screens.rpy:273
     old "Disable expression transitions"
     new "Отключить анимацию выражений"
-
-    # game/screens.rpy:361
-    old "Brazilian Portuguese"
-    new "Бразильский португальский"
 
     # game/screens.rpy:858
     old "Completion: [completion_percentage]"
@@ -359,4 +315,3 @@ translate ru strings:
     # game/screens.rpy:483
     old "Progress successfully saved."
     new "Игра успешно сохранена."
-

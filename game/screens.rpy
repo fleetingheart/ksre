@@ -396,11 +396,13 @@ screen language():
 
             for lang, info in languages.items():
 
-                textbutton info.label action [
-                    Language(lang),
-                    Function(update_tts_voice),
-                    renpy.restart_interaction
-                ]
+                textbutton info.label:
+                    text_font (info.menu_font or default_font)
+                    action [
+                        Language(lang),
+                        Function(update_tts_voice),
+                        renpy.restart_interaction
+                    ]
 
         textbutton _("Return"):
             style "return_button"

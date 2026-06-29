@@ -138,43 +138,6 @@ translate zh_hans strings:
     old "Options > Language"
     new "设置 > 语言"
 
-    # game/screens.rpy:370
-    old "English"
-    new "英语"
-
-    # game/screens.rpy:371
-    old "Russian"
-    new "俄语"
-
-    # game/screens.rpy:372
-    old "French"
-    new "法语"
-
-    # game/screens.rpy:373
-    old "Spanish"
-    new "西班牙语"
-
-    # game/screens.rpy:374
-    old "German"
-    new "荷兰语"
-
-    # game/screens.rpy:375
-    old "Portuguese"
-    new "葡萄牙语"
-
-    # game/screens.rpy:376
-    old "Japanese"
-    new "日语"
-
-    old "Simplified Chinese"
-    new "简体中文"
-
-    old "Italian"
-    new "意大利语"
-
-    old "Traditional Chinese"
-    new "繁体中文"
-
     # game/screens.rpy:439
     old "Are you sure you want to\nload this save?"
     new "你确定要\n载入此存档吗？"
@@ -299,10 +262,6 @@ translate zh_hans strings:
     old "Disable expression transitions"
     new "关闭表情转换效果"
 
-    # game/screens.rpy:361
-    old "Brazilian Portuguese"
-    new "巴西葡萄牙语"
-
     # game/screens.rpy:858
     old "Completion: [completion_percentage]"
     new "进度: [completion_percentage]"
@@ -342,4 +301,3 @@ translate zh_hans strings:
     # game/screens.rpy:483
     old "Progress successfully saved."
     new "成功记录进度。"
-

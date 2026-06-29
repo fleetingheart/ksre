@@ -126,40 +126,6 @@ translate fr strings:
     old "Options > Language"
     new "Options > Langue"
 
-    # game/screens.rpy:288
-    old "English"
-    new "Anglais"
-
-    # game/screens.rpy:289
-    old "Russian"
-    new "Russe"
-
-    # game/screens.rpy:290
-    old "French"
-    new "Français"
-
-    # game/screens.rpy:291
-    old "Spanish"
-    new "Espagnol"
-
-    # game/screens.rpy:292
-    old "German"
-    new "Allemand"
-
-    # game/screens.rpy:293
-    old "Portuguese"
-    new "Portugais"
-
-    # game/screens.rpy:294
-    old "Japanese"
-    new "Japonais"
-
-    old "Italian"
-    new "Italien"
-
-    old "Traditional Chinese"
-    new "Chinois traditionnel"
-
     # game/screens.rpy:364
     old "Scene"
     new "Scène"
@@ -295,12 +261,6 @@ translate fr strings:
     old "Skip hurtful adult scenes"
     new "Sauter les scènes pour adultes potentiellement blessantes"# TODO: Translation updated at 2024-12-18 15:10
 
-translate fr strings:
-
-    # game/screens.rpy:376
-    old "Simplified Chinese"
-    new "Chinois simplifié"
-
 # TODO: Translation updated at 2026-01-25 19:41
 
 translate fr strings:
@@ -308,10 +268,6 @@ translate fr strings:
     # game/screens.rpy:273
     old "Disable expression transitions"
     new "Désactiver les transitions d'expression"
-
-    # game/screens.rpy:361
-    old "Brazilian Portuguese"
-    new "Portugais brésilien"
 
     # game/screens.rpy:858
     old "Completion: [completion_percentage]"
@@ -352,4 +308,3 @@ translate fr strings:
     # game/screens.rpy:483
     old "Progress successfully saved."
     new "Progression sauvegardée avec succès."
-

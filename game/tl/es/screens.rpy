@@ -126,44 +126,6 @@ translate es strings:
     old "Options > Language"
     new "Opciones > Selección de idioma"
 
-    # game/screens.rpy:333
-    old "English"
-    new "Inglés"
-
-    # game/screens.rpy:334
-    old "Russian"
-    new "Ruso"
-
-    # game/screens.rpy:335
-    old "French"
-    new "Francés"
-
-    # game/screens.rpy:336
-    old "Spanish"
-    new "Español"
-
-    # game/screens.rpy:337
-    old "German"
-    new "Alemán"
-
-    # game/screens.rpy:338
-    old "Portuguese"
-    new "Portugués"
-
-    # game/screens.rpy:339
-    old "Japanese"
-    new "Japonés"
-
-    old "Italian"
-    new "Italiana"
-
-    # game/screens.rpy:376
-    old "Simplified Chinese"
-    new "Chino Simplificado"
-
-    old "Traditional Chinese"
-    new "Chino Tradicional"
-
     # game/screens.rpy:414
     old "Scene"
     new "Escena"
@@ -305,12 +267,6 @@ translate es strings:
     new "Completado: [completion_percentage]"
 # TODO: Translation updated at 2026-01-25 19:38
 
-translate es strings:
-
-    # game/screens.rpy:361
-    old "Brazilian Portuguese"
-    new "Portugués brasileño"
-
 # TODO: Translation updated at 2026-02-24 12:49
 
 translate es strings:
@@ -342,4 +298,3 @@ translate es strings:
     # game/screens.rpy:483
     old "Progress successfully saved."
     new "Progreso guardado con éxito."
-

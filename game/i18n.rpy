@@ -4,23 +4,24 @@
 
 init python:
     class LanguageInformation(python_object):
-        def __init__(self, label=None, linux_voice=None, mac_voice=None, allow_fonts=True):
+        def __init__(self, label=None, linux_voice=None, mac_voice=None, allow_fonts=True, menu_font=None):
             self.label = label
             self.linux_voice = linux_voice
             self.mac_voice = mac_voice
             self.allow_fonts = allow_fonts
+            self.menu_font = menu_font
 
     languages = {
-        None:      LanguageInformation(_("English"), "en-us", "Samantha", True),
-        "ru":      LanguageInformation(_("Russian"), "ru", "Milena", True),
-        "fr":      LanguageInformation(_("French"), "fr-fr", "Thomas", True),
-        "it":      LanguageInformation(_("Italian"), "it", "Alice", True),
-        "pt_br":   LanguageInformation(_("Brazilian Portuguese"), "pt-br", "Luciana", True),
-        "es":      LanguageInformation(_("Spanish"), "es", "Monica", True),
-        "de":      LanguageInformation(_("German"), "de", "Anna", True),
-        "jp":      LanguageInformation(_("Japanese"), "ja", "Kyoko", False),
-        "zh_hans": LanguageInformation(_("Simplified Chinese"), "cmn", "Tingting", False),
-        "zh_hant": LanguageInformation(_("Traditional Chinese"), "cmn", "Sinji", False),
+        None:      LanguageInformation("English", "en-us", "Samantha", True),
+        "ru":      LanguageInformation("Русский", "ru", "Milena", True),
+        "fr":      LanguageInformation("Français", "fr-fr", "Thomas", True),
+        "it":      LanguageInformation("Italiano", "it", "Alice", True),
+        "pt_br":   LanguageInformation("Português brasileiro", "pt-br", "Luciana", True),
+        "es":      LanguageInformation("Español", "es", "Monica", True),
+        "de":      LanguageInformation("Deutsch", "de", "Anna", True),
+        "jp":      LanguageInformation("日本語", "ja", "Kyoko", False, menu_font="font/VL-PGothic-Regular.ttf"),
+        "zh_hans": LanguageInformation("简体中文", "cmn", "Tingting", False, menu_font="font/XiaolaiSC-Regular.ttf"),
+        "zh_hant": LanguageInformation("繁體中文", "cmn", "Sinji", False, menu_font="font/XiaolaiSC-Regular.ttf"),
     }
 
     def update_tts_voice():

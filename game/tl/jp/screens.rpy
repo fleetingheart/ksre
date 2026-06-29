@@ -122,40 +122,6 @@ translate jp strings:
     old "Options > Language"
     new "設定 > 言語選択"
 
-    # game/screens.rpy:318
-    old "English"
-    new "英語"
-
-    # game/screens.rpy:320
-    old "Russian"
-    new "ロシア語"
-
-    # game/screens.rpy:290
-    old "French"
-    new "フランス語"
-
-    # game/screens.rpy:291
-    old "Spanish"
-    new "スペイン語"
-
-    # game/screens.rpy:292
-    old "German"
-    new "ドイツ語"
-
-    # game/screens.rpy:293
-    old "Portuguese"
-    new "ポルトガル語eee"
-
-    # game/screens.rpy:294
-    old "Japanese"
-    new "日本語"
-
-    old "Italian"
-    new "イタリア語"
-
-    old "Traditional Chinese"
-    new "繁体字中国語"
-
     # game/screens.rpy:401
     old "Playtime"
     new "経過時間"
@@ -304,12 +270,6 @@ translate jp strings:
 
 translate jp strings:
 
-    # game/screens.rpy:376
-    old "Simplified Chinese"
-    new "簡体字中国語"
-
-translate jp strings:
-
     # game/screens.rpy:841
     old "Completion: [completion_percentage]"
     new "進捗率: [completion_percentage]"
@@ -320,10 +280,6 @@ translate jp strings:
     # game/screens.rpy:273
     old "Disable expression transitions"
     new "Disable expression transitions"
-
-    # game/screens.rpy:361
-    old "Brazilian Portuguese"
-    new "ブラジルポルトガル語"
 
     # game/screens.rpy:1079
     old "Colorblind filter"
@@ -360,4 +316,3 @@ translate jp strings:
     # game/screens.rpy:483
     old "Progress successfully saved."
     new "セーブが完了しました。"
-
