@@ -8575,17 +8575,17 @@ translate de a4_shizune_terminal_70390fe8:
 translate de strings:
 
     # game/script-a4-shizune.rpy:758
-    old "[[Let's go on a date.]"
-    new "[[Lass uns zusammen ausgehen.]"
+    old "Let's go on a date."
+    new "Lass uns zusammen ausgehen."
 
     # game/script-a4-shizune.rpy:758
-    old "[[Let's use it, then.]"
-    new "[[Dann essen wir es eben.]"
+    old "Let's use it, then."
+    new "Dann essen wir es eben."
 
     # game/script-a4-shizune.rpy:2518
     old "Is that for me?"
     new "Ist das für mich?"
 
     # game/script-a4-shizune.rpy:2519
-    old "[[This was the real surprise. See?]"
-    new "[[Das war die echte Überraschung. Siehst du?]"
+    old "This was the real surprise. See?"
+    new "Das war die echte Überraschung. Siehst du?"

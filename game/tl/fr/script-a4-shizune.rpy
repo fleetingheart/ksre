@@ -8503,17 +8503,17 @@ translate fr a4_shizune_terminal_70390fe8:
 translate fr strings:
 
     # game/script-a4-shizune.rpy:753
-    old "[[Let's go on a date.]"
-    new "[[Allons au rendez-vous.]"
+    old "Let's go on a date."
+    new "Allons au rendez-vous."
 
     # game/script-a4-shizune.rpy:753
-    old "[[Let's use it, then.]"
-    new "[[Mangeons-le, dans ce cas.]"
+    old "Let's use it, then."
+    new "Mangeons-le, dans ce cas."
 
     # game/script-a4-shizune.rpy:2519
     old "Is that for me?"
     new "C'est pour moi?"
 
     # game/script-a4-shizune.rpy:2519
-    old "[[This was the real surprise. See?]"
-    new "[[C'est la vraie surprise. Alors?]"
+    old "This was the real surprise. See?"
+    new "C'est la vraie surprise. Alors?"

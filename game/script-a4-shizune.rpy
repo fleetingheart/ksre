@@ -755,7 +755,7 @@ label a4_shizune:
         show shizu behind_blank
         with persistent.charachange
 
-        call screen doublespeak(ssh, _("[[Let's go on a date.]"), his, _("[[Let's use it, then.]"))
+        call screen doublespeak(ssh, _("Let's go on a date."), his, _("Let's use it, then."))
 
         show shizu adjust_blush
         with persistent.charachange
@@ -2516,7 +2516,7 @@ label a4_shizune:
             show shizu behind_smile
             with persistent.charachange
 
-            call screen doublespeak(ke, _("Is that for me?"), ssh, _("[[This was the real surprise. See?]"))
+            call screen doublespeak(ke, _("Is that for me?"), ssh, _("This was the real surprise. See?"))
 
             show shizu adjust_smug
             with persistent.charachange

@@ -8680,18 +8680,18 @@ translate pt_br a4_shizune_terminal_70390fe8:
 translate pt_br strings:
 
     # game/script-a4-shizune.rpy:757
-    old "[[Let's go on a date.]"
-    new "[[Vamos num encontro.]"
+    old "Let's go on a date."
+    new "Vamos num encontro."
 
     # game/script-a4-shizune.rpy:757
-    old "[[Let's use it, then.]"
-    new "[[Então, vamos usar isso.]"
+    old "Let's use it, then."
+    new "Então, vamos usar isso."
 
     # game/script-a4-shizune.rpy:2518
     old "Is that for me?"
     new "Isso é pra mim?"
 
     # game/script-a4-shizune.rpy:2518
-    old "[[This was the real surprise. See?]"
-    new "[[Essa era a verdadeira surpresa, viu?]"
+    old "This was the real surprise. See?"
+    new "Essa era a verdadeira surpresa, viu?"
 

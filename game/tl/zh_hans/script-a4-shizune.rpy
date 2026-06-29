@@ -8503,18 +8503,18 @@ translate zh_hans a4_shizune_terminal_70390fe8:
 translate zh_hans strings:
 
     # game/script-a4-shizune.rpy:757
-    old "[[Let's go on a date.]"
-    new "[[我们去约会吧。]"
+    old "Let's go on a date."
+    new "我们去约会吧。"
 
     # game/script-a4-shizune.rpy:757
-    old "[[Let's use it, then.]"
-    new "[[那我们就用用它吧。]"
+    old "Let's use it, then."
+    new "那我们就用用它吧。"
 
     # game/script-a4-shizune.rpy:2518
     old "Is that for me?"
     new "那是给我的吗？"
 
     # game/script-a4-shizune.rpy:2518
-    old "[[This was the real surprise. See?]"
-    new "[[这才是真正的惊喜。看到了吗？]"
+    old "This was the real surprise. See?"
+    new "这才是真正的惊喜。看到了吗？"
 

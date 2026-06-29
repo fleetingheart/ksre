@@ -8503,18 +8503,18 @@ translate zh_hant a4_shizune_terminal_70390fe8:
 translate zh_hant strings:
 
     # game/script-a4-shizune.rpy:758
-    old "[[Let's go on a date.]"
-    new "[[我們去約會吧。]"
+    old "Let's go on a date."
+    new "我們去約會吧。"
 
     # game/script-a4-shizune.rpy:758
-    old "[[Let's use it, then.]"
-    new "[[那我們就用用它吧。]"
+    old "Let's use it, then."
+    new "那我們就用用它吧。"
 
     # game/script-a4-shizune.rpy:2519
     old "Is that for me?"
     new "那是給我的嗎？"
 
     # game/script-a4-shizune.rpy:2519
-    old "[[This was the real surprise. See?]"
-    new "[[這才是真正的驚喜。看到了嗎？]"
+    old "This was the real surprise. See?"
+    new "這才是真正的驚喜。看到了嗎？"
 

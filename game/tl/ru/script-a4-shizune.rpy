@@ -8574,18 +8574,18 @@ translate ru a4_shizune_terminal_70390fe8:
 translate ru strings:
 
     # game/script-a4-shizune.rpy:753
-    old "[[Let's go on a date.]"
-    new "[[Давай сходим на свидание.]"
+    old "Let's go on a date."
+    new "Давай сходим на свидание."
 
     # game/script-a4-shizune.rpy:753
-    old "[[Let's use it, then.]"
-    new "[[Давай перекусим.]"
+    old "Let's use it, then."
+    new "Давай перекусим."
 
     # game/script-a4-shizune.rpy:2520
     old "Is that for me?"
     new "Это мне?"
 
     # game/script-a4-shizune.rpy:2520
-    old "[[This was the real surprise. See?]"
-    new "[[Вот настоящий сюрприз. Видишь?]"
+    old "This was the real surprise. See?"
+    new "Вот настоящий сюрприз. Видишь?"
 

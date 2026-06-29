@@ -28,34 +28,35 @@ screen say(who, what):
 screen doublespeak(c1, t1, c2, t2):
     style_prefix "doublespeak"
 
-    frame id "namebox1":
-        at colorblind(persistent.colorblind)
-        style_suffix "namebox1"
-        text ("{color=" + c1.who_args["color"] + "}" + renpy.translate_string(c1.name) + "{/color}") id "who1":
-            size 40
-            bold True
+    fixed at box_appear:
+        frame id "namebox1":
+            at colorblind(persistent.colorblind)
+            style_suffix "namebox1"
+            text ("{color=" + c1.who_args["color"] + "}" + renpy.translate_string(c1.name) + "{/color}") id "who1":
+                size 40
+                bold True
 
-    frame id "window1":
-        at colorblind(persistent.colorblind)
-        style_suffix "window1"
-        text t1 id "what1"
+        frame id "window1":
+            at colorblind(persistent.colorblind)
+            style_suffix "window1"
+            text (c1.what_prefix + t1 + c1.what_suffix) id "what1"
 
-    frame id "namebox2":
-        at colorblind(persistent.colorblind)
-        style_suffix "namebox2"
-        text ("{color=" + c2.who_args["color"] + "}" + renpy.translate_string(c2.name) + "{/color}") id "who2":
-            size 40
-            bold True
+        frame id "namebox2":
+            at colorblind(persistent.colorblind)
+            style_suffix "namebox2"
+            text ("{color=" + c2.who_args["color"] + "}" + renpy.translate_string(c2.name) + "{/color}") id "who2":
+                size 40
+                bold True
 
-    frame id "window2":
-        at colorblind(persistent.colorblind)
-        style_suffix "window2"
-        text t2 id "what2"
+        frame id "window2":
+            at colorblind(persistent.colorblind)
+            style_suffix "window2"
+            text (c2.what_prefix + t2 + c2.what_suffix) id "what2"
 
-    image "icon_ctc" as ctc1:
-        xpos 0.473
-    image "icon_ctc" as ctc2:
-        xpos 0.974
+        image "icon_ctc" as ctc1:
+            xpos 0.473
+        image "icon_ctc" as ctc2:
+            xpos 0.974
 
     key ["dismiss", "skip"] action Return()
 
@@ -81,7 +82,7 @@ screen nvl(dialogue, items=None):
     window id "window":
         has vbox
         spacing 20
-        at colorblind(persistent.colorblind)
+        at colorblind(persistent.colorblind), box_appear
 
         for d in dialogue:
             frame:
@@ -471,12 +472,18 @@ screen file_slots(allow_saving=False):
                             top_padding 6
                             hovered Function(local_saves_items.add, i)
                             unhovered Function(local_saves_items.remove, i)
-                            if main_menu or not allow_saving:
+                            if main_menu:
                                 action [
                                     Function(setattr, config, "skipping", False),
                                     Function(setattr, config, "allow_skipping", True),
                                     Function(renpy.load, save[0])
                                 ]
+                            elif not allow_saving:
+                                action Show("confirm", config.intra_transition, _("Are you sure you want to\ndiscard your progress?"), [
+                                    Function(setattr, config, "skipping", False),
+                                    Function(setattr, config, "allow_skipping", True),
+                                    Function(renpy.load, save[0])
+                                ])
                             else:
                                 action Show("confirm", config.intra_transition, _("Are you sure you want to\noverwrite your save?"), [
                                     Function(create_save_slot, save[0]),

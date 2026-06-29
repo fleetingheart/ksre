@@ -8575,18 +8575,18 @@ translate jp a4_shizune_terminal_70390fe8:
 translate jp strings:
 
     # game/script-a4-shizune.rpy:757
-    old "[[Let's go on a date.]"
-    new "[[デートしましょう]"
+    old "Let's go on a date."
+    new "デートしましょう"
 
     # game/script-a4-shizune.rpy:757
-    old "[[Let's use it, then.]"
-    new "[[じゃあ役に立てようぜ]"
+    old "Let's use it, then."
+    new "じゃあ役に立てようぜ"
 
     # game/script-a4-shizune.rpy:2518
     old "Is that for me?"
     new "それ、俺にか？"
 
     # game/script-a4-shizune.rpy:2518
-    old "[[This was the real surprise. See?]"
-    new "[[こっちが本当のサプライズ。どう？]"
+    old "This was the real surprise. See?"
+    new "こっちが本当のサプライズ。どう？"
 
