@@ -417,13 +417,13 @@ define replays = [
             (_("Proof of Competency"), "a1_thursday.proof_of_competency", _("Shizune and Misha assault Hisao in an attempt to get him to join the Student Council.")),
             (_("Event Horizon"), "a1_thursday.event_horizon", _("Shizune and Misha assault Hisao in an attempt to get him to join the Student Council.")),
             (_("Above and Beyond"), "a1_thursday.above_and_beyond", _("Hisao gets a lecture about the noble duties of a Student Council.")),
-            (_("Paint by Numbers"), "a1_thursday.paint_by_numbers", _("Hanako and Hisao lend a hand to Lilly's class by volunteering to help build their stall.")),
             (_("Things You Can Do"), "a1_thursday.things_you_can_do", _("After escaping from the clutches of Shizune and Misha, Hisao helps out Rin again.")),
+            (_("Paint by Numbers"), "a1_thursday.paint_by_numbers", _("Hanako and Hisao lend a hand to Lilly's class by volunteering to help build their stall.")),
             (_("Exercise"), "a1_friday.exercise", _("Another early morning sees Hisao running at the track with Emi.")),
             (_("Invisible Hat"), "a1_friday.invisible_hat", _("Kenji gives Hisao a few insider tips on how to socialize.")),
             (_("Home Field Advantage"), "a1_friday.home_field_advantage", _("Shizune and Misha hijack Hisao as he leaves his room for class.")),
-            (_("No Recovery"), "a1_friday.no_recovery", _("Hisao struggles to class after his hijacking by the Student Council.")),
             (_("Slow Recovery"), "a1_friday.slow_recovery", _("Recovering from his heart flutter, Hisao eventually makes it to class.")),
+            (_("No Recovery"), "a1_friday.no_recovery", _("Hisao struggles to class after his hijacking by the Student Council.")),
             (_("No Free Lunch"), "a1_friday.no_free_lunch", _("Hisao is escorted to the student council office for his first official day there.")),
             (_("Foot and Mouth"), "a1_friday.foot_and_mouth", _("Emi drags Hisao to the roof to have lunch with Rin.")),
             (_("Mind Your Step"), "a1_friday.mind_your_step", _("Hisao and Lilly go shopping, meeting a very confused Rin on the way back.")),
@@ -436,10 +436,10 @@ define replays = [
             (_("Quiet"), "a1_saturday.quiet", _("Hanako and Hisao read books for the festival.")),
             (_("Don't Panic"), "a1_sunday.dont_panic", _("After waking up on the day of the festival, Hisao is greeted by a ranting Kenji.")),
             (_("Is Carnival!"), "a1_sunday.is_carnival", _("Emi catches Hisao eating fried food and makes him accompany her as punishment.")),
-            (_("Clouds in My Head"), "a1_sunday.clouds_in_my_head", _("Hisao keeps Rin and her now-finished mural company.")),
-            (_("Promise of Time"), "a1_sunday.promise_of_time", _("After a trying morning at her stall, Hisao takes Lilly to find Hanako.")),
             ("Nc5xb3", "a1_sunday.nc5xb3", _("Unable to help Lilly at her stall, Hisao searches for Hanako at the festival.")),
             (_("Movement"), "a1_sunday.movement", _("Lilly finishes her duties and treats Hanako and Hisao to tea at the Shanghai.")),
+            (_("Promise of Time"), "a1_sunday.promise_of_time", _("After a trying morning at her stall, Hisao takes Lilly to find Hanako.")),
+            (_("Clouds in My Head"), "a1_sunday.clouds_in_my_head", _("Hisao keeps Rin and her now-finished mural company.")),
             (_("Throwing Balls"), "a1_sunday.throwing_balls", _("True to his word, Hisao spends the day with Shizune and Misha.")),
             (_("The Deep End"), "a1_sunday.the_deep_end", _("Kenji and Hisao share a manly picnic on the roof instead of going to the festival."))
         ])
@@ -644,13 +644,13 @@ define replays = [
             (_("Off by One"), "a4_shizune.off_by_one", _("A failed attempt to cheer up Misha gets converted into an impromptu date for Hisao and Shizune.")),
             (_("Invasion"), "a4_shizune.invasion", _("Jigoro and Hideaki pay Shizune an unexpected and somewhat unpleasant visit.")),
             (_("Parfait"), "a4_shizune.parfait", _("Hisao and Shizune stalk Misha. Hisao finally manages to corner her and discuss things properly.")),
+            (_("Present Tense"), "a4_shizune.present_tense", _("Hisao stumbles into Lilly at lunch, and the two talk about Shizune.")),
+            (_("Spiral"), "a4_shizune.spiral", _("Runaround, stonewalling, and Kenji nighttime ambush.")),
+            (_("Terminal"), "a4_shizune.terminal", _("An early-morning talk with Shizune in the silent school.")),
             (_("The Summit"), "a4_shizune.the_summit", _("Kenji and Shizune meet in Hisao's room. Miraculously, nothing explodes.")),
             (_("Succession"), "a4_shizune.succession", _("The current Student Council shapes up their successors before engaging in “extracurricular activities.”")),
             (_("Sneaking Mission"), "a4_shizune.sneaking_mission", _("The show of Misha's determination spurs Shizune to set her sights on greater things.")),
-            (_("Infinity"), "a4_shizune.infinity", _("Our trio renews their friendship, with their graduation looming close ahead.")),
-            (_("Present Tense"), "a4_shizune.present_tense", _("Hisao stumbles into Lilly at lunch, and the two talk about Shizune.")),
-            (_("Spiral"), "a4_shizune.spiral", _("Runaround, stonewalling, and Kenji nighttime ambush.")),
-            (_("Terminal"), "a4_shizune.terminal", _("An early-morning talk with Shizune in the silent school."))
+            (_("Infinity"), "a4_shizune.infinity", _("Our trio renews their friendship, with their graduation looming close ahead."))
         ])
     ])
 ]
