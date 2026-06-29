@@ -15,7 +15,6 @@ Building game is quite straightforward. Download source code and point Ren'Py to
 ## Commit Guidelines
 
 * Name your commits meaningful and concisely, not just "fix everything" commits.
-* Ensure that your commits are well-formed and follow the [Conventional Commit Format](https://conventionalcommits.org/).
 
 ## Pull Request Guidelines
 
