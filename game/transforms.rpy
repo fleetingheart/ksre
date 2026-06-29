@@ -442,7 +442,7 @@ define charachangeev = dissolve
 default persistent.charachange = { 'master' : dissolve } # Default because customizable
 default persistent.charachangefast = { 'master' : Dissolve(0.2) } # Default because customizable
 
-define charamovechange = Dissolvemove(2.0)
+define charamovechange = MultipleTransition([False, Dissolvemove(2.0), True, Pause(0), True])
 
 define charamovefast = MoveTransition(1.5,
     time_warp=_ease_time_warp,
@@ -454,14 +454,14 @@ define charamovefaster = MoveTransition(1.0,
     enter_time_warp=_ease_in_time_warp,
     leave_time_warp=_ease_out_time_warp)
 
-define charamovechangefaster = Dissolvemove(1.0)
+define charamovechangefaster = MultipleTransition([False, Dissolvemove(1.0), True, Pause(0), True])
 
 define charamovefastest = MoveTransition(0.5,
     time_warp=_ease_time_warp,
     enter_time_warp=_ease_in_time_warp,
     leave_time_warp=_ease_out_time_warp)
 
-define charamovechangefastest = Dissolvemove(0.5)
+define charamovechangefastest = MultipleTransition([False, Dissolvemove(0.5), True, Pause(0), True])
 
 define charamovecustom = partial(MoveTransition,
     time_warp=_ease_time_warp,
