@@ -804,8 +804,20 @@ define mi_not_shi = Character(_("{s}Shizune{/s} Misha"), who_color="#FF809F")
 
 define mystery = Character("???")
 
-define ssh = Character(kind=shi, what_prefix="[[", what_suffix="]")
-define his = Character(kind=hi, what_prefix="[[", what_suffix="]")
+define ssh = Character(kind=shi, what_prefix="[[ ", what_suffix=" ]")
+define his = Character(kind=hi, what_prefix="[[ ", what_suffix=" ]")
+
+translate jp python:
+    ssh = Character(kind=shi, what_prefix="［", what_suffix="］")
+    his = Character(kind=hi, what_prefix="［", what_suffix="］")
+
+translate zh_hans python:
+    ssh = Character(kind=shi, what_prefix="［", what_suffix="］")
+    his = Character(kind=hi, what_prefix="［", what_suffix="］")
+
+translate zh_hant python:
+    ssh = Character(kind=shi, what_prefix="［", what_suffix="］")
+    his = Character(kind=hi, what_prefix="［", what_suffix="］")
 
 define ha_  = Character(_("Purple-haired girl"), kind=ha)
 define emi_ = Character(_("Twintails girl"), kind=emi)
