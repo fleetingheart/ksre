@@ -62,6 +62,46 @@ screen doublespeak(c1, t1, c2, t2):
 
     on "show" action If(renpy.is_skipping(), Return())
 
+define edge_guard = 64
+
+screen touch_controls():
+    zorder 100
+
+    if not main_menu:
+        if persistent.touch_edge_guard:
+            button:
+                pos (0, 0)
+                xysize (1920, edge_guard)
+                background None
+                keyboard_focus False
+                action NullAction()
+
+            button:
+                pos (0, 1080 - edge_guard)
+                xysize (1920, edge_guard)
+                background None
+                keyboard_focus False
+                action NullAction()
+
+            button:
+                pos (0, 0)
+                xysize (edge_guard, 1080)
+                background None
+                keyboard_focus False
+                action NullAction()
+
+            button:
+                pos (1920 - edge_guard, 0)
+                xysize (edge_guard, 1080)
+                background None
+                keyboard_focus False
+                action NullAction()
+
+        if persistent.touch_menu_button:
+            textbutton _("Menu"):
+                style "touch_menu_button"
+                action ShowMenu("game_menu")
+
 screen choice(items):
     style_prefix "choice"
 
@@ -274,13 +314,21 @@ screen prefs():
             vbox:
                 style_prefix "check"
 
-                if renpy.emscripten:
+                if not nsfw_installed():
+                    textbutton _("Disable adult content") sensitive False action NullAction()
+                    text _("Requires the 18+ content patch")
+                    if not renpy.emscripten:
+                        textbutton _("Scanning for adult patch...") action [Function(nsfw_remount), Function(nsfw_prepare_scripts), Function(renpy.restart_interaction)]
+                elif renpy.emscripten:
                     if persistent.hdisabled:
                         text _("Adult content is disabled.")
                     else:
                         text _("Adult content is enabled.")
                 else:
                     textbutton _("Disable adult content") action ToggleVariable("persistent.hdisabled", True, False)
+
+                if nsfw_state.restart_pending:
+                    text _("Restart the game to finish installing mods.")
 
                 if not renpy.android and not renpy.ios:
                     textbutton _("Fullscreen mode") action Preference("display", "toggle")
@@ -306,6 +354,23 @@ screen prefs():
                 textbutton _("Blinking arrow") action ToggleVariable("persistent.blinking_arrow", True, False)
 
                 textbutton _("Disable expression transitions") action [ToggleVariable("persistent.charachange", { 'master': None }, { 'master' : Dissolve(0.5) }), ToggleVariable("persistent.charachangefast", { 'master': None }, { 'master' : Dissolve(0.2) })]
+
+                if renpy.variant("touch"):
+                    textbutton _("Show menu button") action ToggleVariable("persistent.touch_menu_button", True, False)
+
+                    textbutton _("Ignore taps near screen edges") action ToggleVariable("persistent.touch_edge_guard", True, False)
+
+                if renpy.variant("mobile"):
+                    text _("Tap screen edge to roll back")
+
+                    hbox:
+                        spacing 30
+
+                        textbutton _("Left") action Preference("rollback side", "left")
+
+                        textbutton _("Off") action Preference("rollback side", "disable")
+
+                        textbutton _("Right") action Preference("rollback side", "right")
 
             vbox:
                 style_prefix "slider"
@@ -782,7 +847,7 @@ screen gallery(page=0):
             for i in range(page * 12, (page + 1) * 12):
                 if i > len(_gallery_images) - 1:
                     image "button_cg_locked_lop"
-                elif is_seen(_gallery_images[i][int(_gallery_images[i][0].startswith("thumb/"))]) or config.developer:
+                elif (is_seen(_gallery_images[i][int(_gallery_images[i][0].startswith("thumb/"))]) or config.developer) and (nsfw_installed() or _gallery_images[i][0] not in nsfw_gallery_thumbs):
                     python:
                         img = _gallery_images[i]
                         if img[0].startswith("thumb/"):
@@ -1097,9 +1162,6 @@ screen accessibility():
 
                 textbutton _("Default") action Preference("font transform", "none")
 
-                # Japanese and Chinese are not supported by either Dejavu Sans or OpenDyslexic,
-                # so we don't show the options for those languages.
-                # Controlled in language.rpy.
                 if allow_font_selection:
                     textbutton "DejaVu Sans" action Preference("font transform", "dejavusans")
 
@@ -1199,7 +1261,7 @@ screen mods():
     tag menu
     style_prefix "mods"
 
-    if main_menu:    
+    if main_menu:
         add "main_menu_bg" at colorblind(persistent.colorblind)
     add "blind"
 

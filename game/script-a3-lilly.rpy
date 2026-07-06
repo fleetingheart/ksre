@@ -3252,6 +3252,19 @@ label a3_lilly:
 
         "Once we remove the last of our clothes, which end up haphazardly piled behind us, my breath is taken by the sight in front of me."
 
+        if not nsfw_installed():
+            call nsfw_skip_notice
+
+            scene black
+            with shuteye
+
+            if _in_replay:
+                return
+
+            call timeskip
+
+            jump .gray_outlook
+
         show lilly behind_reminisce_nak_ss at center
         with charaenter
 
@@ -3841,6 +3854,19 @@ label a3_lilly:
         play sound sfx_rustling
 
         "She continues undressing, her shirt and skirt falling to the floor and leaving her in her white lace bra and panties. Eventually, she stands bare in the center of the room."
+
+        if not nsfw_installed():
+            call nsfw_skip_notice
+
+            scene black
+            with shuteye
+
+            if _in_replay:
+                return
+
+            call timeskip
+
+            jump .the_momentary_present
 
         show lilly behind_sleepy_nak at center
         with charaenter

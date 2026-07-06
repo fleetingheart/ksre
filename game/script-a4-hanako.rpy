@@ -3436,6 +3436,15 @@ label a4_hanako:
 
             jump .indeterminate_future
 
+        if not nsfw_installed():
+            call nsfw_skip_notice
+            scene black
+            with shuteye
+            if _in_replay:
+                return
+            call timeskip
+            jump .indeterminate_future
+
         scene bg school_dormhanako_ss
         show hanagown stockworry_blush_close_ss at center
         with locationchange

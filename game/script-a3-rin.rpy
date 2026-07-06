@@ -4267,6 +4267,12 @@ label a3_rin:
 
         "Rin is honest."
 
+        if not nsfw_installed():
+            call nsfw_skip_notice
+            scene black
+            with shuteye
+            jump .delirium_after
+
         play music music_heart fadein 8.0
 
         rin "Hisao."
@@ -4422,6 +4428,8 @@ label a3_rin:
         nvl clear
 
         stop music fadeout 10.0
+
+    label .delirium_after hide:
 
         scene ev rin_masturbate_hug:
             center

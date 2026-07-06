@@ -5036,6 +5036,12 @@ label a4_rin:
 
             "Slipping them off is hard, mostly because she is sitting on them, with no intention of standing up to ease my task."
 
+            if not nsfw_installed():
+                call nsfw_skip_notice
+                scene black
+                with shuteye
+                jump .wb_and_ws_mid
+
             scene evh rin_h2_pan_surprise:
                 xalign 0.5 yalign 0.0
                 ease 10.0 yalign 0.15
@@ -5167,6 +5173,8 @@ label a4_rin:
             rin "No… Hisao… Enough."
 
             rin "Come here."
+
+        label .wb_and_ws_mid hide:
 
             scene bg school_dormhisao_rn
             with locationchange
@@ -5375,6 +5383,14 @@ label a4_rin:
             "Either way, I steel myself and step back to Rin, embracing her to feel her in my arms again and to banish my doubts."
 
             "The sight of her gentle, loving eyes seems to melt those doubts away like the last snow of winter."
+
+            if not nsfw_installed():
+                call nsfw_skip_notice
+                scene white
+                with Dissolve(2.0)
+                if _in_replay:
+                    return
+                jump .proof_of_existence
 
             scene evh rin_h_closed
             with whiteout

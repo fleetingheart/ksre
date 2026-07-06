@@ -3514,6 +3514,15 @@ label a4_lilly:
 
         "With a little hesitation, Lilly pushes forward her chin and closes her eyes in an unmistakable gesture."
 
+        if not nsfw_installed():
+            call nsfw_skip_notice
+            scene black
+            with shuteye
+            if _in_replay:
+                return
+            call timeskip
+            jump .context
+
         scene ev lilly_kissing
         with whiteout
 

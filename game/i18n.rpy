@@ -19,9 +19,9 @@ init python:
         "pt_br":   LanguageInformation("Português brasileiro", "pt-br", "Luciana", True),
         "es":      LanguageInformation("Español", "es", "Monica", True),
         "de":      LanguageInformation("Deutsch", "de", "Anna", True),
-        "jp":      LanguageInformation("日本語", "ja", "Kyoko", False, menu_font="font/VL-PGothic-Regular.ttf"),
-        "zh_hans": LanguageInformation("简体中文", "cmn", "Tingting", False, menu_font="font/XiaolaiSC-Regular.ttf"),
-        "zh_hant": LanguageInformation("繁體中文", "cmn", "Sinji", False, menu_font="font/XiaolaiSC-Regular.ttf"),
+        "jp":      LanguageInformation("日本語", "ja", "Kyoko", True, menu_font="font/VL-PGothic-Regular.ttf"),
+        "zh_hans": LanguageInformation("简体中文", "cmn", "Tingting", True, menu_font="font/XiaolaiSC-Regular.ttf"),
+        "zh_hant": LanguageInformation("繁體中文", "cmn", "Sinji", True, menu_font="font/XiaolaiSC-Regular.ttf"),
     }
 
     def update_tts_voice():

@@ -1342,6 +1342,15 @@ label a4_emi:
 
         hi "Of course."
 
+        if not nsfw_installed():
+            call nsfw_skip_notice
+            scene black
+            with shuteye
+            if _in_replay:
+                return
+            call timeskip
+            jump .clean_teeth
+
         play music music_comfort fadein 4.0
 
         show bg at right

@@ -36,11 +36,11 @@ style default:
     size 36 + mobile_ts_add * is_mobile
 
 style gui_text is default:
-    size 42 + mobile_ts_add * is_mobile
+    size 42
     color "#00000066"
 
 translate jp style gui_text:
-    size 32 + mobile_ts_add * is_mobile
+    size 32
 
 style gui_button_text is gui_text:
     hover_color "#000"
@@ -228,14 +228,26 @@ style game_menu_button is gui_button:
     xalign 0.5
 
 style game_menu_button_text is gui_button_text:
-    size 42 + mobile_ts_add * is_mobile
+    size 42
 
 translate jp style game_menu_button_text:
-    size 42 + mobile_ts_add * (renpy.android or renpy.ios)
+    size 42
+
+style game_menu_text is default:
+    size 36
 
 style prefs_interface is interface_frame
 
 style prefs_text is gui_text
+
+style touch_menu_button is gui_button:
+    background Frame("gui/button/choice.png", 40, 0)
+    xalign 0.99
+    ypos 18
+    padding (32, 8, 32, 12)
+
+style touch_menu_button_text is gui_button_text:
+    size 36
 
 style prefs_button is gui_button
 

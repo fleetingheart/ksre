@@ -42,6 +42,73 @@ init python:
     build.classify("/game/.vscode/*.*", None)
     build.classify("**/dists", None)
 
+    import os
+
+    KSRE_STORE = "KSRE_STORE" in os.environ
+
+    NSFW_BUILD_PATTERNS = [
+        "game/event/emi_grinding/**",
+        "game/event/emi_shed/**",
+        "game/event/lilly_afterbath/**",
+        "game/event/lilly_bath/**",
+        "game/event/lilly_cowgirl/**",
+        "game/event/lilly_handjob/**",
+        "game/event/rin_h/**",
+        "game/event/rin_h2/**",
+        "game/event/shizune_hcg_tied/**",
+        "game/event/shizu_undressing/**",
+        "game/event/emi_miss_*.png",
+        "game/event/emi_ending_*.png",
+        "game/event/rin_high_frown.png",
+        "game/event/rin_high_grin.png",
+        "game/event/rin_high_grinwide.png",
+        "game/event/rin_high_oneeye.png",
+        "game/event/rin_high_open.png",
+        "game/event/rin_high_smile.png",
+        "game/event/rin_relief_*.png",
+        "game/event/lilly_masturbate*.png",
+        "game/event/hanako_bed_*.png",
+        "game/event/hanako_missionary_*.png",
+        "game/event/shizu_pushdown.png",
+        "game/event/shizu_straddle_*.png",
+        "game/event/shizu_table_*.png",
+        "game/event/misha_naked.png",
+        "game/event/misha_sex_*.png",
+        "game/event/thumb/emi_grinding.jpg",
+        "game/event/thumb/emi_shed.jpg",
+        "game/event/thumb/emi_miss.jpg",
+        "game/event/thumb/hanako_bed.jpg",
+        "game/event/thumb/hanako_missionary.jpg",
+        "game/event/thumb/lilly_handjob.jpg",
+        "game/event/thumb/lilly_cowgirl.jpg",
+        "game/event/thumb/lilly_bath.jpg",
+        "game/event/thumb/lilly_afterbath.jpg",
+        "game/event/thumb/lilly_masturbate.jpg",
+        "game/event/thumb/rin_relief.jpg",
+        "game/event/thumb/rin_h.jpg",
+        "game/event/thumb/rin_h2.jpg",
+        "game/event/thumb/shizune_tied.jpg",
+        "game/event/thumb/shizu_undressing.jpg",
+        "game/event/thumb/shizu_pushdown.jpg",
+        "game/event/thumb/shizu_straddle.jpg",
+        "game/event/thumb/shizu_table.jpg",
+        "game/event/thumb/misha_naked.jpg",
+        "game/event/thumb/misha_sex.jpg",
+        "game/sprites/eminude/**",
+        "game/sprites/rinpan/**",
+        "game/sprites/hanagown/**stock**",
+        "game/sprites/lilly/**_nak**",
+        "game/sprites/shizu/**_nak**",
+    ]
+
+    for nsfw_pattern in NSFW_BUILD_PATTERNS:
+        build.classify(nsfw_pattern, "nsfw")
+
+    build.archive("nsfw", "nsfw_patch" if KSRE_STORE else "all")
+
+    if KSRE_STORE:
+        build.package("nsfw_patch", "zip", "nsfw_patch", description="18+ content patch", update=False, dlc=True, hidden=True)
+
     build.classify("game/**.wav", "audio android")
     build.classify("game/**.mp3", "audio android")
     build.classify("game/**.ogg", "audio android")

@@ -3487,6 +3487,19 @@ label a3_emi:
 
         "Of course, the odds are against her. I can stand up, for starters."
 
+        if not nsfw_installed():
+            call nsfw_skip_notice
+
+            scene black
+            with shuteye
+
+            if _in_replay:
+                return
+
+            call timeskip
+
+            jump .storage_space
+
         scene black
         with vpunch
 
@@ -4130,6 +4143,14 @@ label a3_emi:
 
         "In fact, as I move to a more comfortable position, I confess that the chair is pushed out the door, which, startled by the passage, swings shut."
 
+        if not nsfw_installed():
+            call nsfw_skip_notice
+
+            scene black
+            with shuteye
+
+            jump .storage_space_after
+
         play sound sfx_rustling
 
         hide emi
@@ -4765,6 +4786,8 @@ label a3_emi:
         with persistent.charachange
 
         emi "Heh, sorry. I got a little excited earlier."
+
+    label .storage_space_after hide:
 
         scene bg school_sportsstoreroom
         with shorttimeskip

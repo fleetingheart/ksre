@@ -51,6 +51,8 @@ define config.gestures = {
     "w": "rollforward"
 }
 
+define config.gesture_stroke_size = 0.1
+
 define config.history_length = 250
 define config.check_conflicting_properties = True
 
@@ -68,6 +70,9 @@ default persistent.disable_disturbing_content = False
 default persistent.hardware_cursor = True if renpy.emscripten else False
 default persistent.save_slots = []
 
+default persistent.touch_menu_button = True
+default persistent.touch_edge_guard = True
+
 define mouse = MouseDisplayable("gui/icons/cursor.png", 0, 0)
 
 define config.mouse_displayable = mouse if not persistent.hardware_cursor and not renpy.android and not renpy.ios else None
@@ -75,3 +80,15 @@ define config.mouse_displayable = mouse if not persistent.hardware_cursor and no
 define _game_menu_screen = "game_menu"
 
 define config.controller_blocklist = []
+
+init python:
+    def dispatch_gesture(gesture):
+        event = config.gestures.get(gesture, None)
+        if event is not None:
+            renpy.queue_event(event)
+        raise renpy.display.core.IgnoreEvent()
+
+    config.dispatch_gesture = dispatch_gesture
+
+    if renpy.variant("touch"):
+        config.overlay_screens.append("touch_controls")

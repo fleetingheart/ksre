@@ -2898,6 +2898,19 @@ label a3_shizune:
         show shizu behind_smile_cas_close
         with persistent.charachange
 
+        if not nsfw_installed():
+            call nsfw_skip_notice
+
+            scene black
+            with shuteye
+
+            if _in_replay:
+                return
+
+            call timeskip
+
+            jump .confrontation
+
         stop music fadeout 5.0
 
         ssh "Close your eyes."
@@ -7002,6 +7015,14 @@ label aside_and_ahead_3:
     return
 
 label a3sc1o1:
+    if not nsfw_installed():
+        call nsfw_skip_notice
+
+        scene black
+        with dissolve
+
+        return
+
     play music music_moonlight fadein 4.0
 
     "As much as I pretend to protest, I've allowed things to come to this point. Even though I knew so far ahead of when she actually came out with it that this was what she was getting at."

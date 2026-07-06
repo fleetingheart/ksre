@@ -3313,6 +3313,14 @@ label a4_shizune:
 
             "I kiss her immediately, so quickly that I don't even have time to enjoy it. Even though she was prepared for it, Shizune blushes a deep red. I feel a similar heat rising in my neck and cheeks."
 
+            if not nsfw_installed():
+                call nsfw_skip_notice
+                scene black
+                with shuteye
+                if _in_replay:
+                    return
+                jump .sneaking_mission
+
             play music music_one fadein 4.0
 
             scene evh shizu_undressing_clothed_stare

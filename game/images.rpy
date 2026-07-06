@@ -47,13 +47,16 @@ init python:
             alt = "black"
 
         return ConditionSwitch(
-            "persistent.hdisabled", alt,
+            "persistent.hdisabled or not store.nsfw_state.ok", alt,
             "True", image)
 
     def make_sprites(char, nude_if=None):
         prefix = "sprites/" + char + "/"
 
-        for file in filter(lambda el: el.startswith(prefix), renpy.list_files()):
+        files = set(filter(lambda el: el.startswith(prefix), renpy.list_files()))
+        files.update(filter(lambda el: el.startswith(prefix), NSFW_SPRITE_FILES))
+
+        for file in sorted(files):
             base_name = file.rsplit("/", 1)[1].replace("_", " ", 1).removesuffix(".png")
 
             if nude_if and nude_if(base_name):
@@ -1477,10 +1480,10 @@ image evhul shizune_hcg_tied_hisao2_small = adult("evhul shizune_hcg_tied_hisao2
 image evh shizu_undressing_clothed_stare = "event/shizu_undressing/shizu_undressing_clothed_stare.png"
 image evh shizu_undressing_clothed_kiss = "event/shizu_undressing/shizu_undressing_clothed_kiss.png"
 image evh shizu_undressing_clothed_blush = "event/shizu_undressing/shizu_undressing_clothed_blush.png"
-image evh shizu_undressing_unclothed_blush = "event/shizu_undressing/shizu_undressing_unclothed_blush.png"
-image evh shizu_undressing_unclothed_closed = "event/shizu_undressing/shizu_undressing_unclothed_closed.png"
-image evh shizu_undressing_unclothed_kiss = "event/shizu_undressing/shizu_undressing_unclothed_kiss.png"
-image evh shizu_undressing_unclothed_talk = "event/shizu_undressing/shizu_undressing_unclothed_talk.png"
+image evh shizu_undressing_unclothed_blush = adult("event/shizu_undressing/shizu_undressing_unclothed_blush.png")
+image evh shizu_undressing_unclothed_closed = adult("event/shizu_undressing/shizu_undressing_unclothed_closed.png")
+image evh shizu_undressing_unclothed_kiss = adult("event/shizu_undressing/shizu_undressing_unclothed_kiss.png")
+image evh shizu_undressing_unclothed_talk = adult("event/shizu_undressing/shizu_undressing_unclothed_talk.png")
 
 image evh shizu_pushdown = adult("event/shizu_pushdown.png")
 

@@ -666,6 +666,29 @@ init 1 python:
             persistent.save_slots.append(save[0])
     persistent.save_slots = [save_file for save_file in persistent.save_slots if renpy.can_load(save_file)]
 
+define nsfw_gallery_thumbs = frozenset({
+    "thumb/emi_grinding.jpg",
+    "thumb/emi_shed.jpg",
+    "thumb/emi_miss.jpg",
+    "thumb/hanako_bed.jpg",
+    "thumb/hanako_missionary.jpg",
+    "thumb/lilly_handjob.jpg",
+    "thumb/lilly_cowgirl.jpg",
+    "thumb/lilly_bath.jpg",
+    "thumb/lilly_afterbath.jpg",
+    "thumb/lilly_masturbate.jpg",
+    "thumb/rin_relief.jpg",
+    "thumb/rin_h.jpg",
+    "thumb/rin_h2.jpg",
+    "thumb/shizune_tied.jpg",
+    "thumb/shizu_undressing.jpg",
+    "thumb/shizu_pushdown.jpg",
+    "thumb/shizu_straddle.jpg",
+    "thumb/shizu_table.jpg",
+    "thumb/misha_naked.jpg",
+    "thumb/misha_sex.jpg",
+})
+
 define _gallery_images = (
     ("thumb/other_iwanako.jpg", Trigger("ev other_iwanako_start", "evul other_iwanako")),
     ("thumb/hisao_class.jpg", "ev hisao_class_start", "ev hisao_class_move", "ev hisao_class_end"),
@@ -962,3 +985,12 @@ default selected = "Options"
 
 # Cached completion percentage
 default completion_percentage = "0%"
+
+init python:
+    def _mod_missing_label(name):
+        if config.developer:
+            return None
+        return "mod_content_missing"
+
+    config.missing_label_callback = _mod_missing_label
+    config.load_failed_label = "mod_content_missing"

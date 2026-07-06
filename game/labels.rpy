@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 label splashscreen:
+    if nsfw_state.restart_pending:
+        $ renpy.utter_restart()
+
     # Fix for the first run of the game: update TTS voice based on current
     # language.
     $ update_tts_voice()
@@ -345,3 +348,14 @@ label credits:
     $ config.allow_skipping = True
 
     return
+
+label nsfw_skip_notice:
+    stop sound
+    stop music fadeout 2.0
+    stop ambient fadeout 2.0
+    return
+
+label mod_content_missing:
+    scene black
+    "The content this save or menu entry points to is not available."
+    $ renpy.full_restart()
