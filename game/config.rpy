@@ -71,7 +71,6 @@ default persistent.hardware_cursor = True if renpy.emscripten else False
 default persistent.save_slots = []
 
 default persistent.touch_menu_button = True
-default persistent.touch_edge_guard = True
 
 define mouse = MouseDisplayable("gui/icons/cursor.png", 0, 0)
 

@@ -62,41 +62,10 @@ screen doublespeak(c1, t1, c2, t2):
 
     on "show" action If(renpy.is_skipping(), Return())
 
-define edge_guard = 64
-
 screen touch_controls():
     zorder 100
 
     if not main_menu:
-        if persistent.touch_edge_guard:
-            button:
-                pos (0, 0)
-                xysize (1920, edge_guard)
-                background None
-                keyboard_focus False
-                action NullAction()
-
-            button:
-                pos (0, 1080 - edge_guard)
-                xysize (1920, edge_guard)
-                background None
-                keyboard_focus False
-                action NullAction()
-
-            button:
-                pos (0, 0)
-                xysize (edge_guard, 1080)
-                background None
-                keyboard_focus False
-                action NullAction()
-
-            button:
-                pos (1920 - edge_guard, 0)
-                xysize (edge_guard, 1080)
-                background None
-                keyboard_focus False
-                action NullAction()
-
         if persistent.touch_menu_button:
             textbutton _("Menu"):
                 style "touch_menu_button"
@@ -357,20 +326,6 @@ screen prefs():
 
                 if renpy.variant("touch"):
                     textbutton _("Show menu button") action ToggleVariable("persistent.touch_menu_button", True, False)
-
-                    textbutton _("Ignore taps near screen edges") action ToggleVariable("persistent.touch_edge_guard", True, False)
-
-                if renpy.variant("mobile"):
-                    text _("Tap screen edge to roll back")
-
-                    hbox:
-                        spacing 30
-
-                        textbutton _("Left") action Preference("rollback side", "left")
-
-                        textbutton _("Off") action Preference("rollback side", "disable")
-
-                        textbutton _("Right") action Preference("rollback side", "right")
 
             vbox:
                 style_prefix "slider"
