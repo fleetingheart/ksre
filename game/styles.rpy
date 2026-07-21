@@ -117,6 +117,12 @@ style say_dialogue is default:
     size 42 + (mobile_ts_add - 6) * is_mobile
     line_spacing 2
 
+style nvl_window:
+    top_padding 60
+    left_padding 55
+    right_padding 70
+    background "gui/bg/nvl.png"
+
 style doublespeak_namebox1 is say_namebox:
     xpos 0.008
     ypos 0.745

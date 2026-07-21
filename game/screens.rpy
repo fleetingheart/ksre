@@ -88,10 +88,12 @@ screen choice(items):
                     action [AddToSet(persistent._seen_choices, i.caption), i.action, check_all_choices]
 
 screen nvl(dialogue, items=None):
-    window id "window":
+    window:
+        style_prefix "nvl"
+
         has vbox
         spacing 20
-        at colorblind(persistent.colorblind), box_appear
+        at colorblind(persistent.colorblind)
 
         for d in dialogue:
             frame:

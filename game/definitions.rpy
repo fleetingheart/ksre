@@ -858,7 +858,7 @@ define hx_  = Character(_("Huge man"), kind=hx)
 define hh_  = Character(_("Slim girl"), kind=hh)
 define emm_ = Character(_("Woman with braid"), kind=emm)
 
-define n = Character(kind=nvl, ctc=Transform("icon_ctc", rotate=90, ypos=0.9333), ctc_position="fixed", window_background="gui/bg/nvl.png", window_top_padding=60, window_left_padding=55, window_right_padding=70)
+define n = Character(kind=nvl, ctc=Transform("icon_ctc", rotate=90, ypos=0.9333), ctc_position="fixed")
 
 define rinbabble = Character(kind=n, what_prefix="{color=#B14343}{b}" + _("Rin") + "{/b}{/color}\n" + _("“"), what_suffix=_("”"))
 
