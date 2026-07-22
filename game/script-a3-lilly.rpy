@@ -2363,7 +2363,7 @@ label a3_lilly:
 
         stop music fadeout 0.3
 
-        call screen doublespeak(li, _("Is that Hisa— ah!"), ha, _("Oh, 'morning Hisao."))
+        $ show_doublespeak(li, _("Is that Hisa— ah!"), ha, _("Oh, 'morning Hisao."))
 
         show lilly basic_oops_cas
         with persistent.charachange

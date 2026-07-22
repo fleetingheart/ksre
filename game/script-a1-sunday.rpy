@@ -5319,12 +5319,15 @@ label a1_sunday:
             "I carefully stick my hand out and give it an experimental prod."
 
             play sound sfx_impact
+
+            window auto hide Dissolve(0.2)
+
             show kenji rage_close:
                 alpha 0.0 xpos 0.5 ypos 1.0 xanchor 0.5 yanchor 0.7
                 easein 0.2 yanchor 1.0 alpha 1.0
             with vpunch
 
-            call screen doublespeak(ke, _("Hello."), hi, _("AHHHHHHHHHHHHH!"))
+            $ show_doublespeak(ke, _("Hello."), hi, _("AHHHHHHHHHHHHH!"), prehide=False)
 
             play music music_comedy fadein 2.0
 

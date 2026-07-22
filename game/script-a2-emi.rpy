@@ -5986,7 +5986,7 @@ label a2_emi:
         show emi basic_confused
         with persistent.charachange
 
-        call screen doublespeak(emi, _("What?"), hi, _("Huh?"))
+        $ show_doublespeak(emi, _("What?"), hi, _("Huh?"))
 
         show rin basic_surprised
         with persistent.charachange

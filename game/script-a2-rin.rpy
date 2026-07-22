@@ -4692,7 +4692,7 @@ label a2_rin:
 
         no "Hello again!"
 
-        call screen doublespeak(hi, _("Hello."), rin, _("Hello."))
+        $ show_doublespeak(hi, _("Hello."), rin, _("Hello."))
 
         show nomiya smile
         with persistent.charachange

@@ -364,7 +364,7 @@ transform rotateBy(rotation=0):
 
 transform box_appear:
     alpha 0.0
-    linear 0.5 alpha 1.0
+    linear 0.2 alpha 1.0
 
 define dotwipe_down = ImageDissolve(Tile("gui/trans/dots_col.png"), 0.5, 32, ramptype="mcube")
 define dotwipe_up = ImageDissolve(Tile("gui/trans/dots_col.png"), 0.5, 32, ramptype="mcube", reverse=True)

@@ -1123,14 +1123,11 @@ label a1_friday:
 
             "Suddenly, a tall dark stranger appears out of nowhere, standing imposingly in front of us. Emi flinches back, almost falling back down the stairs."
 
-            call screen doublespeak(emi, _("Eeek!"), rin_, _("Hello."))
+            $ show_doublespeak(emi, _("Eeek!"), rin_, _("Hello."))
 
-            show emi basic_hes
-            with persistent.charachange
-
-            show emi at twoleft:
+            show emi basic_hes at twoleft:
                 ypos 1.02
-            with charamove
+            with charamovechangefaster
 
             emi "Yipes! You scared me, Rin!"
 
@@ -1334,7 +1331,7 @@ label a1_friday:
             show emi basic_confused_close
             with persistent.charachange
 
-            call screen doublespeak(emi, _("Talk like what?"), rin, _("Like what?"))
+            $ show_doublespeak(emi, _("Talk like what?"), rin, _("Like what?"))
 
             "I think that answers my question."
 

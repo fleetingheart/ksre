@@ -863,6 +863,8 @@ label a3_shizune:
 
         aki "All right, then. That makes me, Hideaki, and Lilly on the other team. Lilly, what should we call ourselves?"
 
+        window auto hide Dissolve(0.2)
+
         stop music fadeout 2.0
 
         play sound sfx_flash
@@ -879,7 +881,7 @@ label a3_shizune:
             ease 0.5 center xpos 1.5 alpha 0.0
 
         show bg at left
-        with charamovefast
+        with charamovefastest
 
         show lilly at twoleft
         show hideaki at tworight
@@ -893,7 +895,7 @@ label a3_shizune:
             offscreenright
             alpha 0.0
 
-        call screen doublespeak(li, _("I don't see why it matters."), hh, _("I don't think it matters."))
+        $ show_doublespeak(li, _("I don't see why it matters."), hh, _("I don't think it matters."), prehide=False, postshow=False)
 
         play sound sfx_flash
 

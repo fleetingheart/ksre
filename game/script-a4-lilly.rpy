@@ -2784,7 +2784,7 @@ label a4_lilly:
         hide lilly
         with vpunch
 
-        call screen doublespeak(ke, _("Whoa!"), li, _("Ah!"))
+        $ show_doublespeak(ke, _("Whoa!"), li, _("Ah!"))
 
         "Both fall to the ground in a sprawling heap, with me left feeling rather helpless."
 
@@ -7521,7 +7521,7 @@ label a4_lilly:
 
         aki "So, you two going back to the school tomorrow?"
 
-        call screen doublespeak(hi, _("Yup."), li, _("Yup."))
+        $ show_doublespeak(hi, _("Yup."), li, _("Yup."))
 
         show akira basic_ending_close
         with persistent.charachange

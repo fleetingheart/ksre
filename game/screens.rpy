@@ -28,7 +28,7 @@ screen say(who, what):
 screen doublespeak(c1, t1, c2, t2):
     style_prefix "doublespeak"
 
-    fixed at box_appear:
+    frame at box_appear:
         frame id "namebox1":
             at colorblind(persistent.colorblind)
             style_suffix "namebox1"

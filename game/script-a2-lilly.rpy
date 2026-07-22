@@ -2350,7 +2350,7 @@ label a2_lilly:
         show hanagown normal_blush
         with persistent.charachange
 
-        call screen doublespeak(li, _("Happy birthday!"), hi, _("Happy birthday!"))
+        $ show_doublespeak(li, _("Happy birthday!"), hi, _("Happy birthday!"))
 
         "Hanako silently sits looking at them for seconds on end, out of sheer surprise."
 
@@ -2997,7 +2997,7 @@ label a2_lilly:
         show lilly superclose_shock
         with persistent.charachangefast
 
-        call screen doublespeak(hi, _("Whoa!"), li, _("Ah!"))
+        $ show_doublespeak(hi, _("Whoa!"), li, _("Ah!"))
 
         play sound sfx_impact2
 
@@ -5003,7 +5003,7 @@ label a2_lilly:
         show emi basic_closedgrin
         with persistent.charachange
 
-        call screen doublespeak(hi, "…", emi, _("Thirty-two!"))
+        $ show_doublespeak(hi, "…", emi, _("Thirty-two!"))
 
         "I beam a mischievous grin."
 

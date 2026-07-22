@@ -4010,7 +4010,7 @@ label a3_hanako:
         show akira basic_laugh
         with persistent.charachange
 
-        call screen doublespeak(li, _("Cheers!"), aki, _("Cheers!"))
+        $ show_doublespeak(li, _("Cheers!"), aki, _("Cheers!"))
 
         show hanagown smile
         with persistent.charachange
