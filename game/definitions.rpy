@@ -286,13 +286,13 @@ python early:
     def hide_window_after_nvl(statement):
         if statement == "nvl hide":
             store._window = False
-    
+
     config.statement_callbacks.append(hide_window_after_nvl)
 
     def show_doublespeak(char1, dialogue1, char2, dialogue2, prehide=True, postshow=True):
         if prehide:
             _window_hide(trans=Dissolve(0.2), auto=True)
-        renpy.call_screen("doublespeak", char1, dialogue1, char2, dialogue2, _with_none=False)
+        renpy.call_screen("doublespeak", char1, __(dialogue1), char2, __(dialogue2), _with_none=False)
         renpy.with_statement(Dissolve(0.2))
         if postshow:
             _window_show(trans=Dissolve(0.2), auto=True)

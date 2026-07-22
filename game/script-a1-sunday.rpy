@@ -5327,7 +5327,7 @@ label a1_sunday:
                 easein 0.2 yanchor 1.0 alpha 1.0
             with vpunch
 
-            $ show_doublespeak(ke, _("Hello."), hi, _("AHHHHHHHHHHHHH!"), prehide=False)
+            $ show_doublespeak(ke, _("AHHHHHHHHHHHHH!"), hi, _("AHHHHHHHHHHHHH!"), prehide=False)
 
             play music music_comedy fadein 2.0
 
