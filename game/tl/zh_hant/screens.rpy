@@ -204,7 +204,7 @@ translate zh_hant strings:
 
     # game/screens.rpy:853
     old "Completion: [completion_percentage]"
-    new "完成度: [完成百分比]"
+    new "完成度: [completion_percentage]"
 
     # game/screens.rpy:884
     old "Extras > Cinema"
