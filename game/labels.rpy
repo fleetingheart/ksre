@@ -74,9 +74,12 @@ label act_op(svideo):
 label watch_gallery(images):
     $ i = 0
     $ locked_count = 0
+    $ cutin_backdrop = bool(images) and images[0] == "pills"
 
     while i < len(images):
         scene black
+        if cutin_backdrop:
+            show gallery_locked
         if is_seen(images[i]) or config.developer:
             show expression (images[i].image if isinstance(images[i], Trigger) else images[i])
             with dissolve

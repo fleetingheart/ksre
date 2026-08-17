@@ -818,6 +818,7 @@ image ev rin_painting_base = "event/rin_painting_base.png"
 image ev rin_painting_reply = "event/rin_painting_reply.png"
 image ev rin_painting_concerned = "event/rin_painting_concerned.png"
 image ev rin_painting_foot = "event/rin_painting_foot.png"
+image ev rin_painting_foot_gallery = Transform("ev rin_painting_foot", yalign=0.5)
 image ev rin_painting_faceconcerned = "event/rin_painting_faceconcerned.png"
 
 image ev hisao_letter_closed = "event/hisao_letter_closed.png"
@@ -908,6 +909,7 @@ image ovl rin_galleryskylight = "event/rin_galleryskylight.png"
 
 image ev rin_orange = "event/rin_orange.png"
 image ev rin_orange_large = "event/rin_orange_large.png"
+image ev rin_orange_large_gallery = Transform("ev rin_orange_large", yalign=0.5)
 
 image evh rin_relief_up = adult("event/rin_relief_up.png")
 image evh rin_relief_up_large = adult("event/rin_relief_up_large.png")
@@ -948,6 +950,7 @@ image ev rin_trueend_hug = rin_trueend_comp(["hug"])
 image ev rin_trueend_hugclosed = rin_trueend_comp(["hug", "hugclosed"])
 
 image ev rin_wet_pan_down = "event/rin_wet/rin_wet_pan_down.png"
+image ev rin_wet_pan_down_gallery = Transform("ev rin_wet_pan_down", yalign=0.5)
 image ev rin_wet_arms = "event/rin_wet/rin_wet_arms.png"
 image ev rin_wet_face_up = "event/rin_wet/rin_wet_face_up.png"
 image ev rin_wet_face_down = "event/rin_wet/rin_wet_face_down.png"
@@ -1011,6 +1014,12 @@ image evh rin_h2_hisao_closed_base = Composite(
     (0, 0), "event/rin_h2/rin_h2_u_closed.png",
     (0, 720), "event/rin_h2/rin_h2_l_hisao.png")
 image evh rin_h2_hisao_closed = adult("evh rin_h2_hisao_closed_base")
+
+image evh rin_h2_pan_surprise_gallery = Transform("evh rin_h2_pan_surprise", yalign=0.0)
+image evh rin_h2_pan_away_gallery = Transform("evh rin_h2_pan_away", yalign=0.0)
+image evh rin_h2_pan_closed_gallery = Transform("evh rin_h2_pan_closed", yalign=0.0)
+image evh rin_h2_nopan_closed_gallery = Transform("evh rin_h2_nopan_closed", yalign=0.0)
+image evh rin_h2_hisao_closed_gallery = Transform("evh rin_h2_hisao_closed", yalign=0.0)
 
 image evh rin_h_closed = adult("event/rin_h/rin_h_closed.png")
 image evh rin_h_left = adult(rin_h_comp("left"))
@@ -1096,6 +1105,11 @@ image evfg lilly_trainride_smiles = Composite(
 image ev lilly_trainride = "event/lilly_train/lilly_trainride.png"
 image ev lilly_trainride_smiles = "event/lilly_train/lilly_trainride_smiles.png"
 
+image evul lilly_trainride = Composite(
+    (1920, 1080),
+    (0, 0), "event/lilly_train/lilly_trainride_smiles.png",
+    (0, 0), "event/lilly_train/lilly_trainride.png")
+
 image train_scenery_ni:
     "event/lilly_train/train_scenery_ni.png"
     xalign 0.0
@@ -1128,21 +1142,18 @@ image ev lilly_wheat_small = "event/lilly_wheat_small.png"
 image ev lilly_restaurant_listen = "event/lilly_restaurant_listen.png"
 image ev lilly_restaurant_sheepish = "event/lilly_restaurant_sheepish.png"
 
-image evul lilly_restaurant_listen:
-    "event/lilly_restaurant_listen.png"
-    zoom 0.8
-image evul lilly_restaurant_sheepish:
-    "event/lilly_restaurant_sheepish.png"
-    zoom 0.8
+image evul lilly_restaurant_listen = Transform(
+    "event/lilly_restaurant_listen.png", size=(1920, 1080), fit="cover", xalign=0.5, yalign=0.5)
+image evul lilly_restaurant_sheepish = Transform(
+    "event/lilly_restaurant_sheepish.png", size=(1920, 1080), fit="cover", xalign=0.5, yalign=0.5)
 
 image ev lilly_restaurant_wine = "event/lilly_restaurant_wine.png"
 image ev lilly_restaurant_eat = "event/lilly_restaurant_eat.png"
 image ev lilly_restaurant_chew = "event/lilly_restaurant_chew.png"
 
 image ev hisao_teacup = "event/hisao_teacup.png"
-image evul hisao_teacup:
-    "event/hisao_teacup.png"
-    zoom 0.8
+image evul hisao_teacup = Transform(
+    "event/hisao_teacup.png", size=(1920, 1080), fit="cover", xalign=0.5, yalign=0.5)
 
 image ev akira_park = "event/akira_park.png"
 image evul akira_park = "event/akira_park.png"
@@ -1165,13 +1176,11 @@ image crowd_still1_fb = past_night("vfx/crowd1.png")
 image crowd_still2_fb = past_night("vfx/crowd2.png")
 image ev lilly_airport_end_fb = past("event/lilly_airport_end.png")
 
-image unlock_ev lilly_hospital:
-    "event/lilly_hospital.png"
-    zoom 0.8
+image unlock_ev lilly_hospital = Transform(
+    "event/lilly_hospital.png", size=(1920, 1080), fit="cover", xalign=0.5, yalign=0.5)
 image ev lilly_hospital = "event/lilly_hospital.png"
-image unlock_ev lilly_hospitalclosed:
-    "event/lilly_hospitalclosed.png"
-    zoom 0.8
+image unlock_ev lilly_hospitalclosed = Transform(
+    "event/lilly_hospitalclosed.png", size=(1920, 1080), fit="cover", xalign=0.5, yalign=0.5)
 image ev lilly_hospitalclosed = "event/lilly_hospitalclosed.png"
 
 image unlock_ev lilly_goodend:
@@ -1181,6 +1190,8 @@ image ev lilly_goodend = "event/lilly_goodend.png"
 image evbg lilly_goodend = "event/lilly_goodend_bg.png"
 image evfg lilly_goodend = "event/lilly_goodend_fg.png"
 
+image unlock_ev lilly_goodend_gallery = Transform("unlock_ev lilly_goodend", yalign=0.5)
+
 image evhunlock lilly_handjob_chest_frown_small_base:
     "event/lilly_handjob/lilly_hcg_handjob_chest_frown.png"
     zoom 0.667
@@ -1189,6 +1200,11 @@ image evhunlock lilly_handjob_chest_normal_small_base:
     "event/lilly_handjob/lilly_hcg_handjob_chest_normal.png"
     zoom 0.667
 image evhunlock lilly_handjob_chest_normal_small = adult("evhunlock lilly_handjob_chest_normal_small_base")
+
+image evhunlock lilly_handjob_chest_frown_gallery = adult(Transform(
+    "event/lilly_handjob/lilly_hcg_handjob_chest_frown.png", size=(1920, 1080), fit="cover", xalign=0.5, yalign=0.5))
+image evhunlock lilly_handjob_chest_normal_gallery = adult(Transform(
+    "event/lilly_handjob/lilly_hcg_handjob_chest_normal.png", size=(1920, 1080), fit="cover", xalign=0.5, yalign=0.5))
 
 image evh lilly_handjob_chest_frown = adult("event/lilly_handjob/lilly_hcg_handjob_chest_frown.png")
 image evh lilly_handjob_chest_normal = adult("event/lilly_handjob/lilly_hcg_handjob_chest_normal.png")
@@ -1302,9 +1318,9 @@ image ev hanako_billiards_timid_med:
     yanchor 0.0 ypos 0.0 xalign 1.0
 
 image evul hanako_emptyclassroom = Transform(Composite(
-    (1920, 1080),
+    (2400, 1800),
     (0, 0), "event/hanako_emptyclassroom_bg.png",
-    (0, 0), "event/hanako_emptyclassroom_fg.png"), zoom=0.8)
+    (0, 0), "event/hanako_emptyclassroom_fg.png"), zoom=0.8, yalign=0.5)
 
 image evbg hanako_emptyclassroom = "event/hanako_emptyclassroom_bg.png"
 image evfg hanako_emptyclassroom = "event/hanako_emptyclassroom_fg.png"
@@ -1350,6 +1366,9 @@ image unlock_ev hanako_goodend_close:
 image unlock_ev hanako_goodend_muffin:
     "event/hanako_goodend_muffin.png"
     zoom 0.8
+
+image unlock_ev hanako_goodend_close_gallery = Transform("unlock_ev hanako_goodend_close", yalign=0.5)
+image unlock_ev hanako_goodend_muffin_gallery = Transform("unlock_ev hanako_goodend_muffin", yalign=0.5)
 image unlock_ev hanako_goodend:
     "event/hanako_goodend.png"
     xalign 0.5 yalign 0.0

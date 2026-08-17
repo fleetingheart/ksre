@@ -803,12 +803,12 @@ screen gallery(page=0):
 
             for i in range(page * 12, (page + 1) * 12):
                 if i > len(_gallery_images) - 1:
-                    image "button_cg_locked_lop"
+                    add Null(220, 170)
                 elif (is_seen(_gallery_images[i][int(_gallery_images[i][0].startswith("thumb/"))]) or config.developer) and (nsfw_installed() or _gallery_images[i][0] not in nsfw_gallery_thumbs):
                     python:
                         img = _gallery_images[i]
                         if img[0].startswith("thumb/"):
-                            thumb = im.Scale("event/" + img[0], 200, 150)
+                            thumb = gallery_thumb("event/" + img[0])
                         else:
                             thumb = im.Scale(img[0], 200, 150)
 

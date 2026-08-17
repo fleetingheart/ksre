@@ -238,6 +238,17 @@ python early:
         else:
             return renpy.seen_image(img)
 
+    def gallery_thumb(path, width=200, height=150):
+        w, h = renpy.image_size(im.Image(path))
+        cw, ch = w, h
+        if w * height > h * width:
+            cw = h * width // height
+        elif w * height < h * width:
+            ch = w * height // width
+        if (cw, ch) != (w, h):
+            return im.Scale(im.Crop(path, ((w - cw) // 2, (h - ch) // 2, cw, ch)), width, height)
+        return im.Scale(path, width, height)
+
     def get_scene_name(name=None):
         if not name:
             name = current_scene
@@ -737,16 +748,16 @@ define _gallery_images = (
     ("thumb/hanako_missionary.jpg", "evh hanako_missionary_underwear", "evh hanako_missionary_underwear", "evh hanako_missionary_open", "evh hanako_missionary_closed", "evh hanako_missionary_clench"),
     ("thumb/hanako_after.jpg", "ev hanako_after_worry", "ev hanako_after_smile"),
     ("thumb/hanako_park.jpg", "ev hanako_park_alone", "ev hanako_park_away", "ev hanako_park_look", "ev hanako_park_closed"),
-    ("thumb/hanako_goodend.jpg", "unlock_ev hanako_goodend_close", "unlock_ev hanako_goodend", "unlock_ev hanako_goodend_muffin"),
+    ("thumb/hanako_goodend.jpg", Trigger("unlock_ev hanako_goodend_close", "unlock_ev hanako_goodend_close_gallery"), "unlock_ev hanako_goodend", Trigger("unlock_ev hanako_goodend_muffin", "unlock_ev hanako_goodend_muffin_gallery")),
     ("thumb/lilly_tearoom.jpg", "ev lilly_tearoom", "ev lilly_tearoom_open"),
     ("thumb/lilly_touch.jpg", "ev lilly_touch_uni", "ev lilly_touch_cheong", "ev lilly_touch_cas"),
     ("thumb/lilly_crane.jpg", "ev lilly_crane"),
     ("thumb/lilly_bedroom.jpg", "ev lilly_bedroom"),
     ("thumb/lilly_hanako_hug.jpg", Trigger("ev lilly_hanako_hug", "unlock_ev lilly_hanako_hug_end")),
     ("thumb/lilly_sleeping.jpg", "ev lilly_sleeping", "ev lilly_sleeping_smile"),
-    ("thumb/lilly_trainride.jpg", Trigger("evfg lilly_trainride", "ev lilly_trainride"), Trigger("evfg lilly_trainride_smiles", "ev lilly_trainride_smiles"), "ev lilly_trainride_ni"),
+    ("thumb/lilly_trainride.jpg", Trigger("evfg lilly_trainride", "evul lilly_trainride"), Trigger("evfg lilly_trainride_smiles", "ev lilly_trainride_smiles"), "ev lilly_trainride_ni"),
     ("thumb/lilly_wheat.jpg", "unlock_ev lilly_wheat_close", "ev lilly_wheat_small"),
-    ("thumb/lilly_handjob.jpg", "evhunlock lilly_handjob_chest_frown_small", "evhunlock lilly_handjob_chest_normal_small", "evh lilly_handjob_stroke_flustopen_small", "evh lilly_handjob_stroke_normopen_small", "evh lilly_handjob_stroke_normshut_small"),
+    ("thumb/lilly_handjob.jpg", Trigger("evhunlock lilly_handjob_chest_frown_small", "evhunlock lilly_handjob_chest_frown_gallery"), Trigger("evhunlock lilly_handjob_chest_normal_small", "evhunlock lilly_handjob_chest_normal_gallery"), "evh lilly_handjob_stroke_flustopen_small", "evh lilly_handjob_stroke_normopen_small", "evh lilly_handjob_stroke_normshut_small"),
     ("thumb/lilly_cowgirl.jpg", "evh lilly_cowgirl_cry_small", "evh lilly_cowgirl_frown_small", "evh lilly_cowgirl_smile_small", "evh lilly_cowgirl_strain_small", "evh lilly_cowgirl_weaksmile_small"),
     ("thumb/lilly_bath.jpg", "evh lilly_bath_emb_small", "evh lilly_bath_grab_small", "evh lilly_bath_moan_small", "evh lilly_bath_open_small", "evh lilly_bath_smile_small"),
     ("thumb/lilly_afterbath.jpg", "evh lilly_afterbath_open_small", "evh lilly_afterbath_shut_small"),
@@ -757,24 +768,24 @@ define _gallery_images = (
     ("thumb/lilly_airport.jpg", "ev lilly_airport", "ev lilly_airport_end"),
     ("thumb/lilly_hospitalwindow.jpg", "ev lilly_hospitalwindow"),
     ("thumb/lilly_hospital.jpg", Trigger("ev lilly_hospitalclosed", "unlock_ev lilly_hospitalclosed"), Trigger("ev lilly_hospital", "unlock_ev lilly_hospital")),
-    ("thumb/lilly_goodend.jpg", "unlock_ev lilly_goodend"),
+    ("thumb/lilly_goodend.jpg", Trigger("unlock_ev lilly_goodend", "unlock_ev lilly_goodend_gallery")),
     ("thumb/rin_eating.jpg", "ev rin_eating"),
     ("thumb/rin_artclass.jpg", "ev rin_artclass1", "ev rin_artclass2", "ev rin_artclass3", "ev rin_artclass4"),
     ("thumb/hisao_mirror.jpg", Trigger("ev hisao_mirror", "ev hisao_mirror_800")),
-    ("thumb/rin_painting.jpg", "ev rin_painting_base", "ev rin_painting_foot", "ev rin_painting_faceconcerned", "ev rin_painting_concerned", "ev rin_painting_reply"),
+    ("thumb/rin_painting.jpg", "ev rin_painting_base", Trigger("ev rin_painting_foot", "ev rin_painting_foot_gallery"), "ev rin_painting_faceconcerned", "ev rin_painting_concerned", "ev rin_painting_reply"),
     ("thumb/rin_rain.jpg", "ev rin_rain_away", "ev rin_rain_towards"),
     ("thumb/rin_high.jpg", "ev rin_high_frown", "ev rin_high_grin", "ev rin_high_grinwide", "ev rin_high_oneeye", "ev rin_high_open", "ev rin_high_smile", "ev rin_high_sleep"),
     ("thumb/rin_kiss.jpg", "ev rin_kiss"),
     ("thumb/rin_nap.jpg", "ev rin_nap_total", "ev rin_nap_total_awind", "ev rin_nap_close_awind", "ev rin_nap_close_awind_tears"),
     ("thumb/rin_wisp.jpg", "ev rin_wisp1", "ev rin_wisp2", "ev rin_wisp3", "ev rin_wisp4", "ev rin_wisp5"),
     ("thumb/rin_galleryskylight.jpg", "ovl rin_galleryskylight"),
-    ("thumb/rin_orange.jpg", "ev rin_orange", "ev rin_orange_large"),
+    ("thumb/rin_orange.jpg", "ev rin_orange", Trigger("ev rin_orange_large", "ev rin_orange_large_gallery")),
     ("thumb/rin_masturbate.jpg", "ev rin_masturbate_away","ev rin_masturbate_surprise", "ev rin_masturbate_frown", "ev rin_masturbate_doubt", "ev rin_masturbate_hug"),
     ("thumb/rin_relief.jpg", "evh rin_relief_down", "evh rin_relief_up"),
     ("thumb/rin_gallery.jpg", "ev rin_gallery"),
     ("thumb/rin_trueend.jpg", "ev rin_trueend_normal", "ev rin_trueend_smile", "ev rin_trueend_weaksmile", "ev rin_trueend_sad", "ev rin_trueend_closed", "ev rin_trueend_hug", "ev rin_trueend_hugclosed", "ev rin_trueend_gone"),
-    ("thumb/rin_wet.jpg", "ev rin_wet_pan_down", "ev rin_wet_arms", "ev rin_wet_face_up", "ev rin_wet_face_down", "ev rin_wet_towel_up", "ev rin_wet_towel_down", "ev rin_wet_towel_touch"),
-    ("thumb/rin_h2.jpg", "evh rin_h2_pan_surprise", "evh rin_h2_pan_away", "evh rin_h2_pan_closed", "evh rin_h2_nopan_closed", "evh rin_h2_hisao_closed"),
+    ("thumb/rin_wet.jpg", Trigger("ev rin_wet_pan_down", "ev rin_wet_pan_down_gallery"), "ev rin_wet_arms", "ev rin_wet_face_up", "ev rin_wet_face_down", "ev rin_wet_towel_up", "ev rin_wet_towel_down", "ev rin_wet_towel_touch"),
+    ("thumb/rin_h2.jpg", Trigger("evh rin_h2_pan_surprise", "evh rin_h2_pan_surprise_gallery"), Trigger("evh rin_h2_pan_away", "evh rin_h2_pan_away_gallery"), Trigger("evh rin_h2_pan_closed", "evh rin_h2_pan_closed_gallery"), Trigger("evh rin_h2_nopan_closed", "evh rin_h2_nopan_closed_gallery"), Trigger("evh rin_h2_hisao_closed", "evh rin_h2_hisao_closed_gallery")),
     ("thumb/rin_pair.jpg", "ev rin_pair_base_clothes","ev rin_pair_base"),
     ("thumb/rin_h.jpg", "evh rin_h_closed", "evh rin_h_left", "evh rin_h_normal", "evh rin_h_right", "evh rin_h_strain", "evh rin_h_closed_close", "evh rin_h_left_close", "evh rin_h_normal_close", "evh rin_h_right_close", "evh rin_h_strain_close"),
     ("thumb/rin_goodend.jpg", Trigger("rin goodend_1", "ev rin_goodend_1"), Trigger("rin goodend_1b", "ev rin_goodend_1b"), Trigger("rin goodend_2", "ev rin_goodend_2")),
