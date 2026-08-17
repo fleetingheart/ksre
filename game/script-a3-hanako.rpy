@@ -4401,8 +4401,8 @@ label a3_hanako:
 
         show bg school_girlsdormhall:
             center
-            xpos 0.6
-            ease 2.5 xpos 0.4
+            xpos 0.55
+            ease 2.5 xpos 0.45
         with Dissolve(1.0)
 
         hide akira

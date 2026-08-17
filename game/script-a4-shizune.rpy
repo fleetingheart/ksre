@@ -676,7 +676,7 @@ label a4_shizune:
             xpos 0.65
         show bg:
             center
-            xpos 0.43
+            xpos 0.45
         with charamovechangefaster
 
         "As soon as it's out of her hands, she darts in front of Misha, cutting her off."
