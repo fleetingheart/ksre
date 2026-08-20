@@ -1082,11 +1082,19 @@ image ev lilly_kissing = "event/lilly_kissing.png"
 image ev lilly_sleeping = "event/lilly_sleeping.png"
 image ev lilly_sleeping_smile = "event/lilly_sleeping_smile.png"
 
+image train_scenery composite = Composite(
+    (8612, 1080),
+    (0, 0), "event/lilly_train/train_scenery.png",
+    (4306, 0), "event/lilly_train/train_scenery.png"
+)
+
 image train_scenery:
-    "event/lilly_train/train_scenery.png"
-    xalign 0.0
-    linear 2.0 xalign 1.0
-    repeat
+    "train_scenery composite"
+    align (0, 0)
+    block:
+        xpos 0
+        linear 2.0 xpos -4306
+        repeat
 
 image train_scenery_fg:
     "event/lilly_train/train_scenery_fg.png"
@@ -1103,18 +1111,26 @@ image evfg lilly_trainride_smiles = Composite(
     (0, 0), "event/lilly_train/lilly_trainride_hanasmile.png")
 
 image ev lilly_trainride = "event/lilly_train/lilly_trainride.png"
-image ev lilly_trainride_smiles = "event/lilly_train/lilly_trainride_smiles.png"
+image ev lilly_trainride_smiles = "event/lilly_train/lilly_trainride_smiles.jpg"
 
 image evul lilly_trainride = Composite(
     (1920, 1080),
-    (0, 0), "event/lilly_train/lilly_trainride_smiles.png",
+    (0, 0), "event/lilly_train/lilly_trainride_smiles.jpg",
     (0, 0), "event/lilly_train/lilly_trainride.png")
 
+image train_scenery_ni composite = Composite(
+    (8612, 1080),
+    (0, 0), "event/lilly_train/train_scenery_ni.png",
+    (4306, 0), "event/lilly_train/train_scenery_ni.png"
+)
+
 image train_scenery_ni:
-    "event/lilly_train/train_scenery_ni.png"
-    xalign 0.0
-    linear 2.0 xalign 1.0
-    repeat
+    "train_scenery_ni composite"
+    align (0, 0)
+    block:
+        xpos 0
+        linear 2.0 xpos -4306
+        repeat
 
 image train_scenery_fg_ni:
     "event/lilly_train/train_scenery_fg_ni.png"
