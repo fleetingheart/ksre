@@ -4903,8 +4903,8 @@ label a4_lilly:
         stop ambient fadeout 14.0
         show ev hisao_teacup:
             truecenter
-            zoom 1.05
-            acdc_warp 15.0 zoom 1.0
+            zoom 0.85
+            acdc_warp 15.0 zoom 0.8
         with locationchange
 
         "I look down, seeing my face reflected in the by now lukewarm cup of neglected tea sitting in front of me."
@@ -7266,7 +7266,7 @@ label a4_lilly:
 
         hi "It's okay, Lilly. I'm okay. You don't need to—"
 
-        scene ev lilly_hospital at l_hosp_out
+        show ev lilly_hospital at l_hosp_out
         with charachangeev
 
         "She rights herself quickly, her crying forcefully stifled with both sadness and stubbornness remaining in her moistened eyes. Her prideful nature, always having been something to contend with, takes me off guard."
@@ -7277,7 +7277,7 @@ label a4_lilly:
 
         "I'm caught speechless. She waits for a response, but her composure breaks again after a handful of seconds."
 
-        scene ev lilly_hospitalclosed at l_hosp_out
+        show ev lilly_hospitalclosed at l_hosp_out
         with charachangeev
 
         "I swallow hard to try and settle my own emotions while she weeps onto my bed, a strange mixture of relief and depression welling up."

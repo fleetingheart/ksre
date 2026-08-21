@@ -685,11 +685,14 @@ image ev picnic_rain:
     "event/picnic_rain.png"
     xalign 0.5
 
-image ev emi_cry_down = "event/emi_cry_down.png"
+image ev emi_cry_down = "event/emi_cry_down.jpg"
 image evul emi_cry_down:
-    "event/emi_cry_down.png"
+    "event/emi_cry_down.jpg"
     zoom 0.8
-image ev emi_grave = "event/emi_grave.png"
+image ev emi_grave = "event/emi_grave.jpg"
+image evul emi_grave:
+    "event/emi_grave.jpg"
+    zoom 0.95
 
 image evh emi_grinding_victorytall = "event/emi_grinding/emi_grinding_victorytall.png"
 image evh emi_grinding_victory = "event/emi_grinding/emi_grinding_victory.png"
@@ -1015,11 +1018,12 @@ image evh rin_h2_hisao_closed_base = Composite(
     (0, 720), "event/rin_h2/rin_h2_l_hisao.png")
 image evh rin_h2_hisao_closed = adult("evh rin_h2_hisao_closed_base")
 
-image evh rin_h2_pan_surprise_gallery = Transform("evh rin_h2_pan_surprise", yalign=0.0)
-image evh rin_h2_pan_away_gallery = Transform("evh rin_h2_pan_away", yalign=0.0)
-image evh rin_h2_pan_closed_gallery = Transform("evh rin_h2_pan_closed", yalign=0.0)
-image evh rin_h2_nopan_closed_gallery = Transform("evh rin_h2_nopan_closed", yalign=0.0)
-image evh rin_h2_hisao_closed_gallery = Transform("evh rin_h2_hisao_closed", yalign=0.0)
+image evh rin_h2_pan_surprise_gallery = Transform("evh rin_h2_pan_surprise", yalign=0.15)
+image evh rin_h2_pan_away_gallery = Transform("evh rin_h2_pan_away", yalign=0.15)
+image evh rin_h2_pan_closed_gallery = Transform("evh rin_h2_pan_closed", yalign=0.15)
+image evh rin_h2_pan_closed_gallery2 = Transform("evh rin_h2_pan_closed", yalign=0.8)
+image evh rin_h2_nopan_closed_gallery = Transform("evh rin_h2_nopan_closed", yalign=0.8)
+image evh rin_h2_hisao_closed_gallery = Transform("evh rin_h2_hisao_closed", yalign=0.8)
 
 image evh rin_h_closed = adult("event/rin_h/rin_h_closed.png")
 image evh rin_h_left = adult(rin_h_comp("left"))
@@ -1167,9 +1171,10 @@ image ev lilly_restaurant_wine = "event/lilly_restaurant_wine.png"
 image ev lilly_restaurant_eat = "event/lilly_restaurant_eat.png"
 image ev lilly_restaurant_chew = "event/lilly_restaurant_chew.png"
 
-image ev hisao_teacup = "event/hisao_teacup.png"
-image evul hisao_teacup = Transform(
-    "event/hisao_teacup.png", size=(1920, 1080), fit="cover", xalign=0.5, yalign=0.5)
+image ev hisao_teacup = "event/hisao_teacup.jpg"
+image evul hisao_teacup:
+    "event/hisao_teacup.jpg"
+    zoom 0.8
 
 image ev akira_park = "event/akira_park.png"
 image evul akira_park = "event/akira_park.png"
@@ -1209,26 +1214,21 @@ image evfg lilly_goodend = "event/lilly_goodend_fg.png"
 image unlock_ev lilly_goodend_gallery = Transform("unlock_ev lilly_goodend", yalign=0.5)
 
 image evhunlock lilly_handjob_chest_frown_small_base:
-    "event/lilly_handjob/lilly_hcg_handjob_chest_frown.png"
+    "event/lilly_handjob/lilly_hcg_handjob_chest_frown.jpg"
     zoom 0.667
 image evhunlock lilly_handjob_chest_frown_small = adult("evhunlock lilly_handjob_chest_frown_small_base")
 image evhunlock lilly_handjob_chest_normal_small_base:
-    "event/lilly_handjob/lilly_hcg_handjob_chest_normal.png"
+    "event/lilly_handjob/lilly_hcg_handjob_chest_normal.jpg"
     zoom 0.667
 image evhunlock lilly_handjob_chest_normal_small = adult("evhunlock lilly_handjob_chest_normal_small_base")
 
-image evhunlock lilly_handjob_chest_frown_gallery = adult(Transform(
-    "event/lilly_handjob/lilly_hcg_handjob_chest_frown.png", size=(1920, 1080), fit="cover", xalign=0.5, yalign=0.5))
-image evhunlock lilly_handjob_chest_normal_gallery = adult(Transform(
-    "event/lilly_handjob/lilly_hcg_handjob_chest_normal.png", size=(1920, 1080), fit="cover", xalign=0.5, yalign=0.5))
+image evh lilly_handjob_chest_frown = adult("event/lilly_handjob/lilly_hcg_handjob_chest_frown.jpg")
+image evh lilly_handjob_chest_normal = adult("event/lilly_handjob/lilly_hcg_handjob_chest_normal.jpg")
+image evh lilly_handjob_stroke_normopen = adult("event/lilly_handjob/lilly_hcg_handjob_stroke_normopen.jpg")
 
-image evh lilly_handjob_chest_frown = adult("event/lilly_handjob/lilly_hcg_handjob_chest_frown.png")
-image evh lilly_handjob_chest_normal = adult("event/lilly_handjob/lilly_hcg_handjob_chest_normal.png")
-image evh lilly_handjob_stroke_normopen = adult("event/lilly_handjob/lilly_hcg_handjob_stroke_normopen.png")
-
-image evh lilly_handjob_stroke_flustopen_small = adult("event/lilly_handjob/lilly_hcg_handjob_stroke_flustopen_small.png")
-image evh lilly_handjob_stroke_normopen_small = adult("event/lilly_handjob/lilly_hcg_handjob_stroke_normopen_small.png")
-image evh lilly_handjob_stroke_normshut_small = adult("event/lilly_handjob/lilly_hcg_handjob_stroke_normshut_small.png")
+image evh lilly_handjob_stroke_flustopen_small = adult("event/lilly_handjob/lilly_hcg_handjob_stroke_flustopen_small.jpg")
+image evh lilly_handjob_stroke_normopen_small = adult("event/lilly_handjob/lilly_hcg_handjob_stroke_normopen_small.jpg")
+image evh lilly_handjob_stroke_normshut_small = adult("event/lilly_handjob/lilly_hcg_handjob_stroke_normshut_small.jpg")
 
 image evh lilly_cowgirl_cry_small = adult("event/lilly_cowgirl/lilly_hcg_cowgirl_cry_small.png")
 image evh lilly_cowgirl_frown_small = adult("event/lilly_cowgirl/lilly_hcg_cowgirl_frown_small.png")
