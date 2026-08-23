@@ -291,3 +291,7 @@ translate zh_hant strings:
     # game/screens.rpy:483
     old "Progress successfully saved."
     new "成功記錄進度。"
+
+    # game/screens.rpy:506
+    old "Are you sure you want to\ndiscard your progress?"
+    new "確認放棄未儲存的進度嗎？"

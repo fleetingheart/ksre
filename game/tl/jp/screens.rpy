@@ -316,3 +316,7 @@ translate jp strings:
     # game/screens.rpy:483
     old "Progress successfully saved."
     new "セーブが完了しました。"
+
+    # game/screens.rpy:506
+    old "Are you sure you want to\ndiscard your progress?"
+    new "状態が失われますが\nよろしいですか？"

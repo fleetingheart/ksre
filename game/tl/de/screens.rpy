@@ -301,3 +301,7 @@ translate de strings:
     # game/screens.rpy:483
     old "Progress successfully saved."
     new "Spielstand erfolgreich gespeichert."
+
+    # game/screens.rpy:506
+    old "Are you sure you want to\ndiscard your progress?"
+    new "Willst du deinen Fortschritt\nwirklich nicht speichern?"

@@ -308,3 +308,7 @@ translate fr strings:
     # game/screens.rpy:483
     old "Progress successfully saved."
     new "Progression sauvegardée avec succès."
+
+    # game/screens.rpy:506
+    old "Are you sure you want to\ndiscard your progress?"
+    new "Êtes-vous sûr de vouloir effacer votre progression ?"

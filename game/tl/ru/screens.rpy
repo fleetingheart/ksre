@@ -315,3 +315,7 @@ translate ru strings:
     # game/screens.rpy:483
     old "Progress successfully saved."
     new "Игра успешно сохранена."
+
+    # game/screens.rpy:506
+    old "Are you sure you want to\ndiscard your progress?"
+    new "Вы уверены, что хотите\nсбросить пройденный путь?"

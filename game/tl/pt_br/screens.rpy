@@ -5,7 +5,7 @@ translate pt_br strings:
 
     # game/screens.rpy:119
     old "Yes"
-    new "Yes"
+    new "Sim"
 
     # game/screens.rpy:120
     old "No"
@@ -37,7 +37,7 @@ translate pt_br strings:
 
     # game/screens.rpy:164
     old "Saves"
-    new "Saves"
+    new "Carregar"
 
     # game/screens.rpy:167
     old "Mods"
@@ -290,3 +290,7 @@ translate pt_br strings:
     # game/screens.rpy:483
     old "Progress successfully saved."
     new "Progresso salvo com sucesso."
+
+    # game/screens.rpy:506
+    old "Are you sure you want to\ndiscard your progress?"
+    new "Tem certeza que deseja\ndescartar o seu progresso?"
