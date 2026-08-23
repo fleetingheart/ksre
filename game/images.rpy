@@ -259,7 +259,7 @@ image config_bg = Frame("gui/bg/config.png")
 image logo_credo = Composite((1920, 1080), (685, 340), "gui/logo/credo.png")
 image logo_4ls = Composite((1920, 1080), (781, 432), "gui/logo/4ls-small.png")
 
-image credits_text_good = Text(_("""
+define credits_text_raw = _("""
 {image=gui/icons/flourish_left.png} {b}Writing{/b} {image=gui/icons/flourish_right.png}
 Anonymous22
 Aura
@@ -363,112 +363,11 @@ DrSimp
 ZenMaruki
 Valdemar «Vavan» Andrade
 Nikolai «neparij» Laptev
-"""), color="#ffffff", text_align=0.5, size=47, xalign=0.8)
+""")
 
-image credits_text = Text(_("""
-{image=gui/icons/flourish_left.png} {b}Writing{/b} {image=gui/icons/flourish_right.png}
-Anonymous22
-Aura
-cpl_crud
-Suriko
-TheHivemind
+image credits_text_good = Text(credits_text_raw, color="#ffffff", text_align=0.5, size=47, xalign=0.8)
 
-{image=gui/icons/flourish_left.png} {b}Editing{/b} {image=gui/icons/flourish_right.png}
-Kagami
-Losstarot
-Silentcook
-
-{image=gui/icons/flourish_left.png} {b}Music{/b} {image=gui/icons/flourish_right.png}
-Blue123
-NicolArmarfi
-
-{image=gui/icons/flourish_left.png} {b}Art{/b} {image=gui/icons/flourish_right.png}
-gebyy-terar
-Kamifish
-moekki
-pimmy
-raemz
-Raide
-
-{image=gui/icons/flourish_left.png} {b}Additional Art{/b} {image=gui/icons/flourish_right.png}
-climatic
-Doomfest
-yujovi
-
-{image=gui/icons/flourish_left.png} {b}FMV Animation{/b} {image=gui/icons/flourish_right.png}
-Mike Inel
-
-{image=gui/icons/flourish_left.png} {b}Directing{/b} {image=gui/icons/flourish_right.png}
-delta
-Raide
-yujovi
-
-{image=gui/icons/flourish_left.png} {b}Engineering{/b} {image=gui/icons/flourish_right.png}
-delta
-
-{image=gui/icons/flourish_left.png} {b}Production{/b} {image=gui/icons/flourish_right.png}
-cpl_crud
-Suriko
-
-
-{image=gui/icons/flourish_center.png}
-
-
-{image=gui/icons/flourish_left.png} {b}Thanks{/b} {image=gui/icons/flourish_right.png}
-Ambi07
-abscess
-Anonymous
-Celiest
-ContinualNaba
-Dark_Mercury
-DuaneMoody
-Fink
-frumplstlskn
-Ismuth
-Japesland
-Juno
-kekekeke
-konflikti
-Magaran
-Mirage_GSM
-OverCoat
-Peorth
-Petaru
-silentkyon
-skim
-stirfriedweasel
-Syureria
-TcDohl
-tottori
-VCR
-
-{image=gui/icons/flourish_left.png} {b}Special Thanks{/b} {image=gui/icons/flourish_right.png}
-hir
-PyTom
-RAITA
-replicated
-
-{image=gui/icons/flourish_left.png} {b}Fleeting Heartbeat Studios{/b} {image=gui/icons/flourish_right.png}
-Ikariya Biorante
-LocalManLLC
-Tovarish1
-XPND.Dev
-Tibix
-Niomesan
-hdkv
-levev
-
-{image=gui/icons/flourish_left.png} {b}Community Contributors{/b} {image=gui/icons/flourish_right.png}
-whizvox
-CloneWith
-BridgetSystems
-Dracoctix
-LuK1337
-ykhima
-DrSimp
-ZenMaruki
-Nikolai «neparij» Laptev
-"""), color="#ffffff", text_align=0.5, size=47, xalign=0.5)
+image credits_text = Text(credits_text_raw, color="#ffffff", text_align=0.5, size=47, xalign=0.5)
 
 image emi credits = Movie(play="video/credits_emi.mkv", loop=False)
 image hanako credits = Movie(play="video/credits_hanako.mkv", loop=False)
