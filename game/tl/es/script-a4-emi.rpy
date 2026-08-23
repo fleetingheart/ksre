@@ -348,12 +348,6 @@ translate es a4_emi_a_swing_and_a_miss_4e5de42f:
     # hi "Yeah, sure…"
     hi "Sí, seguro…"
 
-# game/script-a4-emi.rpy:213
-translate es a4_emi_a_swing_and_a_miss_76b2fe88:
-
-    # nvl clear
-    nvl clear
-
 # game/script-a4-emi.rpy:216
 translate es a4_emi_a_swing_and_a_miss_342369ae:
 
@@ -389,12 +383,6 @@ translate es a4_emi_a_swing_and_a_miss_24f51d1f:
 
     # n "{vspace=30}I'm absolutely miserable."
     n "{vspace=30}Soy absolutamente miserable."
-
-# game/script-a4-emi.rpy:233
-translate es a4_emi_a_swing_and_a_miss_76b2fe88_1:
-
-    # nvl clear
-    nvl clear
 
 # game/script-a4-emi.rpy:248
 translate es a4_emi_saving_throw_1a2608b5:
