@@ -43,11 +43,11 @@ steps:
       - prepare-env
 
   build:
-    image: source.hodakov.me/containers/renkit:6.1.0
+    image: source.hodakov.me/containers/renkit:6.1.0-renpy853
     environment:
       SDL_AUDIODRIVER: dummy
       SDL_VIDEODRIVER: dummy
-      RENPY_VERSION: 8.5.2
+      RENPY_VERSION: 8.5.3
       KEYSTORE_APK:
         from_secret: keystore_apk
       KEYSTORE_PASS:
