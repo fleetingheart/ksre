@@ -392,8 +392,8 @@ init 999 python:
     if not renpy.emscripten:
         rpc.start()
 
-    config.keymap["rollback"] = ["mousedown_5"]
-    config.keymap["rollforward"] = ["mousedown_4"]
+    if "K_AC_BACK" in config.keymap["rollback"]:
+        config.keymap["rollback"].remove("K_AC_BACK")
     config.keymap["game_menu"].append("K_AC_BACK")
 
 define null = Null()
