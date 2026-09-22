@@ -43,7 +43,7 @@ steps:
       - prepare-env
 
   build:
-    image: source.hodakov.me/containers/renkit:6.1.0-renpy853
+    image: code.vtsk.online/containers/renkit:6.1.0-renpy853-1
     environment:
       SDL_AUDIODRIVER: dummy
       SDL_VIDEODRIVER: dummy
