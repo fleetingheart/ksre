@@ -27,7 +27,7 @@ jobs:
       
       - name: Determine used version
         id: semver
-        uses: paulhatch/semantic-version@v5.4.0
+        uses: https://github.com/paulhatch/semantic-version@v5.4.0
         with:
           tag_prefix: "v"
           version_format: "${major}.${minor}.${patch}"
