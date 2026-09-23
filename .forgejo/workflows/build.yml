@@ -1,0 +1,53 @@
+name: Lint Ren'Py code
+
+on:
+  workflow_dispatch:
+  push:
+
+env:
+  SDL_AUDIODRIVER: dummy
+  SDL_VIDEODRIVER: dummy
+  RENPY_VERSION: 8.5.3
+
+concurrency:
+  group: ${{ forge.workflow-ref }}-lint
+  cancel-in-progress: true
+
+jobs:
+  lint:
+    runs-on: docker
+    name: Lint Ren'Py code
+
+    steps:
+      - name: Checkout the code
+        id: checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+      
+      - name: Determine used version
+        id: semver
+        uses: paulhatch/semantic-version@v5.4.0
+        with:
+          tag_prefix: "v"
+          version_format: "${major}.${minor}.${patch}"
+          bump_each_commit: false
+
+      - name: Set environment variables
+        id: setenv
+        run: |
+          if [ "${{ steps.semver.outputs.is_tagged }}" = "true" ]; then
+            CI_KSRE_VERSION="${{ steps.semver.outputs.version }}"
+          else
+            CI_KSRE_VERSION="${{ steps.semver.outputs.version }}-${GITHUB_SHA::10}"
+          fi
+          echo "CI_PRETTY_VERSION=v${CI_KSRE_VERSION}" | tee -a .env
+          echo "CI_KSRE_VERSION=${CI_KSRE_VERSION}" | tee -a .env
+      
+      - name: Lint Ren'Py code
+        id: lint
+        uses: code.vtsk.online/containers/renkit:6.1.0-renpy853-1
+        run: |
+          export $(grep -v '^#' .env | xargs)
+          renutil launch -v ${RENPY_VERSION} -d . -- lint --error-code --no-orphan-tl
+        continue-on-error: true
