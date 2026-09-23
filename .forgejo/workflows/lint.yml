@@ -27,26 +27,34 @@ jobs:
       
       - name: Determine used version
         id: semver
-        uses: https://github.com/paulhatch/semantic-version@v5.4.0
-        with:
-          tag_prefix: "v"
-          version_format: "${major}.${minor}.${patch}"
-          bump_each_commit: false
-
-      - name: Set environment variables
-        id: setenv
         run: |
-          if [ "${{ steps.semver.outputs.is_tagged }}" = "true" ]; then
-            CI_KSRE_VERSION="${{ steps.semver.outputs.version }}"
-          else
-            CI_KSRE_VERSION="${{ steps.semver.outputs.version }}-${GITHUB_SHA::10}"
-          fi
-          echo "CI_PRETTY_VERSION=v${CI_KSRE_VERSION}" | tee -a .env
-          echo "CI_KSRE_VERSION=${CI_KSRE_VERSION}" | tee -a .env
-      
+          case "${FORGEJO_REF}" in
+              refs/tags/*)
+                  TAG="${FORGEJO_REF#refs/tags/}"
+                  VERSION="${TAG}"
+                  GAME_VERSION="${TAG#v}"
+                  ;;
+              *)
+                  PREVIOUS_TAG="$(git -c 'versionsort.suffix=-' \
+                                    tag --list 'v*.*.*' --sort=-v:refname | head -n 1)"
+                  PREVIOUS_TAG="${PREVIOUS_TAG:-v0.0.0}"
+
+                  BASE="${PREVIOUS_TAG#v}"
+                  BASE="${BASE%%-*}"
+                  IFS=. read -r MAJOR MINOR PATCH <<< "${BASE}"
+                  PATCH=$((PATCH + 1))
+
+                  VERSION="v${MAJOR}.${MINOR}.${PATCH}-${FORGEJO_SHA:0:10}"
+                  GAME_VERSION="${MAJOR}.${MINOR}.${PATCH}-${FORGEJO_SHA:0:4}"
+                  ;;
+          esac
+
+          echo "CI_PRETTY_VERSION=${VERSION}" | tee -a "${FORGEJO_OUTPUT}"
+          echo "CI_KSRE_VERSION=${GAME_VERSION}" | tee -a "${FORGEJO_OUTPUT}"
+
       - name: Lint Ren'Py code
         id: lint
         run: |
-          export $(grep -v '^#' .env | xargs)
+          echo "CI_KSRE_VERSION=${{ steps.semver.outputs.GAME_VERSION }}"
           renutil launch -v ${RENPY_VERSION} -d . -- lint --error-code --no-orphan-tl
         continue-on-error: true
