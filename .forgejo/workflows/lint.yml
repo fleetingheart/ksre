@@ -15,7 +15,7 @@ concurrency:
 
 jobs:
   lint:
-    runs-on: docker
+    runs-on: renkit
     name: Lint Ren'Py code
 
     steps:
@@ -46,7 +46,6 @@ jobs:
       
       - name: Lint Ren'Py code
         id: lint
-        uses: code.vtsk.online/containers/renkit:6.1.0-renpy853-1
         run: |
           export $(grep -v '^#' .env | xargs)
           renutil launch -v ${RENPY_VERSION} -d . -- lint --error-code --no-orphan-tl
