@@ -1,5 +1,5 @@
-name: Upload artifact to SSH storage
-description: This snippet uploads named artifact to SSH storage.
+name: Download artifact from SSH storage
+description: This snippet downloads named artifact from SSH storage.
 
 inputs:
   ssh_host:
@@ -31,4 +31,5 @@ runs:
         mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
         chmod 600 ~/.ssh/config
 
-        scp -P ${{ inputs.ssh_port }} ./dists/${{ inputs.artifact_name }} "${{ inputs.ssh_user }}@${{ inputs.ssh_host }}:${{ inputs.storage_prefix }}/${{ inputs.directory }}"
+        mkdir -p ./dists/
+        scp -P ${{ inputs.ssh_port }} "${{ inputs.ssh.user }}@${{ inputs.ssh_host }}:${{ inputs.storage_prefix }}/${{ inputs.directory }}/${{ inputs.artifact_name }}" ./dists/

@@ -7,6 +7,8 @@ runs:
     - name: Determine game version
       id: semver
       run: |
+        set -euo pipefail
+
         case "${FORGEJO_REF}" in
             refs/tags/*)
                 TAG="${FORGEJO_REF#refs/tags/}"

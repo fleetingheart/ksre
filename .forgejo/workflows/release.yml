@@ -1,0 +1,18 @@
+name: Release KS:RE
+
+on:
+  workflow_call:
+    inputs:
+      VERSION:
+        required: true
+        type: string
+
+jobs:
+  github-release:
+    runs-on: renkit
+    name: Upload Github Release
+
+    steps:
+      - name: Echo that it done something useful
+        runs: |
+          echo "CI_PRETTY_VERSION=${{ inputs.VERSION }}"
