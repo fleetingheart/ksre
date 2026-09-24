@@ -15,7 +15,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: renkit
+    runs-on: renkit-amd64
     name: Build KS:RE release
 
     steps:
