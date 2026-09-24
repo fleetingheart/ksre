@@ -1,4 +1,4 @@
-name: Lint Ren'Py code
+name: Build KS:RE
 
 on:
   workflow_dispatch:
@@ -10,13 +10,13 @@ env:
   RENPY_VERSION: 8.5.3
 
 concurrency:
-  group: ${{ forge.workflow-ref }}-lint
+  group: ${{ forge.workflow-ref }}-build
   cancel-in-progress: true
 
 jobs:
-  lint:
+  build:
     runs-on: renkit
-    name: Lint Ren'Py code
+    name: Build KS:RE release
 
     steps:
       - name: Checkout the code
@@ -27,10 +27,3 @@ jobs:
       
       - uses: ./.forgejo/actions/semver
         id: semver
-
-      - name: Lint Ren'Py code
-        id: lint
-        run: |
-          echo "CI_KSRE_VERSION=${{ steps.semver.outputs.CI_PRETTY_VERSION }}"
-          renutil launch -v ${RENPY_VERSION} -d . -- lint --error-code --no-orphan-tl
-        continue-on-error: true
