@@ -7,6 +7,10 @@ on:
         required: true
         type: string
 
+concurrency:
+  group: ${{ forge.workflow-ref }}-release
+  cancel-in-progress: true
+
 jobs:
   github-release:
     runs-on: renkit

@@ -20,8 +20,8 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - name: Upload artifact
-      id: upload-artifact
+    - name: Download artifact
+      id: download-artifact
       run: |
         set -euo pipefail
 
@@ -32,4 +32,4 @@ runs:
         chmod 600 ~/.ssh/config
 
         mkdir -p ./dists/
-        scp -P ${{ inputs.ssh_port }} "${{ inputs.ssh.user }}@${{ inputs.ssh_host }}:${{ inputs.storage_prefix }}/${{ inputs.directory }}/${{ inputs.artifact_name }}" ./dists/
+        scp -P ${{ inputs.ssh_port }} "${{ inputs.ssh_user }}@${{ inputs.ssh_host }}:${{ inputs.storage_prefix }}/${{ inputs.directory }}/${{ inputs.artifact_name }}" ./dists/
