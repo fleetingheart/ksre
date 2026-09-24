@@ -25,5 +25,17 @@ jobs:
         with:
           fetch-depth: 0
       
-      - uses: ./.forgejo/actions/semver
+      - name: Determine current game version
+        uses: ./.forgejo/actions/semver
         id: semver
+
+      - name: Prepare storage for build artifacts
+        uses: ./.forgejo/actions/prepare-storage
+        id: prepare-storage
+        with:
+          ssh_host: ${{ secrets.STORAGE_SSH_HOST }}
+          ssh_port: ${{ secrets.STORAGE_SSH_PORT }}
+          ssh_user: ${{ secrets.STORAGE_SSH_USER }}
+          ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
+          storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}

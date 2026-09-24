@@ -25,12 +25,12 @@ jobs:
         with:
           fetch-depth: 0
       
-      - uses: ./.forgejo/actions/semver
+      - name: Determine current game version
+        uses: ./.forgejo/actions/semver
         id: semver
 
       - name: Lint Ren'Py code
         id: lint
         run: |
-          echo "CI_KSRE_VERSION=${{ steps.semver.outputs.CI_PRETTY_VERSION }}"
           renutil launch -v ${RENPY_VERSION} -d . -- lint --error-code --no-orphan-tl
         continue-on-error: true
