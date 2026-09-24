@@ -24,6 +24,6 @@ runs:
       id: upload-artifact
       run: |
         eval $(ssh-agent -s)
-        echo "${{ inputs.ssh_key }}" | ssh-add -
+        echo "${{ inputs.ssh_key }}" | base64 -d | ssh-add -
         mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
         scp -P ${{ inputs.ssh_port }} ./dists/${{ inputs.artifact_name }} "${{ inputs.ssh_user }}@${{ inputs.ssh_host }}:${{ inputs.storage_prefix }}/${{ inputs.directory }}"
