@@ -73,11 +73,12 @@ jobs:
   build-appimage:
     strategy:
       matrix:
+        info:
         - arch: amd64
         - arch: arm64
 
-    runs-on: renkit-${{ matrix.arch }}
-    name: Build KS:RE AppImage for ${{ matrix.arch }}
+    runs-on: renkit-${{ matrix.info.arch }}
+    name: Build KS:RE AppImage for ${{ matrix.info.arch }}
     needs:
       - build
 
