@@ -1,0 +1,27 @@
+name: Upload artifact to SSH storage
+description: This snippet uploads named artifact to SSH storage.
+
+inputs:
+  ssh_host:
+    required: true
+  ssh_port:
+    required: true
+  ssh_user:
+    required: true
+  storage_prefix:
+    required: true
+  directory:
+    required: true
+  artifact_name:
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - name: Upload artifact
+      id: upload-artifact
+      run: |
+        eval $(ssh-agent -s)
+        echo "${{ inputs.ssh_key }}" | ssh-add -
+        mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+        scp -P ${{ inputs.ssh_port }} ./dists/${{ inputs.artifact_name }} "${{ inputs.ssh_user }}@${{ inputs.ssh_host }}:${{ inputs.storage_prefix }}/${{ inputs.directory }}"

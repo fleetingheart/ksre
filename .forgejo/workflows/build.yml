@@ -39,3 +39,27 @@ jobs:
           ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
           storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
           directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
+
+      - name: Build the game
+        id: build
+        run: |
+          sed -i "s#0.0.0-localbuild#${{ steps.semver.outputs.CI_KSRE_VERSION }}#" game/config.rpy
+          sed -i "s#KEYSTORE_APK#${KEYSTORE_APK}#" renconstruct/release.toml
+          sed -i "s#KEYSTORE_PASS#${KEYSTORE_PASS}#" renconstruct/release.toml
+          sed -i "s#RENPY_VERSION#${RENPY_VERSION}#" renconstruct/release.toml
+          renconstruct build -c renconstruct/release.toml . ./dists
+        env:
+          KEYSTORE_APK: ${{ secrets.KEYSTORE_APK }}
+          KEYSTORE_PASS: ${{ secrets.KEYSTORE_PASS }}
+
+      - name: Upload build artifacts to storage
+        uses: ./.forgejo/actions/upload-file
+        id: upload-artifact
+        with:
+          ssh_host: ${{ secrets.STORAGE_SSH_HOST }}
+          ssh_port: ${{ secrets.STORAGE_SSH_PORT }}
+          ssh_user: ${{ secrets.STORAGE_SSH_USER }}
+          ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
+          storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
+          artifact_name: "*"
