@@ -184,7 +184,7 @@ jobs:
         env:
           MACOS_APPSTORE_KEY: ${{ secrets.MACOS_APPSTORE_KEY }}
           MACOS_NOTARIZE_DEVELOPER_ID: ${{ secrets.MACOS_NOTARIZE_DEVELOPER_ID }}
-          MACOS_NOTARIZE_CERTIFICATE: ${{ secret.MACOS_NOTARIZE_CERTIFICATE }}
+          MACOS_NOTARIZE_CERTIFICATE: ${{ secrets.MACOS_NOTARIZE_CERTIFICATE }}
 
       - name: Upload notarized macOS game build
         uses: ./.forgejo/actions/upload-file
