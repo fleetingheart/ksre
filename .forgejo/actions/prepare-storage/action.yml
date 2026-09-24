@@ -24,5 +24,6 @@ runs:
         eval $(ssh-agent -s)
         echo "${{ inputs.ssh_key }}" | base64 -d | ssh-add -
         mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+        chmod 600 ~/.ssh/config
         mkdir -p ./dists/
         ssh -p ${{ inputs.ssh_port }} ${{ inputs.ssh_user }}@${{ inputs.ssh_host }} -- "mkdir -p ${{ inputs.storage_prefix }}/${{ inputs.directory }}"
