@@ -2,7 +2,6 @@ name: Lint Ren'Py code
 
 on:
   workflow_dispatch:
-  push:
 
 env:
   SDL_AUDIODRIVER: dummy
