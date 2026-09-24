@@ -8,6 +8,8 @@ inputs:
     required: true
   ssh_user:
     required: true
+  ssh_key:
+    required: true
   storage_prefix:
     required: true
   directory:
