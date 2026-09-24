@@ -83,6 +83,10 @@ jobs:
       - build
 
     steps:
+      - name: Checkout the code
+        id: checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
       - name: Download Linux game build
         uses: ./.forgejo/actions/download-file
         id: download-artifact
@@ -158,6 +162,10 @@ jobs:
       - build
 
     steps:
+      - name: Checkout the code
+        id: checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
       - name: Download macOS game build
         uses: ./.forgejo/actions/download-file
         id: download-artifact
