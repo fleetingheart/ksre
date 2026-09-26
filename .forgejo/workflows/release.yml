@@ -1,0 +1,364 @@
+name: Release KS:RE
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+env:
+  SDL_AUDIODRIVER: dummy
+  SDL_VIDEODRIVER: dummy
+  RENPY_VERSION: 8.5.3
+
+concurrency:
+  group: ${{ forge.workflow-ref }}-build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: renkit-amd64
+    name: Build KS:RE release
+
+    steps:
+      - name: Checkout the code
+        id: checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          submodules: true
+      
+      - name: Determine current game version
+        uses: ./.forgejo/actions/semver
+        id: semver
+
+      - name: Prepare storage for build artifacts
+        uses: ./.forgejo/actions/prepare-storage
+        id: prepare-storage
+        with:
+          ssh_host: ${{ secrets.STORAGE_SSH_HOST }}
+          ssh_port: ${{ secrets.STORAGE_SSH_PORT }}
+          ssh_user: ${{ secrets.STORAGE_SSH_USER }}
+          ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
+          storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
+
+      - name: Build the game
+        id: build
+        run: |
+          set -euo pipefail
+
+          sed -i "s#0.0.0-localbuild#${{ steps.semver.outputs.CI_KSRE_VERSION }}#" game/config.rpy
+          sed -i "s#RENPY_VERSION#${RENPY_VERSION}#" renconstruct/release.toml
+          sed -i "s#KEYSTORE_APK#${KEYSTORE_APK}#" renconstruct/release.toml
+          sed -i "s#KEYSTORE_PASS#${KEYSTORE_PASS}#" renconstruct/release.toml
+
+          renconstruct build -c renconstruct/release.toml . ./dists
+
+          # Sanitize Android build name
+          mv ./dists/sh.fhs.ksre*.apk ./dists/sh.fhs.ksre-release.apk
+          # Sanitize web archive name
+          mv ./dists/web.zip ./dists/sh.fhs.ksre-web.zip
+        env:
+          KEYSTORE_APK: ${{ secrets.KEYSTORE_APK }}
+          KEYSTORE_PASS: ${{ secrets.KEYSTORE_PASS }}
+
+      - name: Upload build artifacts to storage
+        uses: ./.forgejo/actions/upload-file
+        id: upload-artifact
+        with:
+          ssh_host: ${{ secrets.STORAGE_SSH_HOST }}
+          ssh_port: ${{ secrets.STORAGE_SSH_PORT }}
+          ssh_user: ${{ secrets.STORAGE_SSH_USER }}
+          ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
+          storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
+          artifact_name: |
+            KSRE-win.zip
+            KSRE-linux.tar.bz2
+            KSRE-mac.zip
+            sh.fhs.ksre-release.apk
+            sh.fhs.ksre-web.zip
+
+  build-appimage:
+    strategy:
+      matrix:
+        info:
+        - arch: amd64
+        - arch: arm64
+
+    runs-on: renkit-${{ matrix.info.arch }}
+    name: Build KS:RE AppImage for ${{ matrix.info.arch }}
+    needs:
+      - build
+
+    steps:
+      - name: Checkout the code
+        id: checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          submodules: true
+      
+      - name: Determine current game version
+        uses: ./.forgejo/actions/semver
+        id: semver
+
+      - name: Download Linux game build
+        uses: ./.forgejo/actions/download-file
+        id: download-artifact
+        with:
+          ssh_host: ${{ secrets.STORAGE_SSH_HOST }}
+          ssh_port: ${{ secrets.STORAGE_SSH_PORT }}
+          ssh_user: ${{ secrets.STORAGE_SSH_USER }}
+          ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
+          storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
+          artifact_name: "KSRE-linux.tar.bz2"
+
+      - name: Build AppImage
+        id: build
+        run: |
+          set -euo pipefail
+
+          APP_DIR="build/appimage"
+          APP_IMAGE_TOOLKIT_URL="https://github.com/AppImage/appimagetool/releases/download/continuous/appimagetool-$(uname -m).AppImage"
+          APPIMAGETOOL="appimagetool-$(uname -m).AppImage"
+          TARBALL="./dists/KSRE-linux.tar.bz2"
+          EXECUTABLE_FILE="KSRE-linux/Katawa Shoujo Re-Engineered.sh"
+
+          mkdir -p $APP_DIR/opt ./dists
+
+          wget -O ./build/$APPIMAGETOOL $APP_IMAGE_TOOLKIT_URL
+          chmod +x ./build/$APPIMAGETOOL
+
+          tar -xjf $TARBALL -C $APP_DIR/opt
+          chmod +x "${APP_DIR}/opt/${EXECUTABLE_FILE}"
+
+          echo "Creating AppRun script..."
+          cat << 'EOF' > $APP_DIR/AppRun
+          #!/bin/bash
+          exec "${APPDIR}/opt/KSRE-linux/Katawa Shoujo Re-Engineered.sh"
+          EOF
+          chmod +x $APP_DIR/AppRun
+
+          echo "Creating .desktop file..."
+          cat << EOF > $APP_DIR/sh.fhs.ksre.desktop
+          [Desktop Entry]
+          Name=Katawa Shoujo: Re-Engineered
+          Exec="opt/KSRE-linux/Katawa Shoujo Re-Engineered.sh"
+          Icon=icon
+          Type=Application
+          StartupWMClass=Katawa Shoujo Re-Engineered
+          Categories=Game;AdventureGame
+          EOF
+
+          cp flatpak/sh.fhs.ksre.svg $APP_DIR/icon.svg
+
+          echo "Compiling AppImage..."
+          ARCH=$(uname -m) ./build/$APPIMAGETOOL --appimage-extract-and-run $APP_DIR ./dists/sh.fhs.ksre-$(uname -m).AppImage
+
+          echo "AppImage creation completed!"
+
+      - name: Upload build artifacts to storage
+        uses: ./.forgejo/actions/upload-file
+        id: upload-artifact
+        with:
+          ssh_host: ${{ secrets.STORAGE_SSH_HOST }}
+          ssh_port: ${{ secrets.STORAGE_SSH_PORT }}
+          ssh_user: ${{ secrets.STORAGE_SSH_USER }}
+          ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
+          storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
+          artifact_name: "*.AppImage"
+
+  notarize:
+    runs-on: renkit
+    name: Notarize macOS build
+    needs:
+      - build
+
+    steps:
+      - name: Checkout the code
+        id: checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          submodules: true
+      
+      - name: Determine current game version
+        uses: ./.forgejo/actions/semver
+        id: semver
+
+      - name: Download macOS game build
+        uses: ./.forgejo/actions/download-file
+        id: download-artifact
+        with:
+          ssh_host: ${{ secrets.STORAGE_SSH_HOST }}
+          ssh_port: ${{ secrets.STORAGE_SSH_PORT }}
+          ssh_user: ${{ secrets.STORAGE_SSH_USER }}
+          ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
+          storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
+          artifact_name: "KSRE-mac.zip"
+
+      - name: Notarize macOS app
+        id: build
+        run: |
+          set -euo pipefail
+
+          mkdir ./certs
+          echo "${MACOS_APPSTORE_KEY}" | base64 -d > ./certs/app-store-key.json
+          echo "${MACOS_NOTARIZE_DEVELOPER_ID}" | base64 -d > ./certs/developerID_application.cer
+          echo "${MACOS_NOTARIZE_CERTIFICATE}" | base64 -d > ./certs/private-key.pem
+
+          renotize full-run ./dists/KSRE-mac.zip sh.fhs.ksre ./certs/private-key.pem ./certs/developerID_application.cer ./certs/app-store-key.json
+        env:
+          MACOS_APPSTORE_KEY: ${{ secrets.MACOS_APPSTORE_KEY }}
+          MACOS_NOTARIZE_DEVELOPER_ID: ${{ secrets.MACOS_NOTARIZE_DEVELOPER_ID }}
+          MACOS_NOTARIZE_CERTIFICATE: ${{ secrets.MACOS_NOTARIZE_CERTIFICATE }}
+
+      - name: Upload notarized macOS game build
+        uses: ./.forgejo/actions/upload-file
+        id: upload-artifact
+        with:
+          ssh_host: ${{ secrets.STORAGE_SSH_HOST }}
+          ssh_port: ${{ secrets.STORAGE_SSH_PORT }}
+          ssh_user: ${{ secrets.STORAGE_SSH_USER }}
+          ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
+          storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
+          artifact_name: "KSRE-mac.zip"
+
+  github-release:
+    runs-on: renkit
+    name: Upload release to Github
+    needs:
+      - build
+      - build-appimage
+      - notarize
+
+    steps:
+      - name: Checkout the code
+        id: checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          submodules: true
+      
+      - name: Determine current game version
+        uses: ./.forgejo/actions/semver
+        id: semver
+
+      - name: Download binary release artifacts
+        uses: ./.forgejo/actions/download-file
+        id: download-artifacts
+        with:
+          ssh_host: ${{ secrets.STORAGE_SSH_HOST }}
+          ssh_port: ${{ secrets.STORAGE_SSH_PORT }}
+          ssh_user: ${{ secrets.STORAGE_SSH_USER }}
+          ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
+          storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
+          artifact_name: |
+            KSRE-win.zip
+            KSRE-linux.tar.bz2
+            KSRE-mac.zip
+            sh.fhs.ksre-release.apk
+            sh.fhs.ksre-aarch64.AppImage
+            sh.fhs.ksre-x86_64.AppImage
+
+      - name: Create Github release
+        uses: docker://code.vtsk.online/vtsk/github-release:0.4.0
+        id: github-release
+        env:
+          CI_COMMIT_TAG: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
+          RELEASER_API_KEY: ${{ secrets.GH_RELEASE_TOKEN }}
+          RELEASER_OWNER: fleetingheart
+          RELEASER_REPO: ksre
+          RELEASER_STORAGE: "./dists/"
+          RELEASER_DRAFT: "true"
+          RELEASER_TITLE: "Next release"
+          RELEASER_DESCRIPTION: "Next release notes"
+
+  web-release:
+    runs-on: renkit
+    name: Deploy web version
+    needs:
+      - build
+      - build-appimage
+      - notarize
+
+    steps:
+      - name: Checkout the code
+        id: checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          submodules: true
+      
+      - name: Determine current game version
+        uses: ./.forgejo/actions/semver
+        id: semver
+
+      - name: Download web archive
+        uses: ./.forgejo/actions/download-file
+        id: download-artifacts
+        with:
+          ssh_host: ${{ secrets.STORAGE_SSH_HOST }}
+          ssh_port: ${{ secrets.STORAGE_SSH_PORT }}
+          ssh_user: ${{ secrets.STORAGE_SSH_USER }}
+          ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
+          storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
+          artifact_name: "sh.fhs.ksre-web.zip"
+      
+      - name: Upload web archive for deployment
+        id: upload-web
+        run: |
+          set -euo pipefail
+
+          eval $(ssh-agent -s)
+          echo "${SSH_KEY}" | base64 -d | ssh-add -
+
+          mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+          chmod 600 ~/.ssh/config
+
+          echo "Uploading web release..."
+          scp -P ${SSH_PORT} ./dists/sh.fhs.ksre-web.zip "${SSH_USER}@${SSH_HOST}:${DESTINATION}/"
+          echo "Extracting web release..."
+          ssh -p ${SSH_PORT} ${SSH_USER}@${SSH_HOST} -- "mkdir -p ${DESTINATION}/${VERSION} && cd ${DESTINATION}/${VERSION} && unzip ../sh.fhs.ksre-web.zip && rm ../sh.fhs.ksre-web.zip"
+        env:
+          SSH_HOST: ${{ secrets.WEB_SSH_HOST }}
+          SSH_PORT: ${{ secrets.WEB_SSH_PORT }}
+          SSH_USER: ${{ secrets.WEB_SSH_USER }}
+          SSH_KEY: ${{ secrets.WEB_SSH_KEY }}
+          DESTINATION: ${{ secrets.WEB_DESTINATION_DIRECTORY }}
+          VERSION: ${{ steps.semver.outputs.CI_KSRE_VERSION }}
+      
+      - name: Deploy Caddy configuration
+        id: deploy-web
+        run: |
+          set -euo pipefail
+
+          eval $(ssh-agent -s)
+          echo "${SSH_KEY}" | base64 -d | ssh-add -
+
+          mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+          chmod 600 ~/.ssh/config
+
+          echo "Rendering the config..."
+          export WEB_ROOT=${WEB_ROOT_PREFIX}/${VERSION}/
+          cat caddy.conf.template | envsubst > ${WEB_DOMAIN}.conf
+          echo "Uploading the config..."
+          scp -P ${SSH_PORT} ${WEB_DOMAIN}.conf ${SSH_USER}@${SSH_HOST}:${WEB_CONFIG_PREFIX}/
+        env:
+          SSH_HOST: ${{ secrets.WEB_SSH_HOST }}
+          SSH_PORT: ${{ secrets.WEB_SSH_PORT }}
+          SSH_USER: ${{ secrets.WEB_SSH_USER }}
+          SSH_KEY: ${{ secrets.WEB_SSH_KEY }}
+          VERSION: ${{ steps.semver.outputs.CI_KSRE_VERSION }}
+          WEB_DOMAIN: ${{ secrets.WEB_DOMAIN }}
+          WEB_ROOT_PREFIX: ${{ secrets.WEB_ROOT_PREFIX }}
+          WEB_CONFIG_PREFIX: ${{ secrets.WEB_CONFIG_PREFIX }}
+          WEB_LOG_PATH: ${{ secrets.WEB_LOG_PATH }}
+          WEB_TLS_EMAIL: ${{ secrets.WEB_TLS_EMAIL }}

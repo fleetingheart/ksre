@@ -1,0 +1,36 @@
+name: Lint Ren'Py code
+
+on:
+  workflow_dispatch:
+  push:
+
+env:
+  SDL_AUDIODRIVER: dummy
+  SDL_VIDEODRIVER: dummy
+  RENPY_VERSION: 8.5.3
+
+concurrency:
+  group: ${{ forge.workflow-ref }}-lint
+  cancel-in-progress: true
+
+jobs:
+  lint:
+    runs-on: renkit
+    name: Lint Ren'Py code
+
+    steps:
+      - name: Checkout the code
+        id: checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+      
+      - name: Determine current game version
+        uses: ./.forgejo/actions/semver
+        id: semver
+
+      - name: Lint Ren'Py code
+        id: lint
+        run: |
+          renutil launch -v ${RENPY_VERSION} -d . -- lint --error-code --no-orphan-tl
+        continue-on-error: true

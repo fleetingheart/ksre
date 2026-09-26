@@ -1,0 +1,47 @@
+name: Upload artifact to SSH storage
+description: This snippet uploads named artifact to SSH storage.
+
+inputs:
+  ssh_host:
+    required: true
+  ssh_port:
+    required: true
+  ssh_user:
+    required: true
+  ssh_key:
+    required: true
+  storage_prefix:
+    required: true
+  directory:
+    required: true
+  artifact_name:
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - name: Upload artifact
+      id: upload-artifact
+      env:
+        ARTIFACT_NAME: ${{ inputs.artifact_name }}
+      shell: bash
+      run: |
+        set -euo pipefail
+
+        eval $(ssh-agent -s)
+        echo "${{ inputs.ssh_key }}" | base64 -d | ssh-add -
+
+        mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+        chmod 600 ~/.ssh/config
+
+        mapfile -t artifacts < <(printf '%s\n' "$ARTIFACT_NAME" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' -e '/^$/d')
+
+        if [ "${#artifacts[@]}" -eq 0 ]; then
+          echo "::error::No artifact_name provided" >&2
+          exit 1
+        fi
+
+        for artifact in "${artifacts[@]}"; do
+          echo "Uploading: ${artifact}"
+          scp -P ${{ inputs.ssh_port }} ./dists/${artifact} "${{ inputs.ssh_user }}@${{ inputs.ssh_host }}:${{ inputs.storage_prefix }}/${{ inputs.directory }}"
+        done

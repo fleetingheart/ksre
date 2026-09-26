@@ -1,0 +1,49 @@
+name: Download artifact from SSH storage
+description: This snippet downloads named artifacts from SSH storage.
+
+inputs:
+  ssh_host:
+    required: true
+  ssh_port:
+    required: true
+  ssh_user:
+    required: true
+  ssh_key:
+    required: true
+  storage_prefix:
+    required: true
+  directory:
+    required: true
+  artifact_name:
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - name: Download artifact
+      id: download-artifact
+      shell: bash
+      env:
+        ARTIFACT_NAME: ${{ inputs.artifact_name }}
+      run: |
+        set -euo pipefail
+
+        eval $(ssh-agent -s)
+        echo "${{ inputs.ssh_key }}" | base64 -d | ssh-add -
+
+        mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+        chmod 600 ~/.ssh/config
+
+        mkdir -p ./dists/
+
+        mapfile -t artifacts < <(printf '%s\n' "$ARTIFACT_NAME" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' -e '/^$/d')
+
+        if [ "${#artifacts[@]}" -eq 0 ]; then
+          echo "::error::No artifact_name provided" >&2
+          exit 1
+        fi
+
+        for artifact in "${artifacts[@]}"; do
+          echo "Downloading: ${artifact}"
+          scp -P "${{ inputs.ssh_port }}" "${{ inputs.ssh_user }}@${{ inputs.ssh_host }}:${{ inputs.storage_prefix }}/${{ inputs.directory }}/${artifact}" ./dists/
+        done

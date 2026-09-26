@@ -1,0 +1,35 @@
+name: Get semantic version
+description: This snippet gets semantic version from the current git commit and passes it into the environment.
+
+runs:
+  using: "composite"
+  steps:
+    - name: Determine game version
+      id: semver
+      shell: bash
+      run: |
+        set -euo pipefail
+
+        case "${FORGEJO_REF}" in
+            refs/tags/*)
+                TAG="${FORGEJO_REF#refs/tags/}"
+                VERSION="${TAG}"
+                GAME_VERSION="${TAG#v}"
+                ;;
+            *)
+                PREVIOUS_TAG="$(git -c 'versionsort.suffix=-' \
+                                  tag --list 'v*.*.*' --sort=-v:refname | head -n 1)"
+                PREVIOUS_TAG="${PREVIOUS_TAG:-v0.0.0}"
+
+                BASE="${PREVIOUS_TAG#v}"
+                BASE="${BASE%%-*}"
+                IFS=. read -r MAJOR MINOR PATCH <<< "${BASE}"
+                PATCH=$((PATCH + 1))
+
+                VERSION="v${MAJOR}.${MINOR}.${PATCH}-${FORGEJO_SHA:0:10}"
+                GAME_VERSION="${MAJOR}.${MINOR}.${PATCH}-${FORGEJO_SHA:0:4}"
+                ;;
+        esac
+
+        echo "CI_PRETTY_VERSION=${VERSION}" | tee -a "${FORGEJO_OUTPUT}"
+        echo "CI_KSRE_VERSION=${GAME_VERSION}" | tee -a "${FORGEJO_OUTPUT}"
