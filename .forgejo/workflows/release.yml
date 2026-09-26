@@ -1,8 +1,9 @@
-name: Build KS:RE
+name: Release KS:RE
 
 on:
-  workflow_dispatch:
   push:
+    tags:
+      - 'v*'
 
 env:
   SDL_AUDIODRIVER: dummy
