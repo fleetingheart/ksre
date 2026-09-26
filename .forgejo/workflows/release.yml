@@ -50,7 +50,7 @@ jobs:
         uses: docker://code.vtsk.online/vtsk/github-release:0.4.0
         id: github-release
         env:
-          RELEASER_API_KEY: ${{ secrets.GITHUB_TOKEN }}
+          RELEASER_API_KEY: ${{ secrets.GH_RELEASE_TOKEN }}
           RELEASER_OWNER: fleetingheart
           RELEASER_REPO: ksre
           RELEASER_STORAGE: "./dists/"
