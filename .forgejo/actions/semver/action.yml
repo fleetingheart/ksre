@@ -6,6 +6,7 @@ runs:
   steps:
     - name: Determine game version
       id: semver
+      shell: bash
       run: |
         set -euo pipefail
 

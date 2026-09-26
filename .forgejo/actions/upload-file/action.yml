@@ -22,6 +22,7 @@ runs:
   steps:
     - name: Upload artifact
       id: upload-artifact
+      shell: bash
       run: |
         set -euo pipefail
 

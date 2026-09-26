@@ -22,6 +22,7 @@ runs:
   steps:
     - name: Download artifact
       id: download-artifact
+      shell: bash
       run: |
         set -euo pipefail
 

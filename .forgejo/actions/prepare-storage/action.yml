@@ -20,6 +20,7 @@ runs:
   steps:
     - name: Prepare storage
       id: prepare-storage
+      shell: bash
       run: |
         set -euo pipefail
 
