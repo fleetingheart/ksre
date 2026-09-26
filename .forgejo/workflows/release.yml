@@ -230,7 +230,7 @@ jobs:
 
   github-release:
     runs-on: renkit
-    name: Upload Github Release
+    name: Upload release to Github
     needs:
       - build
       - build-appimage
@@ -270,6 +270,7 @@ jobs:
         uses: docker://code.vtsk.online/vtsk/github-release:0.4.0
         id: github-release
         env:
+          CI_COMMIT_TAG: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
           RELEASER_API_KEY: ${{ secrets.GH_RELEASE_TOKEN }}
           RELEASER_OWNER: fleetingheart
           RELEASER_REPO: ksre
@@ -277,3 +278,86 @@ jobs:
           RELEASER_DRAFT: "true"
           RELEASER_TITLE: "Next release"
           RELEASER_DESCRIPTION: "Next release notes"
+
+  web-release:
+    runs-on: renkit
+    name: Deploy web version
+    needs:
+      - build
+      - build-appimage
+      - notarize
+
+    steps:
+      - name: Checkout the code
+        id: checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          submodules: true
+      
+      - name: Determine current game version
+        uses: ./.forgejo/actions/semver
+        id: semver
+
+      - name: Download web archive
+        uses: ./.forgejo/actions/download-file
+        id: download-artifacts
+        with:
+          ssh_host: ${{ secrets.STORAGE_SSH_HOST }}
+          ssh_port: ${{ secrets.STORAGE_SSH_PORT }}
+          ssh_user: ${{ secrets.STORAGE_SSH_USER }}
+          ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
+          storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
+          artifact_name: "sh.fhs.ksre-web.zip"
+      
+      - name: Upload web archive for deployment
+        id: upload-web
+        run: |
+          set -euo pipefail
+
+          eval $(ssh-agent -s)
+          echo "${SSH_KEY}" | base64 -d | ssh-add -
+
+          mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+          chmod 600 ~/.ssh/config
+
+          echo "Uploading web release..."
+          scp -P ${SSH_PORT} ./dists/sh.fhs.ksre-web.zip "${SSH_USER}@${SSH_HOST}:${DESTINATION}/
+          echo "Extracting web release..."
+          ssh -p ${SSH_PORT} ${SSH_USER}@${SSH_HOST} -- "mkdir -p ${DESTINATION}/${VERSION} && cd ${DESTINATION}/${VERSION} && unzip ../sh.fhs.ksre-web.zip && rm ../sh.fhs.ksre-web.zip"
+        env:
+          SSH_HOST: ${{ secrets.WEB_SSH_HOST }}
+          SSH_PORT: ${{ secrets.WEB_SSH_PORT }}
+          SSH_USER: ${{ secrets.WEB_SSH_USER }}
+          SSH_KEY: ${{ secrets.WEB_SSH_KEY }}
+          DESTINATION: ${{ secrets.WEB_DESTINATION_DIRECTORY }}
+          VERSION: ${{ steps.semver.outputs.CI_KSRE_VERSION }}
+      
+      - name: Deploy Caddy configuration
+        id: deploy-web
+        run: |
+          set -euo pipefail
+
+          eval $(ssh-agent -s)
+          echo "${SSH_KEY}" | base64 -d | ssh-add -
+
+          mkdir -p ~/.ssh && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+          chmod 600 ~/.ssh/config
+
+          echo "Rendering the config..."
+          export WEB_ROOT=${WEB_ROOT_PREFIX}/${VERSION}/
+          cat caddy.conf.template | envsubst > ${WEB_DOMAIN}.conf
+          echo "Uploading the config..."
+          scp -P ${SSH_PORT} ${WEB_DOMAIN}.conf ${SSH_USER}@$${SSH_HOST}:${WEB_CONFIG_PREFIX}/
+        env:
+          SSH_HOST: ${{ secrets.WEB_SSH_HOST }}
+          SSH_PORT: ${{ secrets.WEB_SSH_PORT }}
+          SSH_USER: ${{ secrets.WEB_SSH_USER }}
+          SSH_KEY: ${{ secrets.WEB_SSH_KEY }}
+          VERSION: ${{ steps.semver.outputs.CI_KSRE_VERSION }}
+          WEB_DOMAIN: ${{ secrets.WEB_DOMAIN }}
+          WEB_ROOT_PREFIX: ${{ secrets.WEB_ROOT_PREFIX }}
+          WEB_CONFIG_PREFIX: ${{ secrets.WEB_CONFIG_PREFIX }}
+          WEB_LOG_PATH: ${{ secrets.WEB_LOG_PATH }}
+          WEB_TLS_EMAIL: ${{ secrets.WEB_TLS_EMAIL }}
