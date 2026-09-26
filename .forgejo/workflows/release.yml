@@ -323,7 +323,7 @@ jobs:
           chmod 600 ~/.ssh/config
 
           echo "Uploading web release..."
-          scp -P ${SSH_PORT} ./dists/sh.fhs.ksre-web.zip "${SSH_USER}@${SSH_HOST}:${DESTINATION}/
+          scp -P ${SSH_PORT} ./dists/sh.fhs.ksre-web.zip "${SSH_USER}@${SSH_HOST}:${DESTINATION}/"
           echo "Extracting web release..."
           ssh -p ${SSH_PORT} ${SSH_USER}@${SSH_HOST} -- "mkdir -p ${DESTINATION}/${VERSION} && cd ${DESTINATION}/${VERSION} && unzip ../sh.fhs.ksre-web.zip && rm ../sh.fhs.ksre-web.zip"
         env:
