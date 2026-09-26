@@ -24,6 +24,7 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 0
+          submodules: true
       
       - name: Determine current game version
         uses: ./.forgejo/actions/semver
@@ -51,6 +52,9 @@ jobs:
           sed -i "s#KEYSTORE_PASS#${KEYSTORE_PASS}#" renconstruct/release.toml
 
           renconstruct build -c renconstruct/release.toml . ./dists
+
+          # Sanitize Android build name
+          mv ./dists/sh.fhs.ksre*.apk ./dists/sh.fhs.ksre-release.apk
         env:
           KEYSTORE_APK: ${{ secrets.KEYSTORE_APK }}
           KEYSTORE_PASS: ${{ secrets.KEYSTORE_PASS }}
@@ -66,9 +70,6 @@ jobs:
           storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
           directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
           artifact_name: "*"
-    outputs:
-      CI_PRETTY_VERSION: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
-      CI_KSRE_VERSION: ${{ steps.semver.outputs.CI_KSRE_VERSION }}
 
   build-appimage:
     strategy:
@@ -87,7 +88,12 @@ jobs:
         id: checkout
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
+          fetch-depth: 0
           submodules: true
+      
+      - name: Determine current game version
+        uses: ./.forgejo/actions/semver
+        id: semver
 
       - name: Download Linux game build
         uses: ./.forgejo/actions/download-file
@@ -98,7 +104,7 @@ jobs:
           ssh_user: ${{ secrets.STORAGE_SSH_USER }}
           ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
           storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
-          directory: ${{ needs.build.outputs.CI_PRETTY_VERSION }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
           artifact_name: "KSRE-linux.tar.bz2"
 
       - name: Build AppImage
@@ -154,7 +160,7 @@ jobs:
           ssh_user: ${{ secrets.STORAGE_SSH_USER }}
           ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
           storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
-          directory: ${{ needs.build.outputs.CI_PRETTY_VERSION }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
           artifact_name: "*.AppImage"
 
   notarize:
@@ -167,6 +173,13 @@ jobs:
       - name: Checkout the code
         id: checkout
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          submodules: true
+      
+      - name: Determine current game version
+        uses: ./.forgejo/actions/semver
+        id: semver
 
       - name: Download macOS game build
         uses: ./.forgejo/actions/download-file
@@ -177,7 +190,7 @@ jobs:
           ssh_user: ${{ secrets.STORAGE_SSH_USER }}
           ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
           storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
-          directory: ${{ needs.build.outputs.CI_PRETTY_VERSION }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
           artifact_name: "KSRE-mac.zip"
 
       - name: Notarize macOS app
@@ -205,7 +218,7 @@ jobs:
           ssh_user: ${{ secrets.STORAGE_SSH_USER }}
           ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
           storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
-          directory: ${{ needs.build.outputs.CI_PRETTY_VERSION }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
           artifact_name: "KSRE-mac.zip"
 
   trigger-release:
@@ -218,5 +231,3 @@ jobs:
     steps:
       - name: Trigger release
         uses: ./.forgejo/workflows/release.yml
-        with:
-          VERSION: ${{ needs.build.outputs.CI_PRETTY_VERSION }}

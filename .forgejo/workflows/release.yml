@@ -17,6 +17,43 @@ jobs:
     name: Upload Github Release
 
     steps:
-      - name: Echo that it done something useful
-        runs: |
-          echo "CI_PRETTY_VERSION=${{ inputs.VERSION }}"
+      - name: Checkout the code
+        id: checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          submodules: true
+      
+      - name: Determine current game version
+        uses: ./.forgejo/actions/semver
+        id: semver
+
+      - name: Download binary release artifacts
+        uses: ./.forgejo/actions/download-file
+        id: download-artifacts
+        with:
+          ssh_host: ${{ secrets.STORAGE_SSH_HOST }}
+          ssh_port: ${{ secrets.STORAGE_SSH_PORT }}
+          ssh_user: ${{ secrets.STORAGE_SSH_USER }}
+          ssh_key: ${{ secrets.STORAGE_SSH_KEY }}
+          storage_prefix: ${{ secrets.STORAGE_DIRECTORY_PREFIX }}
+          directory: ${{ steps.semver.outputs.CI_PRETTY_VERSION }}
+          artifact_name: |
+            KSRE-win.zip
+            KSRE-linux.tar.bz2
+            KSRE-mac.zip
+            sh.fhs.ksre-release.apk
+            sh.fhs.ksre-aarch64.AppImage
+            sh.fhs.ksre-x86_64.AppImage
+
+      - name: Create Github release
+        uses: docker://code.vtsk.online/vtsk/github-release:0.4.0
+        id: github-release
+        env:
+          RELEASER_API_KEY: ${{ secrets.GITHUB_TOKEN }}
+          RELEASER_OWNER: fleetingheart
+          RELEASER_REPO: ksre
+          RELEASER_STORAGE: "./dists/"
+          RELEASER_DRAFT: "true"
+          RELEASER_TITLE: "Next release"
+          RELEASER_DESCRIPTION: "Next release notes"
