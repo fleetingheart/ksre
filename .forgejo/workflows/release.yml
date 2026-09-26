@@ -349,7 +349,7 @@ jobs:
           export WEB_ROOT=${WEB_ROOT_PREFIX}/${VERSION}/
           cat caddy.conf.template | envsubst > ${WEB_DOMAIN}.conf
           echo "Uploading the config..."
-          scp -P ${SSH_PORT} ${WEB_DOMAIN}.conf ${SSH_USER}@$${SSH_HOST}:${WEB_CONFIG_PREFIX}/
+          scp -P ${SSH_PORT} ${WEB_DOMAIN}.conf ${SSH_USER}@${SSH_HOST}:${WEB_CONFIG_PREFIX}/
         env:
           SSH_HOST: ${{ secrets.WEB_SSH_HOST }}
           SSH_PORT: ${{ secrets.WEB_SSH_PORT }}
