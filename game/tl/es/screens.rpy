@@ -302,3 +302,23 @@ translate es strings:
     # game/screens.rpy:506
     old "Are you sure you want to\ndiscard your progress?"
     new "¿Está seguro de querer\ndesechar su progreso?"
+
+    # game/screens.rpy:70
+    old "Menu"
+    new "Menú"
+
+    # game/screens.rpy:290
+    old "Requires the 18+ content patch"
+    new "Requiere el parche de contenido para mayores de 18 años"
+
+    # game/screens.rpy:292
+    old "Scanning for adult patch..."
+    new "Buscando el parche para adultos..."
+
+    # game/screens.rpy:302
+    old "Restart the game to finish installing mods."
+    new "Reinicia el juego para terminar de instalar los mods."
+
+    # game/screens.rpy:330
+    old "Show menu button"
+    new "Mostrar el botón del menú"

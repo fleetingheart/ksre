@@ -12786,7 +12786,7 @@ translate es strings:
 
     # game/script-a4-rin.rpy:1233
     old "But aren't you happy people are interested in your paintings?"
-    new "¿Pero que no estás feliz de que la gente esté interesada en tus pinturas?"
+    new "{size=-8}¿Pero que no estás feliz de que la gente esté interesada en tus pinturas?{/size}"
 
     # game/script-a4-rin.rpy:1238
     old "But if you found someone like that, then what?"

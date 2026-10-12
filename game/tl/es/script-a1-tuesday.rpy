@@ -4622,7 +4622,7 @@ translate es strings:
 
     # game/script-a1-tuesday.rpy:1002
     old "It's a trap, it's smarter to play defensively here."
-    new "Es una trampa, es más sensato jugar de manera defensiva aquí."
+    new "{size=-1}Es una trampa, es más sensato jugar de manera defensiva aquí.{/size}"
 
     # game/script-a1-tuesday.rpy:1664
     old "It takes too many seconds to collect myself and remember what I walked up to her for."
@@ -4630,7 +4630,7 @@ translate es strings:
 
     # game/script-a1-tuesday.rpy:1664
     old "Hi! I'm new here. Hisao Nakai. We're in the same class."
-    new "¡Qué tal! Soy nuevo. Hisao Nakai. Estamos en el mismo grupo."
+    new "{size=-1}¡Qué tal! Soy nuevo. Hisao Nakai. Estamos en el mismo grupo.{/size}"
 
     # game/script-a1-tuesday.rpy:1664
     old "I'm sorry, I didn't mean to startle you."

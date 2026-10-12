@@ -10173,3 +10173,15 @@ translate es strings:
     # game/script-a1-sunday.rpy:5328
     old "AHHHHHHHHHHHHH!"
     new "¡AAAAAAAAAAAAHH!"
+
+# game/script-a1-sunday.rpy:3026
+translate es a1_sunday_movement_d41d8cd9:
+
+    # nvl clear
+    nvl clear
+
+# game/script-a1-sunday.rpy:3046
+translate es a1_sunday_movement_d41d8cd9_1:
+
+    # nvl clear
+    nvl clear

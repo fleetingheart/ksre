@@ -9,3 +9,9 @@ translate es strings:
     # game/labels.rpy:300
     old "In honor of XPND.dev\nThe man, who united all of us,\nand whose journey ended here...\nand who will be in our {i}fleeting{/i} hearts forever..."
     new "En honor a XPND.dev\nEl hombre que nos unió a todos,\ny cuyo viaje terminó aquí...\ny que permanecerá en nuestros {i}efímeros{/i} corazones para siempre..."
+
+# game/labels.rpy:363
+translate es mod_content_missing_d506604e:
+
+    # "The content this save or menu entry points to is not available."
+    "El contenido al que apunta esta partida o entrada del menú no está disponible."
